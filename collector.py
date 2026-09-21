@@ -596,24 +596,25 @@ def two_sentence_lead(
     return t[:280].rstrip()
 
 
-def translate_text(
-    text: str
-) -> str:
-
+def translate_text(text: str) -> str:
     if not text:
         return ""
 
     if not HAS_TRANSLATOR:
+        print("[ERROR] deep-translator is NOT installed/importable")
         return text
 
     try:
-
-        return GoogleTranslator(
+        translated = GoogleTranslator(
             source="auto",
             target="en"
         ).translate(text)
 
-    except Exception:
+        print(f"[TRANSLATE] {text[:50]} -> {translated[:50]}")
+        return translated
+
+    except Exception as e:
+        print(f"[ERROR] Translation failed: {type(e).__name__}: {e}")
         return text
 
 
