@@ -1,10 +1,240 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-21T16:16:19Z",
+  "updated_at_utc": "2026-09-21T17:00:10Z",
   "keep_hours": 48,
-  "count": 229,
+  "count": 241,
   "articles": [
+    {
+      "id": "2daee56c1bcaa40329f0691a1841db7fe31f6c01",
+      "fingerprint": "ea2f63cddb088dc41078a8c49898aca42cc2fd2f",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-carreras-domingo-dva-tenori-brno-315868",
+      "published_utc": "2026-09-21T16:59:00Z",
+      "title_en": "Dva tenoři. V nové brněnské hale zazpívají Carreras a Domingo",
+      "lead_en": "Operní pěvci José Carreras a Plácido Domingo vystoupí 20. ledna 2027 v brněnské T Areně.",
+      "title_raw": "Dva tenoři. V nové brněnské hale zazpívají Carreras a Domingo",
+      "lead_raw": "Operní pěvci José Carreras a Plácido Domingo vystoupí 20. ledna 2027 v brněnské T Areně.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "fc9a388f4b8c84864fa8d5a6bb5df7a0b0cbbb5b",
+      "fingerprint": "de0feb1800667054b58e390dbcaac72909d233a7",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-jemen-pozadal-trumpa-o-pomoc-proti-hutium-prezident-vojenskou-podporu-neslibil-315866",
+      "published_utc": "2026-09-21T16:47:47Z",
+      "title_en": "Jemen požádal Trumpa o pomoc proti Hútíům, prezident vojenskou podporu neslíbil",
+      "lead_en": "Představitel jemenské prezidentské rady požádal Donalda Trumpa o vojenskou pomoc v boji proti hútíjským povstalcům. Trump mu v telefonátu vyjádřil podporu, žádné konkrétní závazky však neslíbil.",
+      "title_raw": "Jemen požádal Trumpa o pomoc proti Hútíům, prezident vojenskou podporu neslíbil",
+      "lead_raw": "Představitel jemenské prezidentské rady požádal Donalda Trumpa o vojenskou pomoc v boji proti hútíjským povstalcům. Trump mu v telefonátu vyjádřil podporu, žádné konkrétní závazky však neslíbil.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ec2025557d1ac1085e77a5efb07470f88ba9752d",
+      "fingerprint": "ace2bdeb756f908c351957c012d530c046092dc9",
+      "source": "Radio Prague International (EN)",
+      "url": "https://english.radio.cz/president-pavel-commemorates-victims-911-attacks-new-york-8897932",
+      "published_utc": "2026-09-21T16:44:00Z",
+      "title_en": "President Pavel commemorates victims of 9/11 attacks in New York",
+      "lead_en": "President Pavel commemorates victims of 9/11 attacks in New York",
+      "title_raw": "President Pavel commemorates victims of 9/11 attacks in New York",
+      "lead_raw": "President Pavel commemorates victims of 9/11 attacks in New York",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "f6e24c058f60dedc7c9d81b6a3f652c5ed7e4656",
+      "fingerprint": "e8fa1df65b661ac87265d9e0fa8905434ca1cec8",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/tmbk-tmbk-fico-natrel-pavla-a-dal-zadoni-o-mir-315865",
+      "published_utc": "2026-09-21T16:42:19Z",
+      "title_en": "TMBK: Fico natřel Pavla a dál žadoní o mír",
+      "lead_en": "Fico označil českého prezidenta za generála, který by rád bojoval, a zopakoval, že Západ podle něj hledá záminky pro válku s Ruskem. TMBK pro SZ.",
+      "title_raw": "TMBK: Fico natřel Pavla a dál žadoní o mír",
+      "lead_raw": "Fico označil českého prezidenta za generála, který by rád bojoval, a zopakoval, že Západ podle něj hledá záminky pro válku s Ruskem. TMBK pro SZ.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "4478ed5ee4edb638512c739b21a963a28a45ea68",
+      "fingerprint": "7cfe70fbfd7952bfbb4c036a84da29bc95368c83",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/kultura/paramount-se-dohodl-na-urovnani-zaloby-branici-koupi-warner-bros-discovery-377821",
+      "published_utc": "2026-09-21T16:39:07Z",
+      "title_en": "Paramount se dohodl na urovnání žaloby bránící koupi Warner Bros. Discovery",
+      "lead_en": "Americký mediální gigant Paramount Skydance se dohodl s Kalifornií a dalšími státy USA o urovnání žaloby, jejímž cílem bylo zablokovat jeho dohodu o převzetí konkurenta Warner Bros. Discovery za 110 miliard dolarů (zhruba 2,3 bilionu korun).",
+      "title_raw": "Paramount se dohodl na urovnání žaloby bránící koupi Warner Bros. Discovery",
+      "lead_raw": "Americký mediální gigant Paramount Skydance se dohodl s Kalifornií a dalšími státy USA o urovnání žaloby, jejímž cílem bylo zablokovat jeho dohodu o převzetí konkurenta Warner Bros. Discovery za 110 miliard dolarů (zhruba 2,3 bilionu korun).",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "9a4ac9e0656ade23c6a63ed8229d6f01b6ab6bc0",
+      "fingerprint": "19b252d793b44fd8164047a16947e03a0012f435",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/kultura-tv-streaming-pet-desitek-let-ve-filmu-divadle-i-v-televizi-daniela-kolarova-slavi-osmdesatku-40598816",
+      "published_utc": "2026-09-21T16:32:00Z",
+      "title_en": "Pět desítek let ve filmu, divadle i v televizi. Daniela Kolářová slaví osmdesátku",
+      "lead_en": "Už několik generací českých diváků provází filmové a divadelní umění herečky Daniely Kolářové. Jen málokdo neviděl Léto s kovbojem, Noc na Karlštejně, první český sitcom Taková normální rodinka nebo některou z jejích divadelních rolí.",
+      "title_raw": "Pět desítek let ve filmu, divadle i v televizi. Daniela Kolářová slaví osmdesátku",
+      "lead_raw": "Už několik generací českých diváků provází filmové a divadelní umění herečky Daniely Kolářové. Jen málokdo neviděl Léto s kovbojem, Noc na Karlštejně, první český sitcom Taková normální rodinka nebo některou z jejích divadelních rolí.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "01160f75d1f376ad6b7e3e6c0eb5a41cfeeb508d",
+      "fingerprint": "f4f406acf62c76c7dfd5afd661a0a8a2fe32c2df",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-zabery-riskantniho-zakroku-dokresluji-potize-jez-trapi-ukrajinske-piloty-315825",
+      "published_utc": "2026-09-21T16:30:00Z",
+      "title_en": "Záběry riskantního zákroku dokreslují potíže, jež trápí ukrajinské piloty",
+      "lead_en": "Ukrajinští piloti jsou nuceni k sestřelování ruských dronů používat kanóny, což pro ně znamená riziko. Kyjev nadále zoufale volá po dodávkách munice jak do systémů protivzdušné obrany, tak i pro svá západní letadla.",
+      "title_raw": "Záběry riskantního zákroku dokreslují potíže, jež trápí ukrajinské piloty",
+      "lead_raw": "Ukrajinští piloti jsou nuceni k sestřelování ruských dronů používat kanóny, což pro ně znamená riziko. Kyjev nadále zoufale volá po dodávkách munice jak do systémů protivzdušné obrany, tak i pro svá západní letadla.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "6b73f767ca405a4eb09feaba51f89421250d2eac",
+      "fingerprint": "14bc902b71e22a37b8f189e1520ee348f6f7627d",
+      "source": "Radio Prague International (EN)",
+      "url": "https://english.radio.cz/government-approves-pension-increases-next-year-8897931",
+      "published_utc": "2026-09-21T16:30:00Z",
+      "title_en": "Government approves pension increases for next year",
+      "lead_en": "Government approves pension increases for next year",
+      "title_raw": "Government approves pension increases for next year",
+      "lead_raw": "Government approves pension increases for next year",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "da5831e2dd07aac6662bcfde8738561d8ccc0e1a",
+      "fingerprint": "9a1ccf171030dc00db8d04377b5ea8efacbe23e2",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/media/souhrn-zasadni-udalosti-pondeli-21-zari-377815",
+      "published_utc": "2026-09-21T16:29:00Z",
+      "title_en": "SOUHRN: Zásadní události pondělí 21. září",
+      "lead_en": "Každý večer přinášíme přehled nejdůležitějších a nejzajímavějších událostí dne z domova i ze světa. Stručně a přehledně, ale i s potřebným kontextem.",
+      "title_raw": "SOUHRN: Zásadní události pondělí 21. září",
+      "lead_raw": "Každý večer přinášíme přehled nejdůležitějších a nejzajímavějších událostí dne z domova i ze světa. Stručně a přehledně, ale i s potřebným kontextem.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "de27689a9fb0ab7d9fd855a401b8638a3592102c",
+      "fingerprint": "2907551c402c4ac2f0a22a8fbfb8819d644f911e",
+      "source": "Radio Prague International (EN)",
+      "url": "https://english.radio.cz/pm-babis-says-czechia-will-respect-natos-article-5-8897930",
+      "published_utc": "2026-09-21T16:29:00Z",
+      "title_en": "PM Babiš says Czechia will respect NATO’s Article 5",
+      "lead_en": "PM Babiš says Czechia will respect NATO’s Article 5",
+      "title_raw": "PM Babiš says Czechia will respect NATO’s Article 5",
+      "lead_raw": "PM Babiš says Czechia will respect NATO’s Article 5",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "051a6f01c22bcfdd17027932901e40428f1359a1",
+      "fingerprint": "6fbc1809f5880bbcdfc51588bf39715ef34323a7",
+      "source": "Radio Prague International (EN)",
+      "url": "https://english.radio.cz/czech-government-approves-2027-budget-czk-386-billion-deficit-8897929",
+      "published_utc": "2026-09-21T16:18:00Z",
+      "title_en": "Czech government approves 2027 budget with CZK 386 billion deficit",
+      "lead_en": "Czech government approves 2027 budget with CZK 386 billion deficit",
+      "title_raw": "Czech government approves 2027 budget with CZK 386 billion deficit",
+      "lead_raw": "Czech government approves 2027 budget with CZK 386 billion deficit",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "d3f4d434587466e1d0ea50c28496581bc99b884f",
       "fingerprint": "3dd73e65322beaca5e03646a81251019cb1f846b",
@@ -2119,6 +2349,28 @@
       "primary_topic": "energy"
     },
     {
+      "id": "edafcd01aa3a348a8ee334cd7de2a9ab00477a37",
+      "fingerprint": "20974fb2dbf0b48e9918464149b5964c7ab8170c",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/vlada-obnovi-regulaci-cen-paliv-uvalila-i-mimoradnou-dan-na-rafinerie/2877363",
+      "published_utc": "2026-09-21T13:09:00Z",
+      "title_en": "Vláda obnoví regulaci cen paliv, uvalila i mimořádnou daň na rafinerie",
+      "lead_en": "Praha - Vláda obnoví od 1. října regulaci cen pohonných hmot.",
+      "title_raw": "Vláda obnoví regulaci cen paliv, uvalila i mimořádnou daň na rafinerie",
+      "lead_raw": "Praha - Vláda obnoví od 1. října regulaci cen pohonných hmot.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
       "id": "3d376f980f3c504e5db108b5b49b130b24f8dc22",
       "fingerprint": "6b5fa833934517ea6a60c29a0c3c0eb374c73bc7",
       "source": "iDNES.cz",
@@ -2769,6 +3021,26 @@
       "lead_en": "Londýn - Cena nejstarší a nejznámější kryptoměny bitcoin dnes poprvé od konce ledna přesáhla 85.000 dolarů. Krátce před 13:00 SELČ vykazovala růst zhruba o pět procent na 85.118 USD (1,8 milionu Kč)....",
       "title_raw": "Cena bitcoinu vystoupala nejvýše od ledna, přesáhla 85.000 dolarů",
       "lead_raw": "Londýn - Cena nejstarší a nejznámější kryptoměny bitcoin dnes poprvé od konce ledna přesáhla 85.000 dolarů. Krátce před 13:00 SELČ vykazovala růst zhruba o pět procent na 85.118 USD (1,8 milionu Kč)....",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "8dedb753ea896044897a13af07740b9ff793e54c",
+      "fingerprint": "499dc67cf4ebd5e06e74546fdc7b7ec7220c88bd",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-cnn-ms-now-a-politico-zaluji-trumpovu-vladu-kvuli-vypovezeni-z-bileho-domu-315824",
+      "published_utc": "2026-09-21T11:19:49Z",
+      "title_en": "CNN, MS Now a Politico žalují Trumpovu vládu kvůli vypovězení z Bílého domu",
+      "lead_en": "Soud ve Washingtonu by se měl již tento týden začít zabývat žalobou televizních stanic CNN, MS Now a serveru Politico. Média k žalobě přistoupila poté, co jim americký prezident minulý pátek odebral akreditace do Bílého domu.",
+      "title_raw": "CNN, MS Now a Politico žalují Trumpovu vládu kvůli vypovězení z Bílého domu",
+      "lead_raw": "Soud ve Washingtonu by se měl již tento týden začít zabývat žalobou televizních stanic CNN, MS Now a serveru Politico. Média k žalobě přistoupila poté, co jim americký prezident minulý pátek odebral akreditace do Bílého domu.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -4776,28 +5048,6 @@
       },
       "topics": [],
       "primary_topic": null
-    },
-    {
-      "id": "0f0499da152ee8c882643ae3cc2b78bb644ba0e1",
-      "fingerprint": "04e90a92f905ff3298a1e0a64f0b878fd462399f",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/dny-nato-na-letisti-v-mosnove-podle-policie-navstivilo-zhruba-92000-lidi/2876777",
-      "published_utc": "2026-09-19T16:36:00Z",
-      "title_en": "Dny NATO na letišti v Mošnově podle policie navštívilo zhruba 92.000 lidí",
-      "lead_en": "Mošnov (Novojičínsko) - První den dvoudenních Dnů NATO v Ostravě a Dnů Vzdušných sil Armády ČR dnes na letišti v Mošnově na Novojičínsku navštívilo podle policie přibližně 92.000 lidí. Kolem letiště byly...",
-      "title_raw": "Dny NATO na letišti v Mošnově podle policie navštívilo zhruba 92.000 lidí",
-      "lead_raw": "Mošnov (Novojičínsko) - První den dvoudenních Dnů NATO v Ostravě a Dnů Vzdušných sil Armády ČR dnes na letišti v Mošnově na Novojičínsku navštívilo podle policie přibližně 92.000 lidí. Kolem letiště byly...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }

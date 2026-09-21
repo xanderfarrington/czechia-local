@@ -1,10 +1,76 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-21T16:16:19Z",
+  "updated_at_utc": "2026-09-21T17:00:10Z",
   "topic": "military",
-  "count": 40,
+  "count": 42,
   "articles": [
+    {
+      "id": "fc9a388f4b8c84864fa8d5a6bb5df7a0b0cbbb5b",
+      "fingerprint": "de0feb1800667054b58e390dbcaac72909d233a7",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-jemen-pozadal-trumpa-o-pomoc-proti-hutium-prezident-vojenskou-podporu-neslibil-315866",
+      "published_utc": "2026-09-21T16:47:47Z",
+      "title_en": "Jemen požádal Trumpa o pomoc proti Hútíům, prezident vojenskou podporu neslíbil",
+      "lead_en": "Představitel jemenské prezidentské rady požádal Donalda Trumpa o vojenskou pomoc v boji proti hútíjským povstalcům. Trump mu v telefonátu vyjádřil podporu, žádné konkrétní závazky však neslíbil.",
+      "title_raw": "Jemen požádal Trumpa o pomoc proti Hútíům, prezident vojenskou podporu neslíbil",
+      "lead_raw": "Představitel jemenské prezidentské rady požádal Donalda Trumpa o vojenskou pomoc v boji proti hútíjským povstalcům. Trump mu v telefonátu vyjádřil podporu, žádné konkrétní závazky však neslíbil.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "01160f75d1f376ad6b7e3e6c0eb5a41cfeeb508d",
+      "fingerprint": "f4f406acf62c76c7dfd5afd661a0a8a2fe32c2df",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-zabery-riskantniho-zakroku-dokresluji-potize-jez-trapi-ukrajinske-piloty-315825",
+      "published_utc": "2026-09-21T16:30:00Z",
+      "title_en": "Záběry riskantního zákroku dokreslují potíže, jež trápí ukrajinské piloty",
+      "lead_en": "Ukrajinští piloti jsou nuceni k sestřelování ruských dronů používat kanóny, což pro ně znamená riziko. Kyjev nadále zoufale volá po dodávkách munice jak do systémů protivzdušné obrany, tak i pro svá západní letadla.",
+      "title_raw": "Záběry riskantního zákroku dokreslují potíže, jež trápí ukrajinské piloty",
+      "lead_raw": "Ukrajinští piloti jsou nuceni k sestřelování ruských dronů používat kanóny, což pro ně znamená riziko. Kyjev nadále zoufale volá po dodávkách munice jak do systémů protivzdušné obrany, tak i pro svá západní letadla.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "de27689a9fb0ab7d9fd855a401b8638a3592102c",
+      "fingerprint": "2907551c402c4ac2f0a22a8fbfb8819d644f911e",
+      "source": "Radio Prague International (EN)",
+      "url": "https://english.radio.cz/pm-babis-says-czechia-will-respect-natos-article-5-8897930",
+      "published_utc": "2026-09-21T16:29:00Z",
+      "title_en": "PM Babiš says Czechia will respect NATO’s Article 5",
+      "lead_en": "PM Babiš says Czechia will respect NATO’s Article 5",
+      "title_raw": "PM Babiš says Czechia will respect NATO’s Article 5",
+      "lead_raw": "PM Babiš says Czechia will respect NATO’s Article 5",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "56dde17b6d8f0884043620366f003dd6ada8e6f2",
       "fingerprint": "67e429356fa34f7669869561f2c545cbbde5a823",
@@ -857,28 +923,6 @@
       "lead_en": "Around 92,000 attend first day of NATO Days",
       "title_raw": "Around 92,000 attend first day of NATO Days",
       "lead_raw": "Around 92,000 attend first day of NATO Days",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "0f0499da152ee8c882643ae3cc2b78bb644ba0e1",
-      "fingerprint": "04e90a92f905ff3298a1e0a64f0b878fd462399f",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/dny-nato-na-letisti-v-mosnove-podle-policie-navstivilo-zhruba-92000-lidi/2876777",
-      "published_utc": "2026-09-19T16:36:00Z",
-      "title_en": "Dny NATO na letišti v Mošnově podle policie navštívilo zhruba 92.000 lidí",
-      "lead_en": "Mošnov (Novojičínsko) - První den dvoudenních Dnů NATO v Ostravě a Dnů Vzdušných sil Armády ČR dnes na letišti v Mošnově na Novojičínsku navštívilo podle policie přibližně 92.000 lidí. Kolem letiště byly...",
-      "title_raw": "Dny NATO na letišti v Mošnově podle policie navštívilo zhruba 92.000 lidí",
-      "lead_raw": "Mošnov (Novojičínsko) - První den dvoudenních Dnů NATO v Ostravě a Dnů Vzdušných sil Armády ČR dnes na letišti v Mošnově na Novojičínsku navštívilo podle policie přibližně 92.000 lidí. Kolem letiště byly...",
       "topic_scores": {
         "diplomacy": 0,
         "military": 2,
