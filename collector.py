@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Russian Media Tracker — Collector + Translator + Topic Splitter
+Czech Republic Media Tracker — Collector + Translator + Topic Splitter
 
 Keeps current behavior:
 - rolling latest window in data/articles_latest.json
@@ -35,7 +35,7 @@ HEADERS = {
         "Chrome/122.0.0.0 Safari/537.36"
     ),
     "Accept": "application/rss+xml, application/xml, text/xml, */*;q=0.8",
-    "Accept-Language": "en-US,en;q=0.9,ru;q=0.7",
+    "Accept-Language": "cs-CZ,cs;q=0.9,en-US;q=0.8,en;q=0.7",
     "Connection": "keep-alive",
 }
 
@@ -49,34 +49,41 @@ OUT_JSON = Path(os.getenv("OUT_JSON", "data/articles_latest.json"))
 ARCHIVE_JSON = Path(os.getenv("ARCHIVE_JSON", "data/articles_archive.json"))
 
 SOURCES: Dict[str, Dict] = {
-    "TASS (EN)": {
-        "feeds": ["https://tass.com/rss/v2.xml"],
+    # Domestic-focused feeds: articles are treated as Czech-related even when
+    # the headline/lead does not explicitly say "Czechia" or "Czech Republic".
+    "iROZHLAS - Domestic": {
+        "feeds": ["https://www.irozhlas.cz/rss/irozhlas/section/zpravy-domov"],
+        "assume_czech": True,
     },
-    "TASS (RU)": {
-        "feeds": ["https://tass.ru/rss/v2.xml"],
+    "České noviny / ČTK - Czech Republic": {
+        "feeds": ["https://www.ceskenoviny.cz/sluzby/rss/cr.php"],
+        "assume_czech": True,
     },
-    "RT": {
-        "feeds": ["https://www.rt.com/rss/news/"],
+
+    # Broader Czech outlets. These feeds can contain foreign stories, so the
+    # country relevance filter is applied to their title/lead text.
+    "ČT24": {
+        "feeds": ["https://ct24.ceskatelevize.cz/rss"],
+        "assume_czech": False,
     },
-    "Meduza (EN)": {
-        "feeds": [
-            "https://meduza.io/rss/en/all",
-            "https://meduza.io/rss/en/news",
-            "https://meduza.io/rss/all",
-            "https://meduza.io/rss/news",
-        ],
+    "Novinky": {
+        "feeds": ["https://www.novinky.cz/rss"],
+        "assume_czech": False,
     },
-    "Russia Beyond": {
-        "feeds": ["https://www.rbth.com/rss"],
+    "Seznam Zprávy": {
+        "feeds": ["https://www.seznamzpravy.cz/rss"],
+        "assume_czech": False,
     },
-    "The Moscow Times": {
-        "feeds": [
-            "https://www.themoscowtimes.com/rss/news",
-            "https://www.themoscowtimes.com/rss",
-            "https://www.themoscowtimes.com/page/rss",
-        ],
+    "iDNES.cz": {
+        "feeds": ["https://servis.idnes.cz/rss.aspx?c=zpravodaj"],
+        "assume_czech": False,
+    },
+    "Radio Prague International (EN)": {
+        "feeds": ["https://english.radio.cz/rcz-rss/en"],
+        "assume_czech": True,
     },
 }
+
 
 TOPIC_KEYWORDS = {
     "diplomacy": [
@@ -84,45 +91,57 @@ TOPIC_KEYWORDS = {
         "diplomatic", "talks", "negotiations", "meeting", "summit", "delegation",
         "envoy", "embassy", "ambassador", "bilateral", "multilateral", "agreement",
         "treaty", "strategic partnership", "joint statement", "consultations",
-        "мид", "дипломат", "переговор", "встреч", "саммит", "делегац",
-        "посол", "соглашен", "договор",
+        "ministerstvo zahraničních věcí", "zahraniční ministerstvo", "diplomacie",
+        "diplomat", "jednání", "vyjednávání", "schůzka", "summit", "delegace",
+        "vyslanec", "velvyslanectví", "ambasáda", "velvyslanec", "bilaterální",
+        "multilaterální", "dohoda", "smlouva", "strategické partnerství", "konzultace",
     ],
     "military": [
         "defense ministry", "ministry of defense", "military", "armed forces",
         "troops", "exercise", "drills", "deployment", "missile", "air defense",
         "navy", "fleet", "submarine", "weapons", "arms", "defense industry",
-        "security", "минобороны", "военн", "войск", "учени", "маневр",
-        "ракет", "пво", "флот", "оруж",
+        "security", "nato", "ministerstvo obrany", "armáda", "ozbrojené síly",
+        "voják", "vojáci", "vojensk", "cvičení", "manévry", "nasazení", "raketa",
+        "protivzdušná obrana", "letectvo", "zbraně", "výzbroj", "obranný průmysl",
+        "bezpečnost", "munice", "generální štáb",
     ],
     "energy": [
-        "energy", "oil", "gas", "lng", "pipeline", "gazprom", "rosneft",
-        "novatek", "opec", "opec+", "refinery", "electricity", "power grid",
-        "nuclear power", "coal", "fuel", "energy exports", "petroleum",
-        "энерг", "нефт", "газ", "спг", "газпром", "роснефт", "новатэк",
-        "опек", "атомн", "топлив",
+        "energy", "oil", "gas", "lng", "pipeline", "refinery", "electricity",
+        "power grid", "nuclear power", "coal", "fuel", "energy exports", "petroleum",
+        "energy security", "energetika", "energie", "ropa", "zemní plyn", "plyn",
+        "lng", "ropovod", "plynovod", "rafinerie", "elektřina", "elektrárna",
+        "jaderná energetika", "jaderná elektrárna", "uhlí", "palivo", "čez",
+        "dukovany", "temelín", "energetická bezpečnost", "přenosová soustava",
     ],
     "economy": [
         "economy", "economic", "gdp", "inflation", "interest rate", "central bank",
         "trade", "exports", "imports", "industry", "manufacturing", "investment",
-        "budget", "deficit", "banking", "ruble", "sanctions", "market",
-        "employment", "эконом", "ввп", "инфляц", "центробанк", "торгов",
-        "экспорт", "импорт", "промышлен", "инвестиц", "бюджет", "банк",
-        "рубл", "санкц", "рын",
+        "budget", "deficit", "banking", "sanctions", "market", "employment",
+        "unemployment", "koruna", "ekonomika", "ekonomick", "hdp", "inflace",
+        "úroková sazba", "úrokové sazby", "česká národní banka", "čnb", "obchod",
+        "export", "vývoz", "import", "dovoz", "průmysl", "výroba", "investice",
+        "rozpočet", "schodek", "deficit", "bankovnictví", "sankce", "trh",
+        "zaměstnanost", "nezaměstnanost", "mzdy", "koruny", "koruně",
     ],
     "local_events": [
-        "fire", "flood", "earthquake", "storm", "wildfire", "explosion",
-        "accident", "crash", "evacuation", "emergency", "disaster",
-        "landslide", "outage", "collapse", "rescue", "injured", "killed",
-        "пожар", "наводнен", "землетрясен", "шторм", "взрыв", "авари",
-        "крушен", "эвакуац", "чс", "чрезвычайн", "бедств", "спасател",
+        "fire", "flood", "earthquake", "storm", "wildfire", "explosion", "accident",
+        "crash", "evacuation", "emergency", "disaster", "landslide", "outage",
+        "collapse", "rescue", "injured", "killed", "požár", "povodeň", "záplav",
+        "zemětřesení", "bouře", "vichřice", "výbuch", "nehoda", "havárie",
+        "evakuace", "mimořádná událost", "katastrofa", "sesuv", "výpadek",
+        "zřícení", "záchrana", "zraněn", "zraněni", "zemřel", "mrtv",
     ],
 }
 
-RUSSIA_PATTERNS = [
-    re.compile(r"\brussi\w*\b", re.IGNORECASE),
-    re.compile(r"росси\w*", re.IGNORECASE),
-    re.compile(r"русск\w*", re.IGNORECASE),
+CZECH_PATTERNS = [
+    re.compile(r"\bczech(?:ia| republic| lands?| people| government| army| military| economy| president| prime minister| parliament)?\b", re.IGNORECASE),
+    re.compile(r"\bprague\b", re.IGNORECASE),
+    re.compile(r"\bpraha\b", re.IGNORECASE),
+    re.compile(r"\bčes(?:ko|ka|ké|ký|kou|ku|kem|kých|kým|kém)\b", re.IGNORECASE),
+    re.compile(r"\bčesk\w*", re.IGNORECASE),
+    re.compile(r"\bčr\b", re.IGNORECASE),
 ]
+
 
 # ============ OPTIONAL TRANSLATION ============
 
@@ -174,7 +193,8 @@ def article_fingerprint(article: dict) -> str:
     published = article.get("published_utc", "")
 
     if url:
-        return hash_key(source, url)
+        # URL alone dedupes the same article when it appears in multiple feeds.
+        return hash_key(url)
 
     return hash_key(source, title, published[:10])
 
@@ -249,30 +269,38 @@ def within_hours(dt_utc: datetime, now_utc: datetime, keep_hours: int) -> bool:
     return dt_utc >= (now_utc - timedelta(hours=keep_hours))
 
 
-def mentions_russia(text: str) -> bool:
+def mentions_czechia(text: str) -> bool:
     txt = normalize_space((text or "").lower())
     if not txt:
         return False
-    return any(pattern.search(txt) for pattern in RUSSIA_PATTERNS)
+    return any(pattern.search(txt) for pattern in CZECH_PATTERNS)
 
 
-def article_is_russia_related(article: dict) -> bool:
+def article_is_czech_related(article: dict) -> bool:
+    # Domestic-only feeds are already scoped to Czech affairs and should not be
+    # discarded merely because a headline omits the country's name.
+    if article.get("assume_czech", False):
+        return True
+
     raw_text = " ".join([
         article.get("title_raw", ""),
         article.get("lead_raw", ""),
     ])
-    if mentions_russia(raw_text):
+    if mentions_czechia(raw_text):
         return True
 
     en_text = " ".join([
         article.get("title_en", ""),
         article.get("lead_en", ""),
     ])
-    return mentions_russia(en_text)
+    return mentions_czechia(en_text)
 
 
 def classify_topics(article: dict) -> dict:
-    txt = f"{article.get('title_raw', '')} {article.get('lead_raw', '')}".lower()
+    txt = " ".join([
+        article.get("title_raw", ""), article.get("lead_raw", ""),
+        article.get("title_en", ""), article.get("lead_en", ""),
+    ]).lower()
     scores = {}
 
     for topic, keywords in TOPIC_KEYWORDS.items():
@@ -302,7 +330,7 @@ def classify_topics(article: dict) -> dict:
 
 # ================= RSS COLLECTOR =================
 
-def collect_from_rss(source_name: str, feeds: List[str]) -> List[dict]:
+def collect_from_rss(source_name: str, feeds: List[str], assume_czech: bool = False) -> List[dict]:
     rows: List[dict] = []
 
     for feed_url in feeds:
@@ -321,6 +349,7 @@ def collect_from_rss(source_name: str, feeds: List[str]) -> List[dict]:
 
             rows.append({
                 "source": source_name,
+                "assume_czech": assume_czech,
                 "url": url,
                 "published_utc": dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
                 "title_raw": title,
@@ -415,6 +444,8 @@ def enrich_translate(rows: List[dict]) -> List[dict]:
             ),
             "fingerprint": article_fingerprint(r),
             "source": r.get("source", ""),
+            "tracker_country": "CZ",
+            "assume_czech": bool(r.get("assume_czech", False)),
             "url": normalize_url(r.get("url", "")),
             "published_utc": r.get("published_utc", ""),
             "title_en": title_en,
@@ -443,7 +474,7 @@ def main() -> int:
     collected: List[dict] = []
     for name, cfg in SOURCES.items():
         print(f"[INFO] RSS: {name}")
-        rows = collect_from_rss(name, cfg["feeds"])
+        rows = collect_from_rss(name, cfg["feeds"], cfg.get("assume_czech", False))
         print(f"[INFO] {name}: {len(rows)} rows")
         collected.extend(rows)
 
@@ -452,8 +483,16 @@ def main() -> int:
         return 0
 
     # Load prior rolling and archive data
-    existing_latest = load_existing_json(OUT_JSON)
-    existing_archive = load_existing_json(ARCHIVE_JSON)
+    # Drop records from a prior non-Czech version of the tracker while keeping
+    # the same output filenames for downstream compatibility.
+    existing_latest = [
+        r for r in load_existing_json(OUT_JSON)
+        if r.get("tracker_country") == "CZ"
+    ]
+    existing_archive = [
+        r for r in load_existing_json(ARCHIVE_JSON)
+        if r.get("tracker_country") == "CZ"
+    ]
 
     # Merge raw records first
     merged_raw_for_latest = existing_latest + collected
@@ -469,17 +508,19 @@ def main() -> int:
     latest_enriched = enrich_translate(latest_raw)
     archive_enriched = enrich_translate(archive_raw)
 
-    # Hard Russia filter
-    latest_filtered = [a for a in latest_enriched if article_is_russia_related(a)]
-    archive_filtered = [a for a in archive_enriched if article_is_russia_related(a)]
+    # Czech relevance filter
+    latest_filtered = [a for a in latest_enriched if article_is_czech_related(a)]
+    archive_filtered = [a for a in archive_enriched if article_is_czech_related(a)]
 
-    print(f"[INFO] Latest Russia-related: {len(latest_filtered)} / {len(latest_enriched)} kept")
-    print(f"[INFO] Archive Russia-related: {len(archive_filtered)} / {len(archive_enriched)} kept")
+    print(f"[INFO] Latest Czech-related: {len(latest_filtered)} / {len(latest_enriched)} kept")
+    print(f"[INFO] Archive Czech-related: {len(archive_filtered)} / {len(archive_enriched)} kept")
 
     latest_classified = [classify_topics(a) for a in latest_filtered]
     archive_classified = [classify_topics(a) for a in archive_filtered]
 
     latest_payload = {
+        "country": "Czech Republic",
+        "country_code": "CZ",
         "updated_at_utc": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "keep_hours": KEEP_HOURS,
         "count": len(latest_classified),
@@ -488,6 +529,8 @@ def main() -> int:
     atomic_write_json(OUT_JSON, latest_payload)
 
     archive_payload = {
+        "country": "Czech Republic",
+        "country_code": "CZ",
         "updated_at_utc": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "count": len(archive_classified),
         "articles": archive_classified,
@@ -498,6 +541,8 @@ def main() -> int:
     for topic in topic_names:
         subset = [a for a in latest_classified if topic in a.get("topics", [])]
         topic_payload = {
+            "country": "Czech Republic",
+            "country_code": "CZ",
             "updated_at_utc": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
             "topic": topic,
             "count": len(subset),
