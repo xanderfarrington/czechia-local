@@ -1,7 +1,7 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-21T17:16:33Z",
+  "updated_at_utc": "2026-09-21T21:17:50Z",
   "topic": "local_events",
   "count": 4,
   "articles": [
@@ -15,6 +15,28 @@
       "lead_en": "Vážná nehoda se stala v neděli dopoledne na Táborsku. V osadě Hrnčíře skončil muž zaklíněný pod přívěsem traktoru.",
       "title_raw": "Muže přimáčkl vlek traktoru. Hrozilo zranění páteře, pro pacienta letěl vrtulník",
       "lead_raw": "Vážná nehoda se stala v neděli dopoledne na Táborsku. V osadě Hrnčíře skončil muž zaklíněný pod přívěsem traktoru.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "ffaee2fee2daeaeff8678fe9d0c00913af8360fc",
+      "fingerprint": "02427c6409e327bd9503581e4608385ba340d764",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-k-vychodnimu-japonsku-se-blizi-silny-tajfun-urady-varuji-pred-povodnemi-315797",
+      "published_utc": "2026-09-21T09:19:27Z",
+      "title_en": "Východní Japonsko minul silný tajfun, sesuvy půdy si vyžádaly nejméně dva mrtvé",
+      "lead_en": "Východní pobřeží Japonska a oblast Tokia zasáhl silný tajfun Dujuan. Přívalové deště a sesuvy půdy si dosud vyžádaly nejméně dvě oběti a několik pohřešovaných.",
+      "title_raw": "Východní Japonsko minul silný tajfun, sesuvy půdy si vyžádaly nejméně dva mrtvé",
+      "lead_raw": "Východní pobřeží Japonska a oblast Tokia zasáhl silný tajfun Dujuan. Přívalové deště a sesuvy půdy si dosud vyžádaly nejméně dvě oběti a několik pohřešovaných.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -59,28 +81,6 @@
       "lead_en": "Při nehodě lodi v Norsku zemřel Čech, další tři se pohřešují, sdělilo české ministerstvo zahraničí s tím, že místní policie nepředpokládá, že by někdo přežil.",
       "title_raw": "Při nehodě lodi v Norsku zemřel Čech, další tři se pohřešují",
       "lead_raw": "Při nehodě lodi v Norsku zemřel Čech, další tři se pohřešují, sdělilo české ministerstvo zahraničí s tím, že místní policie nepředpokládá, že by někdo přežil.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "368c23a76238a6eb598acfcaea7cf993efafee84",
-      "fingerprint": "841438a9b0e8ab48642476cf3799cbded22ebb4d",
-      "source": "Radio Prague International (EN)",
-      "url": "https://english.radio.cz/czechia-sends-emergency-supplies-flood-hit-nepal-8897773",
-      "published_utc": "2026-09-19T17:39:00Z",
-      "title_en": "Czechia sends emergency supplies to flood-hit Nepal",
-      "lead_en": "Czechia sends emergency supplies to flood-hit Nepal",
-      "title_raw": "Czechia sends emergency supplies to flood-hit Nepal",
-      "lead_raw": "Czechia sends emergency supplies to flood-hit Nepal",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
