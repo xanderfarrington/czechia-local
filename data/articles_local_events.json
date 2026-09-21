@@ -1,9 +1,9 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-21T17:00:10Z",
+  "updated_at_utc": "2026-09-21T17:16:33Z",
   "topic": "local_events",
-  "count": 3,
+  "count": 4,
   "articles": [
     {
       "id": "5f591f537bea3f5b261557363d4507a45d72a02b",
@@ -15,6 +15,28 @@
       "lead_en": "Vážná nehoda se stala v neděli dopoledne na Táborsku. V osadě Hrnčíře skončil muž zaklíněný pod přívěsem traktoru.",
       "title_raw": "Muže přimáčkl vlek traktoru. Hrozilo zranění páteře, pro pacienta letěl vrtulník",
       "lead_raw": "Vážná nehoda se stala v neděli dopoledne na Táborsku. V osadě Hrnčíře skončil muž zaklíněný pod přívěsem traktoru.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "ad7d8b9a050a74e41eb8bfa129f994c94b5e5988",
+      "fingerprint": "a3808a6093bea500fad3da714300dce9e1c83347",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-na-severu-syrie-bylo-slyset-nekolik-vybuchu-urady-jejich-puvod-vysetruji-315785",
+      "published_utc": "2026-09-21T05:54:40Z",
+      "title_en": "Na severu Sýrie byly slyšet exploze, které způsobil výbuch muničního skladu",
+      "lead_en": "Sérii nočních explozí hlásila oblast u syrského Halabu. Záchranářům bránily v zásahu další výbuchy.",
+      "title_raw": "Na severu Sýrie byly slyšet exploze, které způsobil výbuch muničního skladu",
+      "lead_raw": "Sérii nočních explozí hlásila oblast u syrského Halabu. Záchranářům bránily v zásahu další výbuchy.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,

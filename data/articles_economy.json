@@ -1,9 +1,9 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-21T17:00:10Z",
+  "updated_at_utc": "2026-09-21T17:16:33Z",
   "topic": "economy",
-  "count": 24,
+  "count": 25,
   "articles": [
     {
       "id": "051a6f01c22bcfdd17027932901e40428f1359a1",
@@ -342,6 +342,29 @@
         "economy"
       ],
       "primary_topic": "economy"
+    },
+    {
+      "id": "382469b61fca5bdf808d17309f52c65414ae9b36",
+      "fingerprint": "665a43783f87349e43dd1a20632de5169a3178bf",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/vlada-od-rijna-opet-zavadi-regulaci-cen-pohonnych-hmot.A260921_145558_domaci_kop",
+      "published_utc": "2026-09-21T13:22:45Z",
+      "title_en": "Vláda od října zavádí regulaci cen pohonných hmot, oznámila Schillerová",
+      "lead_en": "Od října bude vláda znovu regulovat ceny pohonných hmot a současně chce snížit spotřební daň z motorové nafty. Vláda tím reaguje na eskalaci konfliktu na Blízkém východě, omezení dodávek saúdské ropy evropským rafineriím a rostoucí tlak na velkoobchodní i maloobchodní ceny paliv.",
+      "title_raw": "Vláda od října zavádí regulaci cen pohonných hmot, oznámila Schillerová",
+      "lead_raw": "Od října bude vláda znovu regulovat ceny pohonných hmot a současně chce snížit spotřební daň z motorové nafty. Vláda tím reaguje na eskalaci konfliktu na Blízkém východě, omezení dodávek saúdské ropy evropským rafineriím a rostoucí tlak na velkoobchodní i maloobchodní ceny paliv.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
     },
     {
       "id": "a4fa028cfc0142a07faa7933f71dd8107386cd74",
