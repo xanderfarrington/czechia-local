@@ -145,11 +145,9 @@ CZECH_PATTERNS = [
 
 # ============ OPTIONAL TRANSLATION ============
 
-try:
-    from deep_translator import GoogleTranslator
-    HAS_TRANSLATOR = True
-except Exception:
-    HAS_TRANSLATOR = False
+from deep_translator import GoogleTranslator
+
+
 
 
 # ================= HELPERS =================
@@ -249,12 +247,28 @@ def two_sentence_lead(text: str) -> str:
 def translate_text(text: str) -> str:
     if not text:
         return ""
-    if not HAS_TRANSLATOR:
-        return text
-    try:
-        return GoogleTranslator(source="auto", target="en").translate(text)
-    except Exception:
-        return text
+
+    text = normalize_space(text)
+
+    for attempt in range(1, 4):
+        try:
+            translated = GoogleTranslator(
+                source="auto",
+                target="en"
+            ).translate(text)
+
+            if translated:
+                return normalize_space(translated)
+
+        except Exception as e:
+            print(
+                f"[WARN] Translation failed "
+                f"({attempt}/3): {e}"
+            )
+            time.sleep(2 * attempt)
+
+    print(f"[ERROR] Could not translate: {text[:100]}")
+    return text
 
 
 def hash_key(*parts: str) -> str:
@@ -432,27 +446,29 @@ def enrich_translate(rows: List[dict]) -> List[dict]:
     out: List[dict] = []
 
     for r in rows:
-        title_en = r.get("title_en") or translate_text(r.get("title_raw", ""))
-        lead_en = r.get("lead_en") or translate_text(r.get("lead_raw", ""))
+        title_raw = r.get("title_raw", "")
+        lead_raw = r.get("lead_raw", "")
+
+        title_en = translate_text(title_raw)
+        lead_en = translate_text(lead_raw)
 
         item = {
             "id": hash_key(
                 r.get("source", ""),
                 normalize_url(r.get("url", "")),
                 r.get("published_utc", ""),
-                normalize_title(r.get("title_raw", "")),
+                normalize_title(title_raw),
             ),
             "fingerprint": article_fingerprint(r),
             "source": r.get("source", ""),
-            "tracker_country": "CZ",
-            "assume_czech": bool(r.get("assume_czech", False)),
             "url": normalize_url(r.get("url", "")),
             "published_utc": r.get("published_utc", ""),
             "title_en": title_en,
             "lead_en": two_sentence_lead(lead_en),
-            "title_raw": r.get("title_raw", ""),
-            "lead_raw": r.get("lead_raw", ""),
+            "title_raw": title_raw,
+            "lead_raw": lead_raw,
         }
+
         out.append(item)
 
     return out
