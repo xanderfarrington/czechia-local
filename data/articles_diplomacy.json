@@ -1,10 +1,123 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-22T19:19:23Z",
+  "updated_at_utc": "2026-09-22T22:27:46Z",
   "topic": "diplomacy",
-  "count": 63,
+  "count": 67,
   "articles": [
+    {
+      "id": "3db1f0f7810508eb13dff9747eb4f52923069476",
+      "fingerprint": "0b6463821c3bdfa291ead9891617763a9fd30825",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/skoda-js-podepise-smlouvu-s-rolls-royce-na-dodavku-pohonu-pro-male-reaktory/2878154",
+      "published_utc": "2026-09-22T22:16:00Z",
+      "title_en": "Škoda JS podepíše smlouvu s Rolls-Royce na dodávku pohonů pro malé reaktory",
+      "lead_en": "Praha - Plzeňská společnost Škoda JS ze skupiny ČEZ dnes podepíše smlouvu s britskou firmou Rolls-Royce SMR na dodávku pohonů pro malé modulární reaktory. Malé reaktory mají být podle dřívějších vyjádření...",
+      "title_raw": "Škoda JS podepíše smlouvu s Rolls-Royce na dodávku pohonů pro malé reaktory",
+      "lead_raw": "Praha - Plzeňská společnost Škoda JS ze skupiny ČEZ dnes podepíše smlouvu s britskou firmou Rolls-Royce SMR na dodávku pohonů pro malé modulární reaktory. Malé reaktory mají být podle dřívějších vyjádření...",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "652ac71043d3519a3e035ca5a75535a483ffac63",
+      "fingerprint": "0d3f334b16ed96c13b0fa0a02837f844b59bd5af",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/cina-usa-vzacne-zeminy-export-vyvoz-vyroba-firmy-jednani.A260922_155433_eko-zahranicni_jla",
+      "published_utc": "2026-09-22T22:00:00Z",
+      "title_en": "Trump se chystá na jednání se Siem. Jedním z témat budou i vzácné zeminy",
+      "lead_en": "Bez některých vzácných zemin se dnes neobejdou automobilky, výrobci čipů ani energetické firmy. Erbium, dysprosium nebo terbium přitom patří mezi suroviny, jejichž dodávky ve velké míře ovládá Čína.",
+      "title_raw": "Trump se chystá na jednání se Siem. Jedním z témat budou i vzácné zeminy",
+      "lead_raw": "Bez některých vzácných zemin se dnes neobejdou automobilky, výrobci čipů ani energetické firmy. Erbium, dysprosium nebo terbium přitom patří mezi suroviny, jejichž dodávky ve velké míře ovládá Čína.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "8c1f26ff17edc544fed65c4378f170fa5d784a20",
+      "fingerprint": "622adc36e45d8153c80b037189cc3b68b683b8d1",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-sef-iranske-diplomacie-arakci-sdelil-witkoffovi-podminky-pro-hormuzsky-pruliv-315976",
+      "published_utc": "2026-09-22T21:08:08Z",
+      "title_en": "Šéf íránské diplomacie Arakčí sdělil Witkoffovi podmínky pro Hormuzský průliv",
+      "lead_en": "Na okraj zasedání Valného shromáždění OSN se íránský ministr zahraničí Abbás Arakčí osobně setkal se zvláštním americkým zmocněncem Stevem Witkoffem. Tématem byly podmínky Teheránu pro znovuotevření Hormuzského průlivu.",
+      "title_raw": "Šéf íránské diplomacie Arakčí sdělil Witkoffovi podmínky pro Hormuzský průliv",
+      "lead_raw": "Na okraj zasedání Valného shromáždění OSN se íránský ministr zahraničí Abbás Arakčí osobně setkal se zvláštním americkým zmocněncem Stevem Witkoffem. Tématem byly podmínky Teheránu pro znovuotevření Hormuzského průlivu.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "cdfa87928e8c73718fdac070d452c336159a9dc6",
+      "fingerprint": "d991d976d70c7d5772fd01e134aac55dc69d2f0c",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-energeticke-primeri-zelenskyj-schuzka-trump-usa.A260922_221042_zahranicni_mikp",
+      "published_utc": "2026-09-22T20:33:00Z",
+      "title_en": "Patrioty, energetické příměří a schůzka s Putinem. Zelenskyj se potkal s Trumpem",
+      "lead_en": "Americký prezident Donald Trump s hlavou ukrajinského státu Volodymyrem Zelenským jednal o mírovém řešení války s Ruskem. Zelenskyj po schůzce řekl, že Ukrajina je připravená na jakýkoli formát energetického příměří a že on sám je připraven se sejít ke společnému jednání s Trumpem a ruským prezidentem Vladimirem Putinem.",
+      "title_raw": "Patrioty, energetické příměří a schůzka s Putinem. Zelenskyj se potkal s Trumpem",
+      "lead_raw": "Americký prezident Donald Trump s hlavou ukrajinského státu Volodymyrem Zelenským jednal o mírovém řešení války s Ruskem. Zelenskyj po schůzce řekl, že Ukrajina je připravená na jakýkoli formát energetického příměří a že on sám je připraven se sejít ke společnému jednání s Trumpem a ruským prezidentem Vladimirem Putinem.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "316f0b6cf6a61d1053f2d56dbda25b419b606380",
+      "fingerprint": "0f5c74aaf2245c30575be315390a256ef91edc66",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-snemovna-nedokoncila-druhe-kolo-debaty-o-trestnosti-neplaceni-vyzivneho-315971",
+      "published_utc": "2026-09-22T19:34:19Z",
+      "title_en": "Sněmovna nedokončila druhé kolo debaty o trestnosti neplacení výživného",
+      "lead_en": "Schůzi zákonodárci přerušili podle dohod klubů v 21:00 do středečního rána, kdy budou pokračovat.",
+      "title_raw": "Sněmovna nedokončila druhé kolo debaty o trestnosti neplacení výživného",
+      "lead_raw": "Schůzi zákonodárci přerušili podle dohod klubů v 21:00 do středečního rána, kdy budou pokračovat.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "3db9b29392880a63bc16c4827cb54cde4f9c9f10",
       "fingerprint": "f617328a184e4aff118f646794229cd682262e60",
@@ -1389,28 +1502,6 @@
       "lead_en": "Mírový proces mezi Tureckem a Stranou kurdských pracujících (PKK), která figuruje na teroristickém seznamu EU, je v nejistotě. Čtyřicetiletý konflikt, který si vyžádal přes čtyřicet tisíc obětí, nastoupil diplomatickou cestu ke svému konci v roce 2024.",
       "title_raw": "Mír mezi Turky a Kurdy je v ohrožení",
       "lead_raw": "Mírový proces mezi Tureckem a Stranou kurdských pracujících (PKK), která figuruje na teroristickém seznamu EU, je v nejistotě. Čtyřicetiletý konflikt, který si vyžádal přes čtyřicet tisíc obětí, nastoupil diplomatickou cestu ke svému konci v roce 2024.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "36e2e061bf7ed2b9d28ee10559b0a6267f09cb8e",
-      "fingerprint": "af6d0f8aa88508ae89d57106fb6477d2718f331f",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/v-praze-podle-podle-tass-hlasovalo-zhruba-1000-rusu/2876887",
-      "published_utc": "2026-09-20T19:41:00Z",
-      "title_en": "V Praze podle podle TASS hlasovalo zhruba 1000 Rusů",
-      "lead_en": "Praha - Rusové žijící v Česku dnes od rána hlasovali na ruském velvyslanectví v Praze 6 ve volbách do Státní dumy. Několik desítek jich dorazilo před budovu již v ranních hodinách, dopoledne pak chodili...",
-      "title_raw": "V Praze podle podle TASS hlasovalo zhruba 1000 Rusů",
-      "lead_raw": "Praha - Rusové žijící v Česku dnes od rána hlasovali na ruském velvyslanectví v Praze 6 ve volbách do Státní dumy. Několik desítek jich dorazilo před budovu již v ranních hodinách, dopoledne pak chodili...",
       "topic_scores": {
         "diplomacy": 2,
         "military": 0,

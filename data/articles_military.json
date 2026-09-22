@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-22T19:19:23Z",
+  "updated_at_utc": "2026-09-22T22:27:46Z",
   "topic": "military",
   "count": 87,
   "articles": [
+    {
+      "id": "dc1630d57bf44b649b0aadb4431b84493e420493",
+      "fingerprint": "e14de634cb92a40f0274e91a96aec3ee76f5082a",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-polske-letectvo-znovu-zachytilo-nad-baltskym-morem-rusky-pruzkumny-letoun-315974",
+      "published_utc": "2026-09-22T20:25:37Z",
+      "title_en": "Polské letectvo znovu zachytilo nad Baltským mořem ruský průzkumný letoun",
+      "lead_en": "Polské letouny ruský stroj Iljušin Il-20 zachytily asi 40 kilometrů od polského pobřeží.",
+      "title_raw": "Polské letectvo znovu zachytilo nad Baltským mořem ruský průzkumný letoun",
+      "lead_raw": "Polské letouny ruský stroj Iljušin Il-20 zachytily asi 40 kilometrů od polského pobřeží.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "ac6fe4d345c4494def96d16e9b25599891c051c6",
       "fingerprint": "4ea379307582f00b171fdbd0d8617cae1c1a6eb1",
@@ -1909,28 +1931,6 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "072c455149a958adc25b262a7c59947fb812edd9",
-      "fingerprint": "78166effaeadb4e2da1b597f8a29832525862587",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusky-utok-na-nato-muze-prijit-v-radu-mesicu-varoval-koudelka-377790",
-      "published_utc": "2026-09-20T20:19:34Z",
-      "title_en": "Ruský útok na NATO může přijít v řádu měsíců, varoval Koudelka",
-      "lead_en": "Ruský test soudržnosti NATO může přijít již brzy, varovali v rozhovorech s listem The Guardian představitelé evropských zpravodajských služeb včetně šéfa Bezpečnostní informační služby (BIS) Michala Koudelky. Ten v rozhovoru řekl, že možný ruský útok včetně omezené invaze na území některého z členských států Aliance by mohl přijít nikoli v řádu let, nýbrž měsíců.",
-      "title_raw": "Ruský útok na NATO může přijít v řádu měsíců, varoval Koudelka",
-      "lead_raw": "Ruský test soudržnosti NATO může přijít již brzy, varovali v rozhovorech s listem The Guardian představitelé evropských zpravodajských služeb včetně šéfa Bezpečnostní informační služby (BIS) Michala Koudelky. Ten v rozhovoru řekl, že možný ruský útok včetně omezené invaze na území některého z členských států Aliance by mohl přijít nikoli v řádu let, nýbrž měsíců.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 4,
         "energy": 0,
         "economy": 0,
         "local_events": 0
