@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-22T10:26:36Z",
+  "updated_at_utc": "2026-09-22T15:12:44Z",
   "topic": "local_events",
   "count": 8,
   "articles": [
+    {
+      "id": "e114ad1b5efa423e6cbb5fcc4ffa8ed4c24e59eb",
+      "fingerprint": "e168923a80c0f64fd07f371bfe0e701f45149ca5",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/pardubice/zpravy/smrtelna-nehoda-motorka-policie-les.A260922_155642_pardubice-zpravy_lank",
+      "published_utc": "2026-09-22T14:43:00Z",
+      "title_en": "Motorkáře zradila v zatáčce mokrá silnice, na místě zemřel. Policie hledá svědky",
+      "lead_en": "Tragicky skončila v pondělí odpoledne jízda mladého motocyklisty u Kerhartic na Orlickoústecku. Za deštivého počasí havaroval a přes veškerou snahu záchranářů svým zraněním na místě podlehl.",
+      "title_raw": "Motorkáře zradila v zatáčce mokrá silnice, na místě zemřel. Policie hledá svědky",
+      "lead_raw": "Tragicky skončila v pondělí odpoledne jízda mladého motocyklisty u Kerhartic na Orlickoústecku. Za deštivého počasí havaroval a přes veškerou snahu záchranářů svým zraněním na místě podlehl.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "965684e79f299eec34bd0ab4a71e3f0dd9ee43e6",
       "fingerprint": "8cdd3972fc77add45e48cb30214474af9cedc0b5",
@@ -147,28 +169,6 @@
       "lead_en": "Sérii nočních explozí hlásila oblast u syrského Halabu. Záchranářům bránily v zásahu další výbuchy.",
       "title_raw": "Na severu Sýrie byly slyšet exploze, které způsobil výbuch muničního skladu",
       "lead_raw": "Sérii nočních explozí hlásila oblast u syrského Halabu. Záchranářům bránily v zásahu další výbuchy.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "519c24ba67946b085d4a39439419e9964d084439",
-      "fingerprint": "c04cbe2ef3dd14be01559af6b08fe5de15f44f0c",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/pri-nehode-lodi-v-norsku-zemrel-cech-dalsi-tri-se-pohresuji-377783",
-      "published_utc": "2026-09-20T10:26:58Z",
-      "title_en": "Při nehodě lodi v Norsku zemřel Čech, další tři se pohřešují",
-      "lead_en": "Při nehodě lodi v Norsku zemřel Čech, další tři se pohřešují, sdělilo české ministerstvo zahraničí s tím, že místní policie nepředpokládá, že by někdo přežil.",
-      "title_raw": "Při nehodě lodi v Norsku zemřel Čech, další tři se pohřešují",
-      "lead_raw": "Při nehodě lodi v Norsku zemřel Čech, další tři se pohřešují, sdělilo české ministerstvo zahraničí s tím, že místní policie nepředpokládá, že by někdo přežil.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
