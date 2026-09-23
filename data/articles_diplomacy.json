@@ -1,10 +1,33 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-23T19:16:32Z",
+  "updated_at_utc": "2026-09-23T22:31:04Z",
   "topic": "diplomacy",
   "count": 69,
   "articles": [
+    {
+      "id": "4c6299bd5185e25c34dc202bbc83fb1b4a9a60e4",
+      "fingerprint": "e22391e1aba038746dfb47ab2dfc1db3bf0ef6a7",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/si-tin-pching-zahajil-navstevu-usa-na-letisti-ho-privita-trump.A260923_235135_zahranicni_air",
+      "published_utc": "2026-09-23T21:59:00Z",
+      "title_en": "Si Ťin-pching zahájil návštěvu USA, na letišti ho přivítá Trump",
+      "lead_en": "Čínský prezident Si Ťin-pching zahájil třídenní státní návštěvu USA, během níž má ve čtvrtek jednat s prezidentem Donaldem Trumpem o obchodních sporech, bezpečnosti umělé inteligence a případu dvou Američanů vězněných v Číně.",
+      "title_raw": "Si Ťin-pching zahájil návštěvu USA, na letišti ho přivítá Trump",
+      "lead_raw": "Čínský prezident Si Ťin-pching zahájil třídenní státní návštěvu USA, během níž má ve čtvrtek jednat s prezidentem Donaldem Trumpem o obchodních sporech, bezpečnosti umělé inteligence a případu dvou Američanů vězněných v Číně.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "821adc9fbddd75b0049bb84fbef104dc5f0fb3e7",
       "fingerprint": "d8ffbfa2175d9d1b61af71d56b22e31c0ba6c345",
@@ -1527,28 +1550,6 @@
         "military": 0,
         "energy": 0,
         "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "b18aaeabea628e325e48ebb65021e7a9d5348cf7",
-      "fingerprint": "3490d41314e98e9c55fe88386337702329bd8ad8",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-zeme-eu-neschvalily-prodlouzeni-protiruskych-sankci-40598856",
-      "published_utc": "2026-09-21T20:39:31Z",
-      "title_en": "Země EU neschválily prodloužení protiruských sankcí",
-      "lead_en": "Členské země Evropské unie v pondělí večer formálně nestvrdily dříve avizovanou dohodu velvyslanců na prodloužení protiruských sankcí, z nichž mají být vyškrtnuti ruští miliardáři Michail Fridman a Ališer Usmanov. Uvedly to diplomatické zdroje ČTK a dalších médií.",
-      "title_raw": "Země EU neschválily prodloužení protiruských sankcí",
-      "lead_raw": "Členské země Evropské unie v pondělí večer formálně nestvrdily dříve avizovanou dohodu velvyslanců na prodloužení protiruských sankcí, z nichž mají být vyškrtnuti ruští miliardáři Michail Fridman a Ališer Usmanov. Uvedly to diplomatické zdroje ČTK a dalších médií.",
-      "topic_scores": {
-        "diplomacy": 4,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
         "local_events": 0
       },
       "topics": [
