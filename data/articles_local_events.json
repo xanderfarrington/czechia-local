@@ -1,10 +1,145 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-23T05:33:07Z",
+  "updated_at_utc": "2026-09-23T10:21:54Z",
   "topic": "local_events",
-  "count": 9,
+  "count": 13,
   "articles": [
+    {
+      "id": "f9da35a31494d82e2d235082987858f0ae0b118c",
+      "fingerprint": "f04c03d6fe25d6f684ff2530adab7eba758257a5",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/pardubice/zpravy/tragicka-nehoda-kamion-ridic-policie-hasici-dalnice-d35.A260923_111016_pardubice-zpravy_lank",
+      "published_utc": "2026-09-23T09:39:00Z",
+      "title_en": "Smrtelná nehoda na dálnici D35. Kamion s balíky skončil na boku, řidič zemřel",
+      "lead_en": "Tragická nehoda kamionu zkomplikovala ve středu ráno dopravu na dálnici D35 ve směru na Olomouc. Nákladní auto, které převáželo papírové balíky skončilo z dosud nezjištěných příčin na boku.",
+      "title_raw": "Smrtelná nehoda na dálnici D35. Kamion s balíky skončil na boku, řidič zemřel",
+      "lead_raw": "Tragická nehoda kamionu zkomplikovala ve středu ráno dopravu na dálnici D35 ve směru na Olomouc. Nákladní auto, které převáželo papírové balíky skončilo z dosud nezjištěných příčin na boku.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "f93b20f63e31b9f2dcf8f00ec4f3c56860eaba34",
+      "fingerprint": "a28e74430164e113dc0a4e1c17029ed6cd0d483c",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/vybuch-ve-zbrojovce-ve-vlasimi-zranil-dva-pracujici-dalsi-nebezpeci-podle_2609231135_elv",
+      "published_utc": "2026-09-23T09:35:00Z",
+      "title_en": "Výbuch ve zbrojovce ve Vlašimi zranil dva pracující. Další nebezpečí podle policie nehrozí",
+      "lead_en": "Ve vlašimské zbrojovce Sellier & Bellot se ve středu ráno ozval výbuch. Jeden člověk utrpěl středně těžké zranění, další má potíže se sluchem.",
+      "title_raw": "Výbuch ve zbrojovce ve Vlašimi zranil dva pracující. Další nebezpečí podle policie nehrozí",
+      "lead_raw": "Ve vlašimské zbrojovce Sellier & Bellot se ve středu ráno ozval výbuch. Jeden člověk utrpěl středně těžké zranění, další má potíže se sluchem.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "fd85025d7bd83196ff8702d102617074861df889",
+      "fingerprint": "aaf4b088f3e32ebcbc2ec71795264053ac70e2d5",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/praha/zpravy/vybuch-zbrojovka-sellier-bellot-vlasim-zraneni.A260923_110439_praha-zpravy_jira",
+      "published_utc": "2026-09-23T09:22:00Z",
+      "title_en": "Výbuch ve vlašimské zbrojovce. Jeden zraněný, další člověk má potíž se sluchem",
+      "lead_en": "Ve vlašimské zbrojovce Sellier & Bellot se ráno ozval výbuch. Jeden člověk utrpěl středně těžké zranění, další má potíže se sluchem.",
+      "title_raw": "Výbuch ve vlašimské zbrojovce. Jeden zraněný, další člověk má potíž se sluchem",
+      "lead_raw": "Ve vlašimské zbrojovce Sellier & Bellot se ráno ozval výbuch. Jeden člověk utrpěl středně těžké zranění, další má potíže se sluchem.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "f2fd2f57a9ee700f8c8ba479dffb0990fcba25c6",
+      "fingerprint": "f5df70d8baa2aa1212a89171b1e825bbba95aa91",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-exploze-ve-zbrojovce-na-benesovsku-jedno-tezke-zraneni-40599089",
+      "published_utc": "2026-09-23T07:36:34Z",
+      "title_en": "Exploze ve zbrojovce na Benešovsku: Jedno těžké zranění",
+      "lead_en": "Dva lidi ze zbrojovky na Benešovsku měli v péči záchranáři kvůli pracovnímu úrazu. V hale, kde se připravují tzv.",
+      "title_raw": "Exploze ve zbrojovce na Benešovsku: Jedno těžké zranění",
+      "lead_raw": "Dva lidi ze zbrojovky na Benešovsku měli v péči záchranáři kvůli pracovnímu úrazu. V hale, kde se připravují tzv.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "c6d5fbd19763e5319a88edd83f2bc582898b00c9",
+      "fingerprint": "20377843389bed4e45e419b571500fc8decb6238",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-v-kyjeve-vypukly-pozary-v-dusledku-ruskych-utoku-zasazena-byla-i-benzinka-315983",
+      "published_utc": "2026-09-23T06:25:45Z",
+      "title_en": "V Kyjevě vypukly požáry v důsledku ruských útoků, Rusko útočilo v Černém moři",
+      "lead_en": "Ruské drony zasáhly čerpací stanice, sklady i obchodní centrum v Kyjevě. Několik lidí bylo zraněno.",
+      "title_raw": "V Kyjevě vypukly požáry v důsledku ruských útoků, Rusko útočilo v Černém moři",
+      "lead_raw": "Ruské drony zasáhly čerpací stanice, sklady i obchodní centrum v Kyjevě. Několik lidí bylo zraněno.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "da1b1943e147c467ae3382b09b216fa9c55370f7",
+      "fingerprint": "7418de79760fdef1640eda405b2a4112bcde5149",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-tragicka-nehoda-zastavila-tah-z-brna-na-svitavy-40599077",
+      "published_utc": "2026-09-23T06:12:54Z",
+      "title_en": "Tragická nehoda zastavila tah z Brna na Svitavy",
+      "lead_en": "Tragické následky má nehoda, k níž došlo ve středu ráno na přetížené silnici I/43, jež vede z Brna na Svitavy. Po střetu s dodávkou zemřel teprve dvacetiletý řidič osobního auta.",
+      "title_raw": "Tragická nehoda zastavila tah z Brna na Svitavy",
+      "lead_raw": "Tragické následky má nehoda, k níž došlo ve středu ráno na přetížené silnici I/43, jež vede z Brna na Svitavy. Po střetu s dodávkou zemřel teprve dvacetiletý řidič osobního auta.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "2f7864f28215244a934f9c93b3288ca0dbd59930",
       "fingerprint": "7ba31181bdb90b1077bb819adc32e22daefa7e04",
@@ -147,50 +282,6 @@
       "lead_en": "Vážná nehoda se stala v neděli dopoledne na Táborsku. V osadě Hrnčíře skončil muž zaklíněný pod přívěsem traktoru.",
       "title_raw": "Muže přimáčkl vlek traktoru. Hrozilo zranění páteře, pro pacienta letěl vrtulník",
       "lead_raw": "Vážná nehoda se stala v neděli dopoledne na Táborsku. V osadě Hrnčíře skončil muž zaklíněný pod přívěsem traktoru.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "ffaee2fee2daeaeff8678fe9d0c00913af8360fc",
-      "fingerprint": "02427c6409e327bd9503581e4608385ba340d764",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-k-vychodnimu-japonsku-se-blizi-silny-tajfun-urady-varuji-pred-povodnemi-315797",
-      "published_utc": "2026-09-21T09:19:27Z",
-      "title_en": "Východní Japonsko minul silný tajfun, sesuvy půdy si vyžádaly nejméně dva mrtvé",
-      "lead_en": "Východní pobřeží Japonska a oblast Tokia zasáhl silný tajfun Dujuan. Přívalové deště a sesuvy půdy si dosud vyžádaly nejméně dvě oběti a několik pohřešovaných.",
-      "title_raw": "Východní Japonsko minul silný tajfun, sesuvy půdy si vyžádaly nejméně dva mrtvé",
-      "lead_raw": "Východní pobřeží Japonska a oblast Tokia zasáhl silný tajfun Dujuan. Přívalové deště a sesuvy půdy si dosud vyžádaly nejméně dvě oběti a několik pohřešovaných.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "ad7d8b9a050a74e41eb8bfa129f994c94b5e5988",
-      "fingerprint": "a3808a6093bea500fad3da714300dce9e1c83347",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-na-severu-syrie-bylo-slyset-nekolik-vybuchu-urady-jejich-puvod-vysetruji-315785",
-      "published_utc": "2026-09-21T05:54:40Z",
-      "title_en": "Na severu Sýrie byly slyšet exploze, které způsobil výbuch muničního skladu",
-      "lead_en": "Sérii nočních explozí hlásila oblast u syrského Halabu. Záchranářům bránily v zásahu další výbuchy.",
-      "title_raw": "Na severu Sýrie byly slyšet exploze, které způsobil výbuch muničního skladu",
-      "lead_raw": "Sérii nočních explozí hlásila oblast u syrského Halabu. Záchranářům bránily v zásahu další výbuchy.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
