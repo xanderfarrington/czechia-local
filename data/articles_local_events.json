@@ -1,10 +1,77 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-24T05:39:49Z",
+  "updated_at_utc": "2026-09-24T10:37:02Z",
   "topic": "local_events",
   "count": 21,
   "articles": [
+    {
+      "id": "51d732bb860b0548e553f25d07862cf763f6257d",
+      "fingerprint": "9a90b31de535f9005fc28579f54e2b7f3b33beb2",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ceske-budejovice/zpravy/zliv-srazka-vlaky-rychlik-strojvedouci-kolej-drazni-inspekce.A260924_101638_budejovice-zpravy_khr",
+      "published_utc": "2026-09-24T08:50:00Z",
+      "title_en": "Srážku vlaků s 37 zraněnými zavinil strojvůdce rychlíku, škoda je nakonec poloviční",
+      "lead_en": "Listopadovou čelní srážku vlaků Českých drah u Zlivi na Českobudějovicku zavinil podle zjištění Drážní inspekce strojvedoucí rychlíku, který projel návěstidlo s příkazem stůj. Při nehodě se zranilo 37 lidí a celková škoda byla vyčíslena na 85,2 milionu korun.",
+      "title_raw": "Srážku vlaků s 37 zraněnými zavinil strojvůdce rychlíku, škoda je nakonec poloviční",
+      "lead_raw": "Listopadovou čelní srážku vlaků Českých drah u Zlivi na Českobudějovicku zavinil podle zjištění Drážní inspekce strojvedoucí rychlíku, který projel návěstidlo s příkazem stůj. Při nehodě se zranilo 37 lidí a celková škoda byla vyčíslena na 85,2 milionu korun.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "3e0b10e8d9a84d6fc2788597c46dbadc86cfd922",
+      "fingerprint": "51cc8fa77fef19a72dd181c7f8e4245bc792e982",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-pri-ruskem-utoku-na-farmu-v-charkovske-oblasti-zemrelo-sedm-lidi-40599295",
+      "published_utc": "2026-09-24T08:41:57Z",
+      "title_en": "Při ruském útoku na farmu v Charkovské oblasti zemřelo sedm lidí",
+      "lead_en": "Ruský útok na farmu v ukrajinské Charkovské oblasti si ve čtvrtek ráno vyžádal sedm obětí na životě a dvanáct zraněných. Jako první o úderu informoval šéf oblastní vojenské správy Oleh Syněhubov.",
+      "title_raw": "Při ruském útoku na farmu v Charkovské oblasti zemřelo sedm lidí",
+      "lead_raw": "Ruský útok na farmu v ukrajinské Charkovské oblasti si ve čtvrtek ráno vyžádal sedm obětí na životě a dvanáct zraněných. Jako první o úderu informoval šéf oblastní vojenské správy Oleh Syněhubov.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "925b79a50e50525db0318f771807ff9a8f981090",
+      "fingerprint": "088e762d19654e2028536c8f0c615ff03b3b3362",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-rusko-zasahlo-zemedelsky-podnik-zemreli-lide-kteri-tridili-zeleninu-316086",
+      "published_utc": "2026-09-24T08:37:46Z",
+      "title_en": "Rusko zasáhlo zemědělský podnik. Zemřeli lidé, kteří třídili zeleninu",
+      "lead_en": "Rusko v noci na čtvrtek útočilo v několika oblastech, v Charkovské oblasti mají útoky na svědomí šest obětí, několik dalších je zraněných. V Oděské oblasti Rusko útočilo na civilní objekty, útok zasáhl školu a nemocnici.",
+      "title_raw": "Rusko zasáhlo zemědělský podnik. Zemřeli lidé, kteří třídili zeleninu",
+      "lead_raw": "Rusko v noci na čtvrtek útočilo v několika oblastech, v Charkovské oblasti mají útoky na svědomí šest obětí, několik dalších je zraněných. V Oděské oblasti Rusko útočilo na civilní objekty, útok zasáhl školu a nemocnici.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "2fe4fd77fdde496b59316e41207b9e43c1c2ba47",
       "fingerprint": "973d5b54fbb83c3a7a43f2f2f06b9fb0b08f7bab",
@@ -400,72 +467,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "965684e79f299eec34bd0ab4a71e3f0dd9ee43e6",
-      "fingerprint": "8cdd3972fc77add45e48cb30214474af9cedc0b5",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-zasahla-ho-vez-volneho-padu-pracovnik-atrakce-na-oktoberfestu-zraneni-neprezil-40598923",
-      "published_utc": "2026-09-22T09:44:44Z",
-      "title_en": "Zasáhla ho Věž volného pádu. Pracovník atrakce na Oktoberfestu zranění nepřežil",
-      "lead_en": "Na Oktoberfestu v Mnichově zemřel dvaapadesátiletý pracovník jedné z atrakcí. K tragédii došlo v pondělí večer na známé adrenalinové atrakci zvané „Věž volného pádu“, při níž jsou návštěvníci nejprve vyzdviženi vysoko do vzduchu a následně rychle spuštěni dolů.",
-      "title_raw": "Zasáhla ho Věž volného pádu. Pracovník atrakce na Oktoberfestu zranění nepřežil",
-      "lead_raw": "Na Oktoberfestu v Mnichově zemřel dvaapadesátiletý pracovník jedné z atrakcí. K tragédii došlo v pondělí večer na známé adrenalinové atrakci zvané „Věž volného pádu“, při níž jsou návštěvníci nejprve vyzdviženi vysoko do vzduchu a následně rychle spuštěni dolů.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "78fec4e93967e5c945d19b93918b11098a8f69d2",
-      "fingerprint": "d6a484ee8f474f67a27ae985f01ebe721b35d91d",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-muz-po-nehode-u-oldrichovce-skoncil-v-umelem-spanku-40598868",
-      "published_utc": "2026-09-22T08:47:31Z",
-      "title_en": "Muž po nehodě u Oldřichovic skončil v umělém spánku",
-      "lead_en": "Vážná zranění hlavy, hrudníku a břicha utrpěl 35letý řidič, který u Oldřichovic na Frýdecko-Místecku nezvládl vůz Škoda Karoq, najel s ním do svodidel a zůstal v bezvědomí zaklíněný uvnitř automobilu. Z vozu mu museli pomoct policisté.",
-      "title_raw": "Muž po nehodě u Oldřichovic skončil v umělém spánku",
-      "lead_raw": "Vážná zranění hlavy, hrudníku a břicha utrpěl 35letý řidič, který u Oldřichovic na Frýdecko-Místecku nezvládl vůz Škoda Karoq, najel s ním do svodidel a zůstal v bezvědomí zaklíněný uvnitř automobilu. Z vozu mu museli pomoct policisté.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "626f543547cc5554218307b63e664e43dded566a",
-      "fingerprint": "cbac1c25068a02fbf8f12037b84f718e6b878a98",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-pri-ruskych-utocich-na-prumyslove-podniky-na-ukrajine-zahynuli-tri-lide-315879",
-      "published_utc": "2026-09-22T06:10:35Z",
-      "title_en": "Při ruských útocích na průmyslové podniky na Ukrajině zahynuli čtyři lidé",
-      "lead_en": "Cílem nočních ruských náletů se staly průmyslové podniky v ukrajinské Dněpropetrovské oblasti. Zásahy si vyžádaly čtyři mrtvé a šest zraněných.",
-      "title_raw": "Při ruských útocích na průmyslové podniky na Ukrajině zahynuli čtyři lidé",
-      "lead_raw": "Cílem nočních ruských náletů se staly průmyslové podniky v ukrajinské Dněpropetrovské oblasti. Zásahy si vyžádaly čtyři mrtvé a šest zraněných.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 2
       },
       "topics": [
         "local_events"
