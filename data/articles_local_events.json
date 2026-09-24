@@ -1,10 +1,76 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-24T15:33:15Z",
+  "updated_at_utc": "2026-09-24T19:33:32Z",
   "topic": "local_events",
-  "count": 24,
+  "count": 26,
   "articles": [
+    {
+      "id": "d97892ffe4fc6a432bdb340d1388ebd9c6aeed3b",
+      "fingerprint": "2c3d9c25e79bb3c30fa6c20f240878dce2a2c6d8",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-ridicka-skodovky-vjela-na-rokycansku-pod-vlak-skoncila-v-kritickem-stavu-40599454",
+      "published_utc": "2026-09-24T19:31:47Z",
+      "title_en": "Řidička škodovky vjela na Rokycansku pod vlak. Skončila v kritickém stavu",
+      "lead_en": "Vážná nehoda se stala ve čtvrtek večer na železničním přejezdu na Rokycansku. Podle prozatímních zjištění třiašedesátiletá řidička škodovky vjela pod osobní vlak a utrpěla těžká zranění v oblasti hlavy.",
+      "title_raw": "Řidička škodovky vjela na Rokycansku pod vlak. Skončila v kritickém stavu",
+      "lead_raw": "Vážná nehoda se stala ve čtvrtek večer na železničním přejezdu na Rokycansku. Podle prozatímních zjištění třiašedesátiletá řidička škodovky vjela pod osobní vlak a utrpěla těžká zranění v oblasti hlavy.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "c21cf38f36ba1d2095cb8ce329179acb3b9ae65c",
+      "fingerprint": "32a304b51c75ff7012449065120809be13bb8987",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/vyklidi-krizovatku-a-varuji-ridice-chytre-semafory-ktere-komunikuji-s-hasici_2609242036_dci",
+      "published_utc": "2026-09-24T18:36:00Z",
+      "title_en": "Vyklidí křižovatku a varují řidiče. Chytré semafory, které komunikují s hasiči, pilotně zkouší v Plzni",
+      "lead_en": "Každá vteřina, která zkrátí dojezdový čas hasičů k nehodě nebo požáru, může rozhodovat o životě. Často jim ale cestu k zásahu komplikuje hustý silniční provoz.",
+      "title_raw": "Vyklidí křižovatku a varují řidiče. Chytré semafory, které komunikují s hasiči, pilotně zkouší v Plzni",
+      "lead_raw": "Každá vteřina, která zkrátí dojezdový čas hasičů k nehodě nebo požáru, může rozhodovat o životě. Často jim ale cestu k zásahu komplikuje hustý silniční provoz.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "3febcc9b024d247e23cd1f769ae1782332fa7c59",
+      "fingerprint": "8fe70a95ba1013999234310b06263b14d0daee2f",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-normalni-chyby-za-volantem-loni-zabily-pres-tri-stovky-lidi-40599165",
+      "published_utc": "2026-09-24T15:59:19Z",
+      "title_en": "„Normální“ chyby za volantem loni zabily přes tři stovky lidí",
+      "lead_en": "Při nehodách zaviněných řidiči zemřelo v loňském roce na českých silnicích 375 lidí. Jen 29 z nich šlo na vrub agresivitě za volantem.",
+      "title_raw": "„Normální“ chyby za volantem loni zabily přes tři stovky lidí",
+      "lead_raw": "Při nehodách zaviněných řidiči zemřelo v loňském roce na českých silnicích 375 lidí. Jen 29 z nich šlo na vrub agresivitě za volantem.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "c98bbe47bcc4c626d6f009cb06ec025919ab7ff3",
       "fingerprint": "cfe2b00649e84a306d2ee734ac89606957469941",
@@ -511,28 +577,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "2f7864f28215244a934f9c93b3288ca0dbd59930",
-      "fingerprint": "7ba31181bdb90b1077bb819adc32e22daefa7e04",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/praha/zpravy/nehoda-stret-srazka-auto-chodec-vozidlo-meteorologicka-praha-libus.A260922_195723_praha-zpravy_mikp",
-      "published_utc": "2026-09-22T18:29:00Z",
-      "title_en": "Auto srazilo chodce v pražské Libuši, muž má vážné zranění hlavy",
-      "lead_en": "V pražské Libuši dnes večer došlo k vážné nehodě, při které osobní vozidlo srazilo chodce. Vážně zraněného muže okolo 35 let převezla záchranná služba do nemocnice.",
-      "title_raw": "Auto srazilo chodce v pražské Libuši, muž má vážné zranění hlavy",
-      "lead_raw": "V pražské Libuši dnes večer došlo k vážné nehodě, při které osobní vozidlo srazilo chodce. Vážně zraněného muže okolo 35 let převezla záchranná služba do nemocnice.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
       },
       "topics": [
         "local_events"
