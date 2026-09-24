@@ -1,10 +1,189 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-24T10:37:02Z",
+  "updated_at_utc": "2026-09-24T15:33:15Z",
   "topic": "military",
-  "count": 97,
+  "count": 94,
   "articles": [
+    {
+      "id": "d4ce1c30cd06e3d5becbea526e066fc92f2a0f37",
+      "fingerprint": "d8e7289c454dc04ec91d76d700dbb9708cdbe97e",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/petr-pavel-nebraska-lincoln-usa-narodni-garda.A260924_155032_domaci_pitt",
+      "published_utc": "2026-09-24T14:45:21Z",
+      "title_en": "Pavel završuje pracovní cestu po USA v Nebrasce. Dostal dýmku míru",
+      "lead_en": "Prezident Petr Pavel tráví poslední den své pracovní cesty po Spojených státech v Nebrasce. V Lincolnu navštívil tamní Národní gardu, se kterou česká armáda spolupracuje více než třicet let.",
+      "title_raw": "Pavel završuje pracovní cestu po USA v Nebrasce. Dostal dýmku míru",
+      "lead_raw": "Prezident Petr Pavel tráví poslední den své pracovní cesty po Spojených státech v Nebrasce. V Lincolnu navštívil tamní Národní gardu, se kterou česká armáda spolupracuje více než třicet let.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "333b6fa1af923c129f090a5790e7d5ed100a85c7",
+      "fingerprint": "cc418681da90dce05a0dd1f7406f2825e99b3b24",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ukrajina-a-finsko-uzavrely-dohodu-o-spolupraci-v-oblasti-dronu-377927",
+      "published_utc": "2026-09-24T13:55:38Z",
+      "title_en": "Ukrajina a Finsko uzavřely dohodu o spolupráci v oblasti dronů",
+      "lead_en": "Dohoda mezi Ukrajinou a Finskem, kterou 23. září v New Yorku podepsali prezidenti Volodymyr Zelenskyj a Alexander Stubb, počítá s předáváním technologií a informací mezi oběma zeměmi a se společnou výrobou obranného vybavení.",
+      "title_raw": "Ukrajina a Finsko uzavřely dohodu o spolupráci v oblasti dronů",
+      "lead_raw": "Dohoda mezi Ukrajinou a Finskem, kterou 23. září v New Yorku podepsali prezidenti Volodymyr Zelenskyj a Alexander Stubb, počítá s předáváním technologií a informací mezi oběma zeměmi a se společnou výrobou obranného vybavení.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "104e836f49a1fd9d135462b34d69555da0d1e14d",
+      "fingerprint": "6bf9fa59bc29eec8a4f507c5466801bbb0b3df60",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-rusko-se-chysta-zvysit-dane-potrebuje-penize-na-valku-40599408",
+      "published_utc": "2026-09-24T13:45:38Z",
+      "title_en": "Rusko se chystá zvýšit daně, potřebuje peníze na válku",
+      "lead_en": "Ruská vláda plánuje na příští tři roky rozpočtový deficit ve výši dvou procent hrubého domácího produktu (HDP) a navrhuje zvýšit více daní, aby zajistila financování vojenských výdajů. S odkazem na materiály ruského ministerstva financí o tom ve čtvrtek informovala agentura Reuters.",
+      "title_raw": "Rusko se chystá zvýšit daně, potřebuje peníze na válku",
+      "lead_raw": "Ruská vláda plánuje na příští tři roky rozpočtový deficit ve výši dvou procent hrubého domácího produktu (HDP) a navrhuje zvýšit více daní, aby zajistila financování vojenských výdajů. S odkazem na materiály ruského ministerstva financí o tom ve čtvrtek informovala agentura Reuters.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "6b5d07fdd106759a5d63c3ced3fd957ded2b0757",
+      "fingerprint": "b9b646aeb2ba87f28ead50564d9d4aec2464d918",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-na-rakete-zelenskyj-ostre-odpalkoval-ruskeho-novinare-ohledne-navstevy-moskvy-40599328",
+      "published_utc": "2026-09-24T13:20:30Z",
+      "title_en": "Zelenskyj ostře odpálkoval ruského novináře",
+      "lead_en": "Na rusky volané dotazy, kdy hodlá navštívit Moskvu, reagoval ukrajinský prezident Volodymyr Zelenskyj během návštěvy New Yorku velmi ostře a stručně. „Na raketě,“ odsekl ukrajinský prezident za použití vulgarismu, aniž by se zastavil nebo ohlédl.",
+      "title_raw": "Zelenskyj ostře odpálkoval ruského novináře",
+      "lead_raw": "Na rusky volané dotazy, kdy hodlá navštívit Moskvu, reagoval ukrajinský prezident Volodymyr Zelenskyj během návštěvy New Yorku velmi ostře a stručně. „Na raketě,“ odsekl ukrajinský prezident za použití vulgarismu, aniž by se zastavil nebo ohlédl.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "66c7ee899c4b9657831c2c25ace1f538d2a4c2c2",
+      "fingerprint": "2daadfd05775e1f5496cb112d82aec451b4874d6",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-etiopska-armada-tvrdi-ze-zabila-272-povstalcu-ze-skupiny-tplf-316130",
+      "published_utc": "2026-09-24T13:15:40Z",
+      "title_en": "Etiopská armáda tvrdí, že zabila 272 povstalců ze skupiny TPLF",
+      "lead_en": "Po středečních útocích povstalců Tigrajské lidové osvobozenecké fronty uvádí armáda Etiopie, že zabila 272 z nich. Skoro stejné množství je zraněno.",
+      "title_raw": "Etiopská armáda tvrdí, že zabila 272 povstalců ze skupiny TPLF",
+      "lead_raw": "Po středečních útocích povstalců Tigrajské lidové osvobozenecké fronty uvádí armáda Etiopie, že zabila 272 z nich. Skoro stejné množství je zraněno.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "f7887bfe4f26fd6c7e2de5c84f5d1836419a3a61",
+      "fingerprint": "7e9b2153bb2b5e6599913a58312405d6c445187a",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/kandidat-primator-praha-portlik-poradce-lipavsky.A260924_134931_domaci_balu",
+      "published_utc": "2026-09-24T12:26:00Z",
+      "title_en": "Portlík se chystá na případné zvolení primátorem. S diplomacií mu pomůže Lipavský",
+      "lead_en": "Kandidát Spolu (ODS, TOP 09) na pražského primátora Tomáš Portlík (ODS) si pro případné povolební vládnutí jako svého poradce vybral bývalého ministra zahraničí a poslance ODS Jana Lipavského. Krátce před volbami ho představil jako svého experta, který mu v případě zvolení bude pomáhat s mezinárodními vztahy, ekonomickou diplomacií a bezpečností.",
+      "title_raw": "Portlík se chystá na případné zvolení primátorem. S diplomacií mu pomůže Lipavský",
+      "lead_raw": "Kandidát Spolu (ODS, TOP 09) na pražského primátora Tomáš Portlík (ODS) si pro případné povolební vládnutí jako svého poradce vybral bývalého ministra zahraničí a poslance ODS Jana Lipavského. Krátce před volbami ho představil jako svého experta, který mu v případě zvolení bude pomáhat s mezinárodními vztahy, ekonomickou diplomacií a bezpečností.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "51746db0509dc2ed37884ed60627e0052bdfb6a0",
+      "fingerprint": "7d1cdc8501336dd608f3b7d9316daa7cdf336fb1",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/polsko-radoslaw-sikorski-osn-sergej-lavrov-rusko-ukrajina-valka.A260924_131609_zahranicni_kha",
+      "published_utc": "2026-09-24T12:11:00Z",
+      "title_en": "Sergeji, řekni šéfovi, že už toho bylo dost. Sikorski se v OSN opřel do Rusů",
+      "lead_en": "Polský ministr zahraničí Radoslaw Sikorski během zasedání Rady bezpečnosti OSN přímo oslovil přítomné Rusy. Na rozdílech v HDP jejich země, Ukrajiny a také Evropské unie a NATO jako celku jim ukázal, že svou válku nemohou vyhrát.",
+      "title_raw": "Sergeji, řekni šéfovi, že už toho bylo dost. Sikorski se v OSN opřel do Rusů",
+      "lead_raw": "Polský ministr zahraničí Radoslaw Sikorski během zasedání Rady bezpečnosti OSN přímo oslovil přítomné Rusy. Na rozdílech v HDP jejich země, Ukrajiny a také Evropské unie a NATO jako celku jim ukázal, že svou válku nemohou vyhrát.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "7d04384f331f9b1a514490d6a636cb1fa6178b4d",
+      "fingerprint": "1601070bc98607a90c983504afdb32089eda1b9b",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/na-libave-se-odehrava-mezinarodni-cviceni-powerful-zameruje-se-na-informacni-boj/2878896",
+      "published_utc": "2026-09-24T11:51:00Z",
+      "title_en": "Na Libavé se odehrává mezinárodní cvičení Powerful, zaměřuje se na informační boj",
+      "lead_en": "Město Libavá (Olomoucko) - Informační boj jako moderní vojenská operace se stal součástí mezinárodního cvičení Powerful 2026 ve vojenském újezdu Libavá, do kterého se zapojilo na 300 vojáků ze 13 zemí....",
+      "title_raw": "Na Libavé se odehrává mezinárodní cvičení Powerful, zaměřuje se na informační boj",
+      "lead_raw": "Město Libavá (Olomoucko) - Informační boj jako moderní vojenská operace se stal součástí mezinárodního cvičení Powerful 2026 ve vojenském újezdu Libavá, do kterého se zapojilo na 300 vojáků ze 13 zemí....",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "2e88e7b44df64e5a15395379a02226e69c348793",
       "fingerprint": "8174d71e87875542bea0600d988e1e4f7e279d8b",
@@ -147,6 +326,29 @@
       "title_en": "Rakušan opět vyzval Babiše, aby svolal schůzku sněmovních stran k bezpečnosti",
       "lead_en": "Praha - Předseda opozičních Starostů a nezávislých (STAN) Vít Rakušan opětovně vyzval premiéra Andreje Babiše (ANO), aby svolal schůzku všech sněmovních stran k bezpečnostní situaci v Evropě. Kabinet...",
       "title_raw": "Rakušan opět vyzval Babiše, aby svolal schůzku sněmovních stran k bezpečnosti",
+      "lead_raw": "Praha - Předseda opozičních Starostů a nezávislých (STAN) Vít Rakušan opětovně vyzval premiéra Andreje Babiše (ANO), aby svolal schůzku všech sněmovních stran k bezpečnostní situaci v Evropě. Kabinet...",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "a145a6717cf0ac4fd4107264195e6b47af7116f9",
+      "fingerprint": "e84fabf32dad63eb1bacd6f4ba20418747d1c44f",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/rakusan-vyzval-babise-ke-schuzce-o-bezpecnosti-premier-ho-odkazal-na-vybor/2878819",
+      "published_utc": "2026-09-24T10:09:00Z",
+      "title_en": "Rakušan vyzval Babiše ke schůzce o bezpečnosti, premiér ho odkázal na výbor",
+      "lead_en": "Praha - Předseda opozičních Starostů a nezávislých (STAN) Vít Rakušan opětovně vyzval premiéra Andreje Babiše (ANO), aby svolal schůzku všech sněmovních stran k bezpečnostní situaci v Evropě. Kabinet...",
+      "title_raw": "Rakušan vyzval Babiše ke schůzce o bezpečnosti, premiér ho odkázal na výbor",
       "lead_raw": "Praha - Předseda opozičních Starostů a nezávislých (STAN) Vít Rakušan opětovně vyzval premiéra Andreje Babiše (ANO), aby svolal schůzku všech sněmovních stran k bezpečnostní situaci v Evropě. Kabinet...",
       "topic_scores": {
         "diplomacy": 1,
@@ -1888,273 +2090,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "de33908d14958c0bb98afb64fd2876092955fd41",
-      "fingerprint": "08c7cac860e3fc425c391006659a4f9d8159021d",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-na-americke-zakladne-na-zapade-nemecka-se-zritil-vojensky-letoun-315963",
-      "published_utc": "2026-09-22T14:54:14Z",
-      "title_en": "Na americké základně na západě Německa se zřítil vojenský letoun",
-      "lead_en": "Americký vojenský letoun se zřítil na letecké základně v západním Německu, informovala tamní veřejnoprávní televize. Při nehodě se údajně zranil jeden člověk.",
-      "title_raw": "Na americké základně na západě Německa se zřítil vojenský letoun",
-      "lead_raw": "Americký vojenský letoun se zřítil na letecké základně v západním Německu, informovala tamní veřejnoprávní televize. Při nehodě se údajně zranil jeden člověk.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "35c79b24e2d72d337007ee439ceb88db7fe463f2",
-      "fingerprint": "2873fd506d2cb5dc9ba32ac8ffd381613e63aee8",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/na-americke-zakladne-ve-spangdahlemu-na-zapade-nemecka-se-podle-dpa-zritil-vojensky-letoun-podle-prv.A260922_161645_zahranicni_remy",
-      "published_utc": "2026-09-22T14:40:43Z",
-      "title_en": "Americká F-16 se v Německu při pokusu o přistání zřítila na golfové hřiště",
-      "lead_en": "Na americké základně ve Spangdahlemu na západě Německa se v úterý odpoledne zřítil vojenský letoun. Podle prvních informací utrpěl zranění jeden člověk.",
-      "title_raw": "Americká F-16 se v Německu při pokusu o přistání zřítila na golfové hřiště",
-      "lead_raw": "Na americké základně ve Spangdahlemu na západě Německa se v úterý odpoledne zřítil vojenský letoun. Podle prvních informací utrpěl zranění jeden člověk.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "f85b26c333d6dbb84c37854db130df8b03b09081",
-      "fingerprint": "f0c61787a1432c19874b25768767a6261e66726e",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/na-americke-zakladne-v-nemecku-se-zritil-vojensky-letoun-377853",
-      "published_utc": "2026-09-22T14:24:09Z",
-      "title_en": "Na americké základně v Německu se zřítil vojenský letoun",
-      "lead_en": "Na americké základně ve Spangdahlemu na západě Německa se zřítil vojenský letoun. Podle informací agentury DPA utrpěl zranění jeden člověk.",
-      "title_raw": "Na americké základně v Německu se zřítil vojenský letoun",
-      "lead_raw": "Na americké základně ve Spangdahlemu na západě Německa se zřítil vojenský letoun. Podle informací agentury DPA utrpěl zranění jeden člověk.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "5e1594d9f16ce7c084763360e97d57ac7f6350d2",
-      "fingerprint": "d2a5b40ad868a51bc37f86f5ef8cbdbedd9d36ba",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-na-americke-zakladne-ve-spangdahlemu-na-zapade-nemecka-se-zritil-vojensky-letoun-40599037",
-      "published_utc": "2026-09-22T14:15:28Z",
-      "title_en": "Na americké základně v Německu se zřítil vojenský letoun",
-      "lead_en": "Na americké vojenské základně Spangdahlem na západě Německa se v úterý odpoledne zřítil vojenský bojový letoun. Podle německých médií se pilot katapultoval a utrpěl zatím blíže neupřesněná zranění.",
-      "title_raw": "Na americké základně v Německu se zřítil vojenský letoun",
-      "lead_raw": "Na americké vojenské základně Spangdahlem na západě Německa se v úterý odpoledne zřítil vojenský bojový letoun. Podle německých médií se pilot katapultoval a utrpěl zatím blíže neupřesněná zranění.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "2175990ae2eabf7cda4e8c532efc085d5ef46093",
-      "fingerprint": "5654205d4c9ad731768a65a3578244adf39818e9",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-video-projedte-se-lanovkou-na-petrin-natocili-jsme-jizdu-v-360-stupnich-315819",
-      "published_utc": "2026-09-22T14:14:04Z",
-      "title_en": "Video: Projeďte se lanovkou na Petřín. Natočili jsme jízdu v 360 stupních",
-      "lead_en": "Petřínská lanovka se v úterý po dvou letech znovu otevřela veřejnosti. Podívejte se na jízdu z vnitřku nové kabiny z více úhlů tak, jak ji v pondělní „předpremiéře“ natočily redaktorky Seznam Zpráv.",
-      "title_raw": "Video: Projeďte se lanovkou na Petřín. Natočili jsme jízdu v 360 stupních",
-      "lead_raw": "Petřínská lanovka se v úterý po dvou letech znovu otevřela veřejnosti. Podívejte se na jízdu z vnitřku nové kabiny z více úhlů tak, jak ji v pondělní „předpremiéře“ natočily redaktorky Seznam Zpráv.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "907f27c32b31353ec75781f0e4e9322ae852f4f7",
-      "fingerprint": "079bb291690afb0ad7956b34b49333a08d4eb481",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/usa-plan-gronsko-arktida-dve-vojenske-zakladny-reuters-trump.A260922_060931_domaci_sahu",
-      "published_utc": "2026-09-22T13:42:00Z",
-      "title_en": "Dvě americké základny v Grónsku? Trump podepíše dohodu s Dánskem a ostrovem",
-      "lead_en": "Spojené státy plánují otevřít dvě vojenské základny v Grónsku, které je podle amerického prezidenta Donalda Trumpa klíčovým územím pro obranu amerických národních zájmů. O plánu v úterý informovala Reuters s odvoláním na tři nejmenované zdroje.",
-      "title_raw": "Dvě americké základny v Grónsku? Trump podepíše dohodu s Dánskem a ostrovem",
-      "lead_raw": "Spojené státy plánují otevřít dvě vojenské základny v Grónsku, které je podle amerického prezidenta Donalda Trumpa klíčovým územím pro obranu amerických národních zájmů. O plánu v úterý informovala Reuters s odvoláním na tři nejmenované zdroje.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "178bd329aa811936dfce4f5d0333ab8a6880814c",
-      "fingerprint": "77dbad1cbe131b675a64eb45b70124ebc71e3ff6",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-rozpocet-jako-tisicovka-v-obrane-cesko-poprve-splni-zavazek-nato-40598304",
-      "published_utc": "2026-09-22T13:09:28Z",
-      "title_en": "Rozpočet jako tisícovka: V obraně Česko poprvé splní závazek NATO",
-      "lead_en": "Výdaje na obranu se od roku 2022, kdy začala válka na Ukrajině, více než zdvojnásobily. Příští rok by Česko mělo poprvé splnit závazek dávat na obranu nejméně dvě procenta hrubého domácího produktu.",
-      "title_raw": "Rozpočet jako tisícovka: V obraně Česko poprvé splní závazek NATO",
-      "lead_raw": "Výdaje na obranu se od roku 2022, kdy začala válka na Ukrajině, více než zdvojnásobily. Příští rok by Česko mělo poprvé splnit závazek dávat na obranu nejméně dvě procenta hrubého domácího produktu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "4ab6af3a3c0a19ea73dc3864bd4327982bef68bf",
-      "fingerprint": "404b61253b0d8c1903d8a11700ebeb0697d0de2e",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/do-litvy-miri-americti-vojaci-oznamil-prezident-pobaltske-zeme-nauseda.A260922_145702_zahranicni_tbr",
-      "published_utc": "2026-09-22T13:03:00Z",
-      "title_en": "Do Litvy míří američtí vojáci. Zabezpečí celý region, věří prezident Nauséda",
-      "lead_en": "Američtí vojáci jsou na cestě do Litvy, uvedl dnes prezident pobaltského státu a členské země NATO Gitanas Nauséda. Zároveň poděkoval svému americkému protějšku Donaldu Trumpovi a jeho administrativě a zdůraznil, že tento krok je důležitý nejen pro Litvu, ale pro bezpečnost celého regionu.",
-      "title_raw": "Do Litvy míří američtí vojáci. Zabezpečí celý region, věří prezident Nauséda",
-      "lead_raw": "Američtí vojáci jsou na cestě do Litvy, uvedl dnes prezident pobaltského státu a členské země NATO Gitanas Nauséda. Zároveň poděkoval svému americkému protějšku Donaldu Trumpovi a jeho administrativě a zdůraznil, že tento krok je důležitý nejen pro Litvu, ale pro bezpečnost celého regionu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "7a8c9897f3e3cea33fcc46356bc788b165a63854",
-      "fingerprint": "985a42651bb3f6cb80d1641a2663815f4cbc54c0",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-inspiruje-se-vlada-rajchl-ma-plan-kde-najit-400-miliard-40598821",
-      "published_utc": "2026-09-22T12:53:09Z",
-      "title_en": "Inspiruje se vláda? Rajchl tvrdí, že má plán, kde najít 400 miliard",
-      "lead_en": "Plošné škrty na ministerstvech, zrušení některých armádních zakázek a nové daně pro banky, zbrojaře či technologické společnosti. Poslanec Jindřich Rajchl (za SPD) představil plán, který by podle něj mohl státnímu rozpočtu přinést či ušetřit zhruba 400 miliard korun.",
-      "title_raw": "Inspiruje se vláda? Rajchl tvrdí, že má plán, kde najít 400 miliard",
-      "lead_raw": "Plošné škrty na ministerstvech, zrušení některých armádních zakázek a nové daně pro banky, zbrojaře či technologické společnosti. Poslanec Jindřich Rajchl (za SPD) představil plán, který by podle něj mohl státnímu rozpočtu přinést či ušetřit zhruba 400 miliard korun.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "87c7a7e628ad7a49f48994bb19e93de9958997d3",
-      "fingerprint": "bc55883fc48bfdf031477f6e4524549730d19c48",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-iran-nabizi-znovuotevreni-hormuzu-do-sedmi-dnu-40598979",
-      "published_utc": "2026-09-22T12:36:42Z",
-      "title_en": "Írán nabízí znovuotevření Hormuzu do sedmi dnů",
-      "lead_en": "Írán nabízí znovuotevření strategického Hormuzského průlivu do sedmi dnů, pokud Spojené státy zmírní vojenský tlak a blokádu íránských přístavů. Teherán zároveň pomocí prostředníků navrhl obnovení jednání s Washingtonem o trvalém ukončení konfliktu.",
-      "title_raw": "Írán nabízí znovuotevření Hormuzu do sedmi dnů",
-      "lead_raw": "Írán nabízí znovuotevření strategického Hormuzského průlivu do sedmi dnů, pokud Spojené státy zmírní vojenský tlak a blokádu íránských přístavů. Teherán zároveň pomocí prostředníků navrhl obnovení jednání s Washingtonem o trvalém ukončení konfliktu.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "16c5cdc33afd9c9d606774a2752ca2bd81da8cdb",
-      "fingerprint": "78df3023d048bbc1f365d85460cb2f8cf50afa96",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-severni-korea-otestovala-novou-variantu-balisticke-strely-zkousi-obejit-patrioty-40598976",
-      "published_utc": "2026-09-22T11:39:26Z",
-      "title_en": "Severní Korea otestovala novou variantu balistické střely. Zkouší obejít patrioty",
-      "lead_en": "Severokorejská armáda v neděli otestovala novou, dosud neznámou, variantu balistické střely KN-23, která má větší dosah i dolet. Severokorejci se tak zřejmě snaží obejít protivzdušné střely Patriot.",
-      "title_raw": "Severní Korea otestovala novou variantu balistické střely. Zkouší obejít patrioty",
-      "lead_raw": "Severokorejská armáda v neděli otestovala novou, dosud neznámou, variantu balistické střely KN-23, která má větší dosah i dolet. Severokorejci se tak zřejmě snaží obejít protivzdušné střely Patriot.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "e08771b1bb29e0d67ee3124036001ff5082fc998",
-      "fingerprint": "086d975276cad874ccc7baf71232877c9ebb5a1a",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/hybridni-hrozba-pro-cesko-ze-strany-ruska-odbornik-reakce-informacni-sluzba.A260922_081951_domaci_vank",
-      "published_utc": "2026-09-22T11:37:00Z",
-      "title_en": "Expert popisuje, co může Rusko provést v Česku. Cílem je vyvolat nejistotu, říká",
-      "lead_en": "Bezpečnostní situace v Evropě se zhoršuje. Ukazují na to třeba slova polského předsedy vlády Donalda Tuska, který varoval před možným hybridním útokem Ruska.",
-      "title_raw": "Expert popisuje, co může Rusko provést v Česku. Cílem je vyvolat nejistotu, říká",
-      "lead_raw": "Bezpečnostní situace v Evropě se zhoršuje. Ukazují na to třeba slova polského předsedy vlády Donalda Tuska, který varoval před možným hybridním útokem Ruska.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
       },
       "topics": [
         "military"
