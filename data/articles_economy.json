@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-25T10:40:45Z",
+  "updated_at_utc": "2026-09-25T15:37:05Z",
   "topic": "economy",
-  "count": 26,
+  "count": 24,
   "articles": [
+    {
+      "id": "76e681af27c5c92c38ba2b607e402a716625ad00",
+      "fingerprint": "9fe03a8fd2ade943f27d3b26a5b6b4729c605d89",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-herecka-angelina-jolie-prodala-za-pul-miliardy-korun-luxusni-rezidenci-316177",
+      "published_utc": "2026-09-25T12:00:03Z",
+      "title_en": "Herečka Angelina Jolie prodala za půl miliardy korun luxusní rezidenci",
+      "lead_en": "Vilu o šesti ložnicích s rozsáhlou zahradou a bazénem se podařilo prodat za více než 530 milionů korun i přes nepříznivé podmínky na místním trhu s luxusními nemovitostmi.",
+      "title_raw": "Herečka Angelina Jolie prodala za půl miliardy korun luxusní rezidenci",
+      "lead_raw": "Vilu o šesti ložnicích s rozsáhlou zahradou a bazénem se podařilo prodat za více než 530 milionů korun i přes nepříznivé podmínky na místním trhu s luxusními nemovitostmi.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "3c49ec135860a4b2b0c2ac4449709b0091cbf146",
       "fingerprint": "ce68fe6fd2c5a4914f759ba44ae9da3e39e56c43",
@@ -509,73 +531,6 @@
         "local_events": 0
       },
       "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "c5f5a14aa2c59286866b49f1229cb1b41e0a608d",
-      "fingerprint": "10658141b40c25a20892e4e1c01b781a6b063f38",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/pekar-elektrikar-nebo-agropodnikatel-liberecky-kraj-laka-na-obory-s-malym-zajmem_2609231715_neb",
-      "published_utc": "2026-09-23T15:15:00Z",
-      "title_en": "Pekař, elektrikář nebo agropodnikatel. Liberecký kraj láká na obory s malým zájmem studentů stipendii",
-      "lead_en": "Na stipendijních programech pro vybrané střední školy rozdělí Liberecký kraj do konce roku přes čtyři miliony korun. Podpora se týká 27 oborů, o jejichž absolventy je na trhu práce velký zájem.",
-      "title_raw": "Pekař, elektrikář nebo agropodnikatel. Liberecký kraj láká na obory s malým zájmem studentů stipendii",
-      "lead_raw": "Na stipendijních programech pro vybrané střední školy rozdělí Liberecký kraj do konce roku přes čtyři miliony korun. Podpora se týká 27 oborů, o jejichž absolventy je na trhu práce velký zájem.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "47d1cb647c3ede36ba694183f96e0f2a73a3edaa",
-      "fingerprint": "c89ecf2288a7705b47a75fc57c1a98cf8635222b",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-strasili-a-obrali-stovky-lidi-falesni-bankeri-dostali-od-115-do-125-roku-vezeni-40599171",
-      "published_utc": "2026-09-23T12:49:58Z",
-      "title_en": "Strašili a obrali stovky lidí. Falešní bankéři dostali od 11,5 do 12,5 roku vězení",
-      "lead_en": "S tresty od 11,5 do 12,5 roku odcházela ve středu od Vrchního soudu v Praze trojice falešných bankéřů Marek Petříště (25), Robert Petříště (30) a Dmytro Rožkov (30). Na svědomí mají rozsáhlý podvod, při němž přes osm set lidí obrali o skoro 200 milionů korun.",
-      "title_raw": "Strašili a obrali stovky lidí. Falešní bankéři dostali od 11,5 do 12,5 roku vězení",
-      "lead_raw": "S tresty od 11,5 do 12,5 roku odcházela ve středu od Vrchního soudu v Praze trojice falešných bankéřů Marek Petříště (25), Robert Petříště (30) a Dmytro Rožkov (30). Na svědomí mají rozsáhlý podvod, při němž přes osm set lidí obrali o skoro 200 milionů korun.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "a585054eb37a5b22169d821d2decd44f05a7c7f9",
-      "fingerprint": "cb39acd9be9ee71f4743d3369d07108e731913ab",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/rafinerske-marze-u-nafty-jsou-v-evrope-na-rekordu-usa-zvazuji-zakaz-vyvozu/2878391",
-      "published_utc": "2026-09-23T12:20:00Z",
-      "title_en": "Rafinérské marže u nafty jsou v Evropě na rekordu, USA zvažují zákaz vývozu",
-      "lead_en": "Londýn/Praha - Rafinérské marže u nafty dosáhly v Evropě rekordní úrovně. Prémie evropského nízkosirného plynového oleje, která je významným cenovým ukazatelem pro trh s motorovou naftou, dnes dopoledne...",
-      "title_raw": "Rafinérské marže u nafty jsou v Evropě na rekordu, USA zvažují zákaz vývozu",
-      "lead_raw": "Londýn/Praha - Rafinérské marže u nafty dosáhly v Evropě rekordní úrovně. Prémie evropského nízkosirného plynového oleje, která je významným cenovým ukazatelem pro trh s motorovou naftou, dnes dopoledne...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
         "economy"
       ],
       "primary_topic": "economy"
