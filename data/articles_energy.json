@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-25T19:37:37Z",
+  "updated_at_utc": "2026-09-25T22:53:11Z",
   "topic": "energy",
-  "count": 54,
+  "count": 53,
   "articles": [
+    {
+      "id": "ed0ffee5596f187dc220a180a419b0f4243e509c",
+      "fingerprint": "1dbb4ffe148b4ac43e46af3df9d26a1baee7bed5",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/domaci/diesel-generator-plyn-lpg.A260925_143103_ekonomika_hyk",
+      "published_utc": "2026-09-25T22:00:00Z",
+      "title_en": "Pojistka proti blackoutu. Místo dieselu firmy nasazují plynové generátory",
+      "lead_en": "Záložní zdroje energie využívají domácnosti v odlehlejších oblastech a čím dál více i firmy. Podniky a nejrůznější výrobny mají stále vyšší nároky na nepřetržitý provoz svých důležitých technologií, chtějí být také připraveny na nečekané výpadky elektřiny.",
+      "title_raw": "Pojistka proti blackoutu. Místo dieselu firmy nasazují plynové generátory",
+      "lead_raw": "Záložní zdroje energie využívají domácnosti v odlehlejších oblastech a čím dál více i firmy. Podniky a nejrůznější výrobny mají stále vyšší nároky na nepřetržitý provoz svých důležitých technologií, chtějí být také připraveny na nečekané výpadky elektřiny.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "f4215cbf5322725de58da8bc0819a93c28dd9d08",
       "fingerprint": "980147a2ef15cb35a6590a6fd32d36317396d124",
@@ -1150,50 +1172,6 @@
         "military": 0,
         "energy": 1,
         "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "df035e77cda81a29510097798c414be18267da0c",
-      "fingerprint": "2badd43d3be17a531efb3664fd01e427c11bf9a3",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/soud-v-liberci-bude-projednavat-podminene-propusteni-cermaka/2878632",
-      "published_utc": "2026-09-23T22:10:00Z",
-      "title_en": "Soud v Liberci bude projednávat podmíněné propuštění Čermáka",
-      "lead_en": "Liberec - Okresní soud v Liberci bude dnes projednávat žádost Tomáše Čermáka o podmíněné propuštění. Z trestu 5,5 roku vězení za podporu a propagaci terorismu si odpykal více než polovinu.",
-      "title_raw": "Soud v Liberci bude projednávat podmíněné propuštění Čermáka",
-      "lead_raw": "Liberec - Okresní soud v Liberci bude dnes projednávat žádost Tomáše Čermáka o podmíněné propuštění. Z trestu 5,5 roku vězení za podporu a propagaci terorismu si odpykal více než polovinu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "57a473457dd6463e71de0eff66e6a62de7308019",
-      "fingerprint": "5f69b706facab43998c812c7a5370fbc4318213a",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/brusel-zakaz-rajsky-plyn-spotrebitel-balonky-party.A260923_192013_domaci_krou",
-      "published_utc": "2026-09-23T22:00:00Z",
-      "title_en": "Konec levného rauše z balónků. Brusel zakáže volný prodej rajského plynu",
-      "lead_en": "Brusel odstřihne běžné spotřebitele od oxidu dusného neboli rajského plynu. Ten tvoří náplň bombiček na výrobu šlehačky, mladí lidé ho však zneužívají jako párty drogu.",
-      "title_raw": "Konec levného rauše z balónků. Brusel zakáže volný prodej rajského plynu",
-      "lead_raw": "Brusel odstřihne běžné spotřebitele od oxidu dusného neboli rajského plynu. Ten tvoří náplň bombiček na výrobu šlehačky, mladí lidé ho však zneužívají jako párty drogu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
         "local_events": 0
       },
       "topics": [

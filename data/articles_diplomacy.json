@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-25T19:37:37Z",
+  "updated_at_utc": "2026-09-25T22:53:11Z",
   "topic": "diplomacy",
   "count": 43,
   "articles": [
+    {
+      "id": "d9c88904bc1a62bb56e93a426859ee8a36aad6c9",
+      "fingerprint": "e64a124863907136e52404f9064deaa5daece21d",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-fico-couva-s-odvolanim-problemoveho-ministra-ztratil-by-parlamentni-vetsinu-40599623",
+      "published_utc": "2026-09-25T20:03:24Z",
+      "title_en": "Fico couvá s odvoláním problémového ministra, ztratil by parlamentní většinu",
+      "lead_en": "Premiér Robert Fico (Směr) nakonec možná neodvolá ministra životního prostředí Tomáše Taraby, přestože to na základě koaliční dohody žádá Slovenská národní strana (SNS), která ho do funkce nominovala. Ve stanovisku, zveřejněném v pátek na Facebooku, Fico přiznal, že výměna ministra by koalici stála parlamentní většinu, a požádal šéfa SNS Andreje Danka o záruky, že vláda většinu neztratí.",
+      "title_raw": "Fico couvá s odvoláním problémového ministra, ztratil by parlamentní většinu",
+      "lead_raw": "Premiér Robert Fico (Směr) nakonec možná neodvolá ministra životního prostředí Tomáše Taraby, přestože to na základě koaliční dohody žádá Slovenská národní strana (SNS), která ho do funkce nominovala. Ve stanovisku, zveřejněném v pátek na Facebooku, Fico přiznal, že výměna ministra by koalici stála parlamentní většinu, a požádal šéfa SNS Andreje Danka o záruky, že vláda většinu neztratí.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "16b8a9de437fd4953b37c6d9bf018d078b340c5b",
       "fingerprint": "ed5c9f07e4a0b77bb2143279a21829a455dbe260",
@@ -940,29 +962,6 @@
       },
       "topics": [
         "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "4c6299bd5185e25c34dc202bbc83fb1b4a9a60e4",
-      "fingerprint": "e22391e1aba038746dfb47ab2dfc1db3bf0ef6a7",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/si-tin-pching-zahajil-navstevu-usa-na-letisti-ho-privita-trump.A260923_235135_zahranicni_air",
-      "published_utc": "2026-09-23T21:59:00Z",
-      "title_en": "Si Ťin-pching zahájil návštěvu USA, na letišti ho přivítá Trump",
-      "lead_en": "Čínský prezident Si Ťin-pching zahájil třídenní státní návštěvu USA, během níž má ve čtvrtek jednat s prezidentem Donaldem Trumpem o obchodních sporech, bezpečnosti umělé inteligence a případu dvou Američanů vězněných v Číně.",
-      "title_raw": "Si Ťin-pching zahájil návštěvu USA, na letišti ho přivítá Trump",
-      "lead_raw": "Čínský prezident Si Ťin-pching zahájil třídenní státní návštěvu USA, během níž má ve čtvrtek jednat s prezidentem Donaldem Trumpem o obchodních sporech, bezpečnosti umělé inteligence a případu dvou Američanů vězněných v Číně.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
       ],
       "primary_topic": "diplomacy"
     }
