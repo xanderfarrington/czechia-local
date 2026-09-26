@@ -1,10 +1,56 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-26T18:08:04Z",
+  "updated_at_utc": "2026-09-26T21:39:54Z",
   "topic": "energy",
-  "count": 44,
+  "count": 43,
   "articles": [
+    {
+      "id": "ad38c3c936e18a98e699aa702b4c31dc70ea0ce7",
+      "fingerprint": "af4c16933445a49111935de4bc5bc0fbb4c7a5d5",
+      "source": "iROZHLAS - Economy",
+      "url": "https://www.irozhlas.cz/ekonomika/investicni-rozpocet-jedina-opravdova-investice-na-pristi-rok-jsou-dukovany_2609262121_elev",
+      "published_utc": "2026-09-26T19:21:00Z",
+      "title_en": "Investiční rozpočet? Jediná opravdová investice na příští rok jsou Dukovany, varuje ekonom",
+      "lead_en": "Vláda předloží Sněmovně návrh rozpočtu na příští rok se schodkem 386 miliard korun. Zásadní úsporu tak koaliční jednání z minulých dní nepřinesla.",
+      "title_raw": "Investiční rozpočet? Jediná opravdová investice na příští rok jsou Dukovany, varuje ekonom",
+      "lead_raw": "Vláda předloží Sněmovně návrh rozpočtu na příští rok se schodkem 386 miliard korun. Zásadní úsporu tak koaliční jednání z minulých dní nepřinesla.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 4,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "ac911a5867ea23a33efd5d431572111df9c5216c",
+      "fingerprint": "5f7a83c3cc1a4d319dba6b0be3092f6ac09366b8",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/cesko-zaostava-za-doporucenou-rezervou-ropy-a-paliv-v-planu-jsou-nove-nadrze-377986",
+      "published_utc": "2026-09-26T18:12:11Z",
+      "title_en": "Česko zaostává za doporučenou rezervou ropy a paliv. V plánu jsou nové nádrže",
+      "lead_en": "Stát má nyní zásoby ropy a pohonných hmot na 85 a půl dne, Evropská unie přitom doporučuje rezervu alespoň na 90 dnů. Stát ale nemá k dispozici žádné volné zásobníky na ropu.",
+      "title_raw": "Česko zaostává za doporučenou rezervou ropy a paliv. V plánu jsou nové nádrže",
+      "lead_raw": "Stát má nyní zásoby ropy a pohonných hmot na 85 a půl dne, Evropská unie přitom doporučuje rezervu alespoň na 90 dnů. Stát ale nemá k dispozici žádné volné zásobníky na ropu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "1eb2c0d461edc8bb3f217c0ad705e44bfd68c265",
       "fingerprint": "e9bdca6137ecde85188c1a78ccc087daca69fd5c",
@@ -917,73 +963,6 @@
         "military": 0,
         "energy": 1,
         "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "4657c48dcebc0b0b5ba7e27affb3b3740a6e7b00",
-      "fingerprint": "e217b13b40bd884b2a0a24a785bc951b18bccfce",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-francie-posle-vojaky-do-saudske-arabie-na-ochranu-klicoveho-ropovodu-316163",
-      "published_utc": "2026-09-24T19:22:59Z",
-      "title_en": "Francie pošle vojáky do Saúdské Arábie na ochranu klíčového ropovodu",
-      "lead_en": "Francouzský prezident Emmanuel Macron oznámil, že Francie pošle své vojáky chránit přístav Janbu u Rudého moře.",
-      "title_raw": "Francie pošle vojáky do Saúdské Arábie na ochranu klíčového ropovodu",
-      "lead_raw": "Francouzský prezident Emmanuel Macron oznámil, že Francie pošle své vojáky chránit přístav Janbu u Rudého moře.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "2c50a06a0fbdb9427a70854960c3c16b4582a2fd",
-      "fingerprint": "67abcf52f988341026051508675f579b2177b462",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-v-te-kavarne-nikoho-nezplynovali-britska-turistka-pobourila-kritikou-obcerstveni-u-pamatniku-v-osvetimi-40599458",
-      "published_utc": "2026-09-24T18:44:27Z",
-      "title_en": "V té kavárně nikoho nezplynovali. Britská turistka pobouřila kritikou občerstvení u památníku v Osvětimi",
-      "lead_en": "Pobouření vyvolala britská turistka, která ve videu zkritizovala ceny a nabídku kavárny poblíž památníku nacistického koncentračního tábora Auschwitz-Birkenau. A moc to nenapravila ani pozdější obhajobou, v níž mimo jiné nařkla místní muzeum, že se snaží „vydělat na táborech smrti“.",
-      "title_raw": "V té kavárně nikoho nezplynovali. Britská turistka pobouřila kritikou občerstvení u památníku v Osvětimi",
-      "lead_raw": "Pobouření vyvolala britská turistka, která ve videu zkritizovala ceny a nabídku kavárny poblíž památníku nacistického koncentračního tábora Auschwitz-Birkenau. A moc to nenapravila ani pozdější obhajobou, v níž mimo jiné nařkla místní muzeum, že se snaží „vydělat na táborech smrti“.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ec4f5d20528f99504106b8eab0633d5537c603cb",
-      "fingerprint": "099b0176f2d2268d4a437796da8bddc55054b016",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/ceny-paliv-se-blizi-rekordnim-hodnotam-budou-zdrazovat-dal-mini-analytici-377933",
-      "published_utc": "2026-09-24T18:20:55Z",
-      "title_en": "Ceny paliv se blíží rekordním hodnotám. Budou zdražovat dál, míní analytici",
-      "lead_en": "Ceny pohonných hmot dál rostou. Benzin stojí průměrných 45,91 koruny, nafta zase 49,52 koruny, což je jen pět haléřů pod rekordem z března 2022.",
-      "title_raw": "Ceny paliv se blíží rekordním hodnotám. Budou zdražovat dál, míní analytici",
-      "lead_raw": "Ceny pohonných hmot dál rostou. Benzin stojí průměrných 45,91 koruny, nafta zase 49,52 koruny, což je jen pět haléřů pod rekordem z března 2022.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
         "local_events": 0
       },
       "topics": [
