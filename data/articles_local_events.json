@@ -1,10 +1,54 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-26T10:26:13Z",
+  "updated_at_utc": "2026-09-26T14:47:55Z",
   "topic": "local_events",
-  "count": 22,
+  "count": 21,
   "articles": [
+    {
+      "id": "677ea4ca3036478c6b910cfc27fac57e006e68d0",
+      "fingerprint": "d034b8aa8f178a2e9f581403c52355968a43d4f5",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-cyklistku-na-jihu-cech-zachytil-vlak-za-zadni-kolo-utrpela-vazne-zraneni-panve-40599700",
+      "published_utc": "2026-09-26T14:46:54Z",
+      "title_en": "Cyklistku na jihu Čech zachytil vlak za zadní kolo. Utrpěla vážné zranění pánve",
+      "lead_en": "Vážná železniční nehoda se stala v sobotu odpoledne u Vráže na Písecku. Podle dosavadních informací vjela čtyřiačtyřicetiletá cyklistka na koleje, kde projížděl osobní vlak.",
+      "title_raw": "Cyklistku na jihu Čech zachytil vlak za zadní kolo. Utrpěla vážné zranění pánve",
+      "lead_raw": "Vážná železniční nehoda se stala v sobotu odpoledne u Vráže na Písecku. Podle dosavadních informací vjela čtyřiačtyřicetiletá cyklistka na koleje, kde projížděl osobní vlak.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "1be1173577e4bdab31d3291a7b773d8ed9068ac9",
+      "fingerprint": "d212c3d0001a1e2b41623a5fad646ff2bff78cd0",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-vybuch-v-centru-aten-znicil-tripodlazni-dum-zemreli-nejmene-dva-lide-316268",
+      "published_utc": "2026-09-26T11:32:07Z",
+      "title_en": "Výbuch v centru Athén zničil třípodlažní dům. Zemřeli nejméně dva lidé",
+      "lead_en": "Mohutný výbuch v historickém centru Athén zcela zničil třípodlažní dům sloužící k ubytování turistů. Nejméně dva lidé zemřeli a další čtyři se pohřešují.",
+      "title_raw": "Výbuch v centru Athén zničil třípodlažní dům. Zemřeli nejméně dva lidé",
+      "lead_raw": "Mohutný výbuch v historickém centru Athén zcela zničil třípodlažní dům sloužící k ubytování turistů. Nejméně dva lidé zemřeli a další čtyři se pohřešují.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "f71b1c4e8429047aa781198806ff83aa4f837e48",
       "fingerprint": "e3683820806bb285143414dc941924a4ff46fb61",
@@ -417,72 +461,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "238c797088796b855efb06b5492d343eec2e3d68",
-      "fingerprint": "9292e1eddc3c1dcf83e828c662f35f9b68d42303",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-ukrajinec-pobodal-v-polskem-klastere-duchovni-jeden-zemrel-40599419",
-      "published_utc": "2026-09-24T14:29:56Z",
-      "title_en": "Ukrajinec pobodal v polském klášteře duchovní, jeden zemřel",
-      "lead_en": "Čtyři muži a jedna žena utrpěli zranění při útoku nožem v benediktinském klášteře v polském městě Jarosław. Tři zranění muži byli podle policie v kritickém stavu a jeden z nich svým zraněním podlehl.",
-      "title_raw": "Ukrajinec pobodal v polském klášteře duchovní, jeden zemřel",
-      "lead_raw": "Čtyři muži a jedna žena utrpěli zranění při útoku nožem v benediktinském klášteře v polském městě Jarosław. Tři zranění muži byli podle policie v kritickém stavu a jeden z nich svým zraněním podlehl.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "a91d7c751b3596480dafb4476ef97b32ad623984",
-      "fingerprint": "a516fb5aa074e2e362aec4a5589baa7a353368db",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/polsko-klaster-jaroslaw-utok-nozem-ukrajinec.A260924_123913_zahranicni_kha",
-      "published_utc": "2026-09-24T13:53:30Z",
-      "title_en": "„Vypadal jako šílenec!“ Muž pobodal v polském klášteře několik lidí, jeden mrtvý",
-      "lead_en": "V klášteře benediktinek ve městě Jaroslaw na jihovýchodě Polska muž zaútočil na lidi nožem. Pět osob zranil, jedna z nich později zemřela.",
-      "title_raw": "„Vypadal jako šílenec!“ Muž pobodal v polském klášteře několik lidí, jeden mrtvý",
-      "lead_raw": "V klášteře benediktinek ve městě Jaroslaw na jihovýchodě Polska muž zaútočil na lidi nožem. Pět osob zranil, jedna z nich později zemřela.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "d001fb5356a7cb34006cf6ffc7da90f68cdc6aca",
-      "fingerprint": "7057670b35b1218c28d145e7d4960317f73f8840",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/praha/zpravy/nehoda-automobil-nakladni-vuz-melnicko-dobrovolny-hasic-smrt-sbor-srbec.A260924_144757_praha-zpravy_mikp",
-      "published_utc": "2026-09-24T13:02:00Z",
-      "title_en": "Nehodu na Mělnicku nepřežil dobrovolný hasič. Vždy pomáhal ostatním, vzpomínají kolegové",
-      "lead_en": "Dobrovolný sbor hasičů obce Srbeč zasáhla smutná zpráva. Při dopravní nehodě u Nové Vsi na Mělnicku zemřel dlouhodobý člen sboru a velitel družstva výjezdové jednotky hasič Martin Klíma.",
-      "title_raw": "Nehodu na Mělnicku nepřežil dobrovolný hasič. Vždy pomáhal ostatním, vzpomínají kolegové",
-      "lead_raw": "Dobrovolný sbor hasičů obce Srbeč zasáhla smutná zpráva. Při dopravní nehodě u Nové Vsi na Mělnicku zemřel dlouhodobý člen sboru a velitel družstva výjezdové jednotky hasič Martin Klíma.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
       },
       "topics": [
         "local_events"
