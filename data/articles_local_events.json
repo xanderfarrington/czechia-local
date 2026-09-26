@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-26T05:55:32Z",
+  "updated_at_utc": "2026-09-26T10:26:13Z",
   "topic": "local_events",
-  "count": 24,
+  "count": 22,
   "articles": [
+    {
+      "id": "f71b1c4e8429047aa781198806ff83aa4f837e48",
+      "fingerprint": "e3683820806bb285143414dc941924a4ff46fb61",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-pri-ukrajinskem-dronovem-utoku-v-krasnodarskem-kraji-zahynuli-tri-lide-316266",
+      "published_utc": "2026-09-26T09:35:26Z",
+      "title_en": "Při ukrajinském dronovém útoku v Krasnodarském kraji zahynuli tři lidé",
+      "lead_en": "V noci na sobotu si Rusko a Ukrajina vyměnily další vlnu dronových útoků. V ruském Krasnodarském kraji zemřeli tři lidé a v několika průmyslových areálech vypukl požár.",
+      "title_raw": "Při ukrajinském dronovém útoku v Krasnodarském kraji zahynuli tři lidé",
+      "lead_raw": "V noci na sobotu si Rusko a Ukrajina vyměnily další vlnu dronových útoků. V ruském Krasnodarském kraji zemřeli tři lidé a v několika průmyslových areálech vypukl požár.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "59a5d839da82d09e0929f90e5cc09aa6b7b5e388",
       "fingerprint": "938ea2cf7686274fc942dee2589dc59d9f103264",
@@ -455,73 +477,6 @@
       "lead_en": "Dobrovolný sbor hasičů obce Srbeč zasáhla smutná zpráva. Při dopravní nehodě u Nové Vsi na Mělnicku zemřel dlouhodobý člen sboru a velitel družstva výjezdové jednotky hasič Martin Klíma.",
       "title_raw": "Nehodu na Mělnicku nepřežil dobrovolný hasič. Vždy pomáhal ostatním, vzpomínají kolegové",
       "lead_raw": "Dobrovolný sbor hasičů obce Srbeč zasáhla smutná zpráva. Při dopravní nehodě u Nové Vsi na Mělnicku zemřel dlouhodobý člen sboru a velitel družstva výjezdové jednotky hasič Martin Klíma.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "51d732bb860b0548e553f25d07862cf763f6257d",
-      "fingerprint": "9a90b31de535f9005fc28579f54e2b7f3b33beb2",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ceske-budejovice/zpravy/zliv-srazka-vlaky-rychlik-strojvedouci-kolej-drazni-inspekce.A260924_101638_budejovice-zpravy_khr",
-      "published_utc": "2026-09-24T08:50:00Z",
-      "title_en": "Srážku vlaků s 37 zraněnými zavinil strojvůdce rychlíku, škoda je nakonec poloviční",
-      "lead_en": "Listopadovou čelní srážku vlaků Českých drah u Zlivi na Českobudějovicku zavinil podle zjištění Drážní inspekce strojvedoucí rychlíku, který projel návěstidlo s příkazem stůj. Při nehodě se zranilo 37 lidí a celková škoda byla vyčíslena na 85,2 milionu korun.",
-      "title_raw": "Srážku vlaků s 37 zraněnými zavinil strojvůdce rychlíku, škoda je nakonec poloviční",
-      "lead_raw": "Listopadovou čelní srážku vlaků Českých drah u Zlivi na Českobudějovicku zavinil podle zjištění Drážní inspekce strojvedoucí rychlíku, který projel návěstidlo s příkazem stůj. Při nehodě se zranilo 37 lidí a celková škoda byla vyčíslena na 85,2 milionu korun.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "3e0b10e8d9a84d6fc2788597c46dbadc86cfd922",
-      "fingerprint": "51cc8fa77fef19a72dd181c7f8e4245bc792e982",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-pri-ruskem-utoku-na-farmu-v-charkovske-oblasti-zemrelo-sedm-lidi-40599295",
-      "published_utc": "2026-09-24T08:41:57Z",
-      "title_en": "Při ruském útoku na farmu v Charkovské oblasti zemřelo sedm lidí",
-      "lead_en": "Ruský útok na farmu v ukrajinské Charkovské oblasti si ve čtvrtek ráno vyžádal sedm obětí na životě a dvanáct zraněných. Jako první o úderu informoval šéf oblastní vojenské správy Oleh Syněhubov.",
-      "title_raw": "Při ruském útoku na farmu v Charkovské oblasti zemřelo sedm lidí",
-      "lead_raw": "Ruský útok na farmu v ukrajinské Charkovské oblasti si ve čtvrtek ráno vyžádal sedm obětí na životě a dvanáct zraněných. Jako první o úderu informoval šéf oblastní vojenské správy Oleh Syněhubov.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "925b79a50e50525db0318f771807ff9a8f981090",
-      "fingerprint": "088e762d19654e2028536c8f0c615ff03b3b3362",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-rusko-zasahlo-zemedelsky-podnik-zemreli-lide-kteri-tridili-zeleninu-316086",
-      "published_utc": "2026-09-24T08:37:46Z",
-      "title_en": "Rusko zasáhlo zemědělský podnik. Zemřeli lidé, kteří třídili zeleninu",
-      "lead_en": "Rusko v noci na čtvrtek útočilo v několika oblastech, v Charkovské oblasti mají útoky na svědomí šest obětí, několik dalších je zraněných. V Oděské oblasti Rusko útočilo na civilní objekty, útok zasáhl školu a nemocnici.",
-      "title_raw": "Rusko zasáhlo zemědělský podnik. Zemřeli lidé, kteří třídili zeleninu",
-      "lead_raw": "Rusko v noci na čtvrtek útočilo v několika oblastech, v Charkovské oblasti mají útoky na svědomí šest obětí, několik dalších je zraněných. V Oděské oblasti Rusko útočilo na civilní objekty, útok zasáhl školu a nemocnici.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
