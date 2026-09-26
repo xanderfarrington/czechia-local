@@ -1,9 +1,755 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-26T14:47:55Z",
-  "count": 2176,
+  "updated_at_utc": "2026-09-26T18:08:04Z",
+  "count": 2213,
   "articles": [
+    {
+      "id": "bb9517fcb257ffa34c3d434b425240d54141462e",
+      "fingerprint": "a3fd9ed4b0aeafe2e140d6b86cdeba334b9da7f1",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-v-byte-v-orlove-vzplala-elektrokolobezka-40599715",
+      "published_utc": "2026-09-26T18:02:31Z",
+      "title_en": "V bytě v Orlové vzplála elektrokoloběžka",
+      "lead_en": "Čtyři jednotky hasičů zaměstnal v sobotu odpoledne požár elektrokoloběžky v jednom z bytů bytového domu v Porubě, místní části Orlové na Karvinsku. Objekt muselo opustit patnáct jeho obyvatel.",
+      "title_raw": "V bytě v Orlové vzplála elektrokoloběžka",
+      "lead_raw": "Čtyři jednotky hasičů zaměstnal v sobotu odpoledne požár elektrokoloběžky v jednom z bytů bytového domu v Porubě, místní části Orlové na Karvinsku. Objekt muselo opustit patnáct jeho obyvatel.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "aa85b02781525f9b8e55c0001c34a5a240f06152",
+      "fingerprint": "4caefad51ec8663fa2fb24e6fc209c3ef62e38d7",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/praha/zpravy/hori-byt-ve-francouzske-ulici-hasici-vyhlasili-druhy-stupen-poplachu.A260926_181234_praha-zpravy_ichuc",
+      "published_utc": "2026-09-26T17:57:25Z",
+      "title_en": "Požár v domě na pražských Vinohradech. Hasiči evakuují lidi, ulice je zcela uzavřena",
+      "lead_en": "Pražští hasiči v sobotu odpoledne zasahují u požáru bytu ve Francouzské ulici na Vinohradech. Kvůli zásahu a záchraně osob je ulice zcela uzavřená.",
+      "title_raw": "Požár v domě na pražských Vinohradech. Hasiči evakuují lidi, ulice je zcela uzavřena",
+      "lead_raw": "Pražští hasiči v sobotu odpoledne zasahují u požáru bytu ve Francouzské ulici na Vinohradech. Kvůli zásahu a záchraně osob je ulice zcela uzavřená.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "b4733b299081d5a1999f6dc85cdc040a2787c580",
+      "fingerprint": "7557f36fd1a6946154c93618b2de1dc54f2b1b07",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/senatori-tlaci-na-trumpa-aby-zrusil-pozvani-putina-na-summit-g20.A260926_154415_zahranicni_ichuc",
+      "published_utc": "2026-09-26T17:44:00Z",
+      "title_en": "Senátoři tlačí na Trumpa, aby zrušil pozvání Putina na summit G20",
+      "lead_en": "Skupina čtrnácti amerických senátorů z Republikánské i Demokratické strany vyzvala prezidenta Donalda Trumpa, aby zrušil pozvání ruského prezidenta Vladimira Putina na prosincový summit skupiny G20 v Miami. Podle zákonodárců by Putinova účast mohla přispět k legitimizaci Ruska navzdory pokračující válce proti Ukrajině.",
+      "title_raw": "Senátoři tlačí na Trumpa, aby zrušil pozvání Putina na summit G20",
+      "lead_raw": "Skupina čtrnácti amerických senátorů z Republikánské i Demokratické strany vyzvala prezidenta Donalda Trumpa, aby zrušil pozvání ruského prezidenta Vladimira Putina na prosincový summit skupiny G20 v Miami. Podle zákonodárců by Putinova účast mohla přispět k legitimizaci Ruska navzdory pokračující válce proti Ukrajině.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "c652c98e8a6e072cbfdcdec2af43d37d9cca88b0",
+      "fingerprint": "7ba48322f2e7e00ae4fb46d15fbdd2f68d07dd3f",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-liberecky-kraj-lide-se-obavaji-promeny-dolniho-centra-jablonce-v-soukrome-sidliste-40598812",
+      "published_utc": "2026-09-26T17:36:00Z",
+      "title_en": "Lidé se obávají proměny dolního centra Jablonce v soukromé sídliště",
+      "lead_en": "Z navržené proměny dolního centra Jablonce nad Nisou jsou rozčarovaní někteří místní lidé. Obávají se, že z čtvrti, kde se Jablonečané setkávají například na oblíbených trzích a jež má nezaměnitelnou podobu, vznikne soukromé sídliště v rukou investorů s nájemním bydlením.",
+      "title_raw": "Lidé se obávají proměny dolního centra Jablonce v soukromé sídliště",
+      "lead_raw": "Z navržené proměny dolního centra Jablonce nad Nisou jsou rozčarovaní někteří místní lidé. Obávají se, že z čtvrti, kde se Jablonečané setkávají například na oblíbených trzích a jež má nezaměnitelnou podobu, vznikne soukromé sídliště v rukou investorů s nájemním bydlením.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "07ce2c950524a4e0a06012a49c09da911b40812b",
+      "fingerprint": "50358e48e7f79e1cad358f2592a9b7428a1f722e",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/koktejl-obyvatele-male-madarske-obce-jsou-posedli-sexem-40599531",
+      "published_utc": "2026-09-26T17:30:00Z",
+      "title_en": "Obyvatelé malé maďarské obce jsou posedlí sexem",
+      "lead_en": "Slovo sex vyhledávali letos na internetu nejčastěji z celého Maďarska obyvatelé malé obce Nemesrádó západně od Balatonu. Vyplývá to z místního žebříčku zveřejněného v pátek.",
+      "title_raw": "Obyvatelé malé maďarské obce jsou posedlí sexem",
+      "lead_raw": "Slovo sex vyhledávali letos na internetu nejčastěji z celého Maďarska obyvatelé malé obce Nemesrádó západně od Balatonu. Vyplývá to z místního žebříčku zveřejněného v pátek.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "1e3d4645cb6139d43274e1e38f6ee81fc7ace8c4",
+      "fingerprint": "7c552961c4a860ed41ddd342e8dcf4823a5c38c3",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-poprve-od-ruske-invaze-jednali-sefove-diplomacii-ruska-a-nemecka-316276",
+      "published_utc": "2026-09-26T17:20:09Z",
+      "title_en": "Poprvé od ruské invaze jednali šéfové diplomacií Ruska a Německa",
+      "lead_en": "Ministři zahraničí Německa a Ruska se v sobotu setkali v sídle OSN. Jde o první jednání mezi šéfy diplomacie od zahájení ruské invaze na Ukrajinu v roce 2022.",
+      "title_raw": "Poprvé od ruské invaze jednali šéfové diplomacií Ruska a Německa",
+      "lead_raw": "Ministři zahraničí Německa a Ruska se v sobotu setkali v sídle OSN. Jde o první jednání mezi šéfy diplomacie od zahájení ruské invaze na Ukrajinu v roce 2022.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "03d9385027e0b68b23c12f279cddce19c3671e0f",
+      "fingerprint": "ed4cd9e970edfe2038a5d7cc3939b6b4aefb9503",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-at-vlada-splni-sliby-nebo-pritvrdime-policejni-odborari-chystaji-protest-316270",
+      "published_utc": "2026-09-26T17:20:00Z",
+      "title_en": "„Ať vláda splní sliby, nebo přitvrdíme,“ hlásí policejní odboráři",
+      "lead_en": "Když vláda neudělá změny, přitvrdíme, slibuje odborář, který zve protestní akci proti poměrům u policie a v dalších bezpečnostních složkách. A to v době, kdy ministr vnitra ohlásil zvýšení platů.",
+      "title_raw": "„Ať vláda splní sliby, nebo přitvrdíme,“ hlásí policejní odboráři",
+      "lead_raw": "Když vláda neudělá změny, přitvrdíme, slibuje odborář, který zve protestní akci proti poměrům u policie a v dalších bezpečnostních složkách. A to v době, kdy ministr vnitra ohlásil zvýšení platů.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1eb2c0d461edc8bb3f217c0ad705e44bfd68c265",
+      "fingerprint": "e9bdca6137ecde85188c1a78ccc087daca69fd5c",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-evropa-dela-vse-pro-to-aby-zmarila-jednani-o-miru-prohlasil-v-osn-lavrov-40599712",
+      "published_utc": "2026-09-26T17:09:03Z",
+      "title_en": "Evropa dělá vše pro to, aby zmařila jednání o míru, prohlásil v OSN Lavrov",
+      "lead_en": "Ruský ministr zahraničí Sergej Lavrov na Valném shromáždění OSN v New Yorku prohlásil, že evropské země „dělají vše“ pro to, aby zmařily jednání, která by pomohla ukončit válku na Ukrajině, uvedla agentura AFP. Lavrov se také po čtyřech letech setkal se svým německým protějškem.",
+      "title_raw": "Evropa dělá vše pro to, aby zmařila jednání o míru, prohlásil v OSN Lavrov",
+      "lead_raw": "Ruský ministr zahraničí Sergej Lavrov na Valném shromáždění OSN v New Yorku prohlásil, že evropské země „dělají vše“ pro to, aby zmařily jednání, která by pomohla ukončit válku na Ukrajině, uvedla agentura AFP. Lavrov se také po čtyřech letech setkal se svým německým protějškem.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "d9b161b3d77d75552da91e5f0de50e9048f90a3b",
+      "fingerprint": "e46ce77deab5b4d298ced6f66fbc71d91d55f1f2",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-kraj-vysocina-nejvetsi-aquapark-na-vysocine-otevrel-ceremonialni-saunu-pro-sedesat-lidi-40599634",
+      "published_utc": "2026-09-26T17:06:00Z",
+      "title_en": "Největší aquapark na Vysočině otevřel ceremoniální saunu pro šedesát lidí",
+      "lead_en": "Jihlavský Vodní ráj se rozrostl o novou atrakci. Z původní saunové části vznikl nákladnou přestavbou Saunový svět, který nabízí od pátku hned několik druhů saun včetně velké panoramatické ceremoniální místnosti s výhledem na řeku.",
+      "title_raw": "Největší aquapark na Vysočině otevřel ceremoniální saunu pro šedesát lidí",
+      "lead_raw": "Jihlavský Vodní ráj se rozrostl o novou atrakci. Z původní saunové části vznikl nákladnou přestavbou Saunový svět, který nabízí od pátku hned několik druhů saun včetně velké panoramatické ceremoniální místnosti s výhledem na řeku.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "634ef765eff35a779fdeaa3960ac9666675614c7",
+      "fingerprint": "83a29e1a28a199be2218ed93f5ce7a0ac894574c",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/regiony/hlavni-mesto-praha/pozar-bytu-v-centru-prahy-omezil-provoz-tramvaji-377991",
+      "published_utc": "2026-09-26T17:05:17Z",
+      "title_en": "Požár bytu v centru Prahy omezil provoz tramvají",
+      "lead_en": "V Praze večer hořelo v bytě ve Francouzské ulici. Zdravotní záchranáři vyšetřili osm lidí, z nichž jedna žena poté skončila v nemocnici.",
+      "title_raw": "Požár bytu v centru Prahy omezil provoz tramvají",
+      "lead_raw": "V Praze večer hořelo v bytě ve Francouzské ulici. Zdravotní záchranáři vyšetřili osm lidí, z nichž jedna žena poté skončila v nemocnici.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "f695b01ba2af393968c0dc259ece776b22e135b4",
+      "fingerprint": "cf2879bb172f4e0354d28aa868bc7625baa31f55",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-se-chysta-na-vubec-nejhorsi-zimu-experti-doporucuji-opustit-velka-mesta.A260924_205719_zahranicni_kton",
+      "published_utc": "2026-09-26T16:53:00Z",
+      "title_en": "Ukrajina se chystá na vůbec nejhorší zimu. Experti doporučují opustit velká města",
+      "lead_en": "Pětatřicetiletá Anna Storožová se letos na podzim rozhodla společně s mužem a dcerou vyměnit dvoupokojový byt ve výškové budově na levém břehu Dněpru za nezrekonstruovaný dům ve vesnici asi 30 kilometrů od Kyjeva.",
+      "title_raw": "Ukrajina se chystá na vůbec nejhorší zimu. Experti doporučují opustit velká města",
+      "lead_raw": "Pětatřicetiletá Anna Storožová se letos na podzim rozhodla společně s mužem a dcerou vyměnit dvoupokojový byt ve výškové budově na levém břehu Dněpru za nezrekonstruovaný dům ve vesnici asi 30 kilometrů od Kyjeva.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "79ba8181a2ac9050b59e552d2a18ee7cfe84f28e",
+      "fingerprint": "e3ac29929c53dd32ddbf17e2c198f4f6010227e3",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/odpurci-obnoveni-tezby-kamene-na-kopci-tlustec-na-ceskolipsku-se-nechteji-vzdat/2879769",
+      "published_utc": "2026-09-26T16:49:00Z",
+      "title_en": "Odpůrci obnovení těžby kamene na kopci Tlustec na Českolipsku se nechtějí vzdát",
+      "lead_en": "Jablonné v Podještědí (Liberecko) - Odpůrci obnovení těžby kamene na kopci Tlustec na Českolipsku odmítají vzdát své úsilí proti plánům soukromé firmy Kamenolom Brniště. Sdružení na záchranu kopce Tlustec...",
+      "title_raw": "Odpůrci obnovení těžby kamene na kopci Tlustec na Českolipsku se nechtějí vzdát",
+      "lead_raw": "Jablonné v Podještědí (Liberecko) - Odpůrci obnovení těžby kamene na kopci Tlustec na Českolipsku odmítají vzdát své úsilí proti plánům soukromé firmy Kamenolom Brniště. Sdružení na záchranu kopce Tlustec...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "80c2fff0089a396ef9420c0de7ae1399da0b30da",
+      "fingerprint": "59437df6d38dadf3b85326b4c254b86b533f1f42",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-z-domu-ve-francouzske-ulici-stoupa-husty-kour-hasici-zachranuji-lidi-z-oken-40599709",
+      "published_utc": "2026-09-26T16:47:03Z",
+      "title_en": "Z domu na pražských Vinohradech stoupal hustý dým. Hasiči zachraňovali lidi okny",
+      "lead_en": "Rozsáhlejší požár vypukl v sobotu pozdě odpoledne v jednom z domů ve Francouzské ulici v Praze. Z oken se valil hustý kouř a hasiči vyhlásili druhý stupeň požárního poplachu.",
+      "title_raw": "Z domu na pražských Vinohradech stoupal hustý dým. Hasiči zachraňovali lidi okny",
+      "lead_raw": "Rozsáhlejší požár vypukl v sobotu pozdě odpoledne v jednom z domů ve Francouzské ulici v Praze. Z oken se valil hustý kouř a hasiči vyhlásili druhý stupeň požárního poplachu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "170bf7608cf3bdb946af2cc41e79b9a60a1dd808",
+      "fingerprint": "69431ab19c736873f5ead2414bd8601a0a466da8",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/volby-komunalni-nebezpeci-na-silnicich-situace-ve-meste-je-katastrofalni-zni-pred-volbami-316041",
+      "published_utc": "2026-09-26T16:45:00Z",
+      "title_en": "Nejnebezpečnější doprava v Česku? Situace je katastrofální, zní před volbami",
+      "lead_en": "Podle dat a statistik má dlouhodobě nejvíce mrtvých a těžce zraněných chodců ze všech krajských měst v Česku. Doprava a bezpečnost na silnicích v Brně se tak stala jedním z velkých témat komunálních voleb.",
+      "title_raw": "Nejnebezpečnější doprava v Česku? Situace je katastrofální, zní před volbami",
+      "lead_raw": "Podle dat a statistik má dlouhodobě nejvíce mrtvých a těžce zraněných chodců ze všech krajských měst v Česku. Doprava a bezpečnost na silnicích v Brně se tak stala jedním z velkých témat komunálních voleb.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "46f1f8f9509202127bc8f5da3666637b9f43a792",
+      "fingerprint": "2a3530be47f457bc11cf6ac8019872ced29ba530",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/pocet-obeti-patecniho-zriceni-budovy-v-centru-aten-vzrostl-na-sest.A260926_183342_zahranicni_ichuc",
+      "published_utc": "2026-09-26T16:44:00Z",
+      "title_en": "Exploze domu v Aténách: šest mrtvých, z toho čtyři američtí turisté",
+      "lead_en": "Počet obětí páteční exploze a následného zřícení budovy v aténské turistické čtvrti Plaka v sobotu vzrostl na šest poté, co záchranáři z trosek vyprostili další čtyři těla. Píší o tom agentury.Záchranáři v těžké výstroji nalezli ve dvoupodlažní budově těla šesti lidí: čtyř amerických turistů ubytovaných v prvním patře a staršího páru tvořeného Britem a Řekyní, který bydlel ve druhém patře.Oba páry turistů se v pátek odpoledne měly odbavit na aténském letišti, ale nedostavily se.",
+      "title_raw": "Exploze domu v Aténách: šest mrtvých, z toho čtyři američtí turisté",
+      "lead_raw": "Počet obětí páteční exploze a následného zřícení budovy v aténské turistické čtvrti Plaka v sobotu vzrostl na šest poté, co záchranáři z trosek vyprostili další čtyři těla. Píší o tom agentury.Záchranáři v těžké výstroji nalezli ve dvoupodlažní budově těla šesti lidí: čtyř amerických turistů ubytovaných v prvním patře a staršího páru tvořeného Britem a Řekyní, který bydlel ve druhém patře.Oba páry turistů se v pátek odpoledne měly odbavit na aténském letišti, ale nedostavily se.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "c6af5cc2a1e8f8a47c9c5966b76c59be8cd888f0",
+      "fingerprint": "961221fe78aa334a7835bc396872627f78263c25",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-trump-odmitl-iransky-plan-na-otevreni-hormuzskeho-prulivu-ten-si-prejmenoval-po-sobe-40599708",
+      "published_utc": "2026-09-26T16:35:29Z",
+      "title_en": "Trump odmítl íránský plán na otevření Hormuzského průlivu, ten si přejmenoval po sobě",
+      "lead_en": "Americký prezident Donald Trump v sobotu oznámil, že odmítl íránský návrh na znovuotevření strategického Hormuzského průlivu. Írán navrhoval zpřístupnění průlivu výměnou za ukončení americké blokády íránských přístavů.",
+      "title_raw": "Trump odmítl íránský plán na otevření Hormuzského průlivu, ten si přejmenoval po sobě",
+      "lead_raw": "Americký prezident Donald Trump v sobotu oznámil, že odmítl íránský návrh na znovuotevření strategického Hormuzského průlivu. Írán navrhoval zpřístupnění průlivu výměnou za ukončení americké blokády íránských přístavů.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "9508bc69fd8fb96aff5a91e9016b8f1db4a2b78d",
+      "fingerprint": "0b4e97dcf8671dd9c3b8ac8bb00de3fe9172b9e1",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/media/souhrn-zasadni-udalosti-soboty-26-zari-377990",
+      "published_utc": "2026-09-26T16:30:00Z",
+      "title_en": "SOUHRN: Zásadní události soboty 26. září",
+      "lead_en": "Každý večer přinášíme přehled nejdůležitějších a nejzajímavějších událostí dne z domova i ze světa. Stručně a přehledně, ale i s potřebným kontextem.",
+      "title_raw": "SOUHRN: Zásadní události soboty 26. září",
+      "lead_raw": "Každý večer přinášíme přehled nejdůležitějších a nejzajímavějších událostí dne z domova i ze světa. Stručně a přehledně, ale i s potřebným kontextem.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "8c09ae441cc3b80eb0d4151849cb40825c73926b",
+      "fingerprint": "4cec9c6fd019562f5abf9b46b29fa5d741e85ee3",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/trump-odmitl-novy-iransky-navrh-na-otevreni-hormuzskeho-prulivu-a-konec-valky.A260926_182249_zahranicni_remy",
+      "published_utc": "2026-09-26T16:25:00Z",
+      "title_en": "Trump odmítl nový íránský návrh na otevření Hormuzu a konec války",
+      "lead_en": "Americký prezident Donald Trump odmítl nejnovější íránský návrh na znovuotevření Hormuzského průlivu a ukončení bojů na Blízkém východě, který Teherán označuje jako sedmidenní cestovní mapu k míru. Trump dnes na své síti Truth Social zopakoval, že Írán nesmí mít jadernou zbraň, což je hlavní důvod, jímž USA a Izrael zdůvodňují tuto válku, kterou začaly 28.",
+      "title_raw": "Trump odmítl nový íránský návrh na otevření Hormuzu a konec války",
+      "lead_raw": "Americký prezident Donald Trump odmítl nejnovější íránský návrh na znovuotevření Hormuzského průlivu a ukončení bojů na Blízkém východě, který Teherán označuje jako sedmidenní cestovní mapu k míru. Trump dnes na své síti Truth Social zopakoval, že Írán nesmí mít jadernou zbraň, což je hlavní důvod, jímž USA a Izrael zdůvodňují tuto válku, kterou začaly 28.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "398f05c349dc70598075c2873a82727b17643680",
+      "fingerprint": "d70171c9e6fe6e15018b0a858756f7c849fd1c26",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-na-traktoriade-v-prerove-se-prevratil-traktor-s-vleckou-jedenact-zranenych-40599706",
+      "published_utc": "2026-09-26T16:18:28Z",
+      "title_en": "Na traktoriádě v Přerově se převrátil traktor s vlečkou. Jedenáct zraněných",
+      "lead_en": "Traktor s vlečkou, na které jeli lidé, se převrátil v sobotu během traktoriády v přerovské místní části Dluhonice. Jedenáct jich utrpělo zranění a záchranáři je převezli do nemocnic v Přerově a Olomouci.",
+      "title_raw": "Na traktoriádě v Přerově se převrátil traktor s vlečkou. Jedenáct zraněných",
+      "lead_raw": "Traktor s vlečkou, na které jeli lidé, se převrátil v sobotu během traktoriády v přerovské místní části Dluhonice. Jedenáct jich utrpělo zranění a záchranáři je převezli do nemocnic v Přerově a Olomouci.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "366fcc942cee8b3cbb0e7653c5d67d5b3bc4b370",
+      "fingerprint": "57e0a22435927a2e2abdcf83d78528ab8c27b45b",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/anatomie-kremelske-hrozby-kdyz-putin-mluvi-o-miru-a-lidskych-pravech-pobaltske-staty-slysi-ozvenu-ky.A260926_152803_zahranicni_remy",
+      "published_utc": "2026-09-26T16:13:00Z",
+      "title_en": "Jako ozvěna před vpádem z roku 2022. Jak Putin opět mluví o míru a lidských právech",
+      "lead_en": "Byl počátek roku 2022. Ruská vojska tehdy obkličovala Ukrajinu.",
+      "title_raw": "Jako ozvěna před vpádem z roku 2022. Jak Putin opět mluví o míru a lidských právech",
+      "lead_raw": "Byl počátek roku 2022. Ruská vojska tehdy obkličovala Ukrajinu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "b182ee957da7c2b3129836d155f2abce389db832",
+      "fingerprint": "a000d782b66ae2090bcee224d6be13d703a67ddf",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-papez-na-champs-elysees-prilakal-skoro-tri-ctvrte-milionu-lidi-40599703",
+      "published_utc": "2026-09-26T16:11:40Z",
+      "title_en": "Papež na Champs Elysées přilákal skoro tři čtvrtě milionu lidí",
+      "lead_en": "Papež Lev XIV. druhý den návštěvy Francie sloužil na náměstí Svornosti v centru Paříže mši, které se podle Vatikánu zúčastnilo kolem 700 tisíc lidí.",
+      "title_raw": "Papež na Champs Elysées přilákal skoro tři čtvrtě milionu lidí",
+      "lead_raw": "Papež Lev XIV. druhý den návštěvy Francie sloužil na náměstí Svornosti v centru Paříže mši, které se podle Vatikánu zúčastnilo kolem 700 tisíc lidí.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "227a50b47c08324e727ff43b3438705c3b163e00",
+      "fingerprint": "10dd079fab993d903dee98ecf9405797e29ade78",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-krizovy-rozpocet-v-dobe-bez-krize-a-dostaneme-za-to-presne-co-315897",
+      "published_utc": "2026-09-26T16:00:00Z",
+      "title_en": "Krizový rozpočet v době bez krize. A dostaneme za to přesně co?",
+      "lead_en": "Prohlubování dluhu, jak to má vláda v plánu, nedává v době ekonomického růstu smysl. Ani sliby větších investic neobstojí.",
+      "title_raw": "Krizový rozpočet v době bez krize. A dostaneme za to přesně co?",
+      "lead_raw": "Prohlubování dluhu, jak to má vláda v plánu, nedává v době ekonomického růstu smysl. Ani sliby větších investic neobstojí.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "26e85448c7e6ab89be064c786195007c6f58f707",
+      "fingerprint": "9d676152468409bcc58ae700b139bfe6f113e5d4",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/olomouc/zpravy/traktoriada-prerovsko-dluhonice-traktor-zavod-vlecka-nehoda-nemocnice.A260926_174202_olomouc-zpravy_mikp",
+      "published_utc": "2026-09-26T15:59:00Z",
+      "title_en": "Traktoriáda na Přerovsku: převrátili se i s vlečkou, skončili v nemocnici",
+      "lead_en": "Nedaleko areálu v přerovské části Dluhonice, kde lidé sledovali populární závody traktorů, se v sobotu odpoledne převrátila vlečka traktoru. Zranilo se jedenáct lidí.",
+      "title_raw": "Traktoriáda na Přerovsku: převrátili se i s vlečkou, skončili v nemocnici",
+      "lead_raw": "Nedaleko areálu v přerovské části Dluhonice, kde lidé sledovali populární závody traktorů, se v sobotu odpoledne převrátila vlečka traktoru. Zranilo se jedenáct lidí.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c371317e8dbefe4bf8756d2b6e459c715c9a40b9",
+      "fingerprint": "c532b79577619583e1d629619069eabceab2d716",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/kultura-hudba-sex-story-rokenrol-prukopnik-shock-rocku-screamin-jay-hawkins-tvrdil-ze-ma-57-deti-na-pohreb-mu-neprislo-zadne-40599436",
+      "published_utc": "2026-09-26T15:58:00Z",
+      "title_en": "SEX, STORY, ROKENROL: Průkopník shock rocku Screamin’ Jay Hawkins tvrdil, že má 57 dětí. Na pohřeb mu nepřišlo žádné",
+      "lead_en": "Jeho teatrální koncerty z něj udělaly průkopníka shock rocku. Proslul silným hlasem a divokou interpretací písní.",
+      "title_raw": "SEX, STORY, ROKENROL: Průkopník shock rocku Screamin’ Jay Hawkins tvrdil, že má 57 dětí. Na pohřeb mu nepřišlo žádné",
+      "lead_raw": "Jeho teatrální koncerty z něj udělaly průkopníka shock rocku. Proslul silným hlasem a divokou interpretací písní.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "866a5063e90b28017f0964fbcd7e97633c86d14a",
+      "fingerprint": "c602b91a82003a58014f66f9ed864e0cd7ac5983",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/bulovka-postupne-propousti-pacienty-se-salmonelozou-z-30-deti-uz-je-v-nemocnici_2609261752_mst",
+      "published_utc": "2026-09-26T15:52:00Z",
+      "title_en": "Bulovka postupně propouští pacienty se salmonelózou. Z 30 dětí už je v nemocnici jen 17",
+      "lead_en": "Situace na infekčním oddělení v pražské nemocnici Bulovka se pomalu uklidňuje. Toto oddělení se dostalo na hranu kapacity poté, co muselo přijmout velký počet lidí nakažených salmonelózou.",
+      "title_raw": "Bulovka postupně propouští pacienty se salmonelózou. Z 30 dětí už je v nemocnici jen 17",
+      "lead_raw": "Situace na infekčním oddělení v pražské nemocnici Bulovka se pomalu uklidňuje. Toto oddělení se dostalo na hranu kapacity poté, co muselo přijmout velký počet lidí nakažených salmonelózou.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ed9d3b544ea1367d6765a340b6f11116b6730d81",
+      "fingerprint": "9d8902261910a8d2962a2638b96834d6866c0d36",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/usa-skaliste-hory-hladovi-baribalove-medvedi-problemy-auta-lide-zradlo.A260926_112142_zahranicni_kha",
+      "published_utc": "2026-09-26T15:44:00Z",
+      "title_en": "Medvědí hladomor ve Skalistých horách. Divočina vtrhla mezi lidi, střetů přibývá",
+      "lead_en": "Když Patrick Sullivan letos v létě jednou ve tři hodiny ráno krmil svého malého syna, byl si jistý, že venku troubí nějaký šílený soused. Soused to byl, ale ne člověk.",
+      "title_raw": "Medvědí hladomor ve Skalistých horách. Divočina vtrhla mezi lidi, střetů přibývá",
+      "lead_raw": "Když Patrick Sullivan letos v létě jednou ve tři hodiny ráno krmil svého malého syna, byl si jistý, že venku troubí nějaký šílený soused. Soused to byl, ale ne člověk.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "22ae8fa6bd4960bedf6b655509a49ad2ff84402f",
+      "fingerprint": "f57f630e43ea01f1b69e91e12bcc21663c5c7bc5",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-rusko-bude-eskalovat-vuci-nato-varuji-experti-316186",
+      "published_utc": "2026-09-26T15:30:00Z",
+      "title_en": "„Eskalace je nevyhnutelná.“ Rusko už s ní začalo, varují experti",
+      "lead_en": "Ruských provokací v Evropě přibývá a v příštích měsících přibývat bude, obávají se experti. Kreml zvyšováním tlaku podle nich zkouší, zda oslabí evropskou podporu Ukrajině.",
+      "title_raw": "„Eskalace je nevyhnutelná.“ Rusko už s ní začalo, varují experti",
+      "lead_raw": "Ruských provokací v Evropě přibývá a v příštích měsících přibývat bude, obávají se experti. Kreml zvyšováním tlaku podle nich zkouší, zda oslabí evropskou podporu Ukrajině.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "cad7220742a38d05816d568a53eb507aad786f9a",
+      "fingerprint": "ca59cfdd0cf1d2cfd7538e0e1ad0b1922d0bb439",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/koktejl-brnenska-zoo-si-poridila-v-nemecku-vzacneho-tygra-sumaterskeho-40599684",
+      "published_utc": "2026-09-26T15:27:00Z",
+      "title_en": "Brněnská zoo si pořídila v Německu vzácného tygra sumaterského",
+      "lead_en": "Novým obyvatelem brněnské zoo se v noci na sobotu stal sedmiletý tygr sumaterský, kterého si chovatelé přivezli ze zahrady v německém Krefeldu. Návštěvníci ho pravděpodobně už v úterý uvidí v expozici Tygří skály, která je chloubou zoo.",
+      "title_raw": "Brněnská zoo si pořídila v Německu vzácného tygra sumaterského",
+      "lead_raw": "Novým obyvatelem brněnské zoo se v noci na sobotu stal sedmiletý tygr sumaterský, kterého si chovatelé přivezli ze zahrady v německém Krefeldu. Návštěvníci ho pravděpodobně už v úterý uvidí v expozici Tygří skály, která je chloubou zoo.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "4fe345cb83958aa9fca960c3a7c8143f61a2ccfa",
+      "fingerprint": "7d6df49ec17d7c14cde8915663bb87d831c66d7c",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/regiony/moje-nejvetsi-zivotni-vyhra-byl-manzel-rika-byvala-basketbalova-reprezentantka-377886",
+      "published_utc": "2026-09-26T15:26:43Z",
+      "title_en": "Moje největší životní výhra byl manžel, říká bývalá basketbalová reprezentantka",
+      "lead_en": "Věra Horáková (rozená Grubrová) patřila k úspěšným československým basketbalovým reprezentantkám. S národním týmem procestovala v šedesátých letech řadu zemí.",
+      "title_raw": "Moje největší životní výhra byl manžel, říká bývalá basketbalová reprezentantka",
+      "lead_raw": "Věra Horáková (rozená Grubrová) patřila k úspěšným československým basketbalovým reprezentantkám. S národním týmem procestovala v šedesátých letech řadu zemí.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "74195f31a8c21433bd7489decbf7d6b6627f9985",
+      "fingerprint": "0b1fa432bfae319afea2da1b4748a51c02c6a34c",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-takhle-byste-se-k-vlastni-dceri-nechoval-rekla-soudkyne-a-poslala-muze-na-sedm-let-do-vezeni-40599628",
+      "published_utc": "2026-09-26T15:25:35Z",
+      "title_en": "Takhle byste se k vlastní dceři nechoval, řekla soudkyně a poslala muže na sedm let do vězení",
+      "lead_en": "Se sedmiletým nepodmíněným trestem odešel od pardubického krajského soudu čtyřicetiletý muž. Jedenáct let se podílel na výchově dcery své družky.",
+      "title_raw": "Takhle byste se k vlastní dceři nechoval, řekla soudkyně a poslala muže na sedm let do vězení",
+      "lead_raw": "Se sedmiletým nepodmíněným trestem odešel od pardubického krajského soudu čtyřicetiletý muž. Jedenáct let se podílel na výchově dcery své družky.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "255f5f20f6a20008eb18f8d1d2e6f34e34f22633",
+      "fingerprint": "6ec147b52538ad100959429e3337defe82f51845",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-na-papezovu-msi-v-centru-parize-prisly-statisice-lidi-316275",
+      "published_utc": "2026-09-26T15:25:07Z",
+      "title_en": "Na papežovu mši v centru Paříže přišly statisíce lidí",
+      "lead_en": "Mše pod širým nebem se zúčastnilo na 700 000 lidí. Cestou na bohoslužbu z papamobilu žehnal nemluvňatům i zdravotně postižením.",
+      "title_raw": "Na papežovu mši v centru Paříže přišly statisíce lidí",
+      "lead_raw": "Mše pod širým nebem se zúčastnilo na 700 000 lidí. Cestou na bohoslužbu z papamobilu žehnal nemluvňatům i zdravotně postižením.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "54d7c6070d56cbcfe528bb9faeb94c58cfeb91d8",
+      "fingerprint": "57a9ac7ce8e8b6aeef97dc10affb25cf477ce582",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-ceske-zalivky-chteji-miliardu-potrebuji-k-tomu-retezce-i-expanzi-316227",
+      "published_utc": "2026-09-26T15:15:00Z",
+      "title_en": "České zálivky chtějí miliardu. Potřebují k tomu řetězce i expanzi",
+      "lead_en": "Za pět let vyrostl český výrobce zálivek s japonskou inspirací Fermato z nuly na 90 milionů tržeb. Letos cílí na téměř dvojnásobná čísla a prohlubuje spolupráci s obchodními řetězci.",
+      "title_raw": "České zálivky chtějí miliardu. Potřebují k tomu řetězce i expanzi",
+      "lead_raw": "Za pět let vyrostl český výrobce zálivek s japonskou inspirací Fermato z nuly na 90 milionů tržeb. Letos cílí na téměř dvojnásobná čísla a prohlubuje spolupráci s obchodními řetězci.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "2ee0599d52a3ab3249b4ae333ef3171e9f35ce93",
+      "fingerprint": "8d7e3dd46677af4402dddec61f77c999e9ca1aae",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-v-decine-vykolejil-nakladni-vlak-koridor-do-nemecka-stoji-40599702",
+      "published_utc": "2026-09-26T15:07:16Z",
+      "title_en": "V Děčíně vykolejil vagon nákladního vlaku, koridor do Německa stál",
+      "lead_en": "Vykolejený vagon nákladního vlaku na nádraží v Děčíně v sobotu odpoledne zastavil provoz na železničním koridoru směrem na státní hranici s Německem. Vlaky nejely několik hodin.",
+      "title_raw": "V Děčíně vykolejil vagon nákladního vlaku, koridor do Německa stál",
+      "lead_raw": "Vykolejený vagon nákladního vlaku na nádraží v Děčíně v sobotu odpoledne zastavil provoz na železničním koridoru směrem na státní hranici s Německem. Vlaky nejely několik hodin.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "aecb6cbc07f39ad7245a3181c58f0c7514a26d14",
+      "fingerprint": "07face99fba70bddc75c85405bff9c51d07da363",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/2600-az-2900-korun-navic-nestaci-odbory-nesouhlasi-s-rusty-platu-hasicu-a_2609261702_mst",
+      "published_utc": "2026-09-26T15:02:00Z",
+      "title_en": "2600 až 2900 korun navíc nestačí. Odbory nesouhlasí s růsty platů hasičů a policistů, chtějí zvýšení tarifu",
+      "lead_en": "Odbory nesouhlasí s ohlášeným zvýšením platů policistů, hasičů, celníků a příslušníků vězeňské služby o 2600 až 2900 korun a rozdělením přidání do tarifu a odměn. Požadují zvýšení základu výdělku od ledna o deset procent.",
+      "title_raw": "2600 až 2900 korun navíc nestačí. Odbory nesouhlasí s růsty platů hasičů a policistů, chtějí zvýšení tarifu",
+      "lead_raw": "Odbory nesouhlasí s ohlášeným zvýšením platů policistů, hasičů, celníků a příslušníků vězeňské služby o 2600 až 2900 korun a rozdělením přidání do tarifu a odměn. Požadují zvýšení základu výdělku od ledna o deset procent.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "675eb7037e59c0f1deb649a397cb923c61c2d0fc",
+      "fingerprint": "99cfe590eac8141ec7584e47607f75dd366b17a1",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-moravskoslezsky-kraj-pres-sest-tun-vzpominek-obri-kotva-z-lodi-trinec-pripomina-ceskoslovenske-namorniky-na-ktere-se-zapomnelo-40599296",
+      "published_utc": "2026-09-26T15:01:15Z",
+      "title_en": "Přes šest tun vzpomínek. Obří kotva z lodi Třinec připomíná československé námořníky, na které se zapomnělo",
+      "lead_en": "Vlastní památník mají od středy námořníci i flotila 44 lodí, která brázdila moře a oceány pod vlajkou dnes už zaniklé Československé námořní plavby. Symbolicky se jí stala jedna ze tří obřích kotev lodi Třinec, posledního korábu zašlé slávy tuzemského námořnictva, která se stala novým artefaktem revitalizovaného náměstí T.",
+      "title_raw": "Přes šest tun vzpomínek. Obří kotva z lodi Třinec připomíná československé námořníky, na které se zapomnělo",
+      "lead_raw": "Vlastní památník mají od středy námořníci i flotila 44 lodí, která brázdila moře a oceány pod vlajkou dnes už zaniklé Československé námořní plavby. Symbolicky se jí stala jedna ze tří obřích kotev lodi Třinec, posledního korábu zašlé slávy tuzemského námořnictva, která se stala novým artefaktem revitalizovaného náměstí T.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "a59d793dfd9dd7935ec876df6fa5d5a9b5e8051c",
+      "fingerprint": "1f80d74cacbfb70b4b14b7fc7d5c7edc556a16c6",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-barokni-most-meli-strhnout-ted-bude-pamatkou-obec-se-boji-objizdek-315653",
+      "published_utc": "2026-09-26T14:50:00Z",
+      "title_en": "Barokní most měli strhnout, teď bude památkou. Obec se bojí objížděk",
+      "lead_en": "Po letech sporů se stal mostek ve středočeské Květnici památkou. Silničáři ho původně plánovali zbourat, teď budou řešit jeho rekonstrukci.",
+      "title_raw": "Barokní most měli strhnout, teď bude památkou. Obec se bojí objížděk",
+      "lead_raw": "Po letech sporů se stal mostek ve středočeské Květnici památkou. Silničáři ho původně plánovali zbourat, teď budou řešit jeho rekonstrukci.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
     {
       "id": "677ea4ca3036478c6b910cfc27fac57e006e68d0",
       "fingerprint": "d034b8aa8f178a2e9f581403c52355968a43d4f5",
@@ -201,6 +947,26 @@
       "title_en": "Odbory nesouhlasí s plánem pro platy policistů a hasičů, žádají 10 pct do tarifů",
       "lead_en": "Praha - Odbory nesouhlasí s ohlášeným zvýšením platů policistů, hasičů, celníků a příslušníků vězeňské služby o 2600 až 2900 korun a rozdělením přidání do tarifu a odměn. Požadují zvýšení základu výdělku...",
       "title_raw": "Odbory nesouhlasí s plánem pro platy policistů a hasičů, žádají 10 pct do tarifů",
+      "lead_raw": "Praha - Odbory nesouhlasí s ohlášeným zvýšením platů policistů, hasičů, celníků a příslušníků vězeňské služby o 2600 až 2900 korun a rozdělením přidání do tarifu a odměn. Požadují zvýšení základu výdělku...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "364758903207f1d94d4fe264c936f8a78dfb5280",
+      "fingerprint": "824e29c6f2c5a70536b3bf20c56bfd64c59127ce",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/odbory-nesouhlasi-s-planem-pro-platy-policistu-a-hasicu/2877577",
+      "published_utc": "2026-09-26T14:28:00Z",
+      "title_en": "Odbory nesouhlasí s plánem pro platy policistů a hasičů",
+      "lead_en": "Praha - Odbory nesouhlasí s ohlášeným zvýšením platů policistů, hasičů, celníků a příslušníků vězeňské služby o 2600 až 2900 korun a rozdělením přidání do tarifu a odměn. Požadují zvýšení základu výdělku...",
+      "title_raw": "Odbory nesouhlasí s plánem pro platy policistů a hasičů",
       "lead_raw": "Praha - Odbory nesouhlasí s ohlášeným zvýšením platů policistů, hasičů, celníků a příslušníků vězeňské služby o 2600 až 2900 korun a rozdělením přidání do tarifu a odměn. Požadují zvýšení základu výdělku...",
       "topic_scores": {
         "diplomacy": 0,
