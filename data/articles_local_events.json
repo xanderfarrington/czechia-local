@@ -1,10 +1,76 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-27T14:52:20Z",
+  "updated_at_utc": "2026-09-27T18:43:05Z",
   "topic": "local_events",
-  "count": 27,
+  "count": 26,
   "articles": [
+    {
+      "id": "6843b710a7ab4cd91f322f8abd27dc04e9a2c093",
+      "fingerprint": "68262e915267a600fe63831c7f08d75ddda46f98",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/plzen/zpravy/d5-mlynec-tachovsko-dopravni-nehoda-zraneni-vrtulnik.A260927_183928_plzen-zpravy_aya",
+      "published_utc": "2026-09-27T17:06:00Z",
+      "title_en": "Sjel z D5 u Mlýnce na Tachovsku do betonového žlabu. Letěl pro něj vrtulník",
+      "lead_en": "Nehoda osobního auta zkomplikovala v neděli odpoledne dopravu na dálnici D5 u Mlýnce na Tachovsku. Vážně zraněného řidiče přepravil vrtulník do nemocnice, kde mu zajistili odběr krve.",
+      "title_raw": "Sjel z D5 u Mlýnce na Tachovsku do betonového žlabu. Letěl pro něj vrtulník",
+      "lead_raw": "Nehoda osobního auta zkomplikovala v neděli odpoledne dopravu na dálnici D5 u Mlýnce na Tachovsku. Vážně zraněného řidiče přepravil vrtulník do nemocnice, kde mu zajistili odběr krve.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "23fac9eb2b0d9d9cb22c3cc82bb4c509c714b034",
+      "fingerprint": "50b158d4f6db69abd13ebb0e559ff8fc7c1837c6",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-motorkar-na-jihu-cech-predjizdel-traktor-po-srazce-utrpel-mnohacetna-zraneni-40599744",
+      "published_utc": "2026-09-27T15:55:28Z",
+      "title_en": "Motorkář na jihu Čech předjížděl traktor. Po srážce utrpěl mnohačetná zranění",
+      "lead_en": "Všechny složky integrovaného záchranného systému zasahovaly v neděli krátce před polednem na Jindřichohradecku. Podle prozatímních informací došlo ke srážce čtyřicetiletého motorkáře s traktorem.",
+      "title_raw": "Motorkář na jihu Čech předjížděl traktor. Po srážce utrpěl mnohačetná zranění",
+      "lead_raw": "Všechny složky integrovaného záchranného systému zasahovaly v neděli krátce před polednem na Jindřichohradecku. Podle prozatímních informací došlo ke srážce čtyřicetiletého motorkáře s traktorem.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "e9973317c3687ac058a298468ce7fe9d8a0b6a8d",
+      "fingerprint": "c40d8a750360d121578c6ce4a5593ac180e87018",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-plzensky-kraj-nejvetsi-hradni-zriceninu-v-cesku-cekaji-rozsahle-zachranne-prace-40599512",
+      "published_utc": "2026-09-27T15:21:00Z",
+      "title_en": "Největší hradní zříceninu v Česku čekají rozsáhlé záchranné práce",
+      "lead_en": "Hrad Rabí na Klatovsku, největší zřícenina v České republice, potřebuje zásadní opravu. Stabilizaci vyžadují části hradeb, terasy Královského paláce i skála, na které národní kulturní památka stojí.",
+      "title_raw": "Největší hradní zříceninu v Česku čekají rozsáhlé záchranné práce",
+      "lead_raw": "Hrad Rabí na Klatovsku, největší zřícenina v České republice, potřebuje zásadní opravu. Stabilizaci vyžadují části hradeb, terasy Královského paláce i skála, na které národní kulturní památka stojí.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "3a815147795c88ce853d540df27bb4aa71966ceb",
       "fingerprint": "e955f1b3469d42cd5ba083d8261f95e51af1fbf0",
@@ -505,94 +571,6 @@
         "military": 0,
         "energy": 0,
         "economy": 1,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "59a5d839da82d09e0929f90e5cc09aa6b7b5e388",
-      "fingerprint": "938ea2cf7686274fc942dee2589dc59d9f103264",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/osmnactilety-cech-se-zritil-ze-svycarske-hory-377968",
-      "published_utc": "2026-09-25T18:12:03Z",
-      "title_en": "Osmnáctiletý Čech se zřítil ze švýcarské hory",
-      "lead_en": "U švýcarského Lucernu zahynul osmnáctiletý český turista, který se ve čtvrtek zřítil v prudkém terénu na hoře Pilatus. Záchranáři ho nalezli už mrtvého, informovala v pátek podle místních médií policie.",
-      "title_raw": "Osmnáctiletý Čech se zřítil ze švýcarské hory",
-      "lead_raw": "U švýcarského Lucernu zahynul osmnáctiletý český turista, který se ve čtvrtek zřítil v prudkém terénu na hoře Pilatus. Záchranáři ho nalezli už mrtvého, informovala v pátek podle místních médií policie.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "c706bcbf686d3c4fad512f1936165d5eeb8baec2",
-      "fingerprint": "b2137d8712bd2f66e3bbc81172b79383608cb4fa",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/svycarsko-pilatus-lucern-cech-smrt-mlady-policie-organizovana-skupina.A260925_194158_zahranicni_votr",
-      "published_utc": "2026-09-25T18:06:00Z",
-      "title_en": "Český turista zemřel při pádu v horách ve Švýcarsku",
-      "lead_en": "U švýcarského Lucernu zahynul 18letý český turista, který se ve čtvrtek zřítil v prudkém terénu na hoře Pilatus. Záchranáři ho nalezli už mrtvého, informovala v pátek podle místních médií policie.",
-      "title_raw": "Český turista zemřel při pádu v horách ve Švýcarsku",
-      "lead_raw": "U švýcarského Lucernu zahynul 18letý český turista, který se ve čtvrtek zřítil v prudkém terénu na hoře Pilatus. Záchranáři ho nalezli už mrtvého, informovala v pátek podle místních médií policie.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "3ef5232b87a9fc969d9ba2085f9b383734d2e7c8",
-      "fingerprint": "533c01aae89f8af810640bb905988cd0dd190a5c",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-nejbohatsi-lide-se-zesnulym-realitnim-magnatem-moravkem-se-rozloucili-miliardari-i-politici-316171",
-      "published_utc": "2026-09-25T16:45:00Z",
-      "title_en": "Se zesnulým realitním magnátem Morávkem se rozloučili miliardáři i politici",
-      "lead_en": "V Olomouci se uskutečnilo poslední rozloučení s realitním magnátem Richardem Morávkem, který zemřel na následky červencové nehody ve Španělsku. Smutečního obřadu se zúčastnila řada hostů, včetně miliardářů.",
-      "title_raw": "Se zesnulým realitním magnátem Morávkem se rozloučili miliardáři i politici",
-      "lead_raw": "V Olomouci se uskutečnilo poslední rozloučení s realitním magnátem Richardem Morávkem, který zemřel na následky červencové nehody ve Španělsku. Smutečního obřadu se zúčastnila řada hostů, včetně miliardářů.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "6b47cc2a72b4bac15e15bb0aedb435993904315f",
-      "fingerprint": "02d11ba3c8d069f966480fd998a7f0abe3eaa1d7",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-mohutny-rusky-utok-na-kyjev-sedm-mrtvych-40599663",
-      "published_utc": "2026-09-25T16:40:51Z",
-      "title_en": "Mohutný ruský útok na Kyjev. Sedm mrtvých",
-      "lead_en": "Ruské údery na Kyjev si v pátek vyžádaly sedm mrtvých. Dalších 46 lidí při nich utrpělo zranění.",
-      "title_raw": "Mohutný ruský útok na Kyjev. Sedm mrtvých",
-      "lead_raw": "Ruské údery na Kyjev si v pátek vyžádaly sedm mrtvých. Dalších 46 lidí při nich utrpělo zranění.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
         "local_events": 2
       },
       "topics": [
