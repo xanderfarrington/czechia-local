@@ -1,10 +1,346 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-28T14:37:52Z",
+  "updated_at_utc": "2026-09-28T20:53:20Z",
   "topic": "military",
-  "count": 41,
+  "count": 53,
   "articles": [
+    {
+      "id": "e362df31a003a1e3352ce7f4c026b6f6ff3fef05",
+      "fingerprint": "6b23b0a15f941f4e8c704fc6e63860b8b3f9c28c",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/velka-britanie-zakladna-raf-fairforf-zatceni-muzi-usa-iran.A260928_161533_zahranicni_kha",
+      "published_utc": "2026-09-28T20:38:04Z",
+      "title_en": "U letecké základny v Anglii zadrželi pět Britů, Írán popírá jakýkoliv podíl",
+      "lead_en": "Všech pět podezřelých, kteří byli v neděli zadrženi u západoanglické základny RAF Fairford využívané americkým letectvem, jsou britští občané. Britská policie v pondělí odpoledne oznámila, že pětice mužů byla propuštěna na kauci, píše agentura Reuters.",
+      "title_raw": "U letecké základny v Anglii zadrželi pět Britů, Írán popírá jakýkoliv podíl",
+      "lead_raw": "Všech pět podezřelých, kteří byli v neděli zadrženi u západoanglické základny RAF Fairford využívané americkým letectvem, jsou britští občané. Britská policie v pondělí odpoledne oznámila, že pětice mužů byla propuštěna na kauci, píše agentura Reuters.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "c722bc7e534d83f11c8f9ec3c8836ad157aa407e",
+      "fingerprint": "76559d33c5df4fa7572c6ba88cd454c90e6e65f7",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/pocasi-tani-ledovcu-v-alpach-zhorsuje-bezpecnost-na-turistickych-trasach-40599704",
+      "published_utc": "2026-09-28T20:24:04Z",
+      "title_en": "Tání ledovců v Alpách zhoršuje bezpečnost na turistických trasách",
+      "lead_en": "Záchranáři v rakouských Alpách letos zaznamenali 2742 nehod, což je zhruba o 400 více než v posledních deseti letech. Přibylo hlavně pádů do ledovcových trhlin, a to až trojnásobně.",
+      "title_raw": "Tání ledovců v Alpách zhoršuje bezpečnost na turistických trasách",
+      "lead_raw": "Záchranáři v rakouských Alpách letos zaznamenali 2742 nehod, což je zhruba o 400 více než v posledních deseti letech. Přibylo hlavně pádů do ledovcových trhlin, a to až trojnásobně.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "8fefceed5081cc6fa3e9e12cab70b7ecc8387aca",
+      "fingerprint": "4e34bed98f30e97c88d67e2b900a4be8fedc3398",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-jizni-korea-po-kyjevu-pozaduje-omluvu-za-odhaleni-presunu-zajatych-severokorejcu-40599804",
+      "published_utc": "2026-09-28T19:32:00Z",
+      "title_en": "Jižní Korea po Kyjevu požaduje omluvu za odhalení přesunu zajatých Severokorejců",
+      "lead_en": "Jihokorejská prezidentská kancelář po Kyjevu požaduje vysvětlení a omluvu za to, že zveřejnil, že Soulu předal dva zajaté severokorejské vojáky, kteří bojovali za Rusko. Posléze navíc lhal, že se na utajení přesunu země nedohodly.",
+      "title_raw": "Jižní Korea po Kyjevu požaduje omluvu za odhalení přesunu zajatých Severokorejců",
+      "lead_raw": "Jihokorejská prezidentská kancelář po Kyjevu požaduje vysvětlení a omluvu za to, že zveřejnil, že Soulu předal dva zajaté severokorejské vojáky, kteří bojovali za Rusko. Posléze navíc lhal, že se na utajení přesunu země nedohodly.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "4ce96eade20332e196dcbffec91a550484d4e24c",
+      "fingerprint": "af7c72acb3d4aec3d252175fb3949413d4c6fb43",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/dron-olesky-potraviny-lek-valka-na-ukrajine-rusko-okupace-dnepr.A260928_173540_zahranicni_hock",
+      "published_utc": "2026-09-28T19:32:00Z",
+      "title_en": "Ukrajinské drony dopravily do okupovaného města Olešky čtyři tuny potravin a léků",
+      "lead_en": "Ukrajinská armáda využila bezpilotní letouny k dodání potravin a léků do města Olešky, které je pod ruskou okupací. Podle agentury Reuters to uvedl šéf vojenské správy ukrajinské Chersonské oblasti Oleksandr Prokudin.",
+      "title_raw": "Ukrajinské drony dopravily do okupovaného města Olešky čtyři tuny potravin a léků",
+      "lead_raw": "Ukrajinská armáda využila bezpilotní letouny k dodání potravin a léků do města Olešky, které je pod ruskou okupací. Podle agentury Reuters to uvedl šéf vojenské správy ukrajinské Chersonské oblasti Oleksandr Prokudin.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "02c08cd23969a3f9f6865c26c8da759b8974be9b",
+      "fingerprint": "9497fd11e49956b29197b4f6d7deef3157fa21a9",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/reuters-rusko-na-pristi-rok-planuje-nejvyssi-vojenske-vydaje-od-zacatku-valky/2880350",
+      "published_utc": "2026-09-28T19:22:00Z",
+      "title_en": "Reuters: Rusko na příští rok plánuje nejvyšší vojenské výdaje od začátku války",
+      "lead_en": "Moskva - Rusko v příštím roce plánuje vojenské výdaje ve výši 17,1 bilionu rublů (zhruba 4,3 bilionu Kč). To je přibližně o 27 procent více než původně plánovaných 13,5 bilionu rublů a zároveň nejvyšší...",
+      "title_raw": "Reuters: Rusko na příští rok plánuje nejvyšší vojenské výdaje od začátku války",
+      "lead_raw": "Moskva - Rusko v příštím roce plánuje vojenské výdaje ve výši 17,1 bilionu rublů (zhruba 4,3 bilionu Kč). To je přibližně o 27 procent více než původně plánovaných 13,5 bilionu rublů a zároveň nejvyšší...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "aa4658e9a4d007d8b02826c2efbf0879f26eabdb",
+      "fingerprint": "fea00b722792270cd6d04cf2ea1c41b4ba0aa20e",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/internet-a-pc-ai-nova-pojistka-proti-zdivocele-ai-agenta-odstavi-behem-milisekund-40599831",
+      "published_utc": "2026-09-28T19:02:55Z",
+      "title_en": "Nová pojistka proti zdivočelé AI. Agenta odstaví během milisekund",
+      "lead_en": "Nvidia představila v pondělí nový bezpečnostní systém, který má držet AI agenty na uzdě i v okamžiku, kdy se pokusí překročit nastavené hranice. Platforma kombinuje speciální software s kontrolou přímo na úrovni hardwaru.",
+      "title_raw": "Nová pojistka proti zdivočelé AI. Agenta odstaví během milisekund",
+      "lead_raw": "Nvidia představila v pondělí nový bezpečnostní systém, který má držet AI agenty na uzdě i v okamžiku, kdy se pokusí překročit nastavené hranice. Platforma kombinuje speciální software s kontrolou přímo na úrovni hardwaru.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1cd07b0f7a84ff327d1828786650f2c6a89997d7",
+      "fingerprint": "a27c1f42851f4dd2ce86e65391dc4b124e72338f",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-az-400-tisic-za-hodinu-pro-advokata-sef-slovenskeho-uradu-vlady-u-soudu-neuspel-316324",
+      "published_utc": "2026-09-28T19:02:03Z",
+      "title_en": "Až 400 tisíc za hodinu pro advokáta. Slovenský šéf úřadu vlády u soudu neuspěl",
+      "lead_en": "Podle soudu si slovenský vedoucí úřadu vlády Juraj Gedra navyšoval své výdaje za právní služby během kauzy milionových odměn pro advokáta Radomíra Bžána.",
+      "title_raw": "Až 400 tisíc za hodinu pro advokáta. Slovenský šéf úřadu vlády u soudu neuspěl",
+      "lead_raw": "Podle soudu si slovenský vedoucí úřadu vlády Juraj Gedra navyšoval své výdaje za právní služby během kauzy milionových odměn pro advokáta Radomíra Bžána.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "fbb9b48d877e63413c196e98ee42754e7c2d7125",
+      "fingerprint": "0a75e8220ad2974988b22e069019839f0cabe258",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-kaliningrad-budeme-branit-vsemi-prostredky-vzkazuje-moskva-316342",
+      "published_utc": "2026-09-28T19:01:41Z",
+      "title_en": "Kaliningrad budeme bránit všemi prostředky, vzkazuje Moskva",
+      "lead_en": "Rusko uvedlo, že nezamýšlí zaútočit proti pobaltským zemím, ale je v případě jakýchkoliv pokusů o blokádu ze strany NATO připraveno nasadit zbraně k obraně svého území. Vojenské výdaje plánuje příští rok navýšit skoro o třetinu.",
+      "title_raw": "Kaliningrad budeme bránit všemi prostředky, vzkazuje Moskva",
+      "lead_raw": "Rusko uvedlo, že nezamýšlí zaútočit proti pobaltským zemím, ale je v případě jakýchkoliv pokusů o blokádu ze strany NATO připraveno nasadit zbraně k obraně svého území. Vojenské výdaje plánuje příští rok navýšit skoro o třetinu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 4,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "944ca8c980198b0b4e67c2063dba89574dbf11f7",
+      "fingerprint": "44146ac480e1e103f5c7531e2191644bed4468b9",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-trump-nabizel-cine-americke-zbrane-popsal-velvyslanec-bily-dum-to-dementoval-316343",
+      "published_utc": "2026-09-28T18:39:00Z",
+      "title_en": "Trump nabízel Číně americké zbraně, popsal velvyslanec. Bílý dům to dementoval",
+      "lead_en": "Čínský prezident Si Ťin-pching měl při návštěvě Spojených států obdržet nabídku na nákup zbraní. Podle Bílého domu se nic takového nestalo.",
+      "title_raw": "Trump nabízel Číně americké zbraně, popsal velvyslanec. Bílý dům to dementoval",
+      "lead_raw": "Čínský prezident Si Ťin-pching měl při návštěvě Spojených států obdržet nabídku na nákup zbraní. Podle Bílého domu se nic takového nestalo.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "32744db9b50eb4c81c9f4ea332c63617a3dcd5ce",
+      "fingerprint": "8b4c41a52879f71909877983051fb13f3866fa1c",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/rusko-nato-vojensky-konflikt-blokada-varovani-kaliningrad.A260928_202033_zahranicni_hock",
+      "published_utc": "2026-09-28T18:30:00Z",
+      "title_en": "Nasadíme všechny dostupné zbraně, varuje Rusko před blokádou Kaliningradu",
+      "lead_en": "Ruské velvyslanectví v Belgii varovalo Severoatlantickou alianci, že její nezodpovědný přístup vůči Kaliningradské oblasti zvyšuje riziko přímého ozbrojeného střetu. Rusko je podle ambasády připraveno nasadit zbraně k obraně svého území v případě jakýchkoli pokusů zemí NATO o blokádu této oblasti.",
+      "title_raw": "Nasadíme všechny dostupné zbraně, varuje Rusko před blokádou Kaliningradu",
+      "lead_raw": "Ruské velvyslanectví v Belgii varovalo Severoatlantickou alianci, že její nezodpovědný přístup vůči Kaliningradské oblasti zvyšuje riziko přímého ozbrojeného střetu. Rusko je podle ambasády připraveno nasadit zbraně k obraně svého území v případě jakýchkoli pokusů zemí NATO o blokádu této oblasti.",
+      "topic_scores": {
+        "diplomacy": 3,
+        "military": 4,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "858c5d50f4b923396fc7f29a4d39cb4c0e17b71e",
+      "fingerprint": "6d37e4771a45e4077ec1eb129a50ef08c0639b91",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-rusko-na-blokadu-kaliningradu-odpovime-veskerym-arzenalem-40599830",
+      "published_utc": "2026-09-28T18:00:08Z",
+      "title_en": "Rusko: Na vojenskou blokádu Kaliningradu odpovíme veškerým arzenálem",
+      "lead_en": "V případě blokády Kaliningradu ze strany NATO je Rusko připraveno nasadit svůj veškerý vojenský arzenál k obraně enklávy, uvedla agentura TASS s odvoláním na ruské velvyslanectví v Belgii.",
+      "title_raw": "Rusko: Na vojenskou blokádu Kaliningradu odpovíme veškerým arzenálem",
+      "lead_raw": "V případě blokády Kaliningradu ze strany NATO je Rusko připraveno nasadit svůj veškerý vojenský arzenál k obraně enklávy, uvedla agentura TASS s odvoláním na ruské velvyslanectví v Belgii.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "51e61cbbf1fe0b84ef37aeac359bd61fbe4e73ba",
+      "fingerprint": "e1048814c440b80dfd9be8fa8ed61dbb887479fb",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/svaty-vaclav-je-symbol-nasi-identity-rekl-arcibiskup-pribyl-378036",
+      "published_utc": "2026-09-28T17:51:39Z",
+      "title_en": "Svatý Václav je symbol naší identity, řekl arcibiskup Přibyl",
+      "lead_en": "Svatý Václav je pro mě symbol, nejenom historická postava, světec, ale i symbol naší identity, řekl arcibiskup pražský a primas český Stanislav Přibyl v Interview ČT24. Velký zájem vidět korunovační klenoty si pak vysvětluje jednak jejich vzácností, ale i tajemstvím okolo nich, protože většinu času jsou zavřené v trezoru.",
+      "title_raw": "Svatý Václav je symbol naší identity, řekl arcibiskup Přibyl",
+      "lead_raw": "Svatý Václav je pro mě symbol, nejenom historická postava, světec, ale i symbol naší identity, řekl arcibiskup pražský a primas český Stanislav Přibyl v Interview ČT24. Velký zájem vidět korunovační klenoty si pak vysvětluje jednak jejich vzácností, ale i tajemstvím okolo nich, protože většinu času jsou zavřené v trezoru.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "87e3b17a1e43d3785065def27b12a05efa5d309f",
+      "fingerprint": "dcfb75509a3252bf5d71240f16a21152506d20d4",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-zeme-eu-zvazuji-spolecne-akce-proti-utokum-ruska-316330",
+      "published_utc": "2026-09-28T17:16:30Z",
+      "title_en": "„Proti Rusku potřebujeme obranu, která ho bude bolet,“ plánuje Evropa",
+      "lead_en": "Ministři obrany zemí EU řešili v Bruselu i otázku evropského mechanismu k reakcím proti ruským útokům. Takzvaný Pohotovostní bezpečnostní protokol, který se přirovnává k článku 4 NATO, navrhla už dřív šéfka Evropské komise.",
+      "title_raw": "„Proti Rusku potřebujeme obranu, která ho bude bolet,“ plánuje Evropa",
+      "lead_raw": "Ministři obrany zemí EU řešili v Bruselu i otázku evropského mechanismu k reakcím proti ruským útokům. Takzvaný Pohotovostní bezpečnostní protokol, který se přirovnává k článku 4 NATO, navrhla už dřív šéfka Evropské komise.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "b5f2e590a42984e77c089a96fcbb2155493471fc",
+      "fingerprint": "9f972185a4a493a9d1c91f67442997894c078b5d",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-fotky-domy-jim-zdemolovala-izraelska-armada-ziji-v-jeskynich-315991",
+      "published_utc": "2026-09-28T16:51:00Z",
+      "title_en": "Fotky: Domy jim zdemolovala izraelská armáda, žijí v jeskyních",
+      "lead_en": "Pastevec Mohammed Emar vybudoval pro svou rodinu plnohodnotný domov, kde si jeho dcery mohou dokonce zpívat karaoke. Jenže se nachází v jeskyni.",
+      "title_raw": "Fotky: Domy jim zdemolovala izraelská armáda, žijí v jeskyních",
+      "lead_raw": "Pastevec Mohammed Emar vybudoval pro svou rodinu plnohodnotný domov, kde si jeho dcery mohou dokonce zpívat karaoke. Jenže se nachází v jeskyni.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ad4de68dbced019d6e0c3206490f23a27c091e15",
+      "fingerprint": "603ba9ae8983ef54b56f7506bbec620d265df730",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/piloti-budou-moci-rychleji-nicit-objekty-vnikajici-do-polska-ze-strany-ruska.A260928_173117_zahranicni_remy",
+      "published_utc": "2026-09-28T15:37:00Z",
+      "title_en": "Ponaučení z ruské vzdušné provokace: Poláci se s identifikací už párat nebudou",
+      "lead_en": "Polská armáda v nadcházejících dnech upraví postupy, které umožní pilotům stíhacích letounů a vrtulníků sestřelovat objekty pronikající do polského vzdušného prostoru ze strany Ruska na základě údajů z radarů, a nikoliv až po vizuální identifikaci. Podle rádia RMF24 to dnes uvedl náměstek ministra obrany Cezary Tomczyk.",
+      "title_raw": "Ponaučení z ruské vzdušné provokace: Poláci se s identifikací už párat nebudou",
+      "lead_raw": "Polská armáda v nadcházejících dnech upraví postupy, které umožní pilotům stíhacích letounů a vrtulníků sestřelovat objekty pronikající do polského vzdušného prostoru ze strany Ruska na základě údajů z radarů, a nikoliv až po vizuální identifikaci. Podle rádia RMF24 to dnes uvedl náměstek ministra obrany Cezary Tomczyk.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "05762a7f80e7fe8af3f3553a28ed17183b1458d2",
       "fingerprint": "8a5c66123b7cb056c983ab5da2ed611bdae20941",
@@ -833,73 +1169,6 @@
       "lead_en": "Nástup bývalého policejního prezidenta Jana Švejdara na místo výkonného ředitele bezpečnosti Letiště Václava Havla podle zjištění iROZHLAS.cz proběhl standardním způsobem. Okolnostmi výběrového řízení se zabývalo auditní šetření, které se spustilo po nástupu nového předsedy představenstva letiště.",
       "title_raw": "Nové vedení Letiště Praha poslalo na Švejdara auditory. Teď management tají, že při prověrce obstál",
       "lead_raw": "Nástup bývalého policejního prezidenta Jana Švejdara na místo výkonného ředitele bezpečnosti Letiště Václava Havla podle zjištění iROZHLAS.cz proběhl standardním způsobem. Okolnostmi výběrového řízení se zabývalo auditní šetření, které se spustilo po nástupu nového předsedy představenstva letiště.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "03d9385027e0b68b23c12f279cddce19c3671e0f",
-      "fingerprint": "ed4cd9e970edfe2038a5d7cc3939b6b4aefb9503",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-at-vlada-splni-sliby-nebo-pritvrdime-policejni-odborari-chystaji-protest-316270",
-      "published_utc": "2026-09-26T17:20:00Z",
-      "title_en": "„Ať vláda splní sliby, nebo přitvrdíme,“ hlásí policejní odboráři",
-      "lead_en": "Když vláda neudělá změny, přitvrdíme, slibuje odborář, který zve protestní akci proti poměrům u policie a v dalších bezpečnostních složkách. A to v době, kdy ministr vnitra ohlásil zvýšení platů.",
-      "title_raw": "„Ať vláda splní sliby, nebo přitvrdíme,“ hlásí policejní odboráři",
-      "lead_raw": "Když vláda neudělá změny, přitvrdíme, slibuje odborář, který zve protestní akci proti poměrům u policie a v dalších bezpečnostních složkách. A to v době, kdy ministr vnitra ohlásil zvýšení platů.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "170bf7608cf3bdb946af2cc41e79b9a60a1dd808",
-      "fingerprint": "69431ab19c736873f5ead2414bd8601a0a466da8",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/volby-komunalni-nebezpeci-na-silnicich-situace-ve-meste-je-katastrofalni-zni-pred-volbami-316041",
-      "published_utc": "2026-09-26T16:45:00Z",
-      "title_en": "Nejnebezpečnější doprava v Česku? Situace je katastrofální, zní před volbami",
-      "lead_en": "Podle dat a statistik má dlouhodobě nejvíce mrtvých a těžce zraněných chodců ze všech krajských měst v Česku. Doprava a bezpečnost na silnicích v Brně se tak stala jedním z velkých témat komunálních voleb.",
-      "title_raw": "Nejnebezpečnější doprava v Česku? Situace je katastrofální, zní před volbami",
-      "lead_raw": "Podle dat a statistik má dlouhodobě nejvíce mrtvých a těžce zraněných chodců ze všech krajských měst v Česku. Doprava a bezpečnost na silnicích v Brně se tak stala jedním z velkých témat komunálních voleb.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "b0486dd4071fe4db1751691fa37896af54e46790",
-      "fingerprint": "efae4dcdd88eab60e19bec2b98e5a157344fb101",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-odbory-nesouhlasi-s-planem-pro-platy-policistu-a-hasicu-pozaduji-vic-316274",
-      "published_utc": "2026-09-26T14:40:48Z",
-      "title_en": "Odbory nesouhlasí s plánem pro platy policistů a hasičů, požadují víc",
-      "lead_en": "Odborová Unie bezpečnostních složek nesouhlasí se zvýšením platů pro hasiče, policisty, celníky a vězeňskou službu, které v pondělí ohlásil ministr vnitra Lubomír Metnar. Požadují zvýšení základního výdělku o 10 procent.",
-      "title_raw": "Odbory nesouhlasí s plánem pro platy policistů a hasičů, požadují víc",
-      "lead_raw": "Odborová Unie bezpečnostních složek nesouhlasí se zvýšením platů pro hasiče, policisty, celníky a vězeňskou službu, které v pondělí ohlásil ministr vnitra Lubomír Metnar. Požadují zvýšení základního výdělku o 10 procent.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
