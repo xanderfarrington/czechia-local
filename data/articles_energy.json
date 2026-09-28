@@ -1,10 +1,101 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-28T00:04:25Z",
+  "updated_at_utc": "2026-09-28T06:01:43Z",
   "topic": "energy",
-  "count": 32,
+  "count": 34,
   "articles": [
+    {
+      "id": "662a03163b4b4a050a62dde92dcb4d179ca1c4d7",
+      "fingerprint": "ef5fa3083a59d1c9fd871be8206d0ffafaf6a0eb",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-seznam-za-60-miliard-dolaru-usa-a-cina-zverejnily-kde-si-nechteji-skodit-316309",
+      "published_utc": "2026-09-28T05:35:00Z",
+      "title_en": "Seznam za 60 miliard dolarů. USA a Čína zveřejnily, kde si nechtějí škodit",
+      "lead_en": "Američané mají dostat levnější hračky, Číňané zase americké uhlí, obiloviny a maso. Sazby ani termín, odkdy by úlevy měly platit, zatím nikdo nezveřejnil.",
+      "title_raw": "Seznam za 60 miliard dolarů. USA a Čína zveřejnily, kde si nechtějí škodit",
+      "lead_raw": "Američané mají dostat levnější hračky, Číňané zase americké uhlí, obiloviny a maso. Sazby ani termín, odkdy by úlevy měly platit, zatím nikdo nezveřejnil.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "bc20f3ac574f0a2b2aaf26a2a0954cb85101b1db",
+      "fingerprint": "87549c9d2deb987e4c8e6f38f3794a31a5fb487b",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-boure-na-severovychode-usa-pripravila-o-elektrinu-130-tisic-odberatelu-40599770",
+      "published_utc": "2026-09-28T04:34:20Z",
+      "title_en": "Bouře na severovýchodě USA připravila o elektřinu 130 tisíc odběratelů",
+      "lead_en": "Bouře doprovázená silným větrem a vydatnými dešti, která od minulé soboty sužuje severovýchod USA, způsobila výpadek elektřiny až u 130 000 odběratelů, informovala agentura AFP. Bouře zasáhla několik měst včetně New Yorku, Bostonu a Filadelfie.",
+      "title_raw": "Bouře na severovýchodě USA připravila o elektřinu 130 tisíc odběratelů",
+      "lead_raw": "Bouře doprovázená silným větrem a vydatnými dešti, která od minulé soboty sužuje severovýchod USA, způsobila výpadek elektřiny až u 130 000 odběratelů, informovala agentura AFP. Bouře zasáhla několik měst včetně New Yorku, Bostonu a Filadelfie.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "3cc5d1450b8929a2770c8769795eba82d2f70e9c",
+      "fingerprint": "b7f0bd470ccac2cdee6b4c1a5978c2010493fdda",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-rusko-testuje-hranice-a-evropa-ztraci-schopnost-odstrasovat-315345",
+      "published_utc": "2026-09-28T04:30:00Z",
+      "title_en": "Rusko testuje hranice a Evropa ztrácí schopnost odstrašovat",
+      "lead_en": "Jeden dron, sabotáž nebo kybernetický útok vesměs zásadní reakci nevyvolá. Rusko toho využívá a zkouší, kolik podobných incidentů může Evropa snést než razantně odpoví.",
+      "title_raw": "Rusko testuje hranice a Evropa ztrácí schopnost odstrašovat",
+      "lead_raw": "Jeden dron, sabotáž nebo kybernetický útok vesměs zásadní reakci nevyvolá. Rusko toho využívá a zkouší, kolik podobných incidentů může Evropa snést než razantně odpoví.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "0229a8ffe79015244b37ead0b2f63c337bde543e",
+      "fingerprint": "3dc521105cf688510f3fdf5cd5cf961c5f3bb060",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/boure-na-severovychode-usa-zpusobila-zaplavy-a-vypadky-elektriny-378015",
+      "published_utc": "2026-09-28T01:40:03Z",
+      "title_en": "Bouře na severovýchodě USA způsobila záplavy a výpadky elektřiny",
+      "lead_en": "Bouře doprovázená silným větrem a vydatnými dešti od minulé soboty sužuje severovýchod USA. V New Yorku a v New Jersey způsobila rozsáhlé záplavy, v newyorském Brooklynu si vyžádala jednu oběť.",
+      "title_raw": "Bouře na severovýchodě USA způsobila záplavy a výpadky elektřiny",
+      "lead_raw": "Bouře doprovázená silným větrem a vydatnými dešti od minulé soboty sužuje severovýchod USA. V New Yorku a v New Jersey způsobila rozsáhlé záplavy, v newyorském Brooklynu si vyžádala jednu oběť.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "bbc2d8fee8bdb76d6388ba9389a5bb779b113dd4",
       "fingerprint": "af0c70dfe4afaaf63418bf7e0440a17bdb953ac6",
@@ -675,50 +766,6 @@
         "military": 0,
         "energy": 1,
         "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "adba7228154718f57c0f7b47aae8f4b42d8594a9",
-      "fingerprint": "3834994b32e0d264d2de1d9f3c19169110dae991",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/cinu-nema-smysl-si-idealizovat-ani-demonizovat-mysli-si-stanek-377973",
-      "published_utc": "2026-09-26T05:38:01Z",
-      "title_en": "Čínu nemá smysl si idealizovat ani démonizovat, myslí si Staněk",
-      "lead_en": "Nemá smysl si Čínu nějakým způsobem idealizovat, ale nemůžeme ji ani démonizovat, uvedl europoslanec Antonín Staněk (Motoristé) v reakci na návštěvu čínského vládce Si Ťin-pchinga ve Spojených státech. Přál by si prý, aby Evropané počítali s tím, že Čína je dnes „opravdu velmi silný ekonomický partner a je potřeba s ní určitým způsobem i jednat“.",
-      "title_raw": "Čínu nemá smysl si idealizovat ani démonizovat, myslí si Staněk",
-      "lead_raw": "Nemá smysl si Čínu nějakým způsobem idealizovat, ale nemůžeme ji ani démonizovat, uvedl europoslanec Antonín Staněk (Motoristé) v reakci na návštěvu čínského vládce Si Ťin-pchinga ve Spojených státech. Přál by si prý, aby Evropané počítali s tím, že Čína je dnes „opravdu velmi silný ekonomický partner a je potřeba s ní určitým způsobem i jednat“.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b6f367471222a1609c5bcb224d021b1af2a66373",
-      "fingerprint": "867a735aeb6d468e27cf48221dde334fb22095a0",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/regiony/reka-bilina-se-po-desitkach-let-z-potrubi-vrati-do-prirodniho-koryta-377954",
-      "published_utc": "2026-09-26T04:30:00Z",
-      "title_en": "Řeka Bílina se po desítkách let z potrubí vrátí do přírodního koryta",
-      "lead_en": "Řeka Bílina se po téměř půl století vrátí zpátky do přírodního koryta. Tok byl sveden do tříkilometrového potrubí, protože voda ohrožovala těžbu uhlí.",
-      "title_raw": "Řeka Bílina se po desítkách let z potrubí vrátí do přírodního koryta",
-      "lead_raw": "Řeka Bílina se po téměř půl století vrátí zpátky do přírodního koryta. Tok byl sveden do tříkilometrového potrubí, protože voda ohrožovala těžbu uhlí.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
         "local_events": 0
       },
       "topics": [
