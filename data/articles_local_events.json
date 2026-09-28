@@ -1,10 +1,76 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-28T06:01:43Z",
+  "updated_at_utc": "2026-09-28T14:37:52Z",
   "topic": "local_events",
-  "count": 29,
+  "count": 30,
   "articles": [
+    {
+      "id": "8be43d83d95052a5cc639401aedab1e412d0761f",
+      "fingerprint": "8c61eff45052fd38017a26cef5994d59c40ed0a2",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-pri-nehode-u-medonos-na-melnicku-zemrel-motorkar-40599789",
+      "published_utc": "2026-09-28T09:14:53Z",
+      "title_en": "Při nehodě u Medonos na Mělnicku zemřel motorkář",
+      "lead_en": "Tragický konec měla v neděli odpoledne nehoda u Medonos na Mělnicku. Řidič motocyklu zřejmě nezvládl řízení a sjel do lesa, pokusy o jeho oživování byly bohužel neúspěšné.",
+      "title_raw": "Při nehodě u Medonos na Mělnicku zemřel motorkář",
+      "lead_raw": "Tragický konec měla v neděli odpoledne nehoda u Medonos na Mělnicku. Řidič motocyklu zřejmě nezvládl řízení a sjel do lesa, pokusy o jeho oživování byly bohužel neúspěšné.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "fcdcd66c1064fe5e81f896f5836a2b7ca424d851",
+      "fingerprint": "94d97be68a84a108dfb6e492f899d0f2159027ee",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-na-motoristickem-srazu-na-liberecku-vjelo-auto-do-davu-divaku-pet-zranenych-40599778",
+      "published_utc": "2026-09-28T08:11:32Z",
+      "title_en": "Na motoristickém srazu na Liberecku najel řidič do davu diváků, pět zraněných",
+      "lead_en": "Na setkání sportovních vozidel u jezera Kristýna u Hrádku nad Nisou se v sobotu stala nehoda, po níž zůstalo na místě pět zraněných. Řidič vozu Mustang nezvládl řízení, narazil do dalších dvou vozů a pak najel do davu lidí.",
+      "title_raw": "Na motoristickém srazu na Liberecku najel řidič do davu diváků, pět zraněných",
+      "lead_raw": "Na setkání sportovních vozidel u jezera Kristýna u Hrádku nad Nisou se v sobotu stala nehoda, po níž zůstalo na místě pět zraněných. Řidič vozu Mustang nezvládl řízení, narazil do dalších dvou vozů a pak najel do davu lidí.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "f6814ea77699f4cc113902464c71616f6e7fa75d",
+      "fingerprint": "57b8d418a5d2291541be70c3768116bb72c43556",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/praha/zpravy/nehoda-motocyklu-na-melnicku-praha-motorkar-zemrel-medonosy.A260928_093752_praha-zpravy_lupr",
+      "published_utc": "2026-09-28T08:07:00Z",
+      "title_en": "Řidič motorky sjel na Mělnicku ze silnice mezi lesní stromy. Na místě zemřel",
+      "lead_en": "Nehoda motorkáře, který v neděli odpoledne havaroval u Medonos na Mělnicku, skončila tragicky. Navzdory snahám o resuscitaci vážným zraněním podlehl a na místě zemřel.",
+      "title_raw": "Řidič motorky sjel na Mělnicku ze silnice mezi lesní stromy. Na místě zemřel",
+      "lead_raw": "Nehoda motorkáře, který v neděli odpoledne havaroval u Medonos na Mělnicku, skončila tragicky. Navzdory snahám o resuscitaci vážným zraněním podlehl a na místě zemřel.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "63a9c30c1833c14a351df9285cb3d31731f78c32",
       "fingerprint": "1a68a3dd64f097bfa360cef6e4333feda464fab4",
@@ -595,50 +661,6 @@
         "military": 0,
         "energy": 0,
         "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "1be1173577e4bdab31d3291a7b773d8ed9068ac9",
-      "fingerprint": "d212c3d0001a1e2b41623a5fad646ff2bff78cd0",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-vybuch-v-centru-aten-znicil-tripodlazni-dum-zemreli-nejmene-dva-lide-316268",
-      "published_utc": "2026-09-26T11:32:07Z",
-      "title_en": "Výbuch v centru Athén zničil třípodlažní dům. Zemřeli nejméně dva lidé",
-      "lead_en": "Mohutný výbuch v historickém centru Athén zcela zničil třípodlažní dům sloužící k ubytování turistů. Nejméně dva lidé zemřeli a další čtyři se pohřešují.",
-      "title_raw": "Výbuch v centru Athén zničil třípodlažní dům. Zemřeli nejméně dva lidé",
-      "lead_raw": "Mohutný výbuch v historickém centru Athén zcela zničil třípodlažní dům sloužící k ubytování turistů. Nejméně dva lidé zemřeli a další čtyři se pohřešují.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "f71b1c4e8429047aa781198806ff83aa4f837e48",
-      "fingerprint": "e3683820806bb285143414dc941924a4ff46fb61",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-pri-ukrajinskem-dronovem-utoku-v-krasnodarskem-kraji-zahynuli-tri-lide-316266",
-      "published_utc": "2026-09-26T09:35:26Z",
-      "title_en": "Při ukrajinském dronovém útoku v Krasnodarském kraji zahynuli tři lidé",
-      "lead_en": "V noci na sobotu si Rusko a Ukrajina vyměnily další vlnu dronových útoků. V ruském Krasnodarském kraji zemřeli tři lidé a v několika průmyslových areálech vypukl požár.",
-      "title_raw": "Při ukrajinském dronovém útoku v Krasnodarském kraji zahynuli tři lidé",
-      "lead_raw": "V noci na sobotu si Rusko a Ukrajina vyměnily další vlnu dronových útoků. V ruském Krasnodarském kraji zemřeli tři lidé a v několika průmyslových areálech vypukl požár.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
         "local_events": 2
       },
       "topics": [

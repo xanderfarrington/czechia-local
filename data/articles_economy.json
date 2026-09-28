@@ -1,10 +1,54 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-28T06:01:43Z",
+  "updated_at_utc": "2026-09-28T14:37:52Z",
   "topic": "economy",
-  "count": 14,
+  "count": 10,
   "articles": [
+    {
+      "id": "72918e9a2f61b41b50ad53dfe66ea81efdd66a52",
+      "fingerprint": "5c31e39c45937b848c59cc78c31be3da9d37f1c1",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-parket-mene-slibu-vice-volnosti-centralni-banky-mozna-mluvi-az-prilis-316233",
+      "published_utc": "2026-09-28T10:20:00Z",
+      "title_en": "Méně slibů, více volnosti. Centrální banky možná mluví až příliš",
+      "lead_en": "Méně náznaků, méně slibů a více prostoru reagovat na nová data. MMF navrhuje změnit způsob, jakým centrální banky mluví s trhy.",
+      "title_raw": "Méně slibů, více volnosti. Centrální banky možná mluví až příliš",
+      "lead_raw": "Méně náznaků, méně slibů a více prostoru reagovat na nová data. MMF navrhuje změnit způsob, jakým centrální banky mluví s trhy.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "76688db408a28b059bb9a435d48f439a957f2e2f",
+      "fingerprint": "008907d10e70f384b887e79a8f0c3b22e3e9ca97",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-ocima-byznysu-ocima-byznysu-na-levnejsi-hypoteky-si-pockame-ve-hre-je-sest-procent-i-vice-315918",
+      "published_utc": "2026-09-28T08:30:00Z",
+      "title_en": "Šest procent i více. V Hormuzu padly české sny o levnějších hypotékách",
+      "lead_en": "Peníze zdražují a úroky u hypoték tak klesat nebudou. Pokud se situace na mezibankovním trhu neuklidní, může se u nabídek do konce roku objevit hranice šesti procent, píše hypoteční expert Broker Trust Libor Vojta Ostatek.",
+      "title_raw": "Šest procent i více. V Hormuzu padly české sny o levnějších hypotékách",
+      "lead_raw": "Peníze zdražují a úroky u hypoték tak klesat nebudou. Pokud se situace na mezibankovním trhu neuklidní, může se u nabídek do konce roku objevit hranice šesti procent, píše hypoteční expert Broker Trust Libor Vojta Ostatek.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "dd85f06df72b8e70f2185a22db2dc619821df593",
       "fingerprint": "6f852fbb96b825315747101bdf18eb5b47942b83",
@@ -179,148 +223,6 @@
         "local_events": 0
       },
       "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "95b6f84c447352f61483c080629159bead2fe45b",
-      "fingerprint": "0a1b2da6e9e27a6e5c33d576d94b39c6b757c685",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/havlicek-schodek-mohl-byt-nizsi-musely-se-ale-snizit-vydaje-na-obranu-energetiku_2609261512_pik",
-      "published_utc": "2026-09-26T13:12:00Z",
-      "title_en": "Havlíček: Schodek mohl být nižší, musely by se ale snížit výdaje na obranu, energetiku či dopravu",
-      "lead_en": "Státní rozpočet s nižším schodkem bylo možné udělat, musely by se ale snížit výdaje na bezpečnost, energetiku či na dopravní investice. Vláda na to ale nepřistoupila, jelikož by to mohlo mít fatálně špatný dopad na fungování České republiky.",
-      "title_raw": "Havlíček: Schodek mohl být nižší, musely by se ale snížit výdaje na obranu, energetiku či dopravu",
-      "lead_raw": "Státní rozpočet s nižším schodkem bylo možné udělat, musely by se ale snížit výdaje na bezpečnost, energetiku či na dopravní investice. Vláda na to ale nepřistoupila, jelikož by to mohlo mít fatálně špatný dopad na fungování České republiky.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "92f956bbf621aae1f60f15d886ab7b3d40437a07",
-      "fingerprint": "2c01ce7ad6ea5769acc04f3342c8c471a4e277d7",
-      "source": "Radio Prague International (EN)",
-      "url": "https://english.radio.cz/havlicek-lower-budget-deficit-would-mean-cuts-security-energy-and-transport-8898428",
-      "published_utc": "2026-09-26T12:31:00Z",
-      "title_en": "Havlíček: Lower budget deficit would mean cuts to security, energy and transport",
-      "lead_en": "Havlíček: Lower budget deficit would mean cuts to security, energy and transport",
-      "title_raw": "Havlíček: Lower budget deficit would mean cuts to security, energy and transport",
-      "lead_raw": "Havlíček: Lower budget deficit would mean cuts to security, energy and transport",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "96fec196e981fb345bda84cda02785760c637da5",
-      "fingerprint": "d4126abb127860d2d112af4e00e54e66e46db1d3",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/schodek-mohl-byt-nizsi-musela-by-se-ale-snizit-bezpecnost-ci-doprava.A260926_141530_domaci_tty",
-      "published_utc": "2026-09-26T12:23:00Z",
-      "title_en": "Schodek mohl být nižší, jenže na úkor bezpečnosti nebo dopravy, míní Havlíček",
-      "lead_en": "Státní rozpočet s nižším schodkem bylo možné udělat, musely by se ale snížit výdaje na bezpečnost, energetiku či na dopravní investice. Vláda na to ale nepřistoupila, jelikož by to mohlo mít fatálně špatný dopad na fungování České republiky.",
-      "title_raw": "Schodek mohl být nižší, jenže na úkor bezpečnosti nebo dopravy, míní Havlíček",
-      "lead_raw": "Státní rozpočet s nižším schodkem bylo možné udělat, musely by se ale snížit výdaje na bezpečnost, energetiku či na dopravní investice. Vláda na to ale nepřistoupila, jelikož by to mohlo mít fatálně špatný dopad na fungování České republiky.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "72835fac230dcb38fc8b4c9196ce96fe97277aa8",
-      "fingerprint": "5d389d56cc1c572eb9ad7f1f891c23db0767760a",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/havlicek-schodek-mohl-byt-nizsi-musela-by-se-ale-snizit-bezpecnost-ci-doprava/2879700",
-      "published_utc": "2026-09-26T12:03:00Z",
-      "title_en": "Havlíček: Schodek mohl být nižší, musela by se ale snížit bezpečnost či doprava",
-      "lead_en": "Praha - Státní rozpočet s nižším schodkem bylo možné udělat, musely by se ale snížit výdaje na bezpečnost, energetiku či na dopravní investice. Vláda na to ale nepřistoupila, jelikož by to mohlo mít fatálně...",
-      "title_raw": "Havlíček: Schodek mohl být nižší, musela by se ale snížit bezpečnost či doprava",
-      "lead_raw": "Praha - Státní rozpočet s nižším schodkem bylo možné udělat, musely by se ale snížit výdaje na bezpečnost, energetiku či na dopravní investice. Vláda na to ale nepřistoupila, jelikož by to mohlo mít fatálně...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "550141eecd57d3c1483338afddb14f2940e9d567",
-      "fingerprint": "1382eada8d3cc5050bc153911bf111b4ba5b4212",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-kanadske-ropne-bohatstvi-zeme-javoroveho-listu-se-obraci-k-asii-40599659",
-      "published_utc": "2026-09-26T11:19:34Z",
-      "title_en": "Kanadské ropné bohatství. Země javorového listu se obrací k Asii",
-      "lead_en": "Vyhrocený obchodní spor mezi Spojenými státy a Kanadou dává nový impuls plánům Ottawy omezit závislost na americkém trhu. Chce vybudovat další ropovod k západnímu pobřeží, který by jí umožnil posílat více ropy do Asie.",
-      "title_raw": "Kanadské ropné bohatství. Země javorového listu se obrací k Asii",
-      "lead_raw": "Vyhrocený obchodní spor mezi Spojenými státy a Kanadou dává nový impuls plánům Ottawy omezit závislost na americkém trhu. Chce vybudovat další ropovod k západnímu pobřeží, který by jí umožnil posílat více ropy do Asie.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "71656c94d3228a69c70002eb699f6e2d007f0247",
-      "fingerprint": "39487d81f1d7feb3ad4b87837cc9381051a0454e",
-      "source": "iROZHLAS - Economy",
-      "url": "https://www.irozhlas.cz/ekonomika/ekonom-marek-nova-dan-na-rafinerie-narusuje-spravedlnost-na-trhu-k-vynosum-jsem_2609261024_pik",
-      "published_utc": "2026-09-26T08:24:00Z",
-      "title_en": "Ekonom Marek: Nová daň na rafinerie narušuje spravedlnost na trhu. K výnosům jsem skeptický",
-      "lead_en": "Od čtvrtka bude v Česku znovu platit regulace cen pohonných hmot. Vláda začne určovat jejich maximální ceny na každý den a zároveň znovu sníží spotřební daň na naftu.",
-      "title_raw": "Ekonom Marek: Nová daň na rafinerie narušuje spravedlnost na trhu. K výnosům jsem skeptický",
-      "lead_raw": "Od čtvrtka bude v Česku znovu platit regulace cen pohonných hmot. Vláda začne určovat jejich maximální ceny na každý den a zároveň znovu sníží spotřební daň na naftu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
         "economy"
       ],
       "primary_topic": "economy"
