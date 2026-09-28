@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-27T21:42:09Z",
+  "updated_at_utc": "2026-09-28T00:04:25Z",
   "topic": "energy",
   "count": 32,
   "articles": [
+    {
+      "id": "bbc2d8fee8bdb76d6388ba9389a5bb779b113dd4",
+      "fingerprint": "af0c70dfe4afaaf63418bf7e0440a17bdb953ac6",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/uzkostne-deti-mivaji-uzkostne-rodice-psycholozka-o-mobilech-i-zmenach-ve-skolstvi.A260922_202616_domaci_bury",
+      "published_utc": "2026-09-27T22:00:00Z",
+      "title_en": "Úzkostné děti mívají úzkostné rodiče. Psycholožka nejen o změnách ve školství",
+      "lead_en": "Letošní změny, které přinesla novela školského zákona, se týkají zejména nejmenších žáků. Prvňáčci už nebudou propadat, odklady se povolují jen ve výjimečných případech a zrušily se ty dodatečné.",
+      "title_raw": "Úzkostné děti mívají úzkostné rodiče. Psycholožka nejen o změnách ve školství",
+      "lead_raw": "Letošní změny, které přinesla novela školského zákona, se týkají zejména nejmenších žáků. Prvňáčci už nebudou propadat, odklady se povolují jen ve výjimečných případech a zrušily se ty dodatečné.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "f6bcd7964d49ec714c0b7032ceeaf7f66a14aabe",
       "fingerprint": "97916f3da602504bfc8d1b7a71ea04ade7cede01",
@@ -697,28 +719,6 @@
         "military": 0,
         "energy": 1,
         "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ed0ffee5596f187dc220a180a419b0f4243e509c",
-      "fingerprint": "1dbb4ffe148b4ac43e46af3df9d26a1baee7bed5",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/domaci/diesel-generator-plyn-lpg.A260925_143103_ekonomika_hyk",
-      "published_utc": "2026-09-25T22:00:00Z",
-      "title_en": "Pojistka proti blackoutu. Místo dieselu firmy nasazují plynové generátory",
-      "lead_en": "Záložní zdroje energie využívají domácnosti v odlehlejších oblastech a čím dál více i firmy. Podniky a nejrůznější výrobny mají stále vyšší nároky na nepřetržitý provoz svých důležitých technologií, chtějí být také připraveny na nečekané výpadky elektřiny.",
-      "title_raw": "Pojistka proti blackoutu. Místo dieselu firmy nasazují plynové generátory",
-      "lead_raw": "Záložní zdroje energie využívají domácnosti v odlehlejších oblastech a čím dál více i firmy. Podniky a nejrůznější výrobny mají stále vyšší nároky na nepřetržitý provoz svých důležitých technologií, chtějí být také připraveny na nečekané výpadky elektřiny.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 1,
         "local_events": 0
       },
       "topics": [
