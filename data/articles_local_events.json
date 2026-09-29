@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-29T00:40:39Z",
+  "updated_at_utc": "2026-09-29T06:20:03Z",
   "topic": "local_events",
-  "count": 26,
+  "count": 22,
   "articles": [
+    {
+      "id": "1526bef85dc6ed4672cdef46e8efc0d6dda1b8c9",
+      "fingerprint": "63c35181942b046e5eec7901440a4131718f31b0",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/pri-pozaru-v-tovarne-na-vyrobu-petard-severovychodne-od-moskvy-zemrelo-14-lidi.A260929_064427_zahranicni_onbu",
+      "published_utc": "2026-09-29T05:05:00Z",
+      "title_en": "Ruskou továrnu na petardy zachvátil rozsáhlý požár. Zemřelo čtrnáct lidí",
+      "lead_en": "Při požáru v továrně na výrobu petard v ruské Jaroslavské oblasti zemřelo nejméně 14 lidí a jeden člověk utrpěl zranění. Sdělila to ruská média, která citovala záchranné složky.",
+      "title_raw": "Ruskou továrnu na petardy zachvátil rozsáhlý požár. Zemřelo čtrnáct lidí",
+      "lead_raw": "Při požáru v továrně na výrobu petard v ruské Jaroslavské oblasti zemřelo nejméně 14 lidí a jeden člověk utrpěl zranění. Sdělila to ruská média, která citovala záchranné složky.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 4
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "c722bc7e534d83f11c8f9ec3c8836ad157aa407e",
       "fingerprint": "76559d33c5df4fa7572c6ba88cd454c90e6e65f7",
@@ -458,116 +480,6 @@
       "lead_en": "Nejméně 27 lidí zemřelo při dvou střelbách v Jihoafrické republice. Útočníci stříleli v podniku ve městě Wedela a zábavním podniku u Kapského Města.",
       "title_raw": "Dvě střelby v Jihoafrické republice si vyžádaly dohromady nejméně 27 mrtvých",
       "lead_raw": "Nejméně 27 lidí zemřelo při dvou střelbách v Jihoafrické republice. Útočníci stříleli v podniku ve městě Wedela a zábavním podniku u Kapského Města.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "2276079052ab4663d7ae7297c76bb403740381b7",
-      "fingerprint": "99e04a382bbc6441c60d73d95d789344e9819aff",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-treti-noc-za-sebou-utocilo-drony-na-kyjev-377998",
-      "published_utc": "2026-09-27T06:19:40Z",
-      "title_en": "Rusko třetí noc za sebou útočilo drony na Kyjev",
-      "lead_en": "Rusko provedlo třetí noc po sobě dronový útok na ukrajinské hlavní město Kyjev. Útok způsobil několik požárů, nejméně jeden člověk byl zraněn, informoval server The Kyiv Independent.",
-      "title_raw": "Rusko třetí noc za sebou útočilo drony na Kyjev",
-      "lead_raw": "Rusko provedlo třetí noc po sobě dronový útok na ukrajinské hlavní město Kyjev. Útok způsobil několik požárů, nejméně jeden člověk byl zraněn, informoval server The Kyiv Independent.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "3b6fc9328157a05ec3ab31e8563095833fd63749",
-      "fingerprint": "7b85fe4c89258d571892507868d9b313f78d4d1e",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/strelec-zabil-v-jihoafrickem-baru-sedmnact-lidi-377997",
-      "published_utc": "2026-09-27T06:05:43Z",
-      "title_en": "Střelci zabili v jihoafrických podnicích desítky lidí",
-      "lead_en": "Nejméně 17 mrtvých si vyžádala sobotní střelba v baru v Jihoafrické republice. Dalších 15 lidí utrpělo zranění.",
-      "title_raw": "Střelci zabili v jihoafrických podnicích desítky lidí",
-      "lead_raw": "Nejméně 17 mrtvých si vyžádala sobotní střelba v baru v Jihoafrické republice. Dalších 15 lidí utrpělo zranění.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "7fd8b62ca4e8cfa4b243725ed6e0f41cf0458e6a",
-      "fingerprint": "d6e02074dd3fccc93ef28e69a5a1868b709f8a5d",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-chlapec-zemrel-pri-nehode-ctyrkolky-u-jincu-40599721",
-      "published_utc": "2026-09-27T06:02:36Z",
-      "title_en": "Chlapec zemřel při nehodě čtyřkolky u Jinců",
-      "lead_en": "Tragicky skončila sobotní jízda dvou chlapců na čtyřkolce po lesní cestě u Jinců na Příbramsku. Mladší z nich, který stroj řídil, navzdory snaze svědků a policistů zemřel.",
-      "title_raw": "Chlapec zemřel při nehodě čtyřkolky u Jinců",
-      "lead_raw": "Tragicky skončila sobotní jízda dvou chlapců na čtyřkolce po lesní cestě u Jinců na Příbramsku. Mladší z nich, který stroj řídil, navzdory snaze svědků a policistů zemřel.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "3bdceac095ebd83d0f5ab6a07742f769cc6e4cc1",
-      "fingerprint": "6f7c20a29378a3577db0b59583c9b344db2258fc",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-svet-strelba-v-baru-v-jar-17-mrtvych-40599720",
-      "published_utc": "2026-09-27T05:55:59Z",
-      "title_en": "Dvě střelby v Jihoafrické republice: Celkem 27 mrtvých",
-      "lead_en": "Nejméně 17 mrtvých si v sobotu večer vyžádala střelba v baru v Jihoafrické republice, dalších 15 lidí bylo podle policie zraněno. Po osmi pachatelích policie pátrá.",
-      "title_raw": "Dvě střelby v Jihoafrické republice: Celkem 27 mrtvých",
-      "lead_raw": "Nejméně 17 mrtvých si v sobotu večer vyžádala střelba v baru v Jihoafrické republice, dalších 15 lidí bylo podle policie zraněno. Po osmi pachatelích policie pátrá.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "f19b9daa1654b7aea40c483c0be9d06edb2afab2",
-      "fingerprint": "aa2ff138114208e085a138a00ad2afc737ea632f",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-motorkarka-na-plzensku-vyjela-mimo-silnici-pri-nehode-zemrela-40599705",
-      "published_utc": "2026-09-27T05:32:39Z",
-      "title_en": "Motorkářka na Plzeňsku vyjela mimo silnici, při nehodě zemřela",
-      "lead_en": "Tragické následky má sobotní nehoda, která se stala nedaleko Starého Smolivce na jižním Plzeňsku. Podle dosavadních informací tam havarovala čtyřiačtyřicetiletá motorkářka, když se strojem vyjela mimo silnici.",
-      "title_raw": "Motorkářka na Plzeňsku vyjela mimo silnici, při nehodě zemřela",
-      "lead_raw": "Tragické následky má sobotní nehoda, která se stala nedaleko Starého Smolivce na jižním Plzeňsku. Podle dosavadních informací tam havarovala čtyřiačtyřicetiletá motorkářka, když se strojem vyjela mimo silnici.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
