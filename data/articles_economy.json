@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-30T19:41:43Z",
+  "updated_at_utc": "2026-09-30T23:16:06Z",
   "topic": "economy",
   "count": 30,
   "articles": [
+    {
+      "id": "5d2c987faa08f52e759a3cba111b3bacc028b934",
+      "fingerprint": "67a9e8e03fed046d66f2463df97dfc1e7163f3ca",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/ministerstvo-financi-zverejni-vysledek-hospodareni-statu-ke-konci-zari/2881405",
+      "published_utc": "2026-09-30T22:01:00Z",
+      "title_en": "Ministerstvo financí zveřejní výsledek hospodaření státu ke konci září",
+      "lead_en": "Praha - Ministerstvo financí dnes zveřejní výsledek hospodaření státu ke konci září. Na konci srpna byl státní rozpočet ve schodku 186,1 miliardy korun.",
+      "title_raw": "Ministerstvo financí zveřejní výsledek hospodaření státu ke konci září",
+      "lead_raw": "Praha - Ministerstvo financí dnes zveřejní výsledek hospodaření státu ke konci září. Na konci srpna byl státní rozpočet ve schodku 186,1 miliardy korun.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "4377c6314fbbb596ed7550341ec8c71e31da2c61",
       "fingerprint": "5b0f9083f3032bbd45d1a6b7d1b3f4a34ef7d1ae",
@@ -652,28 +674,6 @@
       "topics": [
         "diplomacy",
         "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "74b8f1bbf2661ec0087b4752d8e467c875a8d24f",
-      "fingerprint": "1d9cab844d91e0a14824eabe99f004c65df7737d",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/podniky/allegro-dava-ceskym-firmam-moznost-oslovit-polsky-trh.A260923_152442_ekoakcie_vok",
-      "published_utc": "2026-09-28T22:01:00Z",
-      "title_en": "Český e-shop v Polsku? Jak oslovit trh s 37 miliony zákazníků bez velkých investic",
-      "lead_en": "Představte si, že jste český výrobce, který má povedený produkt a fungující e-shop. V Česku se vám daří, poptávka roste, recenze jsou pozitivní.",
-      "title_raw": "Český e-shop v Polsku? Jak oslovit trh s 37 miliony zákazníků bez velkých investic",
-      "lead_raw": "Představte si, že jste český výrobce, který má povedený produkt a fungující e-shop. V Česku se vám daří, poptávka roste, recenze jsou pozitivní.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
         "economy"
       ],
       "primary_topic": "economy"
