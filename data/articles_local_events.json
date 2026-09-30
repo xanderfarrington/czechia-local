@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-30T01:41:39Z",
+  "updated_at_utc": "2026-09-30T07:35:34Z",
   "topic": "local_events",
-  "count": 11,
+  "count": 10,
   "articles": [
+    {
+      "id": "ee1b84daeb4ffd657ccb031484146815facd5805",
+      "fingerprint": "710d9f5240913129cd81eaf1d32d8fd50dbd7289",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/retezova-nehoda-komplikuje-provoz-na-dalnici-d6-bouralo-sedm-aut_2609300845_dci",
+      "published_utc": "2026-09-30T06:45:00Z",
+      "title_en": "Řetězová nehoda komplikuje provoz na dálnici D6. Bouralo sedm aut",
+      "lead_en": "Provoz na dálnici D6 u Unhoště na Kladensku ve středu ráno zkomplikovala hromadná nehoda ve směru na Prahu. Havarovalo sedm aut, nikdo nebyl zraněn.",
+      "title_raw": "Řetězová nehoda komplikuje provoz na dálnici D6. Bouralo sedm aut",
+      "lead_raw": "Provoz na dálnici D6 u Unhoště na Kladensku ve středu ráno zkomplikovala hromadná nehoda ve směru na Prahu. Havarovalo sedm aut, nikdo nebyl zraněn.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "3b2a94e2cbe0852ea2ea7f3cab43554bec008e80",
       "fingerprint": "449c65a91d3b7e4505dc1d94a29059f8400a7385",
@@ -201,51 +223,6 @@
         "local_events": 3
       },
       "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "63a9c30c1833c14a351df9285cb3d31731f78c32",
-      "fingerprint": "1a68a3dd64f097bfa360cef6e4333feda464fab4",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-ridic-na-d11-narazil-do-totemu-benzinky-zemrel-40599772",
-      "published_utc": "2026-09-28T05:46:52Z",
-      "title_en": "Řidič na D11 narazil do totemu benzínky, zemřel",
-      "lead_en": "Řidič osobního auta zemřel v noci na pondělí po nárazu do totemu čerpací stanice na dálnici D11 na Nymbursku. O nehodě informovala policejní mluvčí Vlasta Suchánková.",
-      "title_raw": "Řidič na D11 narazil do totemu benzínky, zemřel",
-      "lead_raw": "Řidič osobního auta zemřel v noci na pondělí po nárazu do totemu čerpací stanice na dálnici D11 na Nymbursku. O nehodě informovala policejní mluvčí Vlasta Suchánková.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "bc20f3ac574f0a2b2aaf26a2a0954cb85101b1db",
-      "fingerprint": "87549c9d2deb987e4c8e6f38f3794a31a5fb487b",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-boure-na-severovychode-usa-pripravila-o-elektrinu-130-tisic-odberatelu-40599770",
-      "published_utc": "2026-09-28T04:34:20Z",
-      "title_en": "Bouře na severovýchodě USA připravila o elektřinu 130 tisíc odběratelů",
-      "lead_en": "Bouře doprovázená silným větrem a vydatnými dešti, která od minulé soboty sužuje severovýchod USA, způsobila výpadek elektřiny až u 130 000 odběratelů, informovala agentura AFP. Bouře zasáhla několik měst včetně New Yorku, Bostonu a Filadelfie.",
-      "title_raw": "Bouře na severovýchodě USA připravila o elektřinu 130 tisíc odběratelů",
-      "lead_raw": "Bouře doprovázená silným větrem a vydatnými dešti, která od minulé soboty sužuje severovýchod USA, způsobila výpadek elektřiny až u 130 000 odběratelů, informovala agentura AFP. Bouře zasáhla několik měst včetně New Yorku, Bostonu a Filadelfie.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "energy",
         "local_events"
       ],
       "primary_topic": "local_events"
