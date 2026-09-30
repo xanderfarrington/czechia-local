@@ -1,10 +1,33 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-30T14:19:46Z",
+  "updated_at_utc": "2026-09-30T19:41:43Z",
   "topic": "local_events",
   "count": 10,
   "articles": [
+    {
+      "id": "18a8af99f2ff2118480cd964e3ce3e958c21fecd",
+      "fingerprint": "2dc78aae5bb5e8cc06898fe1f2f9e894e39a78df",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-mladeho-muze-s-nasazenymi-sluchatky-v-brne-srazila-tramvaj-40600224",
+      "published_utc": "2026-09-30T18:43:24Z",
+      "title_en": "Mladého muže s nasazenými sluchátky v Brně srazila tramvaj",
+      "lead_en": "Chvilka nepozornosti kombinovaná s nasazenými sluchátky stála podle všeho za nehodou, při níž ve středu odpoledne srazila v Brně tramvaj muže přebíhajícího koleje. Muž skončil s vážnými zraněními v nemocnici.",
+      "title_raw": "Mladého muže s nasazenými sluchátky v Brně srazila tramvaj",
+      "lead_raw": "Chvilka nepozornosti kombinovaná s nasazenými sluchátky stála podle všeho za nehodou, při níž ve středu odpoledne srazila v Brně tramvaj muže přebíhajícího koleje. Muž skončil s vážnými zraněními v nemocnici.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "80852c36558f1abb74cbc1a33357e6c98da398ae",
       "fingerprint": "14ffcecb27fd4b497cfd4106c02ea38aabe1a78c",
@@ -201,28 +224,6 @@
       },
       "topics": [
         "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "5fac0d6dd79e81a41ab36ce2d6469596136b1fbd",
-      "fingerprint": "34baba33f078df6ba0799c5144f279475f7eebed",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-dve-deti-a-jedna-zena-utrpely-zraneni-pri-srazce-aut-na-prerovsku-40599814",
-      "published_utc": "2026-09-28T16:30:35Z",
-      "title_en": "Dvě děti a jedna žena utrpěly zranění při srážce aut na Přerovsku",
-      "lead_en": "Tři lidé, žena a dvě děti, utrpěli v pondělí odpoledne zranění při srážce dvou osobních aut u Čech na Přerovsku. Záchranáři je převezli do nemocnic v Olomouci a Přerově.",
-      "title_raw": "Dvě děti a jedna žena utrpěly zranění při srážce aut na Přerovsku",
-      "lead_raw": "Tři lidé, žena a dvě děti, utrpěli v pondělí odpoledne zranění při srážce dvou osobních aut u Čech na Přerovsku. Záchranáři je převezli do nemocnic v Olomouci a Přerově.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
         "local_events"
       ],
       "primary_topic": "local_events"
