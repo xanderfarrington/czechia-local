@@ -1,10 +1,501 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-30T07:35:34Z",
+  "updated_at_utc": "2026-09-30T14:19:46Z",
   "topic": "military",
-  "count": 85,
+  "count": 95,
   "articles": [
+    {
+      "id": "c31a6de122acb34fe27ee65f1a3520c46424d83a",
+      "fingerprint": "b04a75e97d318ab04aaa2783d6743abb7242cd7a",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/spojene-kralovstvi-nabizi-clenskym-statum-vojenske-koalice-jef-jaderny-destnik-378101",
+      "published_utc": "2026-09-30T14:00:00Z",
+      "title_en": "Spojené království nabízí členským státům vojenské koalice JEF „jaderný deštník“",
+      "lead_en": "Spojené království nabídlo členům vojenského partnerství „Joint Expeditionary Force“ (JEF, česky Společné expediční síly) „jaderný deštník“ v rámci širší dohody o obraně.",
+      "title_raw": "Spojené království nabízí členským státům vojenské koalice JEF „jaderný deštník“",
+      "lead_raw": "Spojené království nabídlo členům vojenského partnerství „Joint Expeditionary Force“ (JEF, česky Společné expediční síly) „jaderný deštník“ v rámci širší dohody o obraně.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "830831a812581cd02dd6ab917ac186b718e843ae",
+      "fingerprint": "5043ed3a5e5431542c84b02fc6b8bda9b9b8b280",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-cesi-budou-vyrabet-dily-pro-f-35-vedi-ze-nesmi-udelat-chybu-316218",
+      "published_utc": "2026-09-30T14:00:00Z",
+      "title_en": "Češi budou vyrábět díly pro F-35. Vědí, že nesmí udělat chybu",
+      "lead_en": "Rodinná firma Ray Service dodává své elektronické systémy špičkovým světovým zbrojařským společnostem Rheinmetall, KNDS či BAE Systems. Do dvou let chce zvýšit obrat na pět miliard korun a zdvojnásobit počet zaměstnanců.",
+      "title_raw": "Češi budou vyrábět díly pro F-35. Vědí, že nesmí udělat chybu",
+      "lead_raw": "Rodinná firma Ray Service dodává své elektronické systémy špičkovým světovým zbrojařským společnostem Rheinmetall, KNDS či BAE Systems. Do dvou let chce zvýšit obrat na pět miliard korun a zdvojnásobit počet zaměstnanců.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "5fb7c7d4a9f8e7a98512376db04fbdad341ed9c3",
+      "fingerprint": "6fa98b6de5251cc779223711c8d6c4e2f0519d35",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/pardubice/zpravy/poliklinika-pardubice-strelba-muz-policie-patrani.A260930_102825_pardubice-zpravy_anel",
+      "published_utc": "2026-09-30T13:54:00Z",
+      "title_en": "Střelba na poliklinice. Obrovská rána, pak běželi do obchodního centra, líčí svědkyně",
+      "lead_en": "Do vážného konfliktu se dnes dostali dva muži na pardubické poliklinice. Jeden z nich podle policie a svědků během střetu vystřelil ze zbraně, zřejmě plynové, a následně utekl směrem k obchodnímu centru.",
+      "title_raw": "Střelba na poliklinice. Obrovská rána, pak běželi do obchodního centra, líčí svědkyně",
+      "lead_raw": "Do vážného konfliktu se dnes dostali dva muži na pardubické poliklinice. Jeden z nich podle policie a svědků během střetu vystřelil ze zbraně, zřejmě plynové, a následně utekl směrem k obchodnímu centru.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "770c0e996d0b12f46b6adfbc5fbbeecf5fd3727c",
+      "fingerprint": "e8d314f0cb5c1fe9ed44d6984a18e34571fccda6",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/internet-a-pc-bezpecnost-prorusti-hackeri-chteji-ztrestat-cesko-za-podporu-ukrajiny-zatim-se-nabourali-do-kotelny-40600172",
+      "published_utc": "2026-09-30T13:23:36Z",
+      "title_en": "Proruští hackeři chtějí ztrestat Česko za podporu Ukrajiny. Zatím se nabourali do kotelny",
+      "lead_en": "Proruská hackerská skupina NoName057(16) rozjela podle kyberbezpečnostní společnosti ComSource novou vlnu útoků proti českým cílům. Hackeři své akce zdůvodňují českou podporou Ukrajiny.",
+      "title_raw": "Proruští hackeři chtějí ztrestat Česko za podporu Ukrajiny. Zatím se nabourali do kotelny",
+      "lead_raw": "Proruská hackerská skupina NoName057(16) rozjela podle kyberbezpečnostní společnosti ComSource novou vlnu útoků proti českým cílům. Hackeři své akce zdůvodňují českou podporou Ukrajiny.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "5286094c44cf74eec387a43120d22a6e046f00fb",
+      "fingerprint": "38dff85a6c5161279c1e4c06fbf210bbdc8645b4",
+      "source": "Radio Prague International (EN)",
+      "url": "https://english.radio.cz/pavel-nato-members-must-make-clear-they-are-ready-defend-their-airspace-and-8898720",
+      "published_utc": "2026-09-30T13:10:00Z",
+      "title_en": "Pavel: NATO members must make clear they are ready to defend their airspace and territorial waters",
+      "lead_en": "Pavel: NATO members must make clear they are ready to defend their airspace and territorial waters",
+      "title_raw": "Pavel: NATO members must make clear they are ready to defend their airspace and territorial waters",
+      "lead_raw": "Pavel: NATO members must make clear they are ready to defend their airspace and territorial waters",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "2eea08fe98e1c4cd70423f0230475aa025ebd182",
+      "fingerprint": "eb68859cd9b89f79525f40f1c84af31b399569e5",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-ceske-bezpecnostni-slozky-maji-software-z-ruska-urad-proveruje-rizika-316493",
+      "published_utc": "2026-09-30T13:08:36Z",
+      "title_en": "České bezpečnostní složky mají software z Ruska. Úřad prověřuje rizika",
+      "lead_en": "Software na prolomení telefonů využívaný českými bezpečnostními složkami má ruské pozadí. V USA zadrželi manažery firmy, spřízněný produkt využívala i ruská FSB.",
+      "title_raw": "České bezpečnostní složky mají software z Ruska. Úřad prověřuje rizika",
+      "lead_raw": "Software na prolomení telefonů využívaný českými bezpečnostními složkami má ruské pozadí. V USA zadrželi manažery firmy, spřízněný produkt využívala i ruská FSB.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "254d20da1146d652a6841b75fa96f0fd49e42e1c",
+      "fingerprint": "0aa70b0b23f1a5b4159984210f59aa4b4ada568a",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-pavel-nato-musi-rusku-ukazat-odhodlani-branit-svuj-vzdusny-prostor-40600147",
+      "published_utc": "2026-09-30T13:02:26Z",
+      "title_en": "Pavel: NATO musí Rusku ukázat odhodlání bránit svůj vzdušný prostor",
+      "lead_en": "Členské země Severoatlantické aliance (NATO) musí dát podle prezidenta Petra Pavla jasně najevo, že jsou odhodlány bránit svůj vzdušný prostor i teritoriální vody. Pavel to ve středu řekl po jednání s rumunským protějškem Nicusorem Danem, který je v ČR na oficiální návštěvě.",
+      "title_raw": "Pavel: NATO musí Rusku ukázat odhodlání bránit svůj vzdušný prostor",
+      "lead_raw": "Členské země Severoatlantické aliance (NATO) musí dát podle prezidenta Petra Pavla jasně najevo, že jsou odhodlány bránit svůj vzdušný prostor i teritoriální vody. Pavel to ve středu řekl po jednání s rumunským protějškem Nicusorem Danem, který je v ČR na oficiální návštěvě.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "4c439a51617b508dec438ddfac7239dee571a8ea",
+      "fingerprint": "2def48bcea012503215c087b3b2c5bfafea43400",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/veda-skoly-john-blaha-raketoplan-jako-druhy-domov-40600096",
+      "published_utc": "2026-09-30T12:31:59Z",
+      "title_en": "John Blaha: Raketoplán jako druhý domov",
+      "lead_en": "„Děda Antonín maloval obrázky. Pamatuji si, že když mi bylo osm let, bydlel s námi ještě doma,“ vzpomínal John Elmer Blaha.",
+      "title_raw": "John Blaha: Raketoplán jako druhý domov",
+      "lead_raw": "„Děda Antonín maloval obrázky. Pamatuji si, že když mi bylo osm let, bydlel s námi ještě doma,“ vzpomínal John Elmer Blaha.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "3cacd1a2a8b1f57d4d98e77b53dd2eda04c9ef33",
+      "fingerprint": "f27adcd9b56cd0f40e7529f7945f03d166d396c5",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-mrazive-zabery-cestujici-v-letadle-do-tel-avivu-natocil-deni-pri-padu-40600140",
+      "published_utc": "2026-09-30T12:24:42Z",
+      "title_en": "Mrazivé záběry. Cestující natočili dění při prudkém klesání letadla i záchranu pilota",
+      "lead_en": "Na veřejnost se ve středu dostaly záběry z paluby letadla společnosti flydubai, jehož piloti se během letu z Dubaje do Tel Avivu dostali do potyčky, když jeden z nich ho chtěl namířit střemhlav k zemi. Letadlo po dramatickém souboji v kokpitu nakonec nouzově přistálo v Saúdské Arábii.",
+      "title_raw": "Mrazivé záběry. Cestující natočili dění při prudkém klesání letadla i záchranu pilota",
+      "lead_raw": "Na veřejnost se ve středu dostaly záběry z paluby letadla společnosti flydubai, jehož piloti se během letu z Dubaje do Tel Avivu dostali do potyčky, když jeden z nich ho chtěl namířit střemhlav k zemi. Letadlo po dramatickém souboji v kokpitu nakonec nouzově přistálo v Saúdské Arábii.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "a746e0f22822fff8a480acc8ca21a3c02f706b6a",
+      "fingerprint": "366870f18358d841129a05861b2a3d801786a242",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/mene-vojaku-na-obranu-vychodniho-kridla-nato-senat-schvalil-navrh-zahranicnich_2609301414_jkd",
+      "published_utc": "2026-09-30T12:14:00Z",
+      "title_en": "Méně vojáků na obranu východního křídla NATO. Senát schválil návrh zahraničních misí armády",
+      "lead_en": "Na obranu východního křídla NATO bude moci být v příštích dvou letech vysláno maximálně 1600 českých vojáků. Je to o 400 méně než dosud.",
+      "title_raw": "Méně vojáků na obranu východního křídla NATO. Senát schválil návrh zahraničních misí armády",
+      "lead_raw": "Na obranu východního křídla NATO bude moci být v příštích dvou letech vysláno maximálně 1600 českých vojáků. Je to o 400 méně než dosud.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "0230e8257366a0b10149256070d74664b90fb61d",
+      "fingerprint": "dc4c1c5ca3601547edd85798aed8cd9b1489bd7e",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/brno/zpravy/obrazem-zbrojovka-brno-za-luzankami-stadion-stavo-artikel-boby.A260930_104325_brno-zpravy_icer/foto",
+      "published_utc": "2026-09-30T12:13:00Z",
+      "title_en": "OBRAZEM: 25 let od posledního „mistráku“ za Lužánkami. Pacanda pálil, Uličný běsnil",
+      "lead_en": "Lužánky jsou srdce Zbrojovky, hlásají nápisy i část brněnského fotbalového chorálu příznivců tradiční značky. Jenže legendární stadion zeje prázdnotou už čtvrt století.",
+      "title_raw": "OBRAZEM: 25 let od posledního „mistráku“ za Lužánkami. Pacanda pálil, Uličný běsnil",
+      "lead_raw": "Lužánky jsou srdce Zbrojovky, hlásají nápisy i část brněnského fotbalového chorálu příznivců tradiční značky. Jenže legendární stadion zeje prázdnotou už čtvrt století.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "6dbfda9b48165cce7ca6b269825727edfe417116",
+      "fingerprint": "f6b7dbbd3d9136c9fb86dd70509c81772e62b4e4",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/prezident-nicusor-dan-manzelka-jednani-bezpecnost-banat-nato-spoluprace.A260930_110252_domaci_linh",
+      "published_utc": "2026-09-30T12:05:56Z",
+      "title_en": "Pavel přijal prezidenta Rumunska. Jednali o bezpečnosti NATO i obranné spolupráci",
+      "lead_en": "Prezident Petr Pavel s manželkou Evou přivítal na Pražském hradě rumunskou hlavu státu Nicušora Dana s partnerkou Mirabelou Gradinaruovou. Jednali o posilování bezpečnosti na východním křídle Severoatlantické aliance (NATO), obchodní a obranné spolupráci i o českých krajanech v rumunském Banátu.",
+      "title_raw": "Pavel přijal prezidenta Rumunska. Jednali o bezpečnosti NATO i obranné spolupráci",
+      "lead_raw": "Prezident Petr Pavel s manželkou Evou přivítal na Pražském hradě rumunskou hlavu státu Nicušora Dana s partnerkou Mirabelou Gradinaruovou. Jednali o posilování bezpečnosti na východním křídle Severoatlantické aliance (NATO), obchodní a obranné spolupráci i o českých krajanech v rumunském Banátu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 4,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "0c9df0243a28bcd63ea4e12b041a671394ba7a87",
+      "fingerprint": "76cb106f4d05f7a84b670d3eef024d79b43ed8d2",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/policie-bezpoecnostni-software-vazby-na-rusko-nukib.A260930_133612_domaci_onbu",
+      "published_utc": "2026-09-30T12:00:00Z",
+      "title_en": "Policie i obrana používají bezpečnostní software, který je ve vlastnictví pěti Rusů",
+      "lead_en": "Česká policie, celníci i ministerstvo obrany používají software společnosti Oxygen Forensics, která podle amerických úřadů zatajovala ruské vlastníky i vývoj produktu v Rusku. Ve středu o tom informoval Deník N.",
+      "title_raw": "Policie i obrana používají bezpečnostní software, který je ve vlastnictví pěti Rusů",
+      "lead_raw": "Česká policie, celníci i ministerstvo obrany používají software společnosti Oxygen Forensics, která podle amerických úřadů zatajovala ruské vlastníky i vývoj produktu v Rusku. Ve středu o tom informoval Deník N.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "19ccb5c37b2bd8250a1fd0b7e368b9544da288be",
+      "fingerprint": "77d2d7ab511129e8fbb53637d7cf11001c93f9b4",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/senat-souhlasil-se-snizenim-poctu-ceskych-vojaku-k-obrane-vychodniho-kridla-nato/2881086",
+      "published_utc": "2026-09-30T11:22:00Z",
+      "title_en": "Senát souhlasil se snížením počtu českých vojáků k obraně východního křídla NATO",
+      "lead_en": "Praha - Na obranu východního křídla NATO bude moci být v příštích dvou letech vysláno maximálně 1600 českých vojáků. Je to o 400 méně než dosud.",
+      "title_raw": "Senát souhlasil se snížením počtu českých vojáků k obraně východního křídla NATO",
+      "lead_raw": "Praha - Na obranu východního křídla NATO bude moci být v příštích dvou letech vysláno maximálně 1600 českých vojáků. Je to o 400 méně než dosud.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "abb23c1b883257671fb337614262c8187c490d2a",
+      "fingerprint": "1a25110c75ca4d015329cb2b97b06a42f410916c",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-vsechno-natocily-kamery-proc-se-rana-pesti-od-straznika-resi-uz-rok-a-pul-316308",
+      "published_utc": "2026-09-30T11:01:21Z",
+      "title_en": "Všechno natočily kamery. Proč se rána pěstí od strážníka řeší už rok a půl",
+      "lead_en": "Zákrok strážníků proti Zdence Zemanové zachytila kamera, jejich komunikaci vysílačka. Jeden strážník je obviněn, druhého policie stále prověřuje.",
+      "title_raw": "Všechno natočily kamery. Proč se rána pěstí od strážníka řeší už rok a půl",
+      "lead_raw": "Zákrok strážníků proti Zdence Zemanové zachytila kamera, jejich komunikaci vysílačka. Jeden strážník je obviněn, druhého policie stále prověřuje.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "f291621509c399fd176a852c210d565e6e7c57ae",
+      "fingerprint": "5cbd60df6086781b724957d9d9d3a4361e094ff4",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-v-pripade-blokady-kaliningradu-muzeme-reagovat-jadernymi-zbranemi-tvrdi-kreml-316470",
+      "published_utc": "2026-09-30T10:53:10Z",
+      "title_en": "V případě blokády Kaliningradu můžeme reagovat jadernými zbraněmi, tvrdí Kreml",
+      "lead_en": "Rusové se podle Kremlu snaží uklidnit „horké hlavy“ v Evropě a varují je před nezodpovědným přístupem, který může vést k použití jaderných zbraní.",
+      "title_raw": "V případě blokády Kaliningradu můžeme reagovat jadernými zbraněmi, tvrdí Kreml",
+      "lead_raw": "Rusové se podle Kremlu snaží uklidnit „horké hlavy“ v Evropě a varují je před nezodpovědným přístupem, který může vést k použití jaderných zbraní.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d993acaa2b1f3a1626ca6cbf07fad6c6b4e201c8",
+      "fingerprint": "6272dcaa58096ebace91092728140fd23564017e",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/vlada-schvalila-pro-obranu-proti-srpnovemu-navrhu-o-100-mil-mene-/2881068",
+      "published_utc": "2026-09-30T10:43:00Z",
+      "title_en": "Vláda schválila pro obranu proti srpnovému návrhu o 100 mil. méně",
+      "lead_en": "Praha - Ministerstvo obrany by mělo mít v příštím roce výdaje 190,9 miliardy korun, proti srpnovému návrhu ministerstva financí je vláda snížila o 100 milionů. Vláda například zvýšila peníze na platy,...",
+      "title_raw": "Vláda schválila pro obranu proti srpnovému návrhu o 100 mil. méně",
+      "lead_raw": "Praha - Ministerstvo obrany by mělo mít v příštím roce výdaje 190,9 miliardy korun, proti srpnovému návrhu ministerstva financí je vláda snížila o 100 milionů. Vláda například zvýšila peníze na platy,...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "baf029fb5638334e41d1d279fd552ec9d19d900d",
+      "fingerprint": "25c7de69b5c01c04dbbcfa7eb4dbdc9db5539583",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-vlevo-dole-nikomu-neverim-jen-sam-sobe-sveril-se-babis-podcastu-vlevo-dole-316394",
+      "published_utc": "2026-09-30T10:00:00Z",
+      "title_en": "Nikomu nevěřím, jen sám sobě, svěřil se Babiš",
+      "lead_en": "Premiér Andrej Babiš mívá chvíle až odzbrojující upřímnosti. „Já nikomu nevěřím.",
+      "title_raw": "Nikomu nevěřím, jen sám sobě, svěřil se Babiš",
+      "lead_raw": "Premiér Andrej Babiš mívá chvíle až odzbrojující upřímnosti. „Já nikomu nevěřím.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "6c3747cb2d792699ca7a833bd8a2c9348307dceb",
+      "fingerprint": "56e8d8c836ad2bfc3237aafd0e43929f96e37358",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-usa-oficialne-ukoncily-vojenskou-misi-v-iraku-316459",
+      "published_utc": "2026-09-30T09:05:43Z",
+      "title_en": "Kurdy zneklidňuje stažení USA z Iráku. Islámský stát se dal do pohybu, tvrdí",
+      "lead_en": "Dvanáctiletá mise byla zaměřená na boj proti Islámskému státu. Její ukončení může podle iráckých bezpečnostních expertů poskytnout volné pole působnosti Teheránu a zároveň umožnit návrat dalších odpůrců USA.",
+      "title_raw": "Kurdy zneklidňuje stažení USA z Iráku. Islámský stát se dal do pohybu, tvrdí",
+      "lead_raw": "Dvanáctiletá mise byla zaměřená na boj proti Islámskému státu. Její ukončení může podle iráckých bezpečnostních expertů poskytnout volné pole působnosti Teheránu a zároveň umožnit návrat dalších odpůrců USA.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "c86faba314894d06f0c283fbcd7cf3466a470918",
+      "fingerprint": "76d8df480b734c3be1914fa8c0ed0c318fc059c6",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/pavel-zeme-nato-musi-dat-jasne-na-vedomi-odhodlani-branit-svuj-vzdusny-prostor/2877376",
+      "published_utc": "2026-09-30T08:58:00Z",
+      "title_en": "Pavel: Země NATO musí dát jasně na vědomí odhodlání bránit svůj vzdušný prostor",
+      "lead_en": "Praha - Státy Severoatlantické aliance (NATO) musí dát jasně na vědomí, že jsou odhodlány s naprostou rozhodností bránit svůj vzdušný prostor i pobřežní vody, řekl dnes k ruským útokům prezident Petr...",
+      "title_raw": "Pavel: Země NATO musí dát jasně na vědomí odhodlání bránit svůj vzdušný prostor",
+      "lead_raw": "Praha - Státy Severoatlantické aliance (NATO) musí dát jasně na vědomí, že jsou odhodlány s naprostou rozhodností bránit svůj vzdušný prostor i pobřežní vody, řekl dnes k ruským útokům prezident Petr...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "4e2bd52c76e582b9a8119c94d778a4f911df47a7",
+      "fingerprint": "e79c1f65407638fd06e26436227ca2a966f31773",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/na-pomoc-pobalti-bychom-v-pripade-napadeni-museli-vyslat-dve-brigady-rekl-babis-378093",
+      "published_utc": "2026-09-30T08:03:13Z",
+      "title_en": "Na pomoc Pobaltí bychom v případě napadení museli vyslat dvě brigády, řekl Babiš",
+      "lead_en": "Premiér Andrej Babiš (ANO) se v úterý po uložení korunovačních klenotů setkal s prezidentem Petrem Pavlem. Předseda vlády serveru Deník.cz řekl, že s hlavou státu diskutoval o programu příští Bezpečnostní rady státu, včetně možné reakce na případný ruský útok na některý z pobaltských států.",
+      "title_raw": "Na pomoc Pobaltí bychom v případě napadení museli vyslat dvě brigády, řekl Babiš",
+      "lead_raw": "Premiér Andrej Babiš (ANO) se v úterý po uložení korunovačních klenotů setkal s prezidentem Petrem Pavlem. Předseda vlády serveru Deník.cz řekl, že s hlavou státu diskutoval o programu příští Bezpečnostní rady státu, včetně možné reakce na případný ruský útok na některý z pobaltských států.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "2e7ff94db81aece49c6b17dd0b34231984354167",
+      "fingerprint": "d18df13b1d692b247ba3ab3d9986977ca4a3764f",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/senat-ma-na-programu-navrh-na-nepromlcitelnost-trestneho-cinu-vrazdy-378091",
+      "published_utc": "2026-09-30T08:01:51Z",
+      "title_en": "Senát schválil nižší počet vojáků bránící východní křídlo NATO",
+      "lead_en": "Na obranu východního křídla NATO bude moci být v příštích dvou letech vysláno nejvýše 1600 českých vojáků, o 400 méně než dosud, schválil Senát. Horní komora parlamentu také na úvod svého středečního jednání vyslovila souhlas s ratifikací Úmluvy o zřízení Mezinárodní komise pro posuzování nároků Ukrajiny.",
+      "title_raw": "Senát schválil nižší počet vojáků bránící východní křídlo NATO",
+      "lead_raw": "Na obranu východního křídla NATO bude moci být v příštích dvou letech vysláno nejvýše 1600 českých vojáků, o 400 méně než dosud, schválil Senát. Horní komora parlamentu také na úvod svého středečního jednání vyslovila souhlas s ratifikací Úmluvy o zřízení Mezinárodní komise pro posuzování nároků Ukrajiny.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "d8f962be417e77bfa8a24b761eeb2bb26366bb90",
       "fingerprint": "a6a144912a0940e5bf64754ea3d234d76d897f3e",
@@ -1617,271 +2108,6 @@
         "military": 1,
         "energy": 0,
         "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "8eaaba1bb895c7c480bff88d0d9d631a2dba9885",
-      "fingerprint": "4ad6656a73848edcfc17268bbec15b3c482503e3",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nekde-schazi-prace-jinde-byty-poradi-mest-a-obci-podle-kvality-zivota-315051",
-      "published_utc": "2026-09-28T14:09:07Z",
-      "title_en": "Někde schází práce, jinde byty. Pořadí měst a obcí podle kvality života",
-      "lead_en": "Investice do dopravy, školek i bezpečnosti patří mezi sliby politiků před nadcházejícími komunálními volbami. Jak se ale dlouhodobě daří zlepšovat život v českých městech?",
-      "title_raw": "Někde schází práce, jinde byty. Pořadí měst a obcí podle kvality života",
-      "lead_raw": "Investice do dopravy, školek i bezpečnosti patří mezi sliby politiků před nadcházejícími komunálními volbami. Jak se ale dlouhodobě daří zlepšovat život v českých městech?",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ed1ee7a6b81dce5b33008deca86b7c1e50077c2c",
-      "fingerprint": "0adf0eff7507476df46bc3d784ffb902bd187b1d",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-nvidia-spousti-platformu-pro-bezpecnejsi-ai-316333",
-      "published_utc": "2026-09-28T13:20:00Z",
-      "title_en": "Nvidia spouští platformu pro bezpečnější AI",
-      "lead_en": "Bezpečnost AI je podle ředitele společnosti Nvidia potřeba rozvíjet stejně rychle jako její možnosti. Firma proto spouští platformu, která má vývojářům pomoci předcházet rizikům.",
-      "title_raw": "Nvidia spouští platformu pro bezpečnější AI",
-      "lead_raw": "Bezpečnost AI je podle ředitele společnosti Nvidia potřeba rozvíjet stejně rychle jako její možnosti. Firma proto spouští platformu, která má vývojářům pomoci předcházet rizikům.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "0ecc91d2cbb234c53fbcedb45a64772c9a150703",
-      "fingerprint": "8b68523b046a8a36edc132e1d2d6b2280b92ac31",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/ve-stare-boleslavi-si-lide-pripomneli-svateho-vaclava-pribyl-vyzval-ke-smireni.A260928_143633_domaci_tty",
-      "published_utc": "2026-09-28T13:12:00Z",
-      "title_en": "Lidé si ve Staré Boleslavi připomněli svatého Václava, arcibiskup vyzval ke smíření",
-      "lead_en": "Tisíce lidí v pondělí dorazily do Staré Boleslavi u Prahy na Národní svatováclavskou pouť. Odkaz patrona české země si připomněli při tradiční poutní mši na Mariánském náměstí, kterou sloužil pražský arcibiskup a český primas Stanislav Přibyl.",
-      "title_raw": "Lidé si ve Staré Boleslavi připomněli svatého Václava, arcibiskup vyzval ke smíření",
-      "lead_raw": "Tisíce lidí v pondělí dorazily do Staré Boleslavi u Prahy na Národní svatováclavskou pouť. Odkaz patrona české země si připomněli při tradiční poutní mši na Mariánském náměstí, kterou sloužil pražský arcibiskup a český primas Stanislav Přibyl.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "a2ad8b24a0743c77527ef6bb80e4411564a9b9c4",
-      "fingerprint": "0e6cccf8852d08165ff558e2ec03d372424c26a9",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-kyjev-prozradil-ze-predal-jizni-koreji-zajatce-soul-se-zlobi-316329",
-      "published_utc": "2026-09-28T12:55:00Z",
-      "title_en": "Kyjev prozradil, že předal Jižní Koreji zajatce. Soul se zlobí",
-      "lead_en": "Mezi Jižní Koreou a Ukrajinou se rozhořel spor kvůli zajatým severokorejským vojákům. Kyjev je předal Jižní Koreji, která si však nepřála akci zveřejnit.",
-      "title_raw": "Kyjev prozradil, že předal Jižní Koreji zajatce. Soul se zlobí",
-      "lead_raw": "Mezi Jižní Koreou a Ukrajinou se rozhořel spor kvůli zajatým severokorejským vojákům. Kyjev je předal Jižní Koreji, která si však nepřála akci zveřejnit.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "206a15be8d80226e894eb2425916402441da5bbd",
-      "fingerprint": "3874f853dc8f0c6f3900feee3d01b580e0708654",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-divejte-se-raketa-starship-vyrazi-na-prelomovy-let-316327",
-      "published_utc": "2026-09-28T12:20:00Z",
-      "title_en": "Dívejte se. Raketa Starship vyrazila na přelomový let, už je na oběžné dráze",
-      "lead_en": "SpaceX provádí zásadní test rakety Starship. Během téměř desetihodinového letu má šestkrát obletět Zemi a vypustit 26 satelitů Starlink.",
-      "title_raw": "Dívejte se. Raketa Starship vyrazila na přelomový let, už je na oběžné dráze",
-      "lead_raw": "SpaceX provádí zásadní test rakety Starship. Během téměř desetihodinového letu má šestkrát obletět Zemi a vypustit 26 satelitů Starlink.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "1e3434fa2b2022df540837fac8b7425a79bd7ce5",
-      "fingerprint": "bfd252b41d3302e734c226772bda753038b538d1",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/volby-komunalni-na-prazskem-staromestskem-namesti-roste-podium-a-obrazovky-kvuli-akci-milionu-chvilek-40599796",
-      "published_utc": "2026-09-28T11:36:35Z",
-      "title_en": "Na pražském Staroměstském náměstí roste pódium a obrazovky kvůli akci Milionu chvilek",
-      "lead_en": "K účasti ve volbách má motivovat pondělní demonstrace na Staroměstském náměstí v Praze, kterou iniciuje spolek Milion chvilek, připomene také odkaz prezidenta Václava Havla. Oproti březnové demonstraci na Letné se odpolední setkání obejde bez bezpečnostních koridorů.",
-      "title_raw": "Na pražském Staroměstském náměstí roste pódium a obrazovky kvůli akci Milionu chvilek",
-      "lead_raw": "K účasti ve volbách má motivovat pondělní demonstrace na Staroměstském náměstí v Praze, kterou iniciuje spolek Milion chvilek, připomene také odkaz prezidenta Václava Havla. Oproti březnové demonstraci na Letné se odpolední setkání obejde bez bezpečnostních koridorů.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "aacd0e722e0e63bd6fceb9ae00a69da5bd68cbdd",
-      "fingerprint": "a801340ee5345c3214b2376544b94c348708a9a9",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-trump-nabizel-cine-zbrane-prohlasil-americky-velvyslanec-40599798",
-      "published_utc": "2026-09-28T11:13:36Z",
-      "title_en": "Trump nabízel Číně zbraně, prohlásil americký velvyslanec",
-      "lead_en": "Americký prezident Donald Trump se dotazoval čínského prezidenta, jestli nechce koupit nějaké zbraně, uvedl v neděli pro televizi Fox News americký velvyslanec v Číně David Perdue. Bílý dům následně přišel s prohlášením, že Spojené státy nemají v plánu prodávat zbraně Číně.",
-      "title_raw": "Trump nabízel Číně zbraně, prohlásil americký velvyslanec",
-      "lead_raw": "Americký prezident Donald Trump se dotazoval čínského prezidenta, jestli nechce koupit nějaké zbraně, uvedl v neděli pro televizi Fox News americký velvyslanec v Číně David Perdue. Bílý dům následně přišel s prohlášením, že Spojené státy nemají v plánu prodávat zbraně Číně.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "4c9bb0f6a57f6c4d9e05be778ff6a3b05bc27a44",
-      "fingerprint": "fa9ee25b81f110970fbf612951babb8c835fe94d",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-nemci-chteji-zatopit-rusum-zameri-se-na-diplomaty-i-oligarchy-316326",
-      "published_utc": "2026-09-28T11:10:00Z",
-      "title_en": "Němci sledují Rusy. A dávají si hodně záležet, aby při tom byli vidět",
-      "lead_en": "Německá tajná služba se podle informací listu Bild chystá zpřísnit dohled nad některými Rusy v Německu. Jde o další krok v boji proti hybridním hrozbám, které naplno obnažil pokus o útok na letoun na letišti v Lipsku.",
-      "title_raw": "Němci sledují Rusy. A dávají si hodně záležet, aby při tom byli vidět",
-      "lead_raw": "Německá tajná služba se podle informací listu Bild chystá zpřísnit dohled nad některými Rusy v Německu. Jde o další krok v boji proti hybridním hrozbám, které naplno obnažil pokus o útok na letoun na letišti v Lipsku.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "a5f9561cccbf60a626c6f9b715d86ab15a532839",
-      "fingerprint": "eda924daadf02d21a4cacd3e6768c28d766c8306",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/nato/spyder-protivzdusna-obrana-armada-sekanina-dny-nato.A260927_174234_zpr_nato_inc",
-      "published_utc": "2026-09-28T10:30:00Z",
-      "title_en": "Tři prsty smrti skončí. První raketu z nového SPYDERu vystřelí vojáci příští rok",
-      "lead_en": "Přesně před týdnem česká armáda poprvé na veřejnosti na Dnech NATO v Ostravě představila nový protivzdušný systém SPYDER izraelské výroby. Bude chránit důležité objekty a prostory jako součást širší protivzdušné obrany země, říká v rozhovoru specialista Jaroslav Sekanina, který má zavádění moderní zbraně na starost.",
-      "title_raw": "Tři prsty smrti skončí. První raketu z nového SPYDERu vystřelí vojáci příští rok",
-      "lead_raw": "Přesně před týdnem česká armáda poprvé na veřejnosti na Dnech NATO v Ostravě představila nový protivzdušný systém SPYDER izraelské výroby. Bude chránit důležité objekty a prostory jako součást širší protivzdušné obrany země, říká v rozhovoru specialista Jaroslav Sekanina, který má zavádění moderní zbraně na starost.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 6,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "dc2dea96588fdebcbba3ace05f26258746b23156",
-      "fingerprint": "c306dc795753da086b53f6e81edfb823f7f5d4f8",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-zbrojarska-stv-group-loni-vydelala-75-miliardy-korun-316322",
-      "published_utc": "2026-09-28T08:48:20Z",
-      "title_en": "Zbrojařská STV Group loni vydělala 7,5 miliardy korun",
-      "lead_en": "Podle výroční zprávy ve sbírce listin stoupl české zbrojařské skupině STV Group loni čistý zisk o 40 procent na 7,5 miliardy korun. Zcela zásadní vliv má válka na Ukrajině, kam firma dodává vojenský materiál pro napadenou zemi.",
-      "title_raw": "Zbrojařská STV Group loni vydělala 7,5 miliardy korun",
-      "lead_raw": "Podle výroční zprávy ve sbírce listin stoupl české zbrojařské skupině STV Group loni čistý zisk o 40 procent na 7,5 miliardy korun. Zcela zásadní vliv má válka na Ukrajině, kam firma dodává vojenský materiál pro napadenou zemi.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "bb4f1c247aa2384077cd97bf44c847278f731546",
-      "fingerprint": "5da052892ba5d3d5d4169aea976d731955eebf6d",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-u-americke-letecke-zakladny-v-anglii-se-nasly-vybusniny-na-podezrele-muze-upozornila-zena-ze-sousedstvi-40599777",
-      "published_utc": "2026-09-28T08:30:38Z",
-      "title_en": "U americké letecké základny v Anglii se našly výbušniny. Na podezřelé muže upozornila žena ze sousedství",
-      "lead_en": "Britská policie potvrdila, že v dodávkách mužů zadržených v neděli u britské letecké základny využívané americkým letectvem našla podomácku vyrobená výbušná zařízení. Dále prověřuje zapojení Íránu.",
-      "title_raw": "U americké letecké základny v Anglii se našly výbušniny. Na podezřelé muže upozornila žena ze sousedství",
-      "lead_raw": "Britská policie potvrdila, že v dodávkách mužů zadržených v neděli u britské letecké základny využívané americkým letectvem našla podomácku vyrobená výbušná zařízení. Dále prověřuje zapojení Íránu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "caa900890cb1fdb0a891398307690abd856863c3",
-      "fingerprint": "dfe692c6f246e7ffad05c704e231665fd856d1e7",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/zbrojarske-stv-group-loni-vzrostl-zisk-o-40-pct-na-75-miliardy-korun/2880183",
-      "published_utc": "2026-09-28T08:22:00Z",
-      "title_en": "Zbrojařské STV Group loni vzrostl zisk o 40 pct na 7,5 miliardy korun",
-      "lead_en": "Praha - České zbrojařské skupině STV Group loni stoupl čistý zisk o téměř 40 procent na 7,5 miliardy korun. Tržby se více než zdvojnásobily na 24,4 miliardy korun, předloni činily 11,6 miliardy.",
-      "title_raw": "Zbrojařské STV Group loni vzrostl zisk o 40 pct na 7,5 miliardy korun",
-      "lead_raw": "Praha - České zbrojařské skupině STV Group loni stoupl čistý zisk o téměř 40 procent na 7,5 miliardy korun. Tržby se více než zdvojnásobily na 24,4 miliardy korun, předloni činily 11,6 miliardy.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
         "local_events": 0
       },
       "topics": [

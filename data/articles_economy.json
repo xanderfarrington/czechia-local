@@ -1,10 +1,254 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-30T07:35:34Z",
+  "updated_at_utc": "2026-09-30T14:19:46Z",
   "topic": "economy",
-  "count": 17,
+  "count": 26,
   "articles": [
+    {
+      "id": "830831a812581cd02dd6ab917ac186b718e843ae",
+      "fingerprint": "5043ed3a5e5431542c84b02fc6b8bda9b9b8b280",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-cesi-budou-vyrabet-dily-pro-f-35-vedi-ze-nesmi-udelat-chybu-316218",
+      "published_utc": "2026-09-30T14:00:00Z",
+      "title_en": "Češi budou vyrábět díly pro F-35. Vědí, že nesmí udělat chybu",
+      "lead_en": "Rodinná firma Ray Service dodává své elektronické systémy špičkovým světovým zbrojařským společnostem Rheinmetall, KNDS či BAE Systems. Do dvou let chce zvýšit obrat na pět miliard korun a zdvojnásobit počet zaměstnanců.",
+      "title_raw": "Češi budou vyrábět díly pro F-35. Vědí, že nesmí udělat chybu",
+      "lead_raw": "Rodinná firma Ray Service dodává své elektronické systémy špičkovým světovým zbrojařským společnostem Rheinmetall, KNDS či BAE Systems. Do dvou let chce zvýšit obrat na pět miliard korun a zdvojnásobit počet zaměstnanců.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "4eed632cad55cc51112c3bfbc5c88568c4647744",
+      "fingerprint": "3d69a7e3702dc604a16e2c8a7f10f2170c8322e3",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/statni-lesy-cr-v-pololeti-pres-nizsi-tezbu-zvedly-zisk-o-23-pct-na-395-mld-kc/2881211",
+      "published_utc": "2026-09-30T13:42:00Z",
+      "title_en": "Státní Lesy ČR v pololetí přes nižší těžbu zvedly zisk o 23 pct na 3,95 mld. Kč",
+      "lead_en": "Hradec Králové - Státní podnik Lesy České republiky (LČR) v prvním pololetí přes nižší těžbu dřeva zvýšil hrubý zisk meziročně o 23 procent na 3,95 miliardy korun. Tržby za vlastní výrobky a služby podniku...",
+      "title_raw": "Státní Lesy ČR v pololetí přes nižší těžbu zvedly zisk o 23 pct na 3,95 mld. Kč",
+      "lead_raw": "Hradec Králové - Státní podnik Lesy České republiky (LČR) v prvním pololetí přes nižší těžbu dřeva zvýšil hrubý zisk meziročně o 23 procent na 3,95 miliardy korun. Tržby za vlastní výrobky a služby podniku...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "531b976be7dd942efe1688d8dcc5ed0326e05d7e",
+      "fingerprint": "f100a324b992aacb2461e938a9c2db108ec91a1c",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-statni-lesy-cr-zvysily-hruby-zisk-40600183",
+      "published_utc": "2026-09-30T13:32:44Z",
+      "title_en": "Státní Lesy ČR zvýšily hrubý zisk",
+      "lead_en": "Státní podnik Lesy České republiky (LČR) v prvním pololetí přes nižší těžbu dřeva zvýšil hrubý zisk meziročně o 23 procent na 3,95 miliardy korun. Tržby za vlastní výrobky a služby podniku vzrostly o sedm procent na 8,9 miliardy korun, těžba dřeva klesla o osm procent na 3,92 milionu metrů krychlových.",
+      "title_raw": "Státní Lesy ČR zvýšily hrubý zisk",
+      "lead_raw": "Státní podnik Lesy České republiky (LČR) v prvním pololetí přes nižší těžbu dřeva zvýšil hrubý zisk meziročně o 23 procent na 3,95 miliardy korun. Tržby za vlastní výrobky a služby podniku vzrostly o sedm procent na 8,9 miliardy korun, těžba dřeva klesla o osm procent na 3,92 milionu metrů krychlových.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "865ff029ab49e301ed700ffdfe3a0ec6f1a49770",
+      "fingerprint": "5f315c1a0897045171833402dd9234fef5dc6bc9",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-volkswagen-kvuli-skrtum-prezkouma-mzdovou-dohodu-s-odbory-40600182",
+      "published_utc": "2026-09-30T13:30:00Z",
+      "title_en": "Volkswagen kvůli škrtům přezkoumá mzdovou dohodu s odbory",
+      "lead_en": "Německý automobilový koncern Volkswagen přezkoumá budoucí mzdovou dohodu s odborovým svazem IG Metall a k 31. prosinci letošního roku vypoví několik stávajících kolektivních smluv, aby získal větší prostor pro plánované snižování počtu zaměstnanců.",
+      "title_raw": "Volkswagen kvůli škrtům přezkoumá mzdovou dohodu s odbory",
+      "lead_raw": "Německý automobilový koncern Volkswagen přezkoumá budoucí mzdovou dohodu s odborovým svazem IG Metall a k 31. prosinci letošního roku vypoví několik stávajících kolektivních smluv, aby získal větší prostor pro plánované snižování počtu zaměstnanců.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "39ae44826308ba9bac2a58d33a25137660968c1d",
+      "fingerprint": "501f930c014259e144b626526a3d45d6d98b311d",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/ministerstvo-financi-vydaje-prace-skolstvi-schodek.A260930_142625_domaci_onbu",
+      "published_utc": "2026-09-30T13:17:00Z",
+      "title_en": "Vláda přidala ministerstvům miliardy. Víc peněz dostane školství či vnitro",
+      "lead_en": "Vláda při projednávání státního rozpočtu na příští rok zvýšila proti původnímu návrhu ministerstva financí výdaje zejména u ministerstev vnitra, práce a sociálních věcí, školství a průmyslu a obchodu. Snížily se zejména výdaje v kapitole všeobecná pokladní správa, která zahrnuje mimo jiné vládní rozpočtovou rezervu.",
+      "title_raw": "Vláda přidala ministerstvům miliardy. Víc peněz dostane školství či vnitro",
+      "lead_raw": "Vláda při projednávání státního rozpočtu na příští rok zvýšila proti původnímu návrhu ministerstva financí výdaje zejména u ministerstev vnitra, práce a sociálních věcí, školství a průmyslu a obchodu. Snížily se zejména výdaje v kapitole všeobecná pokladní správa, která zahrnuje mimo jiné vládní rozpočtovou rezervu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "d90af649766a99e48d9908eb08ddb2694c41045f",
+      "fingerprint": "5ea3004bd70608529d636d290dd4dfd813a30c8e",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/ekonomika-usa-ve-druhem-ctvrtleti-vzrostla-o-22-procenta-rychleji-nez-odhad/2881171",
+      "published_utc": "2026-09-30T12:58:00Z",
+      "title_en": "Ekonomika USA ve druhém čtvrtletí vzrostla o 2,2 procenta, rychleji než odhad",
+      "lead_en": "Washington - Hrubý domácí produkt (HDP) Spojených států se ve druhém čtvrtletí v celoročním přepočtu zvýšil o 2,2 procenta, uvedlo dnes americké ministerstvo obchodu. Zpřesnilo tak svůj předchozí odhad,...",
+      "title_raw": "Ekonomika USA ve druhém čtvrtletí vzrostla o 2,2 procenta, rychleji než odhad",
+      "lead_raw": "Washington - Hrubý domácí produkt (HDP) Spojených států se ve druhém čtvrtletí v celoročním přepočtu zvýšil o 2,2 procenta, uvedlo dnes americké ministerstvo obchodu. Zpřesnilo tak svůj předchozí odhad,...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "cffd778fdace3a2700b31f89fb03764cbda82142",
+      "fingerprint": "97d3a4a12fc43439810e5a5f3c35403c4a3ffa53",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-ekonomika-usa-rostla-rychleji-40600164",
+      "published_utc": "2026-09-30T12:48:00Z",
+      "title_en": "Ekonomika USA rostla rychleji",
+      "lead_en": "Hrubý domácí produkt (HDP) Spojených států se ve druhém čtvrtletí v celoročním přepočtu zvýšil o 2,2 procenta, uvedlo ve středu americké ministerstvo obchodu. Zpřesnilo tak svůj předchozí odhad, podle kterého HDP vzrostl o 1,5 procenta.",
+      "title_raw": "Ekonomika USA rostla rychleji",
+      "lead_raw": "Hrubý domácí produkt (HDP) Spojených států se ve druhém čtvrtletí v celoročním přepočtu zvýšil o 2,2 procenta, uvedlo ve středu americké ministerstvo obchodu. Zpřesnilo tak svůj předchozí odhad, podle kterého HDP vzrostl o 1,5 procenta.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "9676713264a680851dd0b8a4bd1b6203b200320f",
+      "fingerprint": "c8df52cbbf9e455e723620a59ae8008351969424",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-do-bankomatu-vlozil-26-milionu-pise-policie-o-byvalem-namestkovi-vzp-316457",
+      "published_utc": "2026-09-30T12:30:12Z",
+      "title_en": "Do bankomatů vložil 26 milionů, píše policie o bývalém náměstkovi VZP",
+      "lead_en": "Petra Hoňka, bývalého náměstka VZP a současného ředitele příbramské nemocnice, podezírají policisté z praní špinavých peněz. S manželkou podle detektivů provedli 162 vkladů do bankomatů ve výši přes 26 milionů korun.",
+      "title_raw": "Do bankomatů vložil 26 milionů, píše policie o bývalém náměstkovi VZP",
+      "lead_raw": "Petra Hoňka, bývalého náměstka VZP a současného ředitele příbramské nemocnice, podezírají policisté z praní špinavých peněz. S manželkou podle detektivů provedli 162 vkladů do bankomatů ve výši přes 26 milionů korun.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "02056d4fafa5ff748d41274593ab974abd4d833b",
+      "fingerprint": "7af9f2f298633e038db92f2c61431908d4f8c56f",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/vlada-v-rozpoctu-zvysila-vydaje-ministerstev-vnitra-prace-skolstvi-ci-prumyslu_2609301403_mst",
+      "published_utc": "2026-09-30T12:03:00Z",
+      "title_en": "Vláda v rozpočtu zvýšila výdaje ministerstev vnitra, práce, školství či průmyslu. Peněz ubylo na rezervách",
+      "lead_en": "Vláda při projednávání státního rozpočtu zvýšila proti původnímu návrhu ministerstva financí výdaje zejména u ministerstev vnitra, práce a sociálních věcí, školství a průmyslu a obchodu. Snížily se zejména výdaje v kapitole všeobecná pokladní správa, která zahrnuje mimo jiné vládní rozpočtovou rezervu.",
+      "title_raw": "Vláda v rozpočtu zvýšila výdaje ministerstev vnitra, práce, školství či průmyslu. Peněz ubylo na rezervách",
+      "lead_raw": "Vláda při projednávání státního rozpočtu zvýšila proti původnímu návrhu ministerstva financí výdaje zejména u ministerstev vnitra, práce a sociálních věcí, školství a průmyslu a obchodu. Snížily se zejména výdaje v kapitole všeobecná pokladní správa, která zahrnuje mimo jiné vládní rozpočtovou rezervu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "547aca28c62f373ce279ac287c718f7a1f3e9fb7",
+      "fingerprint": "571180d91b8970cabf76cfcb692ddc04c162d4af",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/rusky-supermarket-mere-v-cesku-nezavrel-obesel-sankce-jinde-v-unii-musel-skoncit.A260929_195632_domaci_bury",
+      "published_utc": "2026-09-30T11:00:00Z",
+      "title_en": "Ruský supermarket Mere v Česku nezavřel, obešel sankce. Jinde v Unii musel skončit",
+      "lead_en": "Rodina předních ruských miliardářů Šnajderových kvůli unijním sankcím zavírá v Evropě síť svých supermarketů Mere. Dvanáct prodejen se ale stabilně drží v jediné zemi v rámci Evropské unie: v Česku.",
+      "title_raw": "Ruský supermarket Mere v Česku nezavřel, obešel sankce. Jinde v Unii musel skončit",
+      "lead_raw": "Rodina předních ruských miliardářů Šnajderových kvůli unijním sankcím zavírá v Evropě síť svých supermarketů Mere. Dvanáct prodejen se ale stabilně drží v jediné zemi v rámci Evropské unie: v Česku.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "b2af91ec8631d8cd46431ee4646309f25b86214b",
+      "fingerprint": "ab4ee5f02d34d03eb5aa31040f5a5c9ada42ec57",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-vlada-pridala-ministerstvum-miliardy-penize-vzala-z-rozpoctove-rezervy-40600123",
+      "published_utc": "2026-09-30T10:38:50Z",
+      "title_en": "Vláda přidala ministerstvům miliardy. Hlavně na platy",
+      "lead_en": "Vládní koalice ANO, SPD a Motoristů při projednávání státního rozpočtu zvýšila proti původnímu návrhu ministerstva financí z konce srpna výdaje zejména u ministerstev vnitra, práce a sociálních věcí, školství a průmyslu a obchodu. Většinou jde o prostředky na platy, které kabinet přesunul do resortních rozpočtů z kapitoly všeobecná pokladní správa.",
+      "title_raw": "Vláda přidala ministerstvům miliardy. Hlavně na platy",
+      "lead_raw": "Vládní koalice ANO, SPD a Motoristů při projednávání státního rozpočtu zvýšila proti původnímu návrhu ministerstva financí z konce srpna výdaje zejména u ministerstev vnitra, práce a sociálních věcí, školství a průmyslu a obchodu. Většinou jde o prostředky na platy, které kabinet přesunul do resortních rozpočtů z kapitoly všeobecná pokladní správa.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "1531bf501a3b993c72aab11e16c7d865c5b437c6",
       "fingerprint": "a449d0bc905852aa3b8bedc351721b08a4dcd2c5",
@@ -331,50 +575,6 @@
       "lead_en": "Představte si, že jste český výrobce, který má povedený produkt a fungující e-shop. V Česku se vám daří, poptávka roste, recenze jsou pozitivní.",
       "title_raw": "Český e-shop v Polsku? Jak oslovit trh s 37 miliony zákazníků bez velkých investic",
       "lead_raw": "Představte si, že jste český výrobce, který má povedený produkt a fungující e-shop. V Česku se vám daří, poptávka roste, recenze jsou pozitivní.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "72918e9a2f61b41b50ad53dfe66ea81efdd66a52",
-      "fingerprint": "5c31e39c45937b848c59cc78c31be3da9d37f1c1",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-parket-mene-slibu-vice-volnosti-centralni-banky-mozna-mluvi-az-prilis-316233",
-      "published_utc": "2026-09-28T10:20:00Z",
-      "title_en": "Méně slibů, více volnosti. Centrální banky možná mluví až příliš",
-      "lead_en": "Méně náznaků, méně slibů a více prostoru reagovat na nová data. MMF navrhuje změnit způsob, jakým centrální banky mluví s trhy.",
-      "title_raw": "Méně slibů, více volnosti. Centrální banky možná mluví až příliš",
-      "lead_raw": "Méně náznaků, méně slibů a více prostoru reagovat na nová data. MMF navrhuje změnit způsob, jakým centrální banky mluví s trhy.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "76688db408a28b059bb9a435d48f439a957f2e2f",
-      "fingerprint": "008907d10e70f384b887e79a8f0c3b22e3e9ca97",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-ocima-byznysu-ocima-byznysu-na-levnejsi-hypoteky-si-pockame-ve-hre-je-sest-procent-i-vice-315918",
-      "published_utc": "2026-09-28T08:30:00Z",
-      "title_en": "Šest procent i více. V Hormuzu padly české sny o levnějších hypotékách",
-      "lead_en": "Peníze zdražují a úroky u hypoték tak klesat nebudou. Pokud se situace na mezibankovním trhu neuklidní, může se u nabídek do konce roku objevit hranice šesti procent, píše hypoteční expert Broker Trust Libor Vojta Ostatek.",
-      "title_raw": "Šest procent i více. V Hormuzu padly české sny o levnějších hypotékách",
-      "lead_raw": "Peníze zdražují a úroky u hypoték tak klesat nebudou. Pokud se situace na mezibankovním trhu neuklidní, může se u nabídek do konce roku objevit hranice šesti procent, píše hypoteční expert Broker Trust Libor Vojta Ostatek.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,

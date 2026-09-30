@@ -1,10 +1,234 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-30T07:35:34Z",
+  "updated_at_utc": "2026-09-30T14:19:46Z",
   "topic": "energy",
-  "count": 30,
+  "count": 37,
   "articles": [
+    {
+      "id": "c31a6de122acb34fe27ee65f1a3520c46424d83a",
+      "fingerprint": "b04a75e97d318ab04aaa2783d6743abb7242cd7a",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/spojene-kralovstvi-nabizi-clenskym-statum-vojenske-koalice-jef-jaderny-destnik-378101",
+      "published_utc": "2026-09-30T14:00:00Z",
+      "title_en": "Spojené království nabízí členským státům vojenské koalice JEF „jaderný deštník“",
+      "lead_en": "Spojené království nabídlo členům vojenského partnerství „Joint Expeditionary Force“ (JEF, česky Společné expediční síly) „jaderný deštník“ v rámci širší dohody o obraně.",
+      "title_raw": "Spojené království nabízí členským státům vojenské koalice JEF „jaderný deštník“",
+      "lead_raw": "Spojené království nabídlo členům vojenského partnerství „Joint Expeditionary Force“ (JEF, česky Společné expediční síly) „jaderný deštník“ v rámci širší dohody o obraně.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "5fb7c7d4a9f8e7a98512376db04fbdad341ed9c3",
+      "fingerprint": "6fa98b6de5251cc779223711c8d6c4e2f0519d35",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/pardubice/zpravy/poliklinika-pardubice-strelba-muz-policie-patrani.A260930_102825_pardubice-zpravy_anel",
+      "published_utc": "2026-09-30T13:54:00Z",
+      "title_en": "Střelba na poliklinice. Obrovská rána, pak běželi do obchodního centra, líčí svědkyně",
+      "lead_en": "Do vážného konfliktu se dnes dostali dva muži na pardubické poliklinice. Jeden z nich podle policie a svědků během střetu vystřelil ze zbraně, zřejmě plynové, a následně utekl směrem k obchodnímu centru.",
+      "title_raw": "Střelba na poliklinice. Obrovská rána, pak běželi do obchodního centra, líčí svědkyně",
+      "lead_raw": "Do vážného konfliktu se dnes dostali dva muži na pardubické poliklinice. Jeden z nich podle policie a svědků během střetu vystřelil ze zbraně, zřejmě plynové, a následně utekl směrem k obchodnímu centru.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "43fd31bd48c8f5a90c04b9c3ada0a2b464033d39",
+      "fingerprint": "c98f7faa1741a17fbbd59cde2849390979127120",
+      "source": "Radio Prague International (EN)",
+      "url": "https://english.radio.cz/czech-government-sets-fuel-price-caps-amid-rising-prices-8898710",
+      "published_utc": "2026-09-30T12:49:00Z",
+      "title_en": "Czech government sets fuel price caps amid rising prices",
+      "lead_en": "Czech government sets fuel price caps amid rising prices",
+      "title_raw": "Czech government sets fuel price caps amid rising prices",
+      "lead_raw": "Czech government sets fuel price caps amid rising prices",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "6815c2fbf9923c59ab32f24f9b85beb8db47ba06",
+      "fingerprint": "604292121484d998afd5d0a8c8e77da1439eea9b",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/objekt-1335-rusove-obnovili-bunkr-soudneho-dne-skryva-se-v-zulove-hore-na-uralu.A260930_112722_zahranicni_aha",
+      "published_utc": "2026-09-30T12:25:00Z",
+      "title_en": "Objekt 1335. Putin obnovil bunkr soudného dne, ukrývá ho žulová hora na Uralu",
+      "lead_en": "Vladimir Putin ještě před vpádem na Ukrajinu nechal obnovit hluboký podzemní komplex, jehož posádka by i v případě likvidace nejvyššího velení mohla nařídit odvetný jaderný úder. Modernizaci a rozšíření obřího bunkru zmapoval list The Sunday Times ve spolupráci s investigativními projekty Danwatch a Dossier Centre.",
+      "title_raw": "Objekt 1335. Putin obnovil bunkr soudného dne, ukrývá ho žulová hora na Uralu",
+      "lead_raw": "Vladimir Putin ještě před vpádem na Ukrajinu nechal obnovit hluboký podzemní komplex, jehož posádka by i v případě likvidace nejvyššího velení mohla nařídit odvetný jaderný úder. Modernizaci a rozšíření obřího bunkru zmapoval list The Sunday Times ve spolupráci s investigativními projekty Danwatch a Dossier Centre.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "ab1577321c18b683deac0ef09461f2e8d56a422f",
+      "fingerprint": "08e7bcdf3d439970894b92d810d73503934897ca",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-mvp-cesko-narazi-na-limit-poslednich-dvacet-let-vychovavalo-hlavne-delniky-316467",
+      "published_utc": "2026-09-30T12:00:00Z",
+      "title_en": "„Musíme se dostat z marastu.“ Co brzdí český fotbal, i když ho vede Španěl",
+      "lead_en": "Nová éra fotbalové reprezentace pod španělským trenérem začala sympaticky, zároveň dvěma porážkami. Z hráčů ale najednou vyzařuje pozitivní energie, shodli se experti podcastu MVP.",
+      "title_raw": "„Musíme se dostat z marastu.“ Co brzdí český fotbal, i když ho vede Španěl",
+      "lead_raw": "Nová éra fotbalové reprezentace pod španělským trenérem začala sympaticky, zároveň dvěma porážkami. Z hráčů ale najednou vyzařuje pozitivní energie, shodli se experti podcastu MVP.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d389a50414d3213a04a97530979353efda87344c",
+      "fingerprint": "c92258d97bc0ea2017488644c7134e3f7e3817e9",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-ceny-plynu-mohou-podle-analytiku-dal-rust-klicova-bude-nadchazejici-zima-40600116",
+      "published_utc": "2026-09-30T11:38:56Z",
+      "title_en": "Ceny plynu mohou podle analytiků dál růst, klíčová bude nadcházející zima",
+      "lead_en": "Ceny plynu v Evropě mohou dál růst, pro jejich další vývoj bude podle analytiků vedle geopolitické situace klíčová také nadcházející zima. V případě dlouhých a tuhých mrazů hrozí další růst cen až o desítky procent, běžná zima pak nejspíš ponechá ceny na současné úrovni.",
+      "title_raw": "Ceny plynu mohou podle analytiků dál růst, klíčová bude nadcházející zima",
+      "lead_raw": "Ceny plynu v Evropě mohou dál růst, pro jejich další vývoj bude podle analytiků vedle geopolitické situace klíčová také nadcházející zima. V případě dlouhých a tuhých mrazů hrozí další růst cen až o desítky procent, běžná zima pak nejspíš ponechá ceny na současné úrovni.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "f291621509c399fd176a852c210d565e6e7c57ae",
+      "fingerprint": "5cbd60df6086781b724957d9d9d3a4361e094ff4",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-v-pripade-blokady-kaliningradu-muzeme-reagovat-jadernymi-zbranemi-tvrdi-kreml-316470",
+      "published_utc": "2026-09-30T10:53:10Z",
+      "title_en": "V případě blokády Kaliningradu můžeme reagovat jadernými zbraněmi, tvrdí Kreml",
+      "lead_en": "Rusové se podle Kremlu snaží uklidnit „horké hlavy“ v Evropě a varují je před nezodpovědným přístupem, který může vést k použití jaderných zbraní.",
+      "title_raw": "V případě blokády Kaliningradu můžeme reagovat jadernými zbraněmi, tvrdí Kreml",
+      "lead_raw": "Rusové se podle Kremlu snaží uklidnit „horké hlavy“ v Evropě a varují je před nezodpovědným přístupem, který může vést k použití jaderných zbraní.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ca80bcc4fc59e5043e7260d17a812431303fb033",
+      "fingerprint": "94b28406697aee4b04ac0be7bf30367c96f34a27",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/analytici-ceny-plynu-mohou-dal-rust-klicova-bude-nadchazejici-zima/2881051",
+      "published_utc": "2026-09-30T10:08:00Z",
+      "title_en": "Analytici: Ceny plynu mohou dál růst, klíčová bude nadcházející zima",
+      "lead_en": "Praha - Ceny plynu v Evropě mohou dál růst, pro jejich další vývoj bude podle analytiků vedle geopolitické situace klíčová také nadcházející zima. V případě dlouhých a tuhých mrazů hrozí další růst cen...",
+      "title_raw": "Analytici: Ceny plynu mohou dál růst, klíčová bude nadcházející zima",
+      "lead_raw": "Praha - Ceny plynu v Evropě mohou dál růst, pro jejich další vývoj bude podle analytiků vedle geopolitické situace klíčová také nadcházející zima. V případě dlouhých a tuhých mrazů hrozí další růst cen...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "b3823f962c490e0ca6042b9536d83740da869a08",
+      "fingerprint": "02757fcfcc32e9a6c2ff7bebce96aa2b189a473e",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/muz-na-poliklinice-v-pardubicich-nejspis-vystrelil-z-plynove-pistole-hleda-ho_2609301107_raf",
+      "published_utc": "2026-09-30T09:07:00Z",
+      "title_en": "Muž na poliklinice v Pardubicích nejspíš vystřelil z plynové pistole. Policie ho dopadla",
+      "lead_en": "Při středečním konfliktu dvou mužů na poliklinice v Pardubicích jeden z nich nejspíš vystřelil z plynové pistole a utekl, policie ho odpoledne dopadla. Nikdo nebyl zraněn.",
+      "title_raw": "Muž na poliklinice v Pardubicích nejspíš vystřelil z plynové pistole. Policie ho dopadla",
+      "lead_raw": "Při středečním konfliktu dvou mužů na poliklinice v Pardubicích jeden z nich nejspíš vystřelil z plynové pistole a utekl, policie ho odpoledne dopadla. Nikdo nebyl zraněn.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e78f6192663753f94da8663e69b576373e89feda",
+      "fingerprint": "92c5dd2b1e10ce843f0ea24382d37ac27b4ab934",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-neustaly-prujem-a-krece-popisuje-matka-nakazu-salmonelozou-ze-skolni-jidelny-316443",
+      "published_utc": "2026-09-30T07:46:35Z",
+      "title_en": "Zrovna se měnili vedoucí. Co se dělo ve školní jídelně, kde vypukla salmonelóza",
+      "lead_en": "Základní škola v Újezdě nad Lesy, kterou na začátku minulého týdne postihla epidemie salmonelózy, ve středu opět otevřela. Kvůli špatně připraveným uhlířským špagetám v nemocnici skončilo skoro 400 dětí a učitelů.",
+      "title_raw": "Zrovna se měnili vedoucí. Co se dělo ve školní jídelně, kde vypukla salmonelóza",
+      "lead_raw": "Základní škola v Újezdě nad Lesy, kterou na začátku minulého týdne postihla epidemie salmonelózy, ve středu opět otevřela. Kvůli špatně připraveným uhlířským špagetám v nemocnici skončilo skoro 400 dětí a učitelů.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "e765c2ba37cf05d45e2a173b0c23f7efc38ce942",
       "fingerprint": "a776bcbb96aca95cbd3448bb7d253f205b772b56",
@@ -603,73 +827,6 @@
         "military": 0,
         "energy": 1,
         "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "14a039f70c56542d6ab31c8ec2af76753c9bab49",
-      "fingerprint": "b0b05c140b05b1551705879d5cbf16441b8cd0d8",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-spd-chce-zpatky-ruskou-ropu-a-plyn-podle-expertu-to-v-evrope-nema-sanci-projit-40599805",
-      "published_utc": "2026-09-28T13:10:14Z",
-      "title_en": "SPD chce zpátky ruskou ropu a plyn, podle expertů to v Evropě nemá šanci projít",
-      "lead_en": "Vládní SPD prosazuje obnovení nákupů ruské ropy a plynu s tím, že by Česku mohly přinést levnější energie. Podle analytiků je to ale za současné situace politicky bez šance.",
-      "title_raw": "SPD chce zpátky ruskou ropu a plyn, podle expertů to v Evropě nemá šanci projít",
-      "lead_raw": "Vládní SPD prosazuje obnovení nákupů ruské ropy a plynu s tím, že by Česku mohly přinést levnější energie. Podle analytiků je to ale za současné situace politicky bez šance.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "19159417282d99b3dbea8bf2638ab10ed26dce53",
-      "fingerprint": "fc01b0a40351eb5f05e74728c902146077183b5f",
-      "source": "iROZHLAS - Economy",
-      "url": "https://www.irozhlas.cz/ekonomika/prvni-dodavatele-energii-pred-zimou-zdrazuji-dalsi-nebudou-s-reakci-dlouho-cekat_2609281455_ntu",
-      "published_utc": "2026-09-28T12:55:00Z",
-      "title_en": "První dodavatelé energií před zimou zdražují. ‚Další nebudou s reakcí dlouho čekat,‘ varuje analytik",
-      "lead_en": "Ceny energií na burzách před zimou výrazně rostou a reagují na to i dodavatelé plynu a elektřiny. Už koncem srpna zdražil některé fixované smlouvy největší dodavatel elektřiny ČEZ a v půlce září i další dodavatelé.",
-      "title_raw": "První dodavatelé energií před zimou zdražují. ‚Další nebudou s reakcí dlouho čekat,‘ varuje analytik",
-      "lead_raw": "Ceny energií na burzách před zimou výrazně rostou a reagují na to i dodavatelé plynu a elektřiny. Už koncem srpna zdražil některé fixované smlouvy největší dodavatel elektřiny ČEZ a v půlce září i další dodavatelé.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "01b5b608a3427aa46c2874de16606bcf3410a09f",
-      "fingerprint": "d747ff6112bf63ba339ae68e5ef35cb9a571d857",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-cesi-se-boji-energeticke-drahoty-ukazal-pruzkum-316312",
-      "published_utc": "2026-09-28T07:40:00Z",
-      "title_en": "Češi se bojí energetické drahoty, ukázal průzkum",
-      "lead_en": "Zdražování energií očekává 60 procent Čechů, ukázal průzkum společnosti epet energie. Přesto většina neuvažuje o změně dodavatele.",
-      "title_raw": "Češi se bojí energetické drahoty, ukázal průzkum",
-      "lead_raw": "Zdražování energií očekává 60 procent Čechů, ukázal průzkum společnosti epet energie. Přesto většina neuvažuje o změně dodavatele.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
         "local_events": 0
       },
       "topics": [
