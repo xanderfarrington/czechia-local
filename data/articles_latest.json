@@ -1,10 +1,75 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-09-30T23:16:06Z",
+  "updated_at_utc": "2026-10-01T02:42:57Z",
   "keep_hours": 48,
-  "count": 719,
+  "count": 720,
   "articles": [
+    {
+      "id": "a1df0b0da7d099e71be2c708751bddf441dc74c4",
+      "fingerprint": "10e0b313909c8bb45af6dd6702af3b4883dbe6c1",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/historie-pred-80-lety-skoncil-norimbersky-proces-dvanact-obzalovanych-dostalo-trest-smrti-tri-byli-osvobozeni-40600135",
+      "published_utc": "2026-10-01T02:28:00Z",
+      "title_en": "Před 80 lety skončil Norimberský proces. Dvanáct obžalovaných dostalo trest smrti, tři byli osvobozeni",
+      "lead_en": "Před osmdesáti lety, 1. října 1946, ukončil Mezinárodní vojenský tribunál v Norimberku proces s hlavními představiteli nacistického Německa.",
+      "title_raw": "Před 80 lety skončil Norimberský proces. Dvanáct obžalovaných dostalo trest smrti, tři byli osvobozeni",
+      "lead_raw": "Před osmdesáti lety, 1. října 1946, ukončil Mezinárodní vojenský tribunál v Norimberku proces s hlavními představiteli nacistického Německa.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "e36c8211f47976c587bf64c4ab55b21fad3045f3",
+      "fingerprint": "c1d546c7a0909e21139060450f239189898d1718",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/jizni-korea-investuje-v-usa-miliardy-dolaru-do-vystavby-jadernych-reaktoru-378125",
+      "published_utc": "2026-10-01T02:25:44Z",
+      "title_en": "Jižní Korea investuje v USA miliardy dolarů do výstavby jaderných reaktorů",
+      "lead_en": "Jižní Korea investuje v USA 120 miliard dolarů do výstavby osmi jaderných reaktorů a 22,3 miliardy dolarů (asi 480,1 miliardy korun) do výstavby paroplynové elektrárny, která bude dodávat elektřinu do datových center. Soul a Washington také posoudí projekt výstavby plynovodů a terminálu pro vývoz zkapalněného zemního plynu na Aljašce.",
+      "title_raw": "Jižní Korea investuje v USA miliardy dolarů do výstavby jaderných reaktorů",
+      "lead_raw": "Jižní Korea investuje v USA 120 miliard dolarů do výstavby osmi jaderných reaktorů a 22,3 miliardy dolarů (asi 480,1 miliardy korun) do výstavby paroplynové elektrárny, která bude dodávat elektřinu do datových center. Soul a Washington také posoudí projekt výstavby plynovodů a terminálu pro vývoz zkapalněného zemního plynu na Aljašce.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 5,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d94db6a05da4a62eb7fa7b3262d16b60c82c9169",
+      "fingerprint": "d3c78a4f051c9a599e766cfeb96fcb7af9d3b2b9",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/poslanci-by-mohli-hlasovat-o-navrhu-na-vysloveni-neduvery-vlade-378124",
+      "published_utc": "2026-10-01T01:52:18Z",
+      "title_en": "Poslanci by mohli hlasovat o návrhu na vyslovení nedůvěry vládě",
+      "lead_en": "Poslanci by ve čtvrtek mohli hlasovat o návrhu na vyslovení nedůvěry koaliční vládě Andreje Babiše (ANO). Schůze svolaná z podnětu zákonodárců pětice opozičních klubů bude pokračovat třetí jednací den.",
+      "title_raw": "Poslanci by mohli hlasovat o návrhu na vyslovení nedůvěry vládě",
+      "lead_raw": "Poslanci by ve čtvrtek mohli hlasovat o návrhu na vyslovení nedůvěry koaliční vládě Andreje Babiše (ANO). Schůze svolaná z podnětu zákonodárců pětice opozičních klubů bude pokračovat třetí jednací den.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
     {
       "id": "ccd81937c23a2dfe156e45cd630ff4d22d81aee3",
       "fingerprint": "55d83a72a94fec36f119384b5d90eedd782aa0fb",
@@ -14762,48 +14827,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "41f70510cfc8dbeef97dc0d32ca086544828cd35",
-      "fingerprint": "e700573d87c011466ac05135cd1a3b655f356c6a",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/iranci-jednali-se-zprostredkovateli-zadaji-americkou-odpoved-378040",
-      "published_utc": "2026-09-29T01:54:15Z",
-      "title_en": "Íránci jednali se zprostředkovateli, žádají americkou odpověď",
-      "lead_en": "Íránští zástupci v pondělí jednali s katarskými zprostředkovateli. Americkou odpověď na své návrhy očekávají během úterka, uvedl podle agentury Reuters ministr zahraničí Abbás Arakčí.",
-      "title_raw": "Íránci jednali se zprostředkovateli, žádají americkou odpověď",
-      "lead_raw": "Íránští zástupci v pondělí jednali s katarskými zprostředkovateli. Americkou odpověď na své návrhy očekávají během úterka, uvedl podle agentury Reuters ministr zahraničí Abbás Arakčí.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "6d0eb0b3e9affe6ecd42701d4fac540f2f748581",
-      "fingerprint": "293f692a9ba1fbc37ff4e07ac76394446cd0c52f",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/poslanci-se-sejdou-k-druhemu-opozicnimu-pokusu-o-vysloveni-neduvery-vlade-378039",
-      "published_utc": "2026-09-29T01:18:00Z",
-      "title_en": "Poslanci se sejdou k druhému opozičnímu pokusu o vyslovení nedůvěry vládě",
-      "lead_en": "Poslanci se v úterý odpoledne sejdou k jednání o opozičním návrhu na vyslovení nedůvěry vládě ANO, SPD a Motoristů. Schůze proběhne deset dnů před obecními a senátními volbami.",
-      "title_raw": "Poslanci se sejdou k druhému opozičnímu pokusu o vyslovení nedůvěry vládě",
-      "lead_raw": "Poslanci se v úterý odpoledne sejdou k jednání o opozičním návrhu na vyslovení nedůvěry vládě ANO, SPD a Motoristů. Schůze proběhne deset dnů před obecními a senátními volbami.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
