@@ -1,10 +1,78 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-01T02:42:57Z",
+  "updated_at_utc": "2026-10-01T09:30:21Z",
   "topic": "local_events",
-  "count": 9,
+  "count": 10,
   "articles": [
+    {
+      "id": "79d2e36e04e455db5178c2e51d218735177a6b76",
+      "fingerprint": "cc336e8248cfe78828104bbff7d9e4b953db08e1",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/izrael-chce-vyznamenat-cestujici-za-zachranu-letadla-378132",
+      "published_utc": "2026-10-01T08:57:51Z",
+      "title_en": "Izrael chce vyznamenat cestující za záchranu letadla",
+      "lead_en": "Izraelský prezident Jicchak Herzog chce udělit jedno z nejvyšších civilních vyznamenání čtyřem izraelským cestujícím, kteří pomohli zneškodnit útočníka v letu společnosti Flydubai na trase z Dubaje do Tel Avivu, píše agentura AFP. Indický pilot Smit Maččchar, kterého druhý pilot napadl v kokpitu letadla, utrpěl vážná zranění a nyní se léčí v Saúdské Arábii.",
+      "title_raw": "Izrael chce vyznamenat cestující za záchranu letadla",
+      "lead_raw": "Izraelský prezident Jicchak Herzog chce udělit jedno z nejvyšších civilních vyznamenání čtyřem izraelským cestujícím, kteří pomohli zneškodnit útočníka v letu společnosti Flydubai na trase z Dubaje do Tel Avivu, píše agentura AFP. Indický pilot Smit Maččchar, kterého druhý pilot napadl v kokpitu letadla, utrpěl vážná zranění a nyní se léčí v Saúdské Arábii.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "74c3666c8fdbab8bedb210709ecfec40211e6f40",
+      "fingerprint": "f066c8db046a56bba4b494fb856d5d7a842f8a13",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ceske-budejovice/zpravy/muz-kaceni-strom-zasahl-zraneni-zachranari-sanitka-vrtulnik.A261001_094411_budejovice-zpravy_khr",
+      "published_utc": "2026-10-01T08:29:00Z",
+      "title_en": "Muže při kácení na Táborsku trefil strom a vážně ho zranil, povolali i vrtulník",
+      "lead_en": "Vážné zranění utrpěl muž při kácení dřeva v lese na Táborsku. Záchranáři se k němu dostali sanitkou, ošetřili ho a pak vrtulníkem transportovali do českobudějovické nemocnice.",
+      "title_raw": "Muže při kácení na Táborsku trefil strom a vážně ho zranil, povolali i vrtulník",
+      "lead_raw": "Vážné zranění utrpěl muž při kácení dřeva v lese na Táborsku. Záchranáři se k němu dostali sanitkou, ošetřili ho a pak vrtulníkem transportovali do českobudějovické nemocnice.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "e5dbec7daedd1449f32074939b5b605161167b51",
+      "fingerprint": "f3dc7a9c96c70eebd1af46b846ae65c1b5316514",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/pri-strelbe-na-autobus-v-syrii-zahynulo-sedm-lidi-dalsi-ctyri-utrpeli-zraneni-378126",
+      "published_utc": "2026-10-01T04:54:57Z",
+      "title_en": "Při střelbě na autobus v Sýrii zahynulo sedm lidí, další čtyři utrpěli zranění",
+      "lead_en": "Při střelbě neznámých útočníků na autobus v syrské provincii Homs zemřelo sedm lidí a nejméně čtyři další byli zraněni. Autobus převážel zaměstnance soukromé energetické firmy, uvedla ve středu agentura AFP s odkazem na zdroj z bezpečnostních složek.",
+      "title_raw": "Při střelbě na autobus v Sýrii zahynulo sedm lidí, další čtyři utrpěli zranění",
+      "lead_raw": "Při střelbě neznámých útočníků na autobus v syrské provincii Homs zemřelo sedm lidí a nejméně čtyři další byli zraněni. Autobus převážel zaměstnance soukromé energetické firmy, uvedla ve středu agentura AFP s odkazem na zdroj z bezpečnostních složek.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "18a8af99f2ff2118480cd964e3ce3e958c21fecd",
       "fingerprint": "2dc78aae5bb5e8cc06898fe1f2f9e894e39a78df",
@@ -155,50 +223,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "45200fe96ecad19742e90c6a3899f51fa8d65004",
-      "fingerprint": "0d23a62416e88198d473e56fd1a78beb3f54ac54",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ucitelka-zemrela-po-napadeni-zakem-ve-skole-pobliz-slovenske-cadce-378051",
-      "published_utc": "2026-09-29T08:54:54Z",
-      "title_en": "Učitelka zemřela po napadení žákem ve škole poblíž slovenské Čadce",
-      "lead_en": "Jedna z učitelek, kterou na základní škole ve slovenské obci Staškov nedaleko Čadce napadl nožem žák osmé třídy, podlehla svým zraněním, napsal web Noviny.sk. Zraněna byla ještě jedna učitelka a také jedna dívka, která je podle serveru ta3 v kritickém stavu.",
-      "title_raw": "Učitelka zemřela po napadení žákem ve škole poblíž slovenské Čadce",
-      "lead_raw": "Jedna z učitelek, kterou na základní škole ve slovenské obci Staškov nedaleko Čadce napadl nožem žák osmé třídy, podlehla svým zraněním, napsal web Noviny.sk. Zraněna byla ještě jedna učitelka a také jedna dívka, která je podle serveru ta3 v kritickém stavu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "1526bef85dc6ed4672cdef46e8efc0d6dda1b8c9",
-      "fingerprint": "63c35181942b046e5eec7901440a4131718f31b0",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/pri-pozaru-v-tovarne-na-vyrobu-petard-severovychodne-od-moskvy-zemrelo-14-lidi.A260929_064427_zahranicni_onbu",
-      "published_utc": "2026-09-29T05:05:00Z",
-      "title_en": "Ruskou továrnu na petardy zachvátil rozsáhlý požár. Zemřelo čtrnáct lidí",
-      "lead_en": "Při požáru v továrně na výrobu petard v ruské Jaroslavské oblasti zemřelo nejméně 14 lidí a jeden člověk utrpěl zranění. Sdělila to ruská média, která citovala záchranné složky.",
-      "title_raw": "Ruskou továrnu na petardy zachvátil rozsáhlý požár. Zemřelo čtrnáct lidí",
-      "lead_raw": "Při požáru v továrně na výrobu petard v ruské Jaroslavské oblasti zemřelo nejméně 14 lidí a jeden člověk utrpěl zranění. Sdělila to ruská média, která citovala záchranné složky.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 4
       },
       "topics": [
         "local_events"
