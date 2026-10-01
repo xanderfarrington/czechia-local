@@ -1,10 +1,33 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-01T16:44:36Z",
+  "updated_at_utc": "2026-10-01T21:27:36Z",
   "topic": "economy",
-  "count": 43,
+  "count": 42,
   "articles": [
+    {
+      "id": "6e8c99f8d43fc61ce948a1b2d8231c42f8554b92",
+      "fingerprint": "120a1b9e3eff8523eb52f086e1c27ab76ff226ba",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/ropa-vyrazne-zdrazuje-pote-co-cina-pozastavila-vyvoz-ropnych-produktu/2881871",
+      "published_utc": "2026-10-01T16:42:00Z",
+      "title_en": "Ropa výrazně zdražuje poté, co Čína pozastavila vývoz ropných produktů",
+      "lead_en": "Londýn/New York - Ceny ropy výrazně rostou poté, co Čína podle zdrojů agentury Reuters pozastavila vývoz ropných produktů. Krok Pekingu by mohl dále zhoršit situaci na trhu s pohonnými hmotami, který...",
+      "title_raw": "Ropa výrazně zdražuje poté, co Čína pozastavila vývoz ropných produktů",
+      "lead_raw": "Londýn/New York - Ceny ropy výrazně rostou poté, co Čína podle zdrojů agentury Reuters pozastavila vývoz ropných produktů. Krok Pekingu by mohl dále zhoršit situaci na trhu s pohonnými hmotami, který...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "501e9c388556cdc901f27385276d474add9f9551",
       "fingerprint": "c34f26a0ffb840c0991becb9da541579fd788899",
@@ -921,52 +944,6 @@
       },
       "topics": [
         "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "e64a4472f8173596b9ee0138b22e3e2f3f1a9546",
-      "fingerprint": "3b4bae69bab04643ede82745a0443d6ab8dbfaee",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-orlen-unipetrol-kritizuje-novou-dan-na-rafinerie-40599986",
-      "published_utc": "2026-09-29T19:14:41Z",
-      "title_en": "Orlen Unipetrol kritizuje novou daň na rafinérie",
-      "lead_en": "Mimořádná daň ze zvýšených marží rafinerií, kterou minulý týden schválila kvůli vysokým cenám pohonných hmot vláda, ohrožuje podle společnosti Orlen Unipetrol další investice do rozvoje českých rafinerií a stabilitu trhu s pohonnými hmotami. Návrh navíc podle firmy vyvolává i ústavněprávní pochybnosti, daň má totiž retroaktivní účinek a míří pouze na ni, tedy na jedinou tuzemskou společnost.",
-      "title_raw": "Orlen Unipetrol kritizuje novou daň na rafinérie",
-      "lead_raw": "Mimořádná daň ze zvýšených marží rafinerií, kterou minulý týden schválila kvůli vysokým cenám pohonných hmot vláda, ohrožuje podle společnosti Orlen Unipetrol další investice do rozvoje českých rafinerií a stabilitu trhu s pohonnými hmotami. Návrh navíc podle firmy vyvolává i ústavněprávní pochybnosti, daň má totiž retroaktivní účinek a míří pouze na ni, tedy na jedinou tuzemskou společnost.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "54456f0d9aaec0ddc284b3c2a1e21afcf31197f8",
-      "fingerprint": "42bb8c1c92957393ee729c5895c9bff4061e104e",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-nemecko-a-dalsich-pet-zemi-hrozi-ze-zablokuji-rozpocet-eu-chteji-skrty-ve-stovkach-miliard-eur-40599875",
-      "published_utc": "2026-09-29T19:05:54Z",
-      "title_en": "Německo a dalších pět zemí hrozí, že zablokují rozpočet EU. Chtějí škrty ve stovkách miliard eur",
-      "lead_en": "Německo a dalších pět zemí Evropské unie hrozí, že zablokují dohodu o příštím sedmiletém rozpočtu EU, pokud se výdaje výrazně nesníží. Celkem požadují škrty ve výši stovek miliard eur, tedy několika bilionů korun.",
-      "title_raw": "Německo a dalších pět zemí hrozí, že zablokují rozpočet EU. Chtějí škrty ve stovkách miliard eur",
-      "lead_raw": "Německo a dalších pět zemí Evropské unie hrozí, že zablokují dohodu o příštím sedmiletém rozpočtu EU, pokud se výdaje výrazně nesníží. Celkem požadují škrty ve výši stovek miliard eur, tedy několika bilionů korun.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
         "economy"
       ],
       "primary_topic": "economy"
