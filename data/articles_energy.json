@@ -1,10 +1,254 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-02T01:08:52Z",
+  "updated_at_utc": "2026-10-02T07:37:55Z",
   "topic": "energy",
-  "count": 45,
+  "count": 53,
   "articles": [
+    {
+      "id": "07a964bde7a6e5278dde5d502d8cd12ea0d2b934",
+      "fingerprint": "24a1c243a8858b8d171a80779f8eca6c7a365ae6",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-rusko-chce-zmrazit-ukrajinu-dosud-nejmohutnejsimi-vzdusnymi-udery-40600456",
+      "published_utc": "2026-10-02T07:33:22Z",
+      "title_en": "Rusko chce zmrazit Ukrajinu dosud nejmohutnějšími vzdušnými údery",
+      "lead_en": "Rusko v noci na středu podniklo další útok proudovými drony a balistickými raketami na elektrárny, rozvodnou síť a vodárny u Kyjeva. Podle listu The New York Times už ruský agresor zahájil každoroční vzdušnou ofenzívu, kterou chce obyvatele Ukrajiny v zimě připravit o teplo, světlo a vodu.",
+      "title_raw": "Rusko chce zmrazit Ukrajinu dosud nejmohutnějšími vzdušnými údery",
+      "lead_raw": "Rusko v noci na středu podniklo další útok proudovými drony a balistickými raketami na elektrárny, rozvodnou síť a vodárny u Kyjeva. Podle listu The New York Times už ruský agresor zahájil každoroční vzdušnou ofenzívu, kterou chce obyvatele Ukrajiny v zimě připravit o teplo, světlo a vodu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "b16248c5ecb115fdfa405acd16f239ff1ef6563f",
+      "fingerprint": "26d8c72ee02ac8e81831f09cb9322480e0d4ac0c",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-rafinerie-rusko-jizni-most-dronovy-utok.A261002_075239_zahranicni_onbu",
+      "published_utc": "2026-10-02T07:19:00Z",
+      "title_en": "Rusové se zaměřili na klíčový most v Kyjevě, Ukrajinci zasáhli rafinerii ve Volgogradu",
+      "lead_en": "Ukrajinská armáda v noci na pátek podnikla rozsáhlý dronový útok na průmyslovou infrastrukturu ve Volgogradské oblasti. Jeden z dronů způsobil požár ve výškovém obytném domě ve Volgogradu.",
+      "title_raw": "Rusové se zaměřili na klíčový most v Kyjevě, Ukrajinci zasáhli rafinerii ve Volgogradu",
+      "lead_raw": "Ukrajinská armáda v noci na pátek podnikla rozsáhlý dronový útok na průmyslovou infrastrukturu ve Volgogradské oblasti. Jeden z dronů způsobil požár ve výškovém obytném domě ve Volgogradu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "c161038720ef1f326eaf28a291fc584a56d431f4",
+      "fingerprint": "918abba228c5ebfdf8cb6e493eaa2d094875cba2",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-ukrajina-uderila-na-volgograd-a-samaru-pozary-hlasi-v-oblasti-rafinerie-ropovodu-a-chemicky-40600461",
+      "published_utc": "2026-10-02T07:09:57Z",
+      "title_en": "Ukrajina udeřila na Volgograd a Samaru. Požáry hlásí v oblasti rafinerie, ropovodů a chemičky",
+      "lead_en": "Ukrajinské drony v noci na pátek znovu útočily na ruskou energetickou infrastrukturu. Ve Volgogradu byly zřejmě zasaženy cíle v oblasti tamní velké rafinérie a chemického závodu, hlásí po analýze zveřejněných záběrů ruskojazyčné kanály.",
+      "title_raw": "Ukrajina udeřila na Volgograd a Samaru. Požáry hlásí v oblasti rafinerie, ropovodů a chemičky",
+      "lead_raw": "Ukrajinské drony v noci na pátek znovu útočily na ruskou energetickou infrastrukturu. Ve Volgogradu byly zřejmě zasaženy cíle v oblasti tamní velké rafinérie a chemického závodu, hlásí po analýze zveřejněných záběrů ruskojazyčné kanály.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "954e04d8e7cd9b940a2b35a35b332d1d74fa50c2",
+      "fingerprint": "a4da3d491d72350fff3d9fa61c762e207a5d87da",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/nafta-na-slovensku-zdrazila-na-maximum-od-roku-2009-ceny-benzinu-uz-stagnovaly/2879193",
+      "published_utc": "2026-10-02T07:02:00Z",
+      "title_en": "Nafta na Slovensku zdražila na maximum od roku 2009, ceny benzinu už stagnovaly",
+      "lead_en": "Bratislava - Nafta u čerpacích stanic na Slovensku minulý týden zdražila na další maximum od začátku sledování průměrných cen paliv v roce 2009, ceny benzinu Natural 95 už stagnovaly. Informoval o tom...",
+      "title_raw": "Nafta na Slovensku zdražila na maximum od roku 2009, ceny benzinu už stagnovaly",
+      "lead_raw": "Bratislava - Nafta u čerpacích stanic na Slovensku minulý týden zdražila na další maximum od začátku sledování průměrných cen paliv v roce 2009, ceny benzinu Natural 95 už stagnovaly. Informoval o tom...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "05e5ecd9dc41feae18c25daa3ac51a66ab6d9ff4",
+      "fingerprint": "fc3304a8a16d1ec480ad0114b63a1573de3fc0bb",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-akcie-fondy-nike-bojuje-s-propadem-trzeb-a-neceka-zlepseni-problemem-zustava-cina-316634",
+      "published_utc": "2026-10-02T07:00:00Z",
+      "title_en": "Nike bojuje s propadem tržeb a nečeká zlepšení. Problémem zůstává Čína",
+      "lead_en": "Společnost Nike sice v prvním čtvrtletí svého fiskálního roku 2027 překonala očekávání zisku, tržby ale za odhady zaostaly. Největší slabinou zůstává byznys v Číně, není to ale problém jediný.",
+      "title_raw": "Nike bojuje s propadem tržeb a nečeká zlepšení. Problémem zůstává Čína",
+      "lead_raw": "Společnost Nike sice v prvním čtvrtletí svého fiskálního roku 2027 překonala očekávání zisku, tržby ale za odhady zaostaly. Největší slabinou zůstává byznys v Číně, není to ale problém jediný.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "68e9cb2588b6a53c2131ab6457d24c53d57908d1",
+      "fingerprint": "e9a3b46955edf7cacb4b5d92992151e81c52d4a7",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/volby/hradec-kralove/komunalni-volby-2026-martin-soukup-ods-radni-koalice-kasarny.A260930_972934_hradec-zpravy_tuu",
+      "published_utc": "2026-10-02T06:59:00Z",
+      "title_en": "„V koalici to nefunguje.“ Lídr ODS Soukup kritizuje zásady pro developery i kasárna",
+      "lead_en": "Když už se Martin Soukup zvolna chystal do politického důchodu, zasáhla do jeho plánů nešťastná událost, která jej donutila vše přehodnotit. Úmrtí hradeckého exprimátora Oldřicha Vlasáka, od něhož uplynou dva roky, otevřelo Soukupovi neplánovaně dveře do městské rady.",
+      "title_raw": "„V koalici to nefunguje.“ Lídr ODS Soukup kritizuje zásady pro developery i kasárna",
+      "lead_raw": "Když už se Martin Soukup zvolna chystal do politického důchodu, zasáhla do jeho plánů nešťastná událost, která jej donutila vše přehodnotit. Úmrtí hradeckého exprimátora Oldřicha Vlasáka, od něhož uplynou dva roky, otevřelo Soukupovi neplánovaně dveře do městské rady.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "c431a22a353c3bf7f93962b701d4b9bc5b496688",
+      "fingerprint": "3d36a20def29f24b47e2dd3621b18aef47c8d870",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/od-statu-nejlevneji-od-soukromniku-nejdraze-ceny-dreva-pred-topnou-sezonou-se_2610020600_vsn",
+      "published_utc": "2026-10-02T05:55:00Z",
+      "title_en": "Od státu nejlevněji, od soukromníků nejdráže. Ceny dřeva před topnou sezonou se liší i podle druhu",
+      "lead_en": "S příchodem podzimu se blíží začátek topné sezony. Letošní ceny palivového dřeva u státních, městských nebo soukromých prodejců se zásadně liší, roli hraje i druh palivového dřeva.",
+      "title_raw": "Od státu nejlevněji, od soukromníků nejdráže. Ceny dřeva před topnou sezonou se liší i podle druhu",
+      "lead_raw": "S příchodem podzimu se blíží začátek topné sezony. Letošní ceny palivového dřeva u státních, městských nebo soukromých prodejců se zásadně liší, roli hraje i druh palivového dřeva.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "b056b302614071c04d975efbdb6adeddd2b22ee0",
+      "fingerprint": "d0f88abfb9825d4a9e34984f5faaa8e67cbdda0d",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-bydleni-je-stale-mene-dostupne-nejvetsi-propad-hlasi-ustecko-40599992",
+      "published_utc": "2026-10-02T05:46:39Z",
+      "title_en": "Bydlení je stále méně dostupné. Největší propad hlásí Ústecko",
+      "lead_en": "Pořízení bytu zůstává nejobtížnější v Praze, ostatní kraje se ale hlavnímu městu přibližují. Podle analýzy sítě realitních kanceláří Remax se situace nejvíc zhoršuje právě v krajích, kde jsou byty nejlevnější.",
+      "title_raw": "Bydlení je stále méně dostupné. Největší propad hlásí Ústecko",
+      "lead_raw": "Pořízení bytu zůstává nejobtížnější v Praze, ostatní kraje se ale hlavnímu městu přibližují. Podle analýzy sítě realitních kanceláří Remax se situace nejvíc zhoršuje právě v krajích, kde jsou byty nejlevnější.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "8bc2762bfac450cac6033eb7525da682ba2bb035",
+      "fingerprint": "624b8241b4f7d65550b223b60458f2616eb3e1d6",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/svetove-oceany-vloni-pohltily-23-zettajoulu-tepla-dopady-jsou-videt-vsude-378146",
+      "published_utc": "2026-10-02T05:30:00Z",
+      "title_en": "Světové oceány vloni pohltily 23 zettajoulů tepla. Dopady jsou vidět všude",
+      "lead_en": "Světové oceány vloni pohltily rekordní množství tepla. Podle nové evropské studie odpovídá přibližně čtyřicetinásobku celosvětové spotřeby energie lidstvem za celý rok.",
+      "title_raw": "Světové oceány vloni pohltily 23 zettajoulů tepla. Dopady jsou vidět všude",
+      "lead_raw": "Světové oceány vloni pohltily rekordní množství tepla. Podle nové evropské studie odpovídá přibližně čtyřicetinásobku celosvětové spotřeby energie lidstvem za celý rok.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e90e8d71507674a3f9fb4dbb9305928d57ce749a",
+      "fingerprint": "25f7fdc792eded6f33a64d3c15eb6bc699aebdb0",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-hlavni-uz-neni-kolik-elektrarna-stoji-ale-zda-vyrabi-rano-nebo-v-poledne-316532",
+      "published_utc": "2026-10-02T05:05:07Z",
+      "title_en": "Hlavní už není, kolik elektrárna stojí, ale zda vyrábí ráno, nebo v poledne",
+      "lead_en": "Evropa potřebuje nové zdroje, aby se na konci dekády nedostala do energetické pasti. Ty nyní bude muset vybudovat.",
+      "title_raw": "Hlavní už není, kolik elektrárna stojí, ale zda vyrábí ráno, nebo v poledne",
+      "lead_raw": "Evropa potřebuje nové zdroje, aby se na konci dekády nedostala do energetické pasti. Ty nyní bude muset vybudovat.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "131798a9e74c758f3b17dab9c9e9f476e649cace",
+      "fingerprint": "ada884c90fac1d375a458a508dd315d8000523b3",
+      "source": "Radio Prague International (EN)",
+      "url": "https://english.radio.cz/finance-ministry-set-fuel-price-caps-weekend-and-monday-8898853",
+      "published_utc": "2026-10-02T04:41:00Z",
+      "title_en": "Finance Ministry to set fuel price caps for weekend and Monday",
+      "lead_en": "Finance Ministry to set fuel price caps for weekend and Monday",
+      "title_raw": "Finance Ministry to set fuel price caps for weekend and Monday",
+      "lead_raw": "Finance Ministry to set fuel price caps for weekend and Monday",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "ff3869f4f5f3d135e91d46bee8ef8eb322197270",
       "fingerprint": "49047816b364a03a5675824be75c01dc0b749583",
@@ -932,72 +1176,6 @@
       "lead_en": "Základní škola v Újezdě nad Lesy, kterou na začátku minulého týdne postihla epidemie salmonelózy, ve středu opět otevřela. Kvůli špatně připraveným uhlířským špagetám v nemocnici skončilo skoro 400 dětí a učitelů.",
       "title_raw": "Zrovna se měnili vedoucí. Co se dělo ve školní jídelně, kde vypukla salmonelóza",
       "lead_raw": "Základní škola v Újezdě nad Lesy, kterou na začátku minulého týdne postihla epidemie salmonelózy, ve středu opět otevřela. Kvůli špatně připraveným uhlířským špagetám v nemocnici skončilo skoro 400 dětí a učitelů.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e765c2ba37cf05d45e2a173b0c23f7efc38ce942",
-      "fingerprint": "a776bcbb96aca95cbd3448bb7d253f205b772b56",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-trendy-analyzy-dalsich-50-korun-za-polozku-eu-opet-zdrazi-balicky-z-ciny-316379",
-      "published_utc": "2026-09-30T06:40:00Z",
-      "title_en": "Dalších 50 korun za položku. Evropa opět zdraží balíčky z Číny",
-      "lead_en": "Nákupy z čínských e-shopů mohou před vrcholem vánoční sezóny znovu zdražit. Evropská unie totiž přidává k tříeurovému clu další poplatek ve výši dvou eur za každou celní položku.",
-      "title_raw": "Dalších 50 korun za položku. Evropa opět zdraží balíčky z Číny",
-      "lead_raw": "Nákupy z čínských e-shopů mohou před vrcholem vánoční sezóny znovu zdražit. Evropská unie totiž přidává k tříeurovému clu další poplatek ve výši dvou eur za každou celní položku.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "734e060a0c3af9d251e1ff348fe3aaf4a92b15e4",
-      "fingerprint": "12cad63d05f5a263f63dfcf86c440978b32f95ef",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/praha/zpravy/ujezd-nad-lesy-skola-salmoneloza-nakaza-navrat-zaci-rezignaci-vejce-skolni-jidelna-reditel.A260929_153859_praha-zpravy_svm",
-      "published_utc": "2026-09-30T05:58:00Z",
-      "title_en": "Školáci se po nákaze vrací do lavic. Nečekané volno se jim líbilo, rodičům už méně",
-      "lead_en": "Žáci Masarykovy základní školy v pražském Újezdu nad Lesy se po několika dnech ředitelského volna vrátily zpět do lavic. Děje se tak poté, co stovky strávníků onemocněly po konzumaci prošlých vajec, ze kterých se ve školní jídelně připravovaly uhlířské špagety.",
-      "title_raw": "Školáci se po nákaze vrací do lavic. Nečekané volno se jim líbilo, rodičům už méně",
-      "lead_raw": "Žáci Masarykovy základní školy v pražském Újezdu nad Lesy se po několika dnech ředitelského volna vrátily zpět do lavic. Děje se tak poté, co stovky strávníků onemocněly po konzumaci prošlých vajec, ze kterých se ve školní jídelně připravovaly uhlířské špagety.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b4be6ba00d71e0c2fb741faeb49bc27e94bbafc9",
-      "fingerprint": "704c271396207df6e935d43a75f34524f55b62d2",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/donald-trump-kldr-kim-cong-un-jaderna-zbran.A260930_060834_zahranicni_pluh",
-      "published_utc": "2026-09-30T04:21:00Z",
-      "title_en": "Přítel Kim má velký jaderný arzenál, ale svět se nemusí bát, dokud tu jsem já, řekl Trump",
-      "lead_en": "Severní Korea má „docela velký“ jaderný arzenál. Prohlásil to americký prezident Donald Trump s tím, že všechno bude v pořádku, dokud bude on v Bílém domě.",
-      "title_raw": "Přítel Kim má velký jaderný arzenál, ale svět se nemusí bát, dokud tu jsem já, řekl Trump",
-      "lead_raw": "Severní Korea má „docela velký“ jaderný arzenál. Prohlásil to americký prezident Donald Trump s tím, že všechno bude v pořádku, dokud bude on v Bílém domě.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
