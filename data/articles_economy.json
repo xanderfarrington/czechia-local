@@ -1,10 +1,54 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-02T19:36:36Z",
+  "updated_at_utc": "2026-10-02T23:21:25Z",
   "topic": "economy",
   "count": 28,
   "articles": [
+    {
+      "id": "100f906366d1b0f00d96cb95e57c3a1cab797b13",
+      "fingerprint": "3bbd5be1abcba8c4fc4a9081085e8e7f570f2fdc",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/domaci/mleko-syr-socr-pkcr-potraviny-analyza.A261002_134953_ekonomika_drh",
+      "published_utc": "2026-10-02T22:00:00Z",
+      "title_en": "Českým mlékárnám ujíždí vlak. Chybí cottage i skyry, tvrdí obchodníci",
+      "lead_en": "Tuzemské mlékárny neumějí zareagovat na změny spotřebitelského chování, na trhu chybějí cottage sýry, skyry, řecké jogurty nebo tvarohy z domácí produkce. Prakticky tak znějí závěry analýzy z pera Svazu obchodu a cestovního ruchu, tedy od zástupců obchodních řetězců.",
+      "title_raw": "Českým mlékárnám ujíždí vlak. Chybí cottage i skyry, tvrdí obchodníci",
+      "lead_raw": "Tuzemské mlékárny neumějí zareagovat na změny spotřebitelského chování, na trhu chybějí cottage sýry, skyry, řecké jogurty nebo tvarohy z domácí produkce. Prakticky tak znějí závěry analýzy z pera Svazu obchodu a cestovního ruchu, tedy od zástupců obchodních řetězců.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "d9916b2801cf741d37e14ef439aeb964dcfa9201",
+      "fingerprint": "a725b0102d6d09e80ac7d5f3a29f7b29b8882bfb",
+      "source": "iROZHLAS - Economy",
+      "url": "https://www.irozhlas.cz/ekonomika/statni-rozpocet-deficit-ekonomika-petr-pavel_2610022318_zfr",
+      "published_utc": "2026-10-02T21:18:00Z",
+      "title_en": "Deficit rozpočtu není tragický. Horší je trend rozvolňování v legislativě, míní ekonom Skořepa",
+      "lead_en": "„Samo to číslo vůbec není hezké, ale myslím si, že není zas úplně tragické. Ale horší je celkový trend, zejména bych řekl, který se odráží v legislativě, která má za úkol v Česku tato čísla nějakým způsobem hlídat,“ říká ekonom Michal Skořepa, předseda výboru pro rozpočtové prognózy a analytik České spořitelny.",
+      "title_raw": "Deficit rozpočtu není tragický. Horší je trend rozvolňování v legislativě, míní ekonom Skořepa",
+      "lead_raw": "„Samo to číslo vůbec není hezké, ale myslím si, že není zas úplně tragické. Ale horší je celkový trend, zejména bych řekl, který se odráží v legislativě, která má za úkol v Česku tato čísla nějakým způsobem hlídat,“ říká ekonom Michal Skořepa, předseda výboru pro rozpočtové prognózy a analytik České spořitelny.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "d031e90e9b1ef0823e6e1024eef983f4b622600a",
       "fingerprint": "bb9604f479bcb7b3e6982f7f8ffb79ddf2e73586",
@@ -589,50 +633,6 @@
         "economy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "5d2c987faa08f52e759a3cba111b3bacc028b934",
-      "fingerprint": "67a9e8e03fed046d66f2463df97dfc1e7163f3ca",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/ministerstvo-financi-zverejni-vysledek-hospodareni-statu-ke-konci-zari/2881405",
-      "published_utc": "2026-09-30T22:01:00Z",
-      "title_en": "Ministerstvo financí zveřejní výsledek hospodaření státu ke konci září",
-      "lead_en": "Praha - Ministerstvo financí dnes zveřejní výsledek hospodaření státu ke konci září. Na konci srpna byl státní rozpočet ve schodku 186,1 miliardy korun.",
-      "title_raw": "Ministerstvo financí zveřejní výsledek hospodaření státu ke konci září",
-      "lead_raw": "Praha - Ministerstvo financí dnes zveřejní výsledek hospodaření státu ke konci září. Na konci srpna byl státní rozpočet ve schodku 186,1 miliardy korun.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "75e4aff24e84a5e52106c3399653d9650ea346a7",
-      "fingerprint": "24aa6da956eed0d8789aa839213ed59753e734e2",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/schodek-rozpoctu-v-zari-vzrostl-na-1945-mld-kc-mezirocne-je-hlubsi/2881405",
-      "published_utc": "2026-09-30T22:01:00Z",
-      "title_en": "Schodek rozpočtu v září vzrostl na 194,5 mld. Kč, meziročně je hlubší",
-      "lead_en": "Praha - Schodek státního rozpočtu na konci září vzrostl na 194,5 miliardy korun ze srpnových 186,1 miliardy. Dnes o tom informovalo ministerstvo financí.",
-      "title_raw": "Schodek rozpočtu v září vzrostl na 194,5 mld. Kč, meziročně je hlubší",
-      "lead_raw": "Praha - Schodek státního rozpočtu na konci září vzrostl na 194,5 miliardy korun ze srpnových 186,1 miliardy. Dnes o tom informovalo ministerstvo financí.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
