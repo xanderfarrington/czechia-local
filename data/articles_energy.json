@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-03T18:22:44Z",
+  "updated_at_utc": "2026-10-03T21:52:06Z",
   "topic": "energy",
   "count": 44,
   "articles": [
+    {
+      "id": "bf893445464f031b4012910398d21d90a4e0aa97",
+      "fingerprint": "4b06f6081b828c22e9a6f6823898957987f51a25",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-zelenskyj-ohlasil-intenzivnejsi-udery-na-ruske-rafinerie-40600690",
+      "published_utc": "2026-10-03T19:23:34Z",
+      "title_en": "Zelenskyj ohlásil intenzivnější údery na ruské rafinérie",
+      "lead_en": "Ukrajina zintenzivní údery na ruské ropné rafinerie. Půjde o reakci na nové vzdušné útoky Ruska, které mají donutit ukrajinské obyvatele, aby opustili Kyjev a další velká města, prohlásil ukrajinský prezident Volodymyr Zelenskyj.",
+      "title_raw": "Zelenskyj ohlásil intenzivnější údery na ruské rafinérie",
+      "lead_raw": "Ukrajina zintenzivní údery na ruské ropné rafinerie. Půjde o reakci na nové vzdušné útoky Ruska, které mají donutit ukrajinské obyvatele, aby opustili Kyjev a další velká města, prohlásil ukrajinský prezident Volodymyr Zelenskyj.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "5bc6173eb9fb14b702e432bc46c06f174390f9b6",
       "fingerprint": "a1d74aee8a1a4f1dc83ea50709b0b6fb50d55701",
@@ -953,28 +975,6 @@
         "military": 0,
         "energy": 1,
         "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "77935364896f565d884378ec36d3174eb017ec1b",
-      "fingerprint": "fa0188699605684db2e198033f42e182458264d0",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/plynu-je-dostatek-ale-mene-nez-driv-odbornici-cekaji-zdrazeni-smluv-378160",
-      "published_utc": "2026-10-01T18:23:42Z",
-      "title_en": "Plynu je dostatek, ale méně než dřív. Odborníci čekají zdražení smluv",
-      "lead_en": "S nekončícím napětím na Blízkém východě roste význam zkapalněného plynu. Terminál v nizozemském Eemshavenu, který stát přes společnost ČEZ využívá, odbavil za čtyři roky fungování 92 lodí se surovinou určenou pro české spotřebitele.",
-      "title_raw": "Plynu je dostatek, ale méně než dřív. Odborníci čekají zdražení smluv",
-      "lead_raw": "S nekončícím napětím na Blízkém východě roste význam zkapalněného plynu. Terminál v nizozemském Eemshavenu, který stát přes společnost ČEZ využívá, odbavil za čtyři roky fungování 92 lodí se surovinou určenou pro české spotřebitele.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
         "local_events": 0
       },
       "topics": [
