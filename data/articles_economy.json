@@ -1,10 +1,33 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-03T08:37:59Z",
+  "updated_at_utc": "2026-10-03T14:00:25Z",
   "topic": "economy",
-  "count": 22,
+  "count": 12,
   "articles": [
+    {
+      "id": "93ffab8d0646c5b17f15489d2391e32314e55bb8",
+      "fingerprint": "85f8c6538224c4bed49d271607912432f4374c28",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/spolek-blizky-ministerstvu-obrany-se-druzi-s-rusy-pod-sankcemi.A261001_091243_domaci_stvo",
+      "published_utc": "2026-10-03T14:00:00Z",
+      "title_en": "Spolek blízký ministerstvu se druží s Rusy pod sankcemi. Nemáme nic společného, tvrdí",
+      "lead_en": "Zaměstnanci ruské instituce, která je kvůli šíření kremelské propagandy pod sankcemi, se v Česku druží s českým Svazem bojovníků za svobodu. Ten nově spolupracuje s ministerstvem obrany.",
+      "title_raw": "Spolek blízký ministerstvu se druží s Rusy pod sankcemi. Nemáme nic společného, tvrdí",
+      "lead_raw": "Zaměstnanci ruské instituce, která je kvůli šíření kremelské propagandy pod sankcemi, se v Česku druží s českým Svazem bojovníků za svobodu. Ten nově spolupracuje s ministerstvem obrany.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "1082c4bf4408d5fe58d0b3fe0a21e864d423240c",
       "fingerprint": "88636849040c0f925f2313937f5a691776c1eee2",
@@ -245,251 +268,6 @@
       },
       "topics": [
         "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "501e9c388556cdc901f27385276d474add9f9551",
-      "fingerprint": "c34f26a0ffb840c0991becb9da541579fd788899",
-      "source": "iROZHLAS - Economy",
-      "url": "https://www.irozhlas.cz/ekonomika/deficit-rozpoctu-snizime-mame-trajektorii-ujistuje-mach-jakob-zatim-pro-vlada_2610011552_cen",
-      "published_utc": "2026-10-01T13:52:00Z",
-      "title_en": "Deficit rozpočtu snížíme, máme trajektorii, ujišťuje Mach. Jakob: Zatím pro to vláda nic nedělá",
-      "lead_en": "Vláda Andreje Babiše (ANO) při projednání rozpočtu na příští rok některé výdaje snížila, některé zvýšila. Schodek se ale nemění, měl by dosáhnout 386 miliard korun.",
-      "title_raw": "Deficit rozpočtu snížíme, máme trajektorii, ujišťuje Mach. Jakob: Zatím pro to vláda nic nedělá",
-      "lead_raw": "Vláda Andreje Babiše (ANO) při projednání rozpočtu na příští rok některé výdaje snížila, některé zvýšila. Schodek se ale nemění, měl by dosáhnout 386 miliard korun.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 4,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "fdc02800444f25acad24f751af973f26935370ba",
-      "fingerprint": "5512e2e3273faa7917f5d081bcbc227dd16948b8",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-fondy-pres-burzu-dosahnou-na-nizsi-dan-zneuziti-pravidel-se-tezko-kontroluje-316521",
-      "published_utc": "2026-10-01T12:30:00Z",
-      "title_en": "Fondy přes burzu dosáhnou na nižší daň. Zneužití pravidel se těžko kontroluje",
-      "lead_en": "S akciemi více než poloviny fondů kvalifikovaných investorů na pražské burze se nikdy neobchodovalo. Pro fondy je ale umístění akcií na regulovaném trhu jednou z podmínek, jak platit jen pětiprocentní daň z příjmů.",
-      "title_raw": "Fondy přes burzu dosáhnou na nižší daň. Zneužití pravidel se těžko kontroluje",
-      "lead_raw": "S akciemi více než poloviny fondů kvalifikovaných investorů na pražské burze se nikdy neobchodovalo. Pro fondy je ale umístění akcií na regulovaném trhu jednou z podmínek, jak platit jen pětiprocentní daň z příjmů.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "c21f80fb4d202a28bce25890a4e26c0b65a4e1dd",
-      "fingerprint": "9bf7c90e608cdc0aa46700d5d130051dac9bfe61",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-schodek-rozpoctu-stoupl-na-194-miliard-40600362",
-      "published_utc": "2026-10-01T12:16:24Z",
-      "title_en": "Schodek rozpočtu stoupl na 195 miliard",
-      "lead_en": "Stát po třech čtvrtinách roku vyčerpal přes šedesát procent plánovaného celoročního schodku. Státní rozpočet skončil na konci září ve schodku 194,5 miliardy korun.",
-      "title_raw": "Schodek rozpočtu stoupl na 195 miliard",
-      "lead_raw": "Stát po třech čtvrtinách roku vyčerpal přes šedesát procent plánovaného celoročního schodku. Státní rozpočet skončil na konci září ve schodku 194,5 miliardy korun.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "23f5ebbd5ce5c89d659670cb750b8de43be50499",
-      "fingerprint": "c43a7f2623b217983032ed44d878719f4b459bcb",
-      "source": "iROZHLAS - Economy",
-      "url": "https://www.irozhlas.cz/ekonomika/ctvrty-nejhlubsi-od-vzniku-ceska-schodek-rozpoctu-v-zari-vzrostl-na-1945_2610011414_med",
-      "published_utc": "2026-10-01T12:14:00Z",
-      "title_en": "Čtvrtý nejhlubší od vzniku Česka. Schodek rozpočtu v září vzrostl na 194,5 miliardy korun",
-      "lead_en": "Schodek státního rozpočtu na konci září vzrostl na 194,5 miliardy korun ze srpnových 186,1 miliardy. Ve čtvrtek o tom informovalo ministerstvo financí.",
-      "title_raw": "Čtvrtý nejhlubší od vzniku Česka. Schodek rozpočtu v září vzrostl na 194,5 miliardy korun",
-      "lead_raw": "Schodek státního rozpočtu na konci září vzrostl na 194,5 miliardy korun ze srpnových 186,1 miliardy. Ve čtvrtek o tom informovalo ministerstvo financí.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "3c962c10d5b0170e0ad0544105a61c9d55c7703d",
-      "fingerprint": "1ed4ebb1cd8543af93c124e0ef7c2d8390cf7554",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/pri-akci-korund-zamerene-na-kanabinoidy-policie-zadrzela-veci-za-330-milionu-kc_2610011235_med",
-      "published_utc": "2026-10-01T10:35:00Z",
-      "title_en": "Při akci Korund zaměřené na kanabinoidy policie zadržela věci za 330 milionů Kč",
-      "lead_en": "Drogy či zařízení na jejich výrobu celkem za asi 330 milionů korun zadrželi policisté při sérii operací pod názvem Korund zaměřených hlavně na kanabinoidy. Objevili i dvě nelegální laboratoře, tuny konopí a hašiše či tisíce litrů chemikálií.",
-      "title_raw": "Při akci Korund zaměřené na kanabinoidy policie zadržela věci za 330 milionů Kč",
-      "lead_raw": "Drogy či zařízení na jejich výrobu celkem za asi 330 milionů korun zadrželi policisté při sérii operací pod názvem Korund zaměřených hlavně na kanabinoidy. Objevili i dvě nelegální laboratoře, tuny konopí a hašiše či tisíce litrů chemikálií.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "01ddd2b04130d1eae70ec0c4bb741c34d023e135",
-      "fingerprint": "945adec18cd206fb579e23eac3eecc47d7509535",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/nezamestnanost-v-eu-v-srpnu-zustala-na-61-procenta-nejnizsi-byla-v-cesku/2881586",
-      "published_utc": "2026-10-01T09:29:00Z",
-      "title_en": "Nezaměstnanost v EU v srpnu zůstala na 6,1 procenta, nejnižší byla v Česku",
-      "lead_en": "Brusel - Míra nezaměstnanosti v Evropské unii v srpnu podle sezonně přepočtených údajů činila 6,1 procenta, zůstala tak na stejné úrovni jako v červenci. Nejnižší nezaměstnanost byla v České republice,...",
-      "title_raw": "Nezaměstnanost v EU v srpnu zůstala na 6,1 procenta, nejnižší byla v Česku",
-      "lead_raw": "Brusel - Míra nezaměstnanosti v Evropské unii v srpnu podle sezonně přepočtených údajů činila 6,1 procenta, zůstala tak na stejné úrovni jako v červenci. Nejnižší nezaměstnanost byla v České republice,...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "48dedd3373513e634caa0492b6066879866db42a",
-      "fingerprint": "51b095fc7c9dd4927a3d102dbe8c48a79df4c7d6",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-foto-jak-se-pohnuly-ceny-u-pump-po-vladni-regulaci-40600282",
-      "published_utc": "2026-10-01T09:18:23Z",
-      "title_en": "FOTO: Jak se pohnuly ceny u pump po vládní regulaci",
-      "lead_en": "Od čtvrtka vláda opět zavedla cenovou regulaci u paliv, zastropovala marže distributorů a snížila spotřební daň na naftu. Benzín mohou pumpaři prodávat maximálně za 46,14 koruny za litr, naftu za 48,72 koruny.",
-      "title_raw": "FOTO: Jak se pohnuly ceny u pump po vládní regulaci",
-      "lead_raw": "Od čtvrtka vláda opět zavedla cenovou regulaci u paliv, zastropovala marže distributorů a snížila spotřební daň na naftu. Benzín mohou pumpaři prodávat maximálně za 46,14 koruny za litr, naftu za 48,72 koruny.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "65b6383b804df252b855fb47fab5763b388d04bd",
-      "fingerprint": "978d8dd74548fd36c6c24c2b666ed124110b3964",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/policie-pri-akci-zamerene-na-kanabinoidy-zadrzela-veci-za-330-milionu-kc/2881575",
-      "published_utc": "2026-10-01T09:18:00Z",
-      "title_en": "Policie při akci zaměřené na kanabinoidy zadržela věci za 330 milionů Kč",
-      "lead_en": "Praha - Drogy či zařízení na jejich výrobu celkem za asi 330 milionů korun zadrželi policisté při sérii operací pod názvem Korund zaměřených hlavně na kanabinoidy. Objevili i dvě nelegální laboratoře,...",
-      "title_raw": "Policie při akci zaměřené na kanabinoidy zadržela věci za 330 milionů Kč",
-      "lead_raw": "Praha - Drogy či zařízení na jejich výrobu celkem za asi 330 milionů korun zadrželi policisté při sérii operací pod názvem Korund zaměřených hlavně na kanabinoidy. Objevili i dvě nelegální laboratoře,...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "83ed36f3693b2d77fcf249e878e19b49ac223cad",
-      "fingerprint": "cf43acb0de8477c0e2c6ec067a40ddc2abc7e2de",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/pri-akci-zamerene-na-kanabinoidy-zadrzela-policie-veci-za-330-milionu-kc/2881575",
-      "published_utc": "2026-10-01T09:18:00Z",
-      "title_en": "Při akci zaměřené na kanabinoidy zadržela policie věci za 330 milionů Kč",
-      "lead_en": "Praha - Drogy či zařízení na jejich výrobu celkem za asi 330 milionů korun zadrželi policisté při sérii operací pod názvem Korund zaměřených hlavně na kanabinoidy. Objevili i dvě nelegální laboratoře,...",
-      "title_raw": "Při akci zaměřené na kanabinoidy zadržela policie věci za 330 milionů Kč",
-      "lead_raw": "Praha - Drogy či zařízení na jejich výrobu celkem za asi 330 milionů korun zadrželi policisté při sérii operací pod názvem Korund zaměřených hlavně na kanabinoidy. Objevili i dvě nelegální laboratoře,...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "e0f9458c86d1ee69360f3dd2bb8211a4a1b0a47b",
-      "fingerprint": "a468644feccfb136324d262a3e6bd9c1d9c28a15",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-policie-zabavila-tuny-syntetickych-kanabinoidu-naplnila-jimi-36-kamionu-40600279",
-      "published_utc": "2026-10-01T09:16:26Z",
-      "title_en": "Policie zabavila tuny syntetických kanabinoidů, naplnila jimi 36 kamionů",
-      "lead_en": "Detektivové z Národní protidrogové centrály (NPC) zabavili při akci Korund tuny produktů, surovin a vybavení k výrobě syntetických kanabinoidů, proti kterým vyhlásila otevřenou válku i vláda premiéra Andreje Babiše (ANO). Policistům se při několika zátazích na přelomu letošního června a července podařilo tímto zbožím v celkové hodnotě cca 330 milionů korun naplnit 36 kamionů, dále zadržet, obvinit a poslat do vazby tři cizince jako členy organizované zločinecké skupiny.",
-      "title_raw": "Policie zabavila tuny syntetických kanabinoidů, naplnila jimi 36 kamionů",
-      "lead_raw": "Detektivové z Národní protidrogové centrály (NPC) zabavili při akci Korund tuny produktů, surovin a vybavení k výrobě syntetických kanabinoidů, proti kterým vyhlásila otevřenou válku i vláda premiéra Andreje Babiše (ANO). Policistům se při několika zátazích na přelomu letošního června a července podařilo tímto zbožím v celkové hodnotě cca 330 milionů korun naplnit 36 kamionů, dále zadržet, obvinit a poslat do vazby tři cizince jako členy organizované zločinecké skupiny.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "1dfa5c822f6f970d34125c5c71ac9dce0b99e775",
-      "fingerprint": "5a6fd1197e0f79732a0d51660d8cde060559db07",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/ministerstvo-obrany-cesko-vozidla-zeniste.A261001_075635_domaci_pluh",
-      "published_utc": "2026-10-01T08:58:00Z",
-      "title_en": "Ministerstvo zrušilo zakázku na obrněná vozidla. Vysvětlete to, reaguje Černochová",
-      "lead_en": "Ministerstvo obrany zrušilo zakázku na 185 obrněných čtyřkolových vozidel za 24,7 miliardy korun. Vysvětlilo to mimo jiné ekonomickými důvody, vyplývá z informací v rejstříku zakázek.",
-      "title_raw": "Ministerstvo zrušilo zakázku na obrněná vozidla. Vysvětlete to, reaguje Černochová",
-      "lead_raw": "Ministerstvo obrany zrušilo zakázku na 185 obrněných čtyřkolových vozidel za 24,7 miliardy korun. Vysvětlilo to mimo jiné ekonomickými důvody, vyplývá z informací v rejstříku zakázek.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
         "economy"
       ],
       "primary_topic": "economy"
