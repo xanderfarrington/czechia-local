@@ -1,10 +1,78 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-04T00:10:15Z",
+  "updated_at_utc": "2026-10-04T06:28:14Z",
   "topic": "military",
-  "count": 53,
+  "count": 52,
   "articles": [
+    {
+      "id": "29a37b8525a613c43d81a6d72140e1f9df0061d8",
+      "fingerprint": "a47e6dd84b83d4c13ca2f72dd830822ca8d0b86c",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/nemecky-kancler-merz-pricestoval-na-neohlasenou-navstevu-kyjeva.A261004_072237_zahranicni_dyn",
+      "published_utc": "2026-10-04T05:41:00Z",
+      "title_en": "Merz přicestoval nečekaně do Kyjeva, slíbil podporu v hodnotě stovek milionů eur",
+      "lead_en": "Německý kancléř Friedrich Merz v neděli přicestoval na neohlášenou návštěvu do Kyjeva, přičemž ho doprovází šéfové německých zbrojařských a energetických firem. Agentura DPA označila jeho návštěvu za solidární.",
+      "title_raw": "Merz přicestoval nečekaně do Kyjeva, slíbil podporu v hodnotě stovek milionů eur",
+      "lead_raw": "Německý kancléř Friedrich Merz v neděli přicestoval na neohlášenou návštěvu do Kyjeva, přičemž ho doprovází šéfové německých zbrojařských a energetických firem. Agentura DPA označila jeho návštěvu za solidární.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "67745e86b9afbdb18a959ad9e7e05c39495738f8",
+      "fingerprint": "11f663f4c5cb0bd3df74b6664e431d7d0c081401",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/nemecky-kancler-merz-prijel-do-kyjeva-378220",
+      "published_utc": "2026-10-04T05:11:55Z",
+      "title_en": "Německý kancléř Merz přijel do Kyjeva",
+      "lead_en": "Německý kancléř Friedrich Merz přicestoval na neohlášenou návštěvu do Kyjeva. Doprovází ho šéfové německých zbrojařských a energetických firem.",
+      "title_raw": "Německý kancléř Merz přijel do Kyjeva",
+      "lead_raw": "Německý kancléř Friedrich Merz přicestoval na neohlášenou návštěvu do Kyjeva. Doprovází ho šéfové německých zbrojařských a energetických firem.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "08716707fa4ae052b04b806159df673233d26031",
+      "fingerprint": "66c96e2bf623f7827cc504ae260f5b0df7865673",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/mezi-obetmi-sobotniho-izraelskeho-utoku-v-gaze-jsou-ctyri-zeny-vcetne-krestanek-pisi-media-378218",
+      "published_utc": "2026-10-04T00:22:48Z",
+      "title_en": "Mezi oběťmi sobotního izraelského útoku v Gaze jsou čtyři ženy včetně křesťanek, píší média",
+      "lead_en": "Zdroje agentur AFP a Reuters tvrdí, že mezi pěti oběťmi sobotního izraelského úderu na obytnou budovu ve městě Gaza jsou muž a čtyři ženy, včetně dvou pravoslavných křesťanek. Izraelská armáda v sobotu večer úder potvrdila s tím, že útok mířil na vysoce postaveného člena teroristického hnutí Hamás Alího Ámúdího.",
+      "title_raw": "Mezi oběťmi sobotního izraelského útoku v Gaze jsou čtyři ženy včetně křesťanek, píší média",
+      "lead_raw": "Zdroje agentur AFP a Reuters tvrdí, že mezi pěti oběťmi sobotního izraelského úderu na obytnou budovu ve městě Gaza jsou muž a čtyři ženy, včetně dvou pravoslavných křesťanek. Izraelská armáda v sobotu večer úder potvrdila s tím, že útok mířil na vysoce postaveného člena teroristického hnutí Hamás Alího Ámúdího.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "9791f9bc83c2cfb73618cab8a8c3ce6fbfb16f03",
       "fingerprint": "66891782edb2916033ce3a86376f0b3070d001d1",
@@ -1080,94 +1148,6 @@
       "lead_en": "Ruská armáda upravuje své drony pro údery proti Ukrajině. Nově se objevily zprávy o bezpilotních letounech typu Šáhid vybavených „knírem“.",
       "title_raw": "Vousaté drony. Rusové začali na Ukrajinu posílat šáhidy se speciální úpravou",
       "lead_raw": "Ruská armáda upravuje své drony pro údery proti Ukrajině. Nově se objevily zprávy o bezpilotních letounech typu Šáhid vybavených „knírem“.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "dd1a69c87cb58c9c7518255008f620ff3ce2359c",
-      "fingerprint": "36ff46e8148edc5da60512954ff1f125e201e79b",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/podcasty-hlas-na-pousti-osmnact-mesicu-124-dotazu-a-jedno-zruseni-jak-ods-a-spd-pohrbily-nakup-obrnenych-vozidel-pro-vojaky-40600390",
-      "published_utc": "2026-10-02T06:00:00Z",
-      "title_en": "Osmnáct měsíců, 124 dotazů a jedno zrušení. Jak ODS a SPD pohřbily nákup obrněných vozidel pro vojáky",
-      "lead_en": "Víkend před termínem pro podání předběžných nabídek zrušilo Ministerstvo obrany zakázku na až 185 obrněných vozidel „Univerzální kolová platforma“. V odůvodnění přiznává, že na ni nemá peníze a že zadávací podmínky od začátku nastavilo špatně.",
-      "title_raw": "Osmnáct měsíců, 124 dotazů a jedno zrušení. Jak ODS a SPD pohřbily nákup obrněných vozidel pro vojáky",
-      "lead_raw": "Víkend před termínem pro podání předběžných nabídek zrušilo Ministerstvo obrany zakázku na až 185 obrněných vozidel „Univerzální kolová platforma“. V odůvodnění přiznává, že na ni nemá peníze a že zadávací podmínky od začátku nastavilo špatně.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "80338633d2a76a37526319857220e33fc540d30d",
-      "fingerprint": "1d5acb1b9c364bad9ae585c8948e2cccf8682fe9",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/reditel-ustredni-vojenske-nemocnice-odstavil-namestka-ktereho-pri-razii-zadrzela_2610020620_hrk",
-      "published_utc": "2026-10-02T04:20:00Z",
-      "title_en": "Ředitel Ústřední vojenské nemocnice odstavil náměstka, kterého při razii zadržela Vojenská policie",
-      "lead_en": "Náměstek ředitele Ústřední vojenské nemocnice (ÚVN) pro obchod Jiří Havel už nevykonává svou práci. Redakci iROZHLAS.cz to potvrdil ředitel zařízení Luděk Hána.",
-      "title_raw": "Ředitel Ústřední vojenské nemocnice odstavil náměstka, kterého při razii zadržela Vojenská policie",
-      "lead_raw": "Náměstek ředitele Ústřední vojenské nemocnice (ÚVN) pro obchod Jiří Havel už nevykonává svou práci. Redakci iROZHLAS.cz to potvrdil ředitel zařízení Luděk Hána.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "3ebaec4ae5fafe34dc464a8cf0f927f3a5c4231c",
-      "fingerprint": "0f0c436c38689b198cee9648b4e100b301898751",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-rusko-znovu-zasahlo-dulezity-kyjevsky-most-40600452",
-      "published_utc": "2026-10-02T04:02:01Z",
-      "title_en": "Rusko znovu zasáhlo důležitý kyjevský most",
-      "lead_en": "Ruská armáda znovu zaútočila na Jižní most v Kyjevě, přes který vede důležitý silniční tah i trasa metra. V pátek časně ráno to oznámil starosta Vitalij Kličko.",
-      "title_raw": "Rusko znovu zasáhlo důležitý kyjevský most",
-      "lead_raw": "Ruská armáda znovu zaútočila na Jižní most v Kyjevě, přes který vede důležitý silniční tah i trasa metra. V pátek časně ráno to oznámil starosta Vitalij Kličko.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "e5b01376f0153ece3e66e840b173df4795c0e1c5",
-      "fingerprint": "fce0971585c1339700657b69899c4d0a03248b91",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-znovu-uderilo-na-dulezity-most-v-kyjeve-bbc-pise-o-nove-fazi-utoku-na-metropoli-378164",
-      "published_utc": "2026-10-02T03:14:44Z",
-      "title_en": "Rusko znovu udeřilo na důležitý most v Kyjevě. BBC píše o nové fázi útoků na metropoli",
-      "lead_en": "Ruská armáda znovu zaútočila na Jižní most v Kyjevě, přes který vede důležitý silniční tah i trasa metra. V pátek časně ráno to oznámil starosta ukrajinské metropole Vitalij Klyčko.",
-      "title_raw": "Rusko znovu udeřilo na důležitý most v Kyjevě. BBC píše o nové fázi útoků na metropoli",
-      "lead_raw": "Ruská armáda znovu zaútočila na Jižní most v Kyjevě, přes který vede důležitý silniční tah i trasa metra. V pátek časně ráno to oznámil starosta ukrajinské metropole Vitalij Klyčko.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
