@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-03T21:52:06Z",
+  "updated_at_utc": "2026-10-04T00:10:15Z",
   "topic": "military",
   "count": 53,
   "articles": [
+    {
+      "id": "9791f9bc83c2cfb73618cab8a8c3ce6fbfb16f03",
+      "fingerprint": "66891782edb2916033ce3a86376f0b3070d001d1",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/domaci/losos-norsko-kampan-potraviny.A261002_162412_ekonomika_drh",
+      "published_utc": "2026-10-03T22:00:00Z",
+      "title_en": "Losos dobývá Česko. Spotřeba za tři roky vzrostla o 40 procent, láká i Haaland",
+      "lead_en": "Spotřeba lososa v Česku raketově stoupá. Za poslední tři roky se zvýšila o 40 procent, v horizontu dekády na více než trojnásobek.",
+      "title_raw": "Losos dobývá Česko. Spotřeba za tři roky vzrostla o 40 procent, láká i Haaland",
+      "lead_raw": "Spotřeba lososa v Česku raketově stoupá. Za poslední tři roky se zvýšila o 40 procent, v horizontu dekády na více než trojnásobek.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "2d68374a0b101432f792cfdd9e1663494e89267a",
       "fingerprint": "5192a3d9204530fd25ed6c97316c492cb846e865",
@@ -1157,29 +1179,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "5c07a60b761260278713ef8c35a256bdd5498aa8",
-      "fingerprint": "a9e221a79ed8b506bbd95d2aa5f2dc8a96a24d52",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/finance/financni-radce/autonehoda-pasy-zraneny-vinik-poskozeny-narok-na-nahrady.A260930_095137_viteze_sov",
-      "published_utc": "2026-10-01T22:00:00Z",
-      "title_en": "Nezaviněná nehoda, ale bez pásů? Jak to bude s odškodněním, popisuje advokát",
-      "lead_en": "Utrpěli jste zranění při dopravní nehodě, kterou jste nezpůsobili, ale v okamžiku střetu jste neměli zapnutý bezpečnostní pás? Tato skutečnost vás automaticky nezbavuje nároku na finanční kompenzaci.",
-      "title_raw": "Nezaviněná nehoda, ale bez pásů? Jak to bude s odškodněním, popisuje advokát",
-      "lead_raw": "Utrpěli jste zranění při dopravní nehodě, kterou jste nezpůsobili, ale v okamžiku střetu jste neměli zapnutý bezpečnostní pás? Tato skutečnost vás automaticky nezbavuje nároku na finanční kompenzaci.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
