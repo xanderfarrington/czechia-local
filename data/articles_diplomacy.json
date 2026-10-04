@@ -1,10 +1,56 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-04T06:28:14Z",
+  "updated_at_utc": "2026-10-04T12:54:18Z",
   "topic": "diplomacy",
-  "count": 28,
+  "count": 27,
   "articles": [
+    {
+      "id": "2dbc0df18812ed2d2e0e17459bf804479ed96bf7",
+      "fingerprint": "4d78af177f3be71464feb616d17aac647ea8c623",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/havlicek-propousteni-desetiny-lidi-na-uradech-ma-byt-postupne-v-roce-2027/2882798",
+      "published_utc": "2026-10-04T11:35:00Z",
+      "title_en": "Havlíček: Propouštění desetiny lidí na úřadech má být postupné v roce 2027",
+      "lead_en": "Praha - Vláda se během několika týdnů vrátí k projednání návrhu na snížení počtu pracovních míst na ministerstvech o desetinu. Podle místopředsedy hnutí ANO a ministra průmyslu a obchodu Karla Havlíčka...",
+      "title_raw": "Havlíček: Propouštění desetiny lidí na úřadech má být postupné v roce 2027",
+      "lead_raw": "Praha - Vláda se během několika týdnů vrátí k projednání návrhu na snížení počtu pracovních míst na ministerstvech o desetinu. Podle místopředsedy hnutí ANO a ministra průmyslu a obchodu Karla Havlíčka...",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "e1c102f19718963e336968eb555b1b265c168a79",
+      "fingerprint": "d1cdbe79e4fa0f334738def79a1e869350d5bc65",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-rusko-v-noci-vysilalo-drony-na-kyjev-z-izjumu-hlasi-utoky-raketometu-316741",
+      "published_utc": "2026-10-04T08:01:22Z",
+      "title_en": "Rusko v noci vysílalo drony na Kyjev, z Izjumu hlásí útoky raketometů",
+      "lead_en": "Moskva v sobotu vyzvala diplomaty a cizince, aby opustili ukrajinskou metropoli. Ukrajina i Rusko se připravují na zintenzivnění útoků.",
+      "title_raw": "Rusko v noci vysílalo drony na Kyjev, z Izjumu hlásí útoky raketometů",
+      "lead_raw": "Moskva v sobotu vyzvala diplomaty a cizince, aby opustili ukrajinskou metropoli. Ukrajina i Rusko se připravují na zintenzivnění útoků.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "a697faa5cc4b4d210e69f44664539c13889e3423",
       "fingerprint": "0938d1253c8fce23eed841810284a4efa1b5ae6c",
@@ -556,73 +602,6 @@
       "topics": [
         "diplomacy",
         "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "1b58ecadcffbbff97a4c0132443f9622ddc64fa2",
-      "fingerprint": "36b05a0466f6d9b4f78b4b2e411590a2347e59e3",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-snazite-se-vyvolat-konflikt-mezi-korejemi-obvinil-soul-ukrajince-316670",
-      "published_utc": "2026-10-02T11:45:27Z",
-      "title_en": "Snažíte se vyvolat konflikt mezi Korejemi, obvinil Soul Ukrajince",
-      "lead_en": "Volodymyr Zelenskyj podle Soulu porušil dohodu o mlčenlivosti, kterou uzavřely státy ohledně přesunu severokorejských zajatců na území Jižní Koreje. Soul žádá omluvu.",
-      "title_raw": "Snažíte se vyvolat konflikt mezi Korejemi, obvinil Soul Ukrajince",
-      "lead_raw": "Volodymyr Zelenskyj podle Soulu porušil dohodu o mlčenlivosti, kterou uzavřely státy ohledně přesunu severokorejských zajatců na území Jižní Koreje. Soul žádá omluvu.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "a19658a6578a3023b8c0db9f929405b8f5f514c2",
-      "fingerprint": "62959caa45eaf0400b3bede13f2a82367660a6fc",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/ropa-brent-je-zpet-pod-100-usd-za-barel-spekuluje-se-o-dalsim-uvolneni-rezerv-/2881871",
-      "published_utc": "2026-10-02T10:09:00Z",
-      "title_en": "Ropa Brent je zpět pod 100 USD za barel, spekuluje se o dalším uvolnění rezerv",
-      "lead_en": "Londýn/New York - Ceny ropy se dnes výrazně snižují, severomořský Brent odepisuje asi tři procenta a vrátil se pod 100 dolarů za barel. Obchodníci dávají citelný pokles do souvislosti se zprávami o jednáních...",
-      "title_raw": "Ropa Brent je zpět pod 100 USD za barel, spekuluje se o dalším uvolnění rezerv",
-      "lead_raw": "Londýn/New York - Ceny ropy se dnes výrazně snižují, severomořský Brent odepisuje asi tři procenta a vrátil se pod 100 dolarů za barel. Obchodníci dávají citelný pokles do souvislosti se zprávami o jednáních...",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "d9b40ac3f7b60ee40ba6cd6feffc74ec92493832",
-      "fingerprint": "1d3b8570b80b7b0c52a9147462258072fa4bdbbd",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/ministerstvo-spravedlnosti-technicke-problemy-web-nejvyssi-soud.A261002_083619_domaci_ikro",
-      "published_utc": "2026-10-02T06:57:00Z",
-      "title_en": "Část justičních webů je mimo provoz. Technické problémy, tvrdí ministerstvo",
-      "lead_en": "Některé internetové služby české justice jsou aktuálně nedostupné. Ministerstvo spravedlnosti ve čtvrtek oznámilo výpadek systémů InfoSoud, InfoJednání či Elektronické úřední desky.",
-      "title_raw": "Část justičních webů je mimo provoz. Technické problémy, tvrdí ministerstvo",
-      "lead_raw": "Některé internetové služby české justice jsou aktuálně nedostupné. Ministerstvo spravedlnosti ve čtvrtek oznámilo výpadek systémů InfoSoud, InfoJednání či Elektronické úřední desky.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
       ],
       "primary_topic": "diplomacy"
     }
