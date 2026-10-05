@@ -1,10 +1,78 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-05T09:41:32Z",
+  "updated_at_utc": "2026-10-05T18:54:12Z",
   "topic": "local_events",
-  "count": 17,
+  "count": 15,
   "articles": [
+    {
+      "id": "2a5a1792b1e515066acd9851ae5676dcc7a06c82",
+      "fingerprint": "be8f015fdc2e9ea6df0f98cd70ee207db2519a9e",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-pri-havarii-armadniho-letadla-v-nigerii-zemrelo-vsech-32-lidi-na-palube-316843",
+      "published_utc": "2026-10-05T17:57:29Z",
+      "title_en": "Při havárii armádního letadla v Nigérii zemřelo všech 32 lidí na palubě",
+      "lead_en": "V jižní Nigérii se ve státě Ondo zřítil armádní letoun, nikdo nepřežil. Podle nigerijského ministerstva letectví letadlo zmizelo z radaru kolem deváté hodiny ranní místního času.",
+      "title_raw": "Při havárii armádního letadla v Nigérii zemřelo všech 32 lidí na palubě",
+      "lead_raw": "V jižní Nigérii se ve státě Ondo zřítil armádní letoun, nikdo nepřežil. Podle nigerijského ministerstva letectví letadlo zmizelo z radaru kolem deváté hodiny ranní místního času.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "e38a3fb2e8d56009f103c4b9e728f800ab9d9a41",
+      "fingerprint": "0b8c36561e3f4498389610aaa7e2192b6281090b",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-v-jizni-nigerii-se-zritilo-armadni-letadlo-s-32-lidmi-na-palube-40600937",
+      "published_utc": "2026-10-05T14:16:57Z",
+      "title_en": "V jižní Nigérii se zřítilo armádní letadlo s 32 lidmi na palubě",
+      "lead_en": "Při pondělní havárii vojenského letadla na jihozápadě Nigérie zahynulo 32 osob. O nehodě informovala nigerijská média a ministerstvo letectví a leteckého průmyslu.",
+      "title_raw": "V jižní Nigérii se zřítilo armádní letadlo s 32 lidmi na palubě",
+      "lead_raw": "Při pondělní havárii vojenského letadla na jihozápadě Nigérie zahynulo 32 osob. O nehodě informovala nigerijská média a ministerstvo letectví a leteckého průmyslu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "34d6402affc98582886081937e95c1bb1a6609ae",
+      "fingerprint": "18fb6992a0571c8f182d656faa961b6716c0aa5f",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zdravi-poprve-v-cr-pouzili-lekari-v-brne-na-znicenou-chrupavku-v-koleni-step-mrtveho-darce-40600512",
+      "published_utc": "2026-10-05T14:02:00Z",
+      "title_en": "Poprvé v ČR použili lékaři v Brně na zničenou chrupavku v koleni štěp mrtvého dárce",
+      "lead_en": "Lékaři z Fakultní nemocnice u svaté Anny v Brně použili poprvé v České republice na náhradu zničené chrupavky v koleni štěp od zemřelého dárce. Implantovali jej muži, který se zranil při sportu.",
+      "title_raw": "Poprvé v ČR použili lékaři v Brně na zničenou chrupavku v koleni štěp mrtvého dárce",
+      "lead_raw": "Lékaři z Fakultní nemocnice u svaté Anny v Brně použili poprvé v České republice na náhradu zničené chrupavky v koleni štěp od zemřelého dárce. Implantovali jej muži, který se zranil při sportu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "c01ab9448912cf2bc328aa0449c40eae58371c47",
       "fingerprint": "bd7dfd121d11726febf3d412ea37786c41fb7d4a",
@@ -264,116 +332,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "1341af703aac8fd45ab00f7a0e51d8b877311497",
-      "fingerprint": "926d69a3db7ce5e0933de84cd619d11f87fc8b7b",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/kultura-hudba-sex-story-rokenrol-cliff-burton-z-metalliky-zemrel-pri-tragicke-nehode-na-turne-40600586",
-      "published_utc": "2026-10-03T15:02:00Z",
-      "title_en": "SEX, STORY, ROKENROL: Cliff Burton z Metalliky zemřel při tragické nehodě na turné",
-      "lead_en": "Smrt Cliffa Burtona se i po čtyřiceti letech jeví být neobvykle krutá a nepravděpodobná. Ačkoli jsou detaily dopravní nehody, při které tento baskytarista americké skupiny Metallica přišel o život, stále poněkud nejasné a ačkoli to všechno byla nehorázná smůla, život mu vrátit nelze.",
-      "title_raw": "SEX, STORY, ROKENROL: Cliff Burton z Metalliky zemřel při tragické nehodě na turné",
-      "lead_raw": "Smrt Cliffa Burtona se i po čtyřiceti letech jeví být neobvykle krutá a nepravděpodobná. Ačkoli jsou detaily dopravní nehody, při které tento baskytarista americké skupiny Metallica přišel o život, stále poněkud nejasné a ačkoli to všechno byla nehorázná smůla, život mu vrátit nelze.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "1d8b30705dcfe7ccee83967ae6ac250d12b622b0",
-      "fingerprint": "db172f52188eac5de18e23be9b40b97bfac9c8ce",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-pri-nehode-sanitky-na-taborsku-se-zranili-tri-lide-vcetne-pacienta-40600676",
-      "published_utc": "2026-10-03T14:50:52Z",
-      "title_en": "Černá sobota v jižních Čechách. Policie vyjížděla ke čtyřem desítkám nehod",
-      "lead_en": "Sobota se v Jihočeském kraji nese ve znamení mnoha dopravních nehod. Do páté hodiny odpoledne vyjížděli policisté asi ke 40 haváriím.",
-      "title_raw": "Černá sobota v jižních Čechách. Policie vyjížděla ke čtyřem desítkám nehod",
-      "lead_raw": "Sobota se v Jihočeském kraji nese ve znamení mnoha dopravních nehod. Do páté hodiny odpoledne vyjížděli policisté asi ke 40 haváriím.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "bd6a36d1abe32fd8df874b115fb3fc64141a3d8b",
-      "fingerprint": "50d9beeecca329f750c8ad167c334c2e1607caa1",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-zpravy-jihomoravsky-kraj-kniha-zapomenuti-mrtvi-odkryva-pribehy-lidi-kteri-zemreli-na-hranicich-s-rakouskem-40600627",
-      "published_utc": "2026-10-03T13:48:10Z",
-      "title_en": "Kniha Zapomenutí mrtví odkrývá příběhy lidí, kteří zemřeli na hranicích s Rakouskem",
-      "lead_en": "Pomník obětem železné opony nedaleko Mikulova už stojí řadu let. K nebi se tyčí 53 ocelových stél se jmény lidí, kteří v letech 1948 až 1989 přišli o život na hranici mezi jižní Moravou a Dolním Rakouskem.",
-      "title_raw": "Kniha Zapomenutí mrtví odkrývá příběhy lidí, kteří zemřeli na hranicích s Rakouskem",
-      "lead_raw": "Pomník obětem železné opony nedaleko Mikulova už stojí řadu let. K nebi se tyčí 53 ocelových stél se jmény lidí, kteří v letech 1948 až 1989 přišli o život na hranici mezi jižní Moravou a Dolním Rakouskem.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "bb600aaa821af5e244e7a51b92be7804a6e2beae",
-      "fingerprint": "152012c877847384421bf63485211316f645a511",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-pri-dopravnich-nehodach-ve-strednich-cechach-zemreli-dva-lide-40600667",
-      "published_utc": "2026-10-03T10:59:29Z",
-      "title_en": "Při dopravních nehodách ve středních Čechách zemřeli dva lidé",
-      "lead_en": "Dva životy si v sobotu vyžádaly dopravní nehody ve středních Čechách. Na dálnici D10 u Mladé Boleslavi zemřel v sobotu ráno řidič osobního auta po nárazu do stavebního stroje.",
-      "title_raw": "Při dopravních nehodách ve středních Čechách zemřeli dva lidé",
-      "lead_raw": "Dva životy si v sobotu vyžádaly dopravní nehody ve středních Čechách. Na dálnici D10 u Mladé Boleslavi zemřel v sobotu ráno řidič osobního auta po nárazu do stavebního stroje.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "10ba3c053ca5c538fa526f414691e6e628e52002",
-      "fingerprint": "869341bdabd03b48711e1ec729ccba5d3334304a",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/praha/zpravy/smrtelne-nehody-stredni-cechy-naraz-do-stavebniho-stroje.A261003_120807_praha-zpravy_zdo",
-      "published_utc": "2026-10-03T10:31:00Z",
-      "title_en": "Dvě tragické nehody: zemřela 20letá žena a řidič po nárazu do stavebního stroje",
-      "lead_en": "Ve středních Čechách v sobotu při nehodách zemřeli dva lidé. Na dálnici D10 u Mladé Boleslavi nepřežil řidič náraz do stavebního stroje, spolujezdkyně utrpěla vážné zranění.",
-      "title_raw": "Dvě tragické nehody: zemřela 20letá žena a řidič po nárazu do stavebního stroje",
-      "lead_raw": "Ve středních Čechách v sobotu při nehodách zemřeli dva lidé. Na dálnici D10 u Mladé Boleslavi nepřežil řidič náraz do stavebního stroje, spolujezdkyně utrpěla vážné zranění.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
       },
       "topics": [
         "local_events"
