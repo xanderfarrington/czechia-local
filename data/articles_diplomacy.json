@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-05T18:54:12Z",
+  "updated_at_utc": "2026-10-06T00:25:22Z",
   "topic": "diplomacy",
   "count": 22,
   "articles": [
+    {
+      "id": "b12de6f682217eb8126c48acd318b53ae947b7f5",
+      "fingerprint": "0371deb95f75ab69ce8327c0013e8ca4969cca26",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-jednani-se-spojenymi-staty-nemaji-smysl-prohlasil-iransky-prezident-316847",
+      "published_utc": "2026-10-05T19:34:57Z",
+      "title_en": "Jednání se Spojenými státy nemají smysl, prohlásil íránský prezident",
+      "lead_en": "Íránský prezident prohlásil, že Američané nestojí o dialog v jednáních o míru.",
+      "title_raw": "Jednání se Spojenými státy nemají smysl, prohlásil íránský prezident",
+      "lead_raw": "Íránský prezident prohlásil, že Američané nestojí o dialog v jednáních o míru.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "d4ce9747f372ba8e6c931617862221565b55d0dd",
       "fingerprint": "d501e9ec04a6c992250cc8c7ee7c07f237950dea",
@@ -470,29 +492,6 @@
         "diplomacy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "e452959610f28e011a46528c05007c2425a0a646",
-      "fingerprint": "4d164bf7fea40da2a9bc7eef03a9a10e0433b483",
-      "source": "iROZHLAS - Economy",
-      "url": "https://www.irozhlas.cz/ekonomika/ekonom-trumpova-slova-formuji-ekonomiku-sveta-trhy-ale-nejsou-hloupe-cast_2610032130_dns",
-      "published_utc": "2026-10-03T19:30:00Z",
-      "title_en": "Ekonom: Trumpova slova formují ekonomiku světa. Trhy ale nejsou hloupé, část balastu odfiltrují",
-      "lead_en": "Americký prezident Donald Trump v posledních dnech opanoval pozornost globální ekonomiky. Trhy bedlivě sledovaly jeho prohlášení o Íránu a Ukrajině, komentáře ke sbližování Evropy s Kanadou a schůzku s čínským prezidentem Si Ťin Pchingem.",
-      "title_raw": "Ekonom: Trumpova slova formují ekonomiku světa. Trhy ale nejsou hloupé, část balastu odfiltrují",
-      "lead_raw": "Americký prezident Donald Trump v posledních dnech opanoval pozornost globální ekonomiky. Trhy bedlivě sledovaly jeho prohlášení o Íránu a Ukrajině, komentáře ke sbližování Evropy s Kanadou a schůzku s čínským prezidentem Si Ťin Pchingem.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }

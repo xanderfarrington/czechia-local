@@ -1,10 +1,54 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-05T18:54:12Z",
+  "updated_at_utc": "2026-10-06T00:25:22Z",
   "topic": "energy",
-  "count": 26,
+  "count": 27,
   "articles": [
+    {
+      "id": "72c9d462c80e10ee267e67b8a23a78c1a6ff3a0f",
+      "fingerprint": "80d51459796fad5a5b42045def42f5e520e10845",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/prilohy/stan-se-odbornikem-budoucnosti-sose-hluboka-otevira-dvere-novym-zakum.A260929_100417_hobby-sdeleni_hradr",
+      "published_utc": "2026-10-05T22:00:00Z",
+      "title_en": "Staň se odborníkem budoucnosti. SOŠE Hluboká otevírá dveře novým žákům",
+      "lead_en": "Robotika, energetika, informatika, moderní technologie a reálná spolupráce s významnými firmami. To vše nabízí Střední odborná škola elektrotechnická, Centrum odborné přípravy Hluboká nad Vltavou.",
+      "title_raw": "Staň se odborníkem budoucnosti. SOŠE Hluboká otevírá dveře novým žákům",
+      "lead_raw": "Robotika, energetika, informatika, moderní technologie a reálná spolupráce s významnými firmami. To vše nabízí Střední odborná škola elektrotechnická, Centrum odborné přípravy Hluboká nad Vltavou.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "920a73300f132e38c9b4e991ac7552be17acd218",
+      "fingerprint": "a9c0a8e49f6867ebd18f86d9c5b73f1c2e12da89",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/vetrniky-bez-prevodovky-v-magdeburgu-vznikaji-obri-generatory-i-pro-cesko.A261005_141705_eko-zahranicni_ven",
+      "published_utc": "2026-10-05T22:00:00Z",
+      "title_en": "Větrníky bez převodovky. V Magdeburgu vznikají obří generátory i pro Česko",
+      "lead_en": "Vítr je nejdůležitějším a největším zdrojem elektřiny v celém Německu. Společnost Enercon produkuje v hlavním městě Saska-Anhaltska výkonné generátory bez převodovek, které pohánějí také větrné turbíny této značky instalované v Česku.",
+      "title_raw": "Větrníky bez převodovky. V Magdeburgu vznikají obří generátory i pro Česko",
+      "lead_raw": "Vítr je nejdůležitějším a největším zdrojem elektřiny v celém Německu. Společnost Enercon produkuje v hlavním městě Saska-Anhaltska výkonné generátory bez převodovek, které pohánějí také větrné turbíny této značky instalované v Česku.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "25e57d633ebe2c5e9cc4a34fc7220d6b7f6b48e9",
       "fingerprint": "8701e6ab2c07e4ecb95f872b8ce86059cad73831",
@@ -547,28 +591,6 @@
       "lead_en": "Nové kompaktní SUV Kia Seltos přijíždí do důležitého segmentu s výrazným robustním designem a nabízí i moderní a prostornou kabinu. Veskrze pozitivní dojem ale kazí neodladěné pohonné ústrojí, které by zasloužilo ještě trochu pozornosti ve vývoji.",
       "title_raw": "Odvážnému a prostornému SUV Kia Seltos schází jen plynulost",
       "lead_raw": "Nové kompaktní SUV Kia Seltos přijíždí do důležitého segmentu s výrazným robustním designem a nabízí i moderní a prostornou kabinu. Veskrze pozitivní dojem ale kazí neodladěné pohonné ústrojí, které by zasloužilo ještě trochu pozornosti ve vývoji.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "bf893445464f031b4012910398d21d90a4e0aa97",
-      "fingerprint": "4b06f6081b828c22e9a6f6823898957987f51a25",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-zelenskyj-ohlasil-intenzivnejsi-udery-na-ruske-rafinerie-40600690",
-      "published_utc": "2026-10-03T19:23:34Z",
-      "title_en": "Zelenskyj ohlásil intenzivnější údery na ruské rafinérie",
-      "lead_en": "Ukrajina zintenzivní údery na ruské ropné rafinerie. Půjde o reakci na nové vzdušné útoky Ruska, které mají donutit ukrajinské obyvatele, aby opustili Kyjev a další velká města, prohlásil ukrajinský prezident Volodymyr Zelenskyj.",
-      "title_raw": "Zelenskyj ohlásil intenzivnější údery na ruské rafinérie",
-      "lead_raw": "Ukrajina zintenzivní údery na ruské ropné rafinerie. Půjde o reakci na nové vzdušné útoky Ruska, které mají donutit ukrajinské obyvatele, aby opustili Kyjev a další velká města, prohlásil ukrajinský prezident Volodymyr Zelenskyj.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
