@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-06T06:56:59Z",
+  "updated_at_utc": "2026-10-06T13:49:05Z",
   "topic": "local_events",
-  "count": 14,
+  "count": 10,
   "articles": [
+    {
+      "id": "0d2c3ff04d28db19e9184d81cda188394dd2a604",
+      "fingerprint": "12a41d4c41aeb44af837d1083cfc9329343689c3",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/brno/zpravy/potycka-napadeni-deti-zranena-divka-velke-opatovice-policie.A261006_125824_brno-zpravy_azu",
+      "published_utc": "2026-10-06T11:55:00Z",
+      "title_en": "Po potyčce školáků musela dívka do nemocnice, přihlížející děti si konflikt natáčely",
+      "lead_en": "Potyčku mezi dětmi ve Velkých Opatovicích řeší od pondělního odpoledne blanenští policisté. Při konfliktu utrpěla zranění dívka, kterou záchranáři převezli do boskovické nemocnice.",
+      "title_raw": "Po potyčce školáků musela dívka do nemocnice, přihlížející děti si konflikt natáčely",
+      "lead_raw": "Potyčku mezi dětmi ve Velkých Opatovicích řeší od pondělního odpoledne blanenští policisté. Při konfliktu utrpěla zranění dívka, kterou záchranáři převezli do boskovické nemocnice.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "2a5a1792b1e515066acd9851ae5676dcc7a06c82",
       "fingerprint": "be8f015fdc2e9ea6df0f98cd70ee207db2519a9e",
@@ -202,116 +224,6 @@
       },
       "topics": [
         "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "df4975de8b1fdbf723db26928d0cb9beab7cd4f7",
-      "fingerprint": "eba76640c606f6212d03b2474d8b72be4da66aab",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-na-ceskobudejovicku-havarovalo-male-letadlo-na-jindrichohradecku-spadl-parasutista-40600719",
-      "published_utc": "2026-10-04T12:57:38Z",
-      "title_en": "Na Českobudějovicku havarovalo malé letadlo, na Jindřichohradecku se zřítil parašutista",
-      "lead_en": "Záchranáři i policisté zasahovali v neděli dopoledne u pádu parašutisty na Jindřichohradecku, odpoledne zase u nehody letadla v Hosíně na Českobudějovicku. Posádka malého letadla vyvázla bez vážných zranění, parašutista skončil v nemocnici.",
-      "title_raw": "Na Českobudějovicku havarovalo malé letadlo, na Jindřichohradecku se zřítil parašutista",
-      "lead_raw": "Záchranáři i policisté zasahovali v neděli dopoledne u pádu parašutisty na Jindřichohradecku, odpoledne zase u nehody letadla v Hosíně na Českobudějovicku. Posádka malého letadla vyvázla bez vážných zranění, parašutista skončil v nemocnici.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "4b051c292b5ae6accbe703ff1d49077f981a309f",
-      "fingerprint": "1ee19c04d59ea95ba108b1ef9379218c1713bee6",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-norove-ukoncili-patrani-po-trech-ceskych-rybarich-prohlasili-je-za-mrtve-40600722",
-      "published_utc": "2026-10-04T12:52:02Z",
-      "title_en": "Norové ukončili pátrání po třech českých rybářích. Prohlásili je za mrtvé",
-      "lead_en": "Norská policie ukončila pátrání po třech českých rybářích, kteří jsou nezvěstní po zářijové tragické nehodě lodi u souostroví Grip nedaleko Kristiansundu na západním pobřeží Norska. Úřady je považují za mrtvé.",
-      "title_raw": "Norové ukončili pátrání po třech českých rybářích. Prohlásili je za mrtvé",
-      "lead_raw": "Norská policie ukončila pátrání po třech českých rybářích, kteří jsou nezvěstní po zářijové tragické nehodě lodi u souostroví Grip nedaleko Kristiansundu na západním pobřeží Norska. Úřady je považují za mrtvé.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "62198c1ec7ee01062f46112d0acf5984f1bbf56d",
-      "fingerprint": "8af549f8ceffbb4a6a687ee65ff4c9c411feb5e7",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-po-pozaru-rodinneho-domu-v-liberci-nasli-uvnitr-mrtveho-cloveka-40600534",
-      "published_utc": "2026-10-04T08:39:00Z",
-      "title_en": "Po požáru rodinného domu v Liberci našli uvnitř mrtvého člověka",
-      "lead_en": "Při požáru rodinného domu v Dolním Hanychově v Liberci zemřel muž. Druhému se podařilo dům včas opustit, ovšem nadýchal se kouře a putoval do péče lékařů.",
-      "title_raw": "Po požáru rodinného domu v Liberci našli uvnitř mrtvého člověka",
-      "lead_raw": "Při požáru rodinného domu v Dolním Hanychově v Liberci zemřel muž. Druhému se podařilo dům včas opustit, ovšem nadýchal se kouře a putoval do péče lékařů.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "186c1094766eb23d50fbbfe1608b71f90e63139b",
-      "fingerprint": "1dadc1467c24f2b43d36ac0aff4e72d785a4a508",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/praha/zpravy/nehoda-d1-zraneni-uzavrena-dalnice-vrtulnik-policie-mirosovice.A261004_083040_praha-zpravy_zdo",
-      "published_utc": "2026-10-04T08:04:00Z",
-      "title_en": "Dodávka narazila na D1 do nákladního auta, zranili se dva lidé",
-      "lead_en": "Dálnici D1 mezi Hvězdonicemi na Benešovsku a Mirošovicemi u Prahy uzavřela v neděli ráno nehoda dodávky a nákladního auta. Při nehodě se zranili dva lidé z dodávky, na dálnici přistával vrtulník záchranné služby.",
-      "title_raw": "Dodávka narazila na D1 do nákladního auta, zranili se dva lidé",
-      "lead_raw": "Dálnici D1 mezi Hvězdonicemi na Benešovsku a Mirošovicemi u Prahy uzavřela v neděli ráno nehoda dodávky a nákladního auta. Při nehodě se zranili dva lidé z dodávky, na dálnici přistával vrtulník záchranné služby.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "d7b0c45adfd341896e3898c1ef72e4e521a8ada1",
-      "fingerprint": "11af21c41249e241e0569d99914e090c053c175e",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-muz-si-na-frydecko-mistecku-urizl-prsty-na-cirkularce-40600695",
-      "published_utc": "2026-10-04T07:41:13Z",
-      "title_en": "Muž si na Frýdecko-Místecku uřízl prsty na cirkulárce",
-      "lead_en": "Moravskoslezští záchranáři zasahovali v sobotu odpoledne u vážně zraněného muže v Písku na Frýdecko-Místecku. Dvaapadesátiletý muž tam při řezání dřeva na cirkulární pile přišel o prsty.",
-      "title_raw": "Muž si na Frýdecko-Místecku uřízl prsty na cirkulárce",
-      "lead_raw": "Moravskoslezští záchranáři zasahovali v sobotu odpoledne u vážně zraněného muže v Písku na Frýdecko-Místecku. Dvaapadesátiletý muž tam při řezání dřeva na cirkulární pile přišel o prsty.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
         "local_events"
       ],
       "primary_topic": "local_events"

@@ -1,10 +1,319 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-06T06:56:59Z",
+  "updated_at_utc": "2026-10-06T13:49:05Z",
   "topic": "military",
-  "count": 58,
+  "count": 62,
   "articles": [
+    {
+      "id": "25a1c078b7ed06e1acb244f4257aa7e090b5b42b",
+      "fingerprint": "489fc093431821a86ac6c7d738f0e8cdb671a674",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/nato-chysta-teorii-vitezstvi-proti-rusku-pise-bloomberg-378301",
+      "published_utc": "2026-10-06T13:10:20Z",
+      "title_en": "NATO chystá „teorii vítězství“ proti Rusku, píše Bloomberg",
+      "lead_en": "NATO pracuje na strategii, jejímž cílem je dosáhnout rychlého vítězství v případě ruského útoku na východní křídlo Aliance. Důraz přitom klade na integraci nových technologií, jako jsou drony a umělá inteligence, do tradičních vojenských schopností, informovala agentura Bloomberg.",
+      "title_raw": "NATO chystá „teorii vítězství“ proti Rusku, píše Bloomberg",
+      "lead_raw": "NATO pracuje na strategii, jejímž cílem je dosáhnout rychlého vítězství v případě ruského útoku na východní křídlo Aliance. Důraz přitom klade na integraci nových technologií, jako jsou drony a umělá inteligence, do tradičních vojenských schopností, informovala agentura Bloomberg.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "5e5b6b0d2c89580c33f38aca66af49d47491dc2d",
+      "fingerprint": "0414d4d5393529da0ba9edf7bada7232bcb74f9f",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-cesko-zdvojnasobilo-vyvoz-zbrani-do-azerbajdzanu-40600633",
+      "published_utc": "2026-10-06T12:59:21Z",
+      "title_en": "Česko zdvojnásobilo vývoz zbraní do Ázerbájdžánu",
+      "lead_en": "Ázerbájdžán se loni stal největším českým dodavatelem ropy, z této kavkazské země pocházelo více než 40 procent veškeré ropy dovezené do Česka. Opačným směrem pak proudí hlavně vojenský materiál, jehož vývoz do této postsovětské republiky se jen za loňský rok více než zdvojnásobil.",
+      "title_raw": "Česko zdvojnásobilo vývoz zbraní do Ázerbájdžánu",
+      "lead_raw": "Ázerbájdžán se loni stal největším českým dodavatelem ropy, z této kavkazské země pocházelo více než 40 procent veškeré ropy dovezené do Česka. Opačným směrem pak proudí hlavně vojenský materiál, jehož vývoz do této postsovětské republiky se jen za loňský rok více než zdvojnásobil.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "7ea3289703b59e758bf1493f00c1288de51d07bb",
+      "fingerprint": "3d2f8cdffba6ced4ac16f0051c7226184616fff9",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-chirurg-podle-zalobce-zproneveril-penize-trva-na-nevine-a-kandiduje-za-ods-316751",
+      "published_utc": "2026-10-06T12:50:58Z",
+      "title_en": "Chirurg podle žalobce zpronevěřil peníze. Trvá na nevině a kandiduje za ODS",
+      "lead_en": "Lékař a kandidát ODS na Praze 3 Jiří Jungwirth stojí před soudem kvůli obžalobě z toho, že měl zpronevěřit peníze v sanatoriu, které provozoval s bývalou ženou. On sám trvá na své nevině a kauzu spojuje s bojem uvnitř firmy.",
+      "title_raw": "Chirurg podle žalobce zpronevěřil peníze. Trvá na nevině a kandiduje za ODS",
+      "lead_raw": "Lékař a kandidát ODS na Praze 3 Jiří Jungwirth stojí před soudem kvůli obžalobě z toho, že měl zpronevěřit peníze v sanatoriu, které provozoval s bývalou ženou. On sám trvá na své nevině a kauzu spojuje s bojem uvnitř firmy.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "07fcdebb06f7dd39fa5a232615111020ea9a27ce",
+      "fingerprint": "d5c87922e90a02ac30d8e64c207d5064be5b3582",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-ukrajinci-na-ruskem-vojenskem-letisti-zasahli-dva-suchoje-za-tri-miliardy-40601101",
+      "published_utc": "2026-10-06T12:43:30Z",
+      "title_en": "Ukrajinci na ruském vojenském letišti zasáhli dva suchoje za tři miliardy",
+      "lead_en": "Ukrajinská armáda v neděli zaútočila na vojenské letiště Chanská v ruské Adygejské republice. V tiskové zprávě o tom informovala Služba bezpečnosti Ukrajiny (SBU), podle níž zásah dostaly dvě stíhačky Su-35 a Su-34 v hodnotě zhruba 150 milionů dolarů, tedy zhruba 3,25 miliardy korun.",
+      "title_raw": "Ukrajinci na ruském vojenském letišti zasáhli dva suchoje za tři miliardy",
+      "lead_raw": "Ukrajinská armáda v neděli zaútočila na vojenské letiště Chanská v ruské Adygejské republice. V tiskové zprávě o tom informovala Služba bezpečnosti Ukrajiny (SBU), podle níž zásah dostaly dvě stíhačky Su-35 a Su-34 v hodnotě zhruba 150 milionů dolarů, tedy zhruba 3,25 miliardy korun.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "52c170a475a0584f3b8f8439da8364c9b247e8cc",
+      "fingerprint": "83761b3132cbc2580fc2b71e80917ebcd33c2456",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/v-rakovniku-vznikl-pluk-podpory-nasaditelnych-sil-nahradi-soucasny-prapor/2883658",
+      "published_utc": "2026-10-06T12:31:00Z",
+      "title_en": "V Rakovníku vznikl Pluk podpory nasaditelných sil, nahradí současný prapor",
+      "lead_en": "Rakovník - V Rakovníku vznikl Pluk podpory nasaditelných sil, který nahradí současný prapor. Počet vojáků vzroste na 1200 a stoupne i kapacita pro zabezpečení lidí a vozidel.",
+      "title_raw": "V Rakovníku vznikl Pluk podpory nasaditelných sil, nahradí současný prapor",
+      "lead_raw": "Rakovník - V Rakovníku vznikl Pluk podpory nasaditelných sil, který nahradí současný prapor. Počet vojáků vzroste na 1200 a stoupne i kapacita pro zabezpečení lidí a vozidel.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1d4c50c98366ffb1099286f2960b8f308c2cc03a",
+      "fingerprint": "8d1a9b4f5276521725fee9943e50f72935d03944",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-nato-pripravuje-plan-jak-odrazit-rusky-utok-pomoci-dronu-a-ai-316905",
+      "published_utc": "2026-10-06T12:27:00Z",
+      "title_en": "NATO připravuje plán, jak odrazit ruský útok pomocí dronů a AI",
+      "lead_en": "NATO představí dokument, který vysvětlí, jak by postupovalo v případě možného vpádu Ruska na území aliance. Podle dokumentu je cílem aliance svou připraveností přimět protivníka k závěru, že nemůže zvítězit.",
+      "title_raw": "NATO připravuje plán, jak odrazit ruský útok pomocí dronů a AI",
+      "lead_raw": "NATO představí dokument, který vysvětlí, jak by postupovalo v případě možného vpádu Ruska na území aliance. Podle dokumentu je cílem aliance svou připraveností přimět protivníka k závěru, že nemůže zvítězit.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "e1858ea6c28b47244ac1463d50717b8a1f387414",
+      "fingerprint": "74c1293f28141b77d9c37221911cf1da392ad6c7",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-turci-dodali-ukrajine-protidronove-systemy-40601077",
+      "published_utc": "2026-10-06T12:04:29Z",
+      "title_en": "Turci dodali Ukrajině protidronové systémy",
+      "lead_en": "Turecko dodalo počátkem roku Ukrajině protidronové systémy protivzdušné obrany Korkut (česky neochvějný). Ukrajinští představitelé podle portálu Middle East Eye uvedli, že se proti ruským útokům ukázaly jako účinné, další nákupy ale závisejí na ceně.",
+      "title_raw": "Turci dodali Ukrajině protidronové systémy",
+      "lead_raw": "Turecko dodalo počátkem roku Ukrajině protidronové systémy protivzdušné obrany Korkut (česky neochvějný). Ukrajinští představitelé podle portálu Middle East Eye uvedli, že se proti ruským útokům ukázaly jako účinné, další nákupy ale závisejí na ceně.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1bc8cc2ba4aa6d91d19b00893476b9f653c55a2e",
+      "fingerprint": "3a705141c2945675bf154a391e6a798aaf63a9d4",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-litevci-schvalili-prvni-cast-konce-zakazu-jadernych-zbrani-na-jejich-uzemi-316896",
+      "published_utc": "2026-10-06T11:31:26Z",
+      "title_en": "Litevci schválili první část konce zákazu jaderných zbraní na jejich území",
+      "lead_en": "Pro zrušení zákona hlasovalo 106 poslanců ze 130. Článek ústavy mimo jiné zakazuje zřízení cizích vojenských základen v zemi.",
+      "title_raw": "Litevci schválili první část konce zákazu jaderných zbraní na jejich území",
+      "lead_raw": "Pro zrušení zákona hlasovalo 106 poslanců ze 130. Článek ústavy mimo jiné zakazuje zřízení cizích vojenských základen v zemi.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "4d3414685961f5435afdb56ef536e9570f7d6b15",
+      "fingerprint": "ad0bc50445df830155c03725ca20b99dbc586b4a",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/uz-nejde-jen-o-skoly-francie-se-otrasa-vlada-haji-nasazeni-policejnich-granatu.A261006_121540_zahranicni_tmps/foto",
+      "published_utc": "2026-10-06T10:57:00Z",
+      "title_en": "Už nejde jen o školy. Francie se otřásá, vláda hájí nasazení policejních granátů",
+      "lead_en": "Ve Francii začal další den blokád škol a demonstrací, do nichž se v mnoha městech zapojí také odbory. V Paříži je očekáváno až 40 tisíc účastníků protestního průvodu.",
+      "title_raw": "Už nejde jen o školy. Francie se otřásá, vláda hájí nasazení policejních granátů",
+      "lead_raw": "Ve Francii začal další den blokád škol a demonstrací, do nichž se v mnoha městech zapojí také odbory. V Paříži je očekáváno až 40 tisíc účastníků protestního průvodu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ed5350aa114a0d76c2cea40b878b4ea8e0aba015",
+      "fingerprint": "03a2239835b7f884678c330448cf978a72cab8c7",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/magazin-historie-objev-na-dukle-naslo-se-623-cechoslovaku-kteri-na-82-let-zmizeli-316502",
+      "published_utc": "2026-10-06T10:40:00Z",
+      "title_en": "Objev na Dukle. Našlo se 623 Čechoslováků, kteří na 82 let zmizeli",
+      "lead_en": "Ve válečné vřavě na polské straně Dukelského průsmyku před 82 lety doslova zmizely stovky československých vojáků. Nemají tedy ani symbolický pomník, kde by se mohla zvěčnit jejich jména.",
+      "title_raw": "Objev na Dukle. Našlo se 623 Čechoslováků, kteří na 82 let zmizeli",
+      "lead_raw": "Ve válečné vřavě na polské straně Dukelského průsmyku před 82 lety doslova zmizely stovky československých vojáků. Nemají tedy ani symbolický pomník, kde by se mohla zvěčnit jejich jména.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "3258f186905e0ce7d9aacd858f4d9b8d201014b1",
+      "fingerprint": "ad53aa2dd3021b2abb47db7310629127cfd8825f",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/teorie-vitezstvi-dokument-nato-ukazuje-jak-aliance-planuje-porazit-rusko.A261006_105854_zahranicni_tbr",
+      "published_utc": "2026-10-06T10:23:00Z",
+      "title_en": "Teorie vítězství. Dokument NATO ukazuje, jak Aliance plánuje porazit Rusko",
+      "lead_en": "Je NATO připravené na přímou konfrontaci s Ruskem a jak by dopadla? Vrchní velitel Aliance v Evropě Alex Grynkewich připravuje strategii pro případ ruského útoku na východní křídlo.",
+      "title_raw": "Teorie vítězství. Dokument NATO ukazuje, jak Aliance plánuje porazit Rusko",
+      "lead_raw": "Je NATO připravené na přímou konfrontaci s Ruskem a jak by dopadla? Vrchní velitel Aliance v Evropě Alex Grynkewich připravuje strategii pro případ ruského útoku na východní křídlo.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "f8690121eac2f842a9175caf761dcc281f638ab1",
+      "fingerprint": "d787868d013ea0d9427e625910746aadb3bb17a2",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-semjon-byckov-ceska-filharmonie-sostakovic-nahravka-316889",
+      "published_utc": "2026-10-06T10:18:00Z",
+      "title_en": "Jeho matka byla z Leningradu. Byčkov s filharmoniky natočil Leningradskou",
+      "lead_en": "Česká filharmonie natočila pod taktovkou svého šéfdirigenta a hudebního ředitele Semjona Byčkova Pátou a Sedmou symfonii Dmitrije Šostakoviče.",
+      "title_raw": "Jeho matka byla z Leningradu. Byčkov s filharmoniky natočil Leningradskou",
+      "lead_raw": "Česká filharmonie natočila pod taktovkou svého šéfdirigenta a hudebního ředitele Semjona Byčkova Pátou a Sedmou symfonii Dmitrije Šostakoviče.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "a9bc8200843f0c6503099839e685623732241660",
+      "fingerprint": "2dfabe58e154212c22b347fde863f7867f443d83",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-putinovy-spinave-triky-agenti-pronikaji-na-finske-toalety-a-nesplachuji-316874",
+      "published_utc": "2026-10-06T10:08:00Z",
+      "title_en": "Putinovy špinavé triky. Agenti pronikají na finské toalety a nesplachují",
+      "lead_en": "Finsko obvinilo Rusko, že se jeho tajní operativci vloupávají do domů finských poslanců, kde na toaletě zanechají své výkaly ve snaze dotyčné zastrašit. Jde tak o další eskalaci hybridní války ze strany Ruska.",
+      "title_raw": "Putinovy špinavé triky. Agenti pronikají na finské toalety a nesplachují",
+      "lead_raw": "Finsko obvinilo Rusko, že se jeho tajní operativci vloupávají do domů finských poslanců, kde na toaletě zanechají své výkaly ve snaze dotyčné zastrašit. Jde tak o další eskalaci hybridní války ze strany Ruska.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "4f7ebeefb96ff1cbe6c7ef73937c7b132711ea60",
+      "fingerprint": "b7eb7c61b56596dd82be5acb7e7ea85a6f56c81c",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/armada-kvuli-aktivitam-organizatoru-odebrala-zastitu-konferenci-future-air-force-378285",
+      "published_utc": "2026-10-06T07:14:26Z",
+      "title_en": "Armáda kvůli aktivitám organizátorů odebrala záštitu konferenci Future Air Force",
+      "lead_en": "Armáda rozhodla o odebrání záštity velitele vzdušných sil nad konferencí Future Air Force. Náčelník generálního štábu Miroslav Hlaváč to napsal na síti X.",
+      "title_raw": "Armáda kvůli aktivitám organizátorů odebrala záštitu konferenci Future Air Force",
+      "lead_raw": "Armáda rozhodla o odebrání záštity velitele vzdušných sil nad konferencí Future Air Force. Náčelník generálního štábu Miroslav Hlaváč to napsal na síti X.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "5173b786d6996458ec01ec7e726b71939c7a83fa",
       "fingerprint": "cc12ff618204c10bc9e4e27b0a144f20bb7ec421",
@@ -1055,228 +1364,6 @@
       "lead_en": "Státní zastupitelství zastavilo trestní stíhání muže, který navzdory nesouhlasu tehdejšího prezidenta Miloše Zemana vstoupil do ukrajinské armády a bojoval proti Rusku. Kriminalisté ho vinili z nedovolené služby v cizích ozbrojených silách.",
       "title_raw": "Žalobce zastavil stíhání muže, který vstoupil do ukrajinské armády, píše iRozhlas",
       "lead_raw": "Státní zastupitelství zastavilo trestní stíhání muže, který navzdory nesouhlasu tehdejšího prezidenta Miloše Zemana vstoupil do ukrajinské armády a bojoval proti Rusku. Kriminalisté ho vinili z nedovolené služby v cizích ozbrojených silách.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "22d23064e2eb000805c2c499469c6c446fed2946",
-      "fingerprint": "80f95969c2c4bfc5010cc3bfb05ce0fba2996648",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-svet-etiopie-po-mohutnych-explozich-v-addis-abebe-prerusila-diplomaticke-vztahy-s-eritreou-40600539",
-      "published_utc": "2026-10-04T13:29:13Z",
-      "title_en": "Etiopie po mohutných explozích v Addis Abebě přerušila diplomatické vztahy s Eritreou",
-      "lead_en": "Poté, co se v noci na čtvrtek v Addis Abebě rozezněly mohutné výbuchy, přerušila Etiopie diplomatické vztahy s Eritreou. Etiopská vláda ji také obviňuje z podpory ozbrojenců, s nimiž její síly bojují na severu země.",
-      "title_raw": "Etiopie po mohutných explozích v Addis Abebě přerušila diplomatické vztahy s Eritreou",
-      "lead_raw": "Poté, co se v noci na čtvrtek v Addis Abebě rozezněly mohutné výbuchy, přerušila Etiopie diplomatické vztahy s Eritreou. Etiopská vláda ji také obviňuje z podpory ozbrojenců, s nimiž její síly bojují na severu země.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "5172fb9d5e163264aac825183d88fb5c913d61cd",
-      "fingerprint": "4177479a7092e42fa5a6ed0e2c03b37b5d162e29",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/tak-uz-si-sakra-rozdelte-ten-krym-vzlykala-ruska-pohrbila-dva-muze-a-bere-si-tretiho.A261004_133218_zahranicni_ikul",
-      "published_utc": "2026-10-04T13:14:00Z",
-      "title_en": "Tak už si sakra rozdělte ten Krym, vzlykala Ruska. Pohřbila dva muže a bere si třetího",
-      "lead_en": "Jednadvacetiletá žena z Ruska vyjádřila ve videu, které získalo pozornost na sociálních sítích, svou frustraci z trvání ozbrojeného rusko-ukrajinského konfliktu. „Tak už si sakra rozdělte ten Krym mezi vás dva,“ zaznělo v záznamu, kde vyjádřila mimo jiné obavu o ztrátu dalších blízkých.",
-      "title_raw": "Tak už si sakra rozdělte ten Krym, vzlykala Ruska. Pohřbila dva muže a bere si třetího",
-      "lead_raw": "Jednadvacetiletá žena z Ruska vyjádřila ve videu, které získalo pozornost na sociálních sítích, svou frustraci z trvání ozbrojeného rusko-ukrajinského konfliktu. „Tak už si sakra rozdělte ten Krym mezi vás dva,“ zaznělo v záznamu, kde vyjádřila mimo jiné obavu o ztrátu dalších blízkých.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d83b816a234235d27df440f33429def801e055b3",
-      "fingerprint": "fa68bceed003c630cd5c38a464300f35e3d79aa0",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/hrozba-vyjimecneho-stavu-trump-pred-volbami-odmita-vyloucit-nasazeni-armady.A261004_135315_zahranicni_remy",
-      "published_utc": "2026-10-04T12:13:00Z",
-      "title_en": "Hrozba výjimečného stavu. Trump před volbami odmítá vyloučit nasazení armády",
-      "lead_en": "Americký prezident Donald Trump znepokojil tamější politickou scénu, když odmítl vyloučit vyhlášení výjimečného stavu a nasazení armády před klíčovými listopadovými volbami do Kongresu.",
-      "title_raw": "Hrozba výjimečného stavu. Trump před volbami odmítá vyloučit nasazení armády",
-      "lead_raw": "Americký prezident Donald Trump znepokojil tamější politickou scénu, když odmítl vyloučit vyhlášení výjimečného stavu a nasazení armády před klíčovými listopadovými volbami do Kongresu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "eb33165f013f7bdd01e5555dce6acee1b8ec6ae2",
-      "fingerprint": "30cc1f4159949fca5c271f5fcd2582716d3c9331",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/lifestyle-osobnosti-helena-trestikova-zajimavy-je-kazdy-lidsky-zivot-i-vsedni-kazdodennost-ma-sve-kouzlo-40599274",
-      "published_utc": "2026-10-04T10:22:00Z",
-      "title_en": "Helena Třeštíková: Zajímavý je každý lidský život. I všední každodennost má své kouzlo",
-      "lead_en": "Do kin zamířil časosběrný dokument Bára Basiková pojmenovaný po zpěvačce, jejíž život mapuje. Natočila ho Helena Třeštíková, která se s většinou svých filmových „hrdinů“ přátelí.",
-      "title_raw": "Helena Třeštíková: Zajímavý je každý lidský život. I všední každodennost má své kouzlo",
-      "lead_raw": "Do kin zamířil časosběrný dokument Bára Basiková pojmenovaný po zpěvačce, jejíž život mapuje. Natočila ho Helena Třeštíková, která se s většinou svých filmových „hrdinů“ přátelí.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "26bacc136b4892e4747592f5e835d148d343949a",
-      "fingerprint": "81ec4ada8580ee568c323f2c2f8de40c3553e284",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-epidemie-velkych-loupezi-v-muzeich-zlodeji-jsou-stale-nasilnejsi-a-rychlejsi-315812",
-      "published_utc": "2026-10-04T10:00:00Z",
-      "title_en": "Epidemie velkých loupeží v muzeích. Zloději jsou stále násilnější a rychlejší",
-      "lead_en": "Zloději umění jsou čím dál troufalejší, tvrdí Europol. „Představa, že potichu ukradnou obraz a zase zmizí, je čím dál méně pravdivá,“ potvrzuje pro SZ muzejní bezpečnostní expert Ibrahim Bulut.",
-      "title_raw": "Epidemie velkých loupeží v muzeích. Zloději jsou stále násilnější a rychlejší",
-      "lead_raw": "Zloději umění jsou čím dál troufalejší, tvrdí Europol. „Představa, že potichu ukradnou obraz a zase zmizí, je čím dál méně pravdivá,“ potvrzuje pro SZ muzejní bezpečnostní expert Ibrahim Bulut.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "f5ab5e0da2e6ccf092c0f09ab6ec86c4cbc40188",
-      "fingerprint": "b750114e3428cf79ebcee506b5f838621df5c8bc",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/auto-porsche-nabizi-originalni-vestavbu-novych-infotainmentu-do-starsich-modelu-40600247",
-      "published_utc": "2026-10-04T09:50:00Z",
-      "title_en": "Porsche nabízí originální vestavbu nových infotainmentů do starších modelů",
-      "lead_en": "Porsche dává majitelům svých starších modelů pádný důvod, proč se nezbavovat jinak skvělých vozů jen kvůli zastaralému systému infotainmentu. Automobilka ze Zuffenhausenu uvádí na trh novou generaci systému Porsche Classic Communication Management Plus (PCCM Plus), která přináší moderní funkce infotainmentu do více než 300 000 vozů z modelových let 2009 až 2016.",
-      "title_raw": "Porsche nabízí originální vestavbu nových infotainmentů do starších modelů",
-      "lead_raw": "Porsche dává majitelům svých starších modelů pádný důvod, proč se nezbavovat jinak skvělých vozů jen kvůli zastaralému systému infotainmentu. Automobilka ze Zuffenhausenu uvádí na trh novou generaci systému Porsche Classic Communication Management Plus (PCCM Plus), která přináší moderní funkce infotainmentu do více než 300 000 vozů z modelových let 2009 až 2016.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "aaceff9a573fb4e37b3adbfed225f78695cbf460",
-      "fingerprint": "8f72084f351ac42cf985a7d66431c4ab1e6c746a",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/ruska-armada-opet-zautocila-na-severni-most-v-kyjeve-oznamil-starosta-klicko-stalo-se-tak-v-dobe-kdy.A261004_111500_zahranicni_ikul",
-      "published_utc": "2026-10-04T09:43:00Z",
-      "title_en": "Další palba na Kyjev. Rusové zaútočili na Severní most během návštěvy Merze",
-      "lead_en": "Ruská armáda v neděli opět zaútočila na Severní most v Kyjevě, oznámil starosta Kličko. Stalo se tak v době, kdy je na neohlášené návštěvě města německý kancléř Friedrich Merz.",
-      "title_raw": "Další palba na Kyjev. Rusové zaútočili na Severní most během návštěvy Merze",
-      "lead_raw": "Ruská armáda v neděli opět zaútočila na Severní most v Kyjevě, oznámil starosta Kličko. Stalo se tak v době, kdy je na neohlášené návštěvě města německý kancléř Friedrich Merz.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d8b139e910f2de03397665ff992296e43183e199",
-      "fingerprint": "cbb99b3d6596be737555c6a57b8c87470981a132",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/francouzske-urady-vysetruji-utok-na-policistu-pri-protestech-jako-pokus-o-vrazdu-378222",
-      "published_utc": "2026-10-04T08:48:42Z",
-      "title_en": "Francouzské úřady vyšetřují útok na policistu při protestech jako pokus o vraždu",
-      "lead_en": "Francouzská policie zatkla dva lidi v souvislosti s pátečním napadením policisty během střetů mezi demonstranty a bezpečnostními složkami v Belfortu při středoškolských protestech, píše agentura AFP s odvoláním na prokuraturu. Úřady incident vyšetřují jako pokus o vraždu.",
-      "title_raw": "Francouzské úřady vyšetřují útok na policistu při protestech jako pokus o vraždu",
-      "lead_raw": "Francouzská policie zatkla dva lidi v souvislosti s pátečním napadením policisty během střetů mezi demonstranty a bezpečnostními složkami v Belfortu při středoškolských protestech, píše agentura AFP s odvoláním na prokuraturu. Úřady incident vyšetřují jako pokus o vraždu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "e1c102f19718963e336968eb555b1b265c168a79",
-      "fingerprint": "d1cdbe79e4fa0f334738def79a1e869350d5bc65",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-rusko-v-noci-vysilalo-drony-na-kyjev-z-izjumu-hlasi-utoky-raketometu-316741",
-      "published_utc": "2026-10-04T08:01:22Z",
-      "title_en": "Rusko v noci vysílalo drony na Kyjev, z Izjumu hlásí útoky raketometů",
-      "lead_en": "Moskva v sobotu vyzvala diplomaty a cizince, aby opustili ukrajinskou metropoli. Ukrajina i Rusko se připravují na zintenzivnění útoků.",
-      "title_raw": "Rusko v noci vysílalo drony na Kyjev, z Izjumu hlásí útoky raketometů",
-      "lead_raw": "Moskva v sobotu vyzvala diplomaty a cizince, aby opustili ukrajinskou metropoli. Ukrajina i Rusko se připravují na zintenzivnění útoků.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "4713a9993a9ee75772102fd4bc669cf31c57b397",
-      "fingerprint": "8476fea6ddd3f48b3bf1b2ba6b1b830508c44168",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/veda/hitler-nemel-nikdy-sanci-vyrobit-atomovou-bombu-tvrdi-archeologove-378176",
-      "published_utc": "2026-10-04T08:00:00Z",
-      "title_en": "Hitler neměl nikdy šanci vyrobit atomovou bombu, tvrdí archeologové",
-      "lead_en": "Nová studie se pokusila rekonstruovat nacistické snahy o získání atomové zbraně. Podle vědců Německu chyběly dva klíčové zdroje, bez nichž se obávaná puma nedala vytvořit.",
-      "title_raw": "Hitler neměl nikdy šanci vyrobit atomovou bombu, tvrdí archeologové",
-      "lead_raw": "Nová studie se pokusila rekonstruovat nacistické snahy o získání atomové zbraně. Podle vědců Německu chyběly dva klíčové zdroje, bez nichž se obávaná puma nedala vytvořit.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
