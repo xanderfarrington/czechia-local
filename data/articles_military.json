@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-06T19:09:42Z",
+  "updated_at_utc": "2026-10-06T23:23:31Z",
   "topic": "military",
-  "count": 66,
+  "count": 65,
   "articles": [
+    {
+      "id": "061decff768e95a085112c2b3cc963c88d4b2806",
+      "fingerprint": "9d02a528837133ac0c405420638d4b92f0152f3a",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/kopecek-neucast-ve-volbach-jako-munice-pro-kritiky-muze-jit-o-prvni-prezidentovu_2610062319_lar",
+      "published_utc": "2026-10-06T21:19:00Z",
+      "title_en": "Kopeček: Neúčast ve volbách jako munice pro kritiky? Může jít o první prezidentovu chybu v úřadu",
+      "lead_en": "„Když se díváte na jeho výkon funkce z hlediska reprezentace státu a reprezentace před veřejností, v tomto směru podle mě neudělal zatím žádnou větší chybu. Jeví se mi, že z tohoto a z toho, že se mu to bude vracet jako bumerang, se velká chyba může vyrobit,“ říká politolog z Fakulty sociálních studií Masarykovy univerzity Lubomír Kopeček.",
+      "title_raw": "Kopeček: Neúčast ve volbách jako munice pro kritiky? Může jít o první prezidentovu chybu v úřadu",
+      "lead_raw": "„Když se díváte na jeho výkon funkce z hlediska reprezentace státu a reprezentace před veřejností, v tomto směru podle mě neudělal zatím žádnou větší chybu. Jeví se mi, že z tohoto a z toho, že se mu to bude vracet jako bumerang, se velká chyba může vyrobit,“ říká politolog z Fakulty sociálních studií Masarykovy univerzity Lubomír Kopeček.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "0820cd1253b16bc720c773ccad7dedb2fd857a83",
       "fingerprint": "8bb11e8cb80934d26b43b347bf761a65c3d1c91c",
@@ -1411,51 +1433,6 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "4b48b2b6af4bce8512d7add019490494cecb2092",
-      "fingerprint": "149dbea9e63465ebd68ef25fb7ecf540cff3c94f",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/volby/spd-okamura-rozhovor-stihacky-volby-jaderne-zbrane.A261004_194121_domaci_votr",
-      "published_utc": "2026-10-04T22:00:00Z",
-      "title_en": "Ukazujeme, že jsme kompetentní vládnout. Okamura o koalici, rozpočtu i volbách",
-      "lead_en": "Tomio Okamura, předseda Sněmovny a SPD, stále zpochybňuje nákup stíhaček F-35. Tyto americké stroje totiž mohou nést jaderné zbraně, a ty voliči SPD podle Okamury v Česku nechtějí.",
-      "title_raw": "Ukazujeme, že jsme kompetentní vládnout. Okamura o koalici, rozpočtu i volbách",
-      "lead_raw": "Tomio Okamura, předseda Sněmovny a SPD, stále zpochybňuje nákup stíhaček F-35. Tyto americké stroje totiž mohou nést jaderné zbraně, a ty voliči SPD podle Okamury v Česku nechtějí.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d170553418fadca6c21c8e01e7b3d81c3aca90d0",
-      "fingerprint": "527611b3f8bfd049df5134974702f53d02873ecf",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/usa-nasa-vesmir-laborator-vyzkum.A261002_131014_zahranicni_rtn",
-      "published_utc": "2026-10-04T22:00:00Z",
-      "title_en": "Zbraně, laserové pasti a kvantové radary. Válka o vesmír nutí NASA měnit pravidla",
-      "lead_en": "Nedávné oznámení Spojených států, že na oběžné dráze mají zbraně, experty nepřekvapilo. Vesmír se stal militarizovanou zónou plnou špionážních manévrů a rušiček.",
-      "title_raw": "Zbraně, laserové pasti a kvantové radary. Válka o vesmír nutí NASA měnit pravidla",
-      "lead_raw": "Nedávné oznámení Spojených států, že na oběžné dráze mají zbraně, experty nepřekvapilo. Vesmír se stal militarizovanou zónou plnou špionážních manévrů a rušiček.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
         "energy": 0,
         "economy": 0,
         "local_events": 0
