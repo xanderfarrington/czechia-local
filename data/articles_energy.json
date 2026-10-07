@@ -1,10 +1,77 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-07T17:03:10Z",
+  "updated_at_utc": "2026-10-07T22:20:39Z",
   "topic": "energy",
-  "count": 52,
+  "count": 51,
   "articles": [
+    {
+      "id": "3dcfcabc28493501a9fcb91b3ed5fd1dc8fb8fef",
+      "fingerprint": "fd92e6e6dd0ebebbcdfb7e344f8da0db814c1710",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/podniky/csg-akcie-valka-vyvoj-cena-blizky-vychod-zbrojeni-firmy.A261007_131936_ekoakcie_jla",
+      "published_utc": "2026-10-07T22:00:00Z",
+      "title_en": "Od maxima ztratily už 60 procent. Co se děje s akciemi CSG",
+      "lead_en": "Akcie zbrojařské společnosti CSG jsou od lednového vstupu na burzu jako na horské dráze. Po prvotním prudkém růstu přišel výrazný propad, přes léto pak akcie část ztrát smazaly.",
+      "title_raw": "Od maxima ztratily už 60 procent. Co se děje s akciemi CSG",
+      "lead_raw": "Akcie zbrojařské společnosti CSG jsou od lednového vstupu na burzu jako na horské dráze. Po prvotním prudkém růstu přišel výrazný propad, přes léto pak akcie část ztrát smazaly.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "234a677f24bae8bcd45e8b24f96117a89a9c86fb",
+      "fingerprint": "fe6f6447f5decbd6e38f7d58786134531d07e16d",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/7-rijna-teroristicky-utok-izrael-hamas-pieni-akce-evropa.A261007_182219_zahranicni_meli",
+      "published_utc": "2026-10-07T17:23:00Z",
+      "title_en": "Na jejich jména nezapomínáme. Evropa uctila oběti Hamásu, objevily se i střety",
+      "lead_en": "Německý kancléř Friedrich Merz, francouzský prezident Emmanuel Macron, britský premiér Andy Burnham či šéfka Evropské komise Ursula von der Leyenová ve středu u příležitosti třetího výročí teroristického útoku palestinského hnutí Hamás na Izrael slíbili bojovat proti antisemitismu a zasadit se o mírové soužití Izraelců a Palestinců. V řadě evropských měst se pak konaly vzpomínkové akce, například v Berlíně a Londýně.",
+      "title_raw": "Na jejich jména nezapomínáme. Evropa uctila oběti Hamásu, objevily se i střety",
+      "lead_raw": "Německý kancléř Friedrich Merz, francouzský prezident Emmanuel Macron, britský premiér Andy Burnham či šéfka Evropské komise Ursula von der Leyenová ve středu u příležitosti třetího výročí teroristického útoku palestinského hnutí Hamás na Izrael slíbili bojovat proti antisemitismu a zasadit se o mírové soužití Izraelců a Palestinců. V řadě evropských měst se pak konaly vzpomínkové akce, například v Berlíně a Londýně.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "2b3eb76eb7950276df1dc677aece562c705c544f",
+      "fingerprint": "9500d78656ee9b03d4a634d3198e47c7387e135d",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/evropa-si-pripomnela-obeti-teroristu-z-hamasu-lide-se-sesli-i-v-praze-378346",
+      "published_utc": "2026-10-07T17:21:43Z",
+      "title_en": "Evropa si připomněla oběti teroristů z Hamásu. Lidé se sešli i v Praze",
+      "lead_en": "Německý kancléř Friedrich Merz, francouzský prezident Emmanuel Macron, britský premiér Andy Burnham či šéfka Evropské komise Ursula von der Leyenová ve středu u příležitosti třetího výročí teroristického útoku palestinského hnutí Hamás na Izrael slíbili bojovat proti antisemitismu a zasadit se o mírové soužití Izraelců a Palestinců. V řadě evropských měst se pak konaly vzpomínkové akce, například v Berlíně a Londýně.",
+      "title_raw": "Evropa si připomněla oběti teroristů z Hamásu. Lidé se sešli i v Praze",
+      "lead_raw": "Německý kancléř Friedrich Merz, francouzský prezident Emmanuel Macron, britský premiér Andy Burnham či šéfka Evropské komise Ursula von der Leyenová ve středu u příležitosti třetího výročí teroristického útoku palestinského hnutí Hamás na Izrael slíbili bojovat proti antisemitismu a zasadit se o mírové soužití Izraelců a Palestinců. V řadě evropských měst se pak konaly vzpomínkové akce, například v Berlíně a Londýně.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "6f562c26e191a1b10a93df69856ad78075a214d7",
       "fingerprint": "695183b095833a9e2526c26395c93fc95803bafb",
@@ -1068,94 +1135,6 @@
         "military": 0,
         "energy": 1,
         "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "72c9d462c80e10ee267e67b8a23a78c1a6ff3a0f",
-      "fingerprint": "80d51459796fad5a5b42045def42f5e520e10845",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/prilohy/stan-se-odbornikem-budoucnosti-sose-hluboka-otevira-dvere-novym-zakum.A260929_100417_hobby-sdeleni_hradr",
-      "published_utc": "2026-10-05T22:00:00Z",
-      "title_en": "Staň se odborníkem budoucnosti. SOŠE Hluboká otevírá dveře novým žákům",
-      "lead_en": "Robotika, energetika, informatika, moderní technologie a reálná spolupráce s významnými firmami. To vše nabízí Střední odborná škola elektrotechnická, Centrum odborné přípravy Hluboká nad Vltavou.",
-      "title_raw": "Staň se odborníkem budoucnosti. SOŠE Hluboká otevírá dveře novým žákům",
-      "lead_raw": "Robotika, energetika, informatika, moderní technologie a reálná spolupráce s významnými firmami. To vše nabízí Střední odborná škola elektrotechnická, Centrum odborné přípravy Hluboká nad Vltavou.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "920a73300f132e38c9b4e991ac7552be17acd218",
-      "fingerprint": "a9c0a8e49f6867ebd18f86d9c5b73f1c2e12da89",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/vetrniky-bez-prevodovky-v-magdeburgu-vznikaji-obri-generatory-i-pro-cesko.A261005_141705_eko-zahranicni_ven",
-      "published_utc": "2026-10-05T22:00:00Z",
-      "title_en": "Větrníky bez převodovky. V Magdeburgu vznikají obří generátory i pro Česko",
-      "lead_en": "Vítr je nejdůležitějším a největším zdrojem elektřiny v celém Německu. Společnost Enercon produkuje v hlavním městě Saska-Anhaltska výkonné generátory bez převodovek, které pohánějí také větrné turbíny této značky instalované v Česku.",
-      "title_raw": "Větrníky bez převodovky. V Magdeburgu vznikají obří generátory i pro Česko",
-      "lead_raw": "Vítr je nejdůležitějším a největším zdrojem elektřiny v celém Německu. Společnost Enercon produkuje v hlavním městě Saska-Anhaltska výkonné generátory bez převodovek, které pohánějí také větrné turbíny této značky instalované v Česku.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "25e57d633ebe2c5e9cc4a34fc7220d6b7f6b48e9",
-      "fingerprint": "8701e6ab2c07e4ecb95f872b8ce86059cad73831",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/trump-zdrazovani-benzin-ukrajinske-utoky-ruske-rafinerie-demokrate-valka-iran.A261005_193359_eko-zahranicni_fohl",
-      "published_utc": "2026-10-05T18:00:00Z",
-      "title_en": "Trump: Ceny benzinu nežene nahoru válka s Íránem, ale ukrajinské údery na rafinerie",
-      "lead_en": "Americký prezident Donald Trump připsal zdražování benzinu ukrajinským útokům na ruské ropné rafinerie. V příspěvku na sociální síti Truth Social zároveň v pondělí napsal, že za růst cen už není odpovědná mezi Američany nepopulární válka s Íránem.",
-      "title_raw": "Trump: Ceny benzinu nežene nahoru válka s Íránem, ale ukrajinské údery na rafinerie",
-      "lead_raw": "Americký prezident Donald Trump připsal zdražování benzinu ukrajinským útokům na ruské ropné rafinerie. V příspěvku na sociální síti Truth Social zároveň v pondělí napsal, že za růst cen už není odpovědná mezi Američany nepopulární válka s Íránem.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "fbd48516b60c4bb3cb7b66cc8b47ecd57a1aed16",
-      "fingerprint": "dd0c3691822c560306021d26af4d99d06652bb67",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-valka-zima-utok-jaderna-elektrarna-kolaps.A261005_105934_zahranicni_dtt",
-      "published_utc": "2026-10-05T18:00:00Z",
-      "title_en": "Krutost je cíl. Rusko má na mušce jaderné elektrárny, v zimě chce zdeptat tři města",
-      "lead_en": "Rusko chystá dosud nejničivější údery na Ukrajinu. Chce zasáhnout infrastrukturu spojenou s jadernými elektrárnami a pokusit se zcela paralyzovat ukrajinskou energetickou síť.",
-      "title_raw": "Krutost je cíl. Rusko má na mušce jaderné elektrárny, v zimě chce zdeptat tři města",
-      "lead_raw": "Rusko chystá dosud nejničivější údery na Ukrajinu. Chce zasáhnout infrastrukturu spojenou s jadernými elektrárnami a pokusit se zcela paralyzovat ukrajinskou energetickou síť.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
         "local_events": 0
       },
       "topics": [

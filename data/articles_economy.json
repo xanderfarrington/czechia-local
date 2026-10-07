@@ -1,10 +1,76 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-07T17:03:10Z",
+  "updated_at_utc": "2026-10-07T22:20:39Z",
   "topic": "economy",
-  "count": 34,
+  "count": 32,
   "articles": [
+    {
+      "id": "1c428771e23c9c168bfb6bd8bd5b4c1502941efe",
+      "fingerprint": "8ff7799c404c0c3175681fd02792daa05e546e25",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/urad-prace-zverejni-zarijovou-nezamestnanost-analytici-cekaji-mirny-rust/2884375",
+      "published_utc": "2026-10-07T22:03:00Z",
+      "title_en": "Úřad práce zveřejní zářijovou nezaměstnanost, analytici čekají mírný růst",
+      "lead_en": "Praha - Úřad práce ČR dnes zveřejní údaje o vývoji nezaměstnanosti v září. Analytici předpokládají, že se podíl nezaměstnaných zvýšil na 5,1 procenta ze srpnových pěti procent.",
+      "title_raw": "Úřad práce zveřejní zářijovou nezaměstnanost, analytici čekají mírný růst",
+      "lead_raw": "Praha - Úřad práce ČR dnes zveřejní údaje o vývoji nezaměstnanosti v září. Analytici předpokládají, že se podíl nezaměstnaných zvýšil na 5,1 procenta ze srpnových pěti procent.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "bc1917d1cd27ed0ff93916d776ae50446687c0e1",
+      "fingerprint": "b2ece5b50842acc32511c108bb56694ef26dc8eb",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/volby/volby-2026-dane-zvysovat-nebudeme-koalice-chci-ve-mestech-jako-ve-vlade-rika-babis.A261007_190830_domaci_jira",
+      "published_utc": "2026-10-07T22:00:00Z",
+      "title_en": "Daně nechceme zvyšovat plošně. Babiš o rozpočtu, úsporách i povolebních koalicích",
+      "lead_en": "Premiér a předseda hnutí ANO Andrej Babiš řekl, že vláda nechce plošně zvyšovat daně. Jako způsob, jak snížit schodek státního rozpočtu, uvedl omezování šedé ekonomiky či hledání nových příjmů tam, kde je to odůvodněné.",
+      "title_raw": "Daně nechceme zvyšovat plošně. Babiš o rozpočtu, úsporách i povolebních koalicích",
+      "lead_raw": "Premiér a předseda hnutí ANO Andrej Babiš řekl, že vláda nechce plošně zvyšovat daně. Jako způsob, jak snížit schodek státního rozpočtu, uvedl omezování šedé ekonomiky či hledání nových příjmů tam, kde je to odůvodněné.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "a48e77c1d9563982917b643182431195999b9a9f",
+      "fingerprint": "3d7449dc1dd5c9a1482a753640df3aa872409ffc",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/alena-schillerova-ano-navrh-zvyseni-dan-hypoteka-50-tisic-korun.A261007_204308_domaci_mikp",
+      "published_utc": "2026-10-07T19:03:00Z",
+      "title_en": "Schillerová navrhne zvýšení daňového odpočtu na hypotéky pro mladé o 50 tisíc",
+      "lead_en": "Ministryně financí Alena Schillerová (ANO) navrhne zvýšení daňového odpočtu na hypotéky až o 50 tisíc korun. Týkat by se mělo lidí do 36 let, kteří už hypotéku mají nebo o ní uvažují.",
+      "title_raw": "Schillerová navrhne zvýšení daňového odpočtu na hypotéky pro mladé o 50 tisíc",
+      "lead_raw": "Ministryně financí Alena Schillerová (ANO) navrhne zvýšení daňového odpočtu na hypotéky až o 50 tisíc korun. Týkat by se mělo lidí do 36 let, kteří už hypotéku mají nebo o ní uvažují.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "3d1bd114bcd7e0ab7f30af9ad7513e75365ca43e",
       "fingerprint": "170d9450d494c12bb5a13f2bcd8746423865bf9f",
@@ -644,116 +710,6 @@
         "military": 0,
         "energy": 0,
         "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "c0c87aca1fe4674b0e40c43b3f32fe353086b7bb",
-      "fingerprint": "dc40573e2b33bb3e82ec69392aacdcaa76b97dc3",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/svaz-dovozcu-zverejni-statistiky-prodanych-novych-aut-za-tri-ctvrtleti/2883403",
-      "published_utc": "2026-10-05T22:03:00Z",
-      "title_en": "Svaz dovozců zveřejní statistiky prodaných nových aut za tři čtvrtletí",
-      "lead_en": "Praha - Svaz dovozců automobilů dnes zveřejní statistiku prodeje nových vozů na českém trhu za třetí čtvrtletí. Od začátku roku do konce srpna prodej nových aut vzrostl o 4,1 procenta na 167.675 vozů....",
-      "title_raw": "Svaz dovozců zveřejní statistiky prodaných nových aut za tři čtvrtletí",
-      "lead_raw": "Praha - Svaz dovozců automobilů dnes zveřejní statistiku prodeje nových vozů na českém trhu za třetí čtvrtletí. Od začátku roku do konce srpna prodej nových aut vzrostl o 4,1 procenta na 167.675 vozů....",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "a26aca583305cf86f4904090625d02462eb1709d",
-      "fingerprint": "8a7421620cf4eece6afa1666cee49b8259eb1d1d",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-dlouhodoba-nezamestnanost-roste-ohrozeni-jsou-mladi-s-nizsim-vzdelanim-40598961",
-      "published_utc": "2026-10-05T18:54:00Z",
-      "title_en": "Dlouhodobá nezaměstnanost roste. Ohroženi jsou mladí s nižším vzděláním",
-      "lead_en": "Práci déle než rok marně hledá v Česku téměř 130 tisíc lidí, meziročně o sedmnáct procent víc. Zatímco celková nezaměstnanost poslední dva měsíce stagnuje, dlouhodobá dál setrvale přibývá.",
-      "title_raw": "Dlouhodobá nezaměstnanost roste. Ohroženi jsou mladí s nižším vzděláním",
-      "lead_raw": "Práci déle než rok marně hledá v Česku téměř 130 tisíc lidí, meziročně o sedmnáct procent víc. Zatímco celková nezaměstnanost poslední dva měsíce stagnuje, dlouhodobá dál setrvale přibývá.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "6622a91fa1cc4c9d119668bba040b47b284d1095",
-      "fingerprint": "f144d45c9674f6d05a754f1aaf8f94242a218081",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/pouziva-nase-brandove-prostredky-bez-svoleni-penny-market-kritizuje-letaky-lidlu_2610052045_dci",
-      "published_utc": "2026-10-05T18:45:00Z",
-      "title_en": "‚Používá naše brandové prostředky bez svolení.‘ Penny Market kritizuje letáky Lidlu se srovnáním cen",
-      "lead_en": "Možná i ve vaší poštovní schránce jste našli obchodní leták, kde jsou u jedné věci dvě různé ceny, od dvou různých obchodních řetězců. Tuto marketingovou strategii už nějakou dobu používá obchodní řetězec Lidl.",
-      "title_raw": "‚Používá naše brandové prostředky bez svolení.‘ Penny Market kritizuje letáky Lidlu se srovnáním cen",
-      "lead_raw": "Možná i ve vaší poštovní schránce jste našli obchodní leták, kde jsou u jedné věci dvě různé ceny, od dvou různých obchodních řetězců. Tuto marketingovou strategii už nějakou dobu používá obchodní řetězec Lidl.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "ced0cfbf1904c3f16a5066bcc6557e1d1bba9cfe",
-      "fingerprint": "37bcafeff38f662ec2d74464c754121c2f651527",
-      "source": "iROZHLAS - Economy",
-      "url": "https://www.irozhlas.cz/zpravy-domov/pouziva-nase-brandove-prostredky-bez-svoleni-penny-market-kritizuje-letaky-lidlu_2610052045_dci",
-      "published_utc": "2026-10-05T18:45:00Z",
-      "title_en": "‚Používá naše brandové prostředky bez svolení.‘ Penny Market kritizuje letáky Lidlu se srovnáním cen",
-      "lead_en": "Možná i ve vaší poštovní schránce jste našli obchodní leták, kde jsou u jedné věci dvě různé ceny od dvou různých obchodních řetězců. Tuto marketingovou strategii už nějakou dobu používá obchodní řetězec Lidl.",
-      "title_raw": "‚Používá naše brandové prostředky bez svolení.‘ Penny Market kritizuje letáky Lidlu se srovnáním cen",
-      "lead_raw": "Možná i ve vaší poštovní schránce jste našli obchodní leták, kde jsou u jedné věci dvě různé ceny od dvou různých obchodních řetězců. Tuto marketingovou strategii už nějakou dobu používá obchodní řetězec Lidl.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "35f09e3f2d68912d44e93c49f371e64514de0561",
-      "fingerprint": "6e421b020c88c99f88b2297fd4110236a43d5bc4",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/podniky/jak-chutna-steak-z-3d-tiskarny-regaly-v-usa-dobyva-dalsi-vyrobce-rostlinneho-masa.A261005_122636_ekoakcie_jadv",
-      "published_utc": "2026-10-05T18:00:00Z",
-      "title_en": "Jak chutná steak z 3D tiskárny. Regály v USA dobývá další výrobce rostlinného masa",
-      "lead_en": "Izraelská společnost Steakholder Foods, světový lídr v oblasti technologie 3D tisku pro výrobu rostlinného masa, nedávno uvedla do maloobchodních prodejen v severovýchodní části Spojených států své prémiové rostlinné maso. Průkopníci v tomto odvětví odvětví, jako je například společnost Beyond Meat, však na tomto trhu čelí dlouhodobým finančním potížím.",
-      "title_raw": "Jak chutná steak z 3D tiskárny. Regály v USA dobývá další výrobce rostlinného masa",
-      "lead_raw": "Izraelská společnost Steakholder Foods, světový lídr v oblasti technologie 3D tisku pro výrobu rostlinného masa, nedávno uvedla do maloobchodních prodejen v severovýchodní části Spojených států své prémiové rostlinné maso. Průkopníci v tomto odvětví odvětví, jako je například společnost Beyond Meat, však na tomto trhu čelí dlouhodobým finančním potížím.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
         "local_events": 0
       },
       "topics": [
