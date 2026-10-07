@@ -1,10 +1,168 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-07T02:55:53Z",
+  "updated_at_utc": "2026-10-07T09:29:39Z",
   "topic": "economy",
-  "count": 27,
+  "count": 29,
   "articles": [
+    {
+      "id": "3e6595e7b820375fc901fa3c43bdfa614ec3bed3",
+      "fingerprint": "1e76ea09cbf056b81bebea910d16ee79c9964f1f",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/jednatele-pacovske-firmy-pripravili-stat-o-vic-nez-95-milionu-odhaduje-policie_2610071020_jkd",
+      "published_utc": "2026-10-07T08:20:00Z",
+      "title_en": "Jednatelé pacovské firmy připravili stát o víc než 95 milionů, odhaduje policie. Hrozí jim 5 až 10 let vězení",
+      "lead_en": "Krajští kriminalisté ukončili vyšetřování podvodu s energiemi v Pacově na Pelhřimovsku. Škodu, která vznikla ministerstvu průmyslu a obchodu na vyplácených příspěvcích za výrobu z obnovitelných zdrojů, odhadla na více než 95 milionů korun.",
+      "title_raw": "Jednatelé pacovské firmy připravili stát o víc než 95 milionů, odhaduje policie. Hrozí jim 5 až 10 let vězení",
+      "lead_raw": "Krajští kriminalisté ukončili vyšetřování podvodu s energiemi v Pacově na Pelhřimovsku. Škodu, která vznikla ministerstvu průmyslu a obchodu na vyplácených příspěvcích za výrobu z obnovitelných zdrojů, odhadla na více než 95 milionů korun.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 4,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "d92cab729a7e4ed0f4e2dd0a0f8c7d79afc36a97",
+      "fingerprint": "b20f375bd452155f8d18527c4b9714281fc0bc4d",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/rusko-vising-cina-zbrojni-zakazky-uzbekistan-rozstrel.A261006_122704_zahranicni_vov",
+      "published_utc": "2026-10-07T08:00:00Z",
+      "title_en": "Visingr: Čína vyfoukla Rusku další zbrojní kšefty, Moskva technologicky upadá",
+      "lead_en": "Čína přebírá tradiční zákazníky ruského zbrojního průmyslu a proniká i do bývalých sovětských republik. Moskvu oslabují omezené výrobní kapacity i selhání některých zbraní na Ukrajině, řekl publicista a vojenský analytik Lukáš Visingr v Rozstřelu na iDNES.cz.",
+      "title_raw": "Visingr: Čína vyfoukla Rusku další zbrojní kšefty, Moskva technologicky upadá",
+      "lead_raw": "Čína přebírá tradiční zákazníky ruského zbrojního průmyslu a proniká i do bývalých sovětských republik. Moskvu oslabují omezené výrobní kapacity i selhání některých zbraní na Ukrajině, řekl publicista a vojenský analytik Lukáš Visingr v Rozstřelu na iDNES.cz.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "35936f5cfd93c01f3e16fd05b2aef37da2f0122d",
+      "fingerprint": "875b7bfca35de0041b6f422c5e743d0e9b76facc",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/ods-chce-mobilizovat-300-miliard-korun-obcanu-pro-fond-narod-sobe.A261007_091515_domaci_kop",
+      "published_utc": "2026-10-07T07:53:00Z",
+      "title_en": "ODS chce dostat 300 miliard korun občanů na trh. Plánuje fond Národ sobě",
+      "lead_en": "ODS představila plán, který by měl na trh dostat zhruba 300 miliard korun, které lidé nyní mají na spořicích účtech a v konzervativních produktech s nízkým očekávaným výnosem. Měl by vzniknout fond s pracovním názvem Národ sobě.",
+      "title_raw": "ODS chce dostat 300 miliard korun občanů na trh. Plánuje fond Národ sobě",
+      "lead_raw": "ODS představila plán, který by měl na trh dostat zhruba 300 miliard korun, které lidé nyní mají na spořicích účtech a v konzervativních produktech s nízkým očekávaným výnosem. Měl by vzniknout fond s pracovním názvem Národ sobě.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "2cfbd641e7447d70fdc5d7dccb2a935f60418d56",
+      "fingerprint": "570d09cea3b4337f0b0857cad1f806d50386bb8c",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-rust-prumyslu-v-srpnu-zpomalil-stavebnictvi-mezirocne-kleslo-316947",
+      "published_utc": "2026-10-07T07:39:34Z",
+      "title_en": "Růst průmyslu v srpnu zpomalil, stavebnictví meziročně kleslo",
+      "lead_en": "Českému průmyslu v srpnu pomohla výroba kolejových vozidel, jeho meziroční růst přesto zpomalil na 2,6 procenta z červencových 3,1 procenta. Stavební výroba v Česku v srpnu meziročně klesla o 1,4 procenta.",
+      "title_raw": "Růst průmyslu v srpnu zpomalil, stavebnictví meziročně kleslo",
+      "lead_raw": "Českému průmyslu v srpnu pomohla výroba kolejových vozidel, jeho meziroční růst přesto zpomalil na 2,6 procenta z červencových 3,1 procenta. Stavební výroba v Česku v srpnu meziročně klesla o 1,4 procenta.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "f4b7a8491c58f21b3eb797c77e64f96bba52d8e5",
+      "fingerprint": "ef434d2e3e25f1d9b7ee2b1d434e25a60b1cd0dc",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/mezirocni-rust-prumyslu-v-srpnu-zpomalil-stavebnictvi-kleslo-378321",
+      "published_utc": "2026-10-07T07:34:34Z",
+      "title_en": "Meziroční růst průmyslu v srpnu zpomalil, stavebnictví kleslo",
+      "lead_en": "Meziroční růst průmyslové produkce zpomalil v srpnu na 2,6 procenta z 3,1 procenta v červenci, uvedl Český statistický úřad. Oznámil také, že stavební výroba ve stejném období meziročně klesla o 1,4 procenta po červencovém růstu o 1,8 procenta.",
+      "title_raw": "Meziroční růst průmyslu v srpnu zpomalil, stavebnictví kleslo",
+      "lead_raw": "Meziroční růst průmyslové produkce zpomalil v srpnu na 2,6 procenta z 3,1 procenta v červenci, uvedl Český statistický úřad. Oznámil také, že stavební výroba ve stejném období meziročně klesla o 1,4 procenta po červencovém růstu o 1,8 procenta.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "804707cbdff8006b18ba6a59419e5614c5a4c385",
+      "fingerprint": "d973e2ea911edcd02e2583810bcd7d0ac56ba7fe",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/eu-nastroj-obrana-proti-cinskemu-dovozu.A261006_113749_eko-zahranicni_rie",
+      "published_utc": "2026-10-07T07:23:00Z",
+      "title_en": "Francie a Německo chtějí přitvrdit proti obchodnímu nátlaku. Inspiraci čerpaly v USA",
+      "lead_en": "Německo a Francie navrhly vytvoření nového obchodního nástroje, který má Evropské unii umožnit rychleji a důrazněji reagovat na ekonomický nátlak ze strany obchodních partnerů. Návrh dvou největších unijních ekonomik přichází před summitem Evropské unie, na němž mají lídři příští týden jednat mimo jiné o obchodních vztazích s Čínou.",
+      "title_raw": "Francie a Německo chtějí přitvrdit proti obchodnímu nátlaku. Inspiraci čerpaly v USA",
+      "lead_raw": "Německo a Francie navrhly vytvoření nového obchodního nástroje, který má Evropské unii umožnit rychleji a důrazněji reagovat na ekonomický nátlak ze strany obchodních partnerů. Návrh dvou největších unijních ekonomik přichází před summitem Evropské unie, na němž mají lídři příští týden jednat mimo jiné o obchodních vztazích s Čínou.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "6c42d5f33b2ef69baded84179ac0aa200d771f25",
+      "fingerprint": "3195001a8ddb61a6f39434604f68bca6d9f89503",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-japonsky-urad-provedl-razie-v-japonskych-pivovarech-tyka-se-to-i-asahi-316945",
+      "published_utc": "2026-10-07T07:10:22Z",
+      "title_en": "Japonský úřad provedl razie v japonských pivovarech, týká se to i Asahi",
+      "lead_en": "Čtyři největší japonští výrobci piva včetně skupiny Asahi, majitele Plzeňského Prazdroje, čelí razii tamního antimonopolního úřadu. Úřady prověřují podezření z kartelu a tajné dohody o cenách při prodeji velkoobchodníkům.",
+      "title_raw": "Japonský úřad provedl razie v japonských pivovarech, týká se to i Asahi",
+      "lead_raw": "Čtyři největší japonští výrobci piva včetně skupiny Asahi, majitele Plzeňského Prazdroje, čelí razii tamního antimonopolního úřadu. Úřady prověřují podezření z kartelu a tajné dohody o cenách při prodeji velkoobchodníkům.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "df01874b3096be895d928fa07db879b3645965d4",
       "fingerprint": "16be7d61743fe933c9277f485dea9b3468e7cb9d",
@@ -485,117 +643,6 @@
         "energy": 0,
         "economy": 2,
         "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "e872e592596bc6faae0ebfc22e99e731bd3a997a",
-      "fingerprint": "7fd0f4afe0df6a77ad95b9d22f1d4c6736d5cee8",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-akcie-fondy-technologicke-firmy-sazeji-na-ai-na-jejich-zisky-ciha-ucetni-past-316651",
-      "published_utc": "2026-10-05T08:30:00Z",
-      "title_en": "Technologické firmy sázejí na AI. Na jejich zisky číhá účetní past",
-      "lead_en": "Investice do AI podporují zisky firem a s nimi růst na akciovém trhu. Náklady na novou infrastrukturu se však do účetnictví promítají postupně a podle banky Goldman Sachs už napřesrok začnou zisky brzdit.",
-      "title_raw": "Technologické firmy sázejí na AI. Na jejich zisky číhá účetní past",
-      "lead_raw": "Investice do AI podporují zisky firem a s nimi růst na akciovém trhu. Náklady na novou infrastrukturu se však do účetnictví promítají postupně a podle banky Goldman Sachs už napřesrok začnou zisky brzdit.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 1
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "9787c453148ca49ad595c17716ad39d031ea1873",
-      "fingerprint": "ca8df9e0fc7c2ff56a4c3a5e5ec783a8d858e4fc",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-stat-poslal-skoro-miliardu-na-podporu-startupu-a-dal-to-neresil-40600762",
-      "published_utc": "2026-10-05T06:58:25Z",
-      "title_en": "Stát poslal skoro miliardu na podporu startupů. Jestli se to vyplatilo, u většiny neřešil",
-      "lead_en": "U bezmála miliardy korun, kterou stát vložil skrze ministerstvo průmyslu a agenturu CzechInvest do podpory startupů, nejsou jasné skutečné dopady. Ministerstvo se v rámci monitoringu spokojilo s výčtem podpořených subjektů a často neúplnými a neprůkaznými údaji.",
-      "title_raw": "Stát poslal skoro miliardu na podporu startupů. Jestli se to vyplatilo, u většiny neřešil",
-      "lead_raw": "U bezmála miliardy korun, kterou stát vložil skrze ministerstvo průmyslu a agenturu CzechInvest do podpory startupů, nejsou jasné skutečné dopady. Ministerstvo se v rámci monitoringu spokojilo s výčtem podpořených subjektů a často neúplnými a neprůkaznými údaji.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "86eef9de1be16d6d07678a588f852431b04151ec",
-      "fingerprint": "f66fffa12092a472d1fce16c5f1c31a0ad165ba7",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-drahe-tendry-na-armadni-kuchyne-obrana-potvrdila-ze-sehnalum-zadala-i-servis-316659",
-      "published_utc": "2026-10-05T06:20:00Z",
-      "title_en": "Drahé tendry na armádní kuchyně. Obrana potvrdila, že Sehnalům zadala i servis",
-      "lead_en": "Ministerstvo obrany po měsíci prolomilo mlčení. Potvrdilo, že tendr ve výši 3,6 milionu korun na servis speciálních armádních kontejnerů zadalo muži, který se předtím podílel na jejich sporné výrobě.",
-      "title_raw": "Drahé tendry na armádní kuchyně. Obrana potvrdila, že Sehnalům zadala i servis",
-      "lead_raw": "Ministerstvo obrany po měsíci prolomilo mlčení. Potvrdilo, že tendr ve výši 3,6 milionu korun na servis speciálních armádních kontejnerů zadalo muži, který se předtím podílel na jejich sporné výrobě.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "8698caf94f7cc5b5f539828b2e26d83276feb50c",
-      "fingerprint": "87136a037f2048b43353b3cc752d50a2fef44e54",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/ministerstvo-prumyslu-poskytlo-pres-900-milionu-na-podporu-start-upu-nesledovalo_2610050811_vaa",
-      "published_utc": "2026-10-05T06:11:00Z",
-      "title_en": "Ministerstvo průmyslu poskytlo přes 900 milionů na podporu start-upů. Nesledovalo ale dopady, tvrdí NKÚ",
-      "lead_en": "Ministerstvo průmyslu poskytlo 914 milionů korun vládní agentuře CzechInvest na podporu start-upů. Peníze měly sloužit k zakládání nových firem, jejich vstupu na zahraniční trhy nebo testování nových technologií.",
-      "title_raw": "Ministerstvo průmyslu poskytlo přes 900 milionů na podporu start-upů. Nesledovalo ale dopady, tvrdí NKÚ",
-      "lead_raw": "Ministerstvo průmyslu poskytlo 914 milionů korun vládní agentuře CzechInvest na podporu start-upů. Peníze měly sloužit k zakládání nových firem, jejich vstupu na zahraniční trhy nebo testování nových technologií.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 1
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "70f01105d8e621987b7b98a8d21dda44bebd8d35",
-      "fingerprint": "0e9edde8b68105739b5dc5b85dea7d193a139cdd",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nku-ministerstvo-dalo-miliony-na-podporu-start-upu-nesledovalo-ale-dopady-316771",
-      "published_utc": "2026-10-05T05:27:20Z",
-      "title_en": "NKÚ: Ministerstvo dalo miliony na podporu startupů, nesledovalo ale dopady",
-      "lead_en": "Stamiliony korun bez řádné kontroly výsledků. Nejvyšší kontrolní úřad zjistil, že ministerstvo průmyslu u dotací pro startupy za více než 900 milionů nesledovalo skutečné přínosy firem.",
-      "title_raw": "NKÚ: Ministerstvo dalo miliony na podporu startupů, nesledovalo ale dopady",
-      "lead_raw": "Stamiliony korun bez řádné kontroly výsledků. Nejvyšší kontrolní úřad zjistil, že ministerstvo průmyslu u dotací pro startupy za více než 900 milionů nesledovalo skutečné přínosy firem.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 1
       },
       "topics": [
         "economy"
