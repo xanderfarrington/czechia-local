@@ -1,10 +1,77 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-07T09:29:39Z",
+  "updated_at_utc": "2026-10-07T17:03:10Z",
   "topic": "local_events",
-  "count": 10,
+  "count": 11,
   "articles": [
+    {
+      "id": "2e6dd719920b1370eb3d03f61f66e9641bb9e94e",
+      "fingerprint": "d77c28c036daeb44959a3d4e799309ca0b0f7f09",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-v-havirove-se-srazil-autobus-s-dodavkou-sedm-zranenych-40601212",
+      "published_utc": "2026-10-07T16:50:41Z",
+      "title_en": "V Havířově se srazil autobus s dodávkou, sedm zraněných",
+      "lead_en": "Sedm zraněných, včetně obou řidičů, si vyžádala dopravní nehoda dodávky a linkového autobusu, která se ve středu kolem čtvrté hodiny ranní stala v Havířově-Šumbarku. Jednu cestující museli hasiči z autobusu vynést na páteřové desce.",
+      "title_raw": "V Havířově se srazil autobus s dodávkou, sedm zraněných",
+      "lead_raw": "Sedm zraněných, včetně obou řidičů, si vyžádala dopravní nehoda dodávky a linkového autobusu, která se ve středu kolem čtvrté hodiny ranní stala v Havířově-Šumbarku. Jednu cestující museli hasiči z autobusu vynést na páteřové desce.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "f26d8612aaa5b9ca3967cec5311826266d316762",
+      "fingerprint": "ae252f217f06ae75881547e513c0d44921572532",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ostrava/zpravy/ostrava-poruba-pozar-bytu-hasici-popaleniny-muz-kriticky-stav.A261007_173336_ostrava-zpravy_meli",
+      "published_utc": "2026-10-07T15:51:00Z",
+      "title_en": "Při požáru kuchyně plameny popálily muže, převezli ho v kritickém stavu",
+      "lead_en": "Vážné popáleniny utrpěl devětatřicetiletý muž při středečním požáru bytu v Ostravě-Porubě. Záchranáři jej v kritickém stavu převezli do popáleninového centra Fakultní nemocnice Ostrava.",
+      "title_raw": "Při požáru kuchyně plameny popálily muže, převezli ho v kritickém stavu",
+      "lead_raw": "Vážné popáleniny utrpěl devětatřicetiletý muž při středečním požáru bytu v Ostravě-Porubě. Záchranáři jej v kritickém stavu převezli do popáleninového centra Fakultní nemocnice Ostrava.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "5b4d106975c57c2bd018c4d769833a7846572a7d",
+      "fingerprint": "386837df3025ce9f14dda8a1548037701dccd9ee",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-pri-vybuchu-v-dome-na-zdarsku-se-tezce-zranil-jeden-clovek-40601324",
+      "published_utc": "2026-10-07T13:55:31Z",
+      "title_en": "Při výbuchu v domě na Žďársku se těžce zranil jeden člověk",
+      "lead_en": "Propanbutanová láhev vybuchla v domě v Bukově na Žďársku. Objekt začal hořet, hasiči vyhlásili druhý stupeň požárního poplachu.",
+      "title_raw": "Při výbuchu v domě na Žďársku se těžce zranil jeden člověk",
+      "lead_raw": "Propanbutanová láhev vybuchla v domě v Bukově na Žďársku. Objekt začal hořet, hasiči vyhlásili druhý stupeň požárního poplachu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "d6541e3ba0bd1342667b98821960d55197141f09",
       "fingerprint": "223f6e567250a5ff870abacec05aa23c6bd9cf42",
@@ -180,51 +247,6 @@
       },
       "topics": [
         "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "e38a3fb2e8d56009f103c4b9e728f800ab9d9a41",
-      "fingerprint": "0b8c36561e3f4498389610aaa7e2192b6281090b",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-v-jizni-nigerii-se-zritilo-armadni-letadlo-s-32-lidmi-na-palube-40600937",
-      "published_utc": "2026-10-05T14:16:57Z",
-      "title_en": "V jižní Nigérii se zřítilo armádní letadlo s 32 lidmi na palubě",
-      "lead_en": "Při pondělní havárii vojenského letadla na jihozápadě Nigérie zahynulo 32 osob. O nehodě informovala nigerijská média a ministerstvo letectví a leteckého průmyslu.",
-      "title_raw": "V jižní Nigérii se zřítilo armádní letadlo s 32 lidmi na palubě",
-      "lead_raw": "Při pondělní havárii vojenského letadla na jihozápadě Nigérie zahynulo 32 osob. O nehodě informovala nigerijská média a ministerstvo letectví a leteckého průmyslu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "34d6402affc98582886081937e95c1bb1a6609ae",
-      "fingerprint": "18fb6992a0571c8f182d656faa961b6716c0aa5f",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zdravi-poprve-v-cr-pouzili-lekari-v-brne-na-znicenou-chrupavku-v-koleni-step-mrtveho-darce-40600512",
-      "published_utc": "2026-10-05T14:02:00Z",
-      "title_en": "Poprvé v ČR použili lékaři v Brně na zničenou chrupavku v koleni štěp mrtvého dárce",
-      "lead_en": "Lékaři z Fakultní nemocnice u svaté Anny v Brně použili poprvé v České republice na náhradu zničené chrupavky v koleni štěp od zemřelého dárce. Implantovali jej muži, který se zranil při sportu.",
-      "title_raw": "Poprvé v ČR použili lékaři v Brně na zničenou chrupavku v koleni štěp mrtvého dárce",
-      "lead_raw": "Lékaři z Fakultní nemocnice u svaté Anny v Brně použili poprvé v České republice na náhradu zničené chrupavky v koleni štěp od zemřelého dárce. Implantovali jej muži, který se zranil při sportu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
         "local_events"
       ],
       "primary_topic": "local_events"
