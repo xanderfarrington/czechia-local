@@ -1,10 +1,77 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-08T09:36:16Z",
+  "updated_at_utc": "2026-10-08T17:01:22Z",
   "topic": "economy",
-  "count": 35,
+  "count": 33,
   "articles": [
+    {
+      "id": "67bd1156eb5dee2fb70b00a0cfc73f5232b2b81c",
+      "fingerprint": "e637fcf47e54e413d586c1f8ff71a1823d861966",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/usti/zpravy/spolchemie-nova-vyroba-technologie-zebra-jednotka-prekurzory.A261008_170745_usti-zpravy_grr",
+      "published_utc": "2026-10-08T15:20:00Z",
+      "title_en": "Spolchemie rozjela novou výrobu, technologie vznikala roky a stála miliardy",
+      "lead_en": "Společnost Spolchemie, která vyrábí chemické látky pro průmysl, stavebnictví nebo energetiku, rozjela v areálu nedaleko centra Ústí nad Labem novou výrobu. V jednotce Zebra vznikají takzvané chlorované prekurzory, tedy suroviny využívané například při výrobě chladiv do lednic a klimatizací nebo izolačních pěn.",
+      "title_raw": "Spolchemie rozjela novou výrobu, technologie vznikala roky a stála miliardy",
+      "lead_raw": "Společnost Spolchemie, která vyrábí chemické látky pro průmysl, stavebnictví nebo energetiku, rozjela v areálu nedaleko centra Ústí nad Labem novou výrobu. V jednotce Zebra vznikají takzvané chlorované prekurzory, tedy suroviny využívané například při výrobě chladiv do lednic a klimatizací nebo izolačních pěn.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "4f7b3d5ef45223fcb4b7fc50befe83bb3ec607b5",
+      "fingerprint": "baac346b54f448ffee4ffe9bc3ce39ed23d77445",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-elektromobilitu-jsme-zachytili-vcas-a-rosteme-rika-sef-ceskeho-schaeffleru-316998",
+      "published_utc": "2026-10-08T14:00:00Z",
+      "title_en": "Elektromobilitu jsme zachytili včas a rosteme, říká šéf českého Schaeffleru",
+      "lead_en": "Německá skupina Schaeffler se z výrobce kuličkových ložisek proměnila v globálního dodavatele dílů pro elektromobily. Pracuje i pro čínské automobilky a letos v Ostravě investovala pět miliard korun do nového výrobního závodu.",
+      "title_raw": "Elektromobilitu jsme zachytili včas a rosteme, říká šéf českého Schaeffleru",
+      "lead_raw": "Německá skupina Schaeffler se z výrobce kuličkových ložisek proměnila v globálního dodavatele dílů pro elektromobily. Pracuje i pro čínské automobilky a letos v Ostravě investovala pět miliard korun do nového výrobního závodu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "54b98511eed091467917b7e5d5bc16821b85a475",
+      "fingerprint": "7542ece7772d2930edd2a030040ca866e3df23ef",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/abych-se-neflakal-po-roznove-tak-robim-dlouho-nezamestnani-ve-meste-pomahaji-se_2610081316_dci",
+      "published_utc": "2026-10-08T11:16:00Z",
+      "title_en": "‚Abych se neflákal po Rožnově, tak robím.‘ Dlouho nezaměstnaní ve městě pomáhají se sezonní prací",
+      "lead_en": "V městském parku v Rožnově pod Radhoštěm teď brigádníci uklízejí listí popadané ze stromů. Většinou jde o dlouhodobě nezaměstnané a jde o součást veřejné služby.",
+      "title_raw": "‚Abych se neflákal po Rožnově, tak robím.‘ Dlouho nezaměstnaní ve městě pomáhají se sezonní prací",
+      "lead_raw": "V městském parku v Rožnově pod Radhoštěm teď brigádníci uklízejí listí popadané ze stromů. Většinou jde o dlouhodobě nezaměstnané a jde o součást veřejné služby.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "268d432d0a2dfcfffef26480375c77fdb4a20057",
       "fingerprint": "8abec4c453f1def2e2b7489b7f9232613bfe2f4c",
@@ -81,6 +148,28 @@
       "lead_en": "Praha - Nezaměstnanost v Česku zůstala v září třetí měsíc po sobě na pěti procentech. Úřady práce na konci září evidovaly 368.377 uchazečů o zaměstnání, což bylo o 5514 méně než o měsíc dřív.",
       "title_raw": "Nezaměstnanost v Česku zůstala v září na pěti procentech",
       "lead_raw": "Praha - Nezaměstnanost v Česku zůstala v září třetí měsíc po sobě na pěti procentech. Úřady práce na konci září evidovaly 368.377 uchazečů o zaměstnání, což bylo o 5514 méně než o měsíc dřív.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "4aeb29a5fad348302d2756157382d3a5e6bb6cb8",
+      "fingerprint": "97876b7966ffb5d5b9961aacd0d77b85fd702aa9",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/nezamestnanost-v-zari-stagnovala-na-peti-procentech-mezirocne-je-vyssi-/2884375",
+      "published_utc": "2026-10-08T08:04:00Z",
+      "title_en": "Nezaměstnanost v září stagnovala na pěti procentech, meziročně je vyšší",
+      "lead_en": "Praha - Podíl nezaměstnaných v Česku byl v září pět procent, na stejné úrovni se drží třetí měsíc v řadě. Vyplývá to z údajů, které dnes zveřejnil Úřad práce ČR.",
+      "title_raw": "Nezaměstnanost v září stagnovala na pěti procentech, meziročně je vyšší",
+      "lead_raw": "Praha - Podíl nezaměstnaných v Česku byl v září pět procent, na stejné úrovni se drží třetí měsíc v řadě. Vyplývá to z údajů, které dnes zveřejnil Úřad práce ČR.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -639,139 +728,6 @@
       "lead_en": "Vláda podle vicepremiéra Karla Havlíčka (ANO) nebude slučovat ministerstvo pro místní rozvoj (MMR) s resortem průmyslu a obchodu (MPO). Druhý zmíněný úřad se ale přejmenuje na ministerstvo hospodářství.",
       "title_raw": "Změna plánu. Vláda resorty průmyslu a pro místní rozvoj nakonec nesloučí",
       "lead_raw": "Vláda podle vicepremiéra Karla Havlíčka (ANO) nebude slučovat ministerstvo pro místní rozvoj (MMR) s resortem průmyslu a obchodu (MPO). Druhý zmíněný úřad se ale přejmenuje na ministerstvo hospodářství.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "25d40fb143742ad860efd9107d7b7261a2d3629f",
-      "fingerprint": "72ea5db5afd79879343b272c193f80e995fd1093",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/zive-jak-zajistit-dostatek-bytu-a-parkovacich-mist-poslouchejte-debatu-kandidatu_2610061809_dns",
-      "published_utc": "2026-10-06T16:09:00Z",
-      "title_en": "Jak zajistit dostatek bytů a parkovacích míst? Poslechněte si debatu kandidátů na pražský magistrát",
-      "lead_en": "Bydlení v Praze je drahé a doprava přetížená. Vedení hlavního města navíc rozhoduje o investicích za miliardy korun.",
-      "title_raw": "Jak zajistit dostatek bytů a parkovacích míst? Poslechněte si debatu kandidátů na pražský magistrát",
-      "lead_raw": "Bydlení v Praze je drahé a doprava přetížená. Vedení hlavního města navíc rozhoduje o investicích za miliardy korun.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "051bf4ffb66e50bff1c3ac10b1457c81a2b3767c",
-      "fingerprint": "d64e002d17255e9cdfaa0d4f7e87f1cae1507da7",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-francii-mohou-udusit-rostouci-uroky-varuje-sef-centralni-banky-40600987",
-      "published_utc": "2026-10-06T14:35:04Z",
-      "title_en": "Francii mohou udusit rostoucí úroky, varuje šéf centrální banky",
-      "lead_en": "Euro dál oslabuje kvůli obavám z vysokého francouzského dluhu a politické nejistotě v Evropě. Společná evropská měna se vůči americkému dolaru pohybuje poblíž sedmnáctiměsíčního minima.",
-      "title_raw": "Francii mohou udusit rostoucí úroky, varuje šéf centrální banky",
-      "lead_raw": "Euro dál oslabuje kvůli obavám z vysokého francouzského dluhu a politické nejistotě v Evropě. Společná evropská měna se vůči americkému dolaru pohybuje poblíž sedmnáctiměsíčního minima.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "0acb9e73da337481dc6c151678128f8844baa631",
-      "fingerprint": "c486e35575af2da88d223f9b0933d817a4c1abc7",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-skupina-podnikatelu-vcetne-auditora-je-obzalovana-z-danovych-podvodu-316911",
-      "published_utc": "2026-10-06T13:50:00Z",
-      "title_en": "Skupina podnikatelů včetně auditora je obžalovaná z daňových podvodů",
-      "lead_en": "Královéhradecký krajský soud začal rozplétat kauzu podnikatelské skupiny viněné z daňových úniků převyšujících 134 milionů korun. K podvodům mělo dojít například fiktivními obchody s mobily.",
-      "title_raw": "Skupina podnikatelů včetně auditora je obžalovaná z daňových podvodů",
-      "lead_raw": "Královéhradecký krajský soud začal rozplétat kauzu podnikatelské skupiny viněné z daňových úniků převyšujících 134 milionů korun. K podvodům mělo dojít například fiktivními obchody s mobily.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "e7c6fd3254b98f6e1b817b7f592ced527d3f72cc",
-      "fingerprint": "d87730e9b3756535493fa4710dd5fa282b9b9cc1",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/rafaj-nejvetsi-rozpor-mezi-sliby-vlady-a-jejimi-ciny-je-ve-financovani-vyzkumu/2883670",
-      "published_utc": "2026-10-06T12:48:00Z",
-      "title_en": "Rafaj: Největší rozpor mezi sliby vlády a jejími činy je ve financování výzkumu",
-      "lead_en": "Brno - V programovém prohlášení současné vlády je mnoho bodů, které mají být pro průmysl přínosem, pokud je vláda bude naplňovat. Největší rozpor mezi sliby a činy vlády je u investic do výzkumu a vývoje,...",
-      "title_raw": "Rafaj: Největší rozpor mezi sliby vlády a jejími činy je ve financování výzkumu",
-      "lead_raw": "Brno - V programovém prohlášení současné vlády je mnoho bodů, které mají být pro průmysl přínosem, pokud je vláda bude naplňovat. Největší rozpor mezi sliby a činy vlády je u investic do výzkumu a vývoje,...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "722a8521eb84c81c77b38aa780b27b9d0ab4e574",
-      "fingerprint": "8138edda28e6c25ee5349bd1f9ccd887221c290f",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-spojenec-ukrajiny-zasobuje-palivem-rusko-vozi-ho-i-sankcionovane-tankery-316873",
-      "published_utc": "2026-10-06T11:40:00Z",
-      "title_en": "Spojenec Ukrajiny zásobuje palivem Rusko. Vozí ho i sankcionované tankery",
-      "lead_en": "Z Jižní Koreje proudí palivo, které Rusku pomáhá vyrovnávat výpadky po ukrajinských útocích na rafinerie. Země, která podporuje Ukrajinu, se tak stala jedním z nejvýznamnějších výchozích bodů pro dovoz paliva pro Moskvu.",
-      "title_raw": "Spojenec Ukrajiny zásobuje palivem Rusko. Vozí ho i sankcionované tankery",
-      "lead_raw": "Z Jižní Koreje proudí palivo, které Rusku pomáhá vyrovnávat výpadky po ukrajinských útocích na rafinerie. Země, která podporuje Ukrajinu, se tak stala jedním z nejvýznamnějších výchozích bodů pro dovoz paliva pro Moskvu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e9c54f911582bb451a293a7245291921c6fa6663",
-      "fingerprint": "9c8f7264a2124641fd1619c122024a140f0dd8c9",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-ptam-se-ja-eurovize-na-ct-konci-co-dalsiho-vedeni-televize-zrusi-316866",
-      "published_utc": "2026-10-06T11:04:02Z",
-      "title_en": "Zaměstnanců v ČT skončí asi sto, pořadů deset až dvanáct, popisuje úspory Fridrich",
-      "lead_en": "Česká televize začíná šetřit. Už na příští rok ohlásila úspory 350 milionů korun.",
-      "title_raw": "Zaměstnanců v ČT skončí asi sto, pořadů deset až dvanáct, popisuje úspory Fridrich",
-      "lead_raw": "Česká televize začíná šetřit. Už na příští rok ohlásila úspory 350 milionů korun.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,

@@ -1,10 +1,211 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-08T09:36:16Z",
+  "updated_at_utc": "2026-10-08T17:01:22Z",
   "topic": "energy",
-  "count": 46,
+  "count": 43,
   "articles": [
+    {
+      "id": "277cf9aee5aa1ca07533cabc214ce9a5cc599fdb",
+      "fingerprint": "58c787fb4bb2e28424b463a4498b6fad7b74a949",
+      "source": "iROZHLAS - Economy",
+      "url": "https://www.irozhlas.cz/ekonomika/trhy-s-ropou-jsou-nervozni-omezeni-produkce-a-soupereni-mezi-kupci-zene-cenu_2610081822_brz",
+      "published_utc": "2026-10-08T16:22:00Z",
+      "title_en": "Trhy s ropou jsou nervózní. Omezení produkce a soupeření mezi kupci žene cenu nahoru, říká analytik",
+      "lead_en": "Vláda zasahuje do trhu s pohonnými hmotami už týden a chce s tím pokračovat přinejmenším do konce měsíce. Regulaci odůvodňuje vývojem na Blízkém východě, který žene cenu paliv nahoru.",
+      "title_raw": "Trhy s ropou jsou nervózní. Omezení produkce a soupeření mezi kupci žene cenu nahoru, říká analytik",
+      "lead_raw": "Vláda zasahuje do trhu s pohonnými hmotami už týden a chce s tím pokračovat přinejmenším do konce měsíce. Regulaci odůvodňuje vývojem na Blízkém východě, který žene cenu paliv nahoru.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "67bd1156eb5dee2fb70b00a0cfc73f5232b2b81c",
+      "fingerprint": "e637fcf47e54e413d586c1f8ff71a1823d861966",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/usti/zpravy/spolchemie-nova-vyroba-technologie-zebra-jednotka-prekurzory.A261008_170745_usti-zpravy_grr",
+      "published_utc": "2026-10-08T15:20:00Z",
+      "title_en": "Spolchemie rozjela novou výrobu, technologie vznikala roky a stála miliardy",
+      "lead_en": "Společnost Spolchemie, která vyrábí chemické látky pro průmysl, stavebnictví nebo energetiku, rozjela v areálu nedaleko centra Ústí nad Labem novou výrobu. V jednotce Zebra vznikají takzvané chlorované prekurzory, tedy suroviny využívané například při výrobě chladiv do lednic a klimatizací nebo izolačních pěn.",
+      "title_raw": "Spolchemie rozjela novou výrobu, technologie vznikala roky a stála miliardy",
+      "lead_raw": "Společnost Spolchemie, která vyrábí chemické látky pro průmysl, stavebnictví nebo energetiku, rozjela v areálu nedaleko centra Ústí nad Labem novou výrobu. V jednotce Zebra vznikají takzvané chlorované prekurzory, tedy suroviny využívané například při výrobě chladiv do lednic a klimatizací nebo izolačních pěn.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "bf612a0580dd41ab30cd03a6c5ee1a0b7a13a094",
+      "fingerprint": "84cbe4e1ea8217d9f68866b41a434b88717e0802",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-zadali-o-elektrinu-ted-musi-poslat-dalsi-papir-stat-zmenil-pravidla-317016",
+      "published_utc": "2026-10-08T15:00:00Z",
+      "title_en": "Žádali o elektřinu, teď musí poslat další papír. Stát změnil pravidla",
+      "lead_en": "Novinka v zákoně může nepozorné domácnosti připravit o šanci připojení k elektřině. Pokud do listopadu neuzavřou dodatek ke smlouvě, přijdou o žádost o připojení k síti.",
+      "title_raw": "Žádali o elektřinu, teď musí poslat další papír. Stát změnil pravidla",
+      "lead_raw": "Novinka v zákoně může nepozorné domácnosti připravit o šanci připojení k elektřině. Pokud do listopadu neuzavřou dodatek ke smlouvě, přijdou o žádost o připojení k síti.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "e0c477d7a0fa0c5e915fc18ba4b7c4b5d63ad971",
+      "fingerprint": "5c850e8037451fa396bb482950a805327e757fea",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/s-radlici-buldozeru-a-bez-vyrazneho-naruseni-krajiny-energetici-posiluji_2610081650_ntu",
+      "published_utc": "2026-10-08T14:50:00Z",
+      "title_en": "S radlicí buldozeru a bez výrazného narušení krajiny. Energetici posilují elektrickou síť v okolí Dukovan",
+      "lead_en": "Rychle a ekologicky pracuje soustava strojů, která umí hluboko pod zem dostat kabely vysokého napětí bez bagrování a enormního poškození půdy. Technologii teď využívají energetici, kteří kvůli plánované dostavbě dalších bloků posilují elektrickou síť v okolí dukovanské jaderné elektrárny.",
+      "title_raw": "S radlicí buldozeru a bez výrazného narušení krajiny. Energetici posilují elektrickou síť v okolí Dukovan",
+      "lead_raw": "Rychle a ekologicky pracuje soustava strojů, která umí hluboko pod zem dostat kabely vysokého napětí bez bagrování a enormního poškození půdy. Technologii teď využívají energetici, kteří kvůli plánované dostavbě dalších bloků posilují elektrickou síť v okolí dukovanské jaderné elektrárny.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e7c124072dd50b2b72947d059d468755beb270cb",
+      "fingerprint": "23394e881a8c614f32c3d64ec5bf0b9f4b640a5c",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-volby-do-ruske-statni-dumy-byly-podvod-shodl-se-europarlament-tri-cesi-byli-proti-40601554",
+      "published_utc": "2026-10-08T14:11:12Z",
+      "title_en": "Tři Češi byli proti. Europarlament odhlasoval, že volby v Rusku byly podvod",
+      "lead_en": "Ruské zářijové volby do Státní dumy byly podle čtvrteční rezoluce poslanců Evropského parlamentu zfalšované. Evropský parlament v usnesení odmítl dumu uznat jako legitimní a vyzval členské státy EU, aby volby neuznaly a zdržely se kontaktu s jejími poslanci.",
+      "title_raw": "Tři Češi byli proti. Europarlament odhlasoval, že volby v Rusku byly podvod",
+      "lead_raw": "Ruské zářijové volby do Státní dumy byly podle čtvrteční rezoluce poslanců Evropského parlamentu zfalšované. Evropský parlament v usnesení odmítl dumu uznat jako legitimní a vyzval členské státy EU, aby volby neuznaly a zdržely se kontaktu s jejími poslanci.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "b65395821ad0839468797e91067636698159f0e2",
+      "fingerprint": "f06ff02c190c003d58d140851415ce0ad93d6e82",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/slovensko-robert-fico-kritika-socha-ep-strasburk-donald-trump.A261008_154808_zahranicni_kha",
+      "published_utc": "2026-10-08T14:10:00Z",
+      "title_en": "„Nepochopení doby, úpadek Unie.“ Ficovi vadí nahý Trump v europarlamentu",
+      "lead_en": "Slovenský premiér Robert Fico zkritizoval satirickou sochu Oranžový mor, kterou odhalili v sídle Evropského parlamentu ve Štrasburku. Skulptura ukazuje nahého amerického prezidenta Donalda Trumpa, což je podle Fica projevem nepochopení doby, ale i úpadku Evropské unie.",
+      "title_raw": "„Nepochopení doby, úpadek Unie.“ Ficovi vadí nahý Trump v europarlamentu",
+      "lead_raw": "Slovenský premiér Robert Fico zkritizoval satirickou sochu Oranžový mor, kterou odhalili v sídle Evropského parlamentu ve Štrasburku. Skulptura ukazuje nahého amerického prezidenta Donalda Trumpa, což je podle Fica projevem nepochopení doby, ale i úpadku Evropské unie.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "ab538e167a0c5fd449954d7dc1e795a1134d538e",
+      "fingerprint": "5c75b50a8565b171563d1f7a0d9f1a004478af7e",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/vetrne-elektrarny-mohou-ochlazovat-morskou-hladinu-ukazal-vyzkum-378362",
+      "published_utc": "2026-10-08T11:12:00Z",
+      "title_en": "Větrné elektrárny mohou ochlazovat mořskou hladinu, ukázal výzkum",
+      "lead_en": "Spočítat dopady větrných elektráren na okolí není úplně snadné – zejména na moři, kde existuje spousta nejrůznějších vlivů, jejichž dopady komplikují vyhodnocení. Teď přišli s kvalifikovanými odhady experti ze Skotska.",
+      "title_raw": "Větrné elektrárny mohou ochlazovat mořskou hladinu, ukázal výzkum",
+      "lead_raw": "Spočítat dopady větrných elektráren na okolí není úplně snadné – zejména na moři, kde existuje spousta nejrůznějších vlivů, jejichž dopady komplikují vyhodnocení. Teď přišli s kvalifikovanými odhady experti ze Skotska.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "cc217f4674d1106c24b3eda216fcef9f5b0e24de",
+      "fingerprint": "1a6a1f7649842538fb6e94ae5f9491fadddf6347",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/uranove-sklo-a-radioaktivita-mleka-danu-drabovou-pripomina-vystava-na-jejim_2610081010_dci",
+      "published_utc": "2026-10-08T10:10:00Z",
+      "title_en": "Uranové sklo a radioaktivita mléka. Danu Drábovou připomíná výstava v jejím domovském úřadě",
+      "lead_en": "Jadernou inženýrku a dlouholetou předsedkyni Státního úřadu pro jadernou bezpečnost Danu Drábovou představuje nová výstava v sídle úřadu v Praze. Expozici připravil úřad společně s partnerkou Dany Drábové u příležitosti prvního výročí jejího úmrtí.",
+      "title_raw": "Uranové sklo a radioaktivita mléka. Danu Drábovou připomíná výstava v jejím domovském úřadě",
+      "lead_raw": "Jadernou inženýrku a dlouholetou předsedkyni Státního úřadu pro jadernou bezpečnost Danu Drábovou představuje nová výstava v sídle úřadu v Praze. Expozici připravil úřad společně s partnerkou Dany Drábové u příležitosti prvního výročí jejího úmrtí.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "b9f23478dd847c0b331e76fc722965f274d89782",
+      "fingerprint": "915fb3ebb379a840cb3c874c3a4ddd8187438fec",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/budoucnost-vetrnych-elektraren-v-cesku-urci-rekordni-pocet-referend-tema-voleb_2610081148_vaa",
+      "published_utc": "2026-10-08T09:48:00Z",
+      "title_en": "Budoucnost větrných elektráren v Česku určí rekordní počet referend. Téma voleb ovlivňují i dezinformace",
+      "lead_en": "K zásadním tématům pátečních a sobotních voleb do senátu i zastupitelstev měst a obcí patří budoucnost větrné energetiky v Česku. Koná se rekordní počet přibližně dvaceti referend najednou, která s budováním větrníků souvisejí.",
+      "title_raw": "Budoucnost větrných elektráren v Česku určí rekordní počet referend. Téma voleb ovlivňují i dezinformace",
+      "lead_raw": "K zásadním tématům pátečních a sobotních voleb do senátu i zastupitelstev měst a obcí patří budoucnost větrné energetiky v Česku. Koná se rekordní počet přibližně dvaceti referend najednou, která s budováním větrníků souvisejí.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "db9ff726f3fafff0ca91effaed09891b82a2e64a",
       "fingerprint": "e52e4a8650f6dbfb218de1b2f65bf4033c3067d5",
@@ -763,273 +964,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "718d6e26c382ba9e5c18df8832901bcbb89628f0",
-      "fingerprint": "3f184f0242ea17550cc0d859280810d9eefde685",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-francie-uspesne-otestovala-balistickou-raketu-nejnovejsi-generace-40601151",
-      "published_utc": "2026-10-06T16:12:59Z",
-      "title_en": "Francie úspěšně otestovala balistickou raketu nejnovější generace",
-      "lead_en": "Francie otestovala novou verzi mezikontinentální balistické rakety M51, která je schopná nést jaderné hlavice. Zkušební odpal se uskutečnil z ponorky a na jeho průběh dohlížel také francouzský prezident Emmanuel Macron.",
-      "title_raw": "Francie úspěšně otestovala balistickou raketu nejnovější generace",
-      "lead_raw": "Francie otestovala novou verzi mezikontinentální balistické rakety M51, která je schopná nést jaderné hlavice. Zkušební odpal se uskutečnil z ponorky a na jeho průběh dohlížel také francouzský prezident Emmanuel Macron.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "c464794001d4045352bbbae72ded84ec1c86c75a",
-      "fingerprint": "76f9a5fad840e78edf59c5c78955a066ccdb8cc0",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/propagacni-materialy-hnuti-ano-nasli-rodice-ve-skolce-v-bilovci-nevime-jak-se_2610061756_vaa",
-      "published_utc": "2026-10-06T15:56:00Z",
-      "title_en": "Propagační materiály hnutí ANO našli rodiče ve školce v Bílovci. ‚Nevíme, jak se tam dostaly,‘ tvrdí vedení",
-      "lead_en": "Překvapení zažili rodiče předškoláků v Bílovci na Novojičínsku, když ráno ve školce našli na botníku kšiltovky a letáky hnutí ANO. Politickou reklamu ve školách přitom zakazuje zákon.",
-      "title_raw": "Propagační materiály hnutí ANO našli rodiče ve školce v Bílovci. ‚Nevíme, jak se tam dostaly,‘ tvrdí vedení",
-      "lead_raw": "Překvapení zažili rodiče předškoláků v Bílovci na Novojičínsku, když ráno ve školce našli na botníku kšiltovky a letáky hnutí ANO. Politickou reklamu ve školách přitom zakazuje zákon.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "1013010be5f2372d96231da27fbc6e9e7d4bb770",
-      "fingerprint": "b1f2a2070fd6fb058e0f6156800d874203913ff5",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-hra-o-hnojiva-evropa-odstrihava-rusko-usa-jednaji-s-minskem-40600636",
-      "published_utc": "2026-10-06T15:42:08Z",
-      "title_en": "Hra o hnojiva. Evropa odstřihává Rusko, USA jednají s Minskem",
-      "lead_en": "Dusíkatá hnojiva zdražila letos v Evropské unii o 71 procent oproti roku 2024. Brusel proto dočasně zrušil cla na hnojiva a suroviny k jejich výrobě ze třetích zemí mimo Rusko a Bělorusko.",
-      "title_raw": "Hra o hnojiva. Evropa odstřihává Rusko, USA jednají s Minskem",
-      "lead_raw": "Dusíkatá hnojiva zdražila letos v Evropské unii o 71 procent oproti roku 2024. Brusel proto dočasně zrušil cla na hnojiva a suroviny k jejich výrobě ze třetích zemí mimo Rusko a Bělorusko.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "907446de953fd36973bb7d2a0573d505059ffd1b",
-      "fingerprint": "7a063a5418f41e14634da9e415949990488dabfb",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/veda-skoly-chytra-motorka-i-3d-tisk-kovu-univerzity-predstavuji-na-veletrhu-v-brne-sve-projekty-40601111",
-      "published_utc": "2026-10-06T14:51:57Z",
-      "title_en": "Chytrá motorka i 3D tisk kovů. Univerzity představují na veletrhu v Brně své projekty",
-      "lead_en": "Dvacítku svých top vývojářských projektů představuje na brněnském strojírenském veletrhu Vysoké učení technické (VUT). A některé jsou vskutku revoluční - třeba 3D tiskárna kovů, humanoidní robot RBit, stroj pro fúzní elektrárnu nebo speciální Škoda Enyaq pro vývoj autonomního řízení.",
-      "title_raw": "Chytrá motorka i 3D tisk kovů. Univerzity představují na veletrhu v Brně své projekty",
-      "lead_raw": "Dvacítku svých top vývojářských projektů představuje na brněnském strojírenském veletrhu Vysoké učení technické (VUT). A některé jsou vskutku revoluční - třeba 3D tiskárna kovů, humanoidní robot RBit, stroj pro fúzní elektrárnu nebo speciální Škoda Enyaq pro vývoj autonomního řízení.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "52884fe3c3beb085e123598aa29073213db46dc3",
-      "fingerprint": "a49c1208f10ac837f661adc66789808acd8c1a7e",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/dva-centimetry-snehu-jako-riziko-strecha-svijanske-areny-je-v-kritickem-stavu_2610061606_tez",
-      "published_utc": "2026-10-06T14:06:00Z",
-      "title_en": "I dva centimetry sněhu jsou riziko. Střecha Svijanské arény je v kritickém stavu, provoz bude omezený",
-      "lead_en": "Střecha Svijanské arény v Liberci je ve špatném stavu a při vydatném sněžení se může propadnout. V minulém roce nechalo město udělat posudek, ve kterém statik určil limit dva centimetry sněhu.",
-      "title_raw": "I dva centimetry sněhu jsou riziko. Střecha Svijanské arény je v kritickém stavu, provoz bude omezený",
-      "lead_raw": "Střecha Svijanské arény v Liberci je ve špatném stavu a při vydatném sněžení se může propadnout. V minulém roce nechalo město udělat posudek, ve kterém statik určil limit dva centimetry sněhu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "fba701504b78c02a0a7114e4c2e9cc4a1273692f",
-      "fingerprint": "8e0a1430eb1954f2f6eb224d5b091812de7232c9",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-teplo-pro-skoly-ci-nemocnice-zdrazi-teplarnici-prestanou-platit-dan-ze-sveho-316699",
-      "published_utc": "2026-10-06T11:50:00Z",
-      "title_en": "Je to absurdní, říkají teplárníci kvůli teplu pro školy či nemocnice",
-      "lead_en": "Všem kromě domácností příští rok zdraží teplo kvůli dani na plyn a pevná paliva. Teplárny vyrábějící elektřinu a teplo zvýšené náklady od března platí ze svého, ale nehodlají to dělat věčně.",
-      "title_raw": "Je to absurdní, říkají teplárníci kvůli teplu pro školy či nemocnice",
-      "lead_raw": "Všem kromě domácností příští rok zdraží teplo kvůli dani na plyn a pevná paliva. Teplárny vyrábějící elektřinu a teplo zvýšené náklady od března platí ze svého, ale nehodlají to dělat věčně.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 4,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "d2bb40b2fcfb9c5675aeae719aa6d55d6a568ec9",
-      "fingerprint": "f307385ec88ade13a97121f2cf7cc93a5c3a9f15",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-do-ruska-se-dostava-nafta-pres-jizni-koreu-40600998",
-      "published_utc": "2026-10-06T11:48:09Z",
-      "title_en": "Do Ruska se dostává nafta přes Jižní Koreu",
-      "lead_en": "Do Ruska se dostalo v červenci a srpnu z Jižní Koreje nebo přes ni nejméně 176 000 tun paliva, především nafty. Ukázala to analýza 14 plaveb sedmi tankerů listu The Guardian.",
-      "title_raw": "Do Ruska se dostává nafta přes Jižní Koreu",
-      "lead_raw": "Do Ruska se dostalo v červenci a srpnu z Jižní Koreje nebo přes ni nejméně 176 000 tun paliva, především nafty. Ukázala to analýza 14 plaveb sedmi tankerů listu The Guardian.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "722a8521eb84c81c77b38aa780b27b9d0ab4e574",
-      "fingerprint": "8138edda28e6c25ee5349bd1f9ccd887221c290f",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-spojenec-ukrajiny-zasobuje-palivem-rusko-vozi-ho-i-sankcionovane-tankery-316873",
-      "published_utc": "2026-10-06T11:40:00Z",
-      "title_en": "Spojenec Ukrajiny zásobuje palivem Rusko. Vozí ho i sankcionované tankery",
-      "lead_en": "Z Jižní Koreje proudí palivo, které Rusku pomáhá vyrovnávat výpadky po ukrajinských útocích na rafinerie. Země, která podporuje Ukrajinu, se tak stala jedním z nejvýznamnějších výchozích bodů pro dovoz paliva pro Moskvu.",
-      "title_raw": "Spojenec Ukrajiny zásobuje palivem Rusko. Vozí ho i sankcionované tankery",
-      "lead_raw": "Z Jižní Koreje proudí palivo, které Rusku pomáhá vyrovnávat výpadky po ukrajinských útocích na rafinerie. Země, která podporuje Ukrajinu, se tak stala jedním z nejvýznamnějších výchozích bodů pro dovoz paliva pro Moskvu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "1bc8cc2ba4aa6d91d19b00893476b9f653c55a2e",
-      "fingerprint": "3a705141c2945675bf154a391e6a798aaf63a9d4",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-litevci-schvalili-prvni-cast-konce-zakazu-jadernych-zbrani-na-jejich-uzemi-316896",
-      "published_utc": "2026-10-06T11:31:26Z",
-      "title_en": "Litevci schválili první část konce zákazu jaderných zbraní na jejich území",
-      "lead_en": "Pro zrušení zákona hlasovalo 106 poslanců ze 130. Článek ústavy mimo jiné zakazuje zřízení cizích vojenských základen v zemi.",
-      "title_raw": "Litevci schválili první část konce zákazu jaderných zbraní na jejich území",
-      "lead_raw": "Pro zrušení zákona hlasovalo 106 poslanců ze 130. Článek ústavy mimo jiné zakazuje zřízení cizích vojenských základen v zemi.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "0503072a14a67bfa740dbada19f65b2de4cbf49e",
-      "fingerprint": "a9f4c59cfa97906a79d54d1b47c03e2dae370d1c",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/kultura-digger-tom-cruise-trzby-316892",
-      "published_utc": "2026-10-06T10:53:00Z",
-      "title_en": "Nový film s Tomem Cruisem je propadák. Digger může prodělat 150 milionů dolarů",
-      "lead_en": "Americký herec Tom Cruise, hvězda filmů Top Gun nebo série Mission: Impossible, má za sebou jeden z nejhorších debutů své kariéry. Jeho nový snímek Digger za první víkend celosvětově utržil jen 20 milionů dolarů.",
-      "title_raw": "Nový film s Tomem Cruisem je propadák. Digger může prodělat 150 milionů dolarů",
-      "lead_raw": "Americký herec Tom Cruise, hvězda filmů Top Gun nebo série Mission: Impossible, má za sebou jeden z nejhorších debutů své kariéry. Jeho nový snímek Digger za první víkend celosvětově utržil jen 20 milionů dolarů.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "4153d8fd162a4a0f6390533492f33409527804b5",
-      "fingerprint": "df72b9ecb1b94ee0050987ccadba39809a293e31",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/veda-skoly-nobelovu-cenu-za-fyziku-dostal-francis-halzen-za-objev-vysokoenergetickych-neutrin-40601033",
-      "published_utc": "2026-10-06T10:15:03Z",
-      "title_en": "Nobelovu cenu za fyziku dostal Francis Halzen za objev vysokoenergetických neutrin",
-      "lead_en": "Švédská akademie věd oznámila, že nový laureát Nobelovy ceny za fyziku za letošní rok je americký fyzik belgického původu Francis Halzen. Oceněn je za zásadní příspěvky k vybudování observatoře IceCube a za objev vysokoenergetických neutrin astrofyzikálního původu.",
-      "title_raw": "Nobelovu cenu za fyziku dostal Francis Halzen za objev vysokoenergetických neutrin",
-      "lead_raw": "Švédská akademie věd oznámila, že nový laureát Nobelovy ceny za fyziku za letošní rok je americký fyzik belgického původu Francis Halzen. Oceněn je za zásadní příspěvky k vybudování observatoře IceCube a za objev vysokoenergetických neutrin astrofyzikálního původu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ddef925682346aec0d4d53b5b4b358f3b10140ef",
-      "fingerprint": "e78b404569a8e506c9dc7ea8cf68ec94a6a56507",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/slaby-clanek-sankcniho-retezu-jizni-korea-dodava-palivo-rusku-zjistila-analyza.A261006_094419_eko-zahranicni_jadv",
-      "published_utc": "2026-10-06T09:57:00Z",
-      "title_en": "Slabý článek sankčního řetězu. Jižní Korea dodává palivo Rusku, zjistila analýza",
-      "lead_en": "Moskva se uprostřed války s Ukrajinou zoufale snaží zajistit si dostatečné zásoby paliva. V červenci a srpnu letošního roku do ruských přístavů doputovalo více než 150 000 tun paliva z Jižní Koreje.",
-      "title_raw": "Slabý článek sankčního řetězu. Jižní Korea dodává palivo Rusku, zjistila analýza",
-      "lead_raw": "Moskva se uprostřed války s Ukrajinou zoufale snaží zajistit si dostatečné zásoby paliva. V červenci a srpnu letošního roku do ruských přístavů doputovalo více než 150 000 tun paliva z Jižní Koreje.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
