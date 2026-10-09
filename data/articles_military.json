@@ -1,10 +1,54 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-09T16:39:38Z",
+  "updated_at_utc": "2026-10-09T21:21:48Z",
   "topic": "military",
-  "count": 64,
+  "count": 58,
   "articles": [
+    {
+      "id": "fcfe1f70debfc771119f44be2bafc5335b783e7e",
+      "fingerprint": "9e9c152f690352cbc70d646a9eebb36304569d38",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/kyjev-ukrajina-klicko-exodus-zima-blackouty-2026-2027.A261009_112305_zahranicni_aha",
+      "published_utc": "2026-10-09T18:00:00Z",
+      "title_en": "Pryč z Kyjeva! Těžce zkoušená metropole se chystá na zimní exodus",
+      "lead_en": "Až čtyřicet procent obyvatel Kyjeva zvažuje, že se na zimu uchýlí na venkov. Na vsi ji přečkají snáze než v metropoli, která se pro ruské rakety a drony stala cílem číslo jedna.",
+      "title_raw": "Pryč z Kyjeva! Těžce zkoušená metropole se chystá na zimní exodus",
+      "lead_raw": "Až čtyřicet procent obyvatel Kyjeva zvažuje, že se na zimu uchýlí na venkov. Na vsi ji přečkají snáze než v metropoli, která se pro ruské rakety a drony stala cílem číslo jedna.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "004502c7111fbc4e89844c0705c37ae116df4078",
+      "fingerprint": "b66a23508d6bb7b241a3433fb7e00dc04ad90aa1",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/iran-izrael-trump-usa-valka-udery-volby.A261009_183348_zahranicni_jhr",
+      "published_utc": "2026-10-09T16:54:00Z",
+      "title_en": "Izrael se obává, že Trump zvažuje údery na Írán ještě před volbami, i když tvrdí opak",
+      "lead_en": "Americký prezident Donald Trump se podle zákulisních informací připravuje na obnovení vojenských akcí proti Íránu ještě před listopadovými volbami do Kongresu, ačkoliv veřejně říká, že to nemá v úmyslu. Izrael údajně varoval, že by takový krok mohl vést k odložení izraelských parlamentních voleb.",
+      "title_raw": "Izrael se obává, že Trump zvažuje údery na Írán ještě před volbami, i když tvrdí opak",
+      "lead_raw": "Americký prezident Donald Trump se podle zákulisních informací připravuje na obnovení vojenských akcí proti Íránu ještě před listopadovými volbami do Kongresu, ačkoliv veřejně říká, že to nemá v úmyslu. Izrael údajně varoval, že by takový krok mohl vést k odložení izraelských parlamentních voleb.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "235c2a53255af1f94fb5baf8eb451aa54c14f451",
       "fingerprint": "048982351571899c6d9ee3319bb7d2a26fbb6b94",
@@ -1243,185 +1287,6 @@
       "topics": [
         "military",
         "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "bda5e1f8014110fc7b1a8fd080c440befeb2bb2b",
-      "fingerprint": "2047b62b76602e286bacce9859f1f552b8e3f8dc",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-rusko-u-nas-zacalo-se-sabotazemi-vyuziva-i-bezdomovce-rika-danska-analyticka-317021",
-      "published_utc": "2026-10-07T18:56:51Z",
-      "title_en": "Rusko u nás začalo se sabotážemi, využívá i bezdomovce, říká dánská analytička",
-      "lead_en": "Dánská analytička bezpečnostní a zpravodajské služby tvrdí, že Rusko v Dánsku k sabotážím využívá i narkomany a bezdomovce, pro které může být lákavá nabídka rychlých peněz.",
-      "title_raw": "Rusko u nás začalo se sabotážemi, využívá i bezdomovce, říká dánská analytička",
-      "lead_raw": "Dánská analytička bezpečnostní a zpravodajské služby tvrdí, že Rusko v Dánsku k sabotážím využívá i narkomany a bezdomovce, pro které může být lákavá nabídka rychlých peněz.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "a87fa24a2ea8823939a6e2131108695e34beb1aa",
-      "fingerprint": "3611235221afadd92645ef029f0c7b8161fa22b1",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-tankery-v-hormuzskem-prulivu-minuly-tyden-celily-nejvice-utokum-od-zacatku-valky-40601376",
-      "published_utc": "2026-10-07T18:55:58Z",
-      "title_en": "Tankery v Hormuzském průlivu minulý týden čelily nejvíce útokům od začátku války",
-      "lead_en": "Tankery v Hormuzském průlivu minulý týden čelily nejméně dvanácti útokům, informovaly zdroje ze sféry námořní bezpečnosti. Jedná se o nejvyšší počet útoků od únorového začátku války mezi USA a Íránem.",
-      "title_raw": "Tankery v Hormuzském průlivu minulý týden čelily nejvíce útokům od začátku války",
-      "lead_raw": "Tankery v Hormuzském průlivu minulý týden čelily nejméně dvanácti útokům, informovaly zdroje ze sféry námořní bezpečnosti. Jedná se o nejvyšší počet útoků od únorového začátku války mezi USA a Íránem.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ed3f14ff697600850152799bbdddf931e788bcc6",
-      "fingerprint": "8a38cbb1fc89f12d560c3f42d9553d190bcdd47f",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-rusko-u-nas-rozjelo-sabotaze-uvedla-analyticka-danske-tajne-sluzby-40601379",
-      "published_utc": "2026-10-07T18:51:14Z",
-      "title_en": "Rusko u nás rozjelo sabotáže, uvedla analytička dánské tajné služby",
-      "lead_en": "Rusko zahájilo sabotážní operace proti dánským firmám, které se podílejí na zbrojních dodávkách na Ukrajinu. Ve středu to na bezpečnostní konferenci v Kodani prohlásila vedoucí analytička Dánské bezpečnostní a zpravodajské služby (PET) Josefine Christensenová.",
-      "title_raw": "Rusko u nás rozjelo sabotáže, uvedla analytička dánské tajné služby",
-      "lead_raw": "Rusko zahájilo sabotážní operace proti dánským firmám, které se podílejí na zbrojních dodávkách na Ukrajinu. Ve středu to na bezpečnostní konferenci v Kodani prohlásila vedoucí analytička Dánské bezpečnostní a zpravodajské služby (PET) Josefine Christensenová.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "a3cb2b44200ab6ca6fb4906e52099b272f172f8a",
-      "fingerprint": "aecafc261b1de0e70c9bca7eb1a9ce39928e6cad",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/valka-na-ukrajine-cesko-ucast-rusko-drony-diplomatka.A261007_202115_zahranicni_meli",
-      "published_utc": "2026-10-07T18:40:00Z",
-      "title_en": "Ruská diplomatka jmenovala „spolupachatele“ války na Ukrajině. Včetně Česka",
-      "lead_en": "Šéfka ruské delegace na vídeňském fóru Organizace pro bezpečnost a spolupráci v Evropě (OBSE) Julija Ždanovová označila několik států, mezi nimi také Česko, za účastníky války na Ukrajině. Země podle ní dodávají drony ukrajinské armádě a podílejí se tak na vraždách ruských občanů.",
-      "title_raw": "Ruská diplomatka jmenovala „spolupachatele“ války na Ukrajině. Včetně Česka",
-      "lead_raw": "Šéfka ruské delegace na vídeňském fóru Organizace pro bezpečnost a spolupráci v Evropě (OBSE) Julija Ždanovová označila několik států, mezi nimi také Česko, za účastníky války na Ukrajině. Země podle ní dodávají drony ukrajinské armádě a podílejí se tak na vraždách ruských občanů.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "34359493c2cf195c43d28c6aa0f9ce85ed867517",
-      "fingerprint": "d68832dead6a717cd2c14d5241a176368241d0a3",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/koktejl-muz-v-gize-na-posledni-chvili-zachranil-chlapce-ktery-vypadl-z-balkonu-drama-zachytila-kamera-40601007",
-      "published_utc": "2026-10-07T18:36:06Z",
-      "title_en": "Muž v Gíze na poslední chvíli zachránil chlapce, který vypadl z balkonu. Drama zachytila kamera",
-      "lead_en": "Jako opravdový hrdina se projevil mladý Egypťan, když ve městě Gíza zachránil život asi čtyřletému chlapci, který vypadl z balkonu ve druhém patře. Drama se šťastným koncem zachytila bezpečnostní kamera.",
-      "title_raw": "Muž v Gíze na poslední chvíli zachránil chlapce, který vypadl z balkonu. Drama zachytila kamera",
-      "lead_raw": "Jako opravdový hrdina se projevil mladý Egypťan, když ve městě Gíza zachránil život asi čtyřletému chlapci, který vypadl z balkonu ve druhém patře. Drama se šťastným koncem zachytila bezpečnostní kamera.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "7d3ee74ea1659674586164d18680da767581e6e5",
-      "fingerprint": "e053cf189d9fd469b8ac051c44b46b73ce7592bd",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-na-rakouskou-armadu-a-infrastrukturu-miri-100-000-hybridnich-utoku-denne-sef-generalniho-stabu-vini-rusko-40601342",
-      "published_utc": "2026-10-07T18:21:34Z",
-      "title_en": "Na rakouskou armádu a infrastrukturu míří 100 000 hybridních útoků denně. Šéf generálního štábu viní Rusko",
-      "lead_en": "Na servery spojené s rakouskou armádou a kritickou infrastrukturou je vedeno nejméně 100 000 hybridních útoků denně. Prohlásil to podle listu Der Standard nový náčelník rakouského generálního štábu Harald Vodosek (62), který z útoků obvinil Rusko.",
-      "title_raw": "Na rakouskou armádu a infrastrukturu míří 100 000 hybridních útoků denně. Šéf generálního štábu viní Rusko",
-      "lead_raw": "Na servery spojené s rakouskou armádou a kritickou infrastrukturou je vedeno nejméně 100 000 hybridních útoků denně. Prohlásil to podle listu Der Standard nový náčelník rakouského generálního štábu Harald Vodosek (62), který z útoků obvinil Rusko.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "4a9739a280c232cee495730ee531b6e2ead1c8eb",
-      "fingerprint": "2e12158f5159f2f25fe6520cd12b3af56434a589",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-ruska-diplomatka-oznacila-cesko-za-ucastnika-valky-na-ukrajine-40601377",
-      "published_utc": "2026-10-07T18:06:13Z",
-      "title_en": "Ruská diplomatka označila Česko za účastníka války na Ukrajině",
-      "lead_en": "Šéfka ruské delegace na vídeňském fóru Organizace pro bezpečnost a spolupráci v Evropě (OBSE) Julija Ždanovová označila několik států, mezi nimi také Česko, za účastníky války na Ukrajině. Země podle ní dodávají drony ukrajinské armádě a podílejí se tak na vraždách ruských občanů, napsala ve středu ruská státní agentura TASS.",
-      "title_raw": "Ruská diplomatka označila Česko za účastníka války na Ukrajině",
-      "lead_raw": "Šéfka ruské delegace na vídeňském fóru Organizace pro bezpečnost a spolupráci v Evropě (OBSE) Julija Ždanovová označila několik států, mezi nimi také Česko, za účastníky války na Ukrajině. Země podle ní dodávají drony ukrajinské armádě a podílejí se tak na vraždách ruských občanů, napsala ve středu ruská státní agentura TASS.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "20cf1733f2208bcfc9368b5fe32ce5c4e9f53d7d",
-      "fingerprint": "b83ca9e8d156fa43e0a3592bc3787b98cb910991",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/neviditelna-fronta-valka-o-ceskou-mysl-jak-se-cvici-na-hybridni-valku-proti-rusku.A261006_195234_domaci_bury",
-      "published_utc": "2026-10-07T18:00:00Z",
-      "title_en": "Neviditelná fronta: válka o českou mysl. Jak se cvičí na hybridní válku proti Rusku",
-      "lead_en": "Je aktivován Článek 5 Severoatlantické smlouvy. Východní křídlo NATO čelí drtivému útoku Ruska, spojenecká vojska se valí na pomoc napadené Litvě a do Česka naopak proudí davy uprchlíků.",
-      "title_raw": "Neviditelná fronta: válka o českou mysl. Jak se cvičí na hybridní válku proti Rusku",
-      "lead_raw": "Je aktivován Článek 5 Severoatlantické smlouvy. Východní křídlo NATO čelí drtivému útoku Ruska, spojenecká vojska se valí na pomoc napadené Litvě a do Česka naopak proudí davy uprchlíků.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 3,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
       ],
       "primary_topic": "military"
     }

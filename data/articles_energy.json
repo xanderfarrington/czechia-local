@@ -1,10 +1,77 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-09T16:39:38Z",
+  "updated_at_utc": "2026-10-09T21:21:48Z",
   "topic": "energy",
   "count": 41,
   "articles": [
+    {
+      "id": "d48510b617376ba096dd1a99412c4be83ee54ad7",
+      "fingerprint": "c37ed6b5764a84499ed2f8cb5c8bd3cda121888e",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-putin-chce-vymenou-za-trumpovo-energeticke-primeri-na-ukrajine-ziskat-ulevy-ze-sankci-40601827",
+      "published_utc": "2026-10-09T19:19:36Z",
+      "title_en": "Putin chce výměnou za Trumpovo energetické příměří na Ukrajině získat úlevy ze sankcí",
+      "lead_en": "V rámci jednání o možném energetickém příměří s Ukrajinou požaduje Rusko po USA zmírnění sankcí, především uvolnění zmrazených peněz. Podle deníku Kyiv Independent se Moskva zároveň snaží tuto iniciativu propojit s příměřím v Černém moři.",
+      "title_raw": "Putin chce výměnou za Trumpovo energetické příměří na Ukrajině získat úlevy ze sankcí",
+      "lead_raw": "V rámci jednání o možném energetickém příměří s Ukrajinou požaduje Rusko po USA zmírnění sankcí, především uvolnění zmrazených peněz. Podle deníku Kyiv Independent se Moskva zároveň snaží tuto iniciativu propojit s příměřím v Černém moři.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "ad048ae5a8995750a6716a1b445cfcad8c5d4e30",
+      "fingerprint": "ed09803b76b001abb5c77a38041bc47f1b8f109a",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/koktejl-okresni-volby-v-peru-vyhral-hitler-mussolini-40601763",
+      "published_utc": "2026-10-09T17:46:03Z",
+      "title_en": "Okresní volby v Peru vyhrál Hitler Mussolini",
+      "lead_en": "Volby v horském okrese Queropalca v Peru vyhrál 45letý muž jménem Hitler Mussolini Simeón Flores. Kandidoval za levicovou stranu Ahora Nación.",
+      "title_raw": "Okresní volby v Peru vyhrál Hitler Mussolini",
+      "lead_raw": "Volby v horském okrese Queropalca v Peru vyhrál 45letý muž jménem Hitler Mussolini Simeón Flores. Kandidoval za levicovou stranu Ahora Nación.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "188b10deaa7dddc9d3526b19ff5073342092873b",
+      "fingerprint": "3c3673dc1ffbf9892b12e644582bf7447ba9c7fa",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-solarni-boom-narazi-na-problem-cesku-chybeji-technici-40601768",
+      "published_utc": "2026-10-09T16:51:05Z",
+      "title_en": "Solární boom naráží na problém. Česku chybějí technici",
+      "lead_en": "Solární energetika a bateriová úložiště v Česku potřebují více technicky vzdělaných pracovníků, uvedly v pátek Solární asociace a Svaz moderní energetiky ve společném prohlášení. Obor podle nich nabízí příležitost pro český průmysl, od strojírenství a elektrotechniky přes stavebnictví až po vývoj softwaru a digitální řízení energetiky.",
+      "title_raw": "Solární boom naráží na problém. Česku chybějí technici",
+      "lead_raw": "Solární energetika a bateriová úložiště v Česku potřebují více technicky vzdělaných pracovníků, uvedly v pátek Solární asociace a Svaz moderní energetiky ve společném prohlášení. Obor podle nich nabízí příležitost pro český průmysl, od strojírenství a elektrotechniky přes stavebnictví až po vývoj softwaru a digitální řízení energetiky.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "480a84d0c0e005c61c3938537e49b89c28129cea",
       "fingerprint": "96242be03ae2b5effc529b41c559aea2b14ec83a",
@@ -851,72 +918,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "234a677f24bae8bcd45e8b24f96117a89a9c86fb",
-      "fingerprint": "fe6f6447f5decbd6e38f7d58786134531d07e16d",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/7-rijna-teroristicky-utok-izrael-hamas-pieni-akce-evropa.A261007_182219_zahranicni_meli",
-      "published_utc": "2026-10-07T17:23:00Z",
-      "title_en": "Na jejich jména nezapomínáme. Evropa uctila oběti Hamásu, objevily se i střety",
-      "lead_en": "Německý kancléř Friedrich Merz, francouzský prezident Emmanuel Macron, britský premiér Andy Burnham či šéfka Evropské komise Ursula von der Leyenová ve středu u příležitosti třetího výročí teroristického útoku palestinského hnutí Hamás na Izrael slíbili bojovat proti antisemitismu a zasadit se o mírové soužití Izraelců a Palestinců. V řadě evropských měst se pak konaly vzpomínkové akce, například v Berlíně a Londýně.",
-      "title_raw": "Na jejich jména nezapomínáme. Evropa uctila oběti Hamásu, objevily se i střety",
-      "lead_raw": "Německý kancléř Friedrich Merz, francouzský prezident Emmanuel Macron, britský premiér Andy Burnham či šéfka Evropské komise Ursula von der Leyenová ve středu u příležitosti třetího výročí teroristického útoku palestinského hnutí Hamás na Izrael slíbili bojovat proti antisemitismu a zasadit se o mírové soužití Izraelců a Palestinců. V řadě evropských měst se pak konaly vzpomínkové akce, například v Berlíně a Londýně.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "2b3eb76eb7950276df1dc677aece562c705c544f",
-      "fingerprint": "9500d78656ee9b03d4a634d3198e47c7387e135d",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/evropa-si-pripomnela-obeti-teroristu-z-hamasu-lide-se-sesli-i-v-praze-378346",
-      "published_utc": "2026-10-07T17:21:43Z",
-      "title_en": "Evropa si připomněla oběti teroristů z Hamásu. Lidé se sešli i v Praze",
-      "lead_en": "Německý kancléř Friedrich Merz, francouzský prezident Emmanuel Macron, britský premiér Andy Burnham či šéfka Evropské komise Ursula von der Leyenová ve středu u příležitosti třetího výročí teroristického útoku palestinského hnutí Hamás na Izrael slíbili bojovat proti antisemitismu a zasadit se o mírové soužití Izraelců a Palestinců. V řadě evropských měst se pak konaly vzpomínkové akce, například v Berlíně a Londýně.",
-      "title_raw": "Evropa si připomněla oběti teroristů z Hamásu. Lidé se sešli i v Praze",
-      "lead_raw": "Německý kancléř Friedrich Merz, francouzský prezident Emmanuel Macron, britský premiér Andy Burnham či šéfka Evropské komise Ursula von der Leyenová ve středu u příležitosti třetího výročí teroristického útoku palestinského hnutí Hamás na Izrael slíbili bojovat proti antisemitismu a zasadit se o mírové soužití Izraelců a Palestinců. V řadě evropských měst se pak konaly vzpomínkové akce, například v Berlíně a Londýně.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "6f562c26e191a1b10a93df69856ad78075a214d7",
-      "fingerprint": "695183b095833a9e2526c26395c93fc95803bafb",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/pariz-francie-saint-denis-nasili-policie-slzny-plyn-studentske-protesty.A261007_181216_zahranicni_jhr",
-      "published_utc": "2026-10-07T16:53:00Z",
-      "title_en": "VIDEO: Postavil se jako štít, francouzského starostu pak zasáhl slzný plyn",
-      "lead_en": "Bally Bagayoko, starosta města Saint-Denis na severním předměstí Paříže, vzbudil pozornost na sociálních sítích. Na záběrech je totiž vidět, jak se účastní studentských protestů a sám je zasažen slzným plynem.",
-      "title_raw": "VIDEO: Postavil se jako štít, francouzského starostu pak zasáhl slzný plyn",
-      "lead_raw": "Bally Bagayoko, starosta města Saint-Denis na severním předměstí Paříže, vzbudil pozornost na sociálních sítích. Na záběrech je totiž vidět, jak se účastní studentských protestů a sám je zasažen slzným plynem.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
