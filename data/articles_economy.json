@@ -1,10 +1,105 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-09T09:42:54Z",
+  "updated_at_utc": "2026-10-09T16:39:38Z",
   "topic": "economy",
-  "count": 28,
+  "count": 26,
   "articles": [
+    {
+      "id": "235c2a53255af1f94fb5baf8eb451aa54c14f451",
+      "fingerprint": "048982351571899c6d9ee3319bb7d2a26fbb6b94",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/mene-cinskych-aut-v-eu-muze-prinest-nova-dohoda-bruselu-a-pekingu-378422",
+      "published_utc": "2026-10-09T16:24:03Z",
+      "title_en": "Méně čínských aut v EU může přinést nová dohoda Bruselu a Pekingu",
+      "lead_en": "Čína a Evropská unie dospěly k dohodě, která by mohla vést k poklesu vývozu čínských hybridních automobilů do EU o více než polovinu. Uvedl to v pátek evropský komisař pro obchod Maroš Šefčovič na tiskové konferenci po rozhovorech s čínským ministrem obchodu Wangem Wen-tchaem v Pekingu.",
+      "title_raw": "Méně čínských aut v EU může přinést nová dohoda Bruselu a Pekingu",
+      "lead_raw": "Čína a Evropská unie dospěly k dohodě, která by mohla vést k poklesu vývozu čínských hybridních automobilů do EU o více než polovinu. Uvedl to v pátek evropský komisař pro obchod Maroš Šefčovič na tiskové konferenci po rozhovorech s čínským ministrem obchodu Wangem Wen-tchaem v Pekingu.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "f28fc2e0ae0c4ee258346129b2bb1bee401abace",
+      "fingerprint": "a7b7eb0a9ee29756789ed0e4892beee6ee989ce0",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-cinske-automobilky-mohou-prijit-o-polovinu-evropskeho-trhu-s-hybridy-40601783",
+      "published_utc": "2026-10-09T16:21:13Z",
+      "title_en": "Čínské automobilky mohou přijít o polovinu evropského trhu s hybridy",
+      "lead_en": "Čína a Evropská unie dospěly k dohodě, která by mohla vést k poklesu vývozu čínských hybridních automobilů do EU o více než polovinu. Uvedl to v pátek komisař pro obchod Maroš Šefčovič po rozhovorech s čínským ministrem obchodu Wangem Wen-tchaem v Pekingu.",
+      "title_raw": "Čínské automobilky mohou přijít o polovinu evropského trhu s hybridy",
+      "lead_raw": "Čína a Evropská unie dospěly k dohodě, která by mohla vést k poklesu vývozu čínských hybridních automobilů do EU o více než polovinu. Uvedl to v pátek komisař pro obchod Maroš Šefčovič po rozhovorech s čínským ministrem obchodu Wangem Wen-tchaem v Pekingu.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "1f863088747ee142bb3a30451aa9040a13c6515c",
+      "fingerprint": "30368d025b999d2f3a3aff2b5f57dce71994df4b",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-evropane-maji-na-uctech-250-bilionu-korun-unie-je-chce-nasmerovat-k-firmam-40601745",
+      "published_utc": "2026-10-09T14:49:35Z",
+      "title_en": "Evropané mají na účtech 250 bilionů korun. Unie je chce nasměrovat k firmám",
+      "lead_en": "Investovat v jiné zemi Evropské unie má být snazší než dnes. Členské státy se v pátek dohodly na hlavních bodech společného vyjednávacího postoje k návrhu, který propojí kapitálové trhy a sjednotí pravidla dohledu nad nimi.",
+      "title_raw": "Evropané mají na účtech 250 bilionů korun. Unie je chce nasměrovat k firmám",
+      "lead_raw": "Investovat v jiné zemi Evropské unie má být snazší než dnes. Členské státy se v pátek dohodly na hlavních bodech společného vyjednávacího postoje k návrhu, který propojí kapitálové trhy a sjednotí pravidla dohledu nad nimi.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "27f1f6a3d9265d87513620cab9ebe287cf04cbfe",
+      "fingerprint": "8786a99707b910557936b8c8da03b6f789361003",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-evropa-schvalila-cesky-plan-jak-snizit-schodek-rozpoctu-experti-mu-neveri-40601667",
+      "published_utc": "2026-10-09T14:34:56Z",
+      "title_en": "Evropa schválila český plán, jak snížit schodek rozpočtu. Experti mu nevěří",
+      "lead_en": "Schválenou cestu k nižšímu schodku veřejných financí má od pátku vláda Andreje Babiše (ANO). Ministři financí zemí Evropské unie podpořili v Lucemburku český plán, podle něhož má deficit klesnout z 2,8 procenta HDP v příštím roce na 1,2 procenta v roce 2030.",
+      "title_raw": "Evropa schválila český plán, jak snížit schodek rozpočtu. Experti mu nevěří",
+      "lead_raw": "Schválenou cestu k nižšímu schodku veřejných financí má od pátku vláda Andreje Babiše (ANO). Ministři financí zemí Evropské unie podpořili v Lucemburku český plán, podle něhož má deficit klesnout z 2,8 procenta HDP v příštím roce na 1,2 procenta v roce 2030.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 4,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "85fceb45953a47b49475d34c8cfb95eed7db559c",
       "fingerprint": "625c2fd06fb920fe0cf08e58e952ce9bac74848e",
@@ -480,141 +575,6 @@
       "lead_en": "V případu jednoho z dosud největších podvodů s DPH v Česku padla obžaloba, obžalovaným hrozí až desetileté vězení.",
       "title_raw": "Čtyři lidí čelí obžalobě z daňového podvodu za 4,8 miliardy korun",
       "lead_raw": "V případu jednoho z dosud největších podvodů s DPH v Česku padla obžaloba, obžalovaným hrozí až desetileté vězení.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "46944d7838621b1673c9ce424da49bd9f65462c6",
-      "fingerprint": "2219e22cb36c5b33662ff23a54831f38af910d97",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/jak-resit-nedostupne-bydleni-a-problemy-s-dopravou-poslouchejte-debatu-kandidatu_2610071809_lar",
-      "published_utc": "2026-10-07T16:09:00Z",
-      "title_en": "Jak řešit nedostupné bydlení a problémy s dopravou? Poslechněte si debatu kandidátů na pražský magistrát",
-      "lead_en": "Bydlení v Praze je drahé a doprava přetížená. Vedení hlavního města navíc rozhoduje o investicích za miliardy korun.",
-      "title_raw": "Jak řešit nedostupné bydlení a problémy s dopravou? Poslechněte si debatu kandidátů na pražský magistrát",
-      "lead_raw": "Bydlení v Praze je drahé a doprava přetížená. Vedení hlavního města navíc rozhoduje o investicích za miliardy korun.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "fe133baa9455b6e5ceb40d6760a933e3411f780d",
-      "fingerprint": "5b25f03648baba8e87db56bcf8accca1de063585",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-do-obriho-danoveho-podvodu-jsou-zapleteny-ceske-firmy-skoda-je-v-radu-miliard-40601350",
-      "published_utc": "2026-10-07T15:17:41Z",
-      "title_en": "Do obřího daňového podvodu jsou zapleteny české firmy, škoda je skoro pět miliard",
-      "lead_en": "Gigantický daňový podvod se škodou přes 4,8 miliardy korun, do něhož jsou zapleteny české firmy, rozplétá Úřad evropského veřejného žalobce (EPPO) v Ostravě. Obžaloval z něj čtyři osoby, Městskému soudu v Praze navrhl uzavřít s dalšími čtyřmi podezřelými dohodu o vině a trestu.",
-      "title_raw": "Do obřího daňového podvodu jsou zapleteny české firmy, škoda je skoro pět miliard",
-      "lead_raw": "Gigantický daňový podvod se škodou přes 4,8 miliardy korun, do něhož jsou zapleteny české firmy, rozplétá Úřad evropského veřejného žalobce (EPPO) v Ostravě. Obžaloval z něj čtyři osoby, Městskému soudu v Praze navrhl uzavřít s dalšími čtyřmi podezřelými dohodu o vině a trestu.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "b90a97aaf7990be918eb4593a4a639c4476a904c",
-      "fingerprint": "a3d84838e8ba67fa6a1f43e89aa8a4aa21b79d9e",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-jeden-z-nejbohatsich-cechu-vild-poridil-pro-svou-firmu-btl-nove-sidlo-316986",
-      "published_utc": "2026-10-07T15:00:00Z",
-      "title_en": "Jeden z nejbohatších Čechů Vild pořídil pro svou firmu BTL nové sídlo",
-      "lead_en": "Přední světový výrobce zdravotnické techniky, skupina BTL Jana Vilda, si koupil sídlo. Od nemovitostního fondu Trigea získala kancelářskou budovu Explora Business Centre v Praze za miliardy korun.",
-      "title_raw": "Jeden z nejbohatších Čechů Vild pořídil pro svou firmu BTL nové sídlo",
-      "lead_raw": "Přední světový výrobce zdravotnické techniky, skupina BTL Jana Vilda, si koupil sídlo. Od nemovitostního fondu Trigea získala kancelářskou budovu Explora Business Centre v Praze za miliardy korun.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "56a29b6ebc8084fecf9eeedbe6c65f3b4412299b",
-      "fingerprint": "7c7320a8b1b6b4d33b41c003f6b9fc3cd7d14f4b",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/internet-a-pc-bezpecnost-trojice-cizincu-si-podvodnymi-obchody-prisla-na-115-milionu-hrozi-jim-osm-let-vezeni-40601295",
-      "published_utc": "2026-10-07T14:54:28Z",
-      "title_en": "Trojice cizinců si podvodnými obchody přišla na 11,5 milionu. Hrozí jim osm let vězení",
-      "lead_en": "Kriminalistům z oddělení kybernetické kriminality krajského policejního ředitelství v Olomouci se podařilo odhalit tři cizince ve věku 29, 33 a 37 let podezřelé z podvodných internetových obchodů. Přibližně 350 osob a firem z různých míst v ČR měli připravit o přibližně 11,5 milionu korun.",
-      "title_raw": "Trojice cizinců si podvodnými obchody přišla na 11,5 milionu. Hrozí jim osm let vězení",
-      "lead_raw": "Kriminalistům z oddělení kybernetické kriminality krajského policejního ředitelství v Olomouci se podařilo odhalit tři cizince ve věku 29, 33 a 37 let podezřelé z podvodných internetových obchodů. Přibližně 350 osob a firem z různých míst v ČR měli připravit o přibližně 11,5 milionu korun.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 1
-      },
-      "topics": [
-        "military",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "3e4dd93507771692e06c884302e4381d1a9f37c3",
-      "fingerprint": "42f0d0c78baa2fc5ed5e08128f742b5dd8fd6427",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-starlinky-budou-padat-jako-mouchy-medvedev-vyhrozuje-vesmirnou-valkou-40601234",
-      "published_utc": "2026-10-07T14:48:57Z",
-      "title_en": "Starlinky budou padat jako mouchy. Medvěděv vyhrožuje vesmírnou válkou",
-      "lead_en": "Ruský exprezident a místopředseda bezpečnostní rady Dmitrij Medvěděv prohlásil, že v případě zničení ruských satelitů Rassvet propukne vesmírná válka, během níž budou padat satelity společnosti Starlink „jako mouchy“. Napsal to na Telegramu a nezvykle i na síti X v angličtině v souvislosti s tím, že ukrajinský prezident Volodymyr Zelenskyj požádal šéfa Bílého domu Donalda Trumpa, aby uvalil sankce na ruské a čínské společnosti, které se na výrobě nových satelitů podílejí.",
-      "title_raw": "Starlinky budou padat jako mouchy. Medvěděv vyhrožuje vesmírnou válkou",
-      "lead_raw": "Ruský exprezident a místopředseda bezpečnostní rady Dmitrij Medvěděv prohlásil, že v případě zničení ruských satelitů Rassvet propukne vesmírná válka, během níž budou padat satelity společnosti Starlink „jako mouchy“. Napsal to na Telegramu a nezvykle i na síti X v angličtině v souvislosti s tím, že ukrajinský prezident Volodymyr Zelenskyj požádal šéfa Bílého domu Donalda Trumpa, aby uvalil sankce na ruské a čínské společnosti, které se na výrobě nových satelitů podílejí.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "ebec0fd831844f7a831701c9ada1b4fdac9988ec",
-      "fingerprint": "7cc9fd509a5dbefb60417484579500e14258a975",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-babis-se-nastval-ze-mu-utnuli-projev-na-strojirenskem-veletrhu-316962",
-      "published_utc": "2026-10-07T14:00:00Z",
-      "title_en": "Babiš se naštval, že mu utnuli projev na strojírenském veletrhu",
-      "lead_en": "Premiér Andrej Babiš na brněnském strojírenském veletrhu zažil něco, na co není zvyklý. Moderátorka akce průmyslníků přerušila jeho projev a vyzvala ho, aby byl stručný.",
-      "title_raw": "Babiš se naštval, že mu utnuli projev na strojírenském veletrhu",
-      "lead_raw": "Premiér Andrej Babiš na brněnském strojírenském veletrhu zažil něco, na co není zvyklý. Moderátorka akce průmyslníků přerušila jeho projev a vyzvala ho, aby byl stručný.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
