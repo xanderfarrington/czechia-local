@@ -1,10 +1,80 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-10T07:48:56Z",
+  "updated_at_utc": "2026-10-10T14:01:34Z",
   "topic": "economy",
-  "count": 19,
+  "count": 15,
   "articles": [
+    {
+      "id": "a561d65f29142d510faac8ffdd6687cd9aa47075",
+      "fingerprint": "9ba2aa1ac4e9ad101afb50517eb8538873bf9925",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-polsky-ministr-zpochybnil-ze-by-rusko-melo-nafty-nazbyt-317289",
+      "published_utc": "2026-10-10T12:10:00Z",
+      "title_en": "Polský ministr zpochybnil, že by Rusko mělo nafty nazbyt",
+      "lead_en": "Německo neplánuje zrušit protiruské sankce navzdory dohodě mezi Donaldem Trumpem a Vladimirem Putinem o dodávkách ruské nafty. Polsko zpochybnilo, zda má Moskva vůbec dostatek paliva na vývoz.",
+      "title_raw": "Polský ministr zpochybnil, že by Rusko mělo nafty nazbyt",
+      "lead_raw": "Německo neplánuje zrušit protiruské sankce navzdory dohodě mezi Donaldem Trumpem a Vladimirem Putinem o dodávkách ruské nafty. Polsko zpochybnilo, zda má Moskva vůbec dostatek paliva na vývoz.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "b809b7180bb959a4399b0c5f0491d319c2c4eea2",
+      "fingerprint": "9ac253cf5cd73b968dceadb67994e979277c2f22",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/berlin-nemecko-trump-putin-nafta-sankce-rusko-valka-ukrajina.A261010_133443_zahranicni_pluh",
+      "published_utc": "2026-10-10T11:56:00Z",
+      "title_en": "Trumpova dohoda s Putinem naše sankce proti Rusku neovlivní, vzkazují Němci",
+      "lead_en": "Německo v sobotu uvedlo, že ponechá v platnosti sankce proti Rusku kvůli válce na Ukrajině. Vyjádření Berlína přichází po pátečním oznámení amerického prezidenta Donalda Trumpa, že Rusko okamžitě dodá na americký a světový trh přes 300 tisíc tun nafty, na čemž se dohodl v telefonickém rozhovoru se svým ruským protějškem Vladimirem Putinem.",
+      "title_raw": "Trumpova dohoda s Putinem naše sankce proti Rusku neovlivní, vzkazují Němci",
+      "lead_raw": "Německo v sobotu uvedlo, že ponechá v platnosti sankce proti Rusku kvůli válce na Ukrajině. Vyjádření Berlína přichází po pátečním oznámení amerického prezidenta Donalda Trumpa, že Rusko okamžitě dodá na americký a světový trh přes 300 tisíc tun nafty, na čemž se dohodl v telefonickém rozhovoru se svým ruským protějškem Vladimirem Putinem.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "8eea58272588834d12ae3839b8153be61d68ac72",
+      "fingerprint": "a86118e980552f7b1ffad51a428f686871e27c21",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/irsko-chce-snizit-rozpocet-eu-na-162-bilionu-eur-dotknout-se-to-ma-i-bezpecnosti-378433",
+      "published_utc": "2026-10-10T10:51:18Z",
+      "title_en": "Irsko chce snížit rozpočet EU na 1,62 bilionu eur, dotknout se to má i bezpečnosti",
+      "lead_en": "Irské předsednictví navrhuje snížení příštího sedmiletého rozpočtu EU na 1,622 bilionu eur (asi 39,5 bilionu korun). Evropská komise loni v červenci navrhla rozpočet v objemu 1,763 bilionu eur (asi 42,9 bilionu korun), rovněž v cenách roku 2025.",
+      "title_raw": "Irsko chce snížit rozpočet EU na 1,62 bilionu eur, dotknout se to má i bezpečnosti",
+      "lead_raw": "Irské předsednictví navrhuje snížení příštího sedmiletého rozpočtu EU na 1,622 bilionu eur (asi 39,5 bilionu korun). Evropská komise loni v červenci navrhla rozpočet v objemu 1,763 bilionu eur (asi 42,9 bilionu korun), rovněž v cenách roku 2025.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "74b894e2f1edab188f2be92beb02a07071172452",
       "fingerprint": "9bd383081ac2a300d166bc71fdd6095b8e3dcc1a",
@@ -274,160 +344,6 @@
       },
       "topics": [
         "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "4f7b3d5ef45223fcb4b7fc50befe83bb3ec607b5",
-      "fingerprint": "baac346b54f448ffee4ffe9bc3ce39ed23d77445",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-elektromobilitu-jsme-zachytili-vcas-a-rosteme-rika-sef-ceskeho-schaeffleru-316998",
-      "published_utc": "2026-10-08T14:00:00Z",
-      "title_en": "Elektromobilitu jsme zachytili včas a rosteme, říká šéf českého Schaeffleru",
-      "lead_en": "Německá skupina Schaeffler se z výrobce kuličkových ložisek proměnila v globálního dodavatele dílů pro elektromobily. Pracuje i pro čínské automobilky a letos v Ostravě investovala pět miliard korun do nového výrobního závodu.",
-      "title_raw": "Elektromobilitu jsme zachytili včas a rosteme, říká šéf českého Schaeffleru",
-      "lead_raw": "Německá skupina Schaeffler se z výrobce kuličkových ložisek proměnila v globálního dodavatele dílů pro elektromobily. Pracuje i pro čínské automobilky a letos v Ostravě investovala pět miliard korun do nového výrobního závodu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "54b98511eed091467917b7e5d5bc16821b85a475",
-      "fingerprint": "7542ece7772d2930edd2a030040ca866e3df23ef",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/abych-se-neflakal-po-roznove-tak-robim-dlouho-nezamestnani-ve-meste-pomahaji-se_2610081316_dci",
-      "published_utc": "2026-10-08T11:16:00Z",
-      "title_en": "‚Abych se neflákal po Rožnově, tak robím.‘ Dlouho nezaměstnaní ve městě pomáhají se sezonní prací",
-      "lead_en": "V městském parku v Rožnově pod Radhoštěm teď brigádníci uklízejí listí popadané ze stromů. Většinou jde o dlouhodobě nezaměstnané a jde o součást veřejné služby.",
-      "title_raw": "‚Abych se neflákal po Rožnově, tak robím.‘ Dlouho nezaměstnaní ve městě pomáhají se sezonní prací",
-      "lead_raw": "V městském parku v Rožnově pod Radhoštěm teď brigádníci uklízejí listí popadané ze stromů. Většinou jde o dlouhodobě nezaměstnané a jde o součást veřejné služby.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "268d432d0a2dfcfffef26480375c77fdb4a20057",
-      "fingerprint": "8abec4c453f1def2e2b7489b7f9232613bfe2f4c",
-      "source": "Radio Prague International (EN)",
-      "url": "https://english.radio.cz/czech-unemployment-remains-five-percent-third-consecutive-month-8899394",
-      "published_utc": "2026-10-08T08:16:00Z",
-      "title_en": "Czech unemployment remains at five percent for third consecutive month",
-      "lead_en": "Czech unemployment remains at five percent for third consecutive month",
-      "title_raw": "Czech unemployment remains at five percent for third consecutive month",
-      "lead_raw": "Czech unemployment remains at five percent for third consecutive month",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "7c735e2dfde450c4f66d9c62ab3ae29e6243fd85",
-      "fingerprint": "5b67567861649b0f88294351a26d33110150d1e4",
-      "source": "iROZHLAS - Economy",
-      "url": "https://www.irozhlas.cz/ekonomika/nezamestnanost-v-cesku-zustala-v-zari-treti-mesic-po-sobe-na-peti-procentech_2610081014_cen",
-      "published_utc": "2026-10-08T08:14:00Z",
-      "title_en": "Nezaměstnanost v Česku zůstala v září třetí měsíc po sobě na pěti procentech",
-      "lead_en": "Nezaměstnanost v Česku zůstala v září třetí měsíc po sobě na pěti procentech. Úřady práce na konci září evidovaly 368 377 uchazečů o zaměstnání, což bylo o 5514 méně než o měsíc dřív.",
-      "title_raw": "Nezaměstnanost v Česku zůstala v září třetí měsíc po sobě na pěti procentech",
-      "lead_raw": "Nezaměstnanost v Česku zůstala v září třetí měsíc po sobě na pěti procentech. Úřady práce na konci září evidovaly 368 377 uchazečů o zaměstnání, což bylo o 5514 méně než o měsíc dřív.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "01ed69de6c10d299c472203c255c73e05d2ed140",
-      "fingerprint": "aec4828a571b237e766c8ecff3e30bd70d3e5a11",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-nezamestnanych-v-zari-mirne-ubylo-volnych-mist-je-vice-40601419",
-      "published_utc": "2026-10-08T08:07:09Z",
-      "title_en": "Nezaměstnaných v září mírně ubylo, volných míst je více",
-      "lead_en": "Na konci září bylo bez práce 368 377 lidí. To je o 5514 méně než v srpnu a o 30 452 více než před rokem.",
-      "title_raw": "Nezaměstnaných v září mírně ubylo, volných míst je více",
-      "lead_raw": "Na konci září bylo bez práce 368 377 lidí. To je o 5514 méně než v srpnu a o 30 452 více než před rokem.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "4708162964edbeaffd13e7773ee7f9faae98e759",
-      "fingerprint": "8a429934c91f4d6712470ea23ea64636f68f4adc",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/nezamestnanost-v-cesku-zustala-v-zari-na-peti-procentech/2884375",
-      "published_utc": "2026-10-08T08:04:00Z",
-      "title_en": "Nezaměstnanost v Česku zůstala v září na pěti procentech",
-      "lead_en": "Praha - Nezaměstnanost v Česku zůstala v září třetí měsíc po sobě na pěti procentech. Úřady práce na konci září evidovaly 368.377 uchazečů o zaměstnání, což bylo o 5514 méně než o měsíc dřív.",
-      "title_raw": "Nezaměstnanost v Česku zůstala v září na pěti procentech",
-      "lead_raw": "Praha - Nezaměstnanost v Česku zůstala v září třetí měsíc po sobě na pěti procentech. Úřady práce na konci září evidovaly 368.377 uchazečů o zaměstnání, což bylo o 5514 méně než o měsíc dřív.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "4aeb29a5fad348302d2756157382d3a5e6bb6cb8",
-      "fingerprint": "97876b7966ffb5d5b9961aacd0d77b85fd702aa9",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/nezamestnanost-v-zari-stagnovala-na-peti-procentech-mezirocne-je-vyssi-/2884375",
-      "published_utc": "2026-10-08T08:04:00Z",
-      "title_en": "Nezaměstnanost v září stagnovala na pěti procentech, meziročně je vyšší",
-      "lead_en": "Praha - Podíl nezaměstnaných v Česku byl v září pět procent, na stejné úrovni se drží třetí měsíc v řadě. Vyplývá to z údajů, které dnes zveřejnil Úřad práce ČR.",
-      "title_raw": "Nezaměstnanost v září stagnovala na pěti procentech, meziročně je vyšší",
-      "lead_raw": "Praha - Podíl nezaměstnaných v Česku byl v září pět procent, na stejné úrovni se drží třetí měsíc v řadě. Vyplývá to z údajů, které dnes zveřejnil Úřad práce ČR.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
         "economy"
       ],
       "primary_topic": "economy"

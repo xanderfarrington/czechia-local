@@ -1,10 +1,214 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-10T07:48:56Z",
+  "updated_at_utc": "2026-10-10T14:01:34Z",
   "topic": "energy",
-  "count": 36,
+  "count": 39,
   "articles": [
+    {
+      "id": "7dd15efd0f97954baf3192ad253e99313f214cd1",
+      "fingerprint": "e3117f41fec3dc3403c2b3b0b5ee674875554acc",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-prestante-utocit-na-ruske-rafinerie-usa-hrozi-ukrajine-40601901",
+      "published_utc": "2026-10-10T13:47:20Z",
+      "title_en": "Přestaňte útočit na ruské rafinérie. USA hrozí Ukrajině",
+      "lead_en": "Americký prezident Donald Trump se rozhodl uzavřít s Ruskem dohodu o naftě poté, co jeho ukrajinský protějšek ignoroval půl tuctu žádostí USA o zastavení útoků na ruské ropné rafinerie. Nyní Američané dokonce hrozí Ukrajincům, že je odstřihnou od zpravodajských informací, pokud s útoky na ruskou ropnou infrastrukturu nepřestanou, uvedl s odvoláním na své zdroje server Axios.",
+      "title_raw": "Přestaňte útočit na ruské rafinérie. USA hrozí Ukrajině",
+      "lead_raw": "Americký prezident Donald Trump se rozhodl uzavřít s Ruskem dohodu o naftě poté, co jeho ukrajinský protějšek ignoroval půl tuctu žádostí USA o zastavení útoků na ruské ropné rafinerie. Nyní Američané dokonce hrozí Ukrajincům, že je odstřihnou od zpravodajských informací, pokud s útoky na ruskou ropnou infrastrukturu nepřestanou, uvedl s odvoláním na své zdroje server Axios.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "e6d2c7a3dffe77d5bda01cbaf51c904f29f313b3",
+      "fingerprint": "602fb450a2adffc06d7202ed6fbedf88f8fcf46e",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/tech-technologie-veda-nobelovku-z-ledu-vynesl-fascinujici-vyzkum-ktery-lidem-mozna-nijak-nepomuze-317014",
+      "published_utc": "2026-10-10T13:15:00Z",
+      "title_en": "Nobelovku „z ledu“ vynesl fascinující výzkum, který lidem možná nijak nepomůže",
+      "lead_en": "Nobelovu cenu za fyziku letos po dlouhé době dostal jediný vědec, Belgičan Francis Halzen. Vybudoval zařízení zachycující částice, které k nám z vesmíru přilétají s obrovskými energiemi.",
+      "title_raw": "Nobelovku „z ledu“ vynesl fascinující výzkum, který lidem možná nijak nepomůže",
+      "lead_raw": "Nobelovu cenu za fyziku letos po dlouhé době dostal jediný vědec, Belgičan Francis Halzen. Vybudoval zařízení zachycující částice, které k nám z vesmíru přilétají s obrovskými energiemi.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "ac86557283888b049a735432afffac71dc06803a",
+      "fingerprint": "ff9ea868a2d419fbf86a628009d8be1a67f6fa5f",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/urovnal-jsem-osm-valek-a-nemam-nobelovu-cenu-stezuje-si-trump-378434",
+      "published_utc": "2026-10-10T13:07:06Z",
+      "title_en": "Urovnal jsem osm válek a nemám Nobelovu cenu, stěžuje si Trump",
+      "lead_en": "Americký prezident Donald Trump si na své sociální síti Truth Social opět stěžoval, že USA ani on sám nedostali Nobelovu cenu za mír. Tvrdí, že ukončil osm válek nebo že zabránil Íránu v získání jaderné zbraně.",
+      "title_raw": "Urovnal jsem osm válek a nemám Nobelovu cenu, stěžuje si Trump",
+      "lead_raw": "Americký prezident Donald Trump si na své sociální síti Truth Social opět stěžoval, že USA ani on sám nedostali Nobelovu cenu za mír. Tvrdí, že ukončil osm válek nebo že zabránil Íránu v získání jaderné zbraně.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "0e46101936f90598f63a2b619a8880fd1d80d5fa",
+      "fingerprint": "4bd1452a1e3570c8378a80e043ed51e26cdc94e4",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-krvava-ropa-pro-usa-politici-reaguji-na-trumpovu-dohodu-s-putinem-40601856",
+      "published_utc": "2026-10-10T12:41:28Z",
+      "title_en": "Krvavá ropa pro USA. Politici reagují na Trumpovu dohodu s Putinem",
+      "lead_en": "Rozhodnutí amerického prezidenta Donalda Trumpa povolit na šest měsíců prodej ruské nafty na světových trzích vyvolalo vlnu kritiky. Ukrajinský prezident Volodymyr Zelenskyj ho označil za projev slabosti a společně s řadou kritiků varoval, že uvolnění sankcí pomůže Moskvě financovat pokračující válku proti Ukrajině.",
+      "title_raw": "Krvavá ropa pro USA. Politici reagují na Trumpovu dohodu s Putinem",
+      "lead_raw": "Rozhodnutí amerického prezidenta Donalda Trumpa povolit na šest měsíců prodej ruské nafty na světových trzích vyvolalo vlnu kritiky. Ukrajinský prezident Volodymyr Zelenskyj ho označil za projev slabosti a společně s řadou kritiků varoval, že uvolnění sankcí pomůže Moskvě financovat pokračující válku proti Ukrajině.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "ed1eecc6de7a39eb5779a96e7a9ac6f1f827a120",
+      "fingerprint": "6123ee800e2a0d37a16359b7d11c20cbee1b3655",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-zlevni-nafta-po-trumpove-dohode-s-putinem-experti-pochybuji-40601864",
+      "published_utc": "2026-10-10T12:35:33Z",
+      "title_en": "Zlevní nafta po Trumpově dohodě s Putinem? Experti pochybují",
+      "lead_en": "Slib ruského vůdce Vladimira Putina americkému prezidentu Donaldu Trumpovi, že Rusko dodá bezmála pět milionů tun nafty, nepředstavuje zásadní změnu pro globální trh s tímto palivem. Podle expertů jde „možná o pěti- či šestiprocentní nárůst dodávek“, který představuje spíše politický tah ze strany Trumpa než zásadní zvrat v situaci na trhu s energetickými surovinami.",
+      "title_raw": "Zlevní nafta po Trumpově dohodě s Putinem? Experti pochybují",
+      "lead_raw": "Slib ruského vůdce Vladimira Putina americkému prezidentu Donaldu Trumpovi, že Rusko dodá bezmála pět milionů tun nafty, nepředstavuje zásadní změnu pro globální trh s tímto palivem. Podle expertů jde „možná o pěti- či šestiprocentní nárůst dodávek“, který představuje spíše politický tah ze strany Trumpa než zásadní zvrat v situaci na trhu s energetickými surovinami.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "8e4f7333226f0e7bbfc233183f6093b33c50af11",
+      "fingerprint": "7a93a0ceeeb7a456daa6870afc862da4cb0a5af8",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/volby/brno/odhad-vysledky-komunalni-volby-2026-brno.A261010_121908_brno-volby_mos1",
+      "published_utc": "2026-10-10T12:27:00Z",
+      "title_en": "Volební exitpoll z Brna: Lidovci a ANO se perou o vítězství, ODS propadla",
+      "lead_en": "Nakročeno k vítězství v Brně má koalice Lidovců a Starostů se ziskem 24 až 30 procent hlasů. Těsně za ní je hnutí ANO.",
+      "title_raw": "Volební exitpoll z Brna: Lidovci a ANO se perou o vítězství, ODS propadla",
+      "lead_raw": "Nakročeno k vítězství v Brně má koalice Lidovců a Starostů se ziskem 24 až 30 procent hlasů. Těsně za ní je hnutí ANO.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "a561d65f29142d510faac8ffdd6687cd9aa47075",
+      "fingerprint": "9ba2aa1ac4e9ad101afb50517eb8538873bf9925",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-polsky-ministr-zpochybnil-ze-by-rusko-melo-nafty-nazbyt-317289",
+      "published_utc": "2026-10-10T12:10:00Z",
+      "title_en": "Polský ministr zpochybnil, že by Rusko mělo nafty nazbyt",
+      "lead_en": "Německo neplánuje zrušit protiruské sankce navzdory dohodě mezi Donaldem Trumpem a Vladimirem Putinem o dodávkách ruské nafty. Polsko zpochybnilo, zda má Moskva vůbec dostatek paliva na vývoz.",
+      "title_raw": "Polský ministr zpochybnil, že by Rusko mělo nafty nazbyt",
+      "lead_raw": "Německo neplánuje zrušit protiruské sankce navzdory dohodě mezi Donaldem Trumpem a Vladimirem Putinem o dodávkách ruské nafty. Polsko zpochybnilo, zda má Moskva vůbec dostatek paliva na vývoz.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "06f9d1c63dff9f15ab1b4fded653286485c8fc6c",
+      "fingerprint": "b74f0a51cfdbfd03fd4f4279daddfc636b69dab2",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-doprava-zajem-evropanu-o-elektromobily-roste-na-stary-kontinent-si-brousi-zuby-cina-316829",
+      "published_utc": "2026-10-10T12:01:00Z",
+      "title_en": "Zájem Evropanů o elektromobily roste. Na starý kontinent si brousí zuby Čína",
+      "lead_en": "Podíl elektrických aut na unijních registracích se blíží ke třiceti procentům. Zájem táhne Německo a Francie.",
+      "title_raw": "Zájem Evropanů o elektromobily roste. Na starý kontinent si brousí zuby Čína",
+      "lead_raw": "Podíl elektrických aut na unijních registracích se blíží ke třiceti procentům. Zájem táhne Německo a Francie.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "b16b002f660f0d4e935fe9a723308f0205b569a4",
+      "fingerprint": "641d6cb01beaf4cceec5b6a2926945e3f0d5ac18",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-trump-si-chce-koupit-volice-putinovou-naftou-nejspis-to-nevyjde-317265",
+      "published_utc": "2026-10-10T08:05:00Z",
+      "title_en": "Trump si chce koupit voliče Putinovou naftou. Nejspíš to nevyjde",
+      "lead_en": "Americký prezident řeší, jak před volbami do Kongresu zmírnit politické dopady vysokých cen paliv. Kvůli tomu udělal překvapivé ústupky Putinovi.",
+      "title_raw": "Trump si chce koupit voliče Putinovou naftou. Nejspíš to nevyjde",
+      "lead_raw": "Americký prezident řeší, jak před volbami do Kongresu zmírnit politické dopady vysokých cen paliv. Kvůli tomu udělal překvapivé ústupky Putinovi.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "be7fcf6f8b1725a5816a8cb333bd5c297762e591",
       "fingerprint": "8319453313bd17259612e830b9975528df78de96",
@@ -670,139 +874,6 @@
         "energy": 1,
         "economy": 0,
         "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ab538e167a0c5fd449954d7dc1e795a1134d538e",
-      "fingerprint": "5c75b50a8565b171563d1f7a0d9f1a004478af7e",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/veda/vetrne-elektrarny-mohou-ochlazovat-morskou-hladinu-ukazal-vyzkum-378362",
-      "published_utc": "2026-10-08T11:12:00Z",
-      "title_en": "Větrné elektrárny mohou ochlazovat mořskou hladinu, ukázal výzkum",
-      "lead_en": "Spočítat dopady větrných elektráren na okolí není úplně snadné – zejména na moři, kde existuje spousta nejrůznějších vlivů, jejichž dopady komplikují vyhodnocení. Teď přišli s kvalifikovanými odhady experti ze Skotska.",
-      "title_raw": "Větrné elektrárny mohou ochlazovat mořskou hladinu, ukázal výzkum",
-      "lead_raw": "Spočítat dopady větrných elektráren na okolí není úplně snadné – zejména na moři, kde existuje spousta nejrůznějších vlivů, jejichž dopady komplikují vyhodnocení. Teď přišli s kvalifikovanými odhady experti ze Skotska.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "cc217f4674d1106c24b3eda216fcef9f5b0e24de",
-      "fingerprint": "1a6a1f7649842538fb6e94ae5f9491fadddf6347",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/uranove-sklo-a-radioaktivita-mleka-danu-drabovou-pripomina-vystava-na-jejim_2610081010_dci",
-      "published_utc": "2026-10-08T10:10:00Z",
-      "title_en": "Uranové sklo a radioaktivita mléka. Danu Drábovou připomíná výstava v jejím domovském úřadě",
-      "lead_en": "Jadernou inženýrku a dlouholetou předsedkyni Státního úřadu pro jadernou bezpečnost Danu Drábovou představuje nová výstava v sídle úřadu v Praze. Expozici připravil úřad společně s partnerkou Dany Drábové u příležitosti prvního výročí jejího úmrtí.",
-      "title_raw": "Uranové sklo a radioaktivita mléka. Danu Drábovou připomíná výstava v jejím domovském úřadě",
-      "lead_raw": "Jadernou inženýrku a dlouholetou předsedkyni Státního úřadu pro jadernou bezpečnost Danu Drábovou představuje nová výstava v sídle úřadu v Praze. Expozici připravil úřad společně s partnerkou Dany Drábové u příležitosti prvního výročí jejího úmrtí.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "b9f23478dd847c0b331e76fc722965f274d89782",
-      "fingerprint": "915fb3ebb379a840cb3c874c3a4ddd8187438fec",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/budoucnost-vetrnych-elektraren-v-cesku-urci-rekordni-pocet-referend-tema-voleb_2610081148_vaa",
-      "published_utc": "2026-10-08T09:48:00Z",
-      "title_en": "Budoucnost větrných elektráren v Česku určí rekordní počet referend. Téma voleb ovlivňují i dezinformace",
-      "lead_en": "K zásadním tématům pátečních a sobotních voleb do senátu i zastupitelstev měst a obcí patří budoucnost větrné energetiky v Česku. Koná se rekordní počet přibližně dvaceti referend najednou, která s budováním větrníků souvisejí.",
-      "title_raw": "Budoucnost větrných elektráren v Česku určí rekordní počet referend. Téma voleb ovlivňují i dezinformace",
-      "lead_raw": "K zásadním tématům pátečních a sobotních voleb do senátu i zastupitelstev měst a obcí patří budoucnost větrné energetiky v Česku. Koná se rekordní počet přibližně dvaceti referend najednou, která s budováním větrníků souvisejí.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "db9ff726f3fafff0ca91effaed09891b82a2e64a",
-      "fingerprint": "e52e4a8650f6dbfb218de1b2f65bf4033c3067d5",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/volby-do-senatu-limity-se-neprolamuji-jen-kvuli-uhli-ty-kampanove-sponuje-senator-laska-316990",
-      "published_utc": "2026-10-08T08:45:00Z",
-      "title_en": "Limity se neprolamují jen kvůli uhlí. Ty kampaňové šponuje senátor Láska",
-      "lead_en": "VOLBY DO SENÁTU – ANO ani SPD tu vzhledem k povaze voličstva nemají šanci. Místo klasického střetu vládního tábora s opozicí tak Praha 5 přihlíží učebnicovému liberálnímu kanibalismu.",
-      "title_raw": "Limity se neprolamují jen kvůli uhlí. Ty kampaňové šponuje senátor Láska",
-      "lead_raw": "VOLBY DO SENÁTU – ANO ani SPD tu vzhledem k povaze voličstva nemají šanci. Místo klasického střetu vládního tábora s opozicí tak Praha 5 přihlíží učebnicovému liberálnímu kanibalismu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e651e0d5162a30c2b04dc597800f34c5391abdd8",
-      "fingerprint": "54171a9d9849b8937fc622715076813a0edf6c6b",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/demokracie-se-umi-branit-jak-recko-zlikvidovalo-zlaty-usvit-a-co-to-znamena-pro-dnesni-afd.A261007_210401_zahranicni_remy",
-      "published_utc": "2026-10-08T08:30:00Z",
-      "title_en": "Demokracie se umí bránit: jak Řecko zlikvidovalo Zlatý úsvit a co z toho plyne pro AfD",
-      "lead_en": "Uteklo šest let od chvíle, kdy padly dlouholeté tresty pro nejvyšší představitele neonacistické strany Zlatý úsvit. Řecká justice tím fakticky uzavřela jednu z nejvýznamnějších kapitol svých moderních právních dějin.",
-      "title_raw": "Demokracie se umí bránit: jak Řecko zlikvidovalo Zlatý úsvit a co z toho plyne pro AfD",
-      "lead_raw": "Uteklo šest let od chvíle, kdy padly dlouholeté tresty pro nejvyšší představitele neonacistické strany Zlatý úsvit. Řecká justice tím fakticky uzavřela jednu z nejvýznamnějších kapitol svých moderních právních dějin.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "3b4299b572df6a9a31f544f665d8f2cc8b0bad1a",
-      "fingerprint": "011874dbae895bfbf4619a3d9b70362c00dbf2ad",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/turek-nehoda-prestupkove-rizeni-mestska-cast-praha-2-ip-pavlova.A261008_093034_domaci_aoc",
-      "published_utc": "2026-10-08T07:50:00Z",
-      "title_en": "Turkovu nehodu bude řešit Praha 2, na Sněmovnu se neobrátil",
-      "lead_en": "Přestupkové řízení s poslancem Motoristů Filipem Turkem kvůli jeho červencové autonehodě bude řešit Městská část Praha 2. Že se neobrátil na Sněmovnu, vyplynulo z vyjádření poslance pro ČTK.",
-      "title_raw": "Turkovu nehodu bude řešit Praha 2, na Sněmovnu se neobrátil",
-      "lead_raw": "Přestupkové řízení s poslancem Motoristů Filipem Turkem kvůli jeho červencové autonehodě bude řešit Městská část Praha 2. Že se neobrátil na Sněmovnu, vyplynulo z vyjádření poslance pro ČTK.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
       },
       "topics": [
         "energy"
