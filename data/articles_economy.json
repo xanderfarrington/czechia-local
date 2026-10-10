@@ -1,10 +1,34 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-10T14:01:34Z",
+  "updated_at_utc": "2026-10-10T18:59:51Z",
   "topic": "economy",
-  "count": 15,
+  "count": 12,
   "articles": [
+    {
+      "id": "7bbd6bafbcd69d3ea8e39d8656c4b7a9178596b8",
+      "fingerprint": "2dcf779fdaceb8561262cbd36e6f4e37850fc39b",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-doprava-cina-souhlasila-ze-bude-do-unie-dovazet-mene-hybridu-317369",
+      "published_utc": "2026-10-10T17:00:00Z",
+      "title_en": "Čína souhlasila, že bude do Unie dovážet méně hybridů",
+      "lead_en": "Čína souhlasila se snížením vývozu hybridních automobilů do Evropy. Dohoda má přispět k řešení nerovnováhy na trhu.",
+      "title_raw": "Čína souhlasila, že bude do Unie dovážet méně hybridů",
+      "lead_raw": "Čína souhlasila se snížením vývozu hybridních automobilů do Evropy. Dohoda má přispět k řešení nerovnováhy na trhu.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "a561d65f29142d510faac8ffdd6687cd9aa47075",
       "fingerprint": "9ba2aa1ac4e9ad101afb50517eb8538873bf9925",
@@ -255,95 +279,6 @@
         "local_events": 0
       },
       "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "79e2bf3bc1c31d2bd58031f669c22695d7ccff3f",
-      "fingerprint": "18bb3d96187d252391a7519aa65abef3cbe5c43e",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/modernizace-nemocnice-v-nachode-pokracuje-kraj-za-ni-zaplati-vic-nez-15-miliardy_2610082037_elv",
-      "published_utc": "2026-10-08T18:37:00Z",
-      "title_en": "Modernizace nemocnice v Náchodě pokračuje. Kraj za ni zaplatí víc než 1,5 miliardy",
-      "lead_en": "Královéhradecký kraj zahajuje druhou etapu modernizace Oblastní nemocnice Náchod. Jedna z největších krajských investic v historii vyjde na více než 1,5 miliardy korun.",
-      "title_raw": "Modernizace nemocnice v Náchodě pokračuje. Kraj za ni zaplatí víc než 1,5 miliardy",
-      "lead_raw": "Královéhradecký kraj zahajuje druhou etapu modernizace Oblastní nemocnice Náchod. Jedna z největších krajských investic v historii vyjde na více než 1,5 miliardy korun.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "301bc31f1b5984bfd58fbb844e6e9b20d3940821",
-      "fingerprint": "a3dbf02b7b405f581fc2602d78ef7feeba815d1f",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/milan-pospisil-vysoke-skoly-mohou-setrit-mozna-tak-slucovanim-oboru-hrozi-ale_2610082013_med",
-      "published_utc": "2026-10-08T18:13:00Z",
-      "title_en": "Milan Pospíšil: Vysoké školy mohou šetřit možná tak slučováním oborů. Hrozí ale odchod kvalitních učitelů",
-      "lead_en": "Vysoké školy mají příští rok dostat ze státního rozpočtu téměř 36 miliard korun. Podle České konference rektorů to ale nestačí, dlouhodobý deficit ve financování univerzit totiž dosahuje zhruba deseti miliard.",
-      "title_raw": "Milan Pospíšil: Vysoké školy mohou šetřit možná tak slučováním oborů. Hrozí ale odchod kvalitních učitelů",
-      "lead_raw": "Vysoké školy mají příští rok dostat ze státního rozpočtu téměř 36 miliard korun. Podle České konference rektorů to ale nestačí, dlouhodobý deficit ve financování univerzit totiž dosahuje zhruba deseti miliard.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "2959a850728d63586c1622ea685afcf4327bde4c",
-      "fingerprint": "979c78ff13f781bdd7377d743e4c60d0a0fec428",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/plan-na-snizeni-podpor-v-nezamestnanosti-rozklizil-vladu-378383",
-      "published_utc": "2026-10-08T18:04:44Z",
-      "title_en": "Plán na snížení podpor v nezaměstnanosti rozklížil vládu",
-      "lead_en": "Ve vládě pokračuje spor o podpory v nezaměstnanosti. Zatímco hnutí ANO a Motoristé podporují pokles podpor na loňskou úroveň, SPD je zásadně proti.",
-      "title_raw": "Plán na snížení podpor v nezaměstnanosti rozklížil vládu",
-      "lead_raw": "Ve vládě pokračuje spor o podpory v nezaměstnanosti. Zatímco hnutí ANO a Motoristé podporují pokles podpor na loňskou úroveň, SPD je zásadně proti.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "67bd1156eb5dee2fb70b00a0cfc73f5232b2b81c",
-      "fingerprint": "e637fcf47e54e413d586c1f8ff71a1823d861966",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/usti/zpravy/spolchemie-nova-vyroba-technologie-zebra-jednotka-prekurzory.A261008_170745_usti-zpravy_grr",
-      "published_utc": "2026-10-08T15:20:00Z",
-      "title_en": "Spolchemie rozjela novou výrobu, technologie vznikala roky a stála miliardy",
-      "lead_en": "Společnost Spolchemie, která vyrábí chemické látky pro průmysl, stavebnictví nebo energetiku, rozjela v areálu nedaleko centra Ústí nad Labem novou výrobu. V jednotce Zebra vznikají takzvané chlorované prekurzory, tedy suroviny využívané například při výrobě chladiv do lednic a klimatizací nebo izolačních pěn.",
-      "title_raw": "Spolchemie rozjela novou výrobu, technologie vznikala roky a stála miliardy",
-      "lead_raw": "Společnost Spolchemie, která vyrábí chemické látky pro průmysl, stavebnictví nebo energetiku, rozjela v areálu nedaleko centra Ústí nad Labem novou výrobu. V jednotce Zebra vznikají takzvané chlorované prekurzory, tedy suroviny využívané například při výrobě chladiv do lednic a klimatizací nebo izolačních pěn.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
         "economy"
       ],
       "primary_topic": "economy"
