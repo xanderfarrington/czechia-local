@@ -1,10 +1,56 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-10T01:21:03Z",
+  "updated_at_utc": "2026-10-10T07:48:56Z",
   "topic": "energy",
-  "count": 39,
+  "count": 36,
   "articles": [
+    {
+      "id": "be7fcf6f8b1725a5816a8cb333bd5c297762e591",
+      "fingerprint": "8319453313bd17259612e830b9975528df78de96",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/rezy-na-obrane-zunuv-resort-zrusil-desitky-pozic-a-na-dalsi-se-chysta-pocita-s_2610100500_hrk",
+      "published_utc": "2026-10-10T03:00:00Z",
+      "title_en": "Řezy na obraně. Zůnův resort zrušil desítky pozic a na další se chystá, počítá s úsporou 70 milionů korun",
+      "lead_en": "Ministerstvo obrany bude příští rok ve srovnání s počátkem roku 2026 o více než sedmdesát míst štíhlejší. Plyne to z rešerše serveru iROZHLAS.cz.",
+      "title_raw": "Řezy na obraně. Zůnův resort zrušil desítky pozic a na další se chystá, počítá s úsporou 70 milionů korun",
+      "lead_raw": "Ministerstvo obrany bude příští rok ve srovnání s počátkem roku 2026 o více než sedmdesát míst štíhlejší. Plyne to z rešerše serveru iROZHLAS.cz.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "2f52d87fd2969257b32b02344d850866c979950c",
+      "fingerprint": "2c757c7963341ad4e6eb6feaeb665a6e76f2df3a",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/hurikan-isaias-vstoupil-na-pobrezi-floridy-378429",
+      "published_utc": "2026-10-10T02:26:53Z",
+      "title_en": "Hurikán Isaias způsobil záplavy v částech Floridy a Alabamy",
+      "lead_en": "Hurikán Isaias, první bouře letošní atlantické sezony, v pátek večer místního času (v noci na sobotu SELČ) dosáhl pobřeží amerického státu Florida. V částech Floridy a Alabamy živel způsobil záplavy a rozsáhlé výpadky elektřiny, informovalo americké Národní středisko pro hurikány (NHC).",
+      "title_raw": "Hurikán Isaias způsobil záplavy v částech Floridy a Alabamy",
+      "lead_raw": "Hurikán Isaias, první bouře letošní atlantické sezony, v pátek večer místního času (v noci na sobotu SELČ) dosáhl pobřeží amerického státu Florida. V částech Floridy a Alabamy živel způsobil záplavy a rozsáhlé výpadky elektřiny, informovalo americké Národní středisko pro hurikány (NHC).",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "d48510b617376ba096dd1a99412c4be83ee54ad7",
       "fingerprint": "c37ed6b5764a84499ed2f8cb5c8bd3cda121888e",
@@ -757,116 +803,6 @@
         "energy": 1,
         "economy": 0,
         "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "9326f23d56f32a819d65c0f1a3103d3581acc516",
-      "fingerprint": "8eab971348a5d145810f75906ab3915b6e4a51bf",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-ropa-prudce-zdrazuje-kvuli-hurikanu-isaias-40601411",
-      "published_utc": "2026-10-08T07:44:46Z",
-      "title_en": "Ropa prudce zdražuje kvůli hurikánu Isaias",
-      "lead_en": "Ceny ropy ve čtvrtek na světových trzích prudce rostou. Děje se tak v souvislosti s hurikánem Isaias, který míří do USA.",
-      "title_raw": "Ropa prudce zdražuje kvůli hurikánu Isaias",
-      "lead_raw": "Ceny ropy ve čtvrtek na světových trzích prudce rostou. Děje se tak v souvislosti s hurikánem Isaias, který míří do USA.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "53c12bd4f44d2af0c26bef91cec86f2380b72c7f",
-      "fingerprint": "c075d988e6f4335855e834b6da307346bacfe5d5",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/turkovu-nehodu-bude-resit-mestska-cast-praha-2-na-snemovnu-se-neobratil/2884435",
-      "published_utc": "2026-10-08T07:28:00Z",
-      "title_en": "Turkovu nehodu bude řešit Městská část Praha 2, na Sněmovnu se neobrátil",
-      "lead_en": "Praha - Přestupkové řízení s poslancem Motoristů Filipem Turkem kvůli jeho červencové autonehodě bude řešit Městská část Praha 2. Že se neobrátil na Sněmovnu, vyplynulo z vyjádření poslance pro ČTK.",
-      "title_raw": "Turkovu nehodu bude řešit Městská část Praha 2, na Sněmovnu se neobrátil",
-      "lead_raw": "Praha - Přestupkové řízení s poslancem Motoristů Filipem Turkem kvůli jeho červencové autonehodě bude řešit Městská část Praha 2. Že se neobrátil na Sněmovnu, vyplynulo z vyjádření poslance pro ČTK.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "836601c93de3d8f7dd1c10c58789b34eea5378e8",
-      "fingerprint": "2d6043c1bb31a24238978192c630ab3eb9e2d2d6",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/behem-vikendu-prijde-ochlazeni-a-dest-378354",
-      "published_utc": "2026-10-08T05:52:21Z",
-      "title_en": "Během víkendu přijde ochlazení a déšť",
-      "lead_en": "Po teplém začátku týdne se o víkendu v Česku ochladí a zaprší. Maximální teploty se v pátek proti předchozím dnům výrazně propadnou – až zhruba o deset stupňů na deset až 15 stupňů Celsia.",
-      "title_raw": "Během víkendu přijde ochlazení a déšť",
-      "lead_raw": "Po teplém začátku týdne se o víkendu v Česku ochladí a zaprší. Maximální teploty se v pátek proti předchozím dnům výrazně propadnou – až zhruba o deset stupňů na deset až 15 stupňů Celsia.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "484158181b0d46d5176dd21eb9b0eeac2e11346a",
-      "fingerprint": "67263d6fed929656ec5e8bf9d71740bbc7e71249",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/o-vikendu-se-teploty-snizi-na-deset-az-15-stupnu-lide-mohou-ocekavat-i-dest_2610080739_raf",
-      "published_utc": "2026-10-08T05:39:00Z",
-      "title_en": "O víkendu se teploty sníží na deset až patnáct stupňů. Lidé mohou očekávat i déšť",
-      "lead_en": "Po teplém začátku týdne se o víkendu v Česku ochladí a zaprší. Maximální teploty se v pátek proti předchozím dnům výrazně propadnou – až zhruba o deset stupňů na 10 až 15 stupňů Celsia.",
-      "title_raw": "O víkendu se teploty sníží na deset až patnáct stupňů. Lidé mohou očekávat i déšť",
-      "lead_raw": "Po teplém začátku týdne se o víkendu v Česku ochladí a zaprší. Maximální teploty se v pátek proti předchozím dnům výrazně propadnou – až zhruba o deset stupňů na 10 až 15 stupňů Celsia.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "c2a5c7e9c296e00600417542325fcc8123fd01d9",
-      "fingerprint": "70829067bfec3f19ca843225f4bfb78c4d9f4a6f",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/po-teplem-zacatku-tydne-se-o-vikendu-ochladi-a-zaprsi/2882994",
-      "published_utc": "2026-10-08T05:24:00Z",
-      "title_en": "Po teplém začátku týdne se o víkendu ochladí a zaprší",
-      "lead_en": "Praha - Po teplém začátku týdne se o víkendu v Česku ochladí a zaprší. Maximální teploty se v pátek proti předchozím dnům výrazně propadnou - až zhruba o deset stupňů na deset až 15 stupňů Celsia.",
-      "title_raw": "Po teplém začátku týdne se o víkendu ochladí a zaprší",
-      "lead_raw": "Praha - Po teplém začátku týdne se o víkendu v Česku ochladí a zaprší. Maximální teploty se v pátek proti předchozím dnům výrazně propadnou - až zhruba o deset stupňů na deset až 15 stupňů Celsia.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
       },
       "topics": [
         "energy"

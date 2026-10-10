@@ -1,10 +1,55 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-10T01:21:03Z",
+  "updated_at_utc": "2026-10-10T07:48:56Z",
   "topic": "local_events",
-  "count": 8,
+  "count": 9,
   "articles": [
+    {
+      "id": "ce78b99bbb3d2a0b63920d6f20d7413439a0b037",
+      "fingerprint": "3e58bd64d27cc0f9f085818b0475789be456426e",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-velka-katastrofa-rekl-prezident-panamy-o-zemetreseni-o-obetech-nemluvil-317264",
+      "published_utc": "2026-10-10T06:21:52Z",
+      "title_en": "Velká katastrofa, řekl prezident Panamy o zemětřesení. O obětech nemluvil",
+      "lead_en": "Zemětřesení o síle 7,7 stupně zasáhlo Panamu v pátek. Prezident José Raúl Mulino neinformoval o žádných obětech či zraněných.",
+      "title_raw": "Velká katastrofa, řekl prezident Panamy o zemětřesení. O obětech nemluvil",
+      "lead_raw": "Zemětřesení o síle 7,7 stupně zasáhlo Panamu v pátek. Prezident José Raúl Mulino neinformoval o žádných obětech či zraněných.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "2f52d87fd2969257b32b02344d850866c979950c",
+      "fingerprint": "2c757c7963341ad4e6eb6feaeb665a6e76f2df3a",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/hurikan-isaias-vstoupil-na-pobrezi-floridy-378429",
+      "published_utc": "2026-10-10T02:26:53Z",
+      "title_en": "Hurikán Isaias způsobil záplavy v částech Floridy a Alabamy",
+      "lead_en": "Hurikán Isaias, první bouře letošní atlantické sezony, v pátek večer místního času (v noci na sobotu SELČ) dosáhl pobřeží amerického státu Florida. V částech Floridy a Alabamy živel způsobil záplavy a rozsáhlé výpadky elektřiny, informovalo americké Národní středisko pro hurikány (NHC).",
+      "title_raw": "Hurikán Isaias způsobil záplavy v částech Floridy a Alabamy",
+      "lead_raw": "Hurikán Isaias, první bouře letošní atlantické sezony, v pátek večer místního času (v noci na sobotu SELČ) dosáhl pobřeží amerického státu Florida. V částech Floridy a Alabamy živel způsobil záplavy a rozsáhlé výpadky elektřiny, informovalo americké Národní středisko pro hurikány (NHC).",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "20db12559dc9861de713aca3ec1a44572edee680",
       "fingerprint": "9cadabf4b3d315b8210933d2a82e37453f63ac0a",
@@ -147,28 +192,6 @@
       "lead_en": "Ve škole v polské obci Leszczydół-Nowiny ve čtvrtek ráno jeden z žáků nožem zabil sedmatřicetiletého školníka a další dva dospělé zranil. Patnáctiletého podezřelého policie zadržela.",
       "title_raw": "Další útok v polské škole, jeden mrtvý a dva zranění. Zadrželi 15letého chlapce",
       "lead_raw": "Ve škole v polské obci Leszczydół-Nowiny ve čtvrtek ráno jeden z žáků nožem zabil sedmatřicetiletého školníka a další dva dospělé zranil. Patnáctiletého podezřelého policie zadržela.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "8cf64485a7170029d2aad48e46a05358ff9e8415",
-      "fingerprint": "caf45f13a7f8558d0e755a784dae345fc20917be",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/v-rusku-hori-zavod-s-datovym-centrem-kyjev-hlasi-mrtve-378357",
-      "published_utc": "2026-10-08T07:03:47Z",
-      "title_en": "Ruský útok na autobusy v Kramatorsku má řadu obětí",
-      "lead_en": "Nejméně dvanáct lidí přišlo o život a dalších devatenáct utrpělo zranění při útoku ruského dronu na dva autobusy v Kramatorsku na východě Ukrajiny, oznámily místní úřady. Kyjev hlásí další dva mrtvé po večerním úderu na výškovou obytnou budovu.",
-      "title_raw": "Ruský útok na autobusy v Kramatorsku má řadu obětí",
-      "lead_raw": "Nejméně dvanáct lidí přišlo o život a dalších devatenáct utrpělo zranění při útoku ruského dronu na dva autobusy v Kramatorsku na východě Ukrajiny, oznámily místní úřady. Kyjev hlásí další dva mrtvé po večerním úderu na výškovou obytnou budovu.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
