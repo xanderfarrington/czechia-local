@@ -1,10 +1,101 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-11T14:29:52Z",
+  "updated_at_utc": "2026-10-11T19:14:59Z",
   "topic": "economy",
   "count": 13,
   "articles": [
+    {
+      "id": "c019e3d8e54d0c661f3c7e3ffab4de4aacaa19a8",
+      "fingerprint": "b38cfc8211be53b34c7c52d7b6adf07c13d5a3af",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-sedeli-tam-jak-hlupaci-ukrajinska-delegace-v-miami-prozila-naprosty-sok-40602176",
+      "published_utc": "2026-10-11T17:13:01Z",
+      "title_en": "Seděli tam jak hlupáci. Ukrajinská delegace v Miami prožila naprostý šok",
+      "lead_en": "Ukrajinská delegace přijela v pátek do Miami jednat o možném energetickém příměří s Ruskem. Místo toho se od amerických vyslanců dozvěděla, že Donald Trump po rozhovoru s ruským prezidentem Vladimirem Putinem chystá zrušení sankcí na ruský vývoz nafty.",
+      "title_raw": "Seděli tam jak hlupáci. Ukrajinská delegace v Miami prožila naprostý šok",
+      "lead_raw": "Ukrajinská delegace přijela v pátek do Miami jednat o možném energetickém příměří s Ruskem. Místo toho se od amerických vyslanců dozvěděla, že Donald Trump po rozhovoru s ruským prezidentem Vladimirem Putinem chystá zrušení sankcí na ruský vývoz nafty.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "7fa9805e1bcfdc6261e00732e7bac443cb796f20",
+      "fingerprint": "d37f604642b60e743b9598fad4f9681a8754d307",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/ministr-prumyslu-karel-havlicek-navsteva-indie-premier-modi.A261011_182948_domaci_lupr",
+      "published_utc": "2026-10-11T16:45:00Z",
+      "title_en": "Havlíček se v Indii zřejmě setká s Módím. Chce podpořit české firmy",
+      "lead_en": "Ministr průmyslu a obchodu Karel Havlíček (ANO) by se měl v Indii setkat s tamním premiérem Nárendrou Módím. Havlíček chce podle svých slov v Indii podpořit působení českých firem na tamním trhu a posílit spolupráci mezi oběma zeměmi.",
+      "title_raw": "Havlíček se v Indii zřejmě setká s Módím. Chce podpořit české firmy",
+      "lead_raw": "Ministr průmyslu a obchodu Karel Havlíček (ANO) by se měl v Indii setkat s tamním premiérem Nárendrou Módím. Havlíček chce podle svých slov v Indii podpořit působení českých firem na tamním trhu a posílit spolupráci mezi oběma zeměmi.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 1
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "1472af77a8f273df589976594277806057df022f",
+      "fingerprint": "bf9a5416c48cb2425ddc92f3ab5e38009bda0bf5",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/ministr-prumyslu-havlicek-by-se-mel-v-indii-setkat-s-tamnim-premierem-modim/2886387",
+      "published_utc": "2026-10-11T16:27:00Z",
+      "title_en": "Ministr průmyslu Havlíček by se měl v Indii setkat s tamním premiérem Módím",
+      "lead_en": "Praha - Ministr průmyslu a obchodu Karel Havlíček (ANO) by se měl v Indii setkat s tamním premiérem Nárendrou Módím. Havlíček to řekl novinářům před odletem podnikatelské delegace.",
+      "title_raw": "Ministr průmyslu Havlíček by se měl v Indii setkat s tamním premiérem Módím",
+      "lead_raw": "Praha - Ministr průmyslu a obchodu Karel Havlíček (ANO) by se měl v Indii setkat s tamním premiérem Nárendrou Módím. Havlíček to řekl novinářům před odletem podnikatelské delegace.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "48135fac4a73ee87d989a4887dd4e6b102f6b377",
+      "fingerprint": "85e5a3f9dfb73d46bb5b1bb828ec90b0c0da3694",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/maslo-trend-francie-luxus.A261007_121055_eko-zahranicni_elsy",
+      "published_utc": "2026-10-11T16:00:00Z",
+      "title_en": "Luxus, nebo nepřítel? Proč se máslo opět stalo hitem sociálních sítí",
+      "lead_en": "Z francouzského másla se stal nový hit internetu. Pařížské obchody prodávají luxusní varianty za stovky korun a sjíždějí se za nimi lidé z celého světa.",
+      "title_raw": "Luxus, nebo nepřítel? Proč se máslo opět stalo hitem sociálních sítí",
+      "lead_raw": "Z francouzského másla se stal nový hit internetu. Pařížské obchody prodávají luxusní varianty za stovky korun a sjíždějí se za nimi lidé z celého světa.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "366f9f99fbe066d434a1f16486914833f8c9f112",
       "fingerprint": "af537b5142d3119f233a3f0f5e90083c53621af9",
@@ -207,101 +298,6 @@
         "local_events": 0
       },
       "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "235c2a53255af1f94fb5baf8eb451aa54c14f451",
-      "fingerprint": "048982351571899c6d9ee3319bb7d2a26fbb6b94",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/mene-cinskych-aut-v-eu-muze-prinest-nova-dohoda-bruselu-a-pekingu-378422",
-      "published_utc": "2026-10-09T16:24:03Z",
-      "title_en": "Méně čínských aut v EU může přinést nová dohoda Bruselu a Pekingu",
-      "lead_en": "Čína a Evropská unie dospěly k dohodě, která by mohla vést k poklesu vývozu čínských hybridních automobilů do EU o více než polovinu. Uvedl to v pátek evropský komisař pro obchod Maroš Šefčovič na tiskové konferenci po rozhovorech s čínským ministrem obchodu Wangem Wen-tchaem v Pekingu.",
-      "title_raw": "Méně čínských aut v EU může přinést nová dohoda Bruselu a Pekingu",
-      "lead_raw": "Čína a Evropská unie dospěly k dohodě, která by mohla vést k poklesu vývozu čínských hybridních automobilů do EU o více než polovinu. Uvedl to v pátek evropský komisař pro obchod Maroš Šefčovič na tiskové konferenci po rozhovorech s čínským ministrem obchodu Wangem Wen-tchaem v Pekingu.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "f28fc2e0ae0c4ee258346129b2bb1bee401abace",
-      "fingerprint": "a7b7eb0a9ee29756789ed0e4892beee6ee989ce0",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-cinske-automobilky-mohou-prijit-o-polovinu-evropskeho-trhu-s-hybridy-40601783",
-      "published_utc": "2026-10-09T16:21:13Z",
-      "title_en": "Čínské automobilky mohou přijít o polovinu evropského trhu s hybridy",
-      "lead_en": "Čína a Evropská unie dospěly k dohodě, která by mohla vést k poklesu vývozu čínských hybridních automobilů do EU o více než polovinu. Uvedl to v pátek komisař pro obchod Maroš Šefčovič po rozhovorech s čínským ministrem obchodu Wangem Wen-tchaem v Pekingu.",
-      "title_raw": "Čínské automobilky mohou přijít o polovinu evropského trhu s hybridy",
-      "lead_raw": "Čína a Evropská unie dospěly k dohodě, která by mohla vést k poklesu vývozu čínských hybridních automobilů do EU o více než polovinu. Uvedl to v pátek komisař pro obchod Maroš Šefčovič po rozhovorech s čínským ministrem obchodu Wangem Wen-tchaem v Pekingu.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "1f863088747ee142bb3a30451aa9040a13c6515c",
-      "fingerprint": "30368d025b999d2f3a3aff2b5f57dce71994df4b",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-evropane-maji-na-uctech-250-bilionu-korun-unie-je-chce-nasmerovat-k-firmam-40601745",
-      "published_utc": "2026-10-09T14:49:35Z",
-      "title_en": "Evropané mají na účtech 250 bilionů korun. Unie je chce nasměrovat k firmám",
-      "lead_en": "Investovat v jiné zemi Evropské unie má být snazší než dnes. Členské státy se v pátek dohodly na hlavních bodech společného vyjednávacího postoje k návrhu, který propojí kapitálové trhy a sjednotí pravidla dohledu nad nimi.",
-      "title_raw": "Evropané mají na účtech 250 bilionů korun. Unie je chce nasměrovat k firmám",
-      "lead_raw": "Investovat v jiné zemi Evropské unie má být snazší než dnes. Členské státy se v pátek dohodly na hlavních bodech společného vyjednávacího postoje k návrhu, který propojí kapitálové trhy a sjednotí pravidla dohledu nad nimi.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "27f1f6a3d9265d87513620cab9ebe287cf04cbfe",
-      "fingerprint": "8786a99707b910557936b8c8da03b6f789361003",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-evropa-schvalila-cesky-plan-jak-snizit-schodek-rozpoctu-experti-mu-neveri-40601667",
-      "published_utc": "2026-10-09T14:34:56Z",
-      "title_en": "Evropa schválila český plán, jak snížit schodek rozpočtu. Experti mu nevěří",
-      "lead_en": "Schválenou cestu k nižšímu schodku veřejných financí má od pátku vláda Andreje Babiše (ANO). Ministři financí zemí Evropské unie podpořili v Lucemburku český plán, podle něhož má deficit klesnout z 2,8 procenta HDP v příštím roce na 1,2 procenta v roce 2030.",
-      "title_raw": "Evropa schválila český plán, jak snížit schodek rozpočtu. Experti mu nevěří",
-      "lead_raw": "Schválenou cestu k nižšímu schodku veřejných financí má od pátku vláda Andreje Babiše (ANO). Ministři financí zemí Evropské unie podpořili v Lucemburku český plán, podle něhož má deficit klesnout z 2,8 procenta HDP v příštím roce na 1,2 procenta v roce 2030.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 4,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
         "economy"
       ],
       "primary_topic": "economy"
