@@ -1,10 +1,56 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-11T07:56:26Z",
+  "updated_at_utc": "2026-10-11T14:29:52Z",
   "topic": "economy",
-  "count": 12,
+  "count": 13,
   "articles": [
+    {
+      "id": "366f9f99fbe066d434a1f16486914833f8c9f112",
+      "fingerprint": "af537b5142d3119f233a3f0f5e90083c53621af9",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-investice-za-150-milionu-ostravske-centrum-tkani-se-chysta-na-regulace-317223",
+      "published_utc": "2026-10-11T12:49:17Z",
+      "title_en": "Investice za 150 milionů. Ostravské centrum tkání se chystá na regulace",
+      "lead_en": "Transplantáty z Ostravy pomohly popáleným ve Švýcarsku i ženě postřelené při útoku ve škole. Tkáňová banka teď chystá investici, která posílí její význam v Evropě.",
+      "title_raw": "Investice za 150 milionů. Ostravské centrum tkání se chystá na regulace",
+      "lead_raw": "Transplantáty z Ostravy pomohly popáleným ve Švýcarsku i ženě postřelené při útoku ve škole. Tkáňová banka teď chystá investici, která posílí její význam v Evropě.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "91a7bb5ef5c8970c87d736ef63ad8f9d76eb0ab2",
+      "fingerprint": "b0b725605e2d2ce3a3577118f9248df7ecbb4c0d",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/trumpova-dohoda-o-ruske-nafte-podle-havlicka-ceny-nesnizi-378464",
+      "published_utc": "2026-10-11T12:38:29Z",
+      "title_en": "Trumpova dohoda o ruské naftě podle Havlíčka ceny nesníží",
+      "lead_en": "Dohoda amerického prezidenta Donalda Trumpa s ruským diktátorem Vladimirem Putinem o dodávkách ruské nafty na americký a světový trh nebude mít podle ministra průmyslu Karla Havlíčka (ANO) vliv na ceny. Havlíček se v pořadu Partie na CNN Prima News shodl s předsedou ODS Martinem Kupkou a místopředsedou STAN Lukášem Vlčkem na tom, že do budoucna je nutné pracovat na soběstačnosti Evropy tak, aby nebyla závislá na jednom zdroji fosilních paliv.",
+      "title_raw": "Trumpova dohoda o ruské naftě podle Havlíčka ceny nesníží",
+      "lead_raw": "Dohoda amerického prezidenta Donalda Trumpa s ruským diktátorem Vladimirem Putinem o dodávkách ruské nafty na americký a světový trh nebude mít podle ministra průmyslu Karla Havlíčka (ANO) vliv na ceny. Havlíček se v pořadu Partie na CNN Prima News shodl s předsedou ODS Martinem Kupkou a místopředsedou STAN Lukášem Vlčkem na tom, že do budoucna je nutné pracovat na soběstačnosti Evropy tak, aby nebyla závislá na jednom zdroji fosilních paliv.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "4d3926452c58c6aac5e72029679d148b74b3c33c",
       "fingerprint": "9f0e614aa17ba732ad53da92378b6b3b5e89fb4d",
@@ -256,29 +302,6 @@
       },
       "topics": [
         "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "85fceb45953a47b49475d34c8cfb95eed7db559c",
-      "fingerprint": "625c2fd06fb920fe0cf08e58e952ce9bac74848e",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/podniky/idnes-lounge-asie-trhy-lidska-prava-msv-egap-havlicek-zajicek.A261008_122432_ekoakcie_vov",
-      "published_utc": "2026-10-09T08:00:00Z",
-      "title_en": "Havlíček: Do Střední Asie vyvážíme zboží, ne lidská práva. Teď míříme na Ukrajinu",
-      "lead_en": "Ekonomická diplomacie je tvrdý byznys, v němž rozhodují kvalitní výrobky, financování a kontakty s politickými špičkami. Ministr průmyslu Karel Havlíček to zdůraznil v debatě iDNES Lounge, která se uskutečnila v Brně na Mezinárodním strojírenském veletrhu.",
-      "title_raw": "Havlíček: Do Střední Asie vyvážíme zboží, ne lidská práva. Teď míříme na Ukrajinu",
-      "lead_raw": "Ekonomická diplomacie je tvrdý byznys, v němž rozhodují kvalitní výrobky, financování a kontakty s politickými špičkami. Ministr průmyslu Karel Havlíček to zdůraznil v debatě iDNES Lounge, která se uskutečnila v Brně na Mezinárodním strojírenském veletrhu.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 4,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
         "economy"
       ],
       "primary_topic": "economy"

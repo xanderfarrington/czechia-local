@@ -1,10 +1,189 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-11T07:56:26Z",
+  "updated_at_utc": "2026-10-11T14:29:52Z",
   "topic": "energy",
-  "count": 47,
+  "count": 44,
   "articles": [
+    {
+      "id": "c284fded566f30102da76e8ccf3d5738bcab8307",
+      "fingerprint": "a340e9e183dc0c68f0b0c5b467420ceeaebfc6eb",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/volby-komunalni-lidr-co-zdedil-ctvrt-miliardy-i-lide-janouska-propadli-deset-kauz-voleb-317534",
+      "published_utc": "2026-10-11T13:39:18Z",
+      "title_en": "Lídr, co zdědil čtvrt miliardy, i lidé od Janouška propadli. Deset kauz voleb",
+      "lead_en": "Jak dopadli kandidáti, kterým se Seznam Zprávy před komunálními volbami věnovaly. Kandidáti na starostu - Filip Dvořák a Pavel Fišer - se do zastupitelstva vůbec nedostali.",
+      "title_raw": "Lídr, co zdědil čtvrt miliardy, i lidé od Janouška propadli. Deset kauz voleb",
+      "lead_raw": "Jak dopadli kandidáti, kterým se Seznam Zprávy před komunálními volbami věnovaly. Kandidáti na starostu - Filip Dvořák a Pavel Fišer - se do zastupitelstva vůbec nedostali.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "9597d1c4614c77fad9e084490284df56c63f273f",
+      "fingerprint": "fd9cb298700a28e33f737e86347f113248dd6693",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-rusko-valka-rafinerie-utok-mrtvi-zraneni.A261011_115408_zahranicni_dtt",
+      "published_utc": "2026-10-11T13:17:22Z",
+      "title_en": "Ropa za mír? Zelenskyj nabídl klid zbraní na energetické frontě, chce záruky",
+      "lead_en": "Ukrajina je připravena zastavit útoky na ruské rafinerie, pokud Rusko přestane útočit na energetickou infrastrukturu Ukrajiny, uvedl v neděli ukrajinský prezident Volodymyr Zelenskyj. Zdůraznil, že jakékoliv kroky ke zmírnění konfliktu musí být vzájemné a provázené reálnými zárukami.",
+      "title_raw": "Ropa za mír? Zelenskyj nabídl klid zbraní na energetické frontě, chce záruky",
+      "lead_raw": "Ukrajina je připravena zastavit útoky na ruské rafinerie, pokud Rusko přestane útočit na energetickou infrastrukturu Ukrajiny, uvedl v neděli ukrajinský prezident Volodymyr Zelenskyj. Zdůraznil, že jakékoliv kroky ke zmírnění konfliktu musí být vzájemné a provázené reálnými zárukami.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "91a7bb5ef5c8970c87d736ef63ad8f9d76eb0ab2",
+      "fingerprint": "b0b725605e2d2ce3a3577118f9248df7ecbb4c0d",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/trumpova-dohoda-o-ruske-nafte-podle-havlicka-ceny-nesnizi-378464",
+      "published_utc": "2026-10-11T12:38:29Z",
+      "title_en": "Trumpova dohoda o ruské naftě podle Havlíčka ceny nesníží",
+      "lead_en": "Dohoda amerického prezidenta Donalda Trumpa s ruským diktátorem Vladimirem Putinem o dodávkách ruské nafty na americký a světový trh nebude mít podle ministra průmyslu Karla Havlíčka (ANO) vliv na ceny. Havlíček se v pořadu Partie na CNN Prima News shodl s předsedou ODS Martinem Kupkou a místopředsedou STAN Lukášem Vlčkem na tom, že do budoucna je nutné pracovat na soběstačnosti Evropy tak, aby nebyla závislá na jednom zdroji fosilních paliv.",
+      "title_raw": "Trumpova dohoda o ruské naftě podle Havlíčka ceny nesníží",
+      "lead_raw": "Dohoda amerického prezidenta Donalda Trumpa s ruským diktátorem Vladimirem Putinem o dodávkách ruské nafty na americký a světový trh nebude mít podle ministra průmyslu Karla Havlíčka (ANO) vliv na ceny. Havlíček se v pořadu Partie na CNN Prima News shodl s předsedou ODS Martinem Kupkou a místopředsedou STAN Lukášem Vlčkem na tom, že do budoucna je nutné pracovat na soběstačnosti Evropy tak, aby nebyla závislá na jednom zdroji fosilních paliv.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "bdcabbe2c81d9b2164173349075c6056317d8f1c",
+      "fingerprint": "6f9bb74d2dc5f91bb93b3f3f4333622f950642ad",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/volby-komunalni-praha-je-pro-nas-totalni-propadak-priznal-babis-40602151",
+      "published_utc": "2026-10-11T12:18:03Z",
+      "title_en": "Praha je pro nás totální propadák, přiznal Babiš",
+      "lead_en": "Premiér Andrej Babiš v neděli přiznal, že pro jeho vládní hnutí ANO dopadly víkendové komunální volby v Praze zle. Označil to za totální propadák, nad kterým by se ANO mělo zamyslet.",
+      "title_raw": "Praha je pro nás totální propadák, přiznal Babiš",
+      "lead_raw": "Premiér Andrej Babiš v neděli přiznal, že pro jeho vládní hnutí ANO dopadly víkendové komunální volby v Praze zle. Označil to za totální propadák, nad kterým by se ANO mělo zamyslet.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "fb28952424688ced5afce55c93be84579fecdfd1",
+      "fingerprint": "0fc0d04230a2a409e2e9cfc765413af916335a51",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/volby/referenda-v-moravskoslezskem-kraji-proti-vetrnym-elektrarnam-supermarketu-v-obci_2610111344_aru",
+      "published_utc": "2026-10-11T11:44:00Z",
+      "title_en": "Referenda v Moravskoslezském kraji: proti větrným elektrárnám, supermarketu v obci i rozšíření těžby",
+      "lead_en": "Spolu s komunálními volbami se v řadě obcí v Moravskoslezském kraji konala také referenda. Podobně jako v ostatních referendech napříč republikou se většina z nich týkala výstavby větrných elektráren.",
+      "title_raw": "Referenda v Moravskoslezském kraji: proti větrným elektrárnám, supermarketu v obci i rozšíření těžby",
+      "lead_raw": "Spolu s komunálními volbami se v řadě obcí v Moravskoslezském kraji konala také referenda. Podobně jako v ostatních referendech napříč republikou se většina z nich týkala výstavby větrných elektráren.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "274cbe47d95da1f6974d7e2c05da22aa8f03c18a",
+      "fingerprint": "87f7924da7a97ce350609a32d77f4df32b8ba2c1",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/volby/lidi-spatne-spi-a-vadi-i-ptactvu-tri-ze-ctyr-obci-na-svitavsku-odmitly-v_2610111148_aru",
+      "published_utc": "2026-10-11T09:48:00Z",
+      "title_en": "‚Lidé špatně spí a vadí to i ptactvu.‘ Tři ze čtyř obcí na Svitavsku odmítly v referendech větrné elektrárny",
+      "lead_en": "Výraznou většinou odmítli lidé ve třech obcích na Svitavsku větrné elektrárny. V Kamenné Horce, Mikulči a Skleném tak lidé dali v referendech najevo, že si plánované větrníky ve svém okolí nepřejí a vedení obcí musí toto rozhodnutí respektovat.",
+      "title_raw": "‚Lidé špatně spí a vadí to i ptactvu.‘ Tři ze čtyř obcí na Svitavsku odmítly v referendech větrné elektrárny",
+      "lead_raw": "Výraznou většinou odmítli lidé ve třech obcích na Svitavsku větrné elektrárny. V Kamenné Horce, Mikulči a Skleném tak lidé dali v referendech najevo, že si plánované větrníky ve svém okolí nepřejí a vedení obcí musí toto rozhodnutí respektovat.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "abc82539db6331b8a1bf0be4f82292c8ae84af84",
+      "fingerprint": "fa1ae0e3d94ad065958bff5cc5236ebba92d9206",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/volby/marsov-u-upice-v-referendu-odmitl-vetrne-elektrarny-lide-v-hradku-u-nechanic_2610111133_aru",
+      "published_utc": "2026-10-11T09:33:00Z",
+      "title_en": "Maršov u Úpice v referendu odmítl větrné elektrárny. Lidé v Hrádku u Nechanic rozhodli o převzetí kostela",
+      "lead_en": "Obyvatelé Maršova u Úpice na Trutnovsku v referendu odmítli stavbu větrných elektráren v katastru obce. Referendum je platné a závazné, konalo v pátek a v sobotu souběžně s obecními a senátními volbami.",
+      "title_raw": "Maršov u Úpice v referendu odmítl větrné elektrárny. Lidé v Hrádku u Nechanic rozhodli o převzetí kostela",
+      "lead_raw": "Obyvatelé Maršova u Úpice na Trutnovsku v referendu odmítli stavbu větrných elektráren v katastru obce. Referendum je platné a závazné, konalo v pátek a v sobotu souběžně s obecními a senátními volbami.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "57254fba3b7ad8b7f03712f95dd194e6cd125376",
+      "fingerprint": "ee77c0d0961576d7f58e3133fed8d70b57ad2dcd",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/volby/vetrne-elektrarny-v-citolibech-na-lounsku-stat-nebudou-obcane-je-v-referendu_2610111012_aru",
+      "published_utc": "2026-10-11T08:12:00Z",
+      "title_en": "Větrné elektrárny v Cítolibech na Lounsku stát nebudou. Občané je v referendu jasně odmítli",
+      "lead_en": "Občané Cítolib na Lounsku v referendu jasně odmítli výstavbu a provozování větrných elektráren v katastrálním území obce. Vyplývá to z výsledků hlasování zveřejněných na úřední desce obce.",
+      "title_raw": "Větrné elektrárny v Cítolibech na Lounsku stát nebudou. Občané je v referendu jasně odmítli",
+      "lead_raw": "Občané Cítolib na Lounsku v referendu jasně odmítli výstavbu a provozování větrných elektráren v katastrálním území obce. Vyplývá to z výsledků hlasování zveřejněných na úřední desce obce.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "7ddceac044fb3ff3cff1a4dad1bd0c54cf6a9fff",
       "fingerprint": "978193f999348dc94cc753e3ac4969a40ed71d84",
@@ -810,250 +989,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "4a7ea9ef9f1b483f5e2a3f2db89506c28b3d07b9",
-      "fingerprint": "d1b5a9871221d34d2f79759fd47f74810a628d84",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-zpravy-kraj-vysocina-energetici-u-dukovan-poprve-v-cesku-vyuzili-pri-pluhovani-kabelu-trojpotah-40601443",
-      "published_utc": "2026-10-09T13:24:27Z",
-      "title_en": "Energetici u Dukovan poprvé v Česku využili při pluhování kabelů trojpotah",
-      "lead_en": "Na poli v blízkosti jaderné elektrárny Dukovany na Třebíčsku budí v posledních dnech pozornost nezvyklé stroje. Hned tři linky vysokého napětí současně při jednom průjezdu stroje pokládají energetici pomocí pluhovací soupravy.",
-      "title_raw": "Energetici u Dukovan poprvé v Česku využili při pluhování kabelů trojpotah",
-      "lead_raw": "Na poli v blízkosti jaderné elektrárny Dukovany na Třebíčsku budí v posledních dnech pozornost nezvyklé stroje. Hned tři linky vysokého napětí současně při jednom průjezdu stroje pokládají energetici pomocí pluhovací soupravy.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 4,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "73bb133e82388be6df0f877cde319832650eea59",
-      "fingerprint": "22649c665175e8b7d42e31032975c02a3cf8e723",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/elektrarny-na-vltave-kvuli-suchu-vyrobily-jen-40-az-50-procent-elektriny-kraje_2610091506_lhv",
-      "published_utc": "2026-10-09T13:06:00Z",
-      "title_en": "Elektrárny na Vltavě kvůli suchu vyrobily jen 40 až 50 procent elektřiny. Kraje vyhlásily opatření kvůli suchu",
-      "lead_en": "Elektrárny na vltavské kaskádě letos kvůli suchu a malým průtokům vody vyrobily jen 40 až 50 procent elektřiny oproti dlouhodobému průměru. Z vodního díla Vrané nyní do Prahy odtéká jen 28 metrů krychlových vody za sekundu, elektrárna na Orlíku může vyrábět elektřinu jen z odtoku patnáct metrů krychlových za sekundu.",
-      "title_raw": "Elektrárny na Vltavě kvůli suchu vyrobily jen 40 až 50 procent elektřiny. Kraje vyhlásily opatření kvůli suchu",
-      "lead_raw": "Elektrárny na vltavské kaskádě letos kvůli suchu a malým průtokům vody vyrobily jen 40 až 50 procent elektřiny oproti dlouhodobému průměru. Z vodního díla Vrané nyní do Prahy odtéká jen 28 metrů krychlových vody za sekundu, elektrárna na Orlíku může vyrábět elektřinu jen z odtoku patnáct metrů krychlových za sekundu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "91413e55b059eacc733ae44a433f52afcce8c66c",
-      "fingerprint": "c186cb8129ae9f8c04528ffd0f9c83374d9921fb",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-ptam-se-ja-teprve-zacinam-je-to-spatna-zprava-pro-vsechny-klempire-sveta-rika-denemarkova-317181",
-      "published_utc": "2026-10-09T12:43:09Z",
-      "title_en": "Teprve začínám, je to špatná zpráva pro všechny Klempíře světa, říká Denemarková",
-      "lead_en": "Evropa hnědne, pronesla v projevu na frankfurtském knižním veletrhu česká spisovatelka Radka Denemarková. Za svá slova sklidila bouřlivý potlesk i kritiku ministra kultury.",
-      "title_raw": "Teprve začínám, je to špatná zpráva pro všechny Klempíře světa, říká Denemarková",
-      "lead_raw": "Evropa hnědne, pronesla v projevu na frankfurtském knižním veletrhu česká spisovatelka Radka Denemarková. Za svá slova sklidila bouřlivý potlesk i kritiku ministra kultury.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "d9e6518a040c65cdeb3741c1a591f7505e6707fc",
-      "fingerprint": "2ab15fb812b4a4122f8433d60525ee12fc5a213b",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/vodni-elektrarny-na-vltave-letos-kvuli-suchu-vyrobily-vyrazne-mene-elektriny-378412",
-      "published_utc": "2026-10-09T12:39:50Z",
-      "title_en": "Vodní elektrárny na Vltavě letos kvůli suchu vyrobily výrazně méně elektřiny",
-      "lead_en": "Elektrárny na vltavské kaskádě letos kvůli suchu a malým průtokům vody vyrobily jen 40 až 50 procent elektřiny v porovnání s dlouhodobým průměrem. Z vodního díla Vrané nyní do Prahy odtéká jen 28 metrů krychlových vody za sekundu, elektrárna na Orlíku může vyrábět elektřinu jen z odtoku 15 metrů krychlových za sekundu, řekl v pátek mluvčí skupiny ČEZ Martin Schreier.",
-      "title_raw": "Vodní elektrárny na Vltavě letos kvůli suchu vyrobily výrazně méně elektřiny",
-      "lead_raw": "Elektrárny na vltavské kaskádě letos kvůli suchu a malým průtokům vody vyrobily jen 40 až 50 procent elektřiny v porovnání s dlouhodobým průměrem. Z vodního díla Vrané nyní do Prahy odtéká jen 28 metrů krychlových vody za sekundu, elektrárna na Orlíku může vyrábět elektřinu jen z odtoku 15 metrů krychlových za sekundu, řekl v pátek mluvčí skupiny ČEZ Martin Schreier.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "bc7b516a64d28e1c134d37ec994b98ffb13b3594",
-      "fingerprint": "b890f51325eb83ac73dd24d2aee0713b588f8f97",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-vltavska-kaskada-trpi-suchem-vyroba-elektriny-klesla-az-o-60-procent-317207",
-      "published_utc": "2026-10-09T12:29:41Z",
-      "title_en": "Vltavská kaskáda trpí suchem. Výroba elektřiny klesla až o 60 procent",
-      "lead_en": "Vodní elektrárny na Vltavě kvůli suchu vyrobily jen 40 až 50 procent elektřiny a nemohou garantovat dodávky ve špičkách. Výpadek proudu v síti musí skupina ČEZ nahrazovat hlavně přečerpávací elektrárnou Dalešice.",
-      "title_raw": "Vltavská kaskáda trpí suchem. Výroba elektřiny klesla až o 60 procent",
-      "lead_raw": "Vodní elektrárny na Vltavě kvůli suchu vyrobily jen 40 až 50 procent elektřiny a nemohou garantovat dodávky ve špičkách. Výpadek proudu v síti musí skupina ČEZ nahrazovat hlavně přečerpávací elektrárnou Dalešice.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "5f94e26c0aed6a0a7fa00708b098eec8f215a6c4",
-      "fingerprint": "ad06de686e823b3e47744402e7b671af78f9a0a1",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/vodni-elektrarny-na-vltave-letos-kvuli-suchu-vyrobily-jen-40-az-50-pct-elektriny/2885064",
-      "published_utc": "2026-10-09T12:19:00Z",
-      "title_en": "Vodní elektrárny na Vltavě letos kvůli suchu vyrobily jen 40 až 50 pct elektřiny",
-      "lead_en": "České Budějovice/Praha - Elektrárny na vltavské kaskádě letos kvůli suchu a malým průtokům vody vyrobily jen 40 až 50 procent elektřiny v porovnání s dlouhodobým průměrem. Z vodního díla Vrané nyní do...",
-      "title_raw": "Vodní elektrárny na Vltavě letos kvůli suchu vyrobily jen 40 až 50 pct elektřiny",
-      "lead_raw": "České Budějovice/Praha - Elektrárny na vltavské kaskádě letos kvůli suchu a malým průtokům vody vyrobily jen 40 až 50 procent elektřiny v porovnání s dlouhodobým průměrem. Z vodního díla Vrané nyní do...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "6b88e8b7f90d2c0f9070560bd49d2f885d5bc6fc",
-      "fingerprint": "4e6754ca071ae4dd03e9c8a2648ce051b4c3d516",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/uhli-kvuli-nakladum-na-dopravu-zdrazilo-metricky-cent-stoji-asi-650-korun-drevo_2610091315_lhv",
-      "published_utc": "2026-10-09T11:15:00Z",
-      "title_en": "Uhlí kvůli nákladům na dopravu zdražilo, metrický cent stojí asi 650 korun. Dřevo někde naopak zlevnilo",
-      "lead_en": "Lidé si letos připlatí za uhlí na zimu. Proti loňsku zhruba o pět až deset procent.",
-      "title_raw": "Uhlí kvůli nákladům na dopravu zdražilo, metrický cent stojí asi 650 korun. Dřevo někde naopak zlevnilo",
-      "lead_raw": "Lidé si letos připlatí za uhlí na zimu. Proti loňsku zhruba o pět až deset procent.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "f6f36af99a19822532504e8a9c3b660821f4cdcf",
-      "fingerprint": "440e9678bf843925bc53547468ab27ee2d16607e",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-hlavu-ruskych-propagandistu-kteri-operovali-v-cesku-zatkli-v-cerne-hore-317189",
-      "published_utc": "2026-10-09T11:15:00Z",
-      "title_en": "Hlavu ruských propagandistů, kteří operovali v Česku, zatkli",
-      "lead_en": "Šéfa ruského propagandistického centra Rybar, jehož operaci v Česku před třemi týdny rozkryly Seznam Zprávy, nyní zadržela policie v Černé Hoře. Země Michaila Zvinčuka podezřívá z pokusu narušit její směřování do EU.",
-      "title_raw": "Hlavu ruských propagandistů, kteří operovali v Česku, zatkli",
-      "lead_raw": "Šéfa ruského propagandistického centra Rybar, jehož operaci v Česku před třemi týdny rozkryly Seznam Zprávy, nyní zadržela policie v Černé Hoře. Země Michaila Zvinčuka podezřívá z pokusu narušit její směřování do EU.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "2c1dae4155db3a7e3eeec90faa8a34c95ca2a93c",
-      "fingerprint": "4a36620a3133ba382678d60d344318c1eb9f8379",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-ruska-velvyslankyne-vini-cesko-ze-sireni-rusofobie-a-primitivni-propagandy-ministerstvo-to-nekomentuje-40601647",
-      "published_utc": "2026-10-09T08:53:03Z",
-      "title_en": "Ruská velvyslankyně viní Česko ze šíření rusofobie a primitivní propagandy. Ministerstvo to nekomentuje",
-      "lead_en": "Ruská velvyslankyně v České republice Anna Vladimirovna Ponomarjovová v úterý v rozhovoru pro ruskou státní agenturu RIA Novosti obvinila Prahu z provokací, rusofobie a podpory Ukrajiny, která je podle ní nacistická. Novinky oslovily ministerstvo zahraničí v čele s ministrem Petrem Macinkou (Motoristé sobě), úřad se ovšem k věci odmítl vyjádřit.",
-      "title_raw": "Ruská velvyslankyně viní Česko ze šíření rusofobie a primitivní propagandy. Ministerstvo to nekomentuje",
-      "lead_raw": "Ruská velvyslankyně v České republice Anna Vladimirovna Ponomarjovová v úterý v rozhovoru pro ruskou státní agenturu RIA Novosti obvinila Prahu z provokací, rusofobie a podpory Ukrajiny, která je podle ní nacistická. Novinky oslovily ministerstvo zahraničí v čele s ministrem Petrem Macinkou (Motoristé sobě), úřad se ovšem k věci odmítl vyjádřit.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "df247bdc078fb53663f4ee22b7eb8057b73ff4a0",
-      "fingerprint": "bd144cdd44a47eacc711890ce888338f4117ecb2",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/veda/emise-sklenikovych-plynu-za-posledni-dekadu-mely-dopad-na-silu-veder-v-evrope-ukazuje-studie-378393",
-      "published_utc": "2026-10-09T08:52:22Z",
-      "title_en": "Emise skleníkových plynů za poslední dekádu měly dopad na sílu veder v Evropě, ukazuje studie",
-      "lead_en": "Když Evropu zasáhne mimořádná vlna veder, dokážou klimatologové poměrně dobře stanovit, jakou roli v ní sehrála člověkem způsobená změna klimatu. Nedávno publikovaná studie si ale klade mnohem složitější otázku – dá se v konkrétní vlně veder rozeznat vliv části skleníkových plynů, konkrétně těch, které lidstvo vypustilo teprve během posledních deseti let?",
-      "title_raw": "Emise skleníkových plynů za poslední dekádu měly dopad na sílu veder v Evropě, ukazuje studie",
-      "lead_raw": "Když Evropu zasáhne mimořádná vlna veder, dokážou klimatologové poměrně dobře stanovit, jakou roli v ní sehrála člověkem způsobená změna klimatu. Nedávno publikovaná studie si ale klade mnohem složitější otázku – dá se v konkrétní vlně veder rozeznat vliv části skleníkových plynů, konkrétně těch, které lidstvo vypustilo teprve během posledních deseti let?",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "9fc30a8a21e781f2c01cb521400b6fa704c43256",
-      "fingerprint": "5cbcf1501ba68b1512a825104e28d66b62d54a71",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-v-italii-se-chysta-kazdorocni-cviceni-jadernych-sil-nato-pomaha-odradit-od-agrese-pripomina-aliance-40601644",
-      "published_utc": "2026-10-09T08:17:51Z",
-      "title_en": "NATO chystá v Itálii cvičení jaderných sil. Pomáhá to odradit od agrese, připomíná",
-      "lead_en": "Příští týden se v Itálii uskuteční pravidelné cvičení připravenosti jaderných sil Severoatlantické aliance. NATO ujišťuje, že cvičení nesouvisí s aktuálním světovým děním a není namířeno proti žádné zemi, upozorňuje ale zároveň, že alianci pomáhá předcházet nátlaku a odrazovat od agrese.",
-      "title_raw": "NATO chystá v Itálii cvičení jaderných sil. Pomáhá to odradit od agrese, připomíná",
-      "lead_raw": "Příští týden se v Itálii uskuteční pravidelné cvičení připravenosti jaderných sil Severoatlantické aliance. NATO ujišťuje, že cvičení nesouvisí s aktuálním světovým děním a není namířeno proti žádné zemi, upozorňuje ale zároveň, že alianci pomáhá předcházet nátlaku a odrazovat od agrese.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
