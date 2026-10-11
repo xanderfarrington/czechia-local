@@ -1,10 +1,33 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-11T19:14:59Z",
+  "updated_at_utc": "2026-10-11T23:16:17Z",
   "topic": "economy",
   "count": 13,
   "articles": [
+    {
+      "id": "1ff7827fa876f43a085346d10f5b86382ac94440",
+      "fingerprint": "eaa658b79c6d32aa24f79f36a35ebd419d93378d",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-unie-chce-urychlit-vyvoj-inovacni-bojove-technologie-jde-o-prilezitost-i-pro-ceske-firmy-40601585",
+      "published_utc": "2026-10-11T20:21:47Z",
+      "title_en": "Unie chce urychlit vývoj inovační bojové technologie. Jde o příležitost i pro české firmy",
+      "lead_en": "V grantovém programu Agile, který má posílit soběstačnost obranného průmyslu Evropy, je pro příští rok 115 milionů eur, tedy necelé tři miliardy korun. Peníze by měly připadnout především malým a středním podnikům, včetně startupů, které moderní bojové technologie vyvíjejí.",
+      "title_raw": "Unie chce urychlit vývoj inovační bojové technologie. Jde o příležitost i pro české firmy",
+      "lead_raw": "V grantovém programu Agile, který má posílit soběstačnost obranného průmyslu Evropy, je pro příští rok 115 milionů eur, tedy necelé tři miliardy korun. Peníze by měly připadnout především malým a středním podnikům, včetně startupů, které moderní bojové technologie vyvíjejí.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "c019e3d8e54d0c661f3c7e3ffab4de4aacaa19a8",
       "fingerprint": "b38cfc8211be53b34c7c52d7b6adf07c13d5a3af",
@@ -273,28 +296,6 @@
         "military": 0,
         "energy": 0,
         "economy": 4,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "4addfdb48fba14bb66d0a125b5273b70a3909af8",
-      "fingerprint": "f9e944b989d6e5651d66d64fe550728c7aad7fb5",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/trump-oznamil-dohodu-putin-dodavka-nafta-trh.A261009_214210_zahranicni_fohl",
-      "published_utc": "2026-10-09T20:28:00Z",
-      "title_en": "Trump šokuje sabotováním sankcí. Nakoupí od Putina miliony tun nafty",
-      "lead_en": "Rusko okamžitě dodá na americký a světový trh přes 300 tisíc tun nafty, v dalších měsících pak budou následovat ještě vyšší dodávky. Oznámil to v pátek americký prezident Donald Trump na své sociální síti Truth Social.",
-      "title_raw": "Trump šokuje sabotováním sankcí. Nakoupí od Putina miliony tun nafty",
-      "lead_raw": "Rusko okamžitě dodá na americký a světový trh přes 300 tisíc tun nafty, v dalších měsících pak budou následovat ještě vyšší dodávky. Oznámil to v pátek americký prezident Donald Trump na své sociální síti Truth Social.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
         "local_events": 0
       },
       "topics": [
