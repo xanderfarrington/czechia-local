@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-11T01:22:31Z",
+  "updated_at_utc": "2026-10-11T07:56:26Z",
   "topic": "economy",
   "count": 12,
   "articles": [
+    {
+      "id": "4d3926452c58c6aac5e72029679d148b74b3c33c",
+      "fingerprint": "9f0e614aa17ba732ad53da92378b6b3b5e89fb4d",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/usa-americka-ekonomika-kondice-makroekonomika-firmy-prace.A261007_115747_eko-zahranicni_jla",
+      "published_utc": "2026-10-11T06:00:00Z",
+      "title_en": "Ekonomika USA stále roste. Nálada mezi Američany tomu ale neodpovídá",
+      "lead_en": "Americká ekonomika si podle hlavních makroekonomických ukazatelů vede nadmíru dobře. Nezaměstnanost zůstává nízká, firmy téměř nepropouštějí, lidé dál utrácejí a akciové trhy jsou již několik týdnů na rekordních číslech.",
+      "title_raw": "Ekonomika USA stále roste. Nálada mezi Američany tomu ale neodpovídá",
+      "lead_raw": "Americká ekonomika si podle hlavních makroekonomických ukazatelů vede nadmíru dobře. Nezaměstnanost zůstává nízká, firmy téměř nepropouštějí, lidé dál utrácejí a akciové trhy jsou již několik týdnů na rekordních číslech.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 4,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "7bbd6bafbcd69d3ea8e39d8656c4b7a9178596b8",
       "fingerprint": "2dcf779fdaceb8561262cbd36e6f4e37850fc39b",
@@ -257,28 +279,6 @@
       },
       "topics": [
         "diplomacy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "cff772d21f7054e790c2d39e506ad8c7f280f81b",
-      "fingerprint": "9b3104af7f09950ce219a5034466d9d2c406ed1d",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/na-trh-zacinaji-prichazet-dodavky-s-ultrarychlym-dobijenim/2884905",
-      "published_utc": "2026-10-09T07:29:00Z",
-      "title_en": "Na trh začínají přicházet dodávky s ultrarychlým dobíjením",
-      "lead_en": "Automobilky, které se kromě výroby osobních modelů věnují také těm užitkovým, začínají přicházet s novými typy dodávek. Ty mají schopnost velmi rychlého dobíjení.",
-      "title_raw": "Na trh začínají přicházet dodávky s ultrarychlým dobíjením",
-      "lead_raw": "Automobilky, které se kromě výroby osobních modelů věnují také těm užitkovým, začínají přicházet s novými typy dodávek. Ty mají schopnost velmi rychlého dobíjení.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
         "economy"
       ],
       "primary_topic": "economy"
