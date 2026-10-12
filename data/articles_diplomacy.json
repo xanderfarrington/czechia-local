@@ -1,10 +1,635 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-12T09:53:25Z",
+  "updated_at_utc": "2026-10-12T19:27:36Z",
   "topic": "diplomacy",
-  "count": 69,
+  "count": 84,
   "articles": [
+    {
+      "id": "9f50b2e880a5c5933700c41c55cb524bb04661d0",
+      "fingerprint": "232c232b74eeb0a370473e14382ea11cdfec7af3",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/volby-komunalni-otukavani-rodici-se-prazske-koalice-v-praze-zacalo-portlik-by-si-vystacil-jen-se-stan-40602382",
+      "published_utc": "2026-10-12T18:54:00Z",
+      "title_en": "Oťukávání rodící se pražské koalice začalo. Portlík by si vystačil jen se STAN",
+      "lead_en": "Vyjednávací týmy pražského STAN a Spolu (ODS +TOP 09), tedy dvou nejsilnějších uskupení v novém pražském zastupitelstvu, v pondělí dorazily na první oficiální schůzku, na níž jednaly o koalici v Praze a složení městské rady. Lídr Spolu Tomáš Portlík (ODS) před i po jednání naznačil, že by jeho uskupení preferovalo dvojkoalici s vítězným STAN.",
+      "title_raw": "Oťukávání rodící se pražské koalice začalo. Portlík by si vystačil jen se STAN",
+      "lead_raw": "Vyjednávací týmy pražského STAN a Spolu (ODS +TOP 09), tedy dvou nejsilnějších uskupení v novém pražském zastupitelstvu, v pondělí dorazily na první oficiální schůzku, na níž jednaly o koalici v Praze a složení městské rady. Lídr Spolu Tomáš Portlík (ODS) před i po jednání naznačil, že by jeho uskupení preferovalo dvojkoalici s vítězným STAN.",
+      "topic_scores": {
+        "diplomacy": 3,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "1077097ab24722c79e196f1100c8c15f3fd7321e",
+      "fingerprint": "f347a6b346936874b09286157b19fcb1c0570c24",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-trump-tvrdi-ze-dohoda-s-putinem-o-nafte-je-v-zajmu-spojenych-statu-317704",
+      "published_utc": "2026-10-12T18:24:51Z",
+      "title_en": "Trump tvrdí, že dohoda s Putinem o naftě je v zájmu Spojených států",
+      "lead_en": "Dohoda s Ruskem o dodávkách nafty je podle amerického prezidenta Donalda Trumpa v zájmu Spojených států. Šéf Bílého domu zároveň obvinil Evropskou unii, že za energie Rusku zaplatila stovky miliard dolarů.",
+      "title_raw": "Trump tvrdí, že dohoda s Putinem o naftě je v zájmu Spojených států",
+      "lead_raw": "Dohoda s Ruskem o dodávkách nafty je podle amerického prezidenta Donalda Trumpa v zájmu Spojených států. Šéf Bílého domu zároveň obvinil Evropskou unii, že za energie Rusku zaplatila stovky miliard dolarů.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "e8d7d90d3db4fffb76d97df91adee2953430abd5",
+      "fingerprint": "412809a19a5647b9c40f2915c3b96e5ce0a799ce",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/volby-komunalni-ano-skonci-v-sokolove-v-opozici-dohodla-se-nova-koalice-tri-uskupeni-317702",
+      "published_utc": "2026-10-12T18:14:55Z",
+      "title_en": "ANO skončí v Sokolově v opozici, dohodla se nová koalice tří uskupení",
+      "lead_en": "I když hnutí ANO obhájilo vítězství v rámci komunálních voleb v Sokolově, pravděpodobně skončí mimo vedení města. Na koalici se domluvily Sokolov na plný úvazek, Hnutí pro město Sokolov, Společně pro Sokolov a Volba pro kraj.",
+      "title_raw": "ANO skončí v Sokolově v opozici, dohodla se nová koalice tří uskupení",
+      "lead_raw": "I když hnutí ANO obhájilo vítězství v rámci komunálních voleb v Sokolově, pravděpodobně skončí mimo vedení města. Na koalici se domluvily Sokolov na plný úvazek, Hnutí pro město Sokolov, Společně pro Sokolov a Volba pro kraj.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "b7cd46dc1a8ba34c1c2d86335d60d9c97b7f7920",
+      "fingerprint": "d85a3aa8e17d921f540febd1c7140a18823a0c48",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/metnar-bezpecnostni-sbory-dostat-pristi-rok-pridano-tarify.A261012_194652_domaci_sahu",
+      "published_utc": "2026-10-12T18:10:00Z",
+      "title_en": "Policisté a hasiči dostanou přidáno víc. Cíl 50 tisíc po nástupu má být do tří let",
+      "lead_en": "Příslušníci bezpečnostních sborů dostanou v příštím roce do tarifů přidáno 2400 korun, 500 korun bude na pokrytí přesčasů a pohotovostí. Po dnešním jednání odborových svazů s premiérem Andrejem Babišem (ANO) a dalšími zástupci vlády to novinářům řekl ministr vnitra Lubomír Metnar (ANO).",
+      "title_raw": "Policisté a hasiči dostanou přidáno víc. Cíl 50 tisíc po nástupu má být do tří let",
+      "lead_raw": "Příslušníci bezpečnostních sborů dostanou v příštím roce do tarifů přidáno 2400 korun, 500 korun bude na pokrytí přesčasů a pohotovostí. Po dnešním jednání odborových svazů s premiérem Andrejem Babišem (ANO) a dalšími zástupci vlády to novinářům řekl ministr vnitra Lubomír Metnar (ANO).",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "26d3032d5d0c8dfe79900587fcc7c7a9439bfcf3",
+      "fingerprint": "890b6eb17ed4b1b1d34cdbf4a1ab0e994e5a929d",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/bezpecnostni-sbory-dostanou-pristi-rok-pridano-2400-korun-do-tarifu-uvedl-metnar_2610121949_eml",
+      "published_utc": "2026-10-12T17:49:00Z",
+      "title_en": "Bezpečnostní sbory dostanou příští rok přidáno 2400 korun do tarifů, uvedl Metnar",
+      "lead_en": "Příslušníci bezpečnostních sborů dostanou v příštím roce do tarifů přidáno 2400 korun, 500 korun bude na pokrytí přesčasů a pohotovostí. Po pondělním jednání odborových svazů s premiérem Babišem (ANO) a dalšími zástupci vlády to novinářům řekl ministr vnitra Lubomír Metnar (ANO).",
+      "title_raw": "Bezpečnostní sbory dostanou příští rok přidáno 2400 korun do tarifů, uvedl Metnar",
+      "lead_raw": "Příslušníci bezpečnostních sborů dostanou v příštím roce do tarifů přidáno 2400 korun, 500 korun bude na pokrytí přesčasů a pohotovostí. Po pondělním jednání odborových svazů s premiérem Babišem (ANO) a dalšími zástupci vlády to novinářům řekl ministr vnitra Lubomír Metnar (ANO).",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "a3b7f8bbf77c8433ebc1bf0742fcf4406b52bcd5",
+      "fingerprint": "b1a1c2998edadfcc2004f5053b0e59f7ac1ef805",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/volby/praha/volebni-vyjednavani-praha-portlik-hlavacek-pruniky-v-programu.A261012_183823_praha-volby_lupr",
+      "published_utc": "2026-10-12T17:41:00Z",
+      "title_en": "Portlík s Hlaváčkem se v Praze shodnou na zdražení MHD i zástavbě brownfieldů",
+      "lead_en": "Zdražení MHD, proměna brownfieldů v nové rezidenční čtvrti anebo investice do dokončení zásadních dopravních staveb, například městského okruhu. V těchto tématech by týmy STAN a Spolu pro Prahu, nejsilnějších stran vyjednávajících od pondělí o podobě koalice, mohly najít shodu.",
+      "title_raw": "Portlík s Hlaváčkem se v Praze shodnou na zdražení MHD i zástavbě brownfieldů",
+      "lead_raw": "Zdražení MHD, proměna brownfieldů v nové rezidenční čtvrti anebo investice do dokončení zásadních dopravních staveb, například městského okruhu. V těchto tématech by týmy STAN a Spolu pro Prahu, nejsilnějších stran vyjednávajících od pondělí o podobě koalice, mohly najít shodu.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "5bc9c9b08cbe5b5a93b7fdffbac528e09a17df3d",
+      "fingerprint": "6edde4e1abe4878ea0cc419079f894585ecc73bc",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-eu-taky-nakupovala-v-rusku-udelal-jsem-dobre-haji-trump-dohodu-s-putinem-40602405",
+      "published_utc": "2026-10-12T17:15:37Z",
+      "title_en": "EU taky nakupovala v Rusku. Udělal jsem dobře, hájí Trump dohodu s Putinem",
+      "lead_en": "Americký prezident Donald Trump v pondělí prohlásil, že udělal správné rozhodnutí pro americký lid, když se minulý týden s ruským vůdcem Vladimirem Putinem dohodl na dodávkách až pěti milionů tun nafty. Napsal to na své vlastní síti Truth Social, kde také argumentoval, že přece Evropská unie také dříve platila Rusku za energie.",
+      "title_raw": "EU taky nakupovala v Rusku. Udělal jsem dobře, hájí Trump dohodu s Putinem",
+      "lead_raw": "Americký prezident Donald Trump v pondělí prohlásil, že udělal správné rozhodnutí pro americký lid, když se minulý týden s ruským vůdcem Vladimirem Putinem dohodl na dodávkách až pěti milionů tun nafty. Napsal to na své vlastní síti Truth Social, kde také argumentoval, že přece Evropská unie také dříve platila Rusku za energie.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "3ee9d7df44435df06b3f42889c681435ce7f9ebf",
+      "fingerprint": "ad9785dde13bbf8c025c171289adfeae1a5a70cf",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/prazske-spolu-a-stan-zacnou-na-konci-tydne-resit-programove-priority/2886410",
+      "published_utc": "2026-10-12T17:05:00Z",
+      "title_en": "Pražské Spolu a STAN začnou na konci týdne řešit programové priority",
+      "lead_en": "Praha - Vyjednávací týmy pražského Spolu (ODS, TOP 09) a STAN se sejdou znovu ve čtvrtek a pátek, aby řešily programové priority. Rozdělením gescí se zatím zabývat nebudou.",
+      "title_raw": "Pražské Spolu a STAN začnou na konci týdne řešit programové priority",
+      "lead_raw": "Praha - Vyjednávací týmy pražského Spolu (ODS, TOP 09) a STAN se sejdou znovu ve čtvrtek a pátek, aby řešily programové priority. Rozdělením gescí se zatím zabývat nebudou.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "2a337d638552100a4689e555e8930d8b008323e7",
+      "fingerprint": "3356d07e94819f2e96cef56d92e57f0a9f65ddaa",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-zelenskyj-rusko-usa-ropa-trump-dohoda.A261012_175443_zahranicni_rtn",
+      "published_utc": "2026-10-12T17:05:00Z",
+      "title_en": "Proč dohoda s Putinem? O ruské naftě rozhodujeme my, troufl si Zelenskyj na USA",
+      "lead_en": "Ukrajinský prezident Volodymyr Zelenskyj zpochybnil dohodu o vývozu ruské nafty, kterou si dojednali Donald Trump a Vladimir Putin. Spojené státy by podle něj měly vyjednávat spíše s Kyjevem.",
+      "title_raw": "Proč dohoda s Putinem? O ruské naftě rozhodujeme my, troufl si Zelenskyj na USA",
+      "lead_raw": "Ukrajinský prezident Volodymyr Zelenskyj zpochybnil dohodu o vývozu ruské nafty, kterou si dojednali Donald Trump a Vladimir Putin. Spojené státy by podle něj měly vyjednávat spíše s Kyjevem.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "9a348c067cdd17835392df3f4d74f92139d6c6b3",
+      "fingerprint": "0048e5b849971038b577ac95215692330cc3e4b1",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/bezpecnostni-sbory-dostanou-pristi-rok-pridano-2400-kc-do-tarifu-rekl-metnar/2880363",
+      "published_utc": "2026-10-12T17:02:00Z",
+      "title_en": "Bezpečnostní sbory dostanou příští rok přidáno 2400 Kč do tarifů, řekl Metnar",
+      "lead_en": "Praha - Příslušníci bezpečnostních sborů dostanou v příštím roce do tarifů přidáno 2400 korun, 500 korun bude na pokrytí přesčasů a pohotovostí. Po dnešním jednání odborových svazů s premiérem Andrejem...",
+      "title_raw": "Bezpečnostní sbory dostanou příští rok přidáno 2400 Kč do tarifů, řekl Metnar",
+      "lead_raw": "Praha - Příslušníci bezpečnostních sborů dostanou v příštím roce do tarifů přidáno 2400 korun, 500 korun bude na pokrytí přesčasů a pohotovostí. Po dnešním jednání odborových svazů s premiérem Andrejem...",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "583c922d91dde1c036a76954931ada2936d1b953",
+      "fingerprint": "c924b3ae3b6b003db7cf5b60b539047041c05245",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-prislusnici-bezpecnostnich-sboru-dostanou-pristi-rok-v-tarifech-navic-2400-korun-40602411",
+      "published_utc": "2026-10-12T17:01:56Z",
+      "title_en": "Příslušníci bezpečnostních sborů dostanou příští rok v tarifech navíc 2400 korun",
+      "lead_en": "Příslušníci bezpečnostních sborů dostanou v příštím roce do tarifů přidáno 2400 korun, řekl v pondělí po jednání s odbory ministr vnitra Lubomír Metnar (ANO) s tím, že 500 korun bude na pokrytí přesčasů.",
+      "title_raw": "Příslušníci bezpečnostních sborů dostanou příští rok v tarifech navíc 2400 korun",
+      "lead_raw": "Příslušníci bezpečnostních sborů dostanou v příštím roce do tarifů přidáno 2400 korun, řekl v pondělí po jednání s odbory ministr vnitra Lubomír Metnar (ANO) s tím, že 500 korun bude na pokrytí přesčasů.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "885fe035aed7088ca987fe71ab10ee4dc868d502",
+      "fingerprint": "6e6346c929c31093ca260f70e25b9bda32f2074e",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/pan-okamura-skutecne-nema-co-mluvit-do-evropske-rady-vzkazal-babis-sefovi-spd-na_2610121858_med",
+      "published_utc": "2026-10-12T16:58:00Z",
+      "title_en": "Pan Okamura skutečně nemá co mluvit do Evropské rady, vzkázal Babiš šéfovi SPD na vládní tiskovce",
+      "lead_en": "Premiér Andrej Babiš (ANO) se na pondělní tiskové konferenci vlády ohradil proti vyjádření předsedy SPD Tomia Okamury, podle kterého bude Česko na nadcházejícím jednání Evropské rady prosazovat obnovení komunikace Evropské unie s Ruskem. „Pan Okamura skutečně nemá co mluvit do Evropské rady,“ prohlásil Babiš.",
+      "title_raw": "Pan Okamura skutečně nemá co mluvit do Evropské rady, vzkázal Babiš šéfovi SPD na vládní tiskovce",
+      "lead_raw": "Premiér Andrej Babiš (ANO) se na pondělní tiskové konferenci vlády ohradil proti vyjádření předsedy SPD Tomia Okamury, podle kterého bude Česko na nadcházejícím jednání Evropské rady prosazovat obnovení komunikace Evropské unie s Ruskem. „Pan Okamura skutečně nemá co mluvit do Evropské rady,“ prohlásil Babiš.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "b3312dd5d0dd1451dfa9f42154a434653874010d",
+      "fingerprint": "85cf65bda4263e6240a6c3f092a7afca9efd1dee",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-zlinsky-kraj-slibovali-zmenu-jdou-ke-korytum-hnuti-zlin-21-celi-kvuli-namluvam-s-ano-tvrde-kritice-40602377",
+      "published_utc": "2026-10-12T16:54:21Z",
+      "title_en": "Slibovali změnu, jdou ke korytům. Hnutí Zlín 21 čelí kvůli námluvám s ANO tvrdé kritice",
+      "lead_en": "Vlna kritiky se bezprostředně po volbách ve Zlíně zvedla na adresu hnutí Zlín 21 místního podnikatele Čestmíra Vančury. Vančurovo hnutí hned o první noci po volbách přijalo nabídku vítězného ANO v čele se současným primátorem Jiřím Korcem a stalo se součástí trojlístku vyjednávajícího o koalici ANO, Zlín 21 a ODS.",
+      "title_raw": "Slibovali změnu, jdou ke korytům. Hnutí Zlín 21 čelí kvůli námluvám s ANO tvrdé kritice",
+      "lead_raw": "Vlna kritiky se bezprostředně po volbách ve Zlíně zvedla na adresu hnutí Zlín 21 místního podnikatele Čestmíra Vančury. Vančurovo hnutí hned o první noci po volbách přijalo nabídku vítězného ANO v čele se současným primátorem Jiřím Korcem a stalo se součástí trojlístku vyjednávajícího o koalici ANO, Zlín 21 a ODS.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "f4e01b5be0f9efd96648baf50d05655ea123032e",
+      "fingerprint": "435a9f444021b7d9d37ffd8f546043e601b54bd5",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-sebestyan-prioritami-v-boji-se-suchem-jsou-zadrzovani-vody-v-krajine-i-cisticky-317698",
+      "published_utc": "2026-10-12T16:44:26Z",
+      "title_en": "Šebestyán: Prioritami v boji se suchem jsou zadržování vody v krajině i čističky",
+      "lead_en": "Členové Národní koalice pro boj se suchem na jednání vyhodnocovali dosavadní opatření i dlouhodobý plán.",
+      "title_raw": "Šebestyán: Prioritami v boji se suchem jsou zadržování vody v krajině i čističky",
+      "lead_raw": "Členové Národní koalice pro boj se suchem na jednání vyhodnocovali dosavadní opatření i dlouhodobý plán.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "e304d92db47022d288a2959a5741cdab0c25d956",
+      "fingerprint": "d5f31599d0cf09fcd080bac4816295861b5de9bf",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/planovany-utok-na-britskou-zakladnu-fairford-vyuzivanou-usa-temer-urcite-ridily-iranske-revolucni-ga.A261012_170548_zahranicni_remy",
+      "published_utc": "2026-10-12T16:37:00Z",
+      "title_en": "Britský premiér Burnham obvinil íránské revoluční gardy z plánu útoku na základnu",
+      "lead_en": "Plánovaný zářijový útok na britskou leteckou základnu Fairford využívanou Spojenými státy téměř určitě řídily íránské revoluční gardy, prohlásil britský premiér Andy Burnham. Britská diplomacie si kvůli tomu předvolala íránského velvyslance v zemi.",
+      "title_raw": "Britský premiér Burnham obvinil íránské revoluční gardy z plánu útoku na základnu",
+      "lead_raw": "Plánovaný zářijový útok na britskou leteckou základnu Fairford využívanou Spojenými státy téměř určitě řídily íránské revoluční gardy, prohlásil britský premiér Andy Burnham. Britská diplomacie si kvůli tomu předvolala íránského velvyslance v zemi.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "c98b27ed3d8a18c77028c268a53ec3ffb3565123",
+      "fingerprint": "31888e1ba5fd383889186ba23a6b7537e94f4fd5",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/volby/jednani-portlik-hlavacek-spolu-stan-praha-koalice-setkani.A261012_140641_volby_sahu",
+      "published_utc": "2026-10-12T16:37:00Z",
+      "title_en": "„Krásná většina,“ smál se Hlaváček. Po Portlíkovi ho čeká Praha sobě i Piráti",
+      "lead_en": "Vítězné hnutí STAN a druhé SPOLU v pondělí po šesté hodině uzavřely první společné jednání na pražském magistrátu. Přestože lídři dorazili v uvolněné náladě, konkrétní obrysy budoucí vlády v metropoli po schůzce neprozradili.",
+      "title_raw": "„Krásná většina,“ smál se Hlaváček. Po Portlíkovi ho čeká Praha sobě i Piráti",
+      "lead_raw": "Vítězné hnutí STAN a druhé SPOLU v pondělí po šesté hodině uzavřely první společné jednání na pražském magistrátu. Přestože lídři dorazili v uvolněné náladě, konkrétní obrysy budoucí vlády v metropoli po schůzce neprozradili.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "36c5facb59ed4460fd1e2c22b06886368fd25cd4",
+      "fingerprint": "0bf720cb93bcb7e238ff5c7a5ec0384c76a02d6b",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-francouzsky-paprec-kupuje-byznys-marius-pedersen-v-cesku-a-na-slovensku-317695",
+      "published_utc": "2026-10-12T16:32:00Z",
+      "title_en": "Francouzský Paprec kupuje byznys Marius Pedersen v Česku a na Slovensku",
+      "lead_en": "Jeden z největších obchodů roku je dojednán. Dánská skupina Marius Pedersen prodává své byznysové aktivity v Česku a na Slovensku francouzskému odpadovému gigantu Paprec.",
+      "title_raw": "Francouzský Paprec kupuje byznys Marius Pedersen v Česku a na Slovensku",
+      "lead_raw": "Jeden z největších obchodů roku je dojednán. Dánská skupina Marius Pedersen prodává své byznysové aktivity v Česku a na Slovensku francouzskému odpadovému gigantu Paprec.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "fac3a76a651780e4fc62c4d3193d562f2789a81d",
+      "fingerprint": "1f9229e00ceab07d5e7b7f67884cbee33c4f581b",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-cesko-nedostalo-pozvanku-na-jednani-o-nato-v-polsku-zuna-ale-miri-do-usa-40602365",
+      "published_utc": "2026-10-12T16:24:37Z",
+      "title_en": "Česko nedostalo pozvánku na jednání o NATO v Polsku. Zůna ale míří do USA",
+      "lead_en": "Česko se nezúčastní exkluzivního setkání zástupců zemí NATO v Polsku, které svolávají Američané. Neobdrželo totiž pozvánku.",
+      "title_raw": "Česko nedostalo pozvánku na jednání o NATO v Polsku. Zůna ale míří do USA",
+      "lead_raw": "Česko se nezúčastní exkluzivního setkání zástupců zemí NATO v Polsku, které svolávají Američané. Neobdrželo totiž pozvánku.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "b2ec56da2ff5c4e5bfed3e9362cb0b78d29b5d6f",
+      "fingerprint": "55a2c736fda7e455d5dba5a0880ce58b5685d398",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/babis-bude-chti-odklad-emisnich-povolenek-pustil-se-do-okamury.A261012_033555_domaci_kop",
+      "published_utc": "2026-10-12T16:08:31Z",
+      "title_en": "Babiš bude chtít odklad povolenek. Pustil se do Okamury, že není mluvčí vlády",
+      "lead_en": "Premiér ANO Andrej Babiš bude na jednání Evropské rady prosazovat odložení emisních povolenek ETS 2. Kritizoval dohodu amerického prezidenta Donalda Trumpa s ruským prezidentem Vladimirem Putinem o ruské naftě a pustil se i do šéfa Sněmovny a SPD Tomia Okamury.",
+      "title_raw": "Babiš bude chtít odklad povolenek. Pustil se do Okamury, že není mluvčí vlády",
+      "lead_raw": "Premiér ANO Andrej Babiš bude na jednání Evropské rady prosazovat odložení emisních povolenek ETS 2. Kritizoval dohodu amerického prezidenta Donalda Trumpa s ruským prezidentem Vladimirem Putinem o ruské naftě a pustil se i do šéfa Sněmovny a SPD Tomia Okamury.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "f8721a18134ac30ee1027b95402356a546a5d261",
+      "fingerprint": "f0436764274b4be7ee4e4271982f62c684723212",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-dohodnuto-eu-stanovila-limit-pro-dovoz-cinskych-hybridu-40602257",
+      "published_utc": "2026-10-12T16:00:24Z",
+      "title_en": "Dohodnuto. EU stanovila limit pro dovoz čínských hybridů",
+      "lead_en": "Podle dohody mezi Evropskou unií a Čínou se bude do EU ročně smět dovážet nejvýše 350 tisíc čínských hybridních vozů. S odkazem na zástupce Evropské komise (EK) o tom informují agentury Reuters a AFP.",
+      "title_raw": "Dohodnuto. EU stanovila limit pro dovoz čínských hybridů",
+      "lead_raw": "Podle dohody mezi Evropskou unií a Čínou se bude do EU ročně smět dovážet nejvýše 350 tisíc čínských hybridních vozů. S odkazem na zástupce Evropské komise (EK) o tom informují agentury Reuters a AFP.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "007bc78e679543ed33f94959b42520f436211d00",
+      "fingerprint": "61bb06729385951e2a7cd34c195e4362dd11dff2",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/volby-karlovy-vary-povede-koalice-ano-karlovaraku-a-ods-40602398",
+      "published_utc": "2026-10-12T15:30:08Z",
+      "title_en": "Karlovy Vary povede koalice ANO, Karlovaráků a ODS",
+      "lead_en": "Zástupci dohodnuté koalice v Karlových Varech v pondělí podepsali memorandum. Koalice bude složená z vítězného hnutí ANO, Karlovaráků a ODS.",
+      "title_raw": "Karlovy Vary povede koalice ANO, Karlovaráků a ODS",
+      "lead_raw": "Zástupci dohodnuté koalice v Karlových Varech v pondělí podepsali memorandum. Koalice bude složená z vítězného hnutí ANO, Karlovaráků a ODS.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "ea824cfd794727be1d1850e4ae97d65995ea5da0",
+      "fingerprint": "18f3e385bc7a3509675326173ddd76ae5fc0282e",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/brno/zpravy/komunalni-volby-vyskov-mistostarosta-jankovic-uvolnene-misto-kachlik.A261012_164640_brno-zpravy_ichuc",
+      "published_utc": "2026-10-12T15:11:00Z",
+      "title_en": "Nezvolili ho, přesto bude místostarostou. Výsměch voličům, zní z opozice",
+      "lead_en": "Novým místostarostou Vyškova se má stát lídr kandidátky Volba pro město Radim Jankovič. Vyplynulo to z dohody o vedení města, kterou zástupci radnice v pondělí představili.",
+      "title_raw": "Nezvolili ho, přesto bude místostarostou. Výsměch voličům, zní z opozice",
+      "lead_raw": "Novým místostarostou Vyškova se má stát lídr kandidátky Volba pro město Radim Jankovič. Vyplynulo to z dohody o vedení města, kterou zástupci radnice v pondělí představili.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "7b89e4ba32024f9485290feda770df74be04ed0a",
+      "fingerprint": "8a12c2fba2ce9ad7d21fbfe3eb3fcb593518524c",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-madarsko-avizuje-ze-prestane-blokovat-dalsi-postup-ukrajiny-na-ceste-do-eu-40602384",
+      "published_utc": "2026-10-12T15:01:09Z",
+      "title_en": "Maďarsko přestane blokovat další postup Ukrajiny na cestě do EU",
+      "lead_en": "Ukrajinský parlament v pondělí schválil zákon, který posiluje práva menšin v Zakarpatsku. Maďarsko v reakci avizovalo, že přestane blokovat postup Ukrajiny ve vstupních jednání s Evropskou unií.",
+      "title_raw": "Maďarsko přestane blokovat další postup Ukrajiny na cestě do EU",
+      "lead_raw": "Ukrajinský parlament v pondělí schválil zákon, který posiluje práva menšin v Zakarpatsku. Maďarsko v reakci avizovalo, že přestane blokovat postup Ukrajiny ve vstupních jednání s Evropskou unií.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "c5afd0f3b6f79c00bbe9c0f4324bd267f92d514f",
+      "fingerprint": "4f5ac4ae9d3e9342b2ea20f1ccc1f8ff1c481b6e",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/volby/zacina-skladani-radnicnich-koalic-ve-zlinskem-kraji-nektere-projdou-vyraznou_2610121649_dci",
+      "published_utc": "2026-10-12T14:49:00Z",
+      "title_en": "Začíná skládání radničních koalic. Ve Zlínském kraji některé projdou výraznou obměnou",
+      "lead_en": "Skončily komunální volby a nastal čas povolebních vyjednávání. A to nejen v krajských městech.",
+      "title_raw": "Začíná skládání radničních koalic. Ve Zlínském kraji některé projdou výraznou obměnou",
+      "lead_raw": "Skončily komunální volby a nastal čas povolebních vyjednávání. A to nejen v krajských městech.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "58675b7bfdafe01d51187a4687677354e6fab31c",
+      "fingerprint": "ad492fecdfa0c2968a9993d17b84861002ba71c5",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/okamura-chce-zprisnit-tresty-za-prekroceni-hranice-netyka-se-houbaru-myslivcu_2610121355_mst",
+      "published_utc": "2026-10-12T11:55:00Z",
+      "title_en": "Okamura chce zpřísnit tresty za překročení hranice. ‚Netýká se to houbařů, myslivců ani občanů EU,‘ řekl",
+      "lead_en": "Nelegální překročení české hranice občanem ze zemí mimo EU by podle vládního hnutí SPD mělo být hodnoceno jako závažnější protiprávní jednání než doposud. Ministr spravedlnosti Jeroným Tejc (za ANO) má připravit návrh změny z přestupku na trestný čin, řekl po jednání koalice novinářům předseda SPD Tomio Okamura.",
+      "title_raw": "Okamura chce zpřísnit tresty za překročení hranice. ‚Netýká se to houbařů, myslivců ani občanů EU,‘ řekl",
+      "lead_raw": "Nelegální překročení české hranice občanem ze zemí mimo EU by podle vládního hnutí SPD mělo být hodnoceno jako závažnější protiprávní jednání než doposud. Ministr spravedlnosti Jeroným Tejc (za ANO) má připravit návrh změny z přestupku na trestný čin, řekl po jednání koalice novinářům předseda SPD Tomio Okamura.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "ff8b3d563507694e71d92e9a05f8cac4c8492d07",
+      "fingerprint": "bb327035caa99a886007076c0b166aa0d47b68b0",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/experti-trumpova-dohoda-s-putinem-prinasi-rusku-diplomaticky-zisk/2886735",
+      "published_utc": "2026-10-12T11:50:00Z",
+      "title_en": "Experti: Trumpova dohoda s Putinem přináší Rusku diplomatický zisk",
+      "lead_en": "Praha - Dohoda amerického prezidenta Donalda Trumpa s ruským prezidentem Vladimirem Putinem o dodávkách ruské ropy má pro Spojené státy minimální ekonomický přínos, Rusku ale přináší diplomatické výhody...",
+      "title_raw": "Experti: Trumpova dohoda s Putinem přináší Rusku diplomatický zisk",
+      "lead_raw": "Praha - Dohoda amerického prezidenta Donalda Trumpa s ruským prezidentem Vladimirem Putinem o dodávkách ruské ropy má pro Spojené státy minimální ekonomický přínos, Rusku ale přináší diplomatické výhody...",
+      "topic_scores": {
+        "diplomacy": 3,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "25c969c29ab0c116ac944aa3b9ce6d6417c4df69",
+      "fingerprint": "29e201a5525597c7fe853bcd9f4c8834a6f41e16",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/neuspesni-kandidati-spd-do-senatu-podpori-uchazece-ano/2886683",
+      "published_utc": "2026-10-12T10:22:00Z",
+      "title_en": "Neúspěšní kandidáti SPD do Senátu podpoří uchazeče ANO",
+      "lead_en": "Praha - Neúspěšní kandidáti SPD z víkendových voleb do Senátu podpoří před druhým kolem uchazeče koaličního ANO. Dohoda zahrnuje prosazení koruny do Ústavy ČR, řekl dnes novinářům po jednání koalice ve...",
+      "title_raw": "Neúspěšní kandidáti SPD do Senátu podpoří uchazeče ANO",
+      "lead_raw": "Praha - Neúspěšní kandidáti SPD z víkendových voleb do Senátu podpoří před druhým kolem uchazeče koaličního ANO. Dohoda zahrnuje prosazení koruny do Ústavy ČR, řekl dnes novinářům po jednání koalice ve...",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "dcac4a36a8bd4436ac6fabd9f08549959029509b",
+      "fingerprint": "be56098f55c21ed723d06892e7db5929fa560d3e",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/okamura-cr-by-mela-na-unijnim-summitu-prosazovat-jednani-s-ruskem/2886666",
+      "published_utc": "2026-10-12T10:02:00Z",
+      "title_en": "Okamura: ČR by měla na unijním summitu prosazovat jednání s Ruskem",
+      "lead_en": "Praha - Česko by mělo tento týden na unijním summitu prosazovat, že špičky Evropské unie by měly jednat s Ruskem o míru na Ukrajině. Při debatě o mandátu premiéra Andreje Babiše (ANO) na summit, který...",
+      "title_raw": "Okamura: ČR by měla na unijním summitu prosazovat jednání s Ruskem",
+      "lead_raw": "Praha - Česko by mělo tento týden na unijním summitu prosazovat, že špičky Evropské unie by měly jednat s Ruskem o míru na Ukrajině. Při debatě o mandátu premiéra Andreje Babiše (ANO) na summit, který...",
+      "topic_scores": {
+        "diplomacy": 3,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "5baf5553179fa0d86d14234edca6a07c0c636df5",
       "fingerprint": "4bea5658d782a9fa609d000b4da2fb86cb298e39",
@@ -1239,301 +1864,6 @@
       "lead_en": "Praha - Dohoda amerického prezidenta Donalda Trumpa s jeho ruským protějškem Vladimirem Putinem o dodávkách ruské nafty na americký a světový trh je podle premiéra Andreje Babiše (ANO) velkou fackou pro...",
       "title_raw": "Velká facka pro Evropu, řekl Babiš k dohodě Trumpa s Putinem o naftě",
       "lead_raw": "Praha - Dohoda amerického prezidenta Donalda Trumpa s jeho ruským protějškem Vladimirem Putinem o dodávkách ruské nafty na americký a světový trh je podle premiéra Andreje Babiše (ANO) velkou fackou pro...",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "b76bf4cb84ef74bffa4375302dad7a31f7d71ca7",
-      "fingerprint": "e0617b16a60ad2f18f905c7763c8496a768b6b9e",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/je-na-case-aby-ukrajina-mela-noveho-prezidenta-prohlasil-trump-378440",
-      "published_utc": "2026-10-10T17:09:17Z",
-      "title_en": "Je na čase, aby Ukrajina měla nového prezidenta, prohlásil Trump",
-      "lead_en": "Je na čase, aby Ukrajina měla nového prezidenta, prohlásil podle agentury Reuters americký prezident Donald Trump. Volodymyr Zelenskyj podle něj mohl válku na Ukrajině, kterou proti této zemi pátým rokem vede Rusko, „už mnohokrát ukončit dohodou“.",
-      "title_raw": "Je na čase, aby Ukrajina měla nového prezidenta, prohlásil Trump",
-      "lead_raw": "Je na čase, aby Ukrajina měla nového prezidenta, prohlásil podle agentury Reuters americký prezident Donald Trump. Volodymyr Zelenskyj podle něj mohl válku na Ukrajině, kterou proti této zemi pátým rokem vede Rusko, „už mnohokrát ukončit dohodou“.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "7bbd6bafbcd69d3ea8e39d8656c4b7a9178596b8",
-      "fingerprint": "2dcf779fdaceb8561262cbd36e6f4e37850fc39b",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-doprava-cina-souhlasila-ze-bude-do-unie-dovazet-mene-hybridu-317369",
-      "published_utc": "2026-10-10T17:00:00Z",
-      "title_en": "Čína souhlasila, že bude do Unie dovážet méně hybridů",
-      "lead_en": "Čína souhlasila se snížením vývozu hybridních automobilů do Evropy. Dohoda má přispět k řešení nerovnováhy na trhu.",
-      "title_raw": "Čína souhlasila, že bude do Unie dovážet méně hybridů",
-      "lead_raw": "Čína souhlasila se snížením vývozu hybridních automobilů do Evropy. Dohoda má přispět k řešení nerovnováhy na trhu.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "845dca6c2017f617f95c80405ddf97df19ae8e3f",
-      "fingerprint": "8ecefe8ae814105295e1e163c01687234f0087bb",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-spojence-ukrajiny-prekvapila-naftova-dohoda-paliva-nezlevni-rikaji-ekonomove-317354",
-      "published_utc": "2026-10-10T14:54:43Z",
-      "title_en": "Spojence Ukrajiny překvapila naftová dohoda. Paliva nezlevní, říkají ekonomové",
-      "lead_en": "Spojence Ukrajiny zaskočila zpráva o chystané dohodě, která by Rusku umožnila dodat statisíce tun nafty do Ameriky. „Efekt na cenu nafty v Evropě i ve většině světa bude prakticky nulový,“ říká ekonom.",
-      "title_raw": "Spojence Ukrajiny překvapila naftová dohoda. Paliva nezlevní, říkají ekonomové",
-      "lead_raw": "Spojence Ukrajiny zaskočila zpráva o chystané dohodě, která by Rusku umožnila dodat statisíce tun nafty do Ameriky. „Efekt na cenu nafty v Evropě i ve většině světa bude prakticky nulový,“ říká ekonom.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3baa6f41b30f6939ca006eed777d9fd01bb5e81f",
-      "fingerprint": "574f0f91ee90c275c5636cdf25ff33f369f7b897",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-macinka-rad-bych-veril-ze-rusko-po-dohode-s-usa-bude-chtit-jednat-o-miru-317345",
-      "published_utc": "2026-10-10T14:38:00Z",
-      "title_en": "Macinka: Rád bych věřil, že Rusko po dohodě s USA bude chtít jednat o míru",
-      "lead_en": "Ministr zahraničí Petr Macinka (Motoristé) by rád věřil, že pokud chce ruský prezident prodávat naftu, bude chtít také jednat o míru. Macinka to ČTK řekl v reakci na uzavření dohody USA a Ruska o obnovení dodávek ruské nafty.",
-      "title_raw": "Macinka: Rád bych věřil, že Rusko po dohodě s USA bude chtít jednat o míru",
-      "lead_raw": "Ministr zahraničí Petr Macinka (Motoristé) by rád věřil, že pokud chce ruský prezident prodávat naftu, bude chtít také jednat o míru. Macinka to ČTK řekl v reakci na uzavření dohody USA a Ruska o obnovení dodávek ruské nafty.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "7dd15efd0f97954baf3192ad253e99313f214cd1",
-      "fingerprint": "e3117f41fec3dc3403c2b3b0b5ee674875554acc",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-prestante-utocit-na-ruske-rafinerie-usa-hrozi-ukrajine-40601901",
-      "published_utc": "2026-10-10T13:47:20Z",
-      "title_en": "Přestaňte útočit na ruské rafinérie. USA hrozí Ukrajině",
-      "lead_en": "Americký prezident Donald Trump se rozhodl uzavřít s Ruskem dohodu o naftě poté, co jeho ukrajinský protějšek ignoroval půl tuctu žádostí USA o zastavení útoků na ruské ropné rafinerie. Nyní Američané dokonce hrozí Ukrajincům, že je odstřihnou od zpravodajských informací, pokud s útoky na ruskou ropnou infrastrukturu nepřestanou, uvedl s odvoláním na své zdroje server Axios.",
-      "title_raw": "Přestaňte útočit na ruské rafinérie. USA hrozí Ukrajině",
-      "lead_raw": "Americký prezident Donald Trump se rozhodl uzavřít s Ruskem dohodu o naftě poté, co jeho ukrajinský protějšek ignoroval půl tuctu žádostí USA o zastavení útoků na ruské ropné rafinerie. Nyní Američané dokonce hrozí Ukrajincům, že je odstřihnou od zpravodajských informací, pokud s útoky na ruskou ropnou infrastrukturu nepřestanou, uvedl s odvoláním na své zdroje server Axios.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "546f69f9bf8e9e5bac10090ee5110959ae76b837",
-      "fingerprint": "b16fb45594609d5223c8a62a0b862bf47d690600",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-rafinerie-uder-trump-putin-ropa.A261010_102632_zahranicni_dtt",
-      "published_utc": "2026-10-10T13:33:11Z",
-      "title_en": "Ukrajinci zapálili Rusku ropný terminál. Jen pár hodin po dohodě Trumpa s Putinem",
-      "lead_en": "Ukrajinské drony v noci zaútočily na ropný terminál Jih Ruska v Rostovské oblasti, kde vypukl rozsáhlý požár. Podle ruských úřadů útočila více než stovka dronů.",
-      "title_raw": "Ukrajinci zapálili Rusku ropný terminál. Jen pár hodin po dohodě Trumpa s Putinem",
-      "lead_raw": "Ukrajinské drony v noci zaútočily na ropný terminál Jih Ruska v Rostovské oblasti, kde vypukl rozsáhlý požár. Podle ruských úřadů útočila více než stovka dronů.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "568376c9fe56ab6d5d511f723619647e78916e7f",
-      "fingerprint": "a8d13cf9a2802979d1d49cc464b2e85a5d8c326a",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/trump-putin-dohoda-rusko-nafta-ukrajina.A261010_115829_zahranicni_fohl",
-      "published_utc": "2026-10-10T13:26:00Z",
-      "title_en": "Krok, který se může vymstít. Čeští politici odsoudili Trumpovu dohodu s Ruskem",
-      "lead_en": "Americký prezident Donald Trump šokoval transatlantické partnery, když oficiálně oznámil dohodu s vládcem Kremlu Vladimirem Putinem o okamžitém uvolnění ruské nafty pro americký a globální trh. Čeští politici ve svých komentářích pro redakci iDNES.cz dohodu odsoudili.",
-      "title_raw": "Krok, který se může vymstít. Čeští politici odsoudili Trumpovu dohodu s Ruskem",
-      "lead_raw": "Americký prezident Donald Trump šokoval transatlantické partnery, když oficiálně oznámil dohodu s vládcem Kremlu Vladimirem Putinem o okamžitém uvolnění ruské nafty pro americký a globální trh. Čeští politici ve svých komentářích pro redakci iDNES.cz dohodu odsoudili.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "0e46101936f90598f63a2b619a8880fd1d80d5fa",
-      "fingerprint": "4bd1452a1e3570c8378a80e043ed51e26cdc94e4",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-krvava-ropa-pro-usa-politici-reaguji-na-trumpovu-dohodu-s-putinem-40601856",
-      "published_utc": "2026-10-10T12:41:28Z",
-      "title_en": "Krvavá ropa pro USA. Politici reagují na Trumpovu dohodu s Putinem",
-      "lead_en": "Rozhodnutí amerického prezidenta Donalda Trumpa povolit na šest měsíců prodej ruské nafty na světových trzích vyvolalo vlnu kritiky. Ukrajinský prezident Volodymyr Zelenskyj ho označil za projev slabosti a společně s řadou kritiků varoval, že uvolnění sankcí pomůže Moskvě financovat pokračující válku proti Ukrajině.",
-      "title_raw": "Krvavá ropa pro USA. Politici reagují na Trumpovu dohodu s Putinem",
-      "lead_raw": "Rozhodnutí amerického prezidenta Donalda Trumpa povolit na šest měsíců prodej ruské nafty na světových trzích vyvolalo vlnu kritiky. Ukrajinský prezident Volodymyr Zelenskyj ho označil za projev slabosti a společně s řadou kritiků varoval, že uvolnění sankcí pomůže Moskvě financovat pokračující válku proti Ukrajině.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "ed1eecc6de7a39eb5779a96e7a9ac6f1f827a120",
-      "fingerprint": "6123ee800e2a0d37a16359b7d11c20cbee1b3655",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-zlevni-nafta-po-trumpove-dohode-s-putinem-experti-pochybuji-40601864",
-      "published_utc": "2026-10-10T12:35:33Z",
-      "title_en": "Zlevní nafta po Trumpově dohodě s Putinem? Experti pochybují",
-      "lead_en": "Slib ruského vůdce Vladimira Putina americkému prezidentu Donaldu Trumpovi, že Rusko dodá bezmála pět milionů tun nafty, nepředstavuje zásadní změnu pro globální trh s tímto palivem. Podle expertů jde „možná o pěti- či šestiprocentní nárůst dodávek“, který představuje spíše politický tah ze strany Trumpa než zásadní zvrat v situaci na trhu s energetickými surovinami.",
-      "title_raw": "Zlevní nafta po Trumpově dohodě s Putinem? Experti pochybují",
-      "lead_raw": "Slib ruského vůdce Vladimira Putina americkému prezidentu Donaldu Trumpovi, že Rusko dodá bezmála pět milionů tun nafty, nepředstavuje zásadní změnu pro globální trh s tímto palivem. Podle expertů jde „možná o pěti- či šestiprocentní nárůst dodávek“, který představuje spíše politický tah ze strany Trumpa než zásadní zvrat v situaci na trhu s energetickými surovinami.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "a561d65f29142d510faac8ffdd6687cd9aa47075",
-      "fingerprint": "9ba2aa1ac4e9ad101afb50517eb8538873bf9925",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-polsky-ministr-zpochybnil-ze-by-rusko-melo-nafty-nazbyt-317289",
-      "published_utc": "2026-10-10T12:10:00Z",
-      "title_en": "Polský ministr zpochybnil, že by Rusko mělo nafty nazbyt",
-      "lead_en": "Německo neplánuje zrušit protiruské sankce navzdory dohodě mezi Donaldem Trumpem a Vladimirem Putinem o dodávkách ruské nafty. Polsko zpochybnilo, zda má Moskva vůbec dostatek paliva na vývoz.",
-      "title_raw": "Polský ministr zpochybnil, že by Rusko mělo nafty nazbyt",
-      "lead_raw": "Německo neplánuje zrušit protiruské sankce navzdory dohodě mezi Donaldem Trumpem a Vladimirem Putinem o dodávkách ruské nafty. Polsko zpochybnilo, zda má Moskva vůbec dostatek paliva na vývoz.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "b809b7180bb959a4399b0c5f0491d319c2c4eea2",
-      "fingerprint": "9ac253cf5cd73b968dceadb67994e979277c2f22",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/berlin-nemecko-trump-putin-nafta-sankce-rusko-valka-ukrajina.A261010_133443_zahranicni_pluh",
-      "published_utc": "2026-10-10T11:56:00Z",
-      "title_en": "Trumpova dohoda s Putinem naše sankce proti Rusku neovlivní, vzkazují Němci",
-      "lead_en": "Německo v sobotu uvedlo, že ponechá v platnosti sankce proti Rusku kvůli válce na Ukrajině. Vyjádření Berlína přichází po pátečním oznámení amerického prezidenta Donalda Trumpa, že Rusko okamžitě dodá na americký a světový trh přes 300 tisíc tun nafty, na čemž se dohodl v telefonickém rozhovoru se svým ruským protějškem Vladimirem Putinem.",
-      "title_raw": "Trumpova dohoda s Putinem naše sankce proti Rusku neovlivní, vzkazují Němci",
-      "lead_raw": "Německo v sobotu uvedlo, že ponechá v platnosti sankce proti Rusku kvůli válce na Ukrajině. Vyjádření Berlína přichází po pátečním oznámení amerického prezidenta Donalda Trumpa, že Rusko okamžitě dodá na americký a světový trh přes 300 tisíc tun nafty, na čemž se dohodl v telefonickém rozhovoru se svým ruským protějškem Vladimirem Putinem.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "ec222f131d473baf8d21293f321f67e66e79029e",
-      "fingerprint": "f73e29dbb06a355448356809a1faaf95af459a4a",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/analytici-cenovy-dopad-obnoveni-dodavek-ruske-nafty-na-trh-bude-asi-jen-drobny/2885412",
-      "published_utc": "2026-10-10T11:55:00Z",
-      "title_en": "Analytici: Cenový dopad obnovení dodávek ruské nafty na trh bude asi jen drobný",
-      "lead_en": "Praha - Dohoda USA a Ruska o obnovení dodávek ruské nafty může přispět ke zmírnění napětí na světovém trhu s pohonnými hmotami, cenový dopad však bude pravděpodobně jen drobný. Shodli se na tom analytici,...",
-      "title_raw": "Analytici: Cenový dopad obnovení dodávek ruské nafty na trh bude asi jen drobný",
-      "lead_raw": "Praha - Dohoda USA a Ruska o obnovení dodávek ruské nafty může přispět ke zmírnění napětí na světovém trhu s pohonnými hmotami, cenový dopad však bude pravděpodobně jen drobný. Shodli se na tom analytici,...",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "e193d0d0af5a1d36f54f6a5817b396d062317b61",
-      "fingerprint": "55c520decf5650677a9fe450c856ee1e72a63bd2",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-peskov-telefonat-trumpa-s-putinem-byl-hlavne-o-ukrajine-40601854",
-      "published_utc": "2026-10-10T10:55:12Z",
-      "title_en": "Peskov: Telefonát Trumpa s Putinem byl hlavně o Ukrajině",
-      "lead_en": "Nedávný rozhovor prezidentů Donalda Trumpa a Vladimira Putina, který vedl k dohodě o dodávkách ruské nafty na americký a světový trh, se měl na žádost americké strany věnovat především urovnání situace na Ukrajině. Uvedl to mluvčí Kremlu Dmitrij Peskov.",
-      "title_raw": "Peskov: Telefonát Trumpa s Putinem byl hlavně o Ukrajině",
-      "lead_raw": "Nedávný rozhovor prezidentů Donalda Trumpa a Vladimira Putina, který vedl k dohodě o dodávkách ruské nafty na americký a světový trh, se měl na žádost americké strany věnovat především urovnání situace na Ukrajině. Uvedl to mluvčí Kremlu Dmitrij Peskov.",
       "topic_scores": {
         "diplomacy": 1,
         "military": 0,
