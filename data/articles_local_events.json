@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-12T02:53:10Z",
+  "updated_at_utc": "2026-10-12T09:53:25Z",
   "topic": "local_events",
-  "count": 11,
+  "count": 10,
   "articles": [
+    {
+      "id": "c44acb49841a781d2b2b953c51552477658814b4",
+      "fingerprint": "3df06b1e88eddc5a4353bc66aa11987b5e1df4a8",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-panama-po-patecnim-silnem-zemetreseni-zaznamenala-vice-nez-200-naslednych-otresu-317611",
+      "published_utc": "2026-10-12T05:39:46Z",
+      "title_en": "Panama po pátečním silném zemětřesení zaznamenala více než 200 následných otřesů",
+      "lead_en": "Více než 200 následných otřesů, nejméně 27 zraněných lidí a stovky poničených domů hlásí Panama po pátečním zemětřesení. Vláda vyhlásila nouzový stav a uvolní v přepočtu přes dvě miliardy korun.",
+      "title_raw": "Panama po pátečním silném zemětřesení zaznamenala více než 200 následných otřesů",
+      "lead_raw": "Více než 200 následných otřesů, nejméně 27 zraněných lidí a stovky poničených domů hlásí Panama po pátečním zemětřesení. Vláda vyhlásila nouzový stav a uvolní v přepočtu přes dvě miliardy korun.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "dc6da8243fc69b49e459a4a5afec45c8dc67498a",
       "fingerprint": "3e0b0a79c584127f2b84762482d4e5d614ddbb80",
@@ -198,50 +220,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "a000862bd3bc54520b2a4c4a1dc50c7ea664704c",
-      "fingerprint": "a8955e8ca54a2aa2c859394685195159728f7ee8",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusky-utok-na-zaporozi-si-vyzadal-nejmene-sedm-obeti-vcetne-tri-deti-378431",
-      "published_utc": "2026-10-10T07:47:29Z",
-      "title_en": "Ruský útok na Záporoží si vyžádal patnáct obětí, včetně tří dětí",
-      "lead_en": "Ruský útok na Záporoží si vyžádal patnáct obětí, včetně tří dětí, oznámil ministr vnitra Ivan Vyhivskyj. Prezident Volodymyr Zelenskyj předtím informoval o dvanácti zemřelých a patnácti zraněných.",
-      "title_raw": "Ruský útok na Záporoží si vyžádal patnáct obětí, včetně tří dětí",
-      "lead_raw": "Ruský útok na Záporoží si vyžádal patnáct obětí, včetně tří dětí, oznámil ministr vnitra Ivan Vyhivskyj. Prezident Volodymyr Zelenskyj předtím informoval o dvanácti zemřelých a patnácti zraněných.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "ce78b99bbb3d2a0b63920d6f20d7413439a0b037",
-      "fingerprint": "3e58bd64d27cc0f9f085818b0475789be456426e",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-velka-katastrofa-rekl-prezident-panamy-o-zemetreseni-o-obetech-nemluvil-317264",
-      "published_utc": "2026-10-10T06:21:52Z",
-      "title_en": "Velká katastrofa, řekl prezident Panamy o zemětřesení. O obětech nemluvil",
-      "lead_en": "Zemětřesení o síle 7,7 stupně zasáhlo Panamu v pátek. Prezident José Raúl Mulino neinformoval o žádných obětech či zraněných.",
-      "title_raw": "Velká katastrofa, řekl prezident Panamy o zemětřesení. O obětech nemluvil",
-      "lead_raw": "Zemětřesení o síle 7,7 stupně zasáhlo Panamu v pátek. Prezident José Raúl Mulino neinformoval o žádných obětech či zraněných.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
       },
       "topics": [
         "local_events"
