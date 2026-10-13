@@ -1,10 +1,121 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-13T08:36:25Z",
+  "updated_at_utc": "2026-10-13T16:32:10Z",
   "topic": "economy",
-  "count": 27,
+  "count": 29,
   "articles": [
+    {
+      "id": "aa3cb8dd2717bc8102a2ffc8bc148df6c118844a",
+      "fingerprint": "9a6760d5ef8ab64f6992f8db4a32f00cbadcaf3a",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-ocima-byznysu-ocima-byznysu-spatne-veci-se-proste-deji-zdrazovani-hypotek-je-tu-317149",
+      "published_utc": "2026-10-13T14:00:00Z",
+      "title_en": "Špatné věci se prostě dějí. Zdražování hypoték je tu",
+      "lead_en": "Nabídky hypoték se blíží šesti procentům a u některých bank je už překonaly. Domácnost s čistým příjmem 80 tisíc korun tak dosáhne na hypotéku o 1,2 milionu nižší než na začátku roku, píše analytik Gepard Finance David Eim.",
+      "title_raw": "Špatné věci se prostě dějí. Zdražování hypoték je tu",
+      "lead_raw": "Nabídky hypoték se blíží šesti procentům a u některých bank je už překonaly. Domácnost s čistým příjmem 80 tisíc korun tak dosáhne na hypotéku o 1,2 milionu nižší než na začátku roku, píše analytik Gepard Finance David Eim.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "a4f5deadfdb3fc8b9d146dfca3e36c7a6e9f347f",
+      "fingerprint": "3ded0d6949e4f83b02db2c08855f1a778b828845",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/mediahub/ceska-televize-decko-nove-porady-recyklace.A261013_140056_mediahub_jpl",
+      "published_utc": "2026-10-13T14:00:00Z",
+      "title_en": "Déčko chystá nové pořady o cirkulární ekonomice. Natočí je v Praze, Brně i Ostravě",
+      "lead_en": "Česká televize rozvíjí původní dětskou tvorbu a do její výroby zapojí tvůrce napříč svými studii. Nově schválené pořady pro stanici Déčko přiblíží dětem principy cirkulární ekonomiky prostřednictvím pohádkových příběhů, animace, soutěže i písniček.",
+      "title_raw": "Déčko chystá nové pořady o cirkulární ekonomice. Natočí je v Praze, Brně i Ostravě",
+      "lead_raw": "Česká televize rozvíjí původní dětskou tvorbu a do její výroby zapojí tvůrce napříč svými studii. Nově schválené pořady pro stanici Déčko přiblíží dětem principy cirkulární ekonomiky prostřednictvím pohádkových příběhů, animace, soutěže i písniček.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "7c1cde285e83d83aa60304a7acecf4f0102fc686",
+      "fingerprint": "9eb5844038f264f3dde586e23e5b8e56ea7035f5",
+      "source": "iROZHLAS - Economy",
+      "url": "https://www.irozhlas.cz/ekonomika/zarijova-inflace-byla-vyssi-nez-se-ocekavalo-duvodem-bylo-hlavne-zdrazeni_2610131406_adn",
+      "published_utc": "2026-10-13T12:06:00Z",
+      "title_en": "Zářijová inflace byla vyšší, než se očekávalo. Důvodem bylo hlavně zdražení pohonných hmot",
+      "lead_en": "Zářijová meziroční inflace 2,5 procenta byla o 0,3 procentního bodu vyšší, než očekávala ve své prognóze Česká národní banka. Důvodem bylo zejména výraznější zdražení pohonných hmot, uvedl v úterý v komentáři k vývoji spotřebitelských cen zástupce ředitele sekce měnové ČNB Jakub Matějů.",
+      "title_raw": "Zářijová inflace byla vyšší, než se očekávalo. Důvodem bylo hlavně zdražení pohonných hmot",
+      "lead_raw": "Zářijová meziroční inflace 2,5 procenta byla o 0,3 procentního bodu vyšší, než očekávala ve své prognóze Česká národní banka. Důvodem bylo zejména výraznější zdražení pohonných hmot, uvedl v úterý v komentáři k vývoji spotřebitelských cen zástupce ředitele sekce měnové ČNB Jakub Matějů.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 4,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "6ca69a6aab8ab7dc97b28b74e4c64ab4659b6d70",
+      "fingerprint": "fa8db9f9e238230f132a6a44d2309299f5a43730",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-cnb-dostala-spatne-zpravy-inflace-muze-jeste-rust-a-hrozi-i-vyssi-sazby-317749",
+      "published_utc": "2026-10-13T11:37:57Z",
+      "title_en": "ČNB dostala špatné zprávy. Inflace může ještě růst a hrozí i vyšší sazby",
+      "lead_en": "Inflace v Česku v září zrychlila na 2,5 procenta. Podle ČNB ji táhly hlavně dražší pohonné hmoty.",
+      "title_raw": "ČNB dostala špatné zprávy. Inflace může ještě růst a hrozí i vyšší sazby",
+      "lead_raw": "Inflace v Česku v září zrychlila na 2,5 procenta. Podle ČNB ji táhly hlavně dražší pohonné hmoty.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "0e8db20fe6f5e7acf5260ef85cdb09ff96c7ab94",
+      "fingerprint": "63c3ed9d29e6864ac1f20e667087fb58ba33530a",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/kultura/generace-z-utraci-za-umeni-vice-nez-jakakoliv-jina-378535",
+      "published_utc": "2026-10-13T10:29:11Z",
+      "title_en": "Generace Z utrácí za umění více než jakákoliv jiná",
+      "lead_en": "Bohatí příslušníci generace Z utratili loni a v první polovině letošního roku průměrně za výtvarná díla více než jakákoli jiná generace. Ukázal to průzkum veletrhu umění Art Basel a švýcarské banky UBS.",
+      "title_raw": "Generace Z utrácí za umění více než jakákoliv jiná",
+      "lead_raw": "Bohatí příslušníci generace Z utratili loni a v první polovině letošního roku průměrně za výtvarná díla více než jakákoli jiná generace. Ukázal to průzkum veletrhu umění Art Basel a švýcarské banky UBS.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "5cd7394f3af1964eace2a377b111e4f214cea7e0",
       "fingerprint": "60fd7b9aac7989dd22a4de94853e36cb632fd2bc",
@@ -60,6 +171,28 @@
       "lead_en": "Praha - Spotřebitelské ceny v Česku v září stouply meziročně o 2,5 procenta, inflace se tak zvýšila ze srpnových 1,9 procenta. Svůj předběžný údaj z minulého týdne potvrdil Český statistický úřad (ČSÚ)....",
       "title_raw": "Inflace v ČR v září zrychlila na 2,5 %, podle analytiků ČNB zvýší sazby",
       "lead_raw": "Praha - Spotřebitelské ceny v Česku v září stouply meziročně o 2,5 procenta, inflace se tak zvýšila ze srpnových 1,9 procenta. Svůj předběžný údaj z minulého týdne potvrdil Český statistický úřad (ČSÚ)....",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "a248e016d3a3467cdb99a7212ae2a3f0111cb693",
+      "fingerprint": "40126d0753bace9702b6aa8448f1d1853349462f",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/inflace-v-cr-v-zari-zrychlila-na-25-podle-analytiku-cnb-asi-zvysi-sazby/2883404",
+      "published_utc": "2026-10-13T07:08:00Z",
+      "title_en": "Inflace v ČR v září zrychlila na 2,5 %, podle analytiků ČNB asi zvýší sazby",
+      "lead_en": "Praha - Spotřebitelské ceny v Česku v září zrychlily meziroční růst na 2,5 procenta ze srpnových 1,9 procenta. V meziměsíčním srovnání ceny stagnovaly, uvedl Český statistický úřad (ČSÚ).",
+      "title_raw": "Inflace v ČR v září zrychlila na 2,5 %, podle analytiků ČNB asi zvýší sazby",
+      "lead_raw": "Praha - Spotřebitelské ceny v Česku v září zrychlily meziroční růst na 2,5 procenta ze srpnových 1,9 procenta. V meziměsíčním srovnání ceny stagnovaly, uvedl Český statistický úřad (ČSÚ).",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -520,97 +653,6 @@
         "local_events": 1
       },
       "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "1472af77a8f273df589976594277806057df022f",
-      "fingerprint": "bf9a5416c48cb2425ddc92f3ab5e38009bda0bf5",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/ministr-prumyslu-havlicek-by-se-mel-v-indii-setkat-s-tamnim-premierem-modim/2886387",
-      "published_utc": "2026-10-11T16:27:00Z",
-      "title_en": "Ministr průmyslu Havlíček by se měl v Indii setkat s tamním premiérem Módím",
-      "lead_en": "Praha - Ministr průmyslu a obchodu Karel Havlíček (ANO) by se měl v Indii setkat s tamním premiérem Nárendrou Módím. Havlíček to řekl novinářům před odletem podnikatelské delegace.",
-      "title_raw": "Ministr průmyslu Havlíček by se měl v Indii setkat s tamním premiérem Módím",
-      "lead_raw": "Praha - Ministr průmyslu a obchodu Karel Havlíček (ANO) by se měl v Indii setkat s tamním premiérem Nárendrou Módím. Havlíček to řekl novinářům před odletem podnikatelské delegace.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "48135fac4a73ee87d989a4887dd4e6b102f6b377",
-      "fingerprint": "85e5a3f9dfb73d46bb5b1bb828ec90b0c0da3694",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/maslo-trend-francie-luxus.A261007_121055_eko-zahranicni_elsy",
-      "published_utc": "2026-10-11T16:00:00Z",
-      "title_en": "Luxus, nebo nepřítel? Proč se máslo opět stalo hitem sociálních sítí",
-      "lead_en": "Z francouzského másla se stal nový hit internetu. Pařížské obchody prodávají luxusní varianty za stovky korun a sjíždějí se za nimi lidé z celého světa.",
-      "title_raw": "Luxus, nebo nepřítel? Proč se máslo opět stalo hitem sociálních sítí",
-      "lead_raw": "Z francouzského másla se stal nový hit internetu. Pařížské obchody prodávají luxusní varianty za stovky korun a sjíždějí se za nimi lidé z celého světa.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "366f9f99fbe066d434a1f16486914833f8c9f112",
-      "fingerprint": "af537b5142d3119f233a3f0f5e90083c53621af9",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-investice-za-150-milionu-ostravske-centrum-tkani-se-chysta-na-regulace-317223",
-      "published_utc": "2026-10-11T12:49:17Z",
-      "title_en": "Investice za 150 milionů. Ostravské centrum tkání se chystá na regulace",
-      "lead_en": "Transplantáty z Ostravy pomohly popáleným ve Švýcarsku i ženě postřelené při útoku ve škole. Tkáňová banka teď chystá investici, která posílí její význam v Evropě.",
-      "title_raw": "Investice za 150 milionů. Ostravské centrum tkání se chystá na regulace",
-      "lead_raw": "Transplantáty z Ostravy pomohly popáleným ve Švýcarsku i ženě postřelené při útoku ve škole. Tkáňová banka teď chystá investici, která posílí její význam v Evropě.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "91a7bb5ef5c8970c87d736ef63ad8f9d76eb0ab2",
-      "fingerprint": "b0b725605e2d2ce3a3577118f9248df7ecbb4c0d",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/trumpova-dohoda-o-ruske-nafte-podle-havlicka-ceny-nesnizi-378464",
-      "published_utc": "2026-10-11T12:38:29Z",
-      "title_en": "Trumpova dohoda o ruské naftě podle Havlíčka ceny nesníží",
-      "lead_en": "Dohoda amerického prezidenta Donalda Trumpa s ruským diktátorem Vladimirem Putinem o dodávkách ruské nafty na americký a světový trh nebude mít podle ministra průmyslu Karla Havlíčka (ANO) vliv na ceny. Havlíček se v pořadu Partie na CNN Prima News shodl s předsedou ODS Martinem Kupkou a místopředsedou STAN Lukášem Vlčkem na tom, že do budoucna je nutné pracovat na soběstačnosti Evropy tak, aby nebyla závislá na jednom zdroji fosilních paliv.",
-      "title_raw": "Trumpova dohoda o ruské naftě podle Havlíčka ceny nesníží",
-      "lead_raw": "Dohoda amerického prezidenta Donalda Trumpa s ruským diktátorem Vladimirem Putinem o dodávkách ruské nafty na americký a světový trh nebude mít podle ministra průmyslu Karla Havlíčka (ANO) vliv na ceny. Havlíček se v pořadu Partie na CNN Prima News shodl s předsedou ODS Martinem Kupkou a místopředsedou STAN Lukášem Vlčkem na tom, že do budoucna je nutné pracovat na soběstačnosti Evropy tak, aby nebyla závislá na jednom zdroji fosilních paliv.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
         "economy"
       ],
       "primary_topic": "economy"
