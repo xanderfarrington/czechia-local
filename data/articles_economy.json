@@ -1,10 +1,79 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-13T16:32:10Z",
+  "updated_at_utc": "2026-10-13T21:36:51Z",
   "topic": "economy",
   "count": 29,
   "articles": [
+    {
+      "id": "efd10be952a5a36545d75af5592f126130641e37",
+      "fingerprint": "d7f4c28b98072d716cdbbf4e55e65c43bb543b14",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/snemovna-podporila-mimoradne-zdaneni-narustu-marzi-rafinerii.A261013_050128_domaci_kop",
+      "published_utc": "2026-10-13T18:50:00Z",
+      "title_en": "Poslanci dali šanci nové dani pro rafinerie. Nezvýší ceny, ujišťuje Schillerová",
+      "lead_en": "Poslanci podpořili v prvním čtení mimořádnou daň pro rafinerie pro letošní a příští rok. Vláda ji zdůvodňuje růstem marží rafinerií kvůli situaci na světovém trhu s ropou.",
+      "title_raw": "Poslanci dali šanci nové dani pro rafinerie. Nezvýší ceny, ujišťuje Schillerová",
+      "lead_raw": "Poslanci podpořili v prvním čtení mimořádnou daň pro rafinerie pro letošní a příští rok. Vláda ji zdůvodňuje růstem marží rafinerií kvůli situaci na světovém trhu s ropou.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "66c4e8437ebdc24f067f2bc1322795f7196ed1b4",
+      "fingerprint": "a2dd94e1dfbe0fa7205b8742d9bc73ba85b6e9ec",
+      "source": "iROZHLAS - Economy",
+      "url": "https://www.irozhlas.cz/ekonomika/snemovna-podporila-mimoradnou-dan-na-rafinerie-v-cesku-dopadne-na-ty-v-kralupech_2610132016_med",
+      "published_utc": "2026-10-13T18:16:00Z",
+      "title_en": "Sněmovna podpořila mimořádnou daň na rafinerie. V Česku dopadne na ty v Kralupech a Litvínově",
+      "lead_en": "Sněmovna v úvodním kole podpořila vládní návrh na zavedení mimořádné daně na rafinerie. Důvodem jejího zavedení je podle vlády nárůst marží rafinerií v důsledku situace na světovém trhu s ropou.",
+      "title_raw": "Sněmovna podpořila mimořádnou daň na rafinerie. V Česku dopadne na ty v Kralupech a Litvínově",
+      "lead_raw": "Sněmovna v úvodním kole podpořila vládní návrh na zavedení mimořádné daně na rafinerie. Důvodem jejího zavedení je podle vlády nárůst marží rafinerií v důsledku situace na světovém trhu s ropou.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "1f9eee0bb3faf87a34f6bd9c947ca26c55d0948a",
+      "fingerprint": "c0d1c076b0b3306518d5b831cc59d6bdf42e11fa",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/obchodnich-retezcu-v-cesku-se-francouzsky-kyberutok-nedotkl-krizove-plany-vsak-maji-378566",
+      "published_utc": "2026-10-13T18:15:44Z",
+      "title_en": "Obchodních řetězců v Česku se francouzský kyberútok nedotkl, krizové plány však mají",
+      "lead_en": "Kybernetický útok na francouzské supermarkety řeší tamní vláda, obchodů v tuzemsku se incident netýkal. Velké řetězce nicméně situaci sledují.",
+      "title_raw": "Obchodních řetězců v Česku se francouzský kyberútok nedotkl, krizové plány však mají",
+      "lead_raw": "Kybernetický útok na francouzské supermarkety řeší tamní vláda, obchodů v tuzemsku se incident netýkal. Velké řetězce nicméně situaci sledují.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "aa3cb8dd2717bc8102a2ffc8bc148df6c118844a",
       "fingerprint": "9a6760d5ef8ab64f6992f8db4a32f00cbadcaf3a",
@@ -584,75 +653,6 @@
       },
       "topics": [
         "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "1ff7827fa876f43a085346d10f5b86382ac94440",
-      "fingerprint": "eaa658b79c6d32aa24f79f36a35ebd419d93378d",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-unie-chce-urychlit-vyvoj-inovacni-bojove-technologie-jde-o-prilezitost-i-pro-ceske-firmy-40601585",
-      "published_utc": "2026-10-11T20:21:47Z",
-      "title_en": "Unie chce urychlit vývoj inovační bojové technologie. Jde o příležitost i pro české firmy",
-      "lead_en": "V grantovém programu Agile, který má posílit soběstačnost obranného průmyslu Evropy, je pro příští rok 115 milionů eur, tedy necelé tři miliardy korun. Peníze by měly připadnout především malým a středním podnikům, včetně startupů, které moderní bojové technologie vyvíjejí.",
-      "title_raw": "Unie chce urychlit vývoj inovační bojové technologie. Jde o příležitost i pro české firmy",
-      "lead_raw": "V grantovém programu Agile, který má posílit soběstačnost obranného průmyslu Evropy, je pro příští rok 115 milionů eur, tedy necelé tři miliardy korun. Peníze by měly připadnout především malým a středním podnikům, včetně startupů, které moderní bojové technologie vyvíjejí.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "c019e3d8e54d0c661f3c7e3ffab4de4aacaa19a8",
-      "fingerprint": "b38cfc8211be53b34c7c52d7b6adf07c13d5a3af",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-sedeli-tam-jak-hlupaci-ukrajinska-delegace-v-miami-prozila-naprosty-sok-40602176",
-      "published_utc": "2026-10-11T17:13:01Z",
-      "title_en": "Seděli tam jak hlupáci. Ukrajinská delegace v Miami prožila naprostý šok",
-      "lead_en": "Ukrajinská delegace přijela v pátek do Miami jednat o možném energetickém příměří s Ruskem. Místo toho se od amerických vyslanců dozvěděla, že Donald Trump po rozhovoru s ruským prezidentem Vladimirem Putinem chystá zrušení sankcí na ruský vývoz nafty.",
-      "title_raw": "Seděli tam jak hlupáci. Ukrajinská delegace v Miami prožila naprostý šok",
-      "lead_raw": "Ukrajinská delegace přijela v pátek do Miami jednat o možném energetickém příměří s Ruskem. Místo toho se od amerických vyslanců dozvěděla, že Donald Trump po rozhovoru s ruským prezidentem Vladimirem Putinem chystá zrušení sankcí na ruský vývoz nafty.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "7fa9805e1bcfdc6261e00732e7bac443cb796f20",
-      "fingerprint": "d37f604642b60e743b9598fad4f9681a8754d307",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/ministr-prumyslu-karel-havlicek-navsteva-indie-premier-modi.A261011_182948_domaci_lupr",
-      "published_utc": "2026-10-11T16:45:00Z",
-      "title_en": "Havlíček se v Indii zřejmě setká s Módím. Chce podpořit české firmy",
-      "lead_en": "Ministr průmyslu a obchodu Karel Havlíček (ANO) by se měl v Indii setkat s tamním premiérem Nárendrou Módím. Havlíček chce podle svých slov v Indii podpořit působení českých firem na tamním trhu a posílit spolupráci mezi oběma zeměmi.",
-      "title_raw": "Havlíček se v Indii zřejmě setká s Módím. Chce podpořit české firmy",
-      "lead_raw": "Ministr průmyslu a obchodu Karel Havlíček (ANO) by se měl v Indii setkat s tamním premiérem Nárendrou Módím. Havlíček chce podle svých slov v Indii podpořit působení českých firem na tamním trhu a posílit spolupráci mezi oběma zeměmi.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 1
-      },
-      "topics": [
         "economy"
       ],
       "primary_topic": "economy"
