@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-12T19:27:36Z",
+  "updated_at_utc": "2026-10-13T01:41:20Z",
   "topic": "military",
   "count": 63,
   "articles": [
+    {
+      "id": "688c424606efbf2f721381a54dbffcb376c3b3b5",
+      "fingerprint": "02e791fbf17b9b8b20aa69c8a110c3bc598bf8b6",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/studenti-francie-protesty-demonstrace-policie-nasilnosti-rok-1968.A261012_191921_zahranicni_krou",
+      "published_utc": "2026-10-12T22:00:00Z",
+      "title_en": "Rebelie, která připomíná květen 1968. Anatomie násilných protestů ve Francii",
+      "lead_en": "Začalo to poklidným a docela nenápadným protestem. Žáci lycea Saint-Exupéryho v Créteil, jihovýchodním předměstí Paříže, představili 21.",
+      "title_raw": "Rebelie, která připomíná květen 1968. Anatomie násilných protestů ve Francii",
+      "lead_raw": "Začalo to poklidným a docela nenápadným protestem. Žáci lycea Saint-Exupéryho v Créteil, jihovýchodním předměstí Paříže, představili 21.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "e13fb5edc5495c6d139732ce956738172fc89e97",
       "fingerprint": "f7656e9f73070f8a6a5afbd80df1ac71cf9287e6",
@@ -1385,29 +1407,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "b9919ad8389a2541579602289eaa87ead28193f0",
-      "fingerprint": "ecf24db45551c49ee785a7f4aed7e9bbe698eaf8",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-utok-na-letiste-v-rijadu-si-vyzadal-nejmene-12-mrtvych-40602089",
-      "published_utc": "2026-10-10T22:31:10Z",
-      "title_en": "Útok na letiště v Rijádu si vyžádal nejméně 12 mrtvých",
-      "lead_en": "Při sobotním útoku na mezinárodní letiště v saúdskoarabské metropoli Rijádu zemřelo nejméně 12 lidí a dalších 309 osob utrpělo zranění, podle agentur to uvedl v noci na neděli saúdský úřad pro civilní letectví. Někteří zranění jsou podle úřadů v kritickém stavu.",
-      "title_raw": "Útok na letiště v Rijádu si vyžádal nejméně 12 mrtvých",
-      "lead_raw": "Při sobotním útoku na mezinárodní letiště v saúdskoarabské metropoli Rijádu zemřelo nejméně 12 lidí a dalších 309 osob utrpělo zranění, podle agentur to uvedl v noci na neděli saúdský úřad pro civilní letectví. Někteří zranění jsou podle úřadů v kritickém stavu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
