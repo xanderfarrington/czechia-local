@@ -1,10 +1,33 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-14T10:43:49Z",
+  "updated_at_utc": "2026-10-14T15:35:25Z",
   "topic": "energy",
-  "count": 81,
+  "count": 76,
   "articles": [
+    {
+      "id": "56ba1f8da960101783b934f345d94720372db4c8",
+      "fingerprint": "b753b0b652862a82c443637157750863dc3f53ec",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-saudove-utraceji-za-zbrane-desitky-miliard-dolaru-na-husie-presto-nestaci-40602814",
+      "published_utc": "2026-10-14T13:41:38Z",
+      "title_en": "Saúdové utrácejí za zbraně desítky miliard dolarů, na Húsíe přesto nestačí",
+      "lead_en": "Saúdská Arábie každoročně vynakládá na obranu desítky miliard dolarů. Přesto má potíže s ochranou klíčových objektů, jako jsou letiště, rafinerie a ropovody, před raketami a drony, které na ně vypouštějí proíránští Húsíové z Jemenu.",
+      "title_raw": "Saúdové utrácejí za zbraně desítky miliard dolarů, na Húsíe přesto nestačí",
+      "lead_raw": "Saúdská Arábie každoročně vynakládá na obranu desítky miliard dolarů. Přesto má potíže s ochranou klíčových objektů, jako jsou letiště, rafinerie a ropovody, před raketami a drony, které na ně vypouštějí proíránští Húsíové z Jemenu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "9bea3a82a7d8eee735feb2217fb7145797850153",
       "fingerprint": "b1ee18594ad46745c7491fe60875cc24f4adf20f",
@@ -1669,141 +1692,6 @@
         "military": 0,
         "energy": 1,
         "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "6bb243ccdee3681c037bd69fd48226c0bf923983",
-      "fingerprint": "338fcfe5d70ecab301c3ca2be308ca66237d2bb7",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/ceske-firmy-navazaly-v-dilli-spolupraci-v-energetice-ci-doprave/2886387",
-      "published_utc": "2026-10-12T15:27:00Z",
-      "title_en": "České firmy navázaly v Dillí spolupráci v energetice či dopravě",
-      "lead_en": "Dillí/Praha - České firmy navázaly v Dillí se svými indickými partnery spolupráci v energetice, průmyslu nebo dopravě. ČTK to dnes sdělilo ministerstvo průmyslu a obchodu (MPO).",
-      "title_raw": "České firmy navázaly v Dillí spolupráci v energetice či dopravě",
-      "lead_raw": "Dillí/Praha - České firmy navázaly v Dillí se svými indickými partnery spolupráci v energetice, průmyslu nebo dopravě. ČTK to dnes sdělilo ministerstvo průmyslu a obchodu (MPO).",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "ea824cfd794727be1d1850e4ae97d65995ea5da0",
-      "fingerprint": "18f3e385bc7a3509675326173ddd76ae5fc0282e",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/brno/zpravy/komunalni-volby-vyskov-mistostarosta-jankovic-uvolnene-misto-kachlik.A261012_164640_brno-zpravy_ichuc",
-      "published_utc": "2026-10-12T15:11:00Z",
-      "title_en": "Nezvolili ho, přesto bude místostarostou. Výsměch voličům, zní z opozice",
-      "lead_en": "Novým místostarostou Vyškova se má stát lídr kandidátky Volba pro město Radim Jankovič. Vyplynulo to z dohody o vedení města, kterou zástupci radnice v pondělí představili.",
-      "title_raw": "Nezvolili ho, přesto bude místostarostou. Výsměch voličům, zní z opozice",
-      "lead_raw": "Novým místostarostou Vyškova se má stát lídr kandidátky Volba pro město Radim Jankovič. Vyplynulo to z dohody o vedení města, kterou zástupci radnice v pondělí představili.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "beff9bd695b7b7e8a2791a20d4874c36fe14c466",
-      "fingerprint": "99b5f17ec08638967de3c193b4808ca78efa6fba",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-cim-jeste-muze-trump-oslabit-ukrajinu-a-pomoci-rusku-ma-tri-moznosti-317652",
-      "published_utc": "2026-10-12T15:00:00Z",
-      "title_en": "Čím ještě může Trump oslabit Ukrajinu a pomoci Rusku? Má tři možnosti",
-      "lead_en": "Loni souhlasil, že USA budou Ukrajině dodávat zbraně, když za ně zaplatí Evropané. Teď ale prezident naznačuje, že i to by se mohlo změnit.",
-      "title_raw": "Čím ještě může Trump oslabit Ukrajinu a pomoci Rusku? Má tři možnosti",
-      "lead_raw": "Loni souhlasil, že USA budou Ukrajině dodávat zbraně, když za ně zaplatí Evropané. Teď ale prezident naznačuje, že i to by se mohlo změnit.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "4c49578e0dcf103af59432196664c97c9a34e64f",
-      "fingerprint": "56dfc7912f342c5dadff427ab6c264e02cd1a939",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/volby/ceske-budejovice/volby-2026-tabor-starosta-stepan-pavlik-nase-cesko-koalice.A261012_160054_budejovice-volby_khr",
-      "published_utc": "2026-10-12T14:52:00Z",
-      "title_en": "Starosta Tábora u voleb propadl, i tak jeho hnutí zkouší vyjednat koalici",
-      "lead_en": "V Táboře se rýsuje koalice Naše Česko, ANO, Společně pro Tábor a jedné kandidátky SOCDEM zvolené za Šance pro Tábor. Lídři podepsali v neděli memorandum o budoucí spolupráci a jednají o programu.",
-      "title_raw": "Starosta Tábora u voleb propadl, i tak jeho hnutí zkouší vyjednat koalici",
-      "lead_raw": "V Táboře se rýsuje koalice Naše Česko, ANO, Společně pro Tábor a jedné kandidátky SOCDEM zvolené za Šance pro Tábor. Lídři podepsali v neděli memorandum o budoucí spolupráci a jednají o programu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "500a8060482f5d180f3ba7967e55b1f01d8da17e",
-      "fingerprint": "d81fba2dc53a65419f20675ac63e4fb4f7efde5b",
-      "source": "Radio Prague International (EN)",
-      "url": "https://english.radio.cz/what-czechias-local-election-results-mean-andrej-babiss-government-8899788",
-      "published_utc": "2026-10-12T11:42:00Z",
-      "title_en": "What Czechia’s local election results mean for Andrej Babiš’s government",
-      "lead_en": "Czechia’s local elections were the first nationwide vote since Prime Minister Andrej Babiš returned to power in 2025. In a special episode of Czechast, political scientist Vladimíra Dvořáková explains why the results should be interpreted cautiously, but still contain warning signs for the governing coalition.",
-      "title_raw": "What Czechia’s local election results mean for Andrej Babiš’s government",
-      "lead_raw": "Czechia’s local elections were the first nationwide vote since Prime Minister Andrej Babiš returned to power in 2025. In a special episode of Czechast, political scientist Vladimíra Dvořáková explains why the results should be interpreted cautiously, but still contain warning signs for the governing coalition.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "2731b17abe40b52da61b58b5dfd5b9543f5e986f",
-      "fingerprint": "0279adcb213b28b67d354719e977dbfce61ebbe1",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/nedostal-se-do-senatu-v-decine-ani-do-zastupitelstva-v-litvinove-vlastne-jsem-na_2610121341_jgr",
-      "published_utc": "2026-10-12T11:41:00Z",
-      "title_en": "Nedostal se do Senátu v Děčíně ani do zastupitelstva v Litvínově. ‚Vlastně jsem na obou místech uspěl,‘ tvrdí",
-      "lead_en": "Už má za sebou velkou řádku kandidatur za všemožná uskupení, letos ale zkusil ještě něco úplně jiného. V barvách strany PRO Jindřicha Rajchla se propagátor velkých vodních staveb Jan Skalický vydal jak na zteč městského zastupitelstva v Litvínově, tak i Senátu, avšak na Děčínsku, tedy v úplně jiné části Ústeckého kraje.",
-      "title_raw": "Nedostal se do Senátu v Děčíně ani do zastupitelstva v Litvínově. ‚Vlastně jsem na obou místech uspěl,‘ tvrdí",
-      "lead_raw": "Už má za sebou velkou řádku kandidatur za všemožná uskupení, letos ale zkusil ještě něco úplně jiného. V barvách strany PRO Jindřicha Rajchla se propagátor velkých vodních staveb Jan Skalický vydal jak na zteč městského zastupitelstva v Litvínově, tak i Senátu, avšak na Děčínsku, tedy v úplně jiné části Ústeckého kraje.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
         "local_events": 0
       },
       "topics": [
