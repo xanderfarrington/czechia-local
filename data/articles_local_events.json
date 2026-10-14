@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-14T05:34:06Z",
+  "updated_at_utc": "2026-10-14T10:43:49Z",
   "topic": "local_events",
   "count": 12,
   "articles": [
+    {
+      "id": "b6867fb8674e6f58b4b7041df8f7fa71762f62da",
+      "fingerprint": "c405837fe62e72164aa0023bbba0b99da055c78b",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/omezeni-starlinku-narusilo-ukrajine-obranu-kyjev-hlasi-mrtve-378579",
+      "published_utc": "2026-10-14T06:59:08Z",
+      "title_en": "Omezení Starlinku narušilo Ukrajině obranu. Kyjev hlásí mrtvé",
+      "lead_en": "Nejméně tři lidé zemřeli během útoků ruské armády na Kyjev. Úder zasáhl obytný panelový dům.",
+      "title_raw": "Omezení Starlinku narušilo Ukrajině obranu. Kyjev hlásí mrtvé",
+      "lead_raw": "Nejméně tři lidé zemřeli během útoků ruské armády na Kyjev. Úder zasáhl obytný panelový dům.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "08754f2937c9b939333f66b5ca3ad4aca2d69901",
       "fingerprint": "ad0edfa2859e97bfee2643b2fa2c720bb4590983",
@@ -242,28 +264,6 @@
         "military": 0,
         "energy": 0,
         "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "c44acb49841a781d2b2b953c51552477658814b4",
-      "fingerprint": "3df06b1e88eddc5a4353bc66aa11987b5e1df4a8",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-panama-po-patecnim-silnem-zemetreseni-zaznamenala-vice-nez-200-naslednych-otresu-317611",
-      "published_utc": "2026-10-12T05:39:46Z",
-      "title_en": "Panama po pátečním silném zemětřesení zaznamenala více než 200 následných otřesů",
-      "lead_en": "Více než 200 následných otřesů, nejméně 27 zraněných lidí a stovky poničených domů hlásí Panama po pátečním zemětřesení. Vláda vyhlásila nouzový stav a uvolní v přepočtu přes dvě miliardy korun.",
-      "title_raw": "Panama po pátečním silném zemětřesení zaznamenala více než 200 následných otřesů",
-      "lead_raw": "Více než 200 následných otřesů, nejméně 27 zraněných lidí a stovky poničených domů hlásí Panama po pátečním zemětřesení. Vláda vyhlásila nouzový stav a uvolní v přepočtu přes dvě miliardy korun.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
         "local_events": 2
       },
       "topics": [
