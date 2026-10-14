@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-14T19:47:25Z",
+  "updated_at_utc": "2026-10-14T22:45:34Z",
   "topic": "diplomacy",
-  "count": 87,
+  "count": 85,
   "articles": [
+    {
+      "id": "5baeb8fb480e16af844fe95dd02915cabac8bd14",
+      "fingerprint": "8eab215e820449b855bfacb1e9f6f31233749518",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/petikoalice-v-pardubicich-ladi-program-subjekty-deklaruji-ochotu-ke-kompromisu-/2886580",
+      "published_utc": "2026-10-14T20:04:00Z",
+      "title_en": "Pětikoalice v Pardubicích ladí program, subjekty deklarují ochotu ke kompromisu",
+      "lead_en": "Pardubice - Pět politických subjektů, které formují koalici v Pardubicích, pracuje na koaliční a programové smlouvě, dokončena by mohla být příští týden. Strany se shodují na základním směřování, u sporných...",
+      "title_raw": "Pětikoalice v Pardubicích ladí program, subjekty deklarují ochotu ke kompromisu",
+      "lead_raw": "Pardubice - Pět politických subjektů, které formují koalici v Pardubicích, pracuje na koaliční a programové smlouvě, dokončena by mohla být příští týden. Strany se shodují na základním směřování, u sporných...",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "78dbf5ad66abd9ce80b606da8dd1cce39117844d",
       "fingerprint": "4ad53450375db667d20858779bc9feb10f91a9cd",
@@ -1860,73 +1882,6 @@
       "topics": [
         "diplomacy",
         "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "a76b82d78356a99ca3a2d819737f54f6ca5e4287",
-      "fingerprint": "53ba3be45d10a454fcb69f3ff3cab3c674cec45d",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/neni-vhodna-doba-uzavirat-obchodni-dohody-s-agresorem-rika-cichanouska-378512",
-      "published_utc": "2026-10-12T20:15:45Z",
-      "title_en": "Není vhodná doba uzavírat obchodní dohody s agresorem, říká Cichanouská",
-      "lead_en": "Vůdkyně běloruské opozice Svjatlana Cichanouská kritizuje rozhodnutí prezidenta USA Donalda Trumpa nakoupit ruskou ropu. Podle Cichanouské Rusko i Bělorusko zneužívají ochoty Západu uvolňovat sankce výměnou třeba za propuštění politických vězňů.",
-      "title_raw": "Není vhodná doba uzavírat obchodní dohody s agresorem, říká Cichanouská",
-      "lead_raw": "Vůdkyně běloruské opozice Svjatlana Cichanouská kritizuje rozhodnutí prezidenta USA Donalda Trumpa nakoupit ruskou ropu. Podle Cichanouské Rusko i Bělorusko zneužívají ochoty Západu uvolňovat sankce výměnou třeba za propuštění politických vězňů.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "53f91374bfe1e754b2900da0485dbada65d0d958",
-      "fingerprint": "3702871fc88b80964b957da21410e6725fbd0cc0",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/volby-ano-v-pardubicich-po-12-letech-konci-povladne-nova-koalice-peti-stran-40602419",
-      "published_utc": "2026-10-12T20:14:20Z",
-      "title_en": "ANO v Pardubicích po 12 letech končí. Povládne nová koalice pěti stran",
-      "lead_en": "V Pardubicích přijde po 12 letech změna. Po třech volebních obdobích vlády hnutí ANO se na spolupráci dohodlo uskupení ODS, Progresivních Pardubic, Nových lidovců, Našich Pardubic a STAN.",
-      "title_raw": "ANO v Pardubicích po 12 letech končí. Povládne nová koalice pěti stran",
-      "lead_raw": "V Pardubicích přijde po 12 letech změna. Po třech volebních obdobích vlády hnutí ANO se na spolupráci dohodlo uskupení ODS, Progresivních Pardubic, Nových lidovců, Našich Pardubic a STAN.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "91f1316558e2164b8d8216f0bbff1011ebd87b89",
-      "fingerprint": "114c88f4bd1e7652a27c6e0d548bc44179dceff6",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-marius-pedersen-prodava-sve-ceske-a-slovenske-aktivity-francouzum-40602426",
-      "published_utc": "2026-10-12T19:56:40Z",
-      "title_en": "Francouzská firma kupuje od Dánů Marius Pedersen aktivity v Česku a na Slovensku",
-      "lead_en": "Veškeré aktivity společnosti Marius Pedersen v nakládání s odpady v České republice a na Slovensku kupuje od dánské skupiny Marius Pedersen A/S francouzská společnost Paprec. Firmy v pondělí oznámily podepsání dohody v tiskové zprávě, cenu obchodu nezveřejnily.",
-      "title_raw": "Francouzská firma kupuje od Dánů Marius Pedersen aktivity v Česku a na Slovensku",
-      "lead_raw": "Veškeré aktivity společnosti Marius Pedersen v nakládání s odpady v České republice a na Slovensku kupuje od dánské skupiny Marius Pedersen A/S francouzská společnost Paprec. Firmy v pondělí oznámily podepsání dohody v tiskové zprávě, cenu obchodu nezveřejnily.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
       ],
       "primary_topic": "diplomacy"
     }
