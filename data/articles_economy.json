@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-14T15:35:25Z",
+  "updated_at_utc": "2026-10-14T19:47:25Z",
   "topic": "economy",
   "count": 33,
   "articles": [
+    {
+      "id": "c65e24df2922cf0fea7e25f0ee27b21b1b145c10",
+      "fingerprint": "0ce5154146c7cec8fb6e992e2af7fb743386124b",
+      "source": "iROZHLAS - Economy",
+      "url": "https://www.irozhlas.cz/ekonomika/ekonom-vit-hradil-inflace-zacina-byt-skutecnou-hrozbou-cnb-zvysi-sazby-mozna-uz_2610141954_cen",
+      "published_utc": "2026-10-14T17:54:00Z",
+      "title_en": "Ekonom Vít Hradil: Inflace začíná být skutečnou hrozbou. ČNB zvýší sazby možná už v listopadu",
+      "lead_en": "Česká národní banka by mohla už v listopadu zvýšit úrokové sazby. Podle ekonoma Víta Hradila totiž inflace, která v září zrychlila na 2,5 procenta především kvůli drahým pohonným hmotám, začíná představovat vážnější hrozbu.",
+      "title_raw": "Ekonom Vít Hradil: Inflace začíná být skutečnou hrozbou. ČNB zvýší sazby možná už v listopadu",
+      "lead_raw": "Česká národní banka by mohla už v listopadu zvýšit úrokové sazby. Podle ekonoma Víta Hradila totiž inflace, která v září zrychlila na 2,5 procenta především kvůli drahým pohonným hmotám, začíná představovat vážnější hrozbu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 6,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "9f118aa6aa163d613a3eb7ed2bd8b631b37e876d",
       "fingerprint": "64992d33c805129a2a25a574ad9ed6084fac0b96",
@@ -716,28 +738,6 @@
       },
       "topics": [
         "diplomacy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "1bf9d798e607a973a74e7f0605eb07cd86527468",
-      "fingerprint": "254d2f49f4e810a851a4331c4ed31a2d49f30aa6",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-francie-zadrzela-tanker-ma-podezreni-ze-je-soucasti-stinove-flotily-317706",
-      "published_utc": "2026-10-12T19:22:24Z",
-      "title_en": "Francie zadržela tanker. Má podezření, že je součástí stínové flotily",
-      "lead_en": "Zhruba 800 kilometrů od ostrova Réunion v Indickém oceánu zadrželo francouzské námořnictvo tanker. Odhaduje, že je součástí stínové flotily, jejímž prostřednictvím Rusko obchází západní sankce na vývoz ropy",
-      "title_raw": "Francie zadržela tanker. Má podezření, že je součástí stínové flotily",
-      "lead_raw": "Zhruba 800 kilometrů od ostrova Réunion v Indickém oceánu zadrželo francouzské námořnictvo tanker. Odhaduje, že je součástí stínové flotily, jejímž prostřednictvím Rusko obchází západní sankce na vývoz ropy",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
         "economy"
       ],
       "primary_topic": "economy"
