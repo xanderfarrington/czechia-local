@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-15T20:36:36Z",
+  "updated_at_utc": "2026-10-15T23:21:44Z",
   "topic": "military",
   "count": 79,
   "articles": [
+    {
+      "id": "ba6b61890c214305dc00e9c75bc0bf933eef0cd1",
+      "fingerprint": "60f9b6a22116ee4e91d242d31ebe81bdd9bcf573",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-ruske-urady-zavedou-nove-povinne-sifrovani-pro-chytre-telefony-40603083",
+      "published_utc": "2026-10-15T21:42:00Z",
+      "title_en": "Ruské úřady zavedou nové povinné šifrování pro chytré telefony",
+      "lead_en": "Chytré telefony podporující sítě 5G dodávané do Ruska budou nově muset mít povinně nainstalovaný šifrovací software vyvinutý ruskou bezpečnostní službou FSB. Nařízení bude platit od března 2032, jak ve čtvrtek informovala ruská média.",
+      "title_raw": "Ruské úřady zavedou nové povinné šifrování pro chytré telefony",
+      "lead_raw": "Chytré telefony podporující sítě 5G dodávané do Ruska budou nově muset mít povinně nainstalovaný šifrovací software vyvinutý ruskou bezpečnostní službou FSB. Nařízení bude platit od března 2032, jak ve čtvrtek informovala ruská média.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "53c3fb76565142090f49817c351521b15f01c414",
       "fingerprint": "a667427389c560cc8288abda91fb873578f2435d",
@@ -1733,29 +1755,6 @@
       },
       "topics": [
         "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ab8fc49542b1a7c1dea999cfb66b37fbbfa907d3",
-      "fingerprint": "44fc69db7ab465230ef823510f3beded2b3f4c6c",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-rusove-zasahli-elektrarnu-hlasi-zelenskyj-opet-bez-varovani-od-usa-40602667",
-      "published_utc": "2026-10-13T21:33:53Z",
-      "title_en": "Rusové zasáhli elektrárnu, hlásí Zelenskyj. Opět bez varování od USA",
-      "lead_en": "Ruský útok balistickými střelami na Kyjev v úterý večer zasáhl elektrárnu, uvedl ukrajinský prezident Volodymyr Zelenskyj. Potvrdil, že protivzdušná obrana před útokem nedostala varování od spojenců.",
-      "title_raw": "Rusové zasáhli elektrárnu, hlásí Zelenskyj. Opět bez varování od USA",
-      "lead_raw": "Ruský útok balistickými střelami na Kyjev v úterý večer zasáhl elektrárnu, uvedl ukrajinský prezident Volodymyr Zelenskyj. Potvrdil, že protivzdušná obrana před útokem nedostala varování od spojenců.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
       ],
       "primary_topic": "military"
     }
