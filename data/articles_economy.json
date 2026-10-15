@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-15T17:25:37Z",
+  "updated_at_utc": "2026-10-15T20:36:36Z",
   "topic": "economy",
-  "count": 27,
+  "count": 25,
   "articles": [
+    {
+      "id": "67adc24b79eba5307540e8fa8caa3b90b6cd4530",
+      "fingerprint": "2ed09c82908c9fad6966dddf4bef5f9e70fa53a2",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-sest-procent-navic-pro-zdravotniky-zadaji-odbory-vojtech-odmita-dalsi-dluhy-40603106",
+      "published_utc": "2026-10-15T17:45:50Z",
+      "title_en": "Šest procent navíc pro zdravotníky, žádají odbory. Vojtěch odmítá další dluhy",
+      "lead_en": "Platy a mzdy v nemocnicích a záchranných službách mají příští rok vzrůst nejméně o šest procent, požadují zdravotnické odbory. Podle jejich propočtů by to stálo 12 miliard korun.",
+      "title_raw": "Šest procent navíc pro zdravotníky, žádají odbory. Vojtěch odmítá další dluhy",
+      "lead_raw": "Platy a mzdy v nemocnicích a záchranných službách mají příští rok vzrůst nejméně o šest procent, požadují zdravotnické odbory. Podle jejich propočtů by to stálo 12 miliard korun.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 1
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "4adb5baf287f97d8181ff7870dde2be9e09b806f",
       "fingerprint": "c4731f7be9867a0f1aa8bb04c4a75adbbf6af473",
@@ -532,75 +554,6 @@
       "topics": [
         "diplomacy",
         "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "efd10be952a5a36545d75af5592f126130641e37",
-      "fingerprint": "d7f4c28b98072d716cdbbf4e55e65c43bb543b14",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/snemovna-podporila-mimoradne-zdaneni-narustu-marzi-rafinerii.A261013_050128_domaci_kop",
-      "published_utc": "2026-10-13T18:50:00Z",
-      "title_en": "Poslanci dali šanci nové dani pro rafinerie. Nezvýší ceny, ujišťuje Schillerová",
-      "lead_en": "Poslanci podpořili v prvním čtení mimořádnou daň pro rafinerie pro letošní a příští rok. Vláda ji zdůvodňuje růstem marží rafinerií kvůli situaci na světovém trhu s ropou.",
-      "title_raw": "Poslanci dali šanci nové dani pro rafinerie. Nezvýší ceny, ujišťuje Schillerová",
-      "lead_raw": "Poslanci podpořili v prvním čtení mimořádnou daň pro rafinerie pro letošní a příští rok. Vláda ji zdůvodňuje růstem marží rafinerií kvůli situaci na světovém trhu s ropou.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "66c4e8437ebdc24f067f2bc1322795f7196ed1b4",
-      "fingerprint": "a2dd94e1dfbe0fa7205b8742d9bc73ba85b6e9ec",
-      "source": "iROZHLAS - Economy",
-      "url": "https://www.irozhlas.cz/ekonomika/snemovna-podporila-mimoradnou-dan-na-rafinerie-v-cesku-dopadne-na-ty-v-kralupech_2610132016_med",
-      "published_utc": "2026-10-13T18:16:00Z",
-      "title_en": "Sněmovna podpořila mimořádnou daň na rafinerie. V Česku dopadne na ty v Kralupech a Litvínově",
-      "lead_en": "Sněmovna v úvodním kole podpořila vládní návrh na zavedení mimořádné daně na rafinerie. Důvodem jejího zavedení je podle vlády nárůst marží rafinerií v důsledku situace na světovém trhu s ropou.",
-      "title_raw": "Sněmovna podpořila mimořádnou daň na rafinerie. V Česku dopadne na ty v Kralupech a Litvínově",
-      "lead_raw": "Sněmovna v úvodním kole podpořila vládní návrh na zavedení mimořádné daně na rafinerie. Důvodem jejího zavedení je podle vlády nárůst marží rafinerií v důsledku situace na světovém trhu s ropou.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "1f9eee0bb3faf87a34f6bd9c947ca26c55d0948a",
-      "fingerprint": "c0d1c076b0b3306518d5b831cc59d6bdf42e11fa",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/obchodnich-retezcu-v-cesku-se-francouzsky-kyberutok-nedotkl-krizove-plany-vsak-maji-378566",
-      "published_utc": "2026-10-13T18:15:44Z",
-      "title_en": "Obchodních řetězců v Česku se francouzský kyberútok nedotkl, krizové plány však mají",
-      "lead_en": "Kybernetický útok na francouzské supermarkety řeší tamní vláda, obchodů v tuzemsku se incident netýkal. Velké řetězce nicméně situaci sledují.",
-      "title_raw": "Obchodních řetězců v Česku se francouzský kyberútok nedotkl, krizové plány však mají",
-      "lead_raw": "Kybernetický útok na francouzské supermarkety řeší tamní vláda, obchodů v tuzemsku se incident netýkal. Velké řetězce nicméně situaci sledují.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
         "economy"
       ],
       "primary_topic": "economy"
