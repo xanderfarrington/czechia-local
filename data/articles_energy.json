@@ -1,10 +1,145 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-16T11:58:15Z",
+  "updated_at_utc": "2026-10-16T15:58:52Z",
   "topic": "energy",
-  "count": 65,
+  "count": 70,
   "articles": [
+    {
+      "id": "0bb4e21e077043d949bc95f9ced227db1076e1e1",
+      "fingerprint": "37dfc3bafd4b6c52c3fd76c01e731cd18f0fa754",
+      "source": "iROZHLAS - Economy",
+      "url": "https://www.irozhlas.cz/ekonomika/cez-podal-v-lucembursku-zaloby-kvuli-blokaci-tamnich-firem-mluvi-o-sikanoznich_2610161736_zko",
+      "published_utc": "2026-10-16T15:36:00Z",
+      "title_en": "ČEZ podal v Lucembursku žaloby kvůli blokaci tamních firem. Mluví o ‚šikanózních‘ opatřeních",
+      "lead_en": "ČEZ již podal u příslušných lucemburských soudů žaloby proti blokaci tamních firem, přes které společnost vlastní majoritní podíl v distribuční plynárenské firmě GasNet. Českému rozhlasu to potvrdil mluvčí ČEZ Ladislav Kříž.",
+      "title_raw": "ČEZ podal v Lucembursku žaloby kvůli blokaci tamních firem. Mluví o ‚šikanózních‘ opatřeních",
+      "lead_raw": "ČEZ již podal u příslušných lucemburských soudů žaloby proti blokaci tamních firem, přes které společnost vlastní majoritní podíl v distribuční plynárenské firmě GasNet. Českému rozhlasu to potvrdil mluvčí ČEZ Ladislav Kříž.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "560226e345fe2e46c2996939319bac413492c89b",
+      "fingerprint": "7ef2b6554a804c7a5385371e5839f85e15171071",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-ukrajinci-zasahli-zavod-na-zpracovani-plynu-v-ruskem-surgutu-2400-kilometru-od-svych-hranic-40603317",
+      "published_utc": "2026-10-16T15:33:44Z",
+      "title_en": "Ukrajinci zasáhli závod na zpracování plynu v ruském Surgutu, 2400 kilometrů od svých hranic",
+      "lead_en": "Ukrajinská armáda zaútočila na závod na zpracování plynu v Surgutu v Chanty-mansijském autonomním okruhu na Sibiři. Podle agentury Unian, která se odvolává na analytiky z komunity OSINT, se toto zařízení nachází 2400 kilometrů od ukrajinských hranic, což z této operace činí jeden z nejhlubších zásahů na ruském území od začátku války na Ukrajině.",
+      "title_raw": "Ukrajinci zasáhli závod na zpracování plynu v ruském Surgutu, 2400 kilometrů od svých hranic",
+      "lead_raw": "Ukrajinská armáda zaútočila na závod na zpracování plynu v Surgutu v Chanty-mansijském autonomním okruhu na Sibiři. Podle agentury Unian, která se odvolává na analytiky z komunity OSINT, se toto zařízení nachází 2400 kilometrů od ukrajinských hranic, což z této operace činí jeden z nejhlubších zásahů na ruském území od začátku války na Ukrajině.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "06d32148908fe9c46a13b1e714b5c24f4eff9ac7",
+      "fingerprint": "9bf55cca9b6c4b02cd1ea16deb3c39cb1af8be5a",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/prazska-burza-posilila-poseste-v-rade-zdrazily-akcie-kb-monety-ci-cez/2888883",
+      "published_utc": "2026-10-16T15:31:00Z",
+      "title_en": "Pražská burza posílila pošesté v řadě, zdražily akcie KB, Monety či ČEZ",
+      "lead_en": "Praha - Pražská burza v závěru týdne opět posílila, index PX stoupl pošesté v řadě. Dnes se zvýšil o 0,26 procenta na 2657,34 bodu.",
+      "title_raw": "Pražská burza posílila pošesté v řadě, zdražily akcie KB, Monety či ČEZ",
+      "lead_raw": "Praha - Pražská burza v závěru týdne opět posílila, index PX stoupl pošesté v řadě. Dnes se zvýšil o 0,26 procenta na 2657,34 bodu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "842961920146c7716f938953169de7a57c0d60fa",
+      "fingerprint": "f18df6e1fa8dc66d54106dcdaebb6281bf5ac51b",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/jaderna-elektrarna-temelin-v-patek-vecer-planovane-odpoji-prvni-blok-od_2610161431_aha",
+      "published_utc": "2026-10-16T15:18:00Z",
+      "title_en": "Jaderná elektrárna Temelín v pátek večer plánovaně odpojí první blok od přenosové soustavy",
+      "lead_en": "Jaderná elektrárna Temelín v pátek večer odpojí první blok od přenosové soustavy. Začne tak plánovaná dvouměsíční odstávka, během níž technici vymění část paliva a zkontrolují bezpečnostní systémy a turbínu.",
+      "title_raw": "Jaderná elektrárna Temelín v pátek večer plánovaně odpojí první blok od přenosové soustavy",
+      "lead_raw": "Jaderná elektrárna Temelín v pátek večer odpojí první blok od přenosové soustavy. Začne tak plánovaná dvouměsíční odstávka, během níž technici vymění část paliva a zkontrolují bezpečnostní systémy a turbínu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 4,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "482eefd4b9ea7d1923d9257ceeced9af2fa45583",
+      "fingerprint": "c97f5e1b5db88d6891d4e9e8a18d9102d57eafeb",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-cesky-statni-dluh-vzrostl-je-na-rekordnich-39-bilionech-korun-318075",
+      "published_utc": "2026-10-16T14:52:17Z",
+      "title_en": "Český státní dluh vzrostl, je na rekordních 3,9 bilionech korun",
+      "lead_en": "Za uplynulé čtvrtletí se zvětšil český státní dluh. Ministerstvo financí uvedlo, že za tím je prodej státních dluhopisů.",
+      "title_raw": "Český státní dluh vzrostl, je na rekordních 3,9 bilionech korun",
+      "lead_raw": "Za uplynulé čtvrtletí se zvětšil český státní dluh. Ministerstvo financí uvedlo, že za tím je prodej státních dluhopisů.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "9065389ea25440acedd598cd64f768497b0ce066",
+      "fingerprint": "01b3c9984a42d78bc5b71491ce0ed139985eba9b",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/nejen-borsc-ukrajina-gastronomii-predstavuje-svetu-sve-kulturni-dedictvi-378711",
+      "published_utc": "2026-10-16T14:33:13Z",
+      "title_en": "Nejen boršč. Ukrajina gastronomií představuje světu své kulturní dědictví",
+      "lead_en": "Ukrajina v době pokračující plnohodnotné ruské invaze hledá nové způsoby, jak oslovit svět. Vedle tradiční diplomacie se stále více prosazuje ta kulturní, jejímž významným nástrojem se stává gastronomie.",
+      "title_raw": "Nejen boršč. Ukrajina gastronomií představuje světu své kulturní dědictví",
+      "lead_raw": "Ukrajina v době pokračující plnohodnotné ruské invaze hledá nové způsoby, jak oslovit svět. Vedle tradiční diplomacie se stále více prosazuje ta kulturní, jejímž významným nástrojem se stává gastronomie.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "26c79cf92e0aee9a881e431601c211d28d371a10",
       "fingerprint": "4ce1f1842c4471acc908a34b1c875d56886e6692",
@@ -1438,29 +1573,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "56ba1f8da960101783b934f345d94720372db4c8",
-      "fingerprint": "b753b0b652862a82c443637157750863dc3f53ec",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-saudove-utraceji-za-zbrane-desitky-miliard-dolaru-na-husie-presto-nestaci-40602814",
-      "published_utc": "2026-10-14T13:41:38Z",
-      "title_en": "Saúdové utrácejí za zbraně desítky miliard dolarů, na Húsíe přesto nestačí",
-      "lead_en": "Saúdská Arábie každoročně vynakládá na obranu desítky miliard dolarů. Přesto má potíže s ochranou klíčových objektů, jako jsou letiště, rafinerie a ropovody, před raketami a drony, které na ně vypouštějí proíránští Húsíové z Jemenu.",
-      "title_raw": "Saúdové utrácejí za zbraně desítky miliard dolarů, na Húsíe přesto nestačí",
-      "lead_raw": "Saúdská Arábie každoročně vynakládá na obranu desítky miliard dolarů. Přesto má potíže s ochranou klíčových objektů, jako jsou letiště, rafinerie a ropovody, před raketami a drony, které na ně vypouštějí proíránští Húsíové z Jemenu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }

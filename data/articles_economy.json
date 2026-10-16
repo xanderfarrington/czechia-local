@@ -1,10 +1,54 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-16T11:58:15Z",
+  "updated_at_utc": "2026-10-16T15:58:52Z",
   "topic": "economy",
-  "count": 28,
+  "count": 27,
   "articles": [
+    {
+      "id": "938e1b8b234f0ad0bf2a069249ad84f31ef69c49",
+      "fingerprint": "9898ae856916b34fae449e1ef5cf5f965613fbe6",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/petr-macinka-ministr-zahranici-new-york-valne-shromazdeni-osn-letadlo.A261016_153237_domaci_ikro",
+      "published_utc": "2026-10-16T14:04:00Z",
+      "title_en": "Macinkova letenka na shromáždění OSN stála téměř 200 tisíc, sám vyzývá k šetření",
+      "lead_en": "Ministr zahraničí Petr Macinka (Motoristé) zaplatil za zpáteční letenku do New Yorku na Valné shromáždění OSN téměř 200 tisíc korun. Cestoval obchodní třídou jako jediný z ministerstva.",
+      "title_raw": "Macinkova letenka na shromáždění OSN stála téměř 200 tisíc, sám vyzývá k šetření",
+      "lead_raw": "Ministr zahraničí Petr Macinka (Motoristé) zaplatil za zpáteční letenku do New Yorku na Valné shromáždění OSN téměř 200 tisíc korun. Cestoval obchodní třídou jako jediný z ministerstva.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "9b134717aca219a41eef0928b3c09fd76a7220b3",
+      "fingerprint": "d9152894171526dead4d25d8c68366733e9f9547",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-mam-te-pobodat-vyhrozoval-zlodej-ostraze-v-prazskem-supermarketu-pak-se-dal-na-utek-40603285",
+      "published_utc": "2026-10-16T13:43:24Z",
+      "title_en": "„Mám tě pobodat?“ vyhrožoval zloděj ostraze v pražském supermarketu, pak se dal na útěk",
+      "lead_en": "Drobná krádež v pražském supermarketu na Praze 6 eskalovala až do výhružek smrtí. Pracovník ostrahy se snažil pachatele v obchodě udržet do příjezdu policie, tomu se to ale nelíbilo a vytáhl nůž.",
+      "title_raw": "„Mám tě pobodat?“ vyhrožoval zloděj ostraze v pražském supermarketu, pak se dal na útěk",
+      "lead_raw": "Drobná krádež v pražském supermarketu na Praze 6 eskalovala až do výhružek smrtí. Pracovník ostrahy se snažil pachatele v obchodě udržet do příjezdu policie, tomu se to ale nelíbilo a vytáhl nůž.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "1504f8a75fc1a5f55f51a17647a9af773fe5fbfe",
       "fingerprint": "478fe683e59882e0a676fe8038307226b5ae43d3",
@@ -549,72 +593,6 @@
         "military": 0,
         "energy": 0,
         "economy": 6,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "9f118aa6aa163d613a3eb7ed2bd8b631b37e876d",
-      "fingerprint": "64992d33c805129a2a25a574ad9ed6084fac0b96",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-mezinarodni-menovy-fond-zhorsil-vyhled-ceske-ekonomiky-40602717",
-      "published_utc": "2026-10-14T14:32:43Z",
-      "title_en": "Mezinárodní měnový fond zhoršil výhled české ekonomiky",
-      "lead_en": "Česká ekonomika poroste v příštím roce podle Mezinárodního měnového fondu jen o 1,9 procenta. Tedy o půl procentního bodu pomaleji, než s čím počítá rozpočet sestavený vládou Andreje Babiše (ANO).",
-      "title_raw": "Mezinárodní měnový fond zhoršil výhled české ekonomiky",
-      "lead_raw": "Česká ekonomika poroste v příštím roce podle Mezinárodního měnového fondu jen o 1,9 procenta. Tedy o půl procentního bodu pomaleji, než s čím počítá rozpočet sestavený vládou Andreje Babiše (ANO).",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "348b7512685249eef2362528d0b1137772e5a2c6",
-      "fingerprint": "bcc0e83c69c541fe70a6fd369467f553b3b7e062",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-cnb-vymerila-spolecnosti-ec-financial-services-osmimilionovou-pokutu-317878",
-      "published_utc": "2026-10-14T13:11:12Z",
-      "title_en": "ČNB vyměřila společnosti EC Financial Services osmimilionovou pokutu",
-      "lead_en": "Česká národní banka uložila společnosti EC Financial Services pokutu osm milionů korun. Firma v letech 2022 a 2023 dostatečně neprověřovala schopnost klientů splácet spotřebitelské úvěry a ignorovala registry dlužníků.",
-      "title_raw": "ČNB vyměřila společnosti EC Financial Services osmimilionovou pokutu",
-      "lead_raw": "Česká národní banka uložila společnosti EC Financial Services pokutu osm milionů korun. Firma v letech 2022 a 2023 dostatečně neprověřovala schopnost klientů splácet spotřebitelské úvěry a ignorovala registry dlužníků.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 4,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "a084a5d990839bd292505808a2d379fc435b0d16",
-      "fingerprint": "8235f22a7a40a9a979cadd999b5c541646ee6b82",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-nemecko-zdani-litr-slazene-limonady-o-temer-osm-korun-317840",
-      "published_utc": "2026-10-14T13:00:00Z",
-      "title_en": "Německá válka proti cukru. Litr sladké limonády zdraží o osm korun",
-      "lead_en": "Německo chce zavést daň na sladké nápoje a spolková vláda po měsících sporů už schválila finální návrh zákona. Opatřením chce nejen bojovat s obezitou, ale taky snížit svůj rozpočtový schodek.",
-      "title_raw": "Německá válka proti cukru. Litr sladké limonády zdraží o osm korun",
-      "lead_raw": "Německo chce zavést daň na sladké nápoje a spolková vláda po měsících sporů už schválila finální návrh zákona. Opatřením chce nejen bojovat s obezitou, ale taky snížit svůj rozpočtový schodek.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
         "local_events": 0
       },
       "topics": [
