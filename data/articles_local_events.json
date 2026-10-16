@@ -1,10 +1,33 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-16T06:30:06Z",
+  "updated_at_utc": "2026-10-16T11:58:15Z",
   "topic": "local_events",
   "count": 17,
   "articles": [
+    {
+      "id": "20a0093249db0669fd16ef8a85ec5090db75bcd4",
+      "fingerprint": "88fb50aebc8c991ec7b2d88e250ecc05d77f9b35",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-na-zahradce-restaurace-v-centru-prahy-explodoval-plynovy-ohrivac-40603214",
+      "published_utc": "2026-10-16T10:44:06Z",
+      "title_en": "Na zahrádce restaurace v centru Prahy explodoval plynový ohřívač",
+      "lead_en": "V pátek kolem poledne vyjížděly všechny složky integrovaného záchranného systému k výbuchu plynových kamen na restaurační zahrádce v pražské Vodičkově ulici. Zranily se tři osoby, které si do péče převzali zdravotníci.",
+      "title_raw": "Na zahrádce restaurace v centru Prahy explodoval plynový ohřívač",
+      "lead_raw": "V pátek kolem poledne vyjížděly všechny složky integrovaného záchranného systému k výbuchu plynových kamen na restaurační zahrádce v pražské Vodičkově ulici. Zranily se tři osoby, které si do péče převzali zdravotníci.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "16a949ac078f0260df312ff336b8b0ee319a6e2a",
       "fingerprint": "8c8d858beb157d5ba949aa85ca2fe93402f45d67",
@@ -347,28 +370,6 @@
       "lead_en": "Policie po více než měsíci odvolala pátrání po třiašedesátileté pacientce Psychiatrické nemocnice v Kroměříži. Žena zemřela.",
       "title_raw": "Pohřešovanou pacientku psychiatrie našli po měsíci mrtvou ve vodní nádrži",
       "lead_raw": "Policie po více než měsíci odvolala pátrání po třiašedesátileté pacientce Psychiatrické nemocnice v Kroměříži. Žena zemřela.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "b6867fb8674e6f58b4b7041df8f7fa71762f62da",
-      "fingerprint": "c405837fe62e72164aa0023bbba0b99da055c78b",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/omezeni-starlinku-narusilo-ukrajine-obranu-kyjev-hlasi-mrtve-378579",
-      "published_utc": "2026-10-14T06:59:08Z",
-      "title_en": "Omezení Starlinku narušilo Ukrajině obranu. Kyjev hlásí mrtvé",
-      "lead_en": "Nejméně tři lidé zemřeli během útoků ruské armády na Kyjev. Úder zasáhl obytný panelový dům.",
-      "title_raw": "Omezení Starlinku narušilo Ukrajině obranu. Kyjev hlásí mrtvé",
-      "lead_raw": "Nejméně tři lidé zemřeli během útoků ruské armády na Kyjev. Úder zasáhl obytný panelový dům.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
