@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-17T18:55:08Z",
+  "updated_at_utc": "2026-10-17T21:05:58Z",
   "topic": "energy",
   "count": 50,
   "articles": [
+    {
+      "id": "34caf0cafb402b1cbc8308681cce3d30eb712d42",
+      "fingerprint": "d21990e37307a6656ae0ff6f8b2912bad409f9e5",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/byvaly-sef-armady-propagator-hanactiny-i-dedicka-klavirniho-imperia-poznejte-sve_2610172211_kvr",
+      "published_utc": "2026-10-17T20:11:00Z",
+      "title_en": "Bývalý šéf armády, propagátor hanáčtiny i dědička klavírního impéria. Poznejte své (staro)nové senátory",
+      "lead_en": "Voliči ve druhém kole voleb ve 22 obvodech vybrali své zástupce v Senátu na příštích šest let. Překvapivě ani jeden mandát nezískalo vládní hnutí ANO, jehož kandidáti nakonec pohořeli i v jinak jisté „baště“ v obvodu Karviná.",
+      "title_raw": "Bývalý šéf armády, propagátor hanáčtiny i dědička klavírního impéria. Poznejte své (staro)nové senátory",
+      "lead_raw": "Voliči ve druhém kole voleb ve 22 obvodech vybrali své zástupce v Senátu na příštích šest let. Překvapivě ani jeden mandát nezískalo vládní hnutí ANO, jehož kandidáti nakonec pohořeli i v jinak jisté „baště“ v obvodu Karviná.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "335f7e97c3ff925061d89b56f46b36d63d135865",
       "fingerprint": "afdb40d2f4c4b248752bb2b2c9335a0d6af6d58f",
@@ -1091,28 +1113,6 @@
         "energy": 1,
         "economy": 0,
         "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "3c6dd87287ee4de15b45436077161e88759c97f5",
-      "fingerprint": "0cae387dc6c445ab8107fa16f8a8e63e28a6034b",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/australie-optus-pripad-dvou-muzu-zachranna-sluzba.A261015_184711_zahranicni_onbu",
-      "published_utc": "2026-10-15T19:01:00Z",
-      "title_en": "Volali v Austrálii na tísňovou linku marně. Při čekání na pomoc zemřeli",
-      "lead_en": "Úřady ve státě Queensland na severovýchodě Austrálie začaly vyšetřovat samostatné případy dvou pacientů, kteří v uplynulém týdnu zemřeli při čekání na lékařskou péči. Třiapadesátiletý muž, který pociťoval bolesti na hrudi, zavolal v sobotu večer na tísňovou linku 000 ze svého domu v Annerley na předměstí města Brisbane.",
-      "title_raw": "Volali v Austrálii na tísňovou linku marně. Při čekání na pomoc zemřeli",
-      "lead_raw": "Úřady ve státě Queensland na severovýchodě Austrálie začaly vyšetřovat samostatné případy dvou pacientů, kteří v uplynulém týdnu zemřeli při čekání na lékařskou péči. Třiapadesátiletý muž, který pociťoval bolesti na hrudi, zavolal v sobotu večer na tísňovou linku 000 ze svého domu v Annerley na předměstí města Brisbane.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
       },
       "topics": [
         "energy"

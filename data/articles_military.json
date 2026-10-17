@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-17T18:55:08Z",
+  "updated_at_utc": "2026-10-17T21:05:58Z",
   "topic": "military",
   "count": 58,
   "articles": [
+    {
+      "id": "b5d0fd428b716f21ba755b8a767d26bcd5fefff7",
+      "fingerprint": "f54d83ed03c2bd5ec36118905b887f2c7a854a41",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-rumunske-stihacky-sestrelily-dva-ruske-drony-nad-morem-318154",
+      "published_utc": "2026-10-17T20:14:41Z",
+      "title_en": "Rumunské stíhačky sestřelily dva ruské drony nad mořem",
+      "lead_en": "Stroje NATO letos v rumunském vzdušném prostoru sestřelily čtyři drony.",
+      "title_raw": "Rumunské stíhačky sestřelily dva ruské drony nad mořem",
+      "lead_raw": "Stroje NATO letos v rumunském vzdušném prostoru sestřelily čtyři drony.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "5a9d0b7fae187d6b9d816eaa101a6077b8de00bd",
       "fingerprint": "aaac365f9aa36388e497d9db28dc4a2172b90a09",
@@ -1260,28 +1282,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "53c3fb76565142090f49817c351521b15f01c414",
-      "fingerprint": "a667427389c560cc8288abda91fb873578f2435d",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-britanie-posle-na-ukrajinu-dalsi-rakety-storm-shadow-40603114",
-      "published_utc": "2026-10-15T20:01:25Z",
-      "title_en": "Británie pošle na Ukrajinu další rakety Storm Shadow",
-      "lead_en": "Spojené království dodá Ukrajině další rakety dlouhého odletu Storm Shadow, aby jí pomohlo narušit ruské vojenské operace namířené proti civilní infrastruktuře před příchodem zimy. Oznámila to agentura Bloomberg s odvoláním na osoby obeznámené se situací, které si přály zůstat v anonymitě.",
-      "title_raw": "Británie pošle na Ukrajinu další rakety Storm Shadow",
-      "lead_raw": "Spojené království dodá Ukrajině další rakety dlouhého odletu Storm Shadow, aby jí pomohlo narušit ruské vojenské operace namířené proti civilní infrastruktuře před příchodem zimy. Oznámila to agentura Bloomberg s odvoláním na osoby obeznámené se situací, které si přály zůstat v anonymitě.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
       },
       "topics": [
         "military"
