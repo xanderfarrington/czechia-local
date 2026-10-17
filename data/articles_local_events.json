@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-17T21:05:58Z",
+  "updated_at_utc": "2026-10-17T23:33:47Z",
   "topic": "local_events",
-  "count": 11,
+  "count": 9,
   "articles": [
+    {
+      "id": "8588cbc13b86af8e3c8497f25b7ac438d8f994b6",
+      "fingerprint": "6105633fe6aca170af646515a6d403d69b8b75f9",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-vazna-nehoda-u-marianskych-lazni-jednoho-z-ridicu-transportoval-do-nemocnice-vrtulnik-40603453",
+      "published_utc": "2026-10-17T21:46:03Z",
+      "title_en": "Vážná nehoda u Mariánských Lázní. Jednoho z řidičů transportoval do nemocnice vrtulník",
+      "lead_en": "Na silnici z Teplé směrem do Mariánských Lázní došlo v sobotu večer k vážné dopravní nehodě dvou osobních vozidel. Na místě zasahovaly všechny složky IZS, pro jednoho z řidičů přiletěl vrtulník záchranné služby.",
+      "title_raw": "Vážná nehoda u Mariánských Lázní. Jednoho z řidičů transportoval do nemocnice vrtulník",
+      "lead_raw": "Na silnici z Teplé směrem do Mariánských Lázní došlo v sobotu večer k vážné dopravní nehodě dvou osobních vozidel. Na místě zasahovaly všechny složky IZS, pro jednoho z řidičů přiletěl vrtulník záchranné služby.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "6562ba89ee66f0334b10637c06f7bfb3342e942d",
       "fingerprint": "6f36948687b4a14e6750ca5be756f9d8d287c9a2",
@@ -177,72 +199,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "0725411d4ec098d64bfdb24bc8ab278f4a5f9525",
-      "fingerprint": "09f3fc2999cfe589460c02f2d5f7f2cbdc4212d9",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-strelba-na-zakladni-skole-v-oregonu-tri-deti-a-jeden-dospely-zemreli-40603119",
-      "published_utc": "2026-10-15T23:00:41Z",
-      "title_en": "Střelba na základní škole v Oregonu: Tři děti a jeden dospělý zemřeli",
-      "lead_en": "Nejméně tři děti a jeden dospělý člověk zemřeli po čtvrteční střelbě na základní škole ve městě Bend v americkém státě Oregon. Mrtvý je i střelec, který zemřel ještě před příjezdem policie.",
-      "title_raw": "Střelba na základní škole v Oregonu: Tři děti a jeden dospělý zemřeli",
-      "lead_raw": "Nejméně tři děti a jeden dospělý člověk zemřeli po čtvrteční střelbě na základní škole ve městě Bend v americkém státě Oregon. Mrtvý je i střelec, který zemřel ještě před příjezdem policie.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "9423b1da0305477947eafd938166e7fe41f9ced4",
-      "fingerprint": "5e6d542e07299071fa9b84b0cf5390d6849d189a",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/strelba-na-zakladni-skole-v-oregonu-zabila-tri-deti-a-dospeleho.A261016_004239_zahranicni_air",
-      "published_utc": "2026-10-15T22:58:00Z",
-      "title_en": "Střelba na základní škole v Oregonu zabila tři děti a dospělého",
-      "lead_en": "Při čtvrteční střelbě na základní škole ve městě Bend v americkém státě Oregon zemřely nejméně tři děti a jeden dospělý, mrtvý je i útočník a několik zraněných bylo převezeno do nemocnic, uvedly stanice CNN a CBS News s odvoláním na policejní zdroje.",
-      "title_raw": "Střelba na základní škole v Oregonu zabila tři děti a dospělého",
-      "lead_raw": "Při čtvrteční střelbě na základní škole ve městě Bend v americkém státě Oregon zemřely nejméně tři děti a jeden dospělý, mrtvý je i útočník a několik zraněných bylo převezeno do nemocnic, uvedly stanice CNN a CBS News s odvoláním na policejní zdroje.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "e1aaf0dde78d0ae2fe4906d964ff5769f110ac90",
-      "fingerprint": "fca2ec67a6244d959af14559e95be07da0120609",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/tri-deti-a-jeden-dospely-zemreli-pri-strelbe-na-zakladni-skole-v-oregonu-378685",
-      "published_utc": "2026-10-15T22:50:26Z",
-      "title_en": "Tři děti a jeden dospělý zemřeli při střelbě na základní škole v Oregonu",
-      "lead_en": "Nejméně tři děti a jeden dospělý zemřeli při střelbě na základní škole ve městě Bend v americkém státě Oregon, informují americká média. Mrtvý je také střelec.",
-      "title_raw": "Tři děti a jeden dospělý zemřeli při střelbě na základní škole v Oregonu",
-      "lead_raw": "Nejméně tři děti a jeden dospělý zemřeli při střelbě na základní škole ve městě Bend v americkém státě Oregon, informují americká média. Mrtvý je také střelec.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
       },
       "topics": [
         "local_events"

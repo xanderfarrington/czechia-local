@@ -1,10 +1,33 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-17T21:05:58Z",
+  "updated_at_utc": "2026-10-17T23:33:47Z",
   "topic": "economy",
   "count": 27,
   "articles": [
+    {
+      "id": "4ef3eca1782da72cb5fc341fd3de95f04eac4663",
+      "fingerprint": "3aee9f463bbdb7a1b813b8fbbdbd64605e2730ed",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/internet-a-pc-ai-aby-neohrozovali-lidi-vedci-pohyby-robotu-hlidaji-matematikou-40600890",
+      "published_utc": "2026-10-17T22:45:00Z",
+      "title_en": "Aby neohrožovali lidi. Vědci pohyby robotů hlídají matematikou",
+      "lead_en": "S narůstajícími investicemi do výroby humanoidních robotů roste tlak na jejich využití. Nedílnou součástí vývoje je proto i bezpečnost.",
+      "title_raw": "Aby neohrožovali lidi. Vědci pohyby robotů hlídají matematikou",
+      "lead_raw": "S narůstajícími investicemi do výroby humanoidních robotů roste tlak na jejich využití. Nedílnou součástí vývoje je proto i bezpečnost.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "7d6e0aa0f48765b36ff52686c7ae560f796d592b",
       "fingerprint": "4f4b2ab850f056ed637a1e70a5e01d3457b1bad5",
@@ -574,28 +597,6 @@
         "military": 0,
         "energy": 0,
         "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "7b07138f1c35dac33af53ce18edbbab0e6f6d0bf",
-      "fingerprint": "974bee329ffbea08a9b25b83f1c70d9214c6d1e5",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/snemovna-bude-schvalovat-zvyseni-plateb-do-zdravotnictvi-za-statni-pojistence/2888549",
-      "published_utc": "2026-10-15T22:20:00Z",
-      "title_en": "Sněmovna bude schvalovat zvýšení plateb do zdravotnictví za státní pojištěnce",
-      "lead_en": "Praha - Sněmovna dnes bude schvalovat zvýšení státních plateb do zdravotnictví za důchodce, děti, studenty nebo nezaměstnané v příštím roce. Dokončit by měla také závěrečné kolo projednávání předlohy...",
-      "title_raw": "Sněmovna bude schvalovat zvýšení plateb do zdravotnictví za státní pojištěnce",
-      "lead_raw": "Praha - Sněmovna dnes bude schvalovat zvýšení státních plateb do zdravotnictví za důchodce, děti, studenty nebo nezaměstnané v příštím roce. Dokončit by měla také závěrečné kolo projednávání předlohy...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
         "local_events": 0
       },
       "topics": [

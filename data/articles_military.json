@@ -1,10 +1,33 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-17T21:05:58Z",
+  "updated_at_utc": "2026-10-17T23:33:47Z",
   "topic": "military",
   "count": 58,
   "articles": [
+    {
+      "id": "4ef3eca1782da72cb5fc341fd3de95f04eac4663",
+      "fingerprint": "3aee9f463bbdb7a1b813b8fbbdbd64605e2730ed",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/internet-a-pc-ai-aby-neohrozovali-lidi-vedci-pohyby-robotu-hlidaji-matematikou-40600890",
+      "published_utc": "2026-10-17T22:45:00Z",
+      "title_en": "Aby neohrožovali lidi. Vědci pohyby robotů hlídají matematikou",
+      "lead_en": "S narůstajícími investicemi do výroby humanoidních robotů roste tlak na jejich využití. Nedílnou součástí vývoje je proto i bezpečnost.",
+      "title_raw": "Aby neohrožovali lidi. Vědci pohyby robotů hlídají matematikou",
+      "lead_raw": "S narůstajícími investicemi do výroby humanoidních robotů roste tlak na jejich využití. Nedílnou součástí vývoje je proto i bezpečnost.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "b5d0fd428b716f21ba755b8a767d26bcd5fefff7",
       "fingerprint": "f54d83ed03c2bd5ec36118905b887f2c7a854a41",
@@ -1254,28 +1277,6 @@
       "lead_en": "Spolupráce automobilky Smart a úpravce Brabus bude pokračovat i s nejmenším modelem. Společnosti již zveřejnily první upoutávky, na technické detaily a produkční vůz si však budeme muset ještě chvíli počkat.",
       "title_raw": "Brabus chystá novou kapesní raketu, vylepší Smart #2",
       "lead_raw": "Spolupráce automobilky Smart a úpravce Brabus bude pokračovat i s nejmenším modelem. Společnosti již zveřejnily první upoutávky, na technické detaily a produkční vůz si však budeme muset ještě chvíli počkat.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ba6b61890c214305dc00e9c75bc0bf933eef0cd1",
-      "fingerprint": "60f9b6a22116ee4e91d242d31ebe81bdd9bcf573",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-ruske-urady-zavedou-nove-povinne-sifrovani-pro-chytre-telefony-40603083",
-      "published_utc": "2026-10-15T21:42:00Z",
-      "title_en": "Ruské úřady zavedou nové povinné šifrování pro chytré telefony",
-      "lead_en": "Chytré telefony podporující sítě 5G dodávané do Ruska budou nově muset mít povinně nainstalovaný šifrovací software vyvinutý ruskou bezpečnostní službou FSB. Nařízení bude platit od března 2032, jak ve čtvrtek informovala ruská média.",
-      "title_raw": "Ruské úřady zavedou nové povinné šifrování pro chytré telefony",
-      "lead_raw": "Chytré telefony podporující sítě 5G dodávané do Ruska budou nově muset mít povinně nainstalovaný šifrovací software vyvinutý ruskou bezpečnostní službou FSB. Nařízení bude platit od března 2032, jak ve čtvrtek informovala ruská média.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
