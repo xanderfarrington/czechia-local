@@ -1,10 +1,77 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-17T05:08:20Z",
+  "updated_at_utc": "2026-10-17T09:48:08Z",
   "topic": "local_events",
   "count": 17,
   "articles": [
+    {
+      "id": "6562ba89ee66f0334b10637c06f7bfb3342e942d",
+      "fingerprint": "6f36948687b4a14e6750ca5be756f9d8d287c9a2",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/po-pozaru-chaty-u-prahy-skoncil-v-nemocnici-clovek-s-tezkymi-popaleninami_2610171047_bod",
+      "published_utc": "2026-10-17T08:47:00Z",
+      "title_en": "Po požáru chaty u Prahy skončil v nemocnici člověk s těžkými popáleninami. Příčina se vyšetřuje",
+      "lead_en": "Při pátečním požáru chaty v Lukách pod Medníkem u Prahy utrpěl jeden člověk těžké popáleniny. Záchranáři ho letecky přepravili do pražské Fakultní nemocnice Královské Vinohrady.",
+      "title_raw": "Po požáru chaty u Prahy skončil v nemocnici člověk s těžkými popáleninami. Příčina se vyšetřuje",
+      "lead_raw": "Při pátečním požáru chaty v Lukách pod Medníkem u Prahy utrpěl jeden člověk těžké popáleniny. Záchranáři ho letecky přepravili do pražské Fakultní nemocnice Královské Vinohrady.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "5e54fbcac6784fef581ea396bece865ee3f50892",
+      "fingerprint": "04667ffbb6364e41725f47b43f37c43d9ad04656",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/liberec/zpravy/dopravni-nehoda-nakladni-automobil-hzs-lk-frydstejn-hasici-doprava.A261017_093804_liberec-zpravy_lav",
+      "published_utc": "2026-10-17T08:17:00Z",
+      "title_en": "Nákladní automobil se na Jablonecku zaklínil mezi svodidly a zablokoval silnici",
+      "lead_en": "Nákladní automobil, který se v sobotu brzy ráno zaklínil mezi svodidly, zcela zablokoval silnici I/10 v části obce Frýdštejn na Jablonecku. Řidič vyvázl bez zranění, likvidace dopravní nehody zabrala turnovským profesionálním hasičům tři hodiny.",
+      "title_raw": "Nákladní automobil se na Jablonecku zaklínil mezi svodidly a zablokoval silnici",
+      "lead_raw": "Nákladní automobil, který se v sobotu brzy ráno zaklínil mezi svodidly, zcela zablokoval silnici I/10 v části obce Frýdštejn na Jablonecku. Řidič vyvázl bez zranění, likvidace dopravní nehody zabrala turnovským profesionálním hasičům tři hodiny.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "81d5d756a901cbe69ff5fcfb1e70308449243187",
+      "fingerprint": "bd5a092161fa31cbc7ec4375724c1bce7d65568a",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/v-chersonu-zemrel-ridic-zachranky-a-byla-zranena-rodina-s-nemluvnetem-378726",
+      "published_utc": "2026-10-17T06:26:01Z",
+      "title_en": "Ruský útok na Cherson zabil řidiče záchranky a zranil 19 lidí včetně dítěte",
+      "lead_en": "V Chersonu ruský útok zabil čtyřiašedesátiletého řidiče záchranné služby, uvedl ráno náčelník městské vojenské správy Jaroslav Šaňko. Dále informoval o zranění rodiny s malým dítětem.",
+      "title_raw": "Ruský útok na Cherson zabil řidiče záchranky a zranil 19 lidí včetně dítěte",
+      "lead_raw": "V Chersonu ruský útok zabil čtyřiašedesátiletého řidiče záchranné služby, uvedl ráno náčelník městské vojenské správy Jaroslav Šaňko. Dále informoval o zranění rodiny s malým dítětem.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "593183f7aa06cdaf6b43fbd94ad2f4202f0487f2",
       "fingerprint": "c8f9bcd1bd3203bb5a77f5937a603783ce0e6f9b",
@@ -310,72 +377,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "164794549f6ecfb9e61827886eacdd74d8b78dd5",
-      "fingerprint": "f32b9e9f4703098f1c89fbd984725b3ebb189d74",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/turecko-istanbul-dest-lokalni-zaplavy-povodne.A261015_094850_zahranicni_kha",
-      "published_utc": "2026-10-15T09:12:00Z",
-      "title_en": "V zaplaveném autobusu si stoupali na sedačky. Istanbul čelí povodním, dva mrtví",
-      "lead_en": "Turecký Istanbul po několika dnech hustého deště zasáhly lokální záplavy. Nejméně dva lidé při nich zemřeli, přičemž jednoho z nich zasáhl elektrický proud.",
-      "title_raw": "V zaplaveném autobusu si stoupali na sedačky. Istanbul čelí povodním, dva mrtví",
-      "lead_raw": "Turecký Istanbul po několika dnech hustého deště zasáhly lokální záplavy. Nejméně dva lidé při nich zemřeli, přičemž jednoho z nich zasáhl elektrický proud.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "0179c5877c6c492ff64349ceec00242c45a69372",
-      "fingerprint": "666519e1c7dcc538bdd074f876d9405aafb7c71f",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/nejmene-27-zaku-a-ucitel-zahynuli-po-zriceni-strechy-skoly-v-pakistanu-378624",
-      "published_utc": "2026-10-15T08:00:24Z",
-      "title_en": "Nejméně 27 žáků a učitel zahynuli po zřícení střechy školy v Pákistánu",
-      "lead_en": "Nejméně dvacet sedm žáků, většina z nich mladší 13 let, a jeden učitel přišli ve čtvrtek o život, když se zřítila střecha školy v Péšávaru na severozápadě Pákistánu. Informovaly o tom agentury Reuters a AP s odvoláním na mluvčího nemocnice, která podle něj přijala také více než desítku zraněných.",
-      "title_raw": "Nejméně 27 žáků a učitel zahynuli po zřícení střechy školy v Pákistánu",
-      "lead_raw": "Nejméně dvacet sedm žáků, většina z nich mladší 13 let, a jeden učitel přišli ve čtvrtek o život, když se zřítila střecha školy v Péšávaru na severozápadě Pákistánu. Informovaly o tom agentury Reuters a AP s odvoláním na mluvčího nemocnice, která podle něj přijala také více než desítku zraněných.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "c36269e501e6f030dda6fc1b85242441f581d111",
-      "fingerprint": "8c674ee64334e7fd9ea8419c1d34226f3e6adfe0",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-zricena-strecha-skoly-v-pakistanu-pohrbila-desitky-malych-deti-40602911",
-      "published_utc": "2026-10-15T07:20:32Z",
-      "title_en": "Zřícená střecha školy v Pákistánu pohřbila desítky malých dětí",
-      "lead_en": "V pákistánském Péšávaru zahynulo nejméně 33 žáků a jeden učitel poté, co se ve čtvrtek zřítila střecha v jedné ze škol. Dalších čtyřicet je zraněno, někteří jsou pravděpodobně v kritickém stavu.",
-      "title_raw": "Zřícená střecha školy v Pákistánu pohřbila desítky malých dětí",
-      "lead_raw": "V pákistánském Péšávaru zahynulo nejméně 33 žáků a jeden učitel poté, co se ve čtvrtek zřítila střecha v jedné ze škol. Dalších čtyřicet je zraněno, někteří jsou pravděpodobně v kritickém stavu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
       },
       "topics": [
         "local_events"
