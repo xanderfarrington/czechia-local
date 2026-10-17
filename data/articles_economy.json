@@ -1,10 +1,33 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-17T16:42:35Z",
+  "updated_at_utc": "2026-10-17T18:55:08Z",
   "topic": "economy",
   "count": 30,
   "articles": [
+    {
+      "id": "7d6e0aa0f48765b36ff52686c7ae560f796d592b",
+      "fingerprint": "4f4b2ab850f056ed637a1e70a5e01d3457b1bad5",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-premier-magyar-chce-ziskat-dalsi-rocni-vyjimku-pro-dovoz-ruske-ropy-40603342",
+      "published_utc": "2026-10-17T18:41:08Z",
+      "title_en": "Premiér Magyar chce získat další roční výjimku pro dovoz ruské ropy",
+      "lead_en": "Maďarsko má do listopadu platnou výjimku na dovoz ruské ropy a premiér Péter Magyar (Tisza) chce dosáhnout prodloužení této výjimky alespoň o další rok. Budapešť k tomu chce využít situaci, kdy americký prezident Donald Trump uzavřel s Moskvou dohodu o dodávkách ruské nafty na americký i světový trh.",
+      "title_raw": "Premiér Magyar chce získat další roční výjimku pro dovoz ruské ropy",
+      "lead_raw": "Maďarsko má do listopadu platnou výjimku na dovoz ruské ropy a premiér Péter Magyar (Tisza) chce dosáhnout prodloužení této výjimky alespoň o další rok. Budapešť k tomu chce využít situaci, kdy americký prezident Donald Trump uzavřel s Moskvou dohodu o dodávkách ruské nafty na americký i světový trh.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "d6211d4d85c3e0af0ba9e3ddb14aba9f5136d439",
       "fingerprint": "7b438bc4501194f0ca3d2960d0d30493e27e4110",
@@ -640,28 +663,6 @@
         "energy": 0,
         "economy": 2,
         "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "67adc24b79eba5307540e8fa8caa3b90b6cd4530",
-      "fingerprint": "2ed09c82908c9fad6966dddf4bef5f9e70fa53a2",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-sest-procent-navic-pro-zdravotniky-zadaji-odbory-vojtech-odmita-dalsi-dluhy-40603106",
-      "published_utc": "2026-10-15T17:45:50Z",
-      "title_en": "Šest procent navíc pro zdravotníky, žádají odbory. Vojtěch odmítá další dluhy",
-      "lead_en": "Platy a mzdy v nemocnicích a záchranných službách mají příští rok vzrůst nejméně o šest procent, požadují zdravotnické odbory. Podle jejich propočtů by to stálo 12 miliard korun.",
-      "title_raw": "Šest procent navíc pro zdravotníky, žádají odbory. Vojtěch odmítá další dluhy",
-      "lead_raw": "Platy a mzdy v nemocnicích a záchranných službách mají příští rok vzrůst nejméně o šest procent, požadují zdravotnické odbory. Podle jejich propočtů by to stálo 12 miliard korun.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 1
       },
       "topics": [
         "economy"

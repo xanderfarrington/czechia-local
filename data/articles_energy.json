@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-17T16:42:35Z",
+  "updated_at_utc": "2026-10-17T18:55:08Z",
   "topic": "energy",
-  "count": 56,
+  "count": 50,
   "articles": [
+    {
+      "id": "335f7e97c3ff925061d89b56f46b36d63d135865",
+      "fingerprint": "afdb40d2f4c4b248752bb2b2c9335a0d6af6d58f",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/francii-zachvatil-chaos-horici-auta-plameny-a-strety-s-policii.A261017_180322_zahranicni_ichuc/foto",
+      "published_utc": "2026-10-17T17:04:00Z",
+      "title_en": "Hořící auta a budovy, slzný plyn i vodní děla. Jak Francii ovládly masivní protesty",
+      "lead_en": "Francii zachvátily rozsáhlé protesty proti vysokým životním nákladům. V řadě měst propukly násilnosti, hořela auta i budovy a policie nasadila slzný plyn či vodní děla.",
+      "title_raw": "Hořící auta a budovy, slzný plyn i vodní děla. Jak Francii ovládly masivní protesty",
+      "lead_raw": "Francii zachvátily rozsáhlé protesty proti vysokým životním nákladům. V řadě měst propukly násilnosti, hořela auta i budovy a policie nasadila slzný plyn či vodní děla.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "6bff615618acf4c7e17e019b7377ad16d9f13984",
       "fingerprint": "935b83682d3bb6af69ba02ca4c185daaaaa9c885",
@@ -1093,164 +1115,6 @@
         "local_events": 1
       },
       "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "eefed15695f0d7da3d1148accffd6848a025e5a5",
-      "fingerprint": "1c8093e210d3434494332ff9c53568a91c603e92",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-bulharsko-podporuje-dohodu-trumpa-a-putina-o-nafte-40603110",
-      "published_utc": "2026-10-15T18:24:10Z",
-      "title_en": "Jediní v EU. Bulharsko podporuje dohodu Trumpa a Putina o naftě",
-      "lead_en": "Bulharsko jako první a zatím jediná země v Evropské unii podpořilo dohodu o naftě mezi americkým prezidentem Donaldem Trumpem a ruským vůdcem Vladimirem Putinem. Jeho proruský premiér Rumen Radev se rovněž vyslovil proti ukrajinským úderům na ruské ropné rafinerie.",
-      "title_raw": "Jediní v EU. Bulharsko podporuje dohodu Trumpa a Putina o naftě",
-      "lead_raw": "Bulharsko jako první a zatím jediná země v Evropské unii podpořilo dohodu o naftě mezi americkým prezidentem Donaldem Trumpem a ruským vůdcem Vladimirem Putinem. Jeho proruský premiér Rumen Radev se rovněž vyslovil proti ukrajinským úderům na ruské ropné rafinerie.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "8f478f3ac23abf757ce7d82a1384d1ef1ffa249b",
-      "fingerprint": "d5a927be87581c28af4716deaef2b6d5b4151afb",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-rutte-se-v-bruselu-setkal-se-zelenskym-mluvili-spolu-o-energetickem-primeri-317986",
-      "published_utc": "2026-10-15T17:45:40Z",
-      "title_en": "Rutte se v Bruselu setkal se Zelenskym, mluvili spolu o energetickém příměří",
-      "lead_en": "Rusko podle prezidenta Ukrajiny opakovaně porušilo energetické příměří, napsal to po dnešní bruselské schůzce s generálním tajemníkem NATO. Evropská rada má o situaci na Ukrajině diskutovat v pátek.",
-      "title_raw": "Rutte se v Bruselu setkal se Zelenskym, mluvili spolu o energetickém příměří",
-      "lead_raw": "Rusko podle prezidenta Ukrajiny opakovaně porušilo energetické příměří, napsal to po dnešní bruselské schůzce s generálním tajemníkem NATO. Evropská rada má o situaci na Ukrajině diskutovat v pátek.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "44af198b7a4210dee397b568566f5de92cd4e582",
-      "fingerprint": "6ab090eeb91818c84c5477eb2b3f889dda64b580",
-      "source": "Radio Prague International (EN)",
-      "url": "https://english.radio.cz/municipalities-challenge-nuclear-waste-plans-european-commission-8900131",
-      "published_utc": "2026-10-15T17:32:00Z",
-      "title_en": "Municipalities challenge nuclear waste plans with European Commission",
-      "lead_en": "Municipalities challenge nuclear waste plans with European Commission",
-      "title_raw": "Municipalities challenge nuclear waste plans with European Commission",
-      "lead_raw": "Municipalities challenge nuclear waste plans with European Commission",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "3889867b097dac08a7bdf54ebc03337eb1931657",
-      "fingerprint": "18fff39174f64ffa9b620927ab06bef9da865c95",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajine-dosly-patrioty-rusko-chce-zemi-rozdrtit-v-prubehu-zimy.A261015_192008_zahranicni_remy",
-      "published_utc": "2026-10-15T17:28:00Z",
-      "title_en": "Nastává osudová hodina Ukrajiny: došly patrioty, Rusko chystá definitivní zkázu",
-      "lead_en": "Rusko chce Ukrajinu rozdrtit a vynutit si její úplnou kapitulaci ještě letos v zimě tím, že vyřadí z provozu ukrajinský energetický systém a zcela připraví Kyjev, Charkov a Oděsu o vodu, elektřinu a teplo. „Je téměř nemožné donutit zemi ke kapitulaci pouze konvenční leteckou kampaní ve válce.",
-      "title_raw": "Nastává osudová hodina Ukrajiny: došly patrioty, Rusko chystá definitivní zkázu",
-      "lead_raw": "Rusko chce Ukrajinu rozdrtit a vynutit si její úplnou kapitulaci ještě letos v zimě tím, že vyřadí z provozu ukrajinský energetický systém a zcela připraví Kyjev, Charkov a Oděsu o vodu, elektřinu a teplo. „Je téměř nemožné donutit zemi ke kapitulaci pouze konvenční leteckou kampaní ve válce.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "2d706bf87baa563fe8ce216a249b50f5379c0905",
-      "fingerprint": "d64e43f1afec8516f4ef190ef97ad862f4e83cc3",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-meli-by-byt-zastreleni-prohlasil-trump-na-adresu-lidi-vynasejicich-citlive-informace-z-vlady-40603070",
-      "published_utc": "2026-10-15T17:07:13Z",
-      "title_en": "Měli by být zastřeleni, prohlásil Trump na adresu lidí vynášejících citlivé informace z vlády",
-      "lead_en": "Americký prezident Donald Trump na předvolebním shromáždění v Arizoně prohlásil, že každého vládního úředníka, který vynáší citlivé informace médiím, by měli zastřelit. Jeho rozhořčení se podle stanice CBS News týkalo úniku informací týkajících se načasování amerických úderů na íránská jaderná zařízení v roce 2025.",
-      "title_raw": "Měli by být zastřeleni, prohlásil Trump na adresu lidí vynášejících citlivé informace z vlády",
-      "lead_raw": "Americký prezident Donald Trump na předvolebním shromáždění v Arizoně prohlásil, že každého vládního úředníka, který vynáší citlivé informace médiím, by měli zastřelit. Jeho rozhořčení se podle stanice CBS News týkalo úniku informací týkajících se načasování amerických úderů na íránská jaderná zařízení v roce 2025.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "51e698b7afe7ac133f40b58373e824f7abef30f6",
-      "fingerprint": "79b26fa451de7dfcbfccf7d30459e252b7c99b74",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/slovensko-rusko-mezivladni-komise-spoluprace.A261015_184425_zahranicni_dvou",
-      "published_utc": "2026-10-15T16:58:00Z",
-      "title_en": "Slovensko poprvé od invaze obnovuje spolupráci s Ruskem. Vlastizrada, reaguje opozice",
-      "lead_en": "Slovensko oživuje dosud neaktivní fórum pro spolupráci s Moskvou, na němž se bude jednat mimo jiné o dodávkách ruského plynu a ropy a jaderného paliva nebo o zacházení s ruskými sportovci. Půjde o první setkání tohoto druhu za posledních pět let.",
-      "title_raw": "Slovensko poprvé od invaze obnovuje spolupráci s Ruskem. Vlastizrada, reaguje opozice",
-      "lead_raw": "Slovensko oživuje dosud neaktivní fórum pro spolupráci s Moskvou, na němž se bude jednat mimo jiné o dodávkách ruského plynu a ropy a jaderného paliva nebo o zacházení s ruskými sportovci. Půjde o první setkání tohoto druhu za posledních pět let.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "9bcf32f16589fbf6ca0e1d5ae7c58101fb75940a",
-      "fingerprint": "277612d2825596240fd8fb2fe6bb784c2243f03e",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/iea-rezervy-ropa-nafra-zasoby-trh.A261015_183226_eko-zahranicni_dvou",
-      "published_utc": "2026-10-15T16:43:00Z",
-      "title_en": "Mezinárodní energetická agentura urychlí uvolnění nouzových zásob ropy",
-      "lead_en": "Mezinárodní energetická agentura (IEA) se dohodla, že co nejdříve uvolní na trh více než 20 milionů barelů nafty a veškerou ropu, které zbývají z rekordního uvolnění nouzových zásob slíbeného v březnu. Cílem opatření je zmírnit nedostatek paliv a snížit ceny, které prudce vzrostly kvůli narušení dodávek z Blízkého východu a Ruska.",
-      "title_raw": "Mezinárodní energetická agentura urychlí uvolnění nouzových zásob ropy",
-      "lead_raw": "Mezinárodní energetická agentura (IEA) se dohodla, že co nejdříve uvolní na trh více než 20 milionů barelů nafty a veškerou ropu, které zbývají z rekordního uvolnění nouzových zásob slíbeného v březnu. Cílem opatření je zmírnit nedostatek paliv a snížit ceny, které prudce vzrostly kvůli narušení dodávek z Blízkého východu a Ruska.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
         "energy"
       ],
       "primary_topic": "energy"
