@@ -1,10 +1,100 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-17T09:48:08Z",
+  "updated_at_utc": "2026-10-17T13:18:57Z",
   "topic": "diplomacy",
-  "count": 72,
+  "count": 62,
   "articles": [
+    {
+      "id": "996a2fa01e98cb44ec0a522c16da22345dffb637",
+      "fingerprint": "b1d15754d04da7f3007a2de7056b7ac3458838e9",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/katar-lng-zemni-plyn-vyvoz-persky-zaliv-tankery-ekonomika.A261014_142337_eko-zahranicni_jla",
+      "published_utc": "2026-10-17T13:00:00Z",
+      "title_en": "Sázka na třicetileté tankery. Katar se snaží obnovit vývoz plynu do světa",
+      "lead_en": "Katar dlouhodobě patřil mezi nejspolehlivější dodavatele zkapalněného zemního plynu na světě. Se zákazníky uzavíral dlouhodobé smlouvy a díky pravidelným dodávkám si mohl účtovat vyšší ceny.",
+      "title_raw": "Sázka na třicetileté tankery. Katar se snaží obnovit vývoz plynu do světa",
+      "lead_raw": "Katar dlouhodobě patřil mezi nejspolehlivější dodavatele zkapalněného zemního plynu na světě. Se zákazníky uzavíral dlouhodobé smlouvy a díky pravidelným dodávkám si mohl účtovat vyšší ceny.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "7933cb1715de3a9ccb2a7fed374ebc07b8da4f92",
+      "fingerprint": "771bcf4a0294f547b5063f3387797b00a5c7feed",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/vucic-srbsko-novy-sad-slovensko-fico.A261017_090332_zahranicni_jhr",
+      "published_utc": "2026-10-17T11:21:00Z",
+      "title_en": "Fico podpořil Vučiče na předvolebním mítinku. Promluvil na něm srbsky",
+      "lead_en": "Srbský exprezident Aleksandar Vučić se zúčastnil velkého předvolebního mítinku v Novém Sadě, kde tragédie před dvěma lety zažehla protivládní protesty. Jako zvláštní host vystoupil slovenský premiér Robert Fico, který kvůli tomu předčasně opustil summit EU v Bruselu.",
+      "title_raw": "Fico podpořil Vučiče na předvolebním mítinku. Promluvil na něm srbsky",
+      "lead_raw": "Srbský exprezident Aleksandar Vučić se zúčastnil velkého předvolebního mítinku v Novém Sadě, kde tragédie před dvěma lety zažehla protivládní protesty. Jako zvláštní host vystoupil slovenský premiér Robert Fico, který kvůli tomu předčasně opustil summit EU v Bruselu.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "3481f552b391454f34c939c6e51f1574ff5e469c",
+      "fingerprint": "82b59e6468d059f6d4b5ba5656eb3d230e9927cc",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-prehledne-trumpovy-nepravdive-vyroky-40603277",
+      "published_utc": "2026-10-17T10:17:04Z",
+      "title_en": "PŘEHLEDNĚ: Trumpovy nepravdivé výroky",
+      "lead_en": "Americký prezident Donald Trump v posledních týdnech rozjel čarování s čísly a kolotoč lží a nepodložených tvrzení. Hovořil například o masivních dodávkách střel tomahawk Ukrajině, které Kyjev nikdy nedostal, o amerických raketách, které Ukrajina údajně prodala na volném trhu a profitovala z nich, nebo o naftové dohodě s Moskvou, díky níž mají padat ceny pohonných hmot na trzích.",
+      "title_raw": "PŘEHLEDNĚ: Trumpovy nepravdivé výroky",
+      "lead_raw": "Americký prezident Donald Trump v posledních týdnech rozjel čarování s čísly a kolotoč lží a nepodložených tvrzení. Hovořil například o masivních dodávkách střel tomahawk Ukrajině, které Kyjev nikdy nedostal, o amerických raketách, které Ukrajina údajně prodala na volném trhu a profitovala z nich, nebo o naftové dohodě s Moskvou, díky níž mají padat ceny pohonných hmot na trzích.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "c0a3f477eb88da06ecaadaf850550bf99a392858",
+      "fingerprint": "a0e05b3ea0e70628273f0e4184249d140550943e",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-gangy-berlina-vitezni-postkomuniste-musi-vysvetlit-co-je-k-mafii-tolik-tahne-316978",
+      "published_utc": "2026-10-17T09:48:25Z",
+      "title_en": "Gangy Berlína. Vítězní postkomunisté musí vysvětlit, co je k mafii tolik táhne",
+      "lead_en": "Strana Levice chce vládnout Berlínu. V cestě jednání o koalici ale stojí kontakty krajně levicových politiků s berlínskými zločineckými klany.",
+      "title_raw": "Gangy Berlína. Vítězní postkomunisté musí vysvětlit, co je k mafii tolik táhne",
+      "lead_raw": "Strana Levice chce vládnout Berlínu. V cestě jednání o koalici ale stojí kontakty krajně levicových politiků s berlínskými zločineckými klany.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "1505e8c2cd3018ffeb93ac0e3bbcc39792a40dcf",
       "fingerprint": "62646746b6d776a871c55a80a2c005b550036b4e",
@@ -1294,315 +1384,6 @@
         "military"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "503d7f784298febccbe87e6b85f0cfe02cdd984f",
-      "fingerprint": "0c8396f916f0abb421a7ade112967c704ad6b839",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-kanadska-laborator-cohere-kupuje-cesky-aisle-zalozeny-ondrejem-vlckem-317956",
-      "published_utc": "2026-10-15T13:06:49Z",
-      "title_en": "Kanadská laboratoř Cohere kupuje český Aisle založený Ondřejem Vlčkem",
-      "lead_en": "Kanadská společnost Cohere oznámila podpis předběžné dohody o převzetí startupu AISLE, který založil bývalý šéf Avastu Ondřej Vlček v roce 2025 společně s odborníky z Google DeepMind a Anthropic.",
-      "title_raw": "Kanadská laboratoř Cohere kupuje český Aisle založený Ondřejem Vlčkem",
-      "lead_raw": "Kanadská společnost Cohere oznámila podpis předběžné dohody o převzetí startupu AISLE, který založil bývalý šéf Avastu Ondřej Vlček v roce 2025 společně s odborníky z Google DeepMind a Anthropic.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "599cd4cd9307bbfc808119ea9b64540d4ffed548",
-      "fingerprint": "214c1fb56221176774632a20a36396de8abbb0db",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/olomoucka-petikoalice-podepise-v-pondeli-koalicni-smlouvu-primatorem-zelenka/2887456",
-      "published_utc": "2026-10-15T12:20:00Z",
-      "title_en": "Olomoucká pětikoalice podepíše v pondělí koaliční smlouvu, primátorem Zelenka",
-      "lead_en": "Olomouc - Zástupci hnutí STAN, ProOlomouc, KDU-ČSL, spOLečně a Milujeme Olomouc v pondělí podepíšou koaliční smlouvu. Složení nové městské rady a rozdělení kompetencí zveřejní před podpisem.",
-      "title_raw": "Olomoucká pětikoalice podepíše v pondělí koaliční smlouvu, primátorem Zelenka",
-      "lead_raw": "Olomouc - Zástupci hnutí STAN, ProOlomouc, KDU-ČSL, spOLečně a Milujeme Olomouc v pondělí podepíšou koaliční smlouvu. Složení nové městské rady a rozdělení kompetencí zveřejní před podpisem.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "ce788c437677c30c4f3111c9097044f384bb6f4f",
-      "fingerprint": "cac16abb19786d618b3e7513532133d607518c5d",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/regiony/hlavni-mesto-praha/prazske-stan-a-spolu-se-shodly-na-doprave-bydleni-i-skolstvi-378648",
-      "published_utc": "2026-10-15T12:15:04Z",
-      "title_en": "Pražské STAN a SPOLU se shodly na dopravě, bydlení i školství",
-      "lead_en": "Vyjednávací týmy pražského STAN a SPOLU se na čtvrtečním jednání shodly v otázkách dopravy, školství a bydlení. Shodu naopak zatím nenašly v tom, kdo získá gesci financí.",
-      "title_raw": "Pražské STAN a SPOLU se shodly na dopravě, bydlení i školství",
-      "lead_raw": "Vyjednávací týmy pražského STAN a SPOLU se na čtvrtečním jednání shodly v otázkách dopravy, školství a bydlení. Shodu naopak zatím nenašly v tom, kdo získá gesci financí.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "e31dea44ab66624c42e53dac4972748acd87a3b4",
-      "fingerprint": "a8fe348e1bdb2eb0e215063a54c8cab9df77de22",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/summit-eu-resi-drahe-energie-cesko-prosazuje-zmeny-systemu-ets/2888307",
-      "published_utc": "2026-10-15T12:12:00Z",
-      "title_en": "Summit EU řeší drahé energie, Česko prosazuje změny systému ETS",
-      "lead_en": "Brusel - Prezidenti a premiéři zemí Evropské unie nyní na summitu v Bruselu jednají o vysokých cenách energií, vyplývá z informací ČTK. Český premiér Andrej Babiš již dříve uvedl, že bude prosazovat další...",
-      "title_raw": "Summit EU řeší drahé energie, Česko prosazuje změny systému ETS",
-      "lead_raw": "Brusel - Prezidenti a premiéři zemí Evropské unie nyní na summitu v Bruselu jednají o vysokých cenách energií, vyplývá z informací ČTK. Český premiér Andrej Babiš již dříve uvedl, že bude prosazovat další...",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "ebf19bcd6d7fa3a9c02ad900958dfecfe902c0f9",
-      "fingerprint": "6c25e377f3b876e006bddfd2d4ea3d7cf6220fa0",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/volby/praha-jednani-koalice-hlavacek-portlik-spolu-stan.A261015_111123_domaci_dyn",
-      "published_utc": "2026-10-15T11:57:00Z",
-      "title_en": "V Praze je blízko koalice Starostů se SPOLU, přidat se může ještě třetí partner",
-      "lead_en": "V Praze pokračují povolební jednání o složení koalice. Vede je lídr Starostů Petr Hlaváček, ve čtvrtek se už podruhé po volbách sešel s Tomášem Portlíkem ze SPOLU pro Prahu, který by preferoval koalici pouze se Starosty.",
-      "title_raw": "V Praze je blízko koalice Starostů se SPOLU, přidat se může ještě třetí partner",
-      "lead_raw": "V Praze pokračují povolební jednání o složení koalice. Vede je lídr Starostů Petr Hlaváček, ve čtvrtek se už podruhé po volbách sešel s Tomášem Portlíkem ze SPOLU pro Prahu, který by preferoval koalici pouze se Starosty.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "ad86bfec4efefb460cd66e8f42a78558a5835d6b",
-      "fingerprint": "3d4cb0bd7bb738ba18ed84ab1877dd8bea48678b",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/volby-komunalni-starostou-sokolova-bude-picka-ano-konci-ve-vedeni-mesta-po-trech-volebnich-obdobich-40602967",
-      "published_utc": "2026-10-15T11:53:36Z",
-      "title_en": "Starostou Sokolova bude Picka. ANO končí ve vedení města po třech volebních obdobích",
-      "lead_en": "Budoucí koalice v Sokolově se dohodla na obsazení vedení radnice. Starostou se má stát Jan Picka (VOK), jeho prvním místostarostou bude Miroslav Balatka (STAN) a druhým Ladislav Sedláček (ODS).",
-      "title_raw": "Starostou Sokolova bude Picka. ANO končí ve vedení města po třech volebních obdobích",
-      "lead_raw": "Budoucí koalice v Sokolově se dohodla na obsazení vedení radnice. Starostou se má stát Jan Picka (VOK), jeho prvním místostarostou bude Miroslav Balatka (STAN) a druhým Ladislav Sedláček (ODS).",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "d2caa825df0f4e34abebc099575fbec34328a6ff",
-      "fingerprint": "31b347f6836eb7b2ad879af8ffa1abab7c6e017c",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/prazske-stan-a-spolu-se-dnes-neshodly-na-obsazeni-gesce-financi/2888282",
-      "published_utc": "2026-10-15T11:41:00Z",
-      "title_en": "Pražské STAN a Spolu se dnes neshodly na obsazení gesce financí",
-      "lead_en": "Praha - Vyjednávací týmy pražského STAN a Spolu se na dnešním jednání shodly v otázkách dopravy, školství a bydlení. Shodu naopak zatím nenašly v tom, kdo získá gesci financí.",
-      "title_raw": "Pražské STAN a Spolu se dnes neshodly na obsazení gesce financí",
-      "lead_raw": "Praha - Vyjednávací týmy pražského STAN a Spolu se na dnešním jednání shodly v otázkách dopravy, školství a bydlení. Shodu naopak zatím nenašly v tom, kdo získá gesci financí.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "47cbe8e7814260cae63c838f0240933cdb0c22b4",
-      "fingerprint": "f64535d319e0009e3afb4d629292906882a79f71",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/volby-komunalni-portlik-po-jednani-se-stan-nevidime-duvod-potkavat-se-s-piraty-a-prahou-sobe-317945",
-      "published_utc": "2026-10-15T11:35:07Z",
-      "title_en": "Portlík po schůzce se STAN: Nevidím důvod jednat s Piráty a Prahou sobě",
-      "lead_en": "Lídr Spolu pro Prahu Tomáš Portlík po čtvrtečním jednání se STAN prohlásil, že už mu nedává smysl dále jednat s Prahou sobě a Piráty. Za něj je preferovanou variantou koalice pouze se STAN.",
-      "title_raw": "Portlík po schůzce se STAN: Nevidím důvod jednat s Piráty a Prahou sobě",
-      "lead_raw": "Lídr Spolu pro Prahu Tomáš Portlík po čtvrtečním jednání se STAN prohlásil, že už mu nedává smysl dále jednat s Prahou sobě a Piráty. Za něj je preferovanou variantou koalice pouze se STAN.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "75b254540ef673fc047fa9e43e760d59195f22da",
-      "fingerprint": "62e531ce833925f1db9a3aa6ab1a2db4a8743b16",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/snemovna-jedna-o-rade-mezinarodnich-smluv-schvalila-napriklad-policejni-spolupraci-se-slovenskem.A261015_111434_domaci_jira",
-      "published_utc": "2026-10-15T11:06:00Z",
-      "title_en": "Sněmovna schválila policejní spolupráci se Slovenskem. Umožní zásahy za hranicemi",
-      "lead_en": "Kromě čtvrtečních interpelací jednala Sněmovna také o řadě mezinárodních smluv. Mezi ty nejdůležitější patřila smlouva o policejní spolupráci se Slovenskem, která přináší například možnost vykonávat policejní činnost na území sousedního státu.",
-      "title_raw": "Sněmovna schválila policejní spolupráci se Slovenskem. Umožní zásahy za hranicemi",
-      "lead_raw": "Kromě čtvrtečních interpelací jednala Sněmovna také o řadě mezinárodních smluv. Mezi ty nejdůležitější patřila smlouva o policejní spolupráci se Slovenskem, která přináší například možnost vykonávat policejní činnost na území sousedního státu.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "869c552caefb911693d03d23a0c3c385dfdd0818",
-      "fingerprint": "ae7d40a42cb142fc9caa0ad1c0a301ac45459fc8",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/volby/jihlava/komunalni-volby-jihlava-koalice-tym-ods-stan-kdu-csl-radnice.A261015_110211_jihlava-volby_mv",
-      "published_utc": "2026-10-15T10:59:15Z",
-      "title_en": "V Jihlavě je jasno, vládnout bude Tým pro Jihlavu se STAN. ANO míří do opozice",
-      "lead_en": "Povolební vyjednávání v Jihlavě dospělo do finále. Vítězný Tým pro Jihlavu se dohodl na vytvoření koalice se STAN.",
-      "title_raw": "V Jihlavě je jasno, vládnout bude Tým pro Jihlavu se STAN. ANO míří do opozice",
-      "lead_raw": "Povolební vyjednávání v Jihlavě dospělo do finále. Vítězný Tým pro Jihlavu se dohodl na vytvoření koalice se STAN.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "efa450167f72f2643653b37c30dc8dc2ae350d97",
-      "fingerprint": "a86150a03175ffefa973b1e7b491764b1b8b32d2",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-prijmete-deportovane-migranty-nebo-vas-k-nam-prestaneme-poustet-pohrozila-eritrejcum-britanie-40602981",
-      "published_utc": "2026-10-15T10:24:34Z",
-      "title_en": "Přijměte deportované migranty, nebo vás k nám přestaneme pouštět, pohrozila Eritrejcům Británie",
-      "lead_en": "Britská vláda ve čtvrtek omezila pohyb eritrejských diplomatů a ukončila urychlené vyřizování žádostí o víza pro představitele této východoafrické země. Ministryně vnitra Shabana Mahmoodová zároveň pohrozila, že Eritrejcům zcela zakáže vstup do země, pokud jejich vláda nezačne přijímat více deportovaných migrantů.",
-      "title_raw": "Přijměte deportované migranty, nebo vás k nám přestaneme pouštět, pohrozila Eritrejcům Británie",
-      "lead_raw": "Britská vláda ve čtvrtek omezila pohyb eritrejských diplomatů a ukončila urychlené vyřizování žádostí o víza pro představitele této východoafrické země. Ministryně vnitra Shabana Mahmoodová zároveň pohrozila, že Eritrejcům zcela zakáže vstup do země, pokud jejich vláda nezačne přijímat více deportovaných migrantů.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "2774d56de69b11313082ca63b7dfb9ff5ce04a6a",
-      "fingerprint": "5aedd4087476b53bc900ff90d8508e222142221a",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/volby/online-v-teplicich-bude-pokracovat-vlada-ano-a-volby-pro-teplice-rychnov-vybral_2610151222_raf",
-      "published_utc": "2026-10-15T10:22:00Z",
-      "title_en": "ONLINE: V Teplicích bude pokračovat vláda ANO a Volby pro Teplice. Rychnov vybral starostku",
-      "lead_en": "V obcích probíhá pátý den povolebních vyjednávání. Ve čtvrtek o své vládě rozhodly například Teplice, kde bude dále pokračovat vláda ANO a Volby pro Teplice.",
-      "title_raw": "ONLINE: V Teplicích bude pokračovat vláda ANO a Volby pro Teplice. Rychnov vybral starostku",
-      "lead_raw": "V obcích probíhá pátý den povolebních vyjednávání. Ve čtvrtek o své vládě rozhodly například Teplice, kde bude dále pokračovat vláda ANO a Volby pro Teplice.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "9e0b3c4d8b2b6d1ed99b3d805da5333c253ee617",
-      "fingerprint": "d94d59c78ff38f3d700189b40f074a066086b377",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/volby/ostrava/patrioti-krnova-komunalni-volby-koalice-bala-dudova-krnov.A261015_113334_ostrava-volby_dmk",
-      "published_utc": "2026-10-15T09:52:00Z",
-      "title_en": "Vítězní Patrioti Krnova míří do opozice, novou starostkou bude Bala Dudová z ANO",
-      "lead_en": "Povolební vyjednávání v Krnově na Bruntálsku přinesla zásadní zvrat. Ačkoliv komunální volby vyhráli Patrioti Krnova, míří po osmi letech v čele města do opozice.",
-      "title_raw": "Vítězní Patrioti Krnova míří do opozice, novou starostkou bude Bala Dudová z ANO",
-      "lead_raw": "Povolební vyjednávání v Krnově na Bruntálsku přinesla zásadní zvrat. Ačkoliv komunální volby vyhráli Patrioti Krnova, míří po osmi letech v čele města do opozice.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "7d8bcc88708b76eed53f4bc6e7bb0c3602f1f7c5",
-      "fingerprint": "a758b48690edc7b388cbf27ddaeb51b459b24197",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/volby-komunalni-ano-v-marianskych-laznich-zrejme-udrzi-radnici-do-koalice-prizvalo-nase-cesko-40602952",
-      "published_utc": "2026-10-15T09:49:40Z",
-      "title_en": "ANO v Mariánských Lázních zřejmě udrží radnici. Do koalice přizvalo Naše Česko",
-      "lead_en": "Hnutí ANO zřejmě zůstane ve vedení Mariánských Lázní. Po několika dnech povolebního vyjednávání se dohodlo na koalici se Změnou pro Mariánské Lázně a hnutím Naše Česko.",
-      "title_raw": "ANO v Mariánských Lázních zřejmě udrží radnici. Do koalice přizvalo Naše Česko",
-      "lead_raw": "Hnutí ANO zřejmě zůstane ve vedení Mariánských Lázní. Po několika dnech povolebního vyjednávání se dohodlo na koalici se Změnou pro Mariánské Lázně a hnutím Naše Česko.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
