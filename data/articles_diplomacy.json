@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-18T01:46:11Z",
+  "updated_at_utc": "2026-10-18T06:42:54Z",
   "topic": "diplomacy",
-  "count": 56,
+  "count": 52,
   "articles": [
+    {
+      "id": "4a590ff25ff45dfd9bc27cd560143f6ea4d814b5",
+      "fingerprint": "f06abae572985ca5296f771d37ffac7343c9a0b2",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/novy-tygr-si-v-zoo-brno-zvykl-velmi-rychle-rad-pozoruje-navstevniky/2889477",
+      "published_utc": "2026-10-18T05:55:00Z",
+      "title_en": "Nový tygr si v Zoo Brno zvykl velmi rychle, rád pozoruje návštěvníky",
+      "lead_en": "Brno - Nový tygr sumaterský si v Zoo Brno zvykl velmi rychle, často odpočívá těsně u skla a pozoruje návštěvníky. Zoo zároveň vyjednává o příchodu samice, dorazit by měla z Indonésie.",
+      "title_raw": "Nový tygr si v Zoo Brno zvykl velmi rychle, rád pozoruje návštěvníky",
+      "lead_raw": "Brno - Nový tygr sumaterský si v Zoo Brno zvykl velmi rychle, často odpočívá těsně u skla a pozoruje návštěvníky. Zoo zároveň vyjednává o příchodu samice, dorazit by měla z Indonésie.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "1f1e12e9a4f3c7c8a25e958bf06c4cf1d16f149a",
       "fingerprint": "d22c807b7c75bc58a44bac4aebdbf462e1871a01",
@@ -1135,118 +1157,6 @@
       },
       "topics": [
         "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "2670e88eb549e6964d861e93c8938a6c05a937bb",
-      "fingerprint": "deda39a31fc7f46fb955171b36458ce6db1781b9",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/cesko-a-dalsi-staty-prosadily-do-zaveru-summitu-nove-pozadavky-na-ets/2888307",
-      "published_utc": "2026-10-16T06:38:00Z",
-      "title_en": "Česko a další státy prosadily do závěrů summitu nové požadavky na ETS",
-      "lead_en": "Brusel - Několika členským státům Evropské unie včetně Česka se do závěrů summitu EU podařilo dostat novou výzvu Evropské komisi, aby znovu vyhodnotila dopady systému emisních povolenek ETS2. Vyplývá...",
-      "title_raw": "Česko a další státy prosadily do závěrů summitu nové požadavky na ETS",
-      "lead_raw": "Brusel - Několika členským státům Evropské unie včetně Česka se do závěrů summitu EU podařilo dostat novou výzvu Evropské komisi, aby znovu vyhodnotila dopady systému emisních povolenek ETS2. Vyplývá...",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "0746edb13dc9491156a26b0ebafec2aa05fce875",
-      "fingerprint": "2b5ffc524e18338714760f5f72f0471b732d0351",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-nejsem-jeho-fanousek-trump-prohlasil-ze-se-zelenskym-uz-jednat-nechce-40603124",
-      "published_utc": "2026-10-16T06:04:51Z",
-      "title_en": "Nejsem jeho fanoušek. Trump prohlásil, že se Zelenským už jednat nechce",
-      "lead_en": "Americký prezident Donald Trump nechce jednat s prezidentem Volodymyrem Zelenským, protože je přesvědčen o tom, že ukrajinská hlava státu odmítá jednání s Ruskem. Šéf Bílého domu to řekl v rozhovoru pro televizní kanál Newsmax.",
-      "title_raw": "Nejsem jeho fanoušek. Trump prohlásil, že se Zelenským už jednat nechce",
-      "lead_raw": "Americký prezident Donald Trump nechce jednat s prezidentem Volodymyrem Zelenským, protože je přesvědčen o tom, že ukrajinská hlava státu odmítá jednání s Ruskem. Šéf Bílého domu to řekl v rozhovoru pro televizní kanál Newsmax.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "8581043d1edd90b68b1940295dfbc2fdb2daea53",
-      "fingerprint": "7916989fde19e715520826412bb513d0ef860404",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-drahy-benzin-zene-americany-k-hybridum-40602806",
-      "published_utc": "2026-10-16T05:00:00Z",
-      "title_en": "Drahý benzin žene Američany k hybridům",
-      "lead_en": "Zatímco Evropská unie krotí příliv čínských hybridů, Američané po hybridních autech sahají kvůli drahému benzinu. Unie se s Čínou dohodla, že na evropský trh smí ročně dorazit nejvýše 350 tisíc čínských hybridních vozů, tedy o víc než polovinu méně, než se čekalo letos.",
-      "title_raw": "Drahý benzin žene Američany k hybridům",
-      "lead_raw": "Zatímco Evropská unie krotí příliv čínských hybridů, Američané po hybridních autech sahají kvůli drahému benzinu. Unie se s Čínou dohodla, že na evropský trh smí ročně dorazit nejvýše 350 tisíc čínských hybridních vozů, tedy o víc než polovinu méně, než se čekalo letos.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "a47c12230aac25ac64749edccf30839a90fee3b7",
-      "fingerprint": "515a863029c316a01b5a692036cf1d7cd3fcb4bd",
-      "source": "Radio Prague International (EN)",
-      "url": "https://english.radio.cz/czechia-pushes-emissions-scheme-delay-eu-summit-exposes-divisions-8900135",
-      "published_utc": "2026-10-16T04:46:00Z",
-      "title_en": "Czechia pushes for emissions scheme delay as EU summit exposes divisions",
-      "lead_en": "Czechia pushes for emissions scheme delay as EU summit exposes divisions",
-      "title_raw": "Czechia pushes for emissions scheme delay as EU summit exposes divisions",
-      "lead_raw": "Czechia pushes for emissions scheme delay as EU summit exposes divisions",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "f112053be7e5cc80d3d28a40e0c1a0fd26340eab",
-      "fingerprint": "3f3bc1d8fffefa5088a5a7775de243de68a8868c",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/prvni-den-summitu-eu-skoncil-prezidenti-a-premieri-se-neshodli-zejmena-na-ets.A261016_063300_zahranicni_ijan",
-      "published_utc": "2026-10-16T04:40:00Z",
-      "title_en": "Česko a další země V4 chtějí odklad ETS2. V EU se přou o emisní povolenky",
-      "lead_en": "První den summitu Evropské unie v Bruselu skončil. Před půlnocí to oznámila mluvčí předsedy Evropské rady Antónia Costy.",
-      "title_raw": "Česko a další země V4 chtějí odklad ETS2. V EU se přou o emisní povolenky",
-      "lead_raw": "První den summitu Evropské unie v Bruselu skončil. Před půlnocí to oznámila mluvčí předsedy Evropské rady Antónia Costy.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
       ],
       "primary_topic": "diplomacy"
     }

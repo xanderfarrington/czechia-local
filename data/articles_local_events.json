@@ -1,10 +1,123 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-18T01:46:11Z",
+  "updated_at_utc": "2026-10-18T06:42:54Z",
   "topic": "local_events",
-  "count": 8,
+  "count": 12,
   "articles": [
+    {
+      "id": "66474d7135f2d2f66870095ab780ef71aa2beaf9",
+      "fingerprint": "b03073a28209e9ce5bb8659b7b810732883252b6",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/incident-vojenska-zakladna-kanada-pozar-obeti.A261018_073336_zahranicni_ikro",
+      "published_utc": "2026-10-18T05:47:00Z",
+      "title_en": "Vojenskou základnu v Kanadě zachvátil požár. Úřady hlásí mrtvé i raněné",
+      "lead_en": "Incident na vojenské základně v kanadské provincii Alberta si vyžádal mrtvé a raněné a způsobil rozsáhlý požár. Oznámil to v sobotu podle agentury AP kanadský ministr obrany David McGuinty, aniž by upřesnil, co přesně se stalo.\"S lítostí oznamuji, že v důsledku incidentu na základně došlo k úmrtím i zraněním,\" řekl ministr McGuinty.",
+      "title_raw": "Vojenskou základnu v Kanadě zachvátil požár. Úřady hlásí mrtvé i raněné",
+      "lead_raw": "Incident na vojenské základně v kanadské provincii Alberta si vyžádal mrtvé a raněné a způsobil rozsáhlý požár. Oznámil to v sobotu podle agentury AP kanadský ministr obrany David McGuinty, aniž by upřesnil, co přesně se stalo.\"S lítostí oznamuji, že v důsledku incidentu na základně došlo k úmrtím i zraněním,\" řekl ministr McGuinty.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "3da5b21895dbc5392b52a7bb36d7c5ea36c5bb6c",
+      "fingerprint": "c8b2536505085b9a5020565f2f500aeba36585aa",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-svet-rozsahly-pozar-na-kanadske-vojenske-zakladne-na-miste-jsou-mrtvi-40603462",
+      "published_utc": "2026-10-18T05:45:12Z",
+      "title_en": "Rozsáhlý požár na kanadské vojenské základně, na místě jsou mrtví",
+      "lead_en": "Incident na vojenské základně v kanadské provincii Alberta si vyžádal mrtvé a raněné a způsobil rozsáhlý požár. Oznámil to v sobotu podle agentury AP kanadský ministr obrany David McGuinty, aniž by upřesnil, co přesně se stalo.",
+      "title_raw": "Rozsáhlý požár na kanadské vojenské základně, na místě jsou mrtví",
+      "lead_raw": "Incident na vojenské základně v kanadské provincii Alberta si vyžádal mrtvé a raněné a způsobil rozsáhlý požár. Oznámil to v sobotu podle agentury AP kanadský ministr obrany David McGuinty, aniž by upřesnil, co přesně se stalo.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "a756ced1cbf014f11faf93098e3a59cfff5f7171",
+      "fingerprint": "31e72911ad83d227fbab25b977766307d8def265",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/francie-protesty-policie-sobota-pariz-demonstrace.A261018_071044_zahranicni_ikro",
+      "published_utc": "2026-10-18T05:26:00Z",
+      "title_en": "Zranění policisté, rabování i požáry. Ve Francii při protestech zadrželi 1 200 lidí",
+      "lead_en": "Násilnosti, které v sobotu provázely v některých francouzských městech celostátní demonstrace, si vyžádaly 150 zraněných policistů a četníků, 1 200 lidí bylo zadrženo. Oznámil to v sobotu pozdě večer francouzský premiér Sébastien Lecornu.",
+      "title_raw": "Zranění policisté, rabování i požáry. Ve Francii při protestech zadrželi 1 200 lidí",
+      "lead_raw": "Násilnosti, které v sobotu provázely v některých francouzských městech celostátní demonstrace, si vyžádaly 150 zraněných policistů a četníků, 1 200 lidí bylo zadrženo. Oznámil to v sobotu pozdě večer francouzský premiér Sébastien Lecornu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "0d1d633ddc570533ed232de1321cfb0115f6b921",
+      "fingerprint": "683d53b6e8b129b1d65cf72f63f9524e6f8f1225",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/incident-na-vojenske-zakladne-v-kanade-si-vyzadal-obeti-zpusobil-i-pozar-378750",
+      "published_utc": "2026-10-18T03:05:58Z",
+      "title_en": "Incident na vojenské základně v Kanadě si vyžádal oběti, způsobil i požár",
+      "lead_en": "Incident na vojenské základně v kanadské provincii Alberta si vyžádal mrtvé a raněné a způsobil rozsáhlý požár. Oznámil to v sobotu podle agentury AP kanadský ministr obrany David McGuinty, neupřesnil však, co přesně se stalo.",
+      "title_raw": "Incident na vojenské základně v Kanadě si vyžádal oběti, způsobil i požár",
+      "lead_raw": "Incident na vojenské základně v kanadské provincii Alberta si vyžádal mrtvé a raněné a způsobil rozsáhlý požár. Oznámil to v sobotu podle agentury AP kanadský ministr obrany David McGuinty, neupřesnil však, co přesně se stalo.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "1eace36fb75587d69b5a3ba62ab9861fe1291ac1",
+      "fingerprint": "146ba942b9f1c91b23d3e08ec13abc9fe21e45de",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/vuz-v-americke-wichite-vjel-na-fotbalove-hriste-behem-zapasu-dva-lide-zemreli-378749",
+      "published_utc": "2026-10-18T02:16:53Z",
+      "title_en": "Vůz v americké Wichitě vjel na fotbalové hřiště během zápasu, dva lidé zemřeli",
+      "lead_en": "Dvě oběti si vyžádal incident, při němž nákladní automobil v sobotu ve městě Wichita v americkém státě Kansas projel přes fotbalové hřiště během utkání. Mezi mrtvými je šestiletý chlapec, řidič je ve vazbě, informovala podle agentury Reuters policie.",
+      "title_raw": "Vůz v americké Wichitě vjel na fotbalové hřiště během zápasu, dva lidé zemřeli",
+      "lead_raw": "Dvě oběti si vyžádal incident, při němž nákladní automobil v sobotu ve městě Wichita v americkém státě Kansas projel přes fotbalové hřiště během utkání. Mezi mrtvými je šestiletý chlapec, řidič je ve vazbě, informovala podle agentury Reuters policie.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "8588cbc13b86af8e3c8497f25b7ac438d8f994b6",
       "fingerprint": "6105633fe6aca170af646515a6d403d69b8b75f9",
@@ -157,28 +270,6 @@
       },
       "topics": [
         "energy",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "16a949ac078f0260df312ff336b8b0ee319a6e2a",
-      "fingerprint": "8c8d858beb157d5ba949aa85ca2fe93402f45d67",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/pocasi-bourky-zaplavily-istanbul-voda-unasela-auta-ulicemi-40602901",
-      "published_utc": "2026-10-16T04:30:00Z",
-      "title_en": "Bouřky zaplavily Istanbul, voda unášela auta ulicemi",
-      "lead_en": "Ve středu zasáhly turecký Istanbul silné bouřky, které způsobily záplavy. Velké množství vody zaplavilo ulice a ve svažitém terénu voda unášela auta ulicemi města.",
-      "title_raw": "Bouřky zaplavily Istanbul, voda unášela auta ulicemi",
-      "lead_raw": "Ve středu zasáhly turecký Istanbul silné bouřky, které způsobily záplavy. Velké množství vody zaplavilo ulice a ve svažitém terénu voda unášela auta ulicemi města.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
         "local_events"
       ],
       "primary_topic": "local_events"
