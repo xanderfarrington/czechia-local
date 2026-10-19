@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-19T15:56:13Z",
+  "updated_at_utc": "2026-10-19T20:47:47Z",
   "topic": "economy",
   "count": 13,
   "articles": [
+    {
+      "id": "f2f5ec6533fb898315199ec19ec59545db32a67e",
+      "fingerprint": "671d2b4f800ca69a3b1cfc0cb763bead905cf686",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/jablka-rakousko-supermarket-odruda.A261019_142922_eko-zahranicni_elsy",
+      "published_utc": "2026-10-19T16:10:00Z",
+      "title_en": "Rakouský supermarket obnovuje zapomenuté odrůdy jablek. První sklidil minulý týden",
+      "lead_en": "Z přibližně 2 000 odrůd jablek, které se v Rakousku pěstují, se jich do supermarketu dostane asi jen deset. Řetězce proto začínají spolupracovat s distributory, aby do obchodů neobvyklé či dávno zapomenuté druhy vrátily.",
+      "title_raw": "Rakouský supermarket obnovuje zapomenuté odrůdy jablek. První sklidil minulý týden",
+      "lead_raw": "Z přibližně 2 000 odrůd jablek, které se v Rakousku pěstují, se jich do supermarketu dostane asi jen deset. Řetězce proto začínají spolupracovat s distributory, aby do obchodů neobvyklé či dávno zapomenuté druhy vrátily.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "b6b18dd85556fa568ad839d1d0696990017ad46b",
       "fingerprint": "6c308040a9b663d19c301e531d5719ff5d0cd773",
@@ -268,29 +290,6 @@
       },
       "topics": [
         "military",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "7d6e0aa0f48765b36ff52686c7ae560f796d592b",
-      "fingerprint": "4f4b2ab850f056ed637a1e70a5e01d3457b1bad5",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-premier-magyar-chce-ziskat-dalsi-rocni-vyjimku-pro-dovoz-ruske-ropy-40603342",
-      "published_utc": "2026-10-17T18:41:08Z",
-      "title_en": "Premiér Magyar chce získat další roční výjimku pro dovoz ruské ropy",
-      "lead_en": "Maďarsko má do listopadu platnou výjimku na dovoz ruské ropy a premiér Péter Magyar (Tisza) chce dosáhnout prodloužení této výjimky alespoň o další rok. Budapešť k tomu chce využít situaci, kdy americký prezident Donald Trump uzavřel s Moskvou dohodu o dodávkách ruské nafty na americký i světový trh.",
-      "title_raw": "Premiér Magyar chce získat další roční výjimku pro dovoz ruské ropy",
-      "lead_raw": "Maďarsko má do listopadu platnou výjimku na dovoz ruské ropy a premiér Péter Magyar (Tisza) chce dosáhnout prodloužení této výjimky alespoň o další rok. Budapešť k tomu chce využít situaci, kdy americký prezident Donald Trump uzavřel s Moskvou dohodu o dodávkách ruské nafty na americký i světový trh.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
         "economy"
       ],
       "primary_topic": "economy"
