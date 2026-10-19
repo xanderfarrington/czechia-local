@@ -1,10 +1,33 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-19T08:09:49Z",
+  "updated_at_utc": "2026-10-19T15:56:13Z",
   "topic": "local_events",
-  "count": 14,
+  "count": 13,
   "articles": [
+    {
+      "id": "1d6107f1f0475f3ecfc8c2a37da07571b2f1f747",
+      "fingerprint": "686af69ec80f6d43594f51d07d5a825ef5bbcd4d",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-tri-strely-huthiu-dopadly-na-vojensky-tabor-na-jihu-jemenu-nejmene-53-mrtvych-318242",
+      "published_utc": "2026-10-19T13:54:51Z",
+      "title_en": "Tři střely Húthíů dopadly na vojenský tábor na jihu Jemenu. Nejméně 53 mrtvých",
+      "lead_en": "Cílem střel Húthíů byl vládní vojenský a policejní výcvikový tábor Al - Alam, zemřelo minimálně 53 lidí. Obětmi jsou zejména mladí rekruti, zraněno je přibližně 200 lidí.",
+      "title_raw": "Tři střely Húthíů dopadly na vojenský tábor na jihu Jemenu. Nejméně 53 mrtvých",
+      "lead_raw": "Cílem střel Húthíů byl vládní vojenský a policejní výcvikový tábor Al - Alam, zemřelo minimálně 53 lidí. Obětmi jsou zejména mladí rekruti, zraněno je přibližně 200 lidí.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "e151d55cd757228a70f3daa1bb85cea7e0b35b1c",
       "fingerprint": "cdb9c0e70a3d3f459b4d3b8a5cb49b9f82ed35b8",
@@ -260,50 +283,6 @@
       "lead_en": "Na silnici z Teplé směrem do Mariánských Lázní došlo v sobotu večer k vážné dopravní nehodě dvou osobních vozidel. Na místě zasahovaly všechny složky IZS, pro jednoho z řidičů přiletěl vrtulník záchranné služby.",
       "title_raw": "Vážná nehoda u Mariánských Lázní. Jednoho z řidičů transportoval do nemocnice vrtulník",
       "lead_raw": "Na silnici z Teplé směrem do Mariánských Lázní došlo v sobotu večer k vážné dopravní nehodě dvou osobních vozidel. Na místě zasahovaly všechny složky IZS, pro jednoho z řidičů přiletěl vrtulník záchranné služby.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "6562ba89ee66f0334b10637c06f7bfb3342e942d",
-      "fingerprint": "6f36948687b4a14e6750ca5be756f9d8d287c9a2",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/po-pozaru-chaty-u-prahy-skoncil-v-nemocnici-clovek-s-tezkymi-popaleninami_2610171047_bod",
-      "published_utc": "2026-10-17T08:47:00Z",
-      "title_en": "Po požáru chaty u Prahy skončil v nemocnici člověk s těžkými popáleninami. Příčina se vyšetřuje",
-      "lead_en": "Při pátečním požáru chaty v Lukách pod Medníkem u Prahy utrpěl jeden člověk těžké popáleniny. Záchranáři ho letecky přepravili do pražské Fakultní nemocnice Královské Vinohrady.",
-      "title_raw": "Po požáru chaty u Prahy skončil v nemocnici člověk s těžkými popáleninami. Příčina se vyšetřuje",
-      "lead_raw": "Při pátečním požáru chaty v Lukách pod Medníkem u Prahy utrpěl jeden člověk těžké popáleniny. Záchranáři ho letecky přepravili do pražské Fakultní nemocnice Královské Vinohrady.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "5e54fbcac6784fef581ea396bece865ee3f50892",
-      "fingerprint": "04667ffbb6364e41725f47b43f37c43d9ad04656",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/liberec/zpravy/dopravni-nehoda-nakladni-automobil-hzs-lk-frydstejn-hasici-doprava.A261017_093804_liberec-zpravy_lav",
-      "published_utc": "2026-10-17T08:17:00Z",
-      "title_en": "Nákladní automobil se na Jablonecku zaklínil mezi svodidly a zablokoval silnici",
-      "lead_en": "Nákladní automobil, který se v sobotu brzy ráno zaklínil mezi svodidly, zcela zablokoval silnici I/10 v části obce Frýdštejn na Jablonecku. Řidič vyvázl bez zranění, likvidace dopravní nehody zabrala turnovským profesionálním hasičům tři hodiny.",
-      "title_raw": "Nákladní automobil se na Jablonecku zaklínil mezi svodidly a zablokoval silnici",
-      "lead_raw": "Nákladní automobil, který se v sobotu brzy ráno zaklínil mezi svodidly, zcela zablokoval silnici I/10 v části obce Frýdštejn na Jablonecku. Řidič vyvázl bez zranění, likvidace dopravní nehody zabrala turnovským profesionálním hasičům tři hodiny.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
