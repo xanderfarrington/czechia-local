@@ -1,10 +1,143 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-20T08:56:30Z",
+  "updated_at_utc": "2026-10-20T13:58:49Z",
   "topic": "economy",
-  "count": 14,
+  "count": 20,
   "articles": [
+    {
+      "id": "2392233a4d6de4e298673440a412323d9a8823a2",
+      "fingerprint": "3f38f1b0ff7c356ee4263f7cfd49ee2b65b41036",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-policie-vysetruje-trdelnikovy-twist-fransizanti-skupinu-podeziraji-z-podvodu-318244",
+      "published_utc": "2026-10-20T13:35:00Z",
+      "title_en": "Policie vyšetřuje trdelníkový Twist. Franšízanti skupinu podezírají z podvodu",
+      "lead_en": "Policisté vyšetřují holding Twist, který nabízel licence na provozovny Trdlokafe, Bubblify nebo Kytky od Pepy jako výhodnou investici. Řada franšízantů tvrdí, že výkon provozoven neodpovídal slibům, další obchod vůbec nedostali.",
+      "title_raw": "Policie vyšetřuje trdelníkový Twist. Franšízanti skupinu podezírají z podvodu",
+      "lead_raw": "Policisté vyšetřují holding Twist, který nabízel licence na provozovny Trdlokafe, Bubblify nebo Kytky od Pepy jako výhodnou investici. Řada franšízantů tvrdí, že výkon provozoven neodpovídal slibům, další obchod vůbec nedostali.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "28e622b924112db981bdfefd0985321d7d950dc4",
+      "fingerprint": "03cd1868a0d4949ff5b1691e2bad58fbc84fca29",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/cena-plynu-pro-evropsky-trh-poprve-za-temer-ctyri-roky-prekrocila-90-eur-za-mwh/2890524",
+      "published_utc": "2026-10-20T13:33:00Z",
+      "title_en": "Cena plynu pro evropský trh poprvé za téměř čtyři roky překročila 90 eur za MWh",
+      "lead_en": "Amsterodam - Velkoobchodní cena plynu pro evropský trh dnes poprvé za téměř čtyři roky překročila hranici 90 eur (zhruba 2200 Kč) za megawatthodinu (MWh). Za jejím růstem stojí pokračující výpadky v dodávkách...",
+      "title_raw": "Cena plynu pro evropský trh poprvé za téměř čtyři roky překročila 90 eur za MWh",
+      "lead_raw": "Amsterodam - Velkoobchodní cena plynu pro evropský trh dnes poprvé za téměř čtyři roky překročila hranici 90 eur (zhruba 2200 Kč) za megawatthodinu (MWh). Za jejím růstem stojí pokračující výpadky v dodávkách...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "01746674209f4eb3b2d09eba75309e53cf48a29f",
+      "fingerprint": "4ad7770c818f6640f7a281d80ba7fc62f21e382a",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-vlada-se-zadluzuje-jako-by-byla-krize-kritizuje-rozpocet-opozice-40603855",
+      "published_utc": "2026-10-20T13:14:09Z",
+      "title_en": "Vláda se zadlužuje, jako by byla krize, kritizuje rozpočet opozice",
+      "lead_en": "Koalice ANO, SPD a Motoristů podle opozice sestavila státní rozpočet na příští rok tak, jako by Česko čelilo hospodářské krizi. Přestože vláda počítá se schodkem 386 miliard korun, Piráti před středečním prvním čtením ve Sněmovně varovali, že ve skutečnosti může být o více než 50 miliard vyšší.",
+      "title_raw": "Vláda se zadlužuje, jako by byla krize, kritizuje rozpočet opozice",
+      "lead_raw": "Koalice ANO, SPD a Motoristů podle opozice sestavila státní rozpočet na příští rok tak, jako by Česko čelilo hospodářské krizi. Přestože vláda počítá se schodkem 386 miliard korun, Piráti před středečním prvním čtením ve Sněmovně varovali, že ve skutečnosti může být o více než 50 miliard vyšší.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "6dd42d77602f66277e0532d68b19c443fffb2118",
+      "fingerprint": "1ad924986ed8110ea137009f1463442f7e21b5bf",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/rozpocet-na-pristi-rok-je-podle-opozice-sestaveny-tak-jako-by-byla-krize/2890454",
+      "published_utc": "2026-10-20T12:07:00Z",
+      "title_en": "Rozpočet na příští rok je podle opozice sestavený tak, jako by byla krize",
+      "lead_en": "Praha - Návrh státního rozpočtu na příští rok je podle opozičních stran sestavený jako pro krizový rok, i když není krize. Předseda Pirátů Zdeněk Hřib na tiskové konferenci ve Sněmovně řekl, že deficit...",
+      "title_raw": "Rozpočet na příští rok je podle opozice sestavený tak, jako by byla krize",
+      "lead_raw": "Praha - Návrh státního rozpočtu na příští rok je podle opozičních stran sestavený jako pro krizový rok, i když není krize. Předseda Pirátů Zdeněk Hřib na tiskové konferenci ve Sněmovně řekl, že deficit...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "8e46e6c942d9cd2077beaba2ecaf7fdb545bd8a0",
+      "fingerprint": "87740f620ecb7b86ef84f691c3eca9bfcbd34240",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/poslanci-by-se-meli-venovat-snizeni-podpory-v-nezamestnanosti-378819",
+      "published_utc": "2026-10-20T12:01:17Z",
+      "title_en": "Poslanci by se měli věnovat snížení podpory v nezaměstnanosti",
+      "lead_en": "Debatou o vládním návrhu na snížení podpory v nezaměstnanosti by měla odpoledne pokračovat řádná schůze sněmovny. Jde o úvodní kolo pro tuto normu.",
+      "title_raw": "Poslanci by se měli věnovat snížení podpory v nezaměstnanosti",
+      "lead_raw": "Debatou o vládním návrhu na snížení podpory v nezaměstnanosti by měla odpoledne pokračovat řádná schůze sněmovny. Jde o úvodní kolo pro tuto normu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "10722caea6fc13f42414e34754bd30d7fbd3d8a2",
+      "fingerprint": "1407b40504f2bdd39def04405bfe10b1f12b56bd",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-chteji-dokoncit-co-zacali-manazer-popsal-vyrabovani-obchodu-v-parizi-318294",
+      "published_utc": "2026-10-20T10:40:00Z",
+      "title_en": "„Chtějí dokončit, co začali.“ Manažer popsal vyrabování obchodu v Paříži",
+      "lead_en": "Víkendové nepokoje ve Francii zasáhly na tři tisíce obchodů. Manažer vyrabovaného supermarketu v Paříži popsal, jak výtržníci využili odjezdu policie a vrátili se pokračovat v ničení.",
+      "title_raw": "„Chtějí dokončit, co začali.“ Manažer popsal vyrabování obchodu v Paříži",
+      "lead_raw": "Víkendové nepokoje ve Francii zasáhly na tři tisíce obchodů. Manažer vyrabovaného supermarketu v Paříži popsal, jak výtržníci využili odjezdu policie a vrátili se pokračovat v ničení.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "cc16c061eb72ee41beaeaed681049dca7da9ade9",
       "fingerprint": "3965fa960b36427402f6f65de98d5cb14082d657",
