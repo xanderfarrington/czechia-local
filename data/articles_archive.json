@@ -1,9 +1,647 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-20T18:18:57Z",
-  "count": 10450,
+  "updated_at_utc": "2026-10-20T21:58:20Z",
+  "count": 10482,
   "articles": [
+    {
+      "id": "bf63c2904681f62f7f5ff958da60ec6ce81260dc",
+      "fingerprint": "bdf649d3f22313fc9c9be6e9a07af604416a07e9",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-trump-dal-zostruje-retoriku-proti-ukrajine-40603927",
+      "published_utc": "2026-10-20T21:38:44Z",
+      "title_en": "Trump dál zostřuje rétoriku proti Ukrajině",
+      "lead_en": "Americký prezident Donald Trump v úterý prohlásil, že Ukrajina se musí snažit uzavřít mír, jinak „to s ní dopadne velmi špatně“. Rusko podle něj zabralo velký kus země a pokračuje v tom.",
+      "title_raw": "Trump dál zostřuje rétoriku proti Ukrajině",
+      "lead_raw": "Americký prezident Donald Trump v úterý prohlásil, že Ukrajina se musí snažit uzavřít mír, jinak „to s ní dopadne velmi špatně“. Rusko podle něj zabralo velký kus země a pokračuje v tom.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "9120d12ab58ca1cf1f6ad57e7e0a24b7d8942afd",
+      "fingerprint": "388d8e4e2dbad0719d7f28fd06b52aacfe60213c",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/trump-usa-ukrajina-rusko-dohoda-ukonceni-valky-putin-zelenskyj.A261020_224830_zahranicni_mikp",
+      "published_utc": "2026-10-20T21:03:00Z",
+      "title_en": "Ukrajina překáží konci války, sama musí chtít to urovnat, řekl Trump",
+      "lead_en": "Americký prezident Donald Trump v úterý opět přitvrdil svou rétoriku vůči Ukrajině, kterou líčí jako překážku ukončení války, a napadenou zemi vyzval, aby s Ruskem uzavřela dohodu. Zároveň naznačil, že by mohlo brzy dojít k posunu v případu v Rusku vězněného Američana Stephena Hubbarda, o jehož případu podle svých slov mluvil se svým ruským protějškem Vladimirem Putinem.",
+      "title_raw": "Ukrajina překáží konci války, sama musí chtít to urovnat, řekl Trump",
+      "lead_raw": "Americký prezident Donald Trump v úterý opět přitvrdil svou rétoriku vůči Ukrajině, kterou líčí jako překážku ukončení války, a napadenou zemi vyzval, aby s Ruskem uzavřela dohodu. Zároveň naznačil, že by mohlo brzy dojít k posunu v případu v Rusku vězněného Američana Stephena Hubbarda, o jehož případu podle svých slov mluvil se svým ruským protějškem Vladimirem Putinem.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "8415025b924cf6540831dc520f1d0a1ada3e2e89",
+      "fingerprint": "e63e594b87fc8786eea92235355ea90598a426d3",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-trump-zopakoval-ze-se-ukrajina-musi-chtit-dohodnout-s-ruskem-na-ukonceni-valky-318360",
+      "published_utc": "2026-10-20T21:01:24Z",
+      "title_en": "Trump zopakoval, že se Ukrajina musí chtít dohodnout s Ruskem na ukončení války",
+      "lead_en": "Donald Trump znovu vyzval Ukrajinu, aby s Ruskem uzavřela dohodu. Před novináři v Oválné pracovně také mluvil o vězněném Američanovi Stephenovi Hubbardovi, jeho případ prý probíral s Vladimirem Putinem.",
+      "title_raw": "Trump zopakoval, že se Ukrajina musí chtít dohodnout s Ruskem na ukončení války",
+      "lead_raw": "Donald Trump znovu vyzval Ukrajinu, aby s Ruskem uzavřela dohodu. Před novináři v Oválné pracovně také mluvil o vězněném Američanovi Stephenovi Hubbardovi, jeho případ prý probíral s Vladimirem Putinem.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "8e5131f6187fb63684021ec3174ab3caf27ab002",
+      "fingerprint": "8171de90ecf2a41505a0f78474d9cf76f8f43f76",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-drama-na-letisti-v-lime-letadlo-zacalo-tesne-pred-startem-horet-cestujici-stihli-airbus-opustit-40603854",
+      "published_utc": "2026-10-20T20:57:00Z",
+      "title_en": "Drama na letišti v Limě. Letadlo začalo těsně před startem hořet, cestující stihli airbus opustit",
+      "lead_en": "Dramatické okamžiky, které mohly vyústit v nezměrnou tragédii, zažili v pondělí na letišti v Limě cestující letadla společnosti LATAM. Airbus se právě chystal odstartovat do města Piura na severu země, když z prostoru pod levým křídlem náhle vyšlehly plameny.",
+      "title_raw": "Drama na letišti v Limě. Letadlo začalo těsně před startem hořet, cestující stihli airbus opustit",
+      "lead_raw": "Dramatické okamžiky, které mohly vyústit v nezměrnou tragédii, zažili v pondělí na letišti v Limě cestující letadla společnosti LATAM. Airbus se právě chystal odstartovat do města Piura na severu země, když z prostoru pod levým křídlem náhle vyšlehly plameny.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "b2676793edc5a18cded39479ed1233485942a01d",
+      "fingerprint": "6efcdddd8bc966dfd035018716d16f03fb6f013b",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-svet-dalsi-tri-tankery-vzplaly-v-hormuzskem-prulivu-po-najeti-do-min-tvrdi-iranske-gardy-40603926",
+      "published_utc": "2026-10-20T20:29:33Z",
+      "title_en": "Další tři tankery vzplály v Hormuzském průlivu po najetí do min, tvrdí iránské gardy",
+      "lead_en": "V oblasti Hormuzského průlivu v úterý vypukly požáry na třech tankerech, které narazily do námořních min. Podle agentury AFP to oznámily íránské revoluční gardy.",
+      "title_raw": "Další tři tankery vzplály v Hormuzském průlivu po najetí do min, tvrdí iránské gardy",
+      "lead_raw": "V oblasti Hormuzského průlivu v úterý vypukly požáry na třech tankerech, které narazily do námořních min. Podle agentury AFP to oznámily íránské revoluční gardy.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "f1dd54f0ab5281cba0fa7bb4f4b1d8e10a969079",
+      "fingerprint": "d87a88912033c44c27c8a81ab6e3edb35bdcbab0",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/pocasi-extremni-bourky-na-korsice-za-tri-hodiny-naprselo-pres-400-litru-vody-40603853",
+      "published_utc": "2026-10-20T20:29:22Z",
+      "title_en": "Extrémní bouřky na Korsice. Za tři hodiny napršelo přes 400 litrů vody",
+      "lead_en": "Mimořádně silné stacionární bouřky zasáhly v úterý francouzský ostrov Korsika. Na jeho východním pobřeží spadlo během pouhých tří hodin přes 400 litrů vody na metr čtvereční, čímž byl překonán dosavadní národní rekord.",
+      "title_raw": "Extrémní bouřky na Korsice. Za tři hodiny napršelo přes 400 litrů vody",
+      "lead_raw": "Mimořádně silné stacionární bouřky zasáhly v úterý francouzský ostrov Korsika. Na jeho východním pobřeží spadlo během pouhých tří hodin přes 400 litrů vody na metr čtvereční, čímž byl překonán dosavadní národní rekord.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "4eecbe184a9a5032a447c0168cfd899d348bcdac",
+      "fingerprint": "9ac7c29b77abc4783327ca6a1d5e56ae5be03aaf",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/grolich-je-pro-me-inspiraci-takovy-impuls-jako-u-lidovcu-jsem-v-top-09-necitil_2610202216_dns",
+      "published_utc": "2026-10-20T20:16:00Z",
+      "title_en": "Grolich je pro mě inspirací. Takový impulz jako u lidovců jsem v TOP 09 necítil, říká odcházející Sovka",
+      "lead_en": "Předseda jihomoravské TOP 09 Marek Sovka, který je zároveň náměstkem jihomoravského hejtmana, se v úterý rozhodl opustit stranu a přidat se ke KDU-ČSL. Jeho kroky následovali někteří další straníci z regionu.",
+      "title_raw": "Grolich je pro mě inspirací. Takový impulz jako u lidovců jsem v TOP 09 necítil, říká odcházející Sovka",
+      "lead_raw": "Předseda jihomoravské TOP 09 Marek Sovka, který je zároveň náměstkem jihomoravského hejtmana, se v úterý rozhodl opustit stranu a přidat se ke KDU-ČSL. Jeho kroky následovali někteří další straníci z regionu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c14a91f0b259a2f088d30f28b9f49f326f7526fe",
+      "fingerprint": "b354232c55e338a9868b7c0e79ec5acc460537bf",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/pred-dvema-lety-vyhorel-opravy-pokracuji-verejna-sbirka-na-obnovu-prinesla-pres_2610202214_tez",
+      "published_utc": "2026-10-20T20:14:00Z",
+      "title_en": "Před dvěma lety vyhořel, opravy pokračují. Veřejná sbírka na obnovu přinesla přes dva miliony korun",
+      "lead_en": "Veřejná sbírka na opravu kostela Nanebevzetí Panny Marie v Chlumu u Třeboně končí 31. října.",
+      "title_raw": "Před dvěma lety vyhořel, opravy pokračují. Veřejná sbírka na obnovu přinesla přes dva miliony korun",
+      "lead_raw": "Veřejná sbírka na opravu kostela Nanebevzetí Panny Marie v Chlumu u Třeboně končí 31. října.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "432aaf0001124ef547da5eb3c7a9134570e11fc1",
+      "fingerprint": "67e76f835782a0367bb635a477b40348b542a066",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/wsj-firma-anthropic-v-pololeti-vykazala-ztratu-pres-80-miliard-dolaru/2890711",
+      "published_utc": "2026-10-20T20:07:00Z",
+      "title_en": "WSJ: Firma Anthropic v pololetí vykázala ztrátu přes 80 miliard dolarů",
+      "lead_en": "New York - Americká společnost Anthropic, která patří mezi hlavní hráče v oblasti umělé inteligence (AI), vykázala v letošním prvním pololetí čistou ztrátu přes 80 miliard dolarů (zhruba 1,7 bilionu Kč)....",
+      "title_raw": "WSJ: Firma Anthropic v pololetí vykázala ztrátu přes 80 miliard dolarů",
+      "lead_raw": "New York - Americká společnost Anthropic, která patří mezi hlavní hráče v oblasti umělé inteligence (AI), vykázala v letošním prvním pololetí čistou ztrátu přes 80 miliard dolarů (zhruba 1,7 bilionu Kč)....",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "26894fcd5396f3b3719b6e690ef0a2b59b8bf1e5",
+      "fingerprint": "9ec1b7a91caa37838361ef3ae5c9d99f9605ca9d",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/bezpecnostni-rada-statu-probrala-vypadky-proudu-i-navysovani-poctu-vojaku-378844",
+      "published_utc": "2026-10-20T20:00:00Z",
+      "title_en": "Bezpečnostní rada státu probrala výpadky proudu i navyšování počtu vojáků",
+      "lead_en": "Bezpečnostní rada státu za účasti prezidenta hodnotila aktuální situaci doma i ve světě a možná rizika pro další vývoj. Stupeň ohrožení terorismem ponechala mírný, probrala například opatření, jak zajistit elektronické služby během rozsáhlých výpadků proudu, nebo koncepci výstavby armády do roku 2040, podle níž má vojsko posilovat.",
+      "title_raw": "Bezpečnostní rada státu probrala výpadky proudu i navyšování počtu vojáků",
+      "lead_raw": "Bezpečnostní rada státu za účasti prezidenta hodnotila aktuální situaci doma i ve světě a možná rizika pro další vývoj. Stupeň ohrožení terorismem ponechala mírný, probrala například opatření, jak zajistit elektronické služby během rozsáhlých výpadků proudu, nebo koncepci výstavby armády do roku 2040, podle níž má vojsko posilovat.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "675ba4966d512e324cc6b117d7efb097c2ca2bdc",
+      "fingerprint": "83d1a813ca8c1175937fdedc6e95c175f34c1da3",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-nigerie-oznamila-prvni-pripad-nakazy-ebolou-u-zeny-ktera-priletela-z-ugandy-318359",
+      "published_utc": "2026-10-20T19:54:31Z",
+      "title_en": "Nigérie oznámila první případ nákazy ebolou u ženy, která přiletěla z Ugandy",
+      "lead_en": "Nigérie hlásí první případ eboly na svém území. Od května čelí epidemii eboly Kongo, kde si nemoc od té doby vyžádala tisíce nakažených a mrtvých.",
+      "title_raw": "Nigérie oznámila první případ nákazy ebolou u ženy, která přiletěla z Ugandy",
+      "lead_raw": "Nigérie hlásí první případ eboly na svém území. Od května čelí epidemii eboly Kongo, kde si nemoc od té doby vyžádala tisíce nakažených a mrtvých.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "f2bd129abb6af68324b697cd050edb40dd3095ca",
+      "fingerprint": "8847a2b102a56a67e6b1018301870b01e5f0d2c2",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-na-neobsazene-misto-v-rade-cro-zvolila-snemovna-jiru-dittrich-neuspel-318358",
+      "published_utc": "2026-10-20T19:50:43Z",
+      "title_en": "Na neobsazené místo v Radě ČRo zvolila Sněmovna Jíru, Dittrich neuspěl",
+      "lead_en": "Volné místo v Radě Českého rozhlasu obsadí moderátor a influencer Jakub Jíra. Jeho šestileté funkční období začalo dnem volby.",
+      "title_raw": "Na neobsazené místo v Radě ČRo zvolila Sněmovna Jíru, Dittrich neuspěl",
+      "lead_raw": "Volné místo v Radě Českého rozhlasu obsadí moderátor a influencer Jakub Jíra. Jeho šestileté funkční období začalo dnem volby.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "66fb656ddba986a308588b47bdd525d5b4c55be5",
+      "fingerprint": "98596675a380b56093aaf21309873d54c8fcfb2e",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/sport-fotbal-slavia-udelala-prvni-krok-do-nove-ery-v-lize-mistru-trefila-sladkou-remizu-318333",
+      "published_utc": "2026-10-20T19:46:05Z",
+      "title_en": "Slavia udělala první krok do nové éry. V Lize mistrů trefila sladkou remízu",
+      "lead_en": "Rozdali si to na férovku s nadupaným Fenerbahce Istanbul a sladce vyrovnali v 90. minutě na 2:2.",
+      "title_raw": "Slavia udělala první krok do nové éry. V Lize mistrů trefila sladkou remízu",
+      "lead_raw": "Rozdali si to na férovku s nadupaným Fenerbahce Istanbul a sladce vyrovnali v 90. minutě na 2:2.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "6299b0bf59bc752740c813103b2524591db404af",
+      "fingerprint": "c4f31bb7f28b58153d260eb6acf840c3d1b34c38",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/volby/hradec-kralove-povede-koalice-v-cele-s-hdk-a-top-09-ods-zamiri-do-opozice_2610202145_elv",
+      "published_utc": "2026-10-20T19:45:00Z",
+      "title_en": "Hradec Králové povede koalice v čele s HDK a TOP 09. ODS zamíří do opozice, primátorkou bude Springerová",
+      "lead_en": "Koalice v Hradci Králové zůstane tříčlenná. Primátorkou má opět být Pavlína Springerová (Hradecký demokratický klub) a jejími náměstky Lukáš Řádek (TOP 09), Kamil Podroužek (HDK), Kamil Kubica (Piráti), Dominik Žilka (STAN) a Martina Erbsová (Zelení).",
+      "title_raw": "Hradec Králové povede koalice v čele s HDK a TOP 09. ODS zamíří do opozice, primátorkou bude Springerová",
+      "lead_raw": "Koalice v Hradci Králové zůstane tříčlenná. Primátorkou má opět být Pavlína Springerová (Hradecký demokratický klub) a jejími náměstky Lukáš Řádek (TOP 09), Kamil Podroužek (HDK), Kamil Kubica (Piráti), Dominik Žilka (STAN) a Martina Erbsová (Zelení).",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "d7d875c227872093ff69676b5ec7e5a6fbe66531",
+      "fingerprint": "635ff4745ace3666725bda3ec8dca865732f0f66",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-zena-skocila-z-vyletni-lodi-do-jonskeho-more-40603796",
+      "published_utc": "2026-10-20T19:38:02Z",
+      "title_en": "Žena skočila z výletní lodi do Jónského moře",
+      "lead_en": "Čtyřiačtyřicetiletá turistka přežila 20 hodin na širém moři poté, co z nejasných příčin během plavby jihozápadně od řeckého ostrova Zakynthos vyskočila z výletní lodi. Na hladině se dokázala udržet díky záchrannému kruhu.",
+      "title_raw": "Žena skočila z výletní lodi do Jónského moře",
+      "lead_raw": "Čtyřiačtyřicetiletá turistka přežila 20 hodin na širém moři poté, co z nejasných příčin během plavby jihozápadně od řeckého ostrova Zakynthos vyskočila z výletní lodi. Na hladině se dokázala udržet díky záchrannému kruhu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "6d7f176c6c95d3e595254fd9d490f60171e44c13",
+      "fingerprint": "05f6f9963f4aa8ac03af332c1e3d1979f337cd50",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-akcie-spojene-s-ai-se-propadly-40603757",
+      "published_utc": "2026-10-20T19:26:44Z",
+      "title_en": "Akcie spojené s AI se propadly",
+      "lead_en": "Akcie firem spojených s umělou inteligencí minulý týden výrazně oslabily, když investoři začali pochybovat, zda se obří investice do čipů, datových center a výpočetní infrastruktury skutečně vrátí. Podle analytiků ale zatím nejde o prasknutí AI bubliny, spíše o vystřízlivění po období mimořádně rychlého růstu.",
+      "title_raw": "Akcie spojené s AI se propadly",
+      "lead_raw": "Akcie firem spojených s umělou inteligencí minulý týden výrazně oslabily, když investoři začali pochybovat, zda se obří investice do čipů, datových center a výpočetní infrastruktury skutečně vrátí. Podle analytiků ale zatím nejde o prasknutí AI bubliny, spíše o vystřízlivění po období mimořádně rychlého růstu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "1143f3794173843058d18db1d1dd4da2ca94b92c",
+      "fingerprint": "72e8117e1f5e04e0e83942e7cd4c2d473acb63d6",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-polsti-poslanci-hlasovali-pro-zmirneni-zakazu-potratu-celi-prezidentskemu-vetu-318357",
+      "published_utc": "2026-10-20T19:25:00Z",
+      "title_en": "Polští poslanci hlasovali pro zmírnění zákazu potratů, čelí prezidentskému vetu",
+      "lead_en": "Polští zákonodárci schválili povolení potratů v případě abnormalit plodu a dekriminalizaci poskytování pomoci při provedení potratu. Očekává se, že zákon bude vetovat prezident.",
+      "title_raw": "Polští poslanci hlasovali pro zmírnění zákazu potratů, čelí prezidentskému vetu",
+      "lead_raw": "Polští zákonodárci schválili povolení potratů v případě abnormalit plodu a dekriminalizaci poskytování pomoci při provedení potratu. Očekává se, že zákon bude vetovat prezident.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "d1d86c7a5a8867f9cd714d654db55105e9d14ac9",
+      "fingerprint": "95e8a9d19837080a4a9857df26936253a1a46b59",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-hlavni-mesto-praha-desitky-tisic-lidi-na-severu-prahy-budou-od-stredy-bez-pitne-vody-40603869",
+      "published_utc": "2026-10-20T19:17:56Z",
+      "title_en": "Desítky tisíc lidí na severu Prahy budou od středy bez pitné vody",
+      "lead_en": "Kvůli havárii páteřního potrubí v Ďáblické ulici v Praze 8 budou závislí na cisternách s pitnou vodou obyvatelé sídlišť v Ďáblicích a na Proseku. Odstávka začne podle Pražských vodovodů a kanalizací ve středu večer a potrvá do čtvrtečního odpoledne.",
+      "title_raw": "Desítky tisíc lidí na severu Prahy budou od středy bez pitné vody",
+      "lead_raw": "Kvůli havárii páteřního potrubí v Ďáblické ulici v Praze 8 budou závislí na cisternách s pitnou vodou obyvatelé sídlišť v Ďáblicích a na Proseku. Odstávka začne podle Pražských vodovodů a kanalizací ve středu večer a potrvá do čtvrtečního odpoledne.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "ec9a517c5177c118d97cf003cff3c9a931a8da0a",
+      "fingerprint": "6e75bca766d1004a2ca7a0ccdf77e9a549585d36",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-zpravodajka-cnn-christiane-amanpourova-po-43-letech-na-stanici-pristi-rok-skonci-318356",
+      "published_utc": "2026-10-20T19:05:07Z",
+      "title_en": "Zpravodajka CNN Christiane Amanpourová po 43 letech na stanici příští rok skončí",
+      "lead_en": "Americká stanice CNN přijde o zahraniční reportérku Christiane Amanpourovou. Novinářka rozhodnutí odejít ze stanice oznámila v pondělí, důvod svého odchodu neuvedla.",
+      "title_raw": "Zpravodajka CNN Christiane Amanpourová po 43 letech na stanici příští rok skončí",
+      "lead_raw": "Americká stanice CNN přijde o zahraniční reportérku Christiane Amanpourovou. Novinářka rozhodnutí odejít ze stanice oznámila v pondělí, důvod svého odchodu neuvedla.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "4ad2c16230b92b8de273e49584ec53d1f6e9b5bb",
+      "fingerprint": "2ae617c307ea13f6874697cb2eced0557bbdc5f7",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-polsti-poslanci-hlasovali-pro-zmirneni-zakazu-potratu-celi-prezidentskemu-vetu-40603925",
+      "published_utc": "2026-10-20T19:01:11Z",
+      "title_en": "Polští poslanci hlasovali pro zmírnění zákazu potratů, čelí prezidentskému vetu",
+      "lead_en": "Dolní komora polského parlamentu dnes odhlasovala povolení potratů v případě abnormalit plodu a dekriminalizaci poskytování pomoci při provedení potratu. Polští zákonodárci se snaží zvrátit téměř úplný zákaz potratů, který zavedla předchozí vláda.",
+      "title_raw": "Polští poslanci hlasovali pro zmírnění zákazu potratů, čelí prezidentskému vetu",
+      "lead_raw": "Dolní komora polského parlamentu dnes odhlasovala povolení potratů v případě abnormalit plodu a dekriminalizaci poskytování pomoci při provedení potratu. Polští zákonodárci se snaží zvrátit téměř úplný zákaz potratů, který zavedla předchozí vláda.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "a0a81d7140b637d6ed16b6626a3efb461407be85",
+      "fingerprint": "3fddbc94d2088936e7965f742571a36ba2a64f0a",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-lavrov-jakakoliv-dohoda-prijatelna-pro-rusko-i-usa-bude-znamenat-konec-zelenskeho-40603924",
+      "published_utc": "2026-10-20T19:00:21Z",
+      "title_en": "Lavrov: Jakákoliv dohoda přijatelná pro Rusko i USA bude znamenat konec Zelenského",
+      "lead_en": "Jakákoliv dohoda přijatelná pro Rusko i Spojené státy by znamenala konec ukrajinského prezidenta Volodymyra Zelenského. Tvrdí to alespoň ruský ministr zahraničí Sergej Lavrov, který Zelenského znovu nařkl, že opakovaně maří mírová jednání o ukončení ruské invazní války na Ukrajině.",
+      "title_raw": "Lavrov: Jakákoliv dohoda přijatelná pro Rusko i USA bude znamenat konec Zelenského",
+      "lead_raw": "Jakákoliv dohoda přijatelná pro Rusko i Spojené státy by znamenala konec ukrajinského prezidenta Volodymyra Zelenského. Tvrdí to alespoň ruský ministr zahraničí Sergej Lavrov, který Zelenského znovu nařkl, že opakovaně maří mírová jednání o ukončení ruské invazní války na Ukrajině.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "7dec75abbb6ccc6570be07d6c9719beb2b974652",
+      "fingerprint": "acd2b9aca3fffeddd17799fbee19f74af130edc8",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/senat-cekaji-personalni-sachy-a-uvahy-o-novem-vyboru-378831",
+      "published_utc": "2026-10-20T19:00:00Z",
+      "title_en": "Senát čekají personální šachy a úvahy o novém výboru",
+      "lead_en": "Volby jen mírně proměnily síly jednotlivých klubů v Senátu. Nejpočetnější zastoupení má dál ODS s TOP 09, naopak klub Pirátů a zástupců SEN 21 o potřebný počet členů přišel.",
+      "title_raw": "Senát čekají personální šachy a úvahy o novém výboru",
+      "lead_raw": "Volby jen mírně proměnily síly jednotlivých klubů v Senátu. Nejpočetnější zastoupení má dál ODS s TOP 09, naopak klub Pirátů a zástupců SEN 21 o potřebný počet členů přišel.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "7aea46eebdd1c084bcafc89806603f78e2d40930",
+      "fingerprint": "930dd512f5a4f1a14954f8d32ed0c5e7fd9085e8",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/kapru-je-letos-mene-kvuli-suchu-a-nedostatku-vody-budou-take-drazsi-rybari_2610202055_aha",
+      "published_utc": "2026-10-20T18:55:00Z",
+      "title_en": "Kaprů je letos méně kvůli suchu a nedostatku vody, budou také dražší. Rybáři zahájili výlov v Žehuni",
+      "lead_en": "Rybáři v úterý začali s výlovem největšího středočeského rybníka v Žehuni na Kolínsku. Většina vylovených kaprů bude za dva měsíce k dostání na vánočních trzích.",
+      "title_raw": "Kaprů je letos méně kvůli suchu a nedostatku vody, budou také dražší. Rybáři zahájili výlov v Žehuni",
+      "lead_raw": "Rybáři v úterý začali s výlovem největšího středočeského rybníka v Žehuni na Kolínsku. Většina vylovených kaprů bude za dva měsíce k dostání na vánočních trzích.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "a5a7c7c4d27768085837c7f5e46a0e706174fb85",
+      "fingerprint": "20f158deb661ffbf62b5f8576136214e71664bd0",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/mediahub/zpravodajka-cnn-amanpourova-43-let-televize-pristi-rok-konci.A261020_202529_mediahub_sahu",
+      "published_utc": "2026-10-20T18:45:00Z",
+      "title_en": "Otřes v CNN s příchodem nového majitele. Hvězdná reportérka po 43 letech skončí",
+      "lead_en": "Přední zahraniční reportérka CNN Christiane Amanpourová po 43 letech působení na této televizní stanici příští rok skončí. Osmašedesátiletá britsko-íránská novinářka, která se proslavila zejména reportážemi z válečných zón, v pondělí oznámila, že od ledna 2027 omezí svůj pořad Amanpour na CNN International na jedno vysílání týdně, v květnu ho ukončí a v červnu stanici opustí úplně.",
+      "title_raw": "Otřes v CNN s příchodem nového majitele. Hvězdná reportérka po 43 letech skončí",
+      "lead_raw": "Přední zahraniční reportérka CNN Christiane Amanpourová po 43 letech působení na této televizní stanici příští rok skončí. Osmašedesátiletá britsko-íránská novinářka, která se proslavila zejména reportážemi z válečných zón, v pondělí oznámila, že od ledna 2027 omezí svůj pořad Amanpour na CNN International na jedno vysílání týdně, v květnu ho ukončí a v červnu stanici opustí úplně.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "58dd80ae9830630a0f12af85131f16329161ef2a",
+      "fingerprint": "a2a26827a6cbfd14816f423190181a5b00294798",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-pohadal-se-s-nadrizenym-a-podpalil-gymnazium-na-vysocine-cizinci-za-to-hrozi-osm-let-40603892",
+      "published_utc": "2026-10-20T18:36:58Z",
+      "title_en": "Pohádal se s nadřízeným a podpálil gymnázium na Vysočině, cizinci za to hrozí osm let",
+      "lead_en": "Hádka pracovníka stavební firmy s vedoucím podle policie vedla k dubnovému požáru gymnázia v Pacově na Pelhřimovsku. Škole, která zrovna procházela rekonstrukcí, vznikla škoda za šest milionů korun.",
+      "title_raw": "Pohádal se s nadřízeným a podpálil gymnázium na Vysočině, cizinci za to hrozí osm let",
+      "lead_raw": "Hádka pracovníka stavební firmy s vedoucím podle policie vedla k dubnovému požáru gymnázia v Pacově na Pelhřimovsku. Škole, která zrovna procházela rekonstrukcí, vznikla škoda za šest milionů korun.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "b79156ccf34a4f7d70a361a4e636c61311f8f75c",
+      "fingerprint": "5f11a69cec5bf07b62e07adee3af36e63797a0f3",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-velitel-lhal-putinovi-o-dobyti-dobropillje-ted-se-zoufale-snazi-mesto-dobyt-prohlasil-budanov-40603896",
+      "published_utc": "2026-10-20T18:28:38Z",
+      "title_en": "Velitel lhal Putinovi o dobytí Dobropillje. Teď se zoufale snaží město dobýt, prohlásil Budanov",
+      "lead_en": "Ukrajinské město Dobropillja v Doněcké oblasti navzdory dřívějšímu ruskému oznámení zůstává pod kontrolou Kyjeva. Tvrdí to Kyrylo Budanov, šéf kanceláře ukrajinského prezidenta Volodymyra Zelenského.",
+      "title_raw": "Velitel lhal Putinovi o dobytí Dobropillje. Teď se zoufale snaží město dobýt, prohlásil Budanov",
+      "lead_raw": "Ukrajinské město Dobropillja v Doněcké oblasti navzdory dřívějšímu ruskému oznámení zůstává pod kontrolou Kyjeva. Tvrdí to Kyrylo Budanov, šéf kanceláře ukrajinského prezidenta Volodymyra Zelenského.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "8500fd47920fd4862ee54cfb547e8f029d872cc3",
+      "fingerprint": "2b63e4a7ed0705e57fab65ca5d13f1a205103ed7",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/pruzkum-na-dlouhy-zivot-37-cechu-vetsina-nema-energii.A261020_201339_domaci_sahu",
+      "published_utc": "2026-10-20T18:28:00Z",
+      "title_en": "Na dlouhý život je připravena jen třetina Čechů. Většině schází důležitá věc",
+      "lead_en": "Na dlouhý život se cítí připraveno jen 37 procent Čechů, za dobré nebo velmi dobré označuje své zdraví 42 procent. Šest z deseti naproti tomu často končí den s pocitem vyčerpání a téměř polovina má problém držet krok s dnešním tempem.",
+      "title_raw": "Na dlouhý život je připravena jen třetina Čechů. Většině schází důležitá věc",
+      "lead_raw": "Na dlouhý život se cítí připraveno jen 37 procent Čechů, za dobré nebo velmi dobré označuje své zdraví 42 procent. Šest z deseti naproti tomu často končí den s pocitem vyčerpání a téměř polovina má problém držet krok s dnešním tempem.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "6aeb0fec8339279ebc32f8daa4414634e3896e9e",
+      "fingerprint": "ef42c012757f9df949751069ce0fb0308539ce6a",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-diskuse-o-ukrajine-bez-ukrajiny-neni-mozna-rekl-v-oslu-zelenskyj-318352",
+      "published_utc": "2026-10-20T18:26:00Z",
+      "title_en": "Diskuze o Ukrajině bez Ukrajiny není možná, řekl v Oslu Zelenskyj",
+      "lead_en": "Zelenskyj uvedl k Putinem navrhované schůzce Číny, Ruska a USA, že jednání o Ukrajině nemůže probíhat bez Ukrajiny. V Oslu jednal ukrajinský prezident také s americkým zmocněncem Stevem Witkoffem.",
+      "title_raw": "Diskuze o Ukrajině bez Ukrajiny není možná, řekl v Oslu Zelenskyj",
+      "lead_raw": "Zelenskyj uvedl k Putinem navrhované schůzce Číny, Ruska a USA, že jednání o Ukrajině nemůže probíhat bez Ukrajiny. V Oslu jednal ukrajinský prezident také s americkým zmocněncem Stevem Witkoffem.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "3350e630298127334132e2375affaae1d50124a3",
+      "fingerprint": "2a95a6b7c23fb67732d008119dfa50adccc6419c",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/tmbk-tmbk-trump-poodhalil-tajemstvi-sveho-satniku-nebo-i-neceho-vic-318353",
+      "published_utc": "2026-10-20T18:25:00Z",
+      "title_en": "TMBK: Trump poodhalil tajemství svého šatníku. Nebo i něčeho víc?",
+      "lead_en": "Americký prezident Donald Trump v poslední době podniká kroky, kterými se znovu sbližuje s Moskvou. Nedávno například uzavřel s Putinem dohodu o dodávkách ruské nafty, která má pomoci snižovat ceny pohonných hmot.",
+      "title_raw": "TMBK: Trump poodhalil tajemství svého šatníku. Nebo i něčeho víc?",
+      "lead_raw": "Americký prezident Donald Trump v poslední době podniká kroky, kterými se znovu sbližuje s Moskvou. Nedávno například uzavřel s Putinem dohodu o dodávkách ruské nafty, která má pomoci snižovat ceny pohonných hmot.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "41aa897dc116304d15e038c80143cb04cfbdb6ee",
+      "fingerprint": "6152c11ded762658cd1aa487f23e3fbeb02004ef",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-nadrizeny-poresil-hanlivou-nasivku-plk-foltyna-odpoved-rajchlovi-pobavi-40603920",
+      "published_utc": "2026-10-20T18:23:07Z",
+      "title_en": "Nadřízený pořešil hanlivou nášivku plk. Foltýna. Odpověď Rajchlovi pobaví",
+      "lead_en": "Armádní plukovník Otakar Foltýn se dopustil přestupku, když si na uniformu připevnil nášivku urážející ruského prezidenta Vladimira Putina. V odpovědi na podnět poslance Jindřicha Rajchla (za SPD) to napsala prezidentská vojenská kancelář.",
+      "title_raw": "Nadřízený pořešil hanlivou nášivku plk. Foltýna. Odpověď Rajchlovi pobaví",
+      "lead_raw": "Armádní plukovník Otakar Foltýn se dopustil přestupku, když si na uniformu připevnil nášivku urážející ruského prezidenta Vladimira Putina. V odpovědi na podnět poslance Jindřicha Rajchla (za SPD) to napsala prezidentská vojenská kancelář.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d929a98535d65679055f690a6edaa0424ad53b40",
+      "fingerprint": "e54e5c230c593dc2810dad797e6d41eaefd43422",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-pro-prevenci-pozaru-je-nutne-resit-mrtve-drevo-i-udrzitelnost-parku-rekl-cerveny-318350",
+      "published_utc": "2026-10-20T18:21:14Z",
+      "title_en": "Pro prevenci požárů je nutné řešit mrtvé dřevo i udržitelnost parků, řekl Červený",
+      "lead_en": "Pracovní skupina ministerstva životního prostředí chystá opatření pro prevenci požárů a rozvoj národních parků. Cílem je vyřešit množství mrtvého dřeva a co s ním, usnadnit zásahy hasičů a rovnoměrněji rozprostřít turismus.",
+      "title_raw": "Pro prevenci požárů je nutné řešit mrtvé dřevo i udržitelnost parků, řekl Červený",
+      "lead_raw": "Pracovní skupina ministerstva životního prostředí chystá opatření pro prevenci požárů a rozvoj národních parků. Cílem je vyřešit množství mrtvého dřeva a co s ním, usnadnit zásahy hasičů a rovnoměrněji rozprostřít turismus.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "5d2bfb60b66c387a39a7f15cb660711e08703462",
       "fingerprint": "a0ef6e930a30e9c8312f1b61dc00c2d307a2e198",
@@ -1830,6 +2468,28 @@
       },
       "topics": [],
       "primary_topic": null
+    },
+    {
+      "id": "11cd3c9ba56317a28cc3818d0f498b7892e10c85",
+      "fingerprint": "e880196182b180f9f4174133c1306ea417aab6ae",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/snemovna-podporila-sporne-snizeni-podpor-v-nezamestnanosti/2890208",
+      "published_utc": "2026-10-20T14:14:00Z",
+      "title_en": "Sněmovna podpořila sporné snížení podpor v nezaměstnanosti",
+      "lead_en": "Praha - Podpory v nezaměstnanosti by se mohly po nedávném zvýšení opět snížit. Pokles podpor předpokládá vládní novela zákoníku práce a dalších zákonů, kterou v dnešním úvodním kole podpořila Sněmovna....",
+      "title_raw": "Sněmovna podpořila sporné snížení podpor v nezaměstnanosti",
+      "lead_raw": "Praha - Podpory v nezaměstnanosti by se mohly po nedávném zvýšení opět snížit. Pokles podpor předpokládá vládní novela zákoníku práce a dalších zákonů, kterou v dnešním úvodním kole podpořila Sněmovna....",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
     },
     {
       "id": "45df4dbb98749050a6396b1a67fde3ee52abf2bf",
