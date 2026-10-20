@@ -1,10 +1,100 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-20T13:58:49Z",
+  "updated_at_utc": "2026-10-20T18:18:57Z",
   "topic": "economy",
-  "count": 20,
+  "count": 24,
   "articles": [
+    {
+      "id": "0ef38eb88513d7b5422cf1d574bd374546cb5405",
+      "fingerprint": "e77d6117e3028b98273fb88a157d0f8d6ddaa990",
+      "source": "iROZHLAS - Economy",
+      "url": "https://www.irozhlas.cz/ekonomika/cena-plynu-v-evrope-prekonala-poprve-za-ctyri-roky-90-eur-za-mwh-pozdeji-ale_2610201905_cen",
+      "published_utc": "2026-10-20T17:05:00Z",
+      "title_en": "Cena plynu v Evropě překonala poprvé za čtyři roky 90 eur za MWh, později ale klesla",
+      "lead_en": "Velkoobchodní cena plynu pro evropský trh dnes poprvé za téměř čtyři roky překročila hranici 90 eur (zhruba 2200 Kč) za megawatthodinu (MWh). Později však výrazně klesla.",
+      "title_raw": "Cena plynu v Evropě překonala poprvé za čtyři roky 90 eur za MWh, později ale klesla",
+      "lead_raw": "Velkoobchodní cena plynu pro evropský trh dnes poprvé za téměř čtyři roky překročila hranici 90 eur (zhruba 2200 Kč) za megawatthodinu (MWh). Později však výrazně klesla.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "32f6276898bd91ade4f8f203e9145e645d8e6522",
+      "fingerprint": "79db84a12be56bdd3ea98d90b6f6d67ebe5204f4",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-rubio-usa-ukrajine-nic-zamerne-neupiraji-trumpa-obvineni-frustruji-318340",
+      "published_utc": "2026-10-20T15:20:19Z",
+      "title_en": "Rubio: USA Ukrajině nic záměrně neupírají, Trumpa obvinění frustrují",
+      "lead_en": "Podle amerického ministra zahraničních věcí Marca Rubia se obvinění, že USA Ukrajině záměrně škodí, nezakládají na pravdě. Navzdory sankcím se nedávno Donald Trump s Ruskem domluvil na dodávkách nafty na světové trhy.",
+      "title_raw": "Rubio: USA Ukrajině nic záměrně neupírají, Trumpa obvinění frustrují",
+      "lead_raw": "Podle amerického ministra zahraničních věcí Marca Rubia se obvinění, že USA Ukrajině záměrně škodí, nezakládají na pravdě. Navzdory sankcím se nedávno Donald Trump s Ruskem domluvil na dodávkách nafty na světové trhy.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "bb652c47725a5fe66c0cfd6af62a89ab056ac5a8",
+      "fingerprint": "05c4c38fa998a5930f7c23c298380aa2fbd307a9",
+      "source": "iROZHLAS - Economy",
+      "url": "https://www.irozhlas.cz/ekonomika/tarify-pro-statni-zamestnance-porostou-navyseni-se-projevi-u-nizkoprijmovych_2610201641_nob",
+      "published_utc": "2026-10-20T14:41:00Z",
+      "title_en": "Tarify pro státní zaměstnance porostou. ‚Navýšení se projeví u nízkopříjmových,‘ očekává Středula",
+      "lead_en": "Nově žádný tarif neklesne pod úroveň minimální mzdy, která dosáhne 24 900 korun. „Znamená to, že zaměstnanec bude mít jistotu v tarifní části svého platu, kde bylo přes 450 tisíc lidí pod úrovní minimální mzdy,“ vyzdvihuje pro Český rozhlas Plus předseda Českomoravské konfederace odborových svazů Josef Středula.",
+      "title_raw": "Tarify pro státní zaměstnance porostou. ‚Navýšení se projeví u nízkopříjmových,‘ očekává Středula",
+      "lead_raw": "Nově žádný tarif neklesne pod úroveň minimální mzdy, která dosáhne 24 900 korun. „Znamená to, že zaměstnanec bude mít jistotu v tarifní části svého platu, kde bylo přes 450 tisíc lidí pod úrovní minimální mzdy,“ vyzdvihuje pro Český rozhlas Plus předseda Českomoravské konfederace odborových svazů Josef Středula.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "a0416a050ef34ff34de1f9adea2628af061b4686",
+      "fingerprint": "2832ebe49dee59eb1c741c750d989354e85c93c7",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-dve-ceske-zbrojovky-ziskaly-evropske-penize-na-zrychleni-vyroby-318320",
+      "published_utc": "2026-10-20T14:30:00Z",
+      "title_en": "Dvě české zbrojovky získaly evropské peníze na zrychlení výroby",
+      "lead_en": "Společnosti CSG a PBS získaly dohromady téměř miliardu korun od evropského obranného fondu EDIP na investice do výroby. PBS díky grantu vyrobí více motorů pro drony a rakety, CSG rychleji zavede výrobu nitrocelulózy v Německu.",
+      "title_raw": "Dvě české zbrojovky získaly evropské peníze na zrychlení výroby",
+      "lead_raw": "Společnosti CSG a PBS získaly dohromady téměř miliardu korun od evropského obranného fondu EDIP na investice do výroby. PBS díky grantu vyrobí více motorů pro drony a rakety, CSG rychleji zavede výrobu nitrocelulózy v Německu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "2392233a4d6de4e298673440a412323d9a8823a2",
       "fingerprint": "3f38f1b0ff7c356ee4263f7cfd49ee2b65b41036",
@@ -37,6 +127,29 @@
       "lead_en": "Amsterodam - Velkoobchodní cena plynu pro evropský trh dnes poprvé za téměř čtyři roky překročila hranici 90 eur (zhruba 2200 Kč) za megawatthodinu (MWh). Za jejím růstem stojí pokračující výpadky v dodávkách...",
       "title_raw": "Cena plynu pro evropský trh poprvé za téměř čtyři roky překročila 90 eur za MWh",
       "lead_raw": "Amsterodam - Velkoobchodní cena plynu pro evropský trh dnes poprvé za téměř čtyři roky překročila hranici 90 eur (zhruba 2200 Kč) za megawatthodinu (MWh). Za jejím růstem stojí pokračující výpadky v dodávkách...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "75facd5b2298c72f0751a02e9dcf71c7c982f23d",
+      "fingerprint": "71f08344331fbf3712572c2c195eabad4cfcba3f",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/cena-plynu-v-evrope-prekonala-90-eur-za-mwh-pozdeji-ale-klesla/2890524",
+      "published_utc": "2026-10-20T13:33:00Z",
+      "title_en": "Cena plynu v Evropě překonala 90 eur za MWh, později ale klesla",
+      "lead_en": "Amsterodam - Velkoobchodní cena plynu pro evropský trh dnes poprvé za téměř čtyři roky překročila hranici 90 eur (zhruba 2200 Kč) za megawatthodinu (MWh). Později však výrazně klesla.",
+      "title_raw": "Cena plynu v Evropě překonala 90 eur za MWh, později ale klesla",
+      "lead_raw": "Amsterodam - Velkoobchodní cena plynu pro evropský trh dnes poprvé za téměř čtyři roky překročila hranici 90 eur (zhruba 2200 Kč) za megawatthodinu (MWh). Později však výrazně klesla.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -417,28 +530,6 @@
         "military": 0,
         "energy": 0,
         "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "607bf8d20f68f529958c39fc3b7171f8214d2dac",
-      "fingerprint": "6b7c15f1e4a361030b41334384ee923df473e249",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/cina-usa-vyroba-hracky-naklady-dovozni-clo-podil-naklady.A261015_171816_eko-zahranicni_jla",
-      "published_utc": "2026-10-18T16:00:00Z",
-      "title_en": "Dětská hračka vyjde v USA na 30 dolarů. Čínský výrobce ale na ní vydělá drobné",
-      "lead_en": "Hračka, za kterou zákazník v americkém obchodě zaplatí 30 dolarů (asi 650 korun), přinese čínskému výrobci jen úplné minimum. Továrna za její výrobu získá zhruba šest dolarů (130 korun), ze kterých musí uhradit materiál, mzdy i další provozní náklady.",
-      "title_raw": "Dětská hračka vyjde v USA na 30 dolarů. Čínský výrobce ale na ní vydělá drobné",
-      "lead_raw": "Hračka, za kterou zákazník v americkém obchodě zaplatí 30 dolarů (asi 650 korun), přinese čínskému výrobci jen úplné minimum. Továrna za její výrobu získá zhruba šest dolarů (130 korun), ze kterých musí uhradit materiál, mzdy i další provozní náklady.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 4,
         "local_events": 0
       },
       "topics": [
