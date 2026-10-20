@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-19T20:47:47Z",
+  "updated_at_utc": "2026-10-20T00:00:01Z",
   "topic": "military",
   "count": 59,
   "articles": [
+    {
+      "id": "69ae8ca2a2a7e3e7cca14e2266127fb4299e78f5",
+      "fingerprint": "504c9c77c97f260763280e600d77354e2b7f0db8",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-pentagon-podle-zelenskeho-zpozduje-dodavky-strel-pres-program-na-prodej-munice-318269",
+      "published_utc": "2026-10-19T20:55:45Z",
+      "title_en": "Pentagon podle Zelenského zpožďuje dodávky střel přes program na prodej munice",
+      "lead_en": "Ukrajinský prezident Zelenskyj tvrdí, že ministerstvo obrany USA zpožďuje dodávky střel pořizovaných přes program PURL, Washington to zatím nekomentoval.",
+      "title_raw": "Pentagon podle Zelenského zpožďuje dodávky střel přes program na prodej munice",
+      "lead_raw": "Ukrajinský prezident Zelenskyj tvrdí, že ministerstvo obrany USA zpožďuje dodávky střel pořizovaných přes program PURL, Washington to zatím nekomentoval.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "5e85c10080587883b33ea120753653b1f4d0dcef",
       "fingerprint": "09efe8e4eb038337c1cec686b1225d90c7dae25a",
@@ -1289,29 +1311,6 @@
         "local_events"
       ],
       "primary_topic": "local_events"
-    },
-    {
-      "id": "4ef3eca1782da72cb5fc341fd3de95f04eac4663",
-      "fingerprint": "3aee9f463bbdb7a1b813b8fbbdbd64605e2730ed",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/internet-a-pc-ai-aby-neohrozovali-lidi-vedci-pohyby-robotu-hlidaji-matematikou-40600890",
-      "published_utc": "2026-10-17T22:45:00Z",
-      "title_en": "Aby neohrožovali lidi. Vědci pohyby robotů hlídají matematikou",
-      "lead_en": "S narůstajícími investicemi do výroby humanoidních robotů roste tlak na jejich využití. Nedílnou součástí vývoje je proto i bezpečnost.",
-      "title_raw": "Aby neohrožovali lidi. Vědci pohyby robotů hlídají matematikou",
-      "lead_raw": "S narůstajícími investicemi do výroby humanoidních robotů roste tlak na jejich využití. Nedílnou součástí vývoje je proto i bezpečnost.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
