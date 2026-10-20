@@ -1,10 +1,166 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-20T03:40:58Z",
+  "updated_at_utc": "2026-10-20T08:56:30Z",
   "topic": "energy",
-  "count": 27,
+  "count": 30,
   "articles": [
+    {
+      "id": "2faf7763fe8814d42d110d2838ea7c44e7c2ae3a",
+      "fingerprint": "b3c44cd196edafca8b19d5d015da40ece1ebfe2b",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/rusky-uder-v-kyjevske-oblasti-podle-ukrajinskych-uradu-zabil-tri-lidi.A261020_072237_zahranicni_tmps",
+      "published_utc": "2026-10-20T08:51:10Z",
+      "title_en": "Ruské drony útočily u Kyjeva, několik lidí zabily. Ukrajinci udeřili u ropovodu Družba",
+      "lead_en": "Nejméně tři lidi připravil o život a dalších šest osob zranil ruský útok během noci na úterý na výrobní závod a sklad u města Obuchiv v Kyjevské oblasti, informovali záchranáři z ukrajinské služby pro mimořádné situace (DSNS). Rusové útočili také u obce Čabany a na rozhraní Kyjeva a Kyjevské oblasti.",
+      "title_raw": "Ruské drony útočily u Kyjeva, několik lidí zabily. Ukrajinci udeřili u ropovodu Družba",
+      "lead_raw": "Nejméně tři lidi připravil o život a dalších šest osob zranil ruský útok během noci na úterý na výrobní závod a sklad u města Obuchiv v Kyjevské oblasti, informovali záchranáři z ukrajinské služby pro mimořádné situace (DSNS). Rusové útočili také u obce Čabany a na rozhraní Kyjeva a Kyjevské oblasti.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "59e980d5739370b5ccc83aa705e65a6d54609e77",
+      "fingerprint": "b9c71f872c6fe9eb3bc8aa0e8eef677cfa1c0eb2",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-rusko-toho-ukrajine-moc-nedela-chova-se-v-poradku-rekl-trump-318287",
+      "published_utc": "2026-10-20T08:40:46Z",
+      "title_en": "Rusko toho Ukrajině moc nedělá, chová se v pořádku, řekl Trump",
+      "lead_en": "Americký prezident Donald Trump řekl, že případné setkání lídrů USA, Ruska a Číny se nebude týkat Ukrajiny, nýbrž diskuze o jaderném ozbrojení.",
+      "title_raw": "Rusko toho Ukrajině moc nedělá, chová se v pořádku, řekl Trump",
+      "lead_raw": "Americký prezident Donald Trump řekl, že případné setkání lídrů USA, Ruska a Číny se nebude týkat Ukrajiny, nýbrž diskuze o jaderném ozbrojení.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "4fffc6387e5aba9c092c00e0cab89c4c298a017c",
+      "fingerprint": "379024111220ce5814432c059f409efb57b02e31",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/sklarem-na-den-studio-kultivar-uci-jak-si-vyrobit-sklenene-sperky-lide-tvorbe_2610200905_aha",
+      "published_utc": "2026-10-20T07:05:00Z",
+      "title_en": "Sklářem na den. Studio Kultivar učí, jak si vyrobit skleněné šperky, lidé tvorbě často propadnou",
+      "lead_en": "Skleněné náušnice, náhrdelník nebo třeba prsten si v úterý nebo ve čtvrtek můžou vyrobit návštěvníci sklářského studia Kultivar v Liberci. Zájemci se na kurz mohou přihlásit na jejich webových stránkách.",
+      "title_raw": "Sklářem na den. Studio Kultivar učí, jak si vyrobit skleněné šperky, lidé tvorbě často propadnou",
+      "lead_raw": "Skleněné náušnice, náhrdelník nebo třeba prsten si v úterý nebo ve čtvrtek můžou vyrobit návštěvníci sklářského studia Kultivar v Liberci. Zájemci se na kurz mohou přihlásit na jejich webových stránkách.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "07c364ddde8bb45f3d50146fe5a395e408517419",
+      "fingerprint": "926e82b5639f5f7b040a8bf8c2f36865cc46398d",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/italie-se-nabizi-jako-pokusna-zeme-na-celorocni-zavedeni-jednoho-casu.A261020_081544_zahranicni_skr",
+      "published_utc": "2026-10-20T07:05:00Z",
+      "title_en": "Itálie se nabízí jako pokusná země na celoroční zavedení jednoho času",
+      "lead_en": "Osm let čekají miliony Evropanů na to, až se Evropská unie dohodne na ukončení střídání času. Sedmadvacítku členských států zavedla do slepé uličky odpověď na otázku, který čas by měl vlastně platit nastálo.",
+      "title_raw": "Itálie se nabízí jako pokusná země na celoroční zavedení jednoho času",
+      "lead_raw": "Osm let čekají miliony Evropanů na to, až se Evropská unie dohodne na ukončení střídání času. Sedmadvacítku členských států zavedla do slepé uličky odpověď na otázku, který čas by měl vlastně platit nastálo.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "49d66784188910f09870a37a1f75cc791a5e0b26",
+      "fingerprint": "cb93035249d7d7230b92dc2430faf3c51602b54a",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/nocni-zakaz-vychazeni-zajistil-ve-francii-klid-prohlasil-lecornu-378809",
+      "published_utc": "2026-10-20T06:26:22Z",
+      "title_en": "Noční zákaz vycházení zajistil ve Francii klid, prohlásil Lecornu",
+      "lead_en": "Noční zákaz vycházení, který po několika dnech násilných demonstrací francouzské úřady vyhlásily v částech Paříže i v jiných městech, pomohl v noci na úterý zajistit klid, prohlásil dle agentury Reuters francouzský premiér Sébastien Lecornu. Francie v uplynulých dnech zažila velké demonstrace, které na některých místech provázelo násilí a rabování.",
+      "title_raw": "Noční zákaz vycházení zajistil ve Francii klid, prohlásil Lecornu",
+      "lead_raw": "Noční zákaz vycházení, který po několika dnech násilných demonstrací francouzské úřady vyhlásily v částech Paříže i v jiných městech, pomohl v noci na úterý zajistit klid, prohlásil dle agentury Reuters francouzský premiér Sébastien Lecornu. Francie v uplynulých dnech zažila velké demonstrace, které na některých místech provázelo násilí a rabování.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "ab4efe8ffe38f2377323cbdf777ef92153b3071e",
+      "fingerprint": "5f320f91e73ad46610232e3d7c4d4a849fd81885",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/reuters-kremelska-tvrda-linie-si-uziva-roztrzku-trumpa-se-zelenskym-378808",
+      "published_utc": "2026-10-20T06:09:44Z",
+      "title_en": "Reuters: Kremelská tvrdá linie si užívá roztržku Trumpa se Zelenským",
+      "lead_en": "Zastánci tvrdé linie v Kremlu si vychutnávají veřejný rozkol mezi americkým prezidentem Donaldem Trumpem a jeho ukrajinským protějškem Volodymyrem Zelenským. Pro ukrajinskou hlavu státu byl uplynulý týden negativní, zatímco pro Rusko se vyvinul příznivě – přesto se v Moskvě šampaňské zatím stále chladí, píše v analýze agentura Reuters.",
+      "title_raw": "Reuters: Kremelská tvrdá linie si užívá roztržku Trumpa se Zelenským",
+      "lead_raw": "Zastánci tvrdé linie v Kremlu si vychutnávají veřejný rozkol mezi americkým prezidentem Donaldem Trumpem a jeho ukrajinským protějškem Volodymyrem Zelenským. Pro ukrajinskou hlavu státu byl uplynulý týden negativní, zatímco pro Rusko se vyvinul příznivě – přesto se v Moskvě šampaňské zatím stále chladí, píše v analýze agentura Reuters.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "b9ed7da7a6f82eacb30ac8ca4252b3fd26a19792",
+      "fingerprint": "47a830c21e9cd0d92865694b79650f19d74991be",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/reuters-kremelsti-jestrabi-si-vychutnavaji-roztrzku-mezi-trumpem-a-zelenskym.A261020_060112_zahranicni_tmps",
+      "published_utc": "2026-10-20T04:14:00Z",
+      "title_en": "„Kousl ruku, která ho krmila.“ Kreml si vychutnává roztržku Trumpa a Zelenského",
+      "lead_en": "Kremelští jestřábi si vychutnávají veřejný rozkol mezi americkým prezidentem Donaldem Trumpem a jeho ukrajinským protějškem Volodymyrem Zelenským. Pro ukrajinskou hlavu státu byl uplynulý týden negativní, zatímco pro Rusko se vyvinul příznivě - přesto se v Moskvě šampaňské zatím stále chladí.",
+      "title_raw": "„Kousl ruku, která ho krmila.“ Kreml si vychutnává roztržku Trumpa a Zelenského",
+      "lead_raw": "Kremelští jestřábi si vychutnávají veřejný rozkol mezi americkým prezidentem Donaldem Trumpem a jeho ukrajinským protějškem Volodymyrem Zelenským. Pro ukrajinskou hlavu státu byl uplynulý týden negativní, zatímco pro Rusko se vyvinul příznivě - přesto se v Moskvě šampaňské zatím stále chladí.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "3a423fcd7f5c820c8b51cbacc1b9e31058590f2d",
       "fingerprint": "0e0fdf556b4f345ddda0a7f0f1904d10696c925f",
@@ -509,95 +665,6 @@
         "energy": 1,
         "economy": 0,
         "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "5f7a275dfc960b738e5ccb0eff19701c876a4165",
-      "fingerprint": "ec35922b1ba7a153b687377c87b73dfdcccb3588",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/usa-zeleznice-spojene-staty-vysokorychlostni-trate-vlaky.A261015_180252_eko-zahranicni_jla",
-      "published_utc": "2026-10-18T07:00:00Z",
-      "title_en": "Amerika má zpoždění. Proč se tam rychlovlaky na rozdíl od Asie neprosadily",
-      "lead_en": "Z Las Vegas do jižní Kalifornie za pouhé dvě hodiny. Takový je plán americké společnosti Brightline, která připravuje výstavbu přibližně 350 kilometrů dlouhé vysokorychlostní tratě.",
-      "title_raw": "Amerika má zpoždění. Proč se tam rychlovlaky na rozdíl od Asie neprosadily",
-      "lead_raw": "Z Las Vegas do jižní Kalifornie za pouhé dvě hodiny. Takový je plán americké společnosti Brightline, která připravuje výstavbu přibližně 350 kilometrů dlouhé vysokorychlostní tratě.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "deefe1434028d50a55b071ecaa7e5b44f0f4649e",
-      "fingerprint": "d6aaef138c684c7dadb36e6fec3088b2d3f7178e",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-cash-only-sektorova-dan-podruhe-vyjde-to-tentokrat-lepe-317977",
-      "published_utc": "2026-10-18T05:00:00Z",
-      "title_en": "Sektorová daň podruhé. Vyjde to tentokrát lépe?",
-      "lead_en": "Sněmovna tento týden podpořila v prvním čtení zvláštní daň na rafinerie. Vláda Andreje Babiše tvrdí, že zpracovatelé ropy a dodavatelé pohonných hmot na českém trhu dosahují díky mimořádným tržním podmínkám nepřiměřených zisků.",
-      "title_raw": "Sektorová daň podruhé. Vyjde to tentokrát lépe?",
-      "lead_raw": "Sněmovna tento týden podpořila v prvním čtení zvláštní daň na rafinerie. Vláda Andreje Babiše tvrdí, že zpracovatelé ropy a dodavatelé pohonných hmot na českém trhu dosahují díky mimořádným tržním podmínkám nepřiměřených zisků.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "64f735d038464972ec0e634c49351e382226689b",
-      "fingerprint": "65b1a606e1cdd9d9f9a1357697eb70bb395ac281",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/ceny-plynu-a-energii-stoupaji-radu-domacnosti-nuti-setrit-378732",
-      "published_utc": "2026-10-18T04:00:00Z",
-      "title_en": "Ceny plynu a energií stoupají, řadu domácností nutí šetřit",
-      "lead_en": "Velkoobchodní ceny plynu a elektřiny stoupají. To se postupně začíná propisovat do ceníků pro spotřebitele.",
-      "title_raw": "Ceny plynu a energií stoupají, řadu domácností nutí šetřit",
-      "lead_raw": "Velkoobchodní ceny plynu a elektřiny stoupají. To se postupně začíná propisovat do ceníků pro spotřebitele.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "dcbbaf19cad21bf9163417cc0f21bd6059ecab77",
-      "fingerprint": "4c4a53ae506af6e85ffb360cd7afd5d6f0c31f36",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/volby-do-senatu-babis-chysta-ucty-za-volebni-debakl-tri-kraje-kde-muzou-padat-hlavy-318151",
-      "published_utc": "2026-10-18T04:00:00Z",
-      "title_en": "Babiš chystá účty za volební debakl. Tři kraje, kde mohou padat hlavy",
-      "lead_en": "Andrej Babiš rozladěný propadákem ANO u voleb ohlásil restart hnutí. Poté, co mu senátní souboje nevynesly žádné křeslo, chce zhodnotit, kdo ze straníků pracoval dostatečně.",
-      "title_raw": "Babiš chystá účty za volební debakl. Tři kraje, kde mohou padat hlavy",
-      "lead_raw": "Andrej Babiš rozladěný propadákem ANO u voleb ohlásil restart hnutí. Poté, co mu senátní souboje nevynesly žádné křeslo, chce zhodnotit, kdo ze straníků pracoval dostatečně.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
       },
       "topics": [
         "energy"
