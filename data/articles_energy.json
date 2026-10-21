@@ -1,10 +1,33 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-20T21:58:20Z",
+  "updated_at_utc": "2026-10-21T00:21:18Z",
   "topic": "energy",
-  "count": 33,
+  "count": 32,
   "articles": [
+    {
+      "id": "7027db16e31839ac796d1116aec761389c69dce2",
+      "fingerprint": "f545f9eeb0f9ef872cbaa7524821eff753fcf7b4",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/kuba-v-senatu-postupujeme-jako-trojice-s-markem-slabym-vedeme-jednani_2610210010_cen",
+      "published_utc": "2026-10-20T22:10:00Z",
+      "title_en": "Kuba: V Senátu postupujeme jako trojice. S Markem Slabým vedeme jednání",
+      "lead_en": "Uplynulé komunální a senátní volby byly první, ve kterých kandidovalo hnutí Naše Česko založené jihočeským hejtmanem a dlouholetým představitelem ODS Martinem Kubou. Jak v nich uspělo?",
+      "title_raw": "Kuba: V Senátu postupujeme jako trojice. S Markem Slabým vedeme jednání",
+      "lead_raw": "Uplynulé komunální a senátní volby byly první, ve kterých kandidovalo hnutí Naše Česko založené jihočeským hejtmanem a dlouholetým představitelem ODS Martinem Kubou. Jak v nich uspělo?",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "6d7f176c6c95d3e595254fd9d490f60171e44c13",
       "fingerprint": "05f6f9963f4aa8ac03af332c1e3d1979f337cd50",
@@ -686,50 +709,6 @@
         "military": 0,
         "energy": 1,
         "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "789002bca7c84aaf6a9465ab2fb4404bf446ea70",
-      "fingerprint": "494b85a58741f13d1d0bf21844f0c5b0366d0a49",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/statni-volebni-komise-projedna-vysledky-finale-senatnich-voleb/2889751",
-      "published_utc": "2026-10-18T22:08:00Z",
-      "title_en": "Státní volební komise projedná výsledky finále senátních voleb",
-      "lead_en": "Praha - Státní volební komise dnes projedná průběh a výsledky druhého kola letošních voleb do třetiny Senátu. Díky zvolení pěti senátorů už v prvním kole rozhodovali lidé zkraje uplynulého víkendu jen...",
-      "title_raw": "Státní volební komise projedná výsledky finále senátních voleb",
-      "lead_raw": "Praha - Státní volební komise dnes projedná průběh a výsledky druhého kola letošních voleb do třetiny Senátu. Díky zvolení pěti senátorů už v prvním kole rozhodovali lidé zkraje uplynulého víkendu jen...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "18e8ba1d8517b15fdd09ddc725904287f0215bfc",
-      "fingerprint": "17c8283bd5f3fb29eaed7144b3f41d94e98026b7",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/bioplynova-stanice-biometan-mol.A261016_145616_eko-zahranicni_hyk",
-      "published_utc": "2026-10-18T22:00:00Z",
-      "title_en": "Když se odpad z jatek mění na energii. Nová bioplynka zužitkuje prakticky všechno",
-      "lead_en": "Bioplynová stanice v maďarském Szarvasi byla od počátku navržena pro zpracování regionálního odpadu. Po převzetí skupinou MOL a díky následnému technickému vylepšení začala vyrábět také zelený biometan.",
-      "title_raw": "Když se odpad z jatek mění na energii. Nová bioplynka zužitkuje prakticky všechno",
-      "lead_raw": "Bioplynová stanice v maďarském Szarvasi byla od počátku navržena pro zpracování regionálního odpadu. Po převzetí skupinou MOL a díky následnému technickému vylepšení začala vyrábět také zelený biometan.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
         "local_events": 0
       },
       "topics": [

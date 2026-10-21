@@ -1,10 +1,33 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-20T21:58:20Z",
+  "updated_at_utc": "2026-10-21T00:21:18Z",
   "topic": "military",
-  "count": 72,
+  "count": 71,
   "articles": [
+    {
+      "id": "c3d66996014a0cff47790c25d4ce2f7c293120b0",
+      "fingerprint": "6467b0461d8447a377eb1590b44da70f7c213133",
+      "source": "Radio Prague International (EN)",
+      "url": "https://english.radio.cz/czech-crop-invention-heads-european-farms-through-british-partnership-8898750",
+      "published_utc": "2026-10-20T22:05:00Z",
+      "title_en": "Czech crop invention heads to European farms through British partnership",
+      "lead_en": "A molecule developed in Olomouc could help cereal crops make better use of water and nutrients from their earliest stages of growth. Known as TFU, it is being brought to European farmers by British company INTRACROP under a licensing agreement with Palacký University.",
+      "title_raw": "Czech crop invention heads to European farms through British partnership",
+      "lead_raw": "A molecule developed in Olomouc could help cereal crops make better use of water and nutrients from their earliest stages of growth. Known as TFU, it is being brought to European farmers by British company INTRACROP under a licensing agreement with Palacký University.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "26894fcd5396f3b3719b6e690ef0a2b59b8bf1e5",
       "fingerprint": "9ec1b7a91caa37838361ef3ae5c9d99f9605ca9d",
@@ -1553,50 +1576,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "2211e68d3ec3b6c67efae00b25eb8743a81ee198",
-      "fingerprint": "de62061c7fe45432045e146aa03cb0baf4215b0c",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/volby-do-kongresu-trump-midterms-senat-usa-iran-ukrajina.A261015_221227_zahranicni_sahu",
-      "published_utc": "2026-10-18T22:00:00Z",
-      "title_en": "Msta Trumpovi nestačí, musíme vládnout. Nezatracujte USA, říká legenda demokratů",
-      "lead_en": "Pouhé vyšetřování Donalda Trumpa Spojené státy nezachrání, demokraté musejí dokázat, že umí reálně vládnout. Dlouholetá kongresmanka a bezpečnostní matadorka Jane Harmanová v Praze pro iDNES Premium pojmenovala slabiny Západu: chybějící strategii, ořezané zpravodajce i tikající dluhovou bombu.",
-      "title_raw": "Msta Trumpovi nestačí, musíme vládnout. Nezatracujte USA, říká legenda demokratů",
-      "lead_raw": "Pouhé vyšetřování Donalda Trumpa Spojené státy nezachrání, demokraté musejí dokázat, že umí reálně vládnout. Dlouholetá kongresmanka a bezpečnostní matadorka Jane Harmanová v Praze pro iDNES Premium pojmenovala slabiny Západu: chybějící strategii, ořezané zpravodajce i tikající dluhovou bombu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "75d51c0f2b222ec4e02cabe561bcf1927596738c",
-      "fingerprint": "f53c0732b31f1b59df6262ab0a13b978802e21f5",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/revenge-isn-t-enough-democrats-must-govern-don-t-give-up-on-the-us-says-harman.A261015_202923_zahranicni_sahu",
-      "published_utc": "2026-10-18T22:00:00Z",
-      "title_en": "Revenge isn’t enough: Democrats must govern. Don’t give up on the US, says Harman",
-      "lead_en": "Merely investigating Trump will not save the country; Democrats must prove they can actually govern. Longtime Congresswoman and national security veteran Jane Harman spoke candidly in Prague about the West’s vulnerabilities: a lack of strategy, cutbacks in the intelligence community, and a ticking debt bomb.",
-      "title_raw": "Revenge isn’t enough: Democrats must govern. Don’t give up on the US, says Harman",
-      "lead_raw": "Merely investigating Trump will not save the country; Democrats must prove they can actually govern. Longtime Congresswoman and national security veteran Jane Harman spoke candidly in Prague about the West’s vulnerabilities: a lack of strategy, cutbacks in the intelligence community, and a ticking debt bomb.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
       },
       "topics": [
         "military"
