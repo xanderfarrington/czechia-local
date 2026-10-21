@@ -1,10 +1,54 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-21T10:42:54Z",
+  "updated_at_utc": "2026-10-21T15:42:11Z",
   "topic": "local_events",
-  "count": 12,
+  "count": 13,
   "articles": [
+    {
+      "id": "448f20ad296b221b16b5fc3b2b128b83d7b644f7",
+      "fingerprint": "4596a3649bdcee396e42c69b15a4393cb9dbd4a3",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/slovensko-nizke-tatry-cesky-turista-umrti-zachranari.A261021_154621_zahranicni_kha",
+      "published_utc": "2026-10-21T14:46:00Z",
+      "title_en": "Pohřešovaný český turista zemřel. V Nízkých Tatrách našli záchranáři jeho tělo",
+      "lead_en": "Horští záchranáři ve středu našli v Nízkých Tatrách na Slovensku tělo třiasedmdesátiletého českého turisty. Muž byl nezvěstný od minulého týdne.",
+      "title_raw": "Pohřešovaný český turista zemřel. V Nízkých Tatrách našli záchranáři jeho tělo",
+      "lead_raw": "Horští záchranáři ve středu našli v Nízkých Tatrách na Slovensku tělo třiasedmdesátiletého českého turisty. Muž byl nezvěstný od minulého týdne.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "87e453b3a468b804f17e3dbcdaed8d28be2e0502",
+      "fingerprint": "d86e452669a196a4345c06094d1ebeab23b367f7",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-v-nizkych-tatrach-nasli-mrtveho-ceskeho-turistu-40604112",
+      "published_utc": "2026-10-21T13:40:58Z",
+      "title_en": "V Nízkých Tatrách našli mrtvého českého turistu",
+      "lead_en": "Horští záchranáři našli v Nízkých Tatrách na Slovensku tělo 73letého českého turisty, nezvěstný byl od minulého týdne, uvedla horská služba. Do hledání se zapojili také policisté a piloti dronů, opakované pokusy o lokalizaci mužova telefonu byly neúspěšné.",
+      "title_raw": "V Nízkých Tatrách našli mrtvého českého turistu",
+      "lead_raw": "Horští záchranáři našli v Nízkých Tatrách na Slovensku tělo 73letého českého turisty, nezvěstný byl od minulého týdne, uvedla horská služba. Do hledání se zapojili také policisté a piloti dronů, opakované pokusy o lokalizaci mužova telefonu byly neúspěšné.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "1cd6d6efc3e5150d4b8ed3e62c5fa23ff679c4f4",
       "fingerprint": "0a69fc7ad42bb957ef9a3365635cd3aa975746db",
@@ -244,29 +288,6 @@
         "local_events": 2
       },
       "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "1d6107f1f0475f3ecfc8c2a37da07571b2f1f747",
-      "fingerprint": "686af69ec80f6d43594f51d07d5a825ef5bbcd4d",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-tri-strely-huthiu-dopadly-na-vojensky-tabor-na-jihu-jemenu-nejmene-53-mrtvych-318242",
-      "published_utc": "2026-10-19T13:54:51Z",
-      "title_en": "Tři střely Húthíů dopadly na vojenský tábor na jihu Jemenu. Nejméně 53 mrtvých",
-      "lead_en": "Cílem střel Húthíů byl vládní vojenský a policejní výcvikový tábor Al - Alam, zemřelo minimálně 53 lidí. Obětmi jsou zejména mladí rekruti, zraněno je přibližně 200 lidí.",
-      "title_raw": "Tři střely Húthíů dopadly na vojenský tábor na jihu Jemenu. Nejméně 53 mrtvých",
-      "lead_raw": "Cílem střel Húthíů byl vládní vojenský a policejní výcvikový tábor Al - Alam, zemřelo minimálně 53 lidí. Obětmi jsou zejména mladí rekruti, zraněno je přibližně 200 lidí.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "military",
         "local_events"
       ],
       "primary_topic": "local_events"
