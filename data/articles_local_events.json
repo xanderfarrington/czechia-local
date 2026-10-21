@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-21T05:27:59Z",
+  "updated_at_utc": "2026-10-21T10:42:54Z",
   "topic": "local_events",
-  "count": 13,
+  "count": 12,
   "articles": [
+    {
+      "id": "1cd6d6efc3e5150d4b8ed3e62c5fa23ff679c4f4",
+      "fingerprint": "0a69fc7ad42bb957ef9a3365635cd3aa975746db",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ve-francii-se-pri-vycviku-zritil-bojovy-letoun-zemrel-nejmene-jeden-clovek.A261021_102337_zahranicni_ijan",
+      "published_utc": "2026-10-21T08:52:00Z",
+      "title_en": "Ve Francii se při výcviku zřítil bojový letoun. Jeden pilot zemřel, druhého hledají",
+      "lead_en": "Na severovýchodě Francie se v úterý večer během výcvikového letu zřítil stíhací letoun Mirage 2000D. Jeden člověk zemřel, po druhém pátrají záchranáři.",
+      "title_raw": "Ve Francii se při výcviku zřítil bojový letoun. Jeden pilot zemřel, druhého hledají",
+      "lead_raw": "Na severovýchodě Francie se v úterý večer během výcvikového letu zřítil stíhací letoun Mirage 2000D. Jeden člověk zemřel, po druhém pátrají záchranáři.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "d929a98535d65679055f690a6edaa0424ad53b40",
       "fingerprint": "e54e5c230c593dc2810dad797e6d41eaefd43422",
@@ -245,50 +267,6 @@
       },
       "topics": [
         "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "e151d55cd757228a70f3daa1bb85cea7e0b35b1c",
-      "fingerprint": "cdb9c0e70a3d3f459b4d3b8a5cb49b9f82ed35b8",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-ridic-nezvladl-na-chomutovsku-vuz-po-narazu-do-stromu-zemrel-40603523",
-      "published_utc": "2026-10-19T07:42:23Z",
-      "title_en": "Řidič nezvládl na Chomutovsku vůz, po nárazu do stromu zemřel",
-      "lead_en": "Po nárazu vozu do stromu zemřel v neděli večer na Chomutovsku pětačtyřicetiletý řidič Škody Octavie. Dva jeho spolujezdci utrpěli zranění.",
-      "title_raw": "Řidič nezvládl na Chomutovsku vůz, po nárazu do stromu zemřel",
-      "lead_raw": "Po nárazu vozu do stromu zemřel v neděli večer na Chomutovsku pětačtyřicetiletý řidič Škody Octavie. Dva jeho spolujezdci utrpěli zranění.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "e6831fc71a6aa85342d1682c6d65de97ca19eac8",
-      "fingerprint": "4f17e8edac2d338caa97bfb2917c450d0f1dbf38",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-smrt-pri-motokrosu-na-opavsku-zavodnik-podlehl-vaznym-zranenim-40603514",
-      "published_utc": "2026-10-19T07:02:12Z",
-      "title_en": "Smrt při motokrosu na Opavsku: Závodník podlehl vážným zraněním",
-      "lead_en": "Smrtelná nehoda závodního jezdce poznamenala sobotní organizované motokrosové závody na uzavřené trati v Budišově nad Budišovkou na Opavsku. Krátce po půl třetí odpoledne tam při výskoku havaroval třiapadesátiletý závodník.",
-      "title_raw": "Smrt při motokrosu na Opavsku: Závodník podlehl vážným zraněním",
-      "lead_raw": "Smrtelná nehoda závodního jezdce poznamenala sobotní organizované motokrosové závody na uzavřené trati v Budišově nad Budišovkou na Opavsku. Krátce po půl třetí odpoledne tam při výskoku havaroval třiapadesátiletý závodník.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
         "local_events"
       ],
       "primary_topic": "local_events"
