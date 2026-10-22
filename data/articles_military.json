@@ -1,10 +1,54 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-22T20:54:51Z",
+  "updated_at_utc": "2026-10-22T23:43:23Z",
   "topic": "military",
-  "count": 92,
+  "count": 93,
   "articles": [
+    {
+      "id": "c401633db3bfe2a4dbf5748d896bf2b5ec5f0883",
+      "fingerprint": "94c274f39fcf40fa9a210f922ceb3c2d738f5bc1",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/olomoucky-soud-vynese-rozsudek-v-kauze-otravy-kolegu-a-nastrah-pro-bezdomovce-/2840156",
+      "published_utc": "2026-10-22T22:11:00Z",
+      "title_en": "Olomoucký soud vynese rozsudek v kauze otravy kolegů a nástrah pro bezdomovce",
+      "lead_en": "Olomouc - Olomoucký krajský soud dnes vynese rozsudek v případu muže z Olomoucka souzeného za otravu kolegů ve šternberské zbrojovce, kvůli otráveným nástrahám na olomoucké bezdomovce a kvůli přípravě...",
+      "title_raw": "Olomoucký soud vynese rozsudek v kauze otravy kolegů a nástrah pro bezdomovce",
+      "lead_raw": "Olomouc - Olomoucký krajský soud dnes vynese rozsudek v případu muže z Olomoucka souzeného za otravu kolegů ve šternberské zbrojovce, kvůli otráveným nástrahám na olomoucké bezdomovce a kvůli přípravě...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "e6ba830c2ef282c7f88089f0247bde02859ae669",
+      "fingerprint": "67d40b602c83bab00e044195cd9dc5a255d96a1d",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/volby-ve-stinu-raket.A261022_190655_zahranicni_jans",
+      "published_utc": "2026-10-22T22:00:00Z",
+      "title_en": "Volby ve stínu raket. Izraelská armáda je v pohotovosti, nepřítel může znovu udeřit",
+      "lead_en": "Izraelská armáda je v plné pohotovosti. Do voleb sice zbývá ještě několik dní, ale vojáci podle médií už od včerejška musí zůstávat na základnách.",
+      "title_raw": "Volby ve stínu raket. Izraelská armáda je v pohotovosti, nepřítel může znovu udeřit",
+      "lead_raw": "Izraelská armáda je v plné pohotovosti. Do voleb sice zbývá ještě několik dní, ale vojáci podle médií už od včerejška musí zůstávat na základnách.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "13816d6b45b82cd9ed219474b9eadfa131296784",
       "fingerprint": "64374fd4dbe1a3855bd840626baaefd2fdcee07a",
@@ -2026,29 +2070,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "c3d66996014a0cff47790c25d4ce2f7c293120b0",
-      "fingerprint": "6467b0461d8447a377eb1590b44da70f7c213133",
-      "source": "Radio Prague International (EN)",
-      "url": "https://english.radio.cz/czech-crop-invention-heads-european-farms-through-british-partnership-8898750",
-      "published_utc": "2026-10-20T22:05:00Z",
-      "title_en": "Czech crop invention heads to European farms through British partnership",
-      "lead_en": "A molecule developed in Olomouc could help cereal crops make better use of water and nutrients from their earliest stages of growth. Known as TFU, it is being brought to European farmers by British company INTRACROP under a licensing agreement with Palacký University.",
-      "title_raw": "Czech crop invention heads to European farms through British partnership",
-      "lead_raw": "A molecule developed in Olomouc could help cereal crops make better use of water and nutrients from their earliest stages of growth. Known as TFU, it is being brought to European farmers by British company INTRACROP under a licensing agreement with Palacký University.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
