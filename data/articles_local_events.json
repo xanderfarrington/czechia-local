@@ -1,10 +1,78 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-22T06:44:18Z",
+  "updated_at_utc": "2026-10-22T12:34:57Z",
   "topic": "local_events",
-  "count": 13,
+  "count": 14,
   "articles": [
+    {
+      "id": "c2ddefaa72e17e32c98d4c1b2192d66babdc2367",
+      "fingerprint": "e4178a05e52466024d0fa6e3d9e930d3f3f8d1f7",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-gibs-hleda-svedky-vazne-nehody-pri-ktere-policejni-auto-srazilo-nezletilou-divku-40604265",
+      "published_utc": "2026-10-22T10:54:14Z",
+      "title_en": "Policejní auto srazilo 10letou dívku, GIBS hledá svědky nehody",
+      "lead_en": "Generální inspekce bezpečnostních sborů hledá svědky vážné dopravní nehody, při které policejní vozidlo srazilo 10letou dívku, jež utrpěla vážná zranění. Inspekce vyzývá zejména dva svědky, které zachytila bezpečnostní kamera.",
+      "title_raw": "Policejní auto srazilo 10letou dívku, GIBS hledá svědky nehody",
+      "lead_raw": "Generální inspekce bezpečnostních sborů hledá svědky vážné dopravní nehody, při které policejní vozidlo srazilo 10letou dívku, jež utrpěla vážná zranění. Inspekce vyzývá zejména dva svědky, které zachytila bezpečnostní kamera.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "eb4fcc3762992fefd7ae6ca03cafbbb1ed84bd10",
+      "fingerprint": "522997a4d1da4dd276427134c2633fa8c7b71c0a",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-zralok-zabil-zenu-u-pobrezi-jar-magneticky-odpuzovac-nepomohl-40604220",
+      "published_utc": "2026-10-22T10:30:15Z",
+      "title_en": "Žralok zabil ženu u pobřeží JAR. Magnetický odpuzovač nepomohl",
+      "lead_en": "Smrtelná zranění způsobil žralok 65leté ženě, která plavala podél pláže na jihovýchodě Jihoafrické republiky. Plavkyně zemřela dříve, než ji lidé stačili vytáhnout na břeh.",
+      "title_raw": "Žralok zabil ženu u pobřeží JAR. Magnetický odpuzovač nepomohl",
+      "lead_raw": "Smrtelná zranění způsobil žralok 65leté ženě, která plavala podél pláže na jihovýchodě Jihoafrické republiky. Plavkyně zemřela dříve, než ji lidé stačili vytáhnout na břeh.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "d151d406650f141e069f441ca9ca976b646f779a",
+      "fingerprint": "729957c15221e8e92d577e2bd1f7622a537f2d3a",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/praha/zpravy/praha-10-kutnohorska-nehoda-divka-chodkyne-policejni-auto.A261022_110322_praha-zpravy_tmps",
+      "published_utc": "2026-10-22T09:41:00Z",
+      "title_en": "GIBS hledá důležité svědky nehody policejního vozu, který v Praze srazil dívku",
+      "lead_en": "Generální inspekce bezpečnostních sborů (GIBS), hledá svědky vážné nehody, která se stala v pondělí v Kutnohorské ulici v Praze. Policejní vůz tam srazil nezletilou chodkyni, která skončila s vážnými zraněními v nemocnici.",
+      "title_raw": "GIBS hledá důležité svědky nehody policejního vozu, který v Praze srazil dívku",
+      "lead_raw": "Generální inspekce bezpečnostních sborů (GIBS), hledá svědky vážné nehody, která se stala v pondělí v Kutnohorské ulici v Praze. Policejní vůz tam srazil nezletilou chodkyni, která skončila s vážnými zraněními v nemocnici.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "380ea6598cee8a0b847e168bb96d13923e42f397",
       "fingerprint": "dfdd8bc36b0100b499159bc77d0fd48c78182821",
@@ -237,51 +305,6 @@
       "lead_en": "Výpadek proudu vyřadil z provozu cestujícími naplněnou lanovku na pražský Petřín. Cestující bylo zapotřebí evakuovat.",
       "title_raw": "Evakuace na Petříně: V nefunkční lanovce trčela plná souprava cestujících",
       "lead_raw": "Výpadek proudu vyřadil z provozu cestujícími naplněnou lanovku na pražský Petřín. Cestující bylo zapotřebí evakuovat.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "9df11947c4aabd622c455d719e69094336585792",
-      "fingerprint": "f6a0295cd33af95ba037f36940f5277477486bbb",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-nehodu-policejniho-auta-ktere-v-praze-vazne-zranilo-divku-vysetruje-inspekce-40603747",
-      "published_utc": "2026-10-20T07:40:01Z",
-      "title_en": "Nehodu policejního auta, které v Praze vážně zranilo dívku, vyšetřuje inspekce",
-      "lead_en": "Pondělní vážnou nehodu policejního vozidla v pražské Kutnohorské ulici, při níž utrpěla těžká zranění nezletilá dívka, si převzala Generální inspekce bezpečnostních sborů (GIBS). Novinkám to potvrdil její mluvčí Jakub Augusta.",
-      "title_raw": "Nehodu policejního auta, které v Praze vážně zranilo dívku, vyšetřuje inspekce",
-      "lead_raw": "Pondělní vážnou nehodu policejního vozidla v pražské Kutnohorské ulici, při níž utrpěla těžká zranění nezletilá dívka, si převzala Generální inspekce bezpečnostních sborů (GIBS). Novinkám to potvrdil její mluvčí Jakub Augusta.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "794402227b3165944204ed7303a0598eb3b10af2",
-      "fingerprint": "cf06597cec3b4ff0a9cbecfa88be996275945948",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/charkovska-oblast-rusko-utok-ukrajina-konflikt-dron.A261020_085940_zahranicni_tmps",
-      "published_utc": "2026-10-20T07:28:00Z",
-      "title_en": "Naprosté zvěrstvo. Rusko zabíjelo v parku, zemřela i holčička v kočárku",
-      "lead_en": "Ruský dronový útok na park v obci Nova Vodolaha v Charkovské oblasti zabil šest lidí, z toho dvě děti, upřesnil v pondělí večer šéf regionální správy Oleh Syněhubov, který dříve informoval o šesti mrtvých včetně tří dětí. Moskva se k této informaci nevyjádřila.",
-      "title_raw": "Naprosté zvěrstvo. Rusko zabíjelo v parku, zemřela i holčička v kočárku",
-      "lead_raw": "Ruský dronový útok na park v obci Nova Vodolaha v Charkovské oblasti zabil šest lidí, z toho dvě děti, upřesnil v pondělí večer šéf regionální správy Oleh Syněhubov, který dříve informoval o šesti mrtvých včetně tří dětí. Moskva se k této informaci nevyjádřila.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
