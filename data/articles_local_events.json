@@ -1,10 +1,55 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-22T01:02:37Z",
+  "updated_at_utc": "2026-10-22T06:44:18Z",
   "topic": "local_events",
-  "count": 12,
+  "count": 13,
   "articles": [
+    {
+      "id": "380ea6598cee8a0b847e168bb96d13923e42f397",
+      "fingerprint": "dfdd8bc36b0100b499159bc77d0fd48c78182821",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-kyjev-celil-druhemu-raketovemu-utoku-za-nekolik-hodin-40604163",
+      "published_utc": "2026-10-22T03:37:36Z",
+      "title_en": "Kyjev čelil druhému masivnímu útoku během několika hodin",
+      "lead_en": "Kyjev v noci na čtvrtek čelil další vlně ruských raketových útoků. Při úderech zahynul jeden člověk a dalších 22 lidí utrpělo zranění, uvedli záchranáři.",
+      "title_raw": "Kyjev čelil druhému masivnímu útoku během několika hodin",
+      "lead_raw": "Kyjev v noci na čtvrtek čelil další vlně ruských raketových útoků. Při úderech zahynul jeden člověk a dalších 22 lidí utrpělo zranění, uvedli záchranáři.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "98036a010703755e18964f3beaeebe90503fc9dd",
+      "fingerprint": "a5c34036f2644285ac39a9051d7dfaa82e8a3887",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/tri-nebo-ctyri-boure-najednou-na-zapadni-stredomori-uderila-tlakova-nize-adam-378887",
+      "published_utc": "2026-10-22T03:01:00Z",
+      "title_en": "„Tři nebo čtyři bouře najednou.“ Na západní Středomoří udeřila tlaková níže Adam",
+      "lead_en": "Obyvatelé západního Středomoří se potýkají s následky tlakové níže Adam. Ta nejprve zpustošila východní pobřeží Španělska, kde zemřelo nejméně pět lidí.",
+      "title_raw": "„Tři nebo čtyři bouře najednou.“ Na západní Středomoří udeřila tlaková níže Adam",
+      "lead_raw": "Obyvatelé západního Středomoří se potýkají s následky tlakové níže Adam. Ta nejprve zpustošila východní pobřeží Španělska, kde zemřelo nejméně pět lidí.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "f0aebf0bd4caf765406689b3b66e6791c4030a32",
       "fingerprint": "2ccec425efca54252b711397d1c726fc8216bfb8",
@@ -243,28 +288,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "196e509a652e1766d36df5b8d7fbe7d3298756ae",
-      "fingerprint": "2131a212927ed2c86cecb825c6b2b063c8751fff",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/pri-sesuvu-v-nelegalnim-zlatem-dole-v-kolumbii-zemrelo-ctrnact-lidi-378805",
-      "published_utc": "2026-10-20T01:42:25Z",
-      "title_en": "Při sesuvu v nelegálním zlatém dole v Kolumbii zemřelo čtrnáct lidí",
-      "lead_en": "Při závalu v nelegálním zlatém dole na jihozápadě Kolumbie zahynulo čtrnáct lidí a dalších sedm utrpělo zranění, uvedla agentura Reuters. Podle místních úřadů se pohřešuje dalších dvanáct až patnáct horníků, informovala stanice al-Džazíra.",
-      "title_raw": "Při sesuvu v nelegálním zlatém dole v Kolumbii zemřelo čtrnáct lidí",
-      "lead_raw": "Při závalu v nelegálním zlatém dole na jihozápadě Kolumbie zahynulo čtrnáct lidí a dalších sedm utrpělo zranění, uvedla agentura Reuters. Podle místních úřadů se pohřešuje dalších dvanáct až patnáct horníků, informovala stanice al-Džazíra.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
       },
       "topics": [
         "local_events"
