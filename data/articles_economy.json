@@ -1,10 +1,102 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-22T12:34:57Z",
+  "updated_at_utc": "2026-10-22T17:42:35Z",
   "topic": "economy",
-  "count": 39,
+  "count": 34,
   "articles": [
+    {
+      "id": "db5dd7736ba0091ac2e4b4e8406a37d54ab69c7f",
+      "fingerprint": "38f12bb171eeaa41050012da6f0651fb035fa565",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-rusko-vyzyva-eu-k-prehodnoceni-zakazu-dovozu-ruskeho-lng-40604414",
+      "published_utc": "2026-10-22T16:53:02Z",
+      "title_en": "Rusko vyzývá EU k přehodnocení zákazu dovozu ruského LNG",
+      "lead_en": "Rusko ve čtvrtek vyzvalo Evropskou unii, aby přehodnotila plánovaný zákaz dovozu zkapalněného zemního plynu (LNG) z Ruska. Ruští političtí a ekonomičtí představitelé poukázali v této souvislosti na nízkou úroveň zásob plynu v EU, informovala agentura Reuters.",
+      "title_raw": "Rusko vyzývá EU k přehodnocení zákazu dovozu ruského LNG",
+      "lead_raw": "Rusko ve čtvrtek vyzvalo Evropskou unii, aby přehodnotila plánovaný zákaz dovozu zkapalněného zemního plynu (LNG) z Ruska. Ruští političtí a ekonomičtí představitelé poukázali v této souvislosti na nízkou úroveň zásob plynu v EU, informovala agentura Reuters.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "c51abd5e01af4d8eac4ff8d996cea549df350e76",
+      "fingerprint": "9fd1a2eae266bd3591a9e7c2330d9c29519d18ee",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/domaci/tabak-recyklace-silnice.A261022_130327_ekonomika_elsy",
+      "published_utc": "2026-10-22T16:12:00Z",
+      "title_en": "Česko má unikátní recyklační linku. Mění tabákové náplně na surovinu pro stavbu silnic",
+      "lead_en": "Česko jako první země na světě spustilo recyklační linku na použité tabákové náplně umístěnou v lodním kontejneru. Speciální technologie z nich v průmyslovém areálu v Hoříně u Mělníka vyrábějí granulát využitelný při výrobě asfaltu.",
+      "title_raw": "Česko má unikátní recyklační linku. Mění tabákové náplně na surovinu pro stavbu silnic",
+      "lead_raw": "Česko jako první země na světě spustilo recyklační linku na použité tabákové náplně umístěnou v lodním kontejneru. Speciální technologie z nich v průmyslovém areálu v Hoříně u Mělníka vyrábějí granulát využitelný při výrobě asfaltu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "ddc53526e493b7ae37b45f597f6656717bd5f81d",
+      "fingerprint": "beaf0284f6f43cbaa87f6e320387fc5108f9ceba",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/andrej-babis-karel-havlicek-alzirsko-abdal-madzid-tabbuni.A261022_155218_domaci_aya",
+      "published_utc": "2026-10-22T14:15:00Z",
+      "title_en": "Babiš s Havlíčkem odletí do Alžírska. Budou jednat o energetice i obraně",
+      "lead_en": "Premiér Andrej Babiš a ministr průmyslu a obchodu Karel Havlíček (oba ANO) budou příští týden jednat o posílení spolupráce mezi Českem a Alžírskem. Během dvoudenní návštěvy se zaměří zejména na podporu obchodu a investic i na spolupráci v energetice a obranném průmyslu.",
+      "title_raw": "Babiš s Havlíčkem odletí do Alžírska. Budou jednat o energetice i obraně",
+      "lead_raw": "Premiér Andrej Babiš a ministr průmyslu a obchodu Karel Havlíček (oba ANO) budou příští týden jednat o posílení spolupráce mezi Českem a Alžírskem. Během dvoudenní návštěvy se zaměří zejména na podporu obchodu a investic i na spolupráci v energetice a obranném průmyslu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "e502421f277f3b8a1fd59d7a17b4d5d2e3e22501",
+      "fingerprint": "613fc15c98ca8a34c1e8d4227ad2ab249d8849b4",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/hackerske-utoky-supermarkety-mrazaky-potraviny-francie-skody.A261021_155446_eko-zahranicni_jla",
+      "published_utc": "2026-10-22T14:10:00Z",
+      "title_en": "Řetězce jsou pro hackery snadný cíl. Problémy s mrazáky mělo ve Francii 80 obchodů",
+      "lead_en": "Nedávný kybernetický útok na francouzské supermarkety zasáhl také známý řetězec Carrefour. Hackeři na dálku změnili nastavení mrazáků, ve kterých pak začala prudce stoupat teplota.",
+      "title_raw": "Řetězce jsou pro hackery snadný cíl. Problémy s mrazáky mělo ve Francii 80 obchodů",
+      "lead_raw": "Nedávný kybernetický útok na francouzské supermarkety zasáhl také známý řetězec Carrefour. Hackeři na dálku změnili nastavení mrazáků, ve kterých pak začala prudce stoupat teplota.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "f2ef71946c2aba27fea6af32a0b006a7a8de1647",
       "fingerprint": "5aea9c54caf6d17e981944df820c66e458cd4762",
@@ -657,208 +749,6 @@
       "lead_en": "Šéf americké společnosti SpaceX Elon Musk označil za dobrý nápad možnost spojení firmy s výrobcem elektromobilů Tesla. Učinil tak krátce poté, co SpaceX oznámila, že po více než roce ztrát ve třetím čtvrtletí zejména díky příjmům ze satelitního systému Starlink a počítačových technologií dosáhla zisk 4,4 miliardy dolarů (95 miliard korun).",
       "title_raw": "SpaceX oznámila po ztrátách nečekaně velký zisk, Musk mluví o fúzi s Teslou",
       "lead_raw": "Šéf americké společnosti SpaceX Elon Musk označil za dobrý nápad možnost spojení firmy s výrobcem elektromobilů Tesla. Učinil tak krátce poté, co SpaceX oznámila, že po více než roce ztrát ve třetím čtvrtletí zejména díky příjmům ze satelitního systému Starlink a počítačových technologií dosáhla zisk 4,4 miliardy dolarů (95 miliard korun).",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "0ef38eb88513d7b5422cf1d574bd374546cb5405",
-      "fingerprint": "e77d6117e3028b98273fb88a157d0f8d6ddaa990",
-      "source": "iROZHLAS - Economy",
-      "url": "https://www.irozhlas.cz/ekonomika/cena-plynu-v-evrope-prekonala-poprve-za-ctyri-roky-90-eur-za-mwh-pozdeji-ale_2610201905_cen",
-      "published_utc": "2026-10-20T17:05:00Z",
-      "title_en": "Cena plynu v Evropě překonala poprvé za čtyři roky 90 eur za MWh, později ale klesla",
-      "lead_en": "Velkoobchodní cena plynu pro evropský trh dnes poprvé za téměř čtyři roky překročila hranici 90 eur (zhruba 2200 Kč) za megawatthodinu (MWh). Později však výrazně klesla.",
-      "title_raw": "Cena plynu v Evropě překonala poprvé za čtyři roky 90 eur za MWh, později ale klesla",
-      "lead_raw": "Velkoobchodní cena plynu pro evropský trh dnes poprvé za téměř čtyři roky překročila hranici 90 eur (zhruba 2200 Kč) za megawatthodinu (MWh). Později však výrazně klesla.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "32f6276898bd91ade4f8f203e9145e645d8e6522",
-      "fingerprint": "79db84a12be56bdd3ea98d90b6f6d67ebe5204f4",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-rubio-usa-ukrajine-nic-zamerne-neupiraji-trumpa-obvineni-frustruji-318340",
-      "published_utc": "2026-10-20T15:20:19Z",
-      "title_en": "Rubio: USA Ukrajině nic záměrně neupírají, Trumpa obvinění frustrují",
-      "lead_en": "Podle amerického ministra zahraničních věcí Marca Rubia se obvinění, že USA Ukrajině záměrně škodí, nezakládají na pravdě. Navzdory sankcím se nedávno Donald Trump s Ruskem domluvil na dodávkách nafty na světové trhy.",
-      "title_raw": "Rubio: USA Ukrajině nic záměrně neupírají, Trumpa obvinění frustrují",
-      "lead_raw": "Podle amerického ministra zahraničních věcí Marca Rubia se obvinění, že USA Ukrajině záměrně škodí, nezakládají na pravdě. Navzdory sankcím se nedávno Donald Trump s Ruskem domluvil na dodávkách nafty na světové trhy.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "bb652c47725a5fe66c0cfd6af62a89ab056ac5a8",
-      "fingerprint": "05c4c38fa998a5930f7c23c298380aa2fbd307a9",
-      "source": "iROZHLAS - Economy",
-      "url": "https://www.irozhlas.cz/ekonomika/tarify-pro-statni-zamestnance-porostou-navyseni-se-projevi-u-nizkoprijmovych_2610201641_nob",
-      "published_utc": "2026-10-20T14:41:00Z",
-      "title_en": "Tarify pro státní zaměstnance porostou. ‚Navýšení se projeví u nízkopříjmových,‘ očekává Středula",
-      "lead_en": "Nově žádný tarif neklesne pod úroveň minimální mzdy, která dosáhne 24 900 korun. „Znamená to, že zaměstnanec bude mít jistotu v tarifní části svého platu, kde bylo přes 450 tisíc lidí pod úrovní minimální mzdy,“ vyzdvihuje pro Český rozhlas Plus předseda Českomoravské konfederace odborových svazů Josef Středula.",
-      "title_raw": "Tarify pro státní zaměstnance porostou. ‚Navýšení se projeví u nízkopříjmových,‘ očekává Středula",
-      "lead_raw": "Nově žádný tarif neklesne pod úroveň minimální mzdy, která dosáhne 24 900 korun. „Znamená to, že zaměstnanec bude mít jistotu v tarifní části svého platu, kde bylo přes 450 tisíc lidí pod úrovní minimální mzdy,“ vyzdvihuje pro Český rozhlas Plus předseda Českomoravské konfederace odborových svazů Josef Středula.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "a0416a050ef34ff34de1f9adea2628af061b4686",
-      "fingerprint": "2832ebe49dee59eb1c741c750d989354e85c93c7",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-dve-ceske-zbrojovky-ziskaly-evropske-penize-na-zrychleni-vyroby-318320",
-      "published_utc": "2026-10-20T14:30:00Z",
-      "title_en": "Dvě české zbrojovky získaly evropské peníze na zrychlení výroby",
-      "lead_en": "Společnosti CSG a PBS získaly dohromady téměř miliardu korun od evropského obranného fondu EDIP na investice do výroby. PBS díky grantu vyrobí více motorů pro drony a rakety, CSG rychleji zavede výrobu nitrocelulózy v Německu.",
-      "title_raw": "Dvě české zbrojovky získaly evropské peníze na zrychlení výroby",
-      "lead_raw": "Společnosti CSG a PBS získaly dohromady téměř miliardu korun od evropského obranného fondu EDIP na investice do výroby. PBS díky grantu vyrobí více motorů pro drony a rakety, CSG rychleji zavede výrobu nitrocelulózy v Německu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "economy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "11cd3c9ba56317a28cc3818d0f498b7892e10c85",
-      "fingerprint": "e880196182b180f9f4174133c1306ea417aab6ae",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/snemovna-podporila-sporne-snizeni-podpor-v-nezamestnanosti/2890208",
-      "published_utc": "2026-10-20T14:14:00Z",
-      "title_en": "Sněmovna podpořila sporné snížení podpor v nezaměstnanosti",
-      "lead_en": "Praha - Podpory v nezaměstnanosti by se mohly po nedávném zvýšení opět snížit. Pokles podpor předpokládá vládní novela zákoníku práce a dalších zákonů, kterou v dnešním úvodním kole podpořila Sněmovna....",
-      "title_raw": "Sněmovna podpořila sporné snížení podpor v nezaměstnanosti",
-      "lead_raw": "Praha - Podpory v nezaměstnanosti by se mohly po nedávném zvýšení opět snížit. Pokles podpor předpokládá vládní novela zákoníku práce a dalších zákonů, kterou v dnešním úvodním kole podpořila Sněmovna....",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "2392233a4d6de4e298673440a412323d9a8823a2",
-      "fingerprint": "3f38f1b0ff7c356ee4263f7cfd49ee2b65b41036",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-policie-vysetruje-trdelnikovy-twist-fransizanti-skupinu-podeziraji-z-podvodu-318244",
-      "published_utc": "2026-10-20T13:35:00Z",
-      "title_en": "Policie vyšetřuje trdelníkový Twist. Franšízanti skupinu podezírají z podvodu",
-      "lead_en": "Policisté vyšetřují holding Twist, který nabízel licence na provozovny Trdlokafe, Bubblify nebo Kytky od Pepy jako výhodnou investici. Řada franšízantů tvrdí, že výkon provozoven neodpovídal slibům, další obchod vůbec nedostali.",
-      "title_raw": "Policie vyšetřuje trdelníkový Twist. Franšízanti skupinu podezírají z podvodu",
-      "lead_raw": "Policisté vyšetřují holding Twist, který nabízel licence na provozovny Trdlokafe, Bubblify nebo Kytky od Pepy jako výhodnou investici. Řada franšízantů tvrdí, že výkon provozoven neodpovídal slibům, další obchod vůbec nedostali.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "28e622b924112db981bdfefd0985321d7d950dc4",
-      "fingerprint": "03cd1868a0d4949ff5b1691e2bad58fbc84fca29",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/cena-plynu-pro-evropsky-trh-poprve-za-temer-ctyri-roky-prekrocila-90-eur-za-mwh/2890524",
-      "published_utc": "2026-10-20T13:33:00Z",
-      "title_en": "Cena plynu pro evropský trh poprvé za téměř čtyři roky překročila 90 eur za MWh",
-      "lead_en": "Amsterodam - Velkoobchodní cena plynu pro evropský trh dnes poprvé za téměř čtyři roky překročila hranici 90 eur (zhruba 2200 Kč) za megawatthodinu (MWh). Za jejím růstem stojí pokračující výpadky v dodávkách...",
-      "title_raw": "Cena plynu pro evropský trh poprvé za téměř čtyři roky překročila 90 eur za MWh",
-      "lead_raw": "Amsterodam - Velkoobchodní cena plynu pro evropský trh dnes poprvé za téměř čtyři roky překročila hranici 90 eur (zhruba 2200 Kč) za megawatthodinu (MWh). Za jejím růstem stojí pokračující výpadky v dodávkách...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "75facd5b2298c72f0751a02e9dcf71c7c982f23d",
-      "fingerprint": "71f08344331fbf3712572c2c195eabad4cfcba3f",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/cena-plynu-v-evrope-prekonala-90-eur-za-mwh-pozdeji-ale-klesla/2890524",
-      "published_utc": "2026-10-20T13:33:00Z",
-      "title_en": "Cena plynu v Evropě překonala 90 eur za MWh, později ale klesla",
-      "lead_en": "Amsterodam - Velkoobchodní cena plynu pro evropský trh dnes poprvé za téměř čtyři roky překročila hranici 90 eur (zhruba 2200 Kč) za megawatthodinu (MWh). Později však výrazně klesla.",
-      "title_raw": "Cena plynu v Evropě překonala 90 eur za MWh, později ale klesla",
-      "lead_raw": "Amsterodam - Velkoobchodní cena plynu pro evropský trh dnes poprvé za téměř čtyři roky překročila hranici 90 eur (zhruba 2200 Kč) za megawatthodinu (MWh). Později však výrazně klesla.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "01746674209f4eb3b2d09eba75309e53cf48a29f",
-      "fingerprint": "4ad7770c818f6640f7a281d80ba7fc62f21e382a",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-vlada-se-zadluzuje-jako-by-byla-krize-kritizuje-rozpocet-opozice-40603855",
-      "published_utc": "2026-10-20T13:14:09Z",
-      "title_en": "Vláda se zadlužuje, jako by byla krize, kritizuje rozpočet opozice",
-      "lead_en": "Koalice ANO, SPD a Motoristů podle opozice sestavila státní rozpočet na příští rok tak, jako by Česko čelilo hospodářské krizi. Přestože vláda počítá se schodkem 386 miliard korun, Piráti před středečním prvním čtením ve Sněmovně varovali, že ve skutečnosti může být o více než 50 miliard vyšší.",
-      "title_raw": "Vláda se zadlužuje, jako by byla krize, kritizuje rozpočet opozice",
-      "lead_raw": "Koalice ANO, SPD a Motoristů podle opozice sestavila státní rozpočet na příští rok tak, jako by Česko čelilo hospodářské krizi. Přestože vláda počítá se schodkem 386 miliard korun, Piráti před středečním prvním čtením ve Sněmovně varovali, že ve skutečnosti může být o více než 50 miliard vyšší.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
