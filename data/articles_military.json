@@ -1,10 +1,77 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-22T17:42:35Z",
+  "updated_at_utc": "2026-10-22T20:54:51Z",
   "topic": "military",
   "count": 92,
   "articles": [
+    {
+      "id": "13816d6b45b82cd9ed219474b9eadfa131296784",
+      "fingerprint": "64374fd4dbe1a3855bd840626baaefd2fdcee07a",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/internet-a-pc-bezpecnost-zamerili-se-i-na-cesko-pokus-o-zneuziti-php-zranitelnosti-hlasi-kazda-osma-firma-40604432",
+      "published_utc": "2026-10-22T19:28:22Z",
+      "title_en": "Zaměřili se i na Česko. Pokus o zneužití PHP zranitelností hlásí každá osmá firma",
+      "lead_en": "Hackeři se snaží zneužít kritické bezpečnostní chyby v PHP, které byly odhaleny tuto středu, také proti českým organizacím a firmám. Podle údajů kyberbezpečnostní společnosti Check Point zaznamenalo pokus o útok 12 procent sledovaných tuzemských organizací, tedy přibližně každá osmá.",
+      "title_raw": "Zaměřili se i na Česko. Pokus o zneužití PHP zranitelností hlásí každá osmá firma",
+      "lead_raw": "Hackeři se snaží zneužít kritické bezpečnostní chyby v PHP, které byly odhaleny tuto středu, také proti českým organizacím a firmám. Podle údajů kyberbezpečnostní společnosti Check Point zaznamenalo pokus o útok 12 procent sledovaných tuzemských organizací, tedy přibližně každá osmá.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "14353dc80495edf7d64a493ae5a4dddd52bd6c09",
+      "fingerprint": "a4a71a9c6a3f7b6c2115989f0091c7b10ed665ea",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-cesi-se-uci-ovladat-valecne-drony-kurz-cerpa-ze-zkusenosti-z-ukrajiny-40603287",
+      "published_utc": "2026-10-22T18:09:29Z",
+      "title_en": "Češi se učí ovládat válečné drony. Kurz čerpá ze zkušeností z Ukrajiny",
+      "lead_en": "Třítýdenní kurz pilotování FPV dronů pořádají v Česku organizace Strong Europe a dronová škola Aeroscan. Účastníci se učí ovládat stroje, které se zásadně uplatňují v současné válce na Ukrajině, ale také spolupracovat v týmu a orientovat se v bezpečnostních hrozbách.",
+      "title_raw": "Češi se učí ovládat válečné drony. Kurz čerpá ze zkušeností z Ukrajiny",
+      "lead_raw": "Třítýdenní kurz pilotování FPV dronů pořádají v Česku organizace Strong Europe a dronová škola Aeroscan. Účastníci se učí ovládat stroje, které se zásadně uplatňují v současné válce na Ukrajině, ale také spolupracovat v týmu a orientovat se v bezpečnostních hrozbách.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d52520a16528fa35a1846e79841c1efbd14d962a",
+      "fingerprint": "b20cb50a8dfccf571b8ee66dc63e8becbafdecbc",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/jim-stokes-jaderny-expert-usa-atamovky.A261022_112446_zahranicni_rtn",
+      "published_utc": "2026-10-22T18:00:00Z",
+      "title_en": "Atomovky mít nemusíte. České F-35 by ale mohly krýt jaderný úder, říká stratég NATO",
+      "lead_en": "Ruské vyhrožování atomovými zbraněmi přestalo fungovat a Severoatlantickou alianci neděsí. Skutečným problémem by podle Jima Stokese, bývalého ředitele pro jadernou politiku NATO a experta Pentagonu, byl až fyzický přesun hlavic.",
+      "title_raw": "Atomovky mít nemusíte. České F-35 by ale mohly krýt jaderný úder, říká stratég NATO",
+      "lead_raw": "Ruské vyhrožování atomovými zbraněmi přestalo fungovat a Severoatlantickou alianci neděsí. Skutečným problémem by podle Jima Stokese, bývalého ředitele pro jadernou politiku NATO a experta Pentagonu, byl až fyzický přesun hlavic.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "c76ee5749db1c32b869f9e58f3e3ad42a819a8df",
       "fingerprint": "cc4ca668cd3f87d364256192fd5730fa30f236bb",
@@ -1982,72 +2049,6 @@
         "military"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "26894fcd5396f3b3719b6e690ef0a2b59b8bf1e5",
-      "fingerprint": "9ec1b7a91caa37838361ef3ae5c9d99f9605ca9d",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/bezpecnostni-rada-statu-probrala-vypadky-proudu-i-navysovani-poctu-vojaku-378844",
-      "published_utc": "2026-10-20T20:00:00Z",
-      "title_en": "Bezpečnostní rada státu probrala výpadky proudu i navyšování počtu vojáků",
-      "lead_en": "Bezpečnostní rada státu za účasti prezidenta hodnotila aktuální situaci doma i ve světě a možná rizika pro další vývoj. Stupeň ohrožení terorismem ponechala mírný, probrala například opatření, jak zajistit elektronické služby během rozsáhlých výpadků proudu, nebo koncepci výstavby armády do roku 2040, podle níž má vojsko posilovat.",
-      "title_raw": "Bezpečnostní rada státu probrala výpadky proudu i navyšování počtu vojáků",
-      "lead_raw": "Bezpečnostní rada státu za účasti prezidenta hodnotila aktuální situaci doma i ve světě a možná rizika pro další vývoj. Stupeň ohrožení terorismem ponechala mírný, probrala například opatření, jak zajistit elektronické služby během rozsáhlých výpadků proudu, nebo koncepci výstavby armády do roku 2040, podle níž má vojsko posilovat.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "41aa897dc116304d15e038c80143cb04cfbdb6ee",
-      "fingerprint": "6152c11ded762658cd1aa487f23e3fbeb02004ef",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-nadrizeny-poresil-hanlivou-nasivku-plk-foltyna-odpoved-rajchlovi-pobavi-40603920",
-      "published_utc": "2026-10-20T18:23:07Z",
-      "title_en": "Nadřízený pořešil hanlivou nášivku plk. Foltýna. Odpověď Rajchlovi pobaví",
-      "lead_en": "Armádní plukovník Otakar Foltýn se dopustil přestupku, když si na uniformu připevnil nášivku urážející ruského prezidenta Vladimira Putina. V odpovědi na podnět poslance Jindřicha Rajchla (za SPD) to napsala prezidentská vojenská kancelář.",
-      "title_raw": "Nadřízený pořešil hanlivou nášivku plk. Foltýna. Odpověď Rajchlovi pobaví",
-      "lead_raw": "Armádní plukovník Otakar Foltýn se dopustil přestupku, když si na uniformu připevnil nášivku urážející ruského prezidenta Vladimira Putina. V odpovědi na podnět poslance Jindřicha Rajchla (za SPD) to napsala prezidentská vojenská kancelář.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "f993407b1f3df6ab696fad8c66dd00943e899e10",
-      "fingerprint": "a0b65c3e53f2ace6e204d6e50cabe42701b3e715",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-rusko-valka-usa-dohoda-mir-zelenskyj-trump.A261020_194307_zahranicni_dtt",
-      "published_utc": "2026-10-20T18:13:48Z",
-      "title_en": "Diskuse o Ukrajině bez Ukrajiny není možná, řekl v Oslu Zelenskyj",
-      "lead_en": "Diskuse o Ukrajině se nemůže konat bez Ukrajiny, zdůraznil v úterý ukrajinský prezident Volodymyr Zelenskyj k možné trojstranné schůzce USA, Ruska a Číny, kterou navrhl ruský prezident Vladimir Putin. Ukrajina je podle Zelenského Spojeným státům vděčná za obnovené sdílení zpravodajských informací a včasných varování před ruskými raketovými útoky.",
-      "title_raw": "Diskuse o Ukrajině bez Ukrajiny není možná, řekl v Oslu Zelenskyj",
-      "lead_raw": "Diskuse o Ukrajině se nemůže konat bez Ukrajiny, zdůraznil v úterý ukrajinský prezident Volodymyr Zelenskyj k možné trojstranné schůzce USA, Ruska a Číny, kterou navrhl ruský prezident Vladimir Putin. Ukrajina je podle Zelenského Spojeným státům vděčná za obnovené sdílení zpravodajských informací a včasných varování před ruskými raketovými útoky.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
