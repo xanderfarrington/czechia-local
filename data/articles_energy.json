@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-23T18:00:28Z",
+  "updated_at_utc": "2026-10-23T21:44:44Z",
   "topic": "energy",
   "count": 38,
   "articles": [
+    {
+      "id": "e739411dc95dafa3ccf55c3a1eef5e23f682e812",
+      "fingerprint": "20104669e3d83f4585193779eb3086e016ded59e",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/americky-ministr-zahranici-marco-rubio-byl-ve-ctvrtek-kratce-v-praze/2892349",
+      "published_utc": "2026-10-23T20:11:00Z",
+      "title_en": "Americký ministr zahraničí Marco Rubio byl ve čtvrtek krátce v Praze",
+      "lead_en": "Praha - Americký ministr zahraničí Marco Rubio byl ve čtvrtek krátce v Praze. Jeho letoun zde doplňoval palivo.",
+      "title_raw": "Americký ministr zahraničí Marco Rubio byl ve čtvrtek krátce v Praze",
+      "lead_raw": "Praha - Americký ministr zahraničí Marco Rubio byl ve čtvrtek krátce v Praze. Jeho letoun zde doplňoval palivo.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "37eb46327c88d9997528cd1fcb88b506e09398d4",
       "fingerprint": "860fd9b5eb3f84646fb19dc83e5f51ba62de4097",
@@ -838,28 +860,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "bacfee6b986d90d0115bf483e7d0236d2cba085f",
-      "fingerprint": "ce1c48634c6f2885641693b4f4cfa99762ca4f6d",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-akcie-fondy-tesla-ve-ctvrtleti-prekonala-odhady-automobilovy-byznys-ji-ale-dale-slabne-318465",
-      "published_utc": "2026-10-21T21:31:12Z",
-      "title_en": "Tesla ve čtvrtletí překonala odhady, automobilový byznys jí ale dále slábne",
-      "lead_en": "Tesla ve třetím čtvrtletí překonala odhady tržeb i upraveného zisku, její provozní zisk se ale propadl o 56 procent a tržby za samotná auta klesly. Volné cash flow naopak překvapilo pozitivně díky nižším než očekávaným investicím.",
-      "title_raw": "Tesla ve čtvrtletí překonala odhady, automobilový byznys jí ale dále slábne",
-      "lead_raw": "Tesla ve třetím čtvrtletí překonala odhady tržeb i upraveného zisku, její provozní zisk se ale propadl o 56 procent a tržby za samotná auta klesly. Volné cash flow naopak překvapilo pozitivně díky nižším než očekávaným investicím.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
