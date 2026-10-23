@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-23T13:52:56Z",
+  "updated_at_utc": "2026-10-23T18:00:28Z",
   "topic": "economy",
-  "count": 31,
+  "count": 29,
   "articles": [
+    {
+      "id": "68c355ee9b12f1da72a5db333448f9b28829b968",
+      "fingerprint": "5bdd7abb293cab9b9ce33406a5f313ba26edca32",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-stat-marne-vymaha-sto-milionu-na-toasty-pro-agrofert-brusel-chce-vysvetleni-40604622",
+      "published_utc": "2026-10-23T15:28:13Z",
+      "title_en": "Stát marně vymáhá sto milionů na toasty pro Agrofert. Brusel chce vysvětlení",
+      "lead_en": "Evropská komise žádá české ministerstvo průmyslu o vysvětlení stomilionové dotace pro pekárnu Penam. Ta patří do koncernu Agrofert a peníze dostala na linku na výrobu toustového chleba.",
+      "title_raw": "Stát marně vymáhá sto milionů na toasty pro Agrofert. Brusel chce vysvětlení",
+      "lead_raw": "Evropská komise žádá české ministerstvo průmyslu o vysvětlení stomilionové dotace pro pekárnu Penam. Ta patří do koncernu Agrofert a peníze dostala na linku na výrobu toustového chleba.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "4711493a497241005f77762a4a3af7469475e457",
       "fingerprint": "573da0457736f9972f429e920c443c4102578ea6",
@@ -621,72 +643,6 @@
         "energy": 0,
         "economy": 2,
         "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "b84badb6d030ef325684d03720497d29952fa32c",
-      "fingerprint": "160b9401e985a8561449a5844973c5be71554c0b",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/prezident-pavel-se-nechysta-vetovat-statni-rozpocet-ktery-predlozila-babisova-vlada.A261021_193307_domaci_kop",
-      "published_utc": "2026-10-21T17:57:26Z",
-      "title_en": "Prezident Pavel řekl, že se nechystá vetovat rozpočet, který předložila vláda",
-      "lead_en": "Prezident Petr Pavel nepočítá s tím, že by vetoval státní rozpočet se schodkem 386 miliard korun. Návrh vlády Andreje Babiše ve středu projednává Sněmovna v prvním čtení.",
-      "title_raw": "Prezident Pavel řekl, že se nechystá vetovat rozpočet, který předložila vláda",
-      "lead_raw": "Prezident Petr Pavel nepočítá s tím, že by vetoval státní rozpočet se schodkem 386 miliard korun. Návrh vlády Andreje Babiše ve středu projednává Sněmovna v prvním čtení.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "41a1821fb2730e95f77ead6da447f5094003ab52",
-      "fingerprint": "cd7e13a9af5c14cf931c0af23aa937ca9a2220e4",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/nesnizujme-podpory-v-nezamestnanosti-notuje-si-grolich-s-seiem-odboru.A261021_174918_domaci_kop",
-      "published_utc": "2026-10-21T16:50:00Z",
-      "title_en": "Nesnižujme podpory v nezaměstnanosti, notuje si Grolich s šéfem odborů",
-      "lead_en": "Šéf lidovců Jan Grolich se shodl s předsedou odborové centrály ČMKOS Josefem Středulou na tom, že by neměly být přijímány dvě úpravy zákoníku práce - jedna, která se týká návrhu vlády snížit podpory v nezaměstnanosti, a druhá, která by podle odborů i lidovců mohla vést k legaliza",
-      "title_raw": "Nesnižujme podpory v nezaměstnanosti, notuje si Grolich s šéfem odborů",
-      "lead_raw": "Šéf lidovců Jan Grolich se shodl s předsedou odborové centrály ČMKOS Josefem Středulou na tom, že by neměly být přijímány dvě úpravy zákoníku práce - jedna, která se týká návrhu vlády snížit podpory v nezaměstnanosti, a druhá, která by podle odborů i lidovců mohla vést k legaliza",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "55b78b8d4bf7bc5288190e368624496088e4e8fe",
-      "fingerprint": "954ff086f16e409149dd6fab22f15f9c30bdc4c6",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/francie-nevi-co-ji-jeste-ceka-rozpoctova-krize-muze-mit-fatalni-dusledky.A261021_143818_eko-zahranicni_remy",
-      "published_utc": "2026-10-21T16:00:00Z",
-      "title_en": "Francie neví, co ji ještě čeká. Rozpočtová krize, kvůli které se bouří, teprve začala",
-      "lead_en": "O víkendu francouzské ulice hořely a vře to dál i v parlamentu. Důvodem je vládní balíček úsporných opatření za zhruba pět desítek miliard eur, který má dostat rozpočtový deficit pod kontrolu.",
-      "title_raw": "Francie neví, co ji ještě čeká. Rozpočtová krize, kvůli které se bouří, teprve začala",
-      "lead_raw": "O víkendu francouzské ulice hořely a vře to dál i v parlamentu. Důvodem je vládní balíček úsporných opatření za zhruba pět desítek miliard eur, který má dostat rozpočtový deficit pod kontrolu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 1
       },
       "topics": [
         "economy"

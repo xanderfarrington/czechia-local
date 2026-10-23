@@ -1,10 +1,79 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-23T13:52:56Z",
+  "updated_at_utc": "2026-10-23T18:00:28Z",
   "topic": "energy",
-  "count": 41,
+  "count": 38,
   "articles": [
+    {
+      "id": "37eb46327c88d9997528cd1fcb88b506e09398d4",
+      "fingerprint": "860fd9b5eb3f84646fb19dc83e5f51ba62de4097",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-video-prekvapivy-manevr-ukrajinci-vyuzili-behem-boju-o-kupjansk-potrubi-318607",
+      "published_utc": "2026-10-23T17:43:51Z",
+      "title_en": "Video: Překvapivý manévr. Ukrajinci využili během bojů o Kupjansk potrubí",
+      "lead_en": "V podzemí se bojovalo převážně pomocí těžkých kulometů a vojáci nosili plynové masky. Zápach plynu a mrtvých těl byl tak silný, že se uniformy poté musely několikrát vyprat v octu.",
+      "title_raw": "Video: Překvapivý manévr. Ukrajinci využili během bojů o Kupjansk potrubí",
+      "lead_raw": "V podzemí se bojovalo převážně pomocí těžkých kulometů a vojáci nosili plynové masky. Zápach plynu a mrtvých těl byl tak silný, že se uniformy poté musely několikrát vyprat v octu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "fb12d94d6fe189dc7210ed1d5ce9dfe73d97bacc",
+      "fingerprint": "bc5d039eedd643ccf9243a55f773c3cdd6026903",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-boure-pripravila-statisice-lidi-ve-francii-o-elektrinu-v-bruselu-ctyri-zraneni-318640",
+      "published_utc": "2026-10-23T16:43:31Z",
+      "title_en": "Bouře připravila statisíce lidí ve Francii o elektřinu, v Bruselu čtyři zranění",
+      "lead_en": "Bouře Austen zasáhla Evropu. Ve Francii a Británii odřízla od proudu přes 300 tisíc domácností a ochromila dopravu.",
+      "title_raw": "Bouře připravila statisíce lidí ve Francii o elektřinu, v Bruselu čtyři zranění",
+      "lead_raw": "Bouře Austen zasáhla Evropu. Ve Francii a Británii odřízla od proudu přes 300 tisíc domácností a ochromila dopravu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "49c68d526f2a77743c883e0cf9e6c44e013d61b1",
+      "fingerprint": "66a5cf9bcb776adbe734053d49c89fb347897f0a",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-boure-pripravila-statisice-lidi-ve-francii-o-elektrinu-v-bruselu-ctyri-zraneni-40604671",
+      "published_utc": "2026-10-23T16:09:08Z",
+      "title_en": "Bouře připravila statisíce lidí ve Francii o elektřinu, v Bruselu čtyři zranění",
+      "lead_en": "Bouře Austen, která se přehnala Lamanšským průlivem, způsobila dopravní omezení a četné výpadky proudu. Ve Francii se bez elektřiny ocitlo téměř 300 tisíc domácností a letecké spoje i vlaky nabíraly zpoždění.",
+      "title_raw": "Bouře připravila statisíce lidí ve Francii o elektřinu, v Bruselu čtyři zranění",
+      "lead_raw": "Bouře Austen, která se přehnala Lamanšským průlivem, způsobila dopravní omezení a četné výpadky proudu. Ve Francii se bez elektřiny ocitlo téměř 300 tisíc domácností a letecké spoje i vlaky nabíraly zpoždění.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "7b7494cb0c5fdb5185c6069565399bb0f87dbc78",
       "fingerprint": "21cb50ef292782908e413a79eb728c465699ac6b",
@@ -791,140 +860,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "70b21c20fc4c5962b65e593fc20082059eacd159",
-      "fingerprint": "7482743d75bdbf87b9b2cb08525e0c03c9cbd2d0",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-vrchni-soud-zrusil-speychalovo-osvobozeni-v-danove-kauze-kolem-ckd-praha-diz-318453",
-      "published_utc": "2026-10-21T17:38:14Z",
-      "title_en": "Vrchní soud zrušil Speychalovo osvobození v daňové kauze kolem ČKD Praha DIZ",
-      "lead_en": "Kauzou údajných daňových úniků kolem společností ČKD Praha DIZ a ČKD Energy se bude soud znovu zabývat. Vrchní soud v Praze totiž zrušil osvobozující rozsudek nad bývalým majitelem ČKD Praha DIZ Petrem Speychalem.",
-      "title_raw": "Vrchní soud zrušil Speychalovo osvobození v daňové kauze kolem ČKD Praha DIZ",
-      "lead_raw": "Kauzou údajných daňových úniků kolem společností ČKD Praha DIZ a ČKD Energy se bude soud znovu zabývat. Vrchní soud v Praze totiž zrušil osvobozující rozsudek nad bývalým majitelem ČKD Praha DIZ Petrem Speychalem.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "c219416519440aeac6986d1215895de4e5712809",
-      "fingerprint": "ce4e43c17ebd72f55918ef5abcd1ac7d7a2618bd",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/vrchni-soud-zrusil-speychalovo-osvobozeni-v-danove-kauze-kolem-ckd-praha-diz/2891154",
-      "published_utc": "2026-10-21T16:15:00Z",
-      "title_en": "Vrchní soud zrušil Speychalovo osvobození v daňové kauze kolem ČKD Praha DIZ",
-      "lead_en": "Praha - Vrchní soud v Praze dnes zrušil osvobozující rozsudek pro někdejšího majitele strojírenské firmy ČKD Praha DIZ Petra Speychala v kauze daňových úniků kolem této společnosti a firmy ČKD Energy....",
-      "title_raw": "Vrchní soud zrušil Speychalovo osvobození v daňové kauze kolem ČKD Praha DIZ",
-      "lead_raw": "Praha - Vrchní soud v Praze dnes zrušil osvobozující rozsudek pro někdejšího majitele strojírenské firmy ČKD Praha DIZ Petra Speychala v kauze daňových úniků kolem této společnosti a firmy ČKD Energy....",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "83ac9dd1cab750fd45baa1c46ac5d726ce9d006a",
-      "fingerprint": "54b421b86ec7635555f9a579bdeddcf846b552ae",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/zdaneni-rafinerii-je-retroaktivni-vyssi-zisky-nejsou-duvodem-k-uvaleni-dane-zni_2610211804_adn",
-      "published_utc": "2026-10-21T16:04:00Z",
-      "title_en": "Zdanění rafinerií je retroaktivní, vyšší zisky nejsou důvodem k uvalení daně, zní ze svazu průmyslu",
-      "lead_en": "Sněmovna v prvním čtení podpořila vládní návrh na zavedení mimořádné daně na rafinerie. Proti je vedle opozice také Svaz průmyslu a dopravy, podle ředitelky sekce hospodářské politiky Pavlíny Žákové sektorové daně narušují férové tržní prostředí a snižují předvídatelnost pro investory.",
-      "title_raw": "Zdanění rafinerií je retroaktivní, vyšší zisky nejsou důvodem k uvalení daně, zní ze svazu průmyslu",
-      "lead_raw": "Sněmovna v prvním čtení podpořila vládní návrh na zavedení mimořádné daně na rafinerie. Proti je vedle opozice také Svaz průmyslu a dopravy, podle ředitelky sekce hospodářské politiky Pavlíny Žákové sektorové daně narušují férové tržní prostředí a snižují předvídatelnost pro investory.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "7187f188d9048c2e3374364eb77104ed171cc032",
-      "fingerprint": "5625adaccf4ef3a5adc5f95f728b027a83f4f8e9",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-madarsko-hleda-firmu-ktera-by-nahradila-rusy-v-citlivem-jadernem-projektu-318446",
-      "published_utc": "2026-10-21T16:00:00Z",
-      "title_en": "Maďaři hledají cestu, jak dostat Rusy z atomové elektrárny v Paks",
-      "lead_en": "Maďarsko zvažuje, že při dostavbě jaderné elektrárny Paks nahradí ruského generálního dodavatele Rosatom. V rámci přezkumu celého projektu už začalo sondovat nabídky alternativních dodavatelů.",
-      "title_raw": "Maďaři hledají cestu, jak dostat Rusy z atomové elektrárny v Paks",
-      "lead_raw": "Maďarsko zvažuje, že při dostavbě jaderné elektrárny Paks nahradí ruského generálního dodavatele Rosatom. V rámci přezkumu celého projektu už začalo sondovat nabídky alternativních dodavatelů.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "785d19d543fb1eb4a2f8c580399f2781b53c0562",
-      "fingerprint": "d5a49772765bc3a7123de6c86bdf803036ee3e5e",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/kultura/film-televize/vyvoleny-film-trailer.A261020_163620_filmvideo_jgo",
-      "published_utc": "2026-10-21T16:00:00Z",
-      "title_en": "Podívej se na ten film a zjisti, jak můžeš zachránit svět, láká Donutil na novinku",
-      "lead_en": "Co když je cesta ke svatosti lemovaná hříchem, absurditou a pořádnou dávkou humoru? Poetická komedie Vyvolený režiséra Tomasze Mielnika, natočená na motivy slavného románu Thomase Manna, představí v hlavních rolích Jana Františka Uhera, Miroslava Donutila, Petra Uhlíka, Kristýnu Bokovou, Elišku Křenkovou a další.",
-      "title_raw": "Podívej se na ten film a zjisti, jak můžeš zachránit svět, láká Donutil na novinku",
-      "lead_raw": "Co když je cesta ke svatosti lemovaná hříchem, absurditou a pořádnou dávkou humoru? Poetická komedie Vyvolený režiséra Tomasze Mielnika, natočená na motivy slavného románu Thomase Manna, představí v hlavních rolích Jana Františka Uhera, Miroslava Donutila, Petra Uhlíka, Kristýnu Bokovou, Elišku Křenkovou a další.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "eb2adbb10ae707f1195033df56315d92a028b62c",
-      "fingerprint": "62661fb1275045589e072888b5f1a8cdb735a3e7",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/pardubice/zpravy/al-dzazira-egypt-student-vina-pozar-pardubice.A261021_173114_domaci_balu",
-      "published_utc": "2026-10-21T15:31:00Z",
-      "title_en": "Snaží se mě zlomit, řekl egyptský student z vazby. Popírá vinu za požár v Pardubicích",
-      "lead_en": "Egyptský student obviněný z březnového žhářského útoku na zbrojovku LPP Holding v Pardubicích odmítá vinu a tvrdí, že se ho české úřady snaží psychicky zlomit. Podle jeho advokáta policie mezi důkazy řadí i příspěvek na sociálních sítích, v němž student radil propalestinským aktivistům, jak postupovat při policejním výslechu.",
-      "title_raw": "Snaží se mě zlomit, řekl egyptský student z vazby. Popírá vinu za požár v Pardubicích",
-      "lead_raw": "Egyptský student obviněný z březnového žhářského útoku na zbrojovku LPP Holding v Pardubicích odmítá vinu a tvrdí, že se ho české úřady snaží psychicky zlomit. Podle jeho advokáta policie mezi důkazy řadí i příspěvek na sociálních sítích, v němž student radil propalestinským aktivistům, jak postupovat při policejním výslechu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
