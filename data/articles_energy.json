@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-24T09:54:17Z",
+  "updated_at_utc": "2026-10-24T13:41:05Z",
   "topic": "energy",
-  "count": 40,
+  "count": 36,
   "articles": [
+    {
+      "id": "eb69133a6483a28c9ee2bc13cdf336ef6a0eacb3",
+      "fingerprint": "db3e4f39a3057a1d7aa0418d194d8cd1a0cd792a",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/lamansskym-prulivem-se-prehnala-silna-boure-na-tchaj-wanu-radil-nicivy-tajfun.A261024_093601_zahranicni_fohl/foto",
+      "published_utc": "2026-10-24T10:35:00Z",
+      "title_en": "OBRAZEM: Vlny se impozantně lámaly o pevninu. Bouře a tajfun přinesly i spoušť",
+      "lead_en": "Bouře Austen zasáhla západ Evropy. Ve Francii se bez elektřiny ocitlo téměř 300 tisíc domácností, letecké spoje a vlaky nabíraly zpoždění.",
+      "title_raw": "OBRAZEM: Vlny se impozantně lámaly o pevninu. Bouře a tajfun přinesly i spoušť",
+      "lead_raw": "Bouře Austen zasáhla západ Evropy. Ve Francii se bez elektřiny ocitlo téměř 300 tisíc domácností, letecké spoje a vlaky nabíraly zpoždění.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "5e629d88491153025bf5dbe3bbc8c6286a7917c9",
       "fingerprint": "77f2b66ba5355ee212483867e1d9a0fb0dae2bca",
@@ -792,118 +814,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "fc3c300f7371d9e392429b1daa542ce9e2ab01c7",
-      "fingerprint": "e8e9e192932026d01e33f760f729170bec4f0478",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-evropa-hleda-cestu-k-putinovi-318499",
-      "published_utc": "2026-10-22T13:20:00Z",
-      "title_en": "Evropa hledá cestu k Putinovi",
-      "lead_en": "Evropské země se kvůli událostem posledních dní obávají, že při vyjednávání o konci války na Ukrajině zůstanou stranou. Opět se tak otevřela debata o jmenování vlastního vyjednavače s Kremlem.",
-      "title_raw": "Evropa hledá cestu k Putinovi",
-      "lead_raw": "Evropské země se kvůli událostem posledních dní obávají, že při vyjednávání o konci války na Ukrajině zůstanou stranou. Opět se tak otevřela debata o jmenování vlastního vyjednavače s Kremlem.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "8874cb518e19906debc7612fc72f9247900e5f53",
-      "fingerprint": "2d48ea98058bffc4f412c6b14b3aa4875124e52b",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/nafta-se-v-cesku-vratila-ke-zdrazovani-benzin-naopak-vyrazne-zlevnil/2889968",
-      "published_utc": "2026-10-22T11:15:00Z",
-      "title_en": "Nafta se v Česku vrátila ke zdražování, benzin naopak výrazně zlevnil",
-      "lead_en": "Praha - Nafta u čerpacích stanic v Česku v uplynulém týdnu začala zdražovat, benzin naopak zlevnil na litru téměř o korunu. Průměrná cena nafty se zvýšila o 19 haléřů na průměrných 47,63 koruny za litr....",
-      "title_raw": "Nafta se v Česku vrátila ke zdražování, benzin naopak výrazně zlevnil",
-      "lead_raw": "Praha - Nafta u čerpacích stanic v Česku v uplynulém týdnu začala zdražovat, benzin naopak zlevnil na litru téměř o korunu. Průměrná cena nafty se zvýšila o 19 haléřů na průměrných 47,63 koruny za litr....",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "71e96987bd6d47a256489126614c833e9bd2a53e",
-      "fingerprint": "c11a9c1ba4a4948232e2a62bd253bdee8aec70c6",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-plyn-pred-zimou-zdrazuje-u-novych-triletych-fixaci-od-srpna-az-o-desetinu-40604259",
-      "published_utc": "2026-10-22T10:32:16Z",
-      "title_en": "Plyn před zimou zdražuje, u nových tříletých fixací od srpna až o desetinu",
-      "lead_en": "Nové nabídky plynu před zimou zdražují a domácnosti, kterým končí fixace, mohou při sjednávání nové smlouvy narazit na vyšší ceny. Podle přehledu srovnávače cen pojištění a energií Rixo.cz vzrostla u nových ceníků dodavatelů od začátku srpna do poloviny října cena u sledovaných dvouletých fixací přibližně o šest procent a u tříletých o jedenáct procent.",
-      "title_raw": "Plyn před zimou zdražuje, u nových tříletých fixací od srpna až o desetinu",
-      "lead_raw": "Nové nabídky plynu před zimou zdražují a domácnosti, kterým končí fixace, mohou při sjednávání nové smlouvy narazit na vyšší ceny. Podle přehledu srovnávače cen pojištění a energií Rixo.cz vzrostla u nových ceníků dodavatelů od začátku srpna do poloviny října cena u sledovaných dvouletých fixací přibližně o šest procent a u tříletých o jedenáct procent.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "087c5d73d2fe66c196682bdfd3cf904ebfcf2637",
-      "fingerprint": "e4f2b95127f2e8b8fddad873cb49c5a27b959837",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/rusko-statni-media-putinovy-udery-valka-ukrajina-josif-stalin.A261022_101338_zahranicni_kha",
-      "published_utc": "2026-10-22T10:17:00Z",
-      "title_en": "„Putinovy údery“. Ruská propaganda razí nový výraz, inspirovala se Stalinem",
-      "lead_en": "Ruský vládce Vladimir Putin přímo nařídil údery na ukrajinskou energetiku i další cíle a jeho pokyny vedly k drtivému úspěchu. Právě tento vzkaz čtenářům státních médií v posledních dnech začala podsouvat prokremelská média.",
-      "title_raw": "„Putinovy údery“. Ruská propaganda razí nový výraz, inspirovala se Stalinem",
-      "lead_raw": "Ruský vládce Vladimir Putin přímo nařídil údery na ukrajinskou energetiku i další cíle a jeho pokyny vedly k drtivému úspěchu. Právě tento vzkaz čtenářům státních médií v posledních dnech začala podsouvat prokremelská média.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "88a761fdadb654820051ed08f6803874226bdb47",
-      "fingerprint": "66f24b67fdeb51c0048ba8b6197ed88dfec0cd42",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/osm-tisic-korun-za-cestu-do-prace-dojizdeni-nekterym-jihocechum-z-odlehlejsich_2610221216_bva",
-      "published_utc": "2026-10-22T10:16:00Z",
-      "title_en": "Osm tisíc korun za cestu do práce. Dojíždění některým Jihočechům z odlehlejších míst komplikují ceny paliv",
-      "lead_en": "Dojíždění za prací stojí některé Jihočechy z odlehlejších míst tisíce korun měsíčně. S rostoucími cenami pohonných hmot hledají způsoby, jak ušetřit.",
-      "title_raw": "Osm tisíc korun za cestu do práce. Dojíždění některým Jihočechům z odlehlejších míst komplikují ceny paliv",
-      "lead_raw": "Dojíždění za prací stojí některé Jihočechy z odlehlejších míst tisíce korun měsíčně. S rostoucími cenami pohonných hmot hledají způsoby, jak ušetřit.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
