@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-24T05:09:38Z",
+  "updated_at_utc": "2026-10-24T09:54:17Z",
   "topic": "local_events",
   "count": 18,
   "articles": [
+    {
+      "id": "e6b8a292ccd8fe5518d30c7434d4fd4efaccbdce",
+      "fingerprint": "caaac2e6e76dbd8826fbf594ade888bcb09b5476",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-tajfun-champi-na-tchaj-wanu-pripravil-o-zivot-cloveka-a-stovky-dalsich-zranil-318657",
+      "published_utc": "2026-10-24T07:55:02Z",
+      "title_en": "Tajfun Champi na Tchaj-wanu připravil o život člověka a stovky dalších zranil",
+      "lead_en": "Tajfun nezasáhl Tchaj-wan přímo, přesto byly zrušeny stovky letů a tisíce domácností skončily bez proudu. Zraněno je kolem 350 lidí, zemřel jeden muž.",
+      "title_raw": "Tajfun Champi na Tchaj-wanu připravil o život člověka a stovky dalších zranil",
+      "lead_raw": "Tajfun nezasáhl Tchaj-wan přímo, přesto byly zrušeny stovky letů a tisíce domácností skončily bez proudu. Zraněno je kolem 350 lidí, zemřel jeden muž.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "fb12d94d6fe189dc7210ed1d5ce9dfe73d97bacc",
       "fingerprint": "bc5d039eedd643ccf9243a55f773c3cdd6026903",
@@ -379,29 +401,6 @@
         "local_events": 2
       },
       "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "d151d406650f141e069f441ca9ca976b646f779a",
-      "fingerprint": "729957c15221e8e92d577e2bd1f7622a537f2d3a",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/praha/zpravy/praha-10-kutnohorska-nehoda-divka-chodkyne-policejni-auto.A261022_110322_praha-zpravy_tmps",
-      "published_utc": "2026-10-22T09:41:00Z",
-      "title_en": "GIBS hledá důležité svědky nehody policejního vozu, který v Praze srazil dívku",
-      "lead_en": "Generální inspekce bezpečnostních sborů (GIBS), hledá svědky vážné nehody, která se stala v pondělí v Kutnohorské ulici v Praze. Policejní vůz tam srazil nezletilou chodkyni, která skončila s vážnými zraněními v nemocnici.",
-      "title_raw": "GIBS hledá důležité svědky nehody policejního vozu, který v Praze srazil dívku",
-      "lead_raw": "Generální inspekce bezpečnostních sborů (GIBS), hledá svědky vážné nehody, která se stala v pondělí v Kutnohorské ulici v Praze. Policejní vůz tam srazil nezletilou chodkyni, která skončila s vážnými zraněními v nemocnici.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
         "local_events"
       ],
       "primary_topic": "local_events"
