@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-24T00:06:17Z",
+  "updated_at_utc": "2026-10-24T05:09:38Z",
   "topic": "energy",
-  "count": 39,
+  "count": 38,
   "articles": [
+    {
+      "id": "6d78895e5d2da9af71f30dc37ad858d93ef4bb97",
+      "fingerprint": "6d6da635560c4c8a152c494a7dfa604f2e12590c",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/tajfunu-na-tchaj-wanu-podlehl-jeden-clovek-pres-pet-set-lidi-je-zranenych-378972",
+      "published_utc": "2026-10-24T04:39:56Z",
+      "title_en": "Tajfunu na Tchaj-wanu podlehl jeden člověk, přes pět set lidí je zraněných",
+      "lead_en": "Tajfunu Champi podlehl na Tchaj-wanu jeden člověk, více než pět set lidí utrpělo zranění. Silný vítr povalil stromy a způsobil výpadky energie, směřoval pak dále k čínskému pobřeží.",
+      "title_raw": "Tajfunu na Tchaj-wanu podlehl jeden člověk, přes pět set lidí je zraněných",
+      "lead_raw": "Tajfunu Champi podlehl na Tchaj-wanu jeden člověk, více než pět set lidí utrpělo zranění. Silný vítr povalil stromy a způsobil výpadky energie, směřoval pak dále k čínskému pobřeží.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "d884b237a580e221ccdb102defd4e33a83fee44a",
       "fingerprint": "addb888e73104e673f385bd92b53b95176f21d67",
@@ -837,51 +859,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "81b3df28b3623eccb25587ab6a09bcd6e7694d8c",
-      "fingerprint": "b3f215417d5ecaa796b6a1fc5ad86112e8f0f212",
-      "source": "iROZHLAS - Economy",
-      "url": "https://www.irozhlas.cz/ekonomika/zatepleni-fasady-nebo-instalace-fotovoltaiky-nektere-banky-a-sporitelny-uz_2610220709_aru",
-      "published_utc": "2026-10-22T05:09:00Z",
-      "title_en": "Zateplení fasády nebo instalace fotovoltaiky? Některé banky a spořitelny už začaly nabízet bezúročné úvěry",
-      "lead_en": "Majitelé domů a bytů se mohou opět pustit do energeticky úsporných renovací. A podobně jako v minulých letech jim s tím pomůže program Nová zelená úsporám.",
-      "title_raw": "Zateplení fasády nebo instalace fotovoltaiky? Některé banky a spořitelny už začaly nabízet bezúročné úvěry",
-      "lead_raw": "Majitelé domů a bytů se mohou opět pustit do energeticky úsporných renovací. A podobně jako v minulých letech jim s tím pomůže program Nová zelená úsporám.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "07e9292ea12146ca1dcf2244a62bdfd8b74927f6",
-      "fingerprint": "4181b4fece66c4894daaa8bbdf3c51963b1bb4a5",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-hormuzsky-pruliv-muze-behem-par-let-ztratit-klicovou-roli-40603873",
-      "published_utc": "2026-10-22T03:33:00Z",
-      "title_en": "Hormuzský průliv může během pár let ztratit klíčovou roli",
-      "lead_en": "Hormuzský průliv, kterým dříve proudila zhruba pětina světového obchodu s ropou a zkapalněným zemním plynem, by mohl během pěti let ztratit svůj strategický význam. Uvedl to šéf bankovní skupiny HSBC Georges Elhedery, podle něhož současný konflikt s Íránem, na který zaútočily USA a Izrael, urychlí masivní investice do alternativních energetických a logistických tras.",
-      "title_raw": "Hormuzský průliv může během pár let ztratit klíčovou roli",
-      "lead_raw": "Hormuzský průliv, kterým dříve proudila zhruba pětina světového obchodu s ropou a zkapalněným zemním plynem, by mohl během pěti let ztratit svůj strategický význam. Uvedl to šéf bankovní skupiny HSBC Georges Elhedery, podle něhož současný konflikt s Íránem, na který zaútočily USA a Izrael, urychlí masivní investice do alternativních energetických a logistických tras.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }

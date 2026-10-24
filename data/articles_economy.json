@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-24T00:06:17Z",
+  "updated_at_utc": "2026-10-24T05:09:38Z",
   "topic": "economy",
-  "count": 30,
+  "count": 28,
   "articles": [
+    {
+      "id": "7466231c4e2a8206cf45e5fc2f90fdb0a0ccfe39",
+      "fingerprint": "10594a017b88bc17347b5cc51c506b8bdb706bff",
+      "source": "iROZHLAS - Economy",
+      "url": "https://www.irozhlas.cz/ekonomika/nakup-zlata-je-drzak-s-kouskem-romantiky-ale-ja-mozna-nejsem-romantik-hodnoti_2610240600_jkd",
+      "published_utc": "2026-10-24T04:00:00Z",
+      "title_en": "Nákup zlata? Je to držák s kouskem romantiky. Ale já možná nejsem romantik, hodnotí plány ČNB ekonom",
+      "lead_en": "Sůl nad zlato a zlato nad všechno ostatní. Byly by peníze, kdyby nebylo zlato?",
+      "title_raw": "Nákup zlata? Je to držák s kouskem romantiky. Ale já možná nejsem romantik, hodnotí plány ČNB ekonom",
+      "lead_raw": "Sůl nad zlato a zlato nad všechno ostatní. Byly by peníze, kdyby nebylo zlato?",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "f2a22c0fa93628e30bc7a448258b730629202105",
       "fingerprint": "3051265afa0d80cc5e155367bd059ed9cadbe2c2",
@@ -597,73 +619,6 @@
         "military": 0,
         "energy": 0,
         "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "8198e10e5d86c8d9e8a9a052af955254f7acfe52",
-      "fingerprint": "d52423885ecb4fa47c354b11399d18a9ffcc8639",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-5-59-ted-krize-v-rusku-nehrozi-rika-ekonom-z-harvardu-jak-poznat-ze-se-to-meni-318421",
-      "published_utc": "2026-10-22T03:59:00Z",
-      "title_en": "Ekonomicky ochromené Rusko dál válčí. Ekonom z Harvardu popisuje, čím to je",
-      "lead_en": "Sankce měly Rusko donutit k ukončení války na Ukrajině. Kroky Donalda Trumpa teď ale tento tlak zpochybňují.",
-      "title_raw": "Ekonomicky ochromené Rusko dál válčí. Ekonom z Harvardu popisuje, čím to je",
-      "lead_raw": "Sankce měly Rusko donutit k ukončení války na Ukrajině. Kroky Donalda Trumpa teď ale tento tlak zpochybňují.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "07e9292ea12146ca1dcf2244a62bdfd8b74927f6",
-      "fingerprint": "4181b4fece66c4894daaa8bbdf3c51963b1bb4a5",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-hormuzsky-pruliv-muze-behem-par-let-ztratit-klicovou-roli-40603873",
-      "published_utc": "2026-10-22T03:33:00Z",
-      "title_en": "Hormuzský průliv může během pár let ztratit klíčovou roli",
-      "lead_en": "Hormuzský průliv, kterým dříve proudila zhruba pětina světového obchodu s ropou a zkapalněným zemním plynem, by mohl během pěti let ztratit svůj strategický význam. Uvedl to šéf bankovní skupiny HSBC Georges Elhedery, podle něhož současný konflikt s Íránem, na který zaútočily USA a Izrael, urychlí masivní investice do alternativních energetických a logistických tras.",
-      "title_raw": "Hormuzský průliv může během pár let ztratit klíčovou roli",
-      "lead_raw": "Hormuzský průliv, kterým dříve proudila zhruba pětina světového obchodu s ropou a zkapalněným zemním plynem, by mohl během pěti let ztratit svůj strategický význam. Uvedl to šéf bankovní skupiny HSBC Georges Elhedery, podle něhož současný konflikt s Íránem, na který zaútočily USA a Izrael, urychlí masivní investice do alternativních energetických a logistických tras.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "57ddfd8920916f438984c9f396ddfc620e6a9579",
-      "fingerprint": "106f682baef1f499452af3df0441fc37a2d07f3a",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/poslanci-by-meli-pokracovat-v-debate-o-statnim-rozpoctu-na-pristi-rok-378892",
-      "published_utc": "2026-10-22T01:59:28Z",
-      "title_en": "Poslanci by měli pokračovat v debatě o státním rozpočtu na příští rok",
-      "lead_en": "Poslanci by ve čtvrtek měli pokračovat v úvodní debatě o návrhu státního rozpočtu na příští rok, kterou nedokončili ve středu. Vláda navrhla rozpočet s deficitem 386 miliard korun, což opozice kritizuje.",
-      "title_raw": "Poslanci by měli pokračovat v debatě o státním rozpočtu na příští rok",
-      "lead_raw": "Poslanci by ve čtvrtek měli pokračovat v úvodní debatě o návrhu státního rozpočtu na příští rok, kterou nedokončili ve středu. Vláda navrhla rozpočet s deficitem 386 miliard korun, což opozice kritizuje.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 4,
         "local_events": 0
       },
       "topics": [
