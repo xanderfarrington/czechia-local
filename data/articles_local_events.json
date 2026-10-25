@@ -1,10 +1,77 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-25T05:26:08Z",
+  "updated_at_utc": "2026-10-25T10:15:55Z",
   "topic": "local_events",
-  "count": 17,
+  "count": 19,
   "articles": [
+    {
+      "id": "3ec20b7210a739376703f2f14236da8d27a50bcd",
+      "fingerprint": "1b5918c49ebb1849a2549121384cebcbad513c5f",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-ukrajinci-uderili-na-chemicku-v-permskem-kraji-u-belgorodu-podle-moskvy-zabijeli-drony-40604818",
+      "published_utc": "2026-10-25T10:03:51Z",
+      "title_en": "Ukrajinci udeřili na chemičku v Permském kraji, u Bělgorodu podle Moskvy zabíjeli drony",
+      "lead_en": "Ukrajinská armáda v noci na neděli zaútočila na průmyslový podnik v ruském Permském kraji, během něhož bylo podle ruských úřadů zraněno pět lidí. Útočili také na příhraniční Bělgorodskou oblast, kde podle Moskvy zemřeli čtyři lidé, dalších 19 bylo zraněno.",
+      "title_raw": "Ukrajinci udeřili na chemičku v Permském kraji, u Bělgorodu podle Moskvy zabíjeli drony",
+      "lead_raw": "Ukrajinská armáda v noci na neděli zaútočila na průmyslový podnik v ruském Permském kraji, během něhož bylo podle ruských úřadů zraněno pět lidí. Útočili také na příhraniční Bělgorodskou oblast, kde podle Moskvy zemřeli čtyři lidé, dalších 19 bylo zraněno.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "db1e4cee60390a5f85b2d33de22871bec339e9c9",
+      "fingerprint": "8c7e89e1f1ef60990f92ea08e1881e7329b33085",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/karlovy-vary/zpravy/velka-hledsebe-hasici-mrtvy-clovek-pozar-chebsko.A261025_094119_vary-zpravy_zdo",
+      "published_utc": "2026-10-25T09:22:00Z",
+      "title_en": "Sobotní požár rodinného domu na Chebsku má jednu oběť, tři lidé jsou zranění",
+      "lead_en": "Osm jednotek hasičů zasahovalo v sobotu večer u požáru rodinného domu ve Velké Hleďsebi nedaleko Mariánských Lázní na Chebsku. Policisté následně potvrdili, že požár nepřežil jeden člověk a tři lidé se zranili.",
+      "title_raw": "Sobotní požár rodinného domu na Chebsku má jednu oběť, tři lidé jsou zranění",
+      "lead_raw": "Osm jednotek hasičů zasahovalo v sobotu večer u požáru rodinného domu ve Velké Hleďsebi nedaleko Mariánských Lázní na Chebsku. Policisté následně potvrdili, že požár nepřežil jeden člověk a tři lidé se zranili.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "0e94337e4690cc71425527242f99009680572c7b",
+      "fingerprint": "0df700351781a052e9f789a05bdda1b5740362a6",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-pri-nocnim-pozaru-rodinneho-domu-na-chebsku-zemrel-clovek-40604813",
+      "published_utc": "2026-10-25T09:00:26Z",
+      "title_en": "Při nočním požáru rodinného domu na Chebsku zemřel člověk",
+      "lead_en": "Hasiči našli po sobotním požáru rodinného domu ve Velké Hleďsebi na Chebsku mrtvého člověka. Další tři lidé skončili v nemocnici.",
+      "title_raw": "Při nočním požáru rodinného domu na Chebsku zemřel člověk",
+      "lead_raw": "Hasiči našli po sobotním požáru rodinného domu ve Velké Hleďsebi na Chebsku mrtvého člověka. Další tři lidé skončili v nemocnici.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "dbfefdeb276c517ed41eee8447d7a7d7bdf30e45",
       "fingerprint": "582abfb50582fd5f89412bf0b00cad8fe5ed7d0f",
@@ -354,28 +421,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "f04727ba8aa8f4561a09fa6c1a9f14b5086f84f3",
-      "fingerprint": "87f4891a06d95ad07982d228ba839410f0b9cedf",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-tragicka-nehoda-na-benesovsku-po-stretu-s-autem-zemrel-cyklista-40604489",
-      "published_utc": "2026-10-23T08:00:14Z",
-      "title_en": "Tragická nehoda na Benešovsku. Po střetu s autem zemřel cyklista",
-      "lead_en": "U obce Olbramovice došlo ve čtvrtek k tragické dopravní nehodě, při které zemřel cyklista. Totožnost cyklisty zatím není známa, byla nařízena soudní pitva.",
-      "title_raw": "Tragická nehoda na Benešovsku. Po střetu s autem zemřel cyklista",
-      "lead_raw": "U obce Olbramovice došlo ve čtvrtek k tragické dopravní nehodě, při které zemřel cyklista. Totožnost cyklisty zatím není známa, byla nařízena soudní pitva.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
       },
       "topics": [
         "local_events"

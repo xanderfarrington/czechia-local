@@ -1,10 +1,144 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-25T05:26:08Z",
+  "updated_at_utc": "2026-10-25T10:15:55Z",
   "topic": "military",
-  "count": 58,
+  "count": 55,
   "articles": [
+    {
+      "id": "3ec20b7210a739376703f2f14236da8d27a50bcd",
+      "fingerprint": "1b5918c49ebb1849a2549121384cebcbad513c5f",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-ukrajinci-uderili-na-chemicku-v-permskem-kraji-u-belgorodu-podle-moskvy-zabijeli-drony-40604818",
+      "published_utc": "2026-10-25T10:03:51Z",
+      "title_en": "Ukrajinci udeřili na chemičku v Permském kraji, u Bělgorodu podle Moskvy zabíjeli drony",
+      "lead_en": "Ukrajinská armáda v noci na neděli zaútočila na průmyslový podnik v ruském Permském kraji, během něhož bylo podle ruských úřadů zraněno pět lidí. Útočili také na příhraniční Bělgorodskou oblast, kde podle Moskvy zemřeli čtyři lidé, dalších 19 bylo zraněno.",
+      "title_raw": "Ukrajinci udeřili na chemičku v Permském kraji, u Bělgorodu podle Moskvy zabíjeli drony",
+      "lead_raw": "Ukrajinská armáda v noci na neděli zaútočila na průmyslový podnik v ruském Permském kraji, během něhož bylo podle ruských úřadů zraněno pět lidí. Útočili také na příhraniční Bělgorodskou oblast, kde podle Moskvy zemřeli čtyři lidé, dalších 19 bylo zraněno.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "f6deba2c4c10bd779f5c9dca3ca013fdc63ce484",
+      "fingerprint": "259e9fd5cfad110730aeffeeacb33fc29cf4409d",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-spor-dvou-muzu-vylekal-nejen-pacienty-i-personal-nemocnice-ve-frydku-mistku-jeden-mel-byt-ozbrojen-40604816",
+      "published_utc": "2026-10-25T09:30:05Z",
+      "title_en": "Spor dvou mužů vylekal nejen pacienty i personál nemocnice ve Frýdku-Místku, jeden měl být ozbrojen",
+      "lead_en": "Kvůli nahlášení střelby vyrazili v neděli ráno do areálu nemocnice ve Frýdku-Místku desítky policistů, včetně zásahové jednotky. Podle policejní mluvčí Nikol Bočkové ke střelbě naštěstí nedošlo.",
+      "title_raw": "Spor dvou mužů vylekal nejen pacienty i personál nemocnice ve Frýdku-Místku, jeden měl být ozbrojen",
+      "lead_raw": "Kvůli nahlášení střelby vyrazili v neděli ráno do areálu nemocnice ve Frýdku-Místku desítky policistů, včetně zásahové jednotky. Podle policejní mluvčí Nikol Bočkové ke střelbě naštěstí nedošlo.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "0e7290ba899bf164b767c8a610926ad30409b87a",
+      "fingerprint": "c2c44f42abbfaab7cd7d4c0a43389f03bd7c5892",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/izrael-po-utoku-u-hebronu-uzavrel-zapadni-breh-armada-podle-svedectvi-demoluje-domy-a-naridila-evaku.A261025_100734_zahranicni_remy",
+      "published_utc": "2026-10-25T09:16:00Z",
+      "title_en": "Západní břeh pod pásy buldozerů. Izrael před volbami spustil vojenskou operaci",
+      "lead_en": "Izraelská armáda zahájila rozsáhlou vojenskou operaci na okupovaném Západním břehu Jordánu. Reaguje tak na incident, při němž palestinští střelci u kontrolního stanoviště poblíž Hebronu usmrtili dva izraelské vojáky.",
+      "title_raw": "Západní břeh pod pásy buldozerů. Izrael před volbami spustil vojenskou operaci",
+      "lead_raw": "Izraelská armáda zahájila rozsáhlou vojenskou operaci na okupovaném Západním břehu Jordánu. Reaguje tak na incident, při němž palestinští střelci u kontrolního stanoviště poblíž Hebronu usmrtili dva izraelské vojáky.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "abdea79c01db1c8f71df7dd5067b9cfb1b47f64f",
+      "fingerprint": "867dd8e061febb0eebdea308589d9ce45a09ed8a",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-rusove-prisli-o-dva-elitni-piloty-40604814",
+      "published_utc": "2026-10-25T08:56:01Z",
+      "title_en": "Rusové přišli o dva elitní piloty",
+      "lead_en": "Ruská federace tento týden přišla o dva elitní piloty akrobatické skupiny Ruští rytíři, kteří havarovali se stíhačkou Su-30SM. Informovala o tom média s tím, že jde o vojenského pilota plukovníka Olega Jerofejeva a o inspektora bezpečnosti letů majora Vladimira Kočetova.",
+      "title_raw": "Rusové přišli o dva elitní piloty",
+      "lead_raw": "Ruská federace tento týden přišla o dva elitní piloty akrobatické skupiny Ruští rytíři, kteří havarovali se stíhačkou Su-30SM. Informovala o tom média s tím, že jde o vojenského pilota plukovníka Olega Jerofejeva a o inspektora bezpečnosti letů majora Vladimira Kočetova.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "02e31512dbaf2f3bef69edf6969945cca9a45bf6",
+      "fingerprint": "137503ab8d4823feeb5faf2fd2c62df1f0895566",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/koktejl-cestujici-platil-falesnymi-bankovkami-taxikar-jej-odvezl-rovnou-na-policii-40603828",
+      "published_utc": "2026-10-25T08:30:40Z",
+      "title_en": "Cestující platil falešnými bankovkami, taxikář jej odvezl rovnou na policii",
+      "lead_en": "Řidič taxíku v anglickém městě Nottingham prokázal výborný úsudek, když cestujícího platícího falešnými bankovkami odvezl rovnou na policejní stanici. U mladého muže se později našel i vojenský nůž a sada na pěstování konopí.",
+      "title_raw": "Cestující platil falešnými bankovkami, taxikář jej odvezl rovnou na policii",
+      "lead_raw": "Řidič taxíku v anglickém městě Nottingham prokázal výborný úsudek, když cestujícího platícího falešnými bankovkami odvezl rovnou na policejní stanici. U mladého muže se později našel i vojenský nůž a sada na pěstování konopí.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "08f2d0aa69198de5e885bf28f699d901d4dfd473",
+      "fingerprint": "6e58127fb2c8b0545fa10f4486d014832f4a41fe",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-ridicka-v-utahu-sledovala-za-volantem-porno-a-zpusobila-nehodu-pri-niz-zahynul-clovek-40604529",
+      "published_utc": "2026-10-25T07:59:18Z",
+      "title_en": "Řidička v Utahu sledovala za volantem porno a způsobila nehodu, při níž zahynul člověk",
+      "lead_en": "Čtyřiačtyřicetiletá řidička v americkém státě Utahu sledovala za volantem na svém mobilu porno, které ji natolik zaujalo, že způsobila dopravní nehodu. Ta si vyžádala jednu oběť – 66letého muže, ženatého otce pěti dětí a praotce několika vnuků.",
+      "title_raw": "Řidička v Utahu sledovala za volantem porno a způsobila nehodu, při níž zahynul člověk",
+      "lead_raw": "Čtyřiačtyřicetiletá řidička v americkém státě Utahu sledovala za volantem na svém mobilu porno, které ji natolik zaujalo, že způsobila dopravní nehodu. Ta si vyžádala jednu oběť – 66letého muže, ženatého otce pěti dětí a praotce několika vnuků.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "494076c70dc54fa5779a813b2ad8ed413bd0658b",
       "fingerprint": "98fdc34bea2f919f3336396cd29d289388fa87f3",
@@ -1082,204 +1216,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "440f79bc2e441bedc6e4a59e9f97f68b99420b43",
-      "fingerprint": "5ad446348be9a503b672341b399c7b161d6d7ba1",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-bezpecnostni-kamery-zachytily-prvni-okamziky-silneho-zemetreseni-v-tibetu-318585",
-      "published_utc": "2026-10-23T08:40:00Z",
-      "title_en": "Bezpečnostní kamery zachytily první okamžiky silného zemětřesení v Tibetu",
-      "lead_en": "Ohnisko otřesů se nacházelo asi 190 kilometrů severovýchodně od Nagčhu v řídce osídlené vysokohorské oblasti severního Tibetu.",
-      "title_raw": "Bezpečnostní kamery zachytily první okamžiky silného zemětřesení v Tibetu",
-      "lead_raw": "Ohnisko otřesů se nacházelo asi 190 kilometrů severovýchodně od Nagčhu v řídce osídlené vysokohorské oblasti severního Tibetu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "155deb64d026465e413ef7856b9777c0e4b0ae2c",
-      "fingerprint": "f9d815eb6c443185bcf318e9955a84dfb7beac15",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/netanjahu-naridil-uzaveru-zapadniho-brehu-jordanu-378933",
-      "published_utc": "2026-10-23T08:02:19Z",
-      "title_en": "Netanjahu zvažuje největší operaci na Západním břehu od roku 1967",
-      "lead_en": "Izraelský premiér Benjamin Netanjahu v pátek po střelbě u Hebronu prohlásil, že zvažuje na Západním břehu Jordánu největší vojenskou operaci od roku 1967. Píší o tom izraelská média a AFP.",
-      "title_raw": "Netanjahu zvažuje největší operaci na Západním břehu od roku 1967",
-      "lead_raw": "Izraelský premiér Benjamin Netanjahu v pátek po střelbě u Hebronu prohlásil, že zvažuje na Západním břehu Jordánu největší vojenskou operaci od roku 1967. Píší o tom izraelská média a AFP.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "213d2109c53c6b0c50fd66886e1bc3638de474d5",
-      "fingerprint": "263d78e33a2f925fd6f0465921aefb5fbee7ea9e",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/olomouc/zpravy/jiri-kudlicka-travic-zbrojovka-olomoucko-bezdomovci-rozsudek.A261022_115035_olomouc-zpravy_stk",
-      "published_utc": "2026-10-23T07:50:28Z",
-      "title_en": "Ve zbrojovce zabíjel otráveným nápojem. Muž dostal výjimečný trest a detenci",
-      "lead_en": "Krajský soud v Olomouci dnes poslal na 24,5 roku do vězení Jiřího Kudličku a nařídil mu také zabezpečovací detenci. Muž podle obžaloby otrávil nápoje ve šternberské zbrojovce.",
-      "title_raw": "Ve zbrojovce zabíjel otráveným nápojem. Muž dostal výjimečný trest a detenci",
-      "lead_raw": "Krajský soud v Olomouci dnes poslal na 24,5 roku do vězení Jiřího Kudličku a nařídil mu také zabezpečovací detenci. Muž podle obžaloby otrávil nápoje ve šternberské zbrojovce.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "8491b37f5330209b64afdbe14b57bd0d821ca2e0",
-      "fingerprint": "1b3b2065edb3a195145ae1b85eea8a5fa4deac34",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ostrava/zpravy/okradeni-spici-muz-kamerovy-system-straznici.A261023_091325_ostrava-zpravy_dmk",
-      "published_utc": "2026-10-23T07:49:00Z",
-      "title_en": "Dva mladíci okradli spícího kamaráda v Ostravě, předtím s ním popíjeli v klubu",
-      "lead_en": "Dva mladíci ve věku 18 a 19 let využili nepozornosti dvacetiletého muže, který po společném popíjení v klubu usnul na autobusové zastávce v Ostravě-Zábřehu. Natočily je kamery, když mu prohledali tašku a ukradli mu peněženku a tabák.",
-      "title_raw": "Dva mladíci okradli spícího kamaráda v Ostravě, předtím s ním popíjeli v klubu",
-      "lead_raw": "Dva mladíci ve věku 18 a 19 let využili nepozornosti dvacetiletého muže, který po společném popíjení v klubu usnul na autobusové zastávce v Ostravě-Zábřehu. Natočily je kamery, když mu prohledali tašku a ukradli mu peněženku a tabák.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "3f6822ff3e8fec32af4ce06d13a799cd2927d915",
-      "fingerprint": "a39fa9ebc4d0cec980690e1d433b8ca5e0f22050",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/dita-houfnice-rusko-ukrajina-rubikon.A261023_083832_zahranicni_aha",
-      "published_utc": "2026-10-23T07:33:00Z",
-      "title_en": "VIDEO: Když hoří Dita. Ruský dron zasáhl českou houfnici",
-      "lead_en": "Ruští dronaři z elitní jednotky Rubikon si připsali velký úlovek. V Dněpropetrovské oblasti zasáhli ukrajinskou samohybnou houfnici Dita, kterou vyrábí česká zbrojovka Excalibur Army.",
-      "title_raw": "VIDEO: Když hoří Dita. Ruský dron zasáhl českou houfnici",
-      "lead_raw": "Ruští dronaři z elitní jednotky Rubikon si připsali velký úlovek. V Dněpropetrovské oblasti zasáhli ukrajinskou samohybnou houfnici Dita, kterou vyrábí česká zbrojovka Excalibur Army.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "beefc569a09ad43abe3492f7200910fea910627b",
-      "fingerprint": "6fa4933d0ab8a04678cb9a5b970be981a47f97fb",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-mimoradny-trest-za-otravu-kolegu-ve-sternberske-zbrojovce-40604478",
-      "published_utc": "2026-10-23T07:26:44Z",
-      "title_en": "Za otravu kolegů ve šternberské zbrojovce dostal muž z Olomoucka výjimečný trest",
-      "lead_en": "Výjimečný trest vězení v trvání 24 let a zabezpečovací detenci uložil v pátek senát Krajského soudu v Olomouci za vraždu, pokus o vraždu a její přípravu Jiřímu Kudličkovi (48) z Moravského Berouna na Olomoucku.",
-      "title_raw": "Za otravu kolegů ve šternberské zbrojovce dostal muž z Olomoucka výjimečný trest",
-      "lead_raw": "Výjimečný trest vězení v trvání 24 let a zabezpečovací detenci uložil v pátek senát Krajského soudu v Olomouci za vraždu, pokus o vraždu a její přípravu Jiřímu Kudličkovi (48) z Moravského Berouna na Olomoucku.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "008cfda6bfb92e5c31795f564873a2413df4f610",
-      "fingerprint": "34812cbbc8609ab971af93f62bc250c81e968bbe",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/cestovani-prahu-maji-turiste-radsi-nez-viden-40603498",
-      "published_utc": "2026-10-23T06:49:00Z",
-      "title_en": "Prahu mají turisté radši než Vídeň",
-      "lead_en": "Prahu si turisté chválí více než Vídeň. Ukázal to Global Tourist Perception Index od platformy Data Appeal Mabrian Intelligence.",
-      "title_raw": "Prahu mají turisté radši než Vídeň",
-      "lead_raw": "Prahu si turisté chválí více než Vídeň. Ukázal to Global Tourist Perception Index od platformy Data Appeal Mabrian Intelligence.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "4234228084f1135b75cbd924722f1b938517e947",
-      "fingerprint": "c126d06788e9e4cc48c49c375a0c64e87eb9dcdf",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-to-co-jsem-tam-videl-je-desive-na-dne-cerneho-more-je-obri-skladka-sestrelenych-dronu-a-raket-40604409",
-      "published_utc": "2026-10-23T06:47:57Z",
-      "title_en": "To, co jsem tam viděl, je děsivé. Na dně Černého moře je obří skládka sestřelených dronů a raket",
-      "lead_en": "Ruské útoky na Ukrajinu přinášejí zmar a zkázu nejen na pevnině. V Černém moři, kde zabíjejí námořníky, potápějí lodě a do vody se dostávají ropné produkty a přepravovaný náklad, vznikla na dně obří skládka sestřelených dronů a raket.",
-      "title_raw": "To, co jsem tam viděl, je děsivé. Na dně Černého moře je obří skládka sestřelených dronů a raket",
-      "lead_raw": "Ruské útoky na Ukrajinu přinášejí zmar a zkázu nejen na pevnině. V Černém moři, kde zabíjejí námořníky, potápějí lodě a do vody se dostávají ropné produkty a přepravovaný náklad, vznikla na dně obří skládka sestřelených dronů a raket.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "6eae3bc96a2b74c22de9ea1278b8407162ef4089",
-      "fingerprint": "4187588a936113a60bdddba25fdbdfa3233dc497",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-nocni-nehodu-obrneneho-transporteru-s-dodavkou-na-d35-natocila-palubni-kamera-40604460",
-      "published_utc": "2026-10-23T06:44:16Z",
-      "title_en": "Noční nehodu obrněného transportéru s dodávkou na D35 natočila palubní kamera",
-      "lead_en": "Nehodu, která ve čtvrtek v noci nejprve zastavila a poté zkomplikovala provoz na dálnici D35 na Pardubicku, natočila palubní kamera jednoho ze svědků nehody. Záběry zveřejnil na svém profilu na sociální síti.",
-      "title_raw": "Noční nehodu obrněného transportéru s dodávkou na D35 natočila palubní kamera",
-      "lead_raw": "Nehodu, která ve čtvrtek v noci nejprve zastavila a poté zkomplikovala provoz na dálnici D35 na Pardubicku, natočila palubní kamera jednoho ze svědků nehody. Záběry zveřejnil na svém profilu na sociální síti.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
       },
       "topics": [
         "military"
