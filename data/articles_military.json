@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-24T22:03:00Z",
+  "updated_at_utc": "2026-10-25T00:37:31Z",
   "topic": "military",
-  "count": 61,
+  "count": 60,
   "articles": [
+    {
+      "id": "ca69b00b2ef3b116d5ce30ba2499eed002a42a9c",
+      "fingerprint": "54c9188ee8caea0e316cc54dee32467c23c8be7a",
+      "source": "Radio Prague International (EN)",
+      "url": "https://english.radio.cz/october-1526-first-prague-vienna-mail-route-established-8900513",
+      "published_utc": "2026-10-24T22:45:00Z",
+      "title_en": "October 1526: First Prague-Vienna mail route established",
+      "lead_en": "When Ferdinand I of Habsburg sought the Bohemian crown in 1526, he needed fast and reliable communications between Vienna and Prague Castle. This led to the creation of the first regular postal route in Central Europe.",
+      "title_raw": "October 1526: First Prague-Vienna mail route established",
+      "lead_raw": "When Ferdinand I of Habsburg sought the Bohemian crown in 1526, he needed fast and reliable communications between Vienna and Prague Castle. This led to the creation of the first regular postal route in Central Europe.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "0d688aaa906f22b6f2ddf461e940457d055a848c",
       "fingerprint": "555d997590f7e0c2f4aab4be4476a4624cd67f23",
@@ -1310,50 +1332,6 @@
         "military"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "c401633db3bfe2a4dbf5748d896bf2b5ec5f0883",
-      "fingerprint": "94c274f39fcf40fa9a210f922ceb3c2d738f5bc1",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/olomoucky-soud-vynese-rozsudek-v-kauze-otravy-kolegu-a-nastrah-pro-bezdomovce-/2840156",
-      "published_utc": "2026-10-22T22:11:00Z",
-      "title_en": "Olomoucký soud vynese rozsudek v kauze otravy kolegů a nástrah pro bezdomovce",
-      "lead_en": "Olomouc - Olomoucký krajský soud dnes vynese rozsudek v případu muže z Olomoucka souzeného za otravu kolegů ve šternberské zbrojovce, kvůli otráveným nástrahám na olomoucké bezdomovce a kvůli přípravě...",
-      "title_raw": "Olomoucký soud vynese rozsudek v kauze otravy kolegů a nástrah pro bezdomovce",
-      "lead_raw": "Olomouc - Olomoucký krajský soud dnes vynese rozsudek v případu muže z Olomoucka souzeného za otravu kolegů ve šternberské zbrojovce, kvůli otráveným nástrahám na olomoucké bezdomovce a kvůli přípravě...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "dc9a1dfecf6335ad57866c5bd087be5f58d5cf8b",
-      "fingerprint": "022098a15e94371b8971cb6d753b2d2c95adb011",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/za-otravu-kolegu-pokus-a-pripravu-vrazdy-dostal-muz-vyjimecny-trest/2840156",
-      "published_utc": "2026-10-22T22:11:00Z",
-      "title_en": "Za otravu kolegů, pokus a přípravu vraždy dostal muž výjimečný trest",
-      "lead_en": "Olomouc - Za otravu kolegů ve šternberské zbrojovce, pokládání otrávených nástrah cílených na olomoucké bezdomovce a za přípravu výbušného systému si muž z Olomoucka odpyká ve vězení 24 let. Kromě výjimečného...",
-      "title_raw": "Za otravu kolegů, pokus a přípravu vraždy dostal muž výjimečný trest",
-      "lead_raw": "Olomouc - Za otravu kolegů ve šternberské zbrojovce, pokládání otrávených nástrah cílených na olomoucké bezdomovce a za přípravu výbušného systému si muž z Olomoucka odpyká ve vězení 24 let. Kromě výjimečného...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
