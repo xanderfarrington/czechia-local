@@ -1,10 +1,76 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-26T00:48:00Z",
+  "updated_at_utc": "2026-10-26T05:30:42Z",
   "topic": "energy",
-  "count": 20,
+  "count": 22,
   "articles": [
+    {
+      "id": "00fd922c088b2bbd7e6548123408fa73aba56d48",
+      "fingerprint": "1fef3b6597cd8c27f13129befe9ca73ba2b06f6d",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/stat-s-obcemi-na-rokycansku-o-akceleracnich-zonach-nekomunikuje-chteji-se-branit_2610260600_mkm",
+      "published_utc": "2026-10-26T05:02:00Z",
+      "title_en": "Stát s obcemi na Rokycansku o akceleračních zónách nekomunikuje, chtějí se bránit soudní cestou",
+      "lead_en": "Vejvanov na Rokycansku a další dotčené obce z regionu se chtějí bránit soudní cestou proti vymezení akceleračních zón pro větrné elektrárny na svém území. Vadí jim, že s nimi nikdo o akceleračních zónách nejednal.",
+      "title_raw": "Stát s obcemi na Rokycansku o akceleračních zónách nekomunikuje, chtějí se bránit soudní cestou",
+      "lead_raw": "Vejvanov na Rokycansku a další dotčené obce z regionu se chtějí bránit soudní cestou proti vymezení akceleračních zón pro větrné elektrárny na svém území. Vadí jim, že s nimi nikdo o akceleračních zónách nejednal.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "1efab5e501076dc4a68987cbb232573018fb92bb",
+      "fingerprint": "74354f0d431593223c0e9a36299011f00f56c825",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/modularni-reaktor-nebude-maly-zni-pripominky-otazky-jsou-i-ohledne-vody-ci-dopravy-378781",
+      "published_utc": "2026-10-26T05:00:00Z",
+      "title_en": "Modulární reaktor nebude malý, zní připomínky. Otázky jsou i ohledně vody či dopravy",
+      "lead_en": "V přímém sousedství Jaderné elektrárny Temelín plánuje ČEZ postavit modulární reaktor od firmy Rolls-Royce SMR. Ministerstvo životního prostředí zveřejnilo 9.",
+      "title_raw": "Modulární reaktor nebude malý, zní připomínky. Otázky jsou i ohledně vody či dopravy",
+      "lead_raw": "V přímém sousedství Jaderné elektrárny Temelín plánuje ČEZ postavit modulární reaktor od firmy Rolls-Royce SMR. Ministerstvo životního prostředí zveřejnilo 9.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 4,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "676547e80aaa2ab3eb0df53883738bdfb1cb567c",
+      "fingerprint": "4ac484e5499af9e4dfcd02d6ae80610df0e7ead1",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-vystrcil-pro-snemovni-volby-se-ods-muze-spojit-se-stan-40604590",
+      "published_utc": "2026-10-26T04:40:00Z",
+      "title_en": "Vystrčil: Pro sněmovní volby se ODS může spojit se STAN",
+      "lead_en": "Premiér Andrej Babiš (ANO) Senát od svého nástupu ignoruje, teď mu nabízíme podanou ruku, říká v rozhovoru pro Novinky předseda horní parlamentní komory Miloš Vystrčil (ODS). Uplynulé senátní a komunální volby podle jeho názoru odrazily atmosféru ve společnosti a opozici v nich výrazně pomohla vzájemná spolupráce.",
+      "title_raw": "Vystrčil: Pro sněmovní volby se ODS může spojit se STAN",
+      "lead_raw": "Premiér Andrej Babiš (ANO) Senát od svého nástupu ignoruje, teď mu nabízíme podanou ruku, říká v rozhovoru pro Novinky předseda horní parlamentní komory Miloš Vystrčil (ODS). Uplynulé senátní a komunální volby podle jeho názoru odrazily atmosféru ve společnosti a opozici v nich výrazně pomohla vzájemná spolupráce.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "4243368c15113746737893a6b97ef93f24bbcd90",
       "fingerprint": "d35b883f64b1f09760635495c37a1b09d29cbd82",
@@ -425,28 +491,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "6d78895e5d2da9af71f30dc37ad858d93ef4bb97",
-      "fingerprint": "6d6da635560c4c8a152c494a7dfa604f2e12590c",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/tajfunu-na-tchaj-wanu-podlehl-jeden-clovek-pres-pet-set-lidi-je-zranenych-378972",
-      "published_utc": "2026-10-24T04:39:56Z",
-      "title_en": "Tajfunu na Tchaj-wanu podlehl jeden člověk, přes pět set lidí je zraněných",
-      "lead_en": "Tajfunu Champi podlehl na Tchaj-wanu jeden člověk, více než pět set lidí utrpělo zranění. Silný vítr povalil stromy a způsobil výpadky energie, směřoval pak dále k čínskému pobřeží.",
-      "title_raw": "Tajfunu na Tchaj-wanu podlehl jeden člověk, přes pět set lidí je zraněných",
-      "lead_raw": "Tajfunu Champi podlehl na Tchaj-wanu jeden člověk, více než pět set lidí utrpělo zranění. Silný vítr povalil stromy a způsobil výpadky energie, směřoval pak dále k čínskému pobřeží.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }

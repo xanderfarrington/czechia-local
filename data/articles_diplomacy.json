@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-26T00:48:00Z",
+  "updated_at_utc": "2026-10-26T05:30:42Z",
   "topic": "diplomacy",
-  "count": 45,
+  "count": 43,
   "articles": [
+    {
+      "id": "4936a4b4dd9b4c39144b1547b9c613286b05665b",
+      "fingerprint": "9749f2999a29696db4a74e141962a747df2b6cce",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/vlada-jednani-o-regulaci-cen-pohonnych-hmot-i-zakotveni-koruny-do-ustavy.A261026_052038_domaci_kop",
+      "published_utc": "2026-10-26T04:49:00Z",
+      "title_en": "Vláda projedná regulaci cen pohonných hmot i zakotvení české koruny do Ústavy",
+      "lead_en": "Možné prodloužení regulace cen pohonných hmot i zakotvení české koruny do Ústavy má v pondělí projednat vláda. Jednání se nezúčastní premiér Andrej Babiš, který zahajuje dvoudenní návštěvu Alžírska.",
+      "title_raw": "Vláda projedná regulaci cen pohonných hmot i zakotvení české koruny do Ústavy",
+      "lead_raw": "Možné prodloužení regulace cen pohonných hmot i zakotvení české koruny do Ústavy má v pondělí projednat vláda. Jednání se nezúčastní premiér Andrej Babiš, který zahajuje dvoudenní návštěvu Alžírska.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "570e5d3cca35a4b2a39275ead52dfa5b07d9802c",
       "fingerprint": "fa5c6f04822d98c8fb56dae80ee4cbf642fae716",
@@ -926,72 +948,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "d65a057c4bd7bc821b99009dd74ddf4da34e8b84",
-      "fingerprint": "5342aead8660c0bf2395ddf501d7d2a0791af8d3",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-opozice-po-jednani-o-poplatcich-totalni-prasarna-ted-uz-to-s-vladou-pujde-z-kopce-40604690",
-      "published_utc": "2026-10-24T04:09:52Z",
-      "title_en": "Opozice po jednání o poplatcích: Totální prasárna. Teď už to s vládou půjde z kopce",
-      "lead_en": "Opoziční politici ostře zkritizovali podobu pátečního a sobotního projednávání návrhu na zrušení koncesionářských poplatků za Českou televizi (ČT) a Český rozhlas (ČRo). Avizovali zároveň, že jejich odpor vůči normě ještě nekončí.",
-      "title_raw": "Opozice po jednání o poplatcích: Totální prasárna. Teď už to s vládou půjde z kopce",
-      "lead_raw": "Opoziční politici ostře zkritizovali podobu pátečního a sobotního projednávání návrhu na zrušení koncesionářských poplatků za Českou televizi (ČT) a Český rozhlas (ČRo). Avizovali zároveň, že jejich odpor vůči normě ještě nekončí.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "ccb654b3f1fe1a2e42b5cbf5c5a498bfe6833089",
-      "fingerprint": "92b28c7a88c787aec33fe86b3b0f08fb4a0d94c5",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/-opozice-kritizuje-podobu-jednani-o-poplatcich-slibuje-dalsi-boj-proti-navrhu/2891992",
-      "published_utc": "2026-10-24T03:42:00Z",
-      "title_en": "Opozice kritizuje podobu jednání o poplatcích, slibuje další boj proti návrhu",
-      "lead_en": "Praha - Opoziční politici dnes brzy ráno po přerušení sněmovní schůze před novináři ostře kritizovali podobu projednávání návrhu na zrušení poplatků za Českou televizi (ČT) a Český rozhlas (ČRo). Podle...",
-      "title_raw": "Opozice kritizuje podobu jednání o poplatcích, slibuje další boj proti návrhu",
-      "lead_raw": "Praha - Opoziční politici dnes brzy ráno po přerušení sněmovní schůze před novináři ostře kritizovali podobu projednávání návrhu na zrušení poplatků za Českou televizi (ČT) a Český rozhlas (ČRo). Podle...",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "cf8680721e2d19c44b0d956c9f1d9a40885faa9a",
-      "fingerprint": "25908148480a42eedd8461aa328fb22a47d609d1",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/koalice-poslala-do-druheho-cteni-navrh-zrusit-poplatky-pro-ct-a-cro/2891827",
-      "published_utc": "2026-10-24T02:49:00Z",
-      "title_en": "Koalice poslala do druhého čtení návrh zrušit poplatky pro ČT a ČRo",
-      "lead_en": "Praha - Sporný vládní návrh na zrušení televizního a rozhlasového poplatku je ve Sněmovně po bouřlivém nočním jednání před druhým čtením. Opozice dnes časně ráno neprosadila zamítnutí návrhu novely v...",
-      "title_raw": "Koalice poslala do druhého čtení návrh zrušit poplatky pro ČT a ČRo",
-      "lead_raw": "Praha - Sporný vládní návrh na zrušení televizního a rozhlasového poplatku je ve Sněmovně po bouřlivém nočním jednání před druhým čtením. Opozice dnes časně ráno neprosadila zamítnutí návrhu novely v...",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
       },
       "topics": [
         "diplomacy"
