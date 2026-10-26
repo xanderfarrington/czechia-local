@@ -1,10 +1,77 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-26T05:30:42Z",
+  "updated_at_utc": "2026-10-26T11:40:51Z",
   "topic": "economy",
   "count": 7,
   "articles": [
+    {
+      "id": "54b9bcde6880302d7307f3cc174a1d668186d3e5",
+      "fingerprint": "54e09db1fdfbe6e66bafb47b7ff8443e9849f182",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-karlovarsky-kraj-prumyslovy-park-v-chebu-ziskal-souhlas-eia-priprava-vyrobniho-zavodu-pro-daimler-postupuje-do-dalsi-faze-40604509",
+      "published_utc": "2026-10-26T11:19:13Z",
+      "title_en": "Průmyslový park v Chebu získal souhlas EIA. Příprava výrobního závodu pro Daimler postupuje do další fáze",
+      "lead_en": "Plánovaný průmyslový park v Chebu získal souhlasné stanovisko k vlivům na životní prostředí. Projekt, jehož hlavním investorem má být německá automobilka Daimler Truck, se tak může posunout k přípravě a povolování samotné stavby.",
+      "title_raw": "Průmyslový park v Chebu získal souhlas EIA. Příprava výrobního závodu pro Daimler postupuje do další fáze",
+      "lead_raw": "Plánovaný průmyslový park v Chebu získal souhlasné stanovisko k vlivům na životní prostředí. Projekt, jehož hlavním investorem má být německá automobilka Daimler Truck, se tak může posunout k přípravě a povolování samotné stavby.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "e1c188115f402b2439303f7b060d74bc9a6fe9ce",
+      "fingerprint": "b227a3b22823cad47373686f4b373f8dd803cae7",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-britanie-predstavi-plan-investic-do-armady-vcetne-cile-35-procenta-hdp-318771",
+      "published_utc": "2026-10-26T10:51:37Z",
+      "title_en": "Británie představí plán investic do armády včetně cíle 3,5 procenta HDP",
+      "lead_en": "Velká Británie brzy představí plán, podle kterého má v průběhu příštích let zvýšit své výdaje na obranu na 3,5 procenta hrubého domácího produktu. Země tak chce naplnit své závazky vůči NATO.",
+      "title_raw": "Británie představí plán investic do armády včetně cíle 3,5 procenta HDP",
+      "lead_raw": "Velká Británie brzy představí plán, podle kterého má v průběhu příštích let zvýšit své výdaje na obranu na 3,5 procenta hrubého domácího produktu. Země tak chce naplnit své závazky vůči NATO.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "280add0197acdd8ef280d272d2e53a546df7ab63",
+      "fingerprint": "05c43e997e09950478eb437624847b0e84e35597",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-pracovni-trh-se-blizi-bodu-zlomu-budou-chybet-lide-rika-poradkyne-317976",
+      "published_utc": "2026-10-26T07:40:00Z",
+      "title_en": "Pracovní trh se blíží bodu zlomu. Budou chybět lidé, říká poradkyně",
+      "lead_en": "Podle šéfky poradenské společnosti RSM Moniky Marečkové české firmy investují a rozvíjejí své zaměstnance, stát jim ale komplikuje přípravu na nové povinnosti.",
+      "title_raw": "Pracovní trh se blíží bodu zlomu. Budou chybět lidé, říká poradkyně",
+      "lead_raw": "Podle šéfky poradenské společnosti RSM Moniky Marečkové české firmy investují a rozvíjejí své zaměstnance, stát jim ale komplikuje přípravu na nové povinnosti.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "6c84c79ed3305a15337b5221c9a751c4ccb6b9ee",
       "fingerprint": "10dc67f56bd5f6f72eebe13d0e7dfa9441844636",
@@ -87,72 +154,6 @@
         "military": 0,
         "energy": 0,
         "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "20d772674a118794ac3d5c8dbfbe097459b6b498",
-      "fingerprint": "f6824d48554b127c81ea602933933ba06dcc150f",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/miroslav-kalousek-rozhovor-poplatky-ceska-televize-cesky-rozhlas-snemovna-zruseni-vlada-rozpocet.A261024_103218_domaci_linh",
-      "published_utc": "2026-10-24T11:10:00Z",
-      "title_en": "Rušení poplatků je drahé a nebezpečné. Zestátnění to ale není, upozornil Kalousek",
-      "lead_en": "Veřejnoprávní média budeme platit dál, jen na dluh a s tučným úrokem, varuje bývalý ministr financí a zakladatel TOP 09 Miroslav Kalousek před rušením poplatků. Návrh podle něj poškodí státní rozpočet i kvalitu vysílání.",
-      "title_raw": "Rušení poplatků je drahé a nebezpečné. Zestátnění to ale není, upozornil Kalousek",
-      "lead_raw": "Veřejnoprávní média budeme platit dál, jen na dluh a s tučným úrokem, varuje bývalý ministr financí a zakladatel TOP 09 Miroslav Kalousek před rušením poplatků. Návrh podle něj poškodí státní rozpočet i kvalitu vysílání.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "d70f9bd82a922c94dc7641ee2e9420f6f2568c8c",
-      "fingerprint": "ba202e97d0176c1e5f6fa8a8a9573589594170a6",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/magazin-zivotni-styl-devatenact-korun-za-hlas-jak-televize-obchoduji-s-prizni-divaku-318528",
-      "published_utc": "2026-10-24T11:00:00Z",
-      "title_en": "Devatenáct korun za hlas. Jak televize obchodují s přízní diváků",
-      "lead_en": "StarDance zdražila hlas na 19 korun, stejně platí diváci SuperStar. Nova přitom u Love Islandu umožňuje hlasovat zdarma.",
-      "title_raw": "Devatenáct korun za hlas. Jak televize obchodují s přízní diváků",
-      "lead_raw": "StarDance zdražila hlas na 19 korun, stejně platí diváci SuperStar. Nova přitom u Love Islandu umožňuje hlasovat zdarma.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "2309af59b7a31e92b970eecee913e0c319d76d36",
-      "fingerprint": "973076caeddcd2d5c359179317ca413e8995b6d9",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/usa-spojene-staty-volby-seznam-kanadske-zbozi-cla.A261024_075826_eko-zahranicni_linh",
-      "published_utc": "2026-10-24T06:10:00Z",
-      "title_en": "Koberce a ventily za chlaďáky s obaly. USA před volbami šachují s celními výjimkami",
-      "lead_en": "Spojené státy upravily seznam kanadských výrobků podléhajících 50procentním clům zavedeným koncem srpna kvůli údajným diskriminačním obchodním praktikám. Změnu uvítala republikánská senátorka za stát Maine Susan Collinsová, podle níž se podařilo vyjednat další celní výjimky pro důležité produkty tamního potravinářského průmyslu.",
-      "title_raw": "Koberce a ventily za chlaďáky s obaly. USA před volbami šachují s celními výjimkami",
-      "lead_raw": "Spojené státy upravily seznam kanadských výrobků podléhajících 50procentním clům zavedeným koncem srpna kvůli údajným diskriminačním obchodním praktikám. Změnu uvítala republikánská senátorka za stát Maine Susan Collinsová, podle níž se podařilo vyjednat další celní výjimky pro důležité produkty tamního potravinářského průmyslu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
         "local_events": 0
       },
       "topics": [
