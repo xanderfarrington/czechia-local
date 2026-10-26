@@ -1,10 +1,101 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-26T17:44:56Z",
+  "updated_at_utc": "2026-10-26T21:58:44Z",
   "topic": "military",
-  "count": 34,
+  "count": 37,
   "articles": [
+    {
+      "id": "a71da4c1e6ef9f40f2e88ef8dacc7a746c8e623d",
+      "fingerprint": "1cf00d9fde7c9422d0c6214349d448340b8ed804",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/starosta-kyjev-moskva-rusko-ukrajina-raketovy-utok-zdravotnicka-zarizeni-valka-putin.A261026_221046_zahranicni_linh",
+      "published_utc": "2026-10-26T21:25:00Z",
+      "title_en": "Výbuchy otřásly Kyjevem. Raketový útok zabil člověka u obchodu a poničil nemocnice",
+      "lead_en": "Jednoho mrtvého si v pondělí večer v Kyjevě vyžádal ruský raketový útok, oznámil starosta Vitalij Kličko. Pět lidí skončilo v nemocnici.",
+      "title_raw": "Výbuchy otřásly Kyjevem. Raketový útok zabil člověka u obchodu a poničil nemocnice",
+      "lead_raw": "Jednoho mrtvého si v pondělí večer v Kyjevě vyžádal ruský raketový útok, oznámil starosta Vitalij Kličko. Pět lidí skončilo v nemocnici.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "ced45f4e2a2228e1b003210462f0869dc91bd45d",
+      "fingerprint": "72af816a9ca62f21df9fc1442097e0d8fc15ea38",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-europoslanci-podporili-vznik-nove-agentury-ma-snizit-zavislost-na-dodavkach-surovin-z-ciny-40604940",
+      "published_utc": "2026-10-26T19:58:31Z",
+      "title_en": "Europoslanci podpořili vznik nové agentury. Má snížit závislost na dodávkách surovin z Číny",
+      "lead_en": "Evropská unie zvažuje výrazně aktivnější roli při zajišťování dodávek kritických surovin, které jsou nezbytné pro výrobu baterií, obranných technologií či obnovitelných zdrojů energie. Poslanci Evropského parlamentu podpořili vznik nové agentury, která by mohla vstupovat kapitálově do projektů těžby a zpracování strategických nerostů.",
+      "title_raw": "Europoslanci podpořili vznik nové agentury. Má snížit závislost na dodávkách surovin z Číny",
+      "lead_raw": "Evropská unie zvažuje výrazně aktivnější roli při zajišťování dodávek kritických surovin, které jsou nezbytné pro výrobu baterií, obranných technologií či obnovitelných zdrojů energie. Poslanci Evropského parlamentu podpořili vznik nové agentury, která by mohla vstupovat kapitálově do projektů těžby a zpracování strategických nerostů.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "19be877baeb202daf2bc4c1c7d3bfbf75d04e5ec",
+      "fingerprint": "d97c1727fc70448f90562cbf44f2601cffe87c30",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-rusko-chce-zapojit-evropu-do-mirovych-jednani-aby-ziskalo-ustupky-ohledne-rozsirovani-nato-40605123",
+      "published_utc": "2026-10-26T19:25:08Z",
+      "title_en": "Rusko chce zapojit Evropu do mírových jednání, aby získalo ústupky ohledně rozšiřování NATO",
+      "lead_en": "Rusko by se mohlo pokusit využít mírová jednání o Ukrajině na oslabení obrany Severoatlantické aliance. V pondělí o tom informoval britský deník The Telegraph s odkazem na zdroje z diplomatického prostředí.",
+      "title_raw": "Rusko chce zapojit Evropu do mírových jednání, aby získalo ústupky ohledně rozšiřování NATO",
+      "lead_raw": "Rusko by se mohlo pokusit využít mírová jednání o Ukrajině na oslabení obrany Severoatlantické aliance. V pondělí o tom informoval britský deník The Telegraph s odkazem na zdroje z diplomatického prostředí.",
+      "topic_scores": {
+        "diplomacy": 3,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "f64af04c5839fede93b72d803b58637a4c90fa73",
+      "fingerprint": "fa9e7dda010919c08b53edbedf16bc524c991979",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/armada-obdrzi-prvni-obrnence-cv90-az-v-prvni-polovine-pristiho-roku-379034",
+      "published_utc": "2026-10-26T19:20:26Z",
+      "title_en": "Armáda obdrží první obrněnce CV90 až v první polovině příštího roku",
+      "lead_en": "První obrněnce CV90 dostanou vojáci později, potvrdili České televizi ministr obrany Jaromír Zůna (za SPD) i výrobce. „Těch deset vozidel, která měla přijít v letošním roce k vojskovým zkouškám, tak by mělo přijít na jaře příštího roku.",
+      "title_raw": "Armáda obdrží první obrněnce CV90 až v první polovině příštího roku",
+      "lead_raw": "První obrněnce CV90 dostanou vojáci později, potvrdili České televizi ministr obrany Jaromír Zůna (za SPD) i výrobce. „Těch deset vozidel, která měla přijít v letošním roce k vojskovým zkouškám, tak by mělo přijít na jaře příštího roku.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "621bba60be53f45d53d30982f142a324ec02c5e8",
       "fingerprint": "8934ce0cc5a6646bd5c8cd143f5bcb9c2aafd5dc",
@@ -732,28 +823,6 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "0d688aaa906f22b6f2ddf461e940457d055a848c",
-      "fingerprint": "555d997590f7e0c2f4aab4be4476a4624cd67f23",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/detektory-dronu-i-kurzy-prvni-pomoci-ukrajinci-reaguji-na-zhorseni-bezpecnosti-378981",
-      "published_utc": "2026-10-24T17:57:53Z",
-      "title_en": "Detektory dronů i kurzy první pomoci. Ukrajinci reagují na zhoršení bezpečnosti",
-      "lead_en": "Satelitní systém Starlink už nad Ukrajinou funguje bez omezení, potvrdil v sobotu prezident Volodymyr Zelenskyj. Kyjev si víc než týden stěžoval na výpadky, které Ukrajincům komplikovaly obranu před ruskými raketami a drony.",
-      "title_raw": "Detektory dronů i kurzy první pomoci. Ukrajinci reagují na zhoršení bezpečnosti",
-      "lead_raw": "Satelitní systém Starlink už nad Ukrajinou funguje bez omezení, potvrdil v sobotu prezident Volodymyr Zelenskyj. Kyjev si víc než týden stěžoval na výpadky, které Ukrajincům komplikovaly obranu před ruskými raketami a drony.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
         "energy": 0,
         "economy": 0,
         "local_events": 0

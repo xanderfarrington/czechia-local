@@ -1,10 +1,99 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-26T17:44:56Z",
+  "updated_at_utc": "2026-10-26T21:58:44Z",
   "topic": "local_events",
-  "count": 17,
+  "count": 19,
   "articles": [
+    {
+      "id": "a71da4c1e6ef9f40f2e88ef8dacc7a746c8e623d",
+      "fingerprint": "1cf00d9fde7c9422d0c6214349d448340b8ed804",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/starosta-kyjev-moskva-rusko-ukrajina-raketovy-utok-zdravotnicka-zarizeni-valka-putin.A261026_221046_zahranicni_linh",
+      "published_utc": "2026-10-26T21:25:00Z",
+      "title_en": "Výbuchy otřásly Kyjevem. Raketový útok zabil člověka u obchodu a poničil nemocnice",
+      "lead_en": "Jednoho mrtvého si v pondělí večer v Kyjevě vyžádal ruský raketový útok, oznámil starosta Vitalij Kličko. Pět lidí skončilo v nemocnici.",
+      "title_raw": "Výbuchy otřásly Kyjevem. Raketový útok zabil člověka u obchodu a poničil nemocnice",
+      "lead_raw": "Jednoho mrtvého si v pondělí večer v Kyjevě vyžádal ruský raketový útok, oznámil starosta Vitalij Kličko. Pět lidí skončilo v nemocnici.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "fe0b733d41a3e2c379d8c49ebabdbee8b04203d3",
+      "fingerprint": "dd8b979ac56bf29451b8bc118584b12841ceee0a",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-hlasite-exploze-v-kyjeve-rusove-zasahli-sanitku-jedouci-k-pripadu-40605129",
+      "published_utc": "2026-10-26T21:00:59Z",
+      "title_en": "Hlasité exploze v Kyjevě, Rusové zasáhli sanitku jedoucí k případu",
+      "lead_en": "Po ruském bombardování Kyjeva v pondělí večer ukrajinské úřady předběžně hlásí jednoho mrtvého a sedm zraněných. Útok zasáhl mimo jiné supermarket a sanitku, která jela k zásahu, informoval starosta Kyjeva Vitalij Kličko.",
+      "title_raw": "Hlasité exploze v Kyjevě, Rusové zasáhli sanitku jedoucí k případu",
+      "lead_raw": "Po ruském bombardování Kyjeva v pondělí večer ukrajinské úřady předběžně hlásí jednoho mrtvého a sedm zraněných. Útok zasáhl mimo jiné supermarket a sanitku, která jela k zásahu, informoval starosta Kyjeva Vitalij Kličko.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "ff97046d46d5c2a1ed26b5650532e07c37ab57e6",
+      "fingerprint": "eedf83654651cf78e77586c8ec2be037f46f2692",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-rodina-v-prazskych-kosirich-vbehla-primo-do-silnice-policejni-vuz-srazil-divku-40605124",
+      "published_utc": "2026-10-26T19:06:49Z",
+      "title_en": "Rodina v pražských Košířích vběhla přímo do silnice. Policejní vůz srazil dívku",
+      "lead_en": "Lehkým zraněním přibližně desetileté dívky skončila v pondělí odpoledne nehoda v pražských Košířích. Dívka, společně se skupinkou dalších lidí, měla podle svědků vstoupit do silnice přímo před projíždějící vůz městské policie.",
+      "title_raw": "Rodina v pražských Košířích vběhla přímo do silnice. Policejní vůz srazil dívku",
+      "lead_raw": "Lehkým zraněním přibližně desetileté dívky skončila v pondělí odpoledne nehoda v pražských Košířích. Dívka, společně se skupinkou dalších lidí, měla podle svědků vstoupit do silnice přímo před projíždějící vůz městské policie.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "82c6b186a2d59275e5aa82af3a8fb8d7f0f8d200",
+      "fingerprint": "d728b0c65b4a09900064aec90c1a1cb2dd94a050",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-tragicka-nehoda-v-centru-pardubic-motorkar-zemrel-po-srazce-s-dodavkou-40605116",
+      "published_utc": "2026-10-26T18:26:47Z",
+      "title_en": "Motorkářka se v centru Pardubic srazila s dodávkou. Na místě zemřela",
+      "lead_en": "Smrtelná nehoda se stala v pondělí na světelné křižovatce u Zborovského náměstí v centru Pardubic. O život zde po střetu s dodávkou přišel motorkářka.",
+      "title_raw": "Motorkářka se v centru Pardubic srazila s dodávkou. Na místě zemřela",
+      "lead_raw": "Smrtelná nehoda se stala v pondělí na světelné křižovatce u Zborovského náměstí v centru Pardubic. O život zde po střetu s dodávkou přišel motorkářka.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "5119cc0e78196b7ea43d651f6970d4742f3daecc",
       "fingerprint": "e346b8bfef0241a4bd850ee1cfce817116eb083f",
@@ -333,50 +422,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "dbfefdeb276c517ed41eee8447d7a7d7bdf30e45",
-      "fingerprint": "582abfb50582fd5f89412bf0b00cad8fe5ed7d0f",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-v-sofii-zastrelili-byvaleho-europoslance-a-mistra-evropy-v-taekwondu-40604793",
-      "published_utc": "2026-10-24T20:50:22Z",
-      "title_en": "V Sofii zastřelili bývalého europoslance a mistra Evropy v taekwondu",
-      "lead_en": "Bývalého bulharského europoslance, podnikatele a mistra Evropy v taekwondu Slaviho Bineva v sobotu zastřelili v jeho domě v Sofii. Šedesátiletý politik a sportovní funkcionář zemřel ještě před příjezdem záchranářů.",
-      "title_raw": "V Sofii zastřelili bývalého europoslance a mistra Evropy v taekwondu",
-      "lead_raw": "Bývalého bulharského europoslance, podnikatele a mistra Evropy v taekwondu Slaviho Bineva v sobotu zastřelili v jeho domě v Sofii. Šedesátiletý politik a sportovní funkcionář zemřel ještě před příjezdem záchranářů.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "c4a0d032b0c00120d26d111ccfaa5c2da13052a7",
-      "fingerprint": "1723187d0604a89c5664444a5dc904b8afc48724",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-dva-lide-spadli-na-rozestavene-dalnici-d11-z-nedokonceneho-mostu-jeden-neprezil-40604784",
-      "published_utc": "2026-10-24T19:05:43Z",
-      "title_en": "Dva lidé spadli na rozestavěné dálnici D11 z nedokončeného mostu, jeden nepřežil",
-      "lead_en": "Vrtulník a dvě pozemní posádky záchranářů v sobotu vyrazily na pomoc dvěma lidem, kteří na stavbě D11 na Trutnovsku spadli z nedokončeného mostu. Jedna osoba zraněním na místě podlehla.",
-      "title_raw": "Dva lidé spadli na rozestavěné dálnici D11 z nedokončeného mostu, jeden nepřežil",
-      "lead_raw": "Vrtulník a dvě pozemní posádky záchranářů v sobotu vyrazily na pomoc dvěma lidem, kteří na stavbě D11 na Trutnovsku spadli z nedokončeného mostu. Jedna osoba zraněním na místě podlehla.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
       },
       "topics": [
         "local_events"

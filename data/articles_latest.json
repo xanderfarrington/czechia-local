@@ -1,10 +1,1145 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-26T17:44:56Z",
+  "updated_at_utc": "2026-10-26T21:58:44Z",
   "keep_hours": 48,
-  "count": 589,
+  "count": 625,
   "articles": [
+    {
+      "id": "0d435c2d2f70ec6d9909c2cf92e0ce59d4844569",
+      "fingerprint": "d5c88522a8187a276c394bae8b86a0a371eb52e0",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-byvale-vydavatelstvi-jaromira-soukupa-empresa-media-je-v-insolvenci-40605131",
+      "published_utc": "2026-10-26T21:39:30Z",
+      "title_en": "Bývalé vydavatelství Jaromíra Soukupa Empresa Media je v insolvenci",
+      "lead_en": "Vydavatelství Empresa Media je v insolvenci. Návrh na insolvenční řízení a na prohlášení konkursu na majetek firmy podala skupina bývalých zaměstnanců.",
+      "title_raw": "Bývalé vydavatelství Jaromíra Soukupa Empresa Media je v insolvenci",
+      "lead_raw": "Vydavatelství Empresa Media je v insolvenci. Návrh na insolvenční řízení a na prohlášení konkursu na majetek firmy podala skupina bývalých zaměstnanců.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "35aae816ea5285716640a4a8d30d87801a67c0c2",
+      "fingerprint": "25e711b0eb2103aff32b7ab7eec6b1e7244485fa",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-leky-tizi-duchodce-vice-nez-ostatni-velkou-zatez-v-nich-vidi-ctvrtina-40605010",
+      "published_utc": "2026-10-26T21:32:18Z",
+      "title_en": "Léky tíží důchodce více než ostatní. Velkou zátěž v nich vidí čtvrtina",
+      "lead_en": "S chůzí má potíže téměř polovina seniorů, každý třetí hůř vidí a každý pátý špatně slyší nebo si hůř pamatuje. Zdravotní potíže je navíc stojí peníze.",
+      "title_raw": "Léky tíží důchodce více než ostatní. Velkou zátěž v nich vidí čtvrtina",
+      "lead_raw": "S chůzí má potíže téměř polovina seniorů, každý třetí hůř vidí a každý pátý špatně slyší nebo si hůř pamatuje. Zdravotní potíže je navíc stojí peníze.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "929c369f1786fe07e1d71393284d48752058fd1e",
+      "fingerprint": "4eeffffcf8b6ffb538c86098b1eddd2b832b9a20",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/bolsonaro-neprimo-uznal-porazku-v-prezidentskych-volbach-379037",
+      "published_utc": "2026-10-26T21:28:41Z",
+      "title_en": "Bolsonaro nepřímo uznal porážku v prezidentských volbách",
+      "lead_en": "Neúspěšný krajně pravicový kandidát na brazilského prezidenta Flávio Bolsonaro nepřímo uznal porážku v druhém kole prezidentských voleb. Prohlásil totiž, že bude organizovat opozici proti levicovému prezidentovi Luizovi Ináciovi Lulovi da Silva, který v neděli volby vyhrál.",
+      "title_raw": "Bolsonaro nepřímo uznal porážku v prezidentských volbách",
+      "lead_raw": "Neúspěšný krajně pravicový kandidát na brazilského prezidenta Flávio Bolsonaro nepřímo uznal porážku v druhém kole prezidentských voleb. Prohlásil totiž, že bude organizovat opozici proti levicovému prezidentovi Luizovi Ináciovi Lulovi da Silva, který v neděli volby vyhrál.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "a71da4c1e6ef9f40f2e88ef8dacc7a746c8e623d",
+      "fingerprint": "1cf00d9fde7c9422d0c6214349d448340b8ed804",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/starosta-kyjev-moskva-rusko-ukrajina-raketovy-utok-zdravotnicka-zarizeni-valka-putin.A261026_221046_zahranicni_linh",
+      "published_utc": "2026-10-26T21:25:00Z",
+      "title_en": "Výbuchy otřásly Kyjevem. Raketový útok zabil člověka u obchodu a poničil nemocnice",
+      "lead_en": "Jednoho mrtvého si v pondělí večer v Kyjevě vyžádal ruský raketový útok, oznámil starosta Vitalij Kličko. Pět lidí skončilo v nemocnici.",
+      "title_raw": "Výbuchy otřásly Kyjevem. Raketový útok zabil člověka u obchodu a poničil nemocnice",
+      "lead_raw": "Jednoho mrtvého si v pondělí večer v Kyjevě vyžádal ruský raketový útok, oznámil starosta Vitalij Kličko. Pět lidí skončilo v nemocnici.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "ba9aa6a30b3b3d70e587ba369dbb98e29a2fcf7e",
+      "fingerprint": "a9b008053e3fbce061ee0b61c0d84262bc660522",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-bolsonaro-neprimo-uznal-porazku-40605130",
+      "published_utc": "2026-10-26T21:10:15Z",
+      "title_en": "Bolsonaro nepřímo uznal porážku",
+      "lead_en": "Neúspěšný brazilský krajně pravicový kandidát na prezidenta Flávio Bolsonaro nepřímo uznal porážku v nedělním druhém kole prezidentských voleb. Prohlásil totiž, že bude organizovat opozici proti levicovému prezidentovi Luizovi Ináciovi Lulovi da Silva, který v neděli prezidentské volby vyhrál.",
+      "title_raw": "Bolsonaro nepřímo uznal porážku",
+      "lead_raw": "Neúspěšný brazilský krajně pravicový kandidát na prezidenta Flávio Bolsonaro nepřímo uznal porážku v nedělním druhém kole prezidentských voleb. Prohlásil totiž, že bude organizovat opozici proti levicovému prezidentovi Luizovi Ináciovi Lulovi da Silva, který v neděli prezidentské volby vyhrál.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "3464f807112bf02260503193cbc3c3e6e53ff970",
+      "fingerprint": "4ad470c66bb91acd1606a6fe90ae73fbce419279",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/domaci/dermacol-opousti-marketingova-reditelka-komarova-po-24-letech-ji-vyhodil-manzel.A261026_203350_ekonomika_fohl",
+      "published_utc": "2026-10-26T21:08:00Z",
+      "title_en": "Dermacol opouští marketingová ředitelka Komárová. Po 24 letech ji vyhodil manžel",
+      "lead_en": "Kosmetickou značku Dermacol opouští jedna z jejích nejvýraznějších tváří. Věra Komárová po 24 letech končí coby marketingová ředitelka, svou výpověď oznámila zaměstnancům v e-mailu.",
+      "title_raw": "Dermacol opouští marketingová ředitelka Komárová. Po 24 letech ji vyhodil manžel",
+      "lead_raw": "Kosmetickou značku Dermacol opouští jedna z jejích nejvýraznějších tváří. Věra Komárová po 24 letech končí coby marketingová ředitelka, svou výpověď oznámila zaměstnancům v e-mailu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "f8d7489e9d80313b5414d75b60e32cd0ba212f29",
+      "fingerprint": "a618e4f2f0647ca7df833a6ef1482c6dc155ba59",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/moravskym-krasem-uz-nepotece-odpadni-voda-pomuze-kanalizace-a-cisticka-pro_2610262206_ako",
+      "published_utc": "2026-10-26T21:06:00Z",
+      "title_en": "Moravským krasem už nepoteče odpadní voda. Pomůže kanalizace a čistička pro Křtiny a Habrůvku",
+      "lead_en": "Ve Křtinách a Habrůvce v Moravském krasu začala stavba nové kanalizace a výkonnější čističky. Odpadní voda tak díky investici za téměř čtvrt miliardy v budoucnu nebude znečišťovat chráněnou oblast.",
+      "title_raw": "Moravským krasem už nepoteče odpadní voda. Pomůže kanalizace a čistička pro Křtiny a Habrůvku",
+      "lead_raw": "Ve Křtinách a Habrůvce v Moravském krasu začala stavba nové kanalizace a výkonnější čističky. Odpadní voda tak díky investici za téměř čtvrt miliardy v budoucnu nebude znečišťovat chráněnou oblast.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "b0e6fccf417aa91880aba32489f6247f063c8107",
+      "fingerprint": "01d90318982abcc052ee17345347326bcb59a7b5",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/kultura/obrazem-grand-prix-architektu-2026-putuje-do-horacke-multifunkcni-areny-379013",
+      "published_utc": "2026-10-26T21:03:27Z",
+      "title_en": "Obrazem: Grand Prix Architektů 2026 putuje do Horácké multifunkční arény",
+      "lead_en": "Grand Prix Architektů v Národní ceně za architekturu 2026 si vysloužil ateliér vedený Ondřejem Chybíkem a Michalem Krištofem za Horáckou multifunkční arénu. Vyrostla na místě zimního stadionu v Jihlavě a kromě hokejového klubu Dukly slouží také dalším sportovním, společenským a kulturním akcím, ale také k ubytování a gastroprovozům.",
+      "title_raw": "Obrazem: Grand Prix Architektů 2026 putuje do Horácké multifunkční arény",
+      "lead_raw": "Grand Prix Architektů v Národní ceně za architekturu 2026 si vysloužil ateliér vedený Ondřejem Chybíkem a Michalem Krištofem za Horáckou multifunkční arénu. Vyrostla na místě zimního stadionu v Jihlavě a kromě hokejového klubu Dukly slouží také dalším sportovním, společenským a kulturním akcím, ale také k ubytování a gastroprovozům.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "fe0b733d41a3e2c379d8c49ebabdbee8b04203d3",
+      "fingerprint": "dd8b979ac56bf29451b8bc118584b12841ceee0a",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-hlasite-exploze-v-kyjeve-rusove-zasahli-sanitku-jedouci-k-pripadu-40605129",
+      "published_utc": "2026-10-26T21:00:59Z",
+      "title_en": "Hlasité exploze v Kyjevě, Rusové zasáhli sanitku jedoucí k případu",
+      "lead_en": "Po ruském bombardování Kyjeva v pondělí večer ukrajinské úřady předběžně hlásí jednoho mrtvého a sedm zraněných. Útok zasáhl mimo jiné supermarket a sanitku, která jela k zásahu, informoval starosta Kyjeva Vitalij Kličko.",
+      "title_raw": "Hlasité exploze v Kyjevě, Rusové zasáhli sanitku jedoucí k případu",
+      "lead_raw": "Po ruském bombardování Kyjeva v pondělí večer ukrajinské úřady předběžně hlásí jednoho mrtvého a sedm zraněných. Útok zasáhl mimo jiné supermarket a sanitku, která jela k zásahu, informoval starosta Kyjeva Vitalij Kličko.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "8e70670a9e8c721f9c1c93c1007639d509e5b9a4",
+      "fingerprint": "f79aa77d1aae66cdd9a1a9a9d2d51dffcc36203d",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-francouzska-vlada-chce-po-protestech-nahradit-system-prijimani-na-vysoke-skoly-318871",
+      "published_utc": "2026-10-26T20:57:51Z",
+      "title_en": "Francouzská vláda chce po protestech nahradit systém přijímání na vysoké školy",
+      "lead_en": "Francie hodlá v roce 2028 upravit systém Parcoursup, který zpracovává přihlášky na vysoké školy. Vláda zároveň představila opatření zaměřená na zlepšení podmínek ve školách.",
+      "title_raw": "Francouzská vláda chce po protestech nahradit systém přijímání na vysoké školy",
+      "lead_raw": "Francie hodlá v roce 2028 upravit systém Parcoursup, který zpracovává přihlášky na vysoké školy. Vláda zároveň představila opatření zaměřená na zlepšení podmínek ve školách.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "0330f9db429387f28b29016555d06efd7ecbd044",
+      "fingerprint": "4bb055a656ed3591383707bccf189ee8c96c7f3b",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-trump-odmeni-milionem-dolaru-kohokoliv-kdo-nahlasi-volebni-podvod-40605128",
+      "published_utc": "2026-10-26T20:40:20Z",
+      "title_en": "Trump odmění milionem dolarů kohokoliv, kdo nahlásí volební podvod",
+      "lead_en": "Americký prezident Donald Trump zaplatí milion dolarů (22 milionů korun) každému, kdo nahlásí volební podvod, který povede k zatčení a odsouzení. Oznámil to v pondělí na své sociální síti Truth Social.",
+      "title_raw": "Trump odmění milionem dolarů kohokoliv, kdo nahlásí volební podvod",
+      "lead_raw": "Americký prezident Donald Trump zaplatí milion dolarů (22 milionů korun) každému, kdo nahlásí volební podvod, který povede k zatčení a odsouzení. Oznámil to v pondělí na své sociální síti Truth Social.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "d0331e55c0d5a45379d59e0f21e780699a0d1779",
+      "fingerprint": "3edaa16c614a34a5f803f8b1454c6ee06d210dc7",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-ruska-na-manhattanu-bodla-dva-zidy-do-zad-injekcni-strikackou-40605127",
+      "published_utc": "2026-10-26T20:35:27Z",
+      "title_en": "Ruska na Manhattanu bodla dva židy do zad injekční stříkačkou",
+      "lead_en": "Ruská žena minulý týden pobodala do zad dva americké židy v New Yorku injekční stříkačkou. Vybrala si oběti kvůli jejich vyznání, informují americká média.",
+      "title_raw": "Ruska na Manhattanu bodla dva židy do zad injekční stříkačkou",
+      "lead_raw": "Ruská žena minulý týden pobodala do zad dva americké židy v New Yorku injekční stříkačkou. Vybrala si oběti kvůli jejich vyznání, informují americká média.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "003441bc92c4721a15c1f012d12bc28d22e3ff22",
+      "fingerprint": "be36a623a20c6b5d330331801ef77da0b9a76b7f",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/koktejl-spilberk-zve-do-temnych-kasemat-na-svetelnou-show-s-kvetinami-40605036",
+      "published_utc": "2026-10-26T20:31:27Z",
+      "title_en": "Špilberk zve do temných kasemat na světelnou show s květinami",
+      "lead_en": "Tajemné kasematy brněnského hradu Špilberku, které byly kdysi nejobávanějším vězením Rakouska-Uherska, se již od středy promění v dechberoucí prostor se světelně-květinovou instalací. Půjde o velkolepou hru světel a barev na pozadí nainstalovaných květinových vazeb.",
+      "title_raw": "Špilberk zve do temných kasemat na světelnou show s květinami",
+      "lead_raw": "Tajemné kasematy brněnského hradu Špilberku, které byly kdysi nejobávanějším vězením Rakouska-Uherska, se již od středy promění v dechberoucí prostor se světelně-květinovou instalací. Půjde o velkolepou hru světel a barev na pozadí nainstalovaných květinových vazeb.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "617e6925ec6446ec41b74c7fe432138a135c47d1",
+      "fingerprint": "8b4f64f705e9dacfc21dbdb75bc6f95661860fe7",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/jako-prepadeni-dostavniku-hlavni-agendou-babisovy-vlady-je-konflikt-rika-k_2610262122_ntu",
+      "published_utc": "2026-10-26T20:22:00Z",
+      "title_en": "Jako přepadení dostavníku. Hlavní agendou Babišovy vlády je konflikt, říká k hlasování o poplatcích Gabal",
+      "lead_en": "Byl mezi prvními, kdo politiky už před 17 lety varoval před pokusy zrušit poplatky veřejnoprávních médií. Vedlo by to prý k nejostřejšímu testu stavu a kvality naší demokracie.",
+      "title_raw": "Jako přepadení dostavníku. Hlavní agendou Babišovy vlády je konflikt, říká k hlasování o poplatcích Gabal",
+      "lead_raw": "Byl mezi prvními, kdo politiky už před 17 lety varoval před pokusy zrušit poplatky veřejnoprávních médií. Vedlo by to prý k nejostřejšímu testu stavu a kvality naší demokracie.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "9d1ca97778ffcdcf2053790efa8cfd4e350b25c8",
+      "fingerprint": "a93eba5a664c95b4dacb40d3da72280492b6082e",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-do-najemnich-bytu-miri-miliardy-od-velkych-firem-40604325",
+      "published_utc": "2026-10-26T20:15:27Z",
+      "title_en": "Do nájemních bytů míří miliardy od velkých firem",
+      "lead_en": "Češi sice nadále touží bydlet ve vlastním bytě, na jeho nákup má ale peníze stále méně z nich. Budou proto podle expertů častěji končit v pronájmu.",
+      "title_raw": "Do nájemních bytů míří miliardy od velkých firem",
+      "lead_raw": "Češi sice nadále touží bydlet ve vlastním bytě, na jeho nákup má ale peníze stále méně z nich. Budou proto podle expertů častěji končit v pronájmu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "4e78c4f18465f7792ec500f872c9b8cfaacb43ea",
+      "fingerprint": "7cc9c8791b1775826175c38c7af456fbfcc6a2b5",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/pardubice-povede-nova-petikoalice-primatorem-ma-byt-ondrej-tichy-z-ods_2610262114_mkm",
+      "published_utc": "2026-10-26T20:14:00Z",
+      "title_en": "Pardubice povede nová pětikoalice, primátorem má být Ondřej Tichý z ODS",
+      "lead_en": "V Pardubicích se dohodlo na koaličním vedení města pět politických uskupení. Koalici utvoří ODS, STAN, Naše Pardubice, Progresivní Pardubice a lidovci, vpodvečer podepsali smlouvu.",
+      "title_raw": "Pardubice povede nová pětikoalice, primátorem má být Ondřej Tichý z ODS",
+      "lead_raw": "V Pardubicích se dohodlo na koaličním vedení města pět politických uskupení. Koalici utvoří ODS, STAN, Naše Pardubice, Progresivní Pardubice a lidovci, vpodvečer podepsali smlouvu.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "988322323edd4ea1e24b5104797dab72d5f5b160",
+      "fingerprint": "ebba954b39af80107ad1fd124f42f3c7a307000b",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-deratizator-ve-francii-strelil-manzelku-do-hlavy-tvrdi-ze-si-ji-spletl-s-krysou-40605031",
+      "published_utc": "2026-10-26T20:05:09Z",
+      "title_en": "Deratizátor ve Francii střelil manželku do hlavy. Tvrdí, že si ji spletl s krysou",
+      "lead_en": "Profesionální deratizátor ve Francii vážně zranil střelou z pušky svou manželku, protože si prý myslel, že cílí na krysu. Čtyřiapadesátiletá žena bojuje v nemocnici o život.",
+      "title_raw": "Deratizátor ve Francii střelil manželku do hlavy. Tvrdí, že si ji spletl s krysou",
+      "lead_raw": "Profesionální deratizátor ve Francii vážně zranil střelou z pušky svou manželku, protože si prý myslel, že cílí na krysu. Čtyřiapadesátiletá žena bojuje v nemocnici o život.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ba7488b42581ce643bc651b31f75d84c6e9aa6fa",
+      "fingerprint": "1a9e07650a4ce92e7ff043588f122ec6dc9a7e3d",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/milimetr-po-milimetru-dalnicni-most-na-vysocine-zvedli-za-plneho-provozu-o-pul_2610262105_ako",
+      "published_utc": "2026-10-26T20:05:00Z",
+      "title_en": "Milimetr po milimetru. Dálniční most na Vysočině zvedli za plného provozu o půl centimetru",
+      "lead_en": "Ředitelství silnic a dálnic mění přibližně po 40 letech ložiska dvou dálničních mostů na Vysočině. Využívá technologii, díky které není nutné zastavit provoz, i když se musí mosty asi o půl centimetru nadzvednout.",
+      "title_raw": "Milimetr po milimetru. Dálniční most na Vysočině zvedli za plného provozu o půl centimetru",
+      "lead_raw": "Ředitelství silnic a dálnic mění přibližně po 40 letech ložiska dvou dálničních mostů na Vysočině. Využívá technologii, díky které není nutné zastavit provoz, i když se musí mosty asi o půl centimetru nadzvednout.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "b9175825d339b71265a5cc7adb11df0465cc71aa",
+      "fingerprint": "893ae012b359bfec67cd09581eb17fe2c71c68f9",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/regiony/padly-dub-z-trebonskeho-zamku-poslouzi-k-zachrane-vzacneho-tesarika-379028",
+      "published_utc": "2026-10-26T20:00:00Z",
+      "title_en": "Padlý dub z třeboňského zámku poslouží k záchraně vzácného tesaříka",
+      "lead_en": "Třeboňský zámek nedávno přišel o jednu ze svých dominant. Na zámeckém nádvoří se zřítil téměř tři sta let starý dub.",
+      "title_raw": "Padlý dub z třeboňského zámku poslouží k záchraně vzácného tesaříka",
+      "lead_raw": "Třeboňský zámek nedávno přišel o jednu ze svých dominant. Na zámeckém nádvoří se zřítil téměř tři sta let starý dub.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "ced45f4e2a2228e1b003210462f0869dc91bd45d",
+      "fingerprint": "72af816a9ca62f21df9fc1442097e0d8fc15ea38",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-europoslanci-podporili-vznik-nove-agentury-ma-snizit-zavislost-na-dodavkach-surovin-z-ciny-40604940",
+      "published_utc": "2026-10-26T19:58:31Z",
+      "title_en": "Europoslanci podpořili vznik nové agentury. Má snížit závislost na dodávkách surovin z Číny",
+      "lead_en": "Evropská unie zvažuje výrazně aktivnější roli při zajišťování dodávek kritických surovin, které jsou nezbytné pro výrobu baterií, obranných technologií či obnovitelných zdrojů energie. Poslanci Evropského parlamentu podpořili vznik nové agentury, která by mohla vstupovat kapitálově do projektů těžby a zpracování strategických nerostů.",
+      "title_raw": "Europoslanci podpořili vznik nové agentury. Má snížit závislost na dodávkách surovin z Číny",
+      "lead_raw": "Evropská unie zvažuje výrazně aktivnější roli při zajišťování dodávek kritických surovin, které jsou nezbytné pro výrobu baterií, obranných technologií či obnovitelných zdrojů energie. Poslanci Evropského parlamentu podpořili vznik nové agentury, která by mohla vstupovat kapitálově do projektů těžby a zpracování strategických nerostů.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "c7613a4bd57f0ce0cb0b4cf78695bf10967b1295",
+      "fingerprint": "22481b673dde330dfaf70f5980410ea714b78357",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/cesti-egyptologove-odkryli-zapomenute-hrobky-barta.A261026_203505_domaci_sahu",
+      "published_utc": "2026-10-26T19:58:00Z",
+      "title_en": "Poušť po téměř 170 letech opět vydala své tajemství. Češi odkryli zapomenuté hrobky",
+      "lead_en": "Čeští egyptologové působící na pohřebišti v egyptské Sakkáře odkryli hrobky ze Staré říše, mezi nimi hrobky velekněží boha Ptaha a vysokých státních úředníků.",
+      "title_raw": "Poušť po téměř 170 letech opět vydala své tajemství. Češi odkryli zapomenuté hrobky",
+      "lead_raw": "Čeští egyptologové působící na pohřebišti v egyptské Sakkáře odkryli hrobky ze Staré říše, mezi nimi hrobky velekněží boha Ptaha a vysokých státních úředníků.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "8090fcdc1287b26437368eb63386d2cf712262b4",
+      "fingerprint": "4c48f17524de222cb355965cce234ce6e82b3865",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-zadne-dalsi-capi-hnizdo-vlada-omezila-praktiky-odvolacich-soudu-40605011",
+      "published_utc": "2026-10-26T19:43:16Z",
+      "title_en": "Žádné další Čapí hnízdo. Vláda omezila praktiky odvolacích soudů",
+      "lead_en": "Vláda v pondělí schválila rozsáhlou novelu trestního řádu, která mimo jiné zakazuje odvolacím soudům nařizovat těm nižším, prvoinstančním, jak mají hodnotit důkazy, k jakým skutkovým zjištěním dospět a jak v dané kauze rozhodnout. Nemělo by se tak opakovat několik případů, kdy soudy prvního stupně musely rozhodnout podle toho, co jim nařídil nadřízený odvolací senát.",
+      "title_raw": "Žádné další Čapí hnízdo. Vláda omezila praktiky odvolacích soudů",
+      "lead_raw": "Vláda v pondělí schválila rozsáhlou novelu trestního řádu, která mimo jiné zakazuje odvolacím soudům nařizovat těm nižším, prvoinstančním, jak mají hodnotit důkazy, k jakým skutkovým zjištěním dospět a jak v dané kauze rozhodnout. Nemělo by se tak opakovat několik případů, kdy soudy prvního stupně musely rozhodnout podle toho, co jim nařídil nadřízený odvolací senát.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "f18f16a664fbf45ae84c1e3074ec159c3cf71bd4",
+      "fingerprint": "2a0917988feba11fce7f1bef5d962fd43e880d47",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/kultura/obraz-frantiska-kupky-se-v-parizi-vydrazil-za-rekordnich-899-milionu-eur-379036",
+      "published_utc": "2026-10-26T19:42:41Z",
+      "title_en": "Obraz Františka Kupky se v Paříži vydražil za rekordních 8,99 milionu eur",
+      "lead_en": "Obraz Františka Kupky Nepopisný prostor (Espace non-descriptif) se minulý pátek prodal v pařížské aukční síni Sotheby’s za 8,99 milionu eur (asi 217,5 milionu korun) včetně provize. Jde o nejvyšší částku, jaká kdy byla za dílo tohoto českého malíře v aukci v zahraničí zaplacena v eurech.",
+      "title_raw": "Obraz Františka Kupky se v Paříži vydražil za rekordních 8,99 milionu eur",
+      "lead_raw": "Obraz Františka Kupky Nepopisný prostor (Espace non-descriptif) se minulý pátek prodal v pařížské aukční síni Sotheby’s za 8,99 milionu eur (asi 217,5 milionu korun) včetně provize. Jde o nejvyšší částku, jaká kdy byla za dílo tohoto českého malíře v aukci v zahraničí zaplacena v eurech.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "278876db50a1aa58a5ad6e8407e49f0461882b57",
+      "fingerprint": "15df40d17f6e429e523d184f4f23c230dd95dc77",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-pivo-breznak-se-na-ustecku-uz-varit-nebude-heineken-vyrobu-presune-318870",
+      "published_utc": "2026-10-26T19:36:58Z",
+      "title_en": "Pivo Březňák se na Ústecku už vařit nebude, Heineken výrobu přesune",
+      "lead_en": "Ve Velkém Březně se přestane vařit pivo Březňák, společnost Heineken přesune jeho výrobu do jiných pivovarů. Ještě v březnu přitom tvrdila, že se pouze částečně sníží objem výroby a změna nebude spojena s propouštěním zaměstnanců.",
+      "title_raw": "Pivo Březňák se na Ústecku už vařit nebude, Heineken výrobu přesune",
+      "lead_raw": "Ve Velkém Březně se přestane vařit pivo Březňák, společnost Heineken přesune jeho výrobu do jiných pivovarů. Ještě v březnu přitom tvrdila, že se pouze částečně sníží objem výroby a změna nebude spojena s propouštěním zaměstnanců.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "36bb73be6d9a346acaffee726d402a673074b336",
+      "fingerprint": "c4254cad23f3e34a9937ebb9eccc3e2f156d0a94",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-obraz-od-frantiska-kupky-se-v-parizi-prodal-za-temer-ctvrt-miliardy-korun-318868",
+      "published_utc": "2026-10-26T19:33:08Z",
+      "title_en": "Obraz od Františka Kupky se v Paříži prodal za téměř čtvrt miliardy korun",
+      "lead_en": "Obraz Nepopisný prostor od Františka Kupky má nového majitele. V Paříži se dílo jednoho ze zakladatelů moderního abstraktního malířství vydražilo minulý týden.",
+      "title_raw": "Obraz od Františka Kupky se v Paříži prodal za téměř čtvrt miliardy korun",
+      "lead_raw": "Obraz Nepopisný prostor od Františka Kupky má nového majitele. V Paříži se dílo jednoho ze zakladatelů moderního abstraktního malířství vydražilo minulý týden.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "19be877baeb202daf2bc4c1c7d3bfbf75d04e5ec",
+      "fingerprint": "d97c1727fc70448f90562cbf44f2601cffe87c30",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-rusko-chce-zapojit-evropu-do-mirovych-jednani-aby-ziskalo-ustupky-ohledne-rozsirovani-nato-40605123",
+      "published_utc": "2026-10-26T19:25:08Z",
+      "title_en": "Rusko chce zapojit Evropu do mírových jednání, aby získalo ústupky ohledně rozšiřování NATO",
+      "lead_en": "Rusko by se mohlo pokusit využít mírová jednání o Ukrajině na oslabení obrany Severoatlantické aliance. V pondělí o tom informoval britský deník The Telegraph s odkazem na zdroje z diplomatického prostředí.",
+      "title_raw": "Rusko chce zapojit Evropu do mírových jednání, aby získalo ústupky ohledně rozšiřování NATO",
+      "lead_raw": "Rusko by se mohlo pokusit využít mírová jednání o Ukrajině na oslabení obrany Severoatlantické aliance. V pondělí o tom informoval britský deník The Telegraph s odkazem na zdroje z diplomatického prostředí.",
+      "topic_scores": {
+        "diplomacy": 3,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "f64af04c5839fede93b72d803b58637a4c90fa73",
+      "fingerprint": "fa9e7dda010919c08b53edbedf16bc524c991979",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/armada-obdrzi-prvni-obrnence-cv90-az-v-prvni-polovine-pristiho-roku-379034",
+      "published_utc": "2026-10-26T19:20:26Z",
+      "title_en": "Armáda obdrží první obrněnce CV90 až v první polovině příštího roku",
+      "lead_en": "První obrněnce CV90 dostanou vojáci později, potvrdili České televizi ministr obrany Jaromír Zůna (za SPD) i výrobce. „Těch deset vozidel, která měla přijít v letošním roce k vojskovým zkouškám, tak by mělo přijít na jaře příštího roku.",
+      "title_raw": "Armáda obdrží první obrněnce CV90 až v první polovině příštího roku",
+      "lead_raw": "První obrněnce CV90 dostanou vojáci později, potvrdili České televizi ministr obrany Jaromír Zůna (za SPD) i výrobce. „Těch deset vozidel, která měla přijít v letošním roce k vojskovým zkouškám, tak by mělo přijít na jaře příštího roku.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "e230f73909eb51caba69b193e3d380fbcfbb37c8",
+      "fingerprint": "8fc690901f20a1ef098af8cd1f67a9d437dd0310",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/kultura/vytvarne-umeni/obraz-frantisek-kupka-nepopisny-prostor-aukce-rekord-miliony.A261026_192045_vytvarne-umeni_fohl",
+      "published_utc": "2026-10-26T19:15:00Z",
+      "title_en": "Obraz Františka Kupky se vydražil za 217 milionů. Překonal dosavadní rekord",
+      "lead_en": "Obraz Františka Kupky Nepopisný prostor se prodal v pařížské aukční síni Sotheby´s za rekordních 8,99 mil. eur (217 mil.",
+      "title_raw": "Obraz Františka Kupky se vydražil za 217 milionů. Překonal dosavadní rekord",
+      "lead_raw": "Obraz Františka Kupky Nepopisný prostor se prodal v pařížské aukční síni Sotheby´s za rekordních 8,99 mil. eur (217 mil.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "b823afe0254623cac23528b0b7b34de50eacc921",
+      "fingerprint": "cadc71f2c44116a73eea2db2291df27cad2ddbac",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/poslanec-nerusil-z-spd-nepriznal-na-zacatku-mandatu-druzstevni-byt-zjistili-reporteri-ct-379030",
+      "published_utc": "2026-10-26T19:12:49Z",
+      "title_en": "Poslanec Nerušil z SPD nepřiznal na začátku mandátu družstevní byt, zjistili Reportéři ČT",
+      "lead_en": "Poslanec Josef Nerušil z SPD neuvedl v přehledu majetku družstevní byt, když se ujal funkce, zjistili Reportéři ČT. Jde tak o další případ nepřiznaného bytu ze strany politika – před komunálními volbami v souvislosti s nesrovnalostmi v majetku rezignoval například původní uchazeč o post primátora Prahy za ANO Ondřej Prokop.",
+      "title_raw": "Poslanec Nerušil z SPD nepřiznal na začátku mandátu družstevní byt, zjistili Reportéři ČT",
+      "lead_raw": "Poslanec Josef Nerušil z SPD neuvedl v přehledu majetku družstevní byt, když se ujal funkce, zjistili Reportéři ČT. Jde tak o další případ nepřiznaného bytu ze strany politika – před komunálními volbami v souvislosti s nesrovnalostmi v majetku rezignoval například původní uchazeč o post primátora Prahy za ANO Ondřej Prokop.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "2ba8acbf21a959d39cacd2a8afa72cbf3cfbd230",
+      "fingerprint": "534bf4e620b804ebf6087fa150a7cdc8d688938a",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-nechci-ico-odbory-zahajily-kampan-proti-zmene-zakoniku-prace-40605078",
+      "published_utc": "2026-10-26T19:11:35Z",
+      "title_en": "Nechci IČO. Odbory zahájily kampaň proti změně zákoníku práce",
+      "lead_en": "Odbory vyrazily do pomyslného boje proti zvažované změně definice závislé práce, čili zaměstnání. Chtějí tento návrh úplně vypustit z projednávané novely zákoníku práce a zachovat současné znění.",
+      "title_raw": "Nechci IČO. Odbory zahájily kampaň proti změně zákoníku práce",
+      "lead_raw": "Odbory vyrazily do pomyslného boje proti zvažované změně definice závislé práce, čili zaměstnání. Chtějí tento návrh úplně vypustit z projednávané novely zákoníku práce a zachovat současné znění.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ff97046d46d5c2a1ed26b5650532e07c37ab57e6",
+      "fingerprint": "eedf83654651cf78e77586c8ec2be037f46f2692",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-rodina-v-prazskych-kosirich-vbehla-primo-do-silnice-policejni-vuz-srazil-divku-40605124",
+      "published_utc": "2026-10-26T19:06:49Z",
+      "title_en": "Rodina v pražských Košířích vběhla přímo do silnice. Policejní vůz srazil dívku",
+      "lead_en": "Lehkým zraněním přibližně desetileté dívky skončila v pondělí odpoledne nehoda v pražských Košířích. Dívka, společně se skupinkou dalších lidí, měla podle svědků vstoupit do silnice přímo před projíždějící vůz městské policie.",
+      "title_raw": "Rodina v pražských Košířích vběhla přímo do silnice. Policejní vůz srazil dívku",
+      "lead_raw": "Lehkým zraněním přibližně desetileté dívky skončila v pondělí odpoledne nehoda v pražských Košířích. Dívka, společně se skupinkou dalších lidí, měla podle svědků vstoupit do silnice přímo před projíždějící vůz městské policie.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "3eeac3aa3bf5f1577b9e618673e629df8e7bc744",
+      "fingerprint": "2fef674c14b1de8ade146fe9881e44bca59d6564",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/podniky/heineken-ukonci-vareni-piva-ve-velkem-brezne-na-ustecku.A261026_194649_ekoakcie_sahu",
+      "published_utc": "2026-10-26T19:03:00Z",
+      "title_en": "Heineken končí s vařením piva ve Velkém Březně, výrobu Březňáka přesune jinam",
+      "lead_en": "Pivovar ve Velkém Březně na Ústecku přestane vařit pivo, výrobu značky Březňák přesune Heineken do svých jiných provozů. Změna se dotkne přibližně 20 zaměstnanců.",
+      "title_raw": "Heineken končí s vařením piva ve Velkém Březně, výrobu Březňáka přesune jinam",
+      "lead_raw": "Pivovar ve Velkém Březně na Ústecku přestane vařit pivo, výrobu značky Březňák přesune Heineken do svých jiných provozů. Změna se dotkne přibližně 20 zaměstnanců.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "2a83f83a12e8a134dab9c00acd9a0ba6aa956bd3",
+      "fingerprint": "c58bb05c2a78f9d6f4ad10e4fa739eb46631f717",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/nominace-statni-vyznamenani-petr-pavel-28-rijna.A261026_182815_domaci_krou",
+      "published_utc": "2026-10-26T19:00:00Z",
+      "title_en": "Koho Pavel ocení? Chartisty, umělce i sportovce. Máme jména možných laureátů",
+      "lead_en": "Už počtvrté ocení prezident Petr Pavel 28. října na Pražském hradě význačné osobnosti některým z nejvyšších českých státních vyznamenání.",
+      "title_raw": "Koho Pavel ocení? Chartisty, umělce i sportovce. Máme jména možných laureátů",
+      "lead_raw": "Už počtvrté ocení prezident Petr Pavel 28. října na Pražském hradě význačné osobnosti některým z nejvyšších českých státních vyznamenání.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "a7c97bac33e2216d332e99c8414408c9b3f2bd40",
+      "fingerprint": "cc48d7482463d7c4a829793f0e021eba9ed17337",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/nova-platforma-ucitelum-pomaha-priblizit-dejiny-dvacateho-stoleti-378959",
+      "published_utc": "2026-10-26T18:54:43Z",
+      "title_en": "Nová platforma učitelům pomáhá přiblížit dějiny dvacátého století",
+      "lead_en": "Organizace Post Bellum spustila výukovou platformu storyON, která se zaměřuje na dějiny 20. století.",
+      "title_raw": "Nová platforma učitelům pomáhá přiblížit dějiny dvacátého století",
+      "lead_raw": "Organizace Post Bellum spustila výukovou platformu storyON, která se zaměřuje na dějiny 20. století.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "7cc656cdf7de741a3cf417c39c771f2148e3930a",
+      "fingerprint": "cc46c4032c11b50f2e5f5d58bd4dc92c1e2545ca",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/heineken-prestane-varit-pivo-breznak-na-ustecku-vyrobu-presune/2893495",
+      "published_utc": "2026-10-26T18:51:00Z",
+      "title_en": "Heineken přestane vařit pivo Březňák na Ústecku, výrobu přesune",
+      "lead_en": "Velké Březno (Ústecko) - Pivovar ve Velkém Březně na Ústecku přestane vařit pivo, výrobu značky Březňák přesune Heineken do svých jiných provozů. Změna se dotkne přibližně 20 zaměstnanců.",
+      "title_raw": "Heineken přestane vařit pivo Březňák na Ústecku, výrobu přesune",
+      "lead_raw": "Velké Březno (Ústecko) - Pivovar ve Velkém Březně na Ústecku přestane vařit pivo, výrobu značky Březňák přesune Heineken do svých jiných provozů. Změna se dotkne přibližně 20 zaměstnanců.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "301c64ee9d98fc308ddac722209e437703a2c40b",
+      "fingerprint": "63a28406a22afa49fdbc8b8c803402149d84d6b2",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/vlhcene-ubrousky-a-hadry-poskodily-cistirnu-odpadnich-vod-v-brezuvkach-oprava_2610261949_mkm",
+      "published_utc": "2026-10-26T18:49:00Z",
+      "title_en": "Vlhčené ubrousky a hadry poškodily čistírnu odpadních vod v Březůvkách. Oprava vyjde na 50 tisíc",
+      "lead_en": "V Březůvkách na Zlínsku poškodily hadry a vlhčené ubrousky čistírnu odpadních vod. Oprava agregátu bude obec stát 50 tisíc korun.",
+      "title_raw": "Vlhčené ubrousky a hadry poškodily čistírnu odpadních vod v Březůvkách. Oprava vyjde na 50 tisíc",
+      "lead_raw": "V Březůvkách na Zlínsku poškodily hadry a vlhčené ubrousky čistírnu odpadních vod. Oprava agregátu bude obec stát 50 tisíc korun.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "cb312a1355fa472d0002b886d321cb978b7618ef",
+      "fingerprint": "b049df68a5609f28d2c8bf3b56c785f0a53b5d17",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-heineken-konci-ve-velkem-brezne-40605122",
+      "published_utc": "2026-10-26T18:47:50Z",
+      "title_en": "Heineken končí s vařením piva ve Velkém Březně",
+      "lead_en": "Pivovar ve Velkém Březně na Ústecku přestane vařit pivo, výrobu značky Březňák přesune Heineken do svých jiných provozů. Změna se dotkne přibližně 20 zaměstnanců.",
+      "title_raw": "Heineken končí s vařením piva ve Velkém Březně",
+      "lead_raw": "Pivovar ve Velkém Březně na Ústecku přestane vařit pivo, výrobu značky Březňák přesune Heineken do svých jiných provozů. Změna se dotkne přibližně 20 zaměstnanců.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "7f2e105627bbe3778436b6aee2d95cd3b36be566",
+      "fingerprint": "51976de17468b7148c4dfc40189a512f550a756b",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-stalo-se-to-co-se-stalo-rika-ridic-ktery-na-d6-zbil-zenu-40605118",
+      "published_utc": "2026-10-26T18:47:13Z",
+      "title_en": "Vinu má i ona, uvedl řidič, který na D6 vybrzdil a surově zbil ženu",
+      "lead_en": "Za své chování se omluvil řidič, který 11. října na dálnici D6 u Jesenice vybrzdil a zbil ženu před její osmiletou dcerou.",
+      "title_raw": "Vinu má i ona, uvedl řidič, který na D6 vybrzdil a surově zbil ženu",
+      "lead_raw": "Za své chování se omluvil řidič, který 11. října na dálnici D6 u Jesenice vybrzdil a zbil ženu před její osmiletou dcerou.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "f8ecc1f707d63b0cc872414ec98d0788c5b98eb9",
+      "fingerprint": "7caed2f41662b3b6f555ebc971a7ea6bfd136296",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-to-je-jedno-co-on-chce-podstatne-je-co-ja-chci-babis-odmitl-vyzvu-reditele-cro-k-verejnemu-jednani-40605120",
+      "published_utc": "2026-10-26T18:45:17Z",
+      "title_en": "„To je jedno, co on chce, podstatné je, co já chci.“ Babiš odmítl výzvu ředitele ČRo k veřejnému jednání",
+      "lead_en": "Premiér Andrej Babiš (ANO) odmítl výzvu ředitele Českého rozhlasu (ČRo) Reného Zavorala, aby s ním premiér veřejně jednal o záměru koalice zrušit koncesionářské poplatky. Zavoral je aktivistický ředitel, burcuje veřejnost, což není jeho role, sdělil v pondělí premiér novinářům na tiskové konferenci v rámci pracovní návštěvy Alžírska.",
+      "title_raw": "„To je jedno, co on chce, podstatné je, co já chci.“ Babiš odmítl výzvu ředitele ČRo k veřejnému jednání",
+      "lead_raw": "Premiér Andrej Babiš (ANO) odmítl výzvu ředitele Českého rozhlasu (ČRo) Reného Zavorala, aby s ním premiér veřejně jednal o záměru koalice zrušit koncesionářské poplatky. Zavoral je aktivistický ředitel, burcuje veřejnost, což není jeho role, sdělil v pondělí premiér novinářům na tiskové konferenci v rámci pracovní návštěvy Alžírska.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "933e7c3a0f4045eda8db821b606c1658f615b2a2",
+      "fingerprint": "e706fac5feeebeb50957e33eb4ab5dbcf5103d2e",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-je-to-nas-partner-i-ochrance-nova-srbska-vlada-sankce-proti-rusku-nezavede-40605119",
+      "published_utc": "2026-10-26T18:43:38Z",
+      "title_en": "Je to náš ochránce. Ani nová vláda v Srbsku sankce proti Rusku nezavede",
+      "lead_en": "Nová srbská vláda vítězného hnutí Studentská kandidátka nezavede sankce proti Rusku. Oznámil to zástupce hnutí Jovo Bakić ve vysílání zpravodajské televize RT Balkan.",
+      "title_raw": "Je to náš ochránce. Ani nová vláda v Srbsku sankce proti Rusku nezavede",
+      "lead_raw": "Nová srbská vláda vítězného hnutí Studentská kandidátka nezavede sankce proti Rusku. Oznámil to zástupce hnutí Jovo Bakić ve vysílání zpravodajské televize RT Balkan.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "46c408957d2b4d13f3081ce3d9f7e46b431516cd",
+      "fingerprint": "9e172c962c495942a0d577c1030ae4399d666166",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/babis-odmitnuti-vyzva-reditel-ceskeho-rozhlasu-rene-zavoral-verejne-jednani-verejnopravni-poplatky-c.A261026_183213_domaci_linh",
+      "published_utc": "2026-10-26T18:40:45Z",
+      "title_en": "Zavoral burcuje lidi do ulic a chce-li být aktivista, ať rezignuje, řekl Babiš",
+      "lead_en": "Premiér Andrej Babiš (ANO) odmítl výzvu ředitele Českého rozhlasu (ČRo) Reného Zavorala, aby s ním premiér veřejně jednal o záměru koalice zrušit koncesionářské poplatky. Zavoral je aktivistický ředitel, burcuje veřejnost, což není jeho role, sdělil v pondělí premiér novinářům na tiskové konferenci v rámci pracovní návštěvy Alžírska.",
+      "title_raw": "Zavoral burcuje lidi do ulic a chce-li být aktivista, ať rezignuje, řekl Babiš",
+      "lead_raw": "Premiér Andrej Babiš (ANO) odmítl výzvu ředitele Českého rozhlasu (ČRo) Reného Zavorala, aby s ním premiér veřejně jednal o záměru koalice zrušit koncesionářské poplatky. Zavoral je aktivistický ředitel, burcuje veřejnost, což není jeho role, sdělil v pondělí premiér novinářům na tiskové konferenci v rámci pracovní návštěvy Alžírska.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "3a3401fb1f27c0a93f0c1e223bb3eb70b92a5b76",
+      "fingerprint": "29db0992a280f17e086ee42a8f75d25537e46e24",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-osmnactilety-cech-se-zranil-pri-padu-laviny-v-tatrach-40605117",
+      "published_utc": "2026-10-26T18:35:42Z",
+      "title_en": "Osmnáctiletý Čech se zranil při pádu laviny v Tatrách",
+      "lead_en": "Osmnáctiletý Čech se v pondělí zranil ve Vysokých Tatrách poté, co se nad ním a jeho společníkem utrhla menší lavina. Ani jednoho z turistů sníh nezasypal, mladík ale při následném pádu skalnatým terénem utrpěl poranění stehna a pánve.",
+      "title_raw": "Osmnáctiletý Čech se zranil při pádu laviny v Tatrách",
+      "lead_raw": "Osmnáctiletý Čech se v pondělí zranil ve Vysokých Tatrách poté, co se nad ním a jeho společníkem utrhla menší lavina. Ani jednoho z turistů sníh nezasypal, mladík ale při následném pádu skalnatým terénem utrpěl poranění stehna a pánve.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "82c6b186a2d59275e5aa82af3a8fb8d7f0f8d200",
+      "fingerprint": "d728b0c65b4a09900064aec90c1a1cb2dd94a050",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-tragicka-nehoda-v-centru-pardubic-motorkar-zemrel-po-srazce-s-dodavkou-40605116",
+      "published_utc": "2026-10-26T18:26:47Z",
+      "title_en": "Motorkářka se v centru Pardubic srazila s dodávkou. Na místě zemřela",
+      "lead_en": "Smrtelná nehoda se stala v pondělí na světelné křižovatce u Zborovského náměstí v centru Pardubic. O život zde po střetu s dodávkou přišel motorkářka.",
+      "title_raw": "Motorkářka se v centru Pardubic srazila s dodávkou. Na místě zemřela",
+      "lead_raw": "Smrtelná nehoda se stala v pondělí na světelné křižovatce u Zborovského náměstí v centru Pardubic. O život zde po střetu s dodávkou přišel motorkářka.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "84d7d8ea4d0007d49cd4a27646ed7b736fe24ee0",
+      "fingerprint": "1b7d7e5b077d5b9ae7ae64ce488b3d815c3aef46",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-v-atlantskem-oceanu-se-nahle-potopila-obri-ropna-plosina-40605114",
+      "published_utc": "2026-10-26T18:23:49Z",
+      "title_en": "V Atlantském oceánu se náhle potopila obří ropná plošina",
+      "lead_en": "V Atlantském oceánu se v sobotu náhle potopila obří ropná plošina nedaleko pobřeží Gabonu. Při incidentu zahynula jedna osoba a další čtyři se pohřešují, jak informovala agentura Reuters.",
+      "title_raw": "V Atlantském oceánu se náhle potopila obří ropná plošina",
+      "lead_raw": "V Atlantském oceánu se v sobotu náhle potopila obří ropná plošina nedaleko pobřeží Gabonu. Při incidentu zahynula jedna osoba a další čtyři se pohřešují, jak informovala agentura Reuters.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c2656132148aa62aa241ccf92664f0443b25fc62",
+      "fingerprint": "ead944c14664b1d3fee56a57ed298c8155225c60",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/lide-demonstrovali-proti-ods-ve-vedeni-prahy-petici-jich-podepsalo-pres-5800/2893479",
+      "published_utc": "2026-10-26T18:14:00Z",
+      "title_en": "Lidé demonstrovali proti ODS ve vedení Prahy, petici jich podepsalo přes 5800",
+      "lead_en": "Praha - U budovy pražského magistrátu večer demonstrovalo několik stovek lidí proti zapojení ODS do vedení hlavního města. Pořadatelé vyzvali vítěze komunálních voleb v Praze, hnutí STAN, aby se stranou...",
+      "title_raw": "Lidé demonstrovali proti ODS ve vedení Prahy, petici jich podepsalo přes 5800",
+      "lead_raw": "Praha - U budovy pražského magistrátu večer demonstrovalo několik stovek lidí proti zapojení ODS do vedení hlavního města. Pořadatelé vyzvali vítěze komunálních voleb v Praze, hnutí STAN, aby se stranou...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "79a0677c180ab01e94a32493f41bbba0309f103f",
+      "fingerprint": "c6d9d36e4108af5399b021c680a4eea08ff61e3d",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/usakov-rusko-evropa-ukrajina-usa-rusko-valka.A261026_185348_zahranicni_jhr",
+      "published_utc": "2026-10-26T18:08:00Z",
+      "title_en": "USA nedonutily Kyjev k poslušnosti. Musíme tak jednat i s Evropou, zní z Kremlu",
+      "lead_en": "Rusko očekávalo, že USA vyvinou na Ukrajinu nátlak a přinutí ji k podřízenosti. Přiznal to poradce ruského prezidenta Vladimira Putina Jurij Ušakov.",
+      "title_raw": "USA nedonutily Kyjev k poslušnosti. Musíme tak jednat i s Evropou, zní z Kremlu",
+      "lead_raw": "Rusko očekávalo, že USA vyvinou na Ukrajinu nátlak a přinutí ji k podřízenosti. Přiznal to poradce ruského prezidenta Vladimira Putina Jurij Ušakov.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "32bd82f61ac6c3de8d3b498c514e655a0bbefef0",
+      "fingerprint": "fa6e669e5e1c6db94625118d8b54b2b8e8e2a571",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-svedsko-naridilo-deportaci-brita-ktery-tam-ma-sestnactimesicniho-syna-40604616",
+      "published_utc": "2026-10-26T18:06:18Z",
+      "title_en": "Švédsko nařídilo deportaci Brita, který tam má šestnáctiměsíčního syna",
+      "lead_en": "Švédské úřady nařídily deportaci britského fotografa Simona Montgomeryho. Ten má přitom v zemi šestnáctiměsíčního syna.",
+      "title_raw": "Švédsko nařídilo deportaci Brita, který tam má šestnáctiměsíčního syna",
+      "lead_raw": "Švédské úřady nařídily deportaci britského fotografa Simona Montgomeryho. Ten má přitom v zemi šestnáctiměsíčního syna.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "74f0242cb3c03bd0aaa6d15635c8a63612961a97",
+      "fingerprint": "24a6ab89c6ff24e8385a54c887e3d8b4c93dabf7",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/kultura-marc-almond-ovladl-festival-soundedit-kapela-the-wolfgang-press-vzkrisila-tezni-vez-z-karvinska-40604891",
+      "published_utc": "2026-10-26T18:03:49Z",
+      "title_en": "Marc Almond ovládl festival Soundedit, kapela The Wolfgang Press vzkřísila těžní věž z Karvinska",
+      "lead_en": "Polská Lodž zažila dialog hudebních generací na festivalu Soundedit. Hlavními pilíři osmnáctého ročníku byli Marc Almond s hity kapely Soft Cell, Hugh Cornwell ze skupiny The Stranglers i uhrančivá show polské zpěvačky Kasii Lins.",
+      "title_raw": "Marc Almond ovládl festival Soundedit, kapela The Wolfgang Press vzkřísila těžní věž z Karvinska",
+      "lead_raw": "Polská Lodž zažila dialog hudebních generací na festivalu Soundedit. Hlavními pilíři osmnáctého ročníku byli Marc Almond s hity kapely Soft Cell, Hugh Cornwell ze skupiny The Stranglers i uhrančivá show polské zpěvačky Kasii Lins.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "5aa2a0bbc9aae73052d547578079e772f5f7ea60",
+      "fingerprint": "b2d0d6e999303d7fbb9928c68eb281707e32ea50",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/stve-me-ta-iracionalnost-rika-expert-k-ruseni-koncesionarskych-poplatku.A261026_165324_domaci_stvo",
+      "published_utc": "2026-10-26T18:00:00Z",
+      "title_en": "Expert k poplatkům: Neznamená to ztrátu nezávislosti, ale štve mě ta iracionálnost",
+      "lead_en": "Zrušení poplatků ČT a ČRo neznamená automaticky ztrátu nezávislosti, ale bořit funkční model je zbytečné a nestrategické, říká mediální teoretik profesor Jan Jirák. V rozhovoru pro iDNES.cz hodnotí zaplněné Staroměstské náměstí i ohlášenou stávku novinářů.",
+      "title_raw": "Expert k poplatkům: Neznamená to ztrátu nezávislosti, ale štve mě ta iracionálnost",
+      "lead_raw": "Zrušení poplatků ČT a ČRo neznamená automaticky ztrátu nezávislosti, ale bořit funkční model je zbytečné a nestrategické, říká mediální teoretik profesor Jan Jirák. V rozhovoru pro iDNES.cz hodnotí zaplněné Staroměstské náměstí i ohlášenou stávku novinářů.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c25d6e5dce9c1b077d2e75c1b0c169c09decc94f",
+      "fingerprint": "2e29e0749caaca36225aeb6a4b81a06fd7496a01",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-proc-bych-s-nim-jednal-kdo-on-je-babis-odmitl-jednani-s-sefem-rozhlasu-318866",
+      "published_utc": "2026-10-26T17:53:13Z",
+      "title_en": "„Proč bych s ním jednal, kdo on je?“ Babiš odmítl jednání s šéfem rozhlasu",
+      "lead_en": "Generální ředitel Českého rozhlasu René Zavoral vyzval premiéra Andreje Babiše k jednání ohledně zrušení koncesionářských poplatků. Podle ředitele by diskuse měla probíhat veřejně a nesmí mít charakter diktátu ze strany koalice.",
+      "title_raw": "„Proč bych s ním jednal, kdo on je?“ Babiš odmítl jednání s šéfem rozhlasu",
+      "lead_raw": "Generální ředitel Českého rozhlasu René Zavoral vyzval premiéra Andreje Babiše k jednání ohledně zrušení koncesionářských poplatků. Podle ředitele by diskuse měla probíhat veřejně a nesmí mít charakter diktátu ze strany koalice.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "fdd6816bb8a03f4607d8a0172b2391604b53f280",
+      "fingerprint": "c30c087376e3e514fdc738885bbc45c24f778aac",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/kultura-tv-streaming-zemrel-herec-walter-koenig-40605113",
+      "published_utc": "2026-10-26T17:51:35Z",
+      "title_en": "Zemřel herec Walter Koenig",
+      "lead_en": "Ve věku devadesáti let zemřel herec Walter Koenig. Nejvíce se proslavil jako Pavel Čechov z původního Star Treku, přičemž si roli následně zopakoval i v šesti celovečerních filmech.",
+      "title_raw": "Zemřel herec Walter Koenig",
+      "lead_raw": "Ve věku devadesáti let zemřel herec Walter Koenig. Nejvíce se proslavil jako Pavel Čechov z původního Star Treku, přičemž si roli následně zopakoval i v šesti celovečerních filmech.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "1b123411055a8ea6d8cede645174c84d760f8d46",
+      "fingerprint": "67c17a771e55ed13fb75bd064c24e819852c5511",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/opravy-kaplicky-ve-vescich-zatim-vyjdou-na-16-milionu-prace-maji-skoncit-do_2610261846_ako",
+      "published_utc": "2026-10-26T17:46:00Z",
+      "title_en": "Opravy kapličky ve Vescích zatím vyjdou na 1,6 milionu. Práce mají skončit do ledna příštího roku",
+      "lead_en": "Vroutek na Lounsku zachraňuje kapličku ve své místní části Vesce. První etapa oprav vyjde zhruba na 1,6 milionu korun, z toho milion pokryje dotace z IROP.",
+      "title_raw": "Opravy kapličky ve Vescích zatím vyjdou na 1,6 milionu. Práce mají skončit do ledna příštího roku",
+      "lead_raw": "Vroutek na Lounsku zachraňuje kapličku ve své místní části Vesce. První etapa oprav vyjde zhruba na 1,6 milionu korun, z toho milion pokryje dotace z IROP.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "7f6a098fe6301a77bc85454709d08e4c48591d2e",
+      "fingerprint": "32128141f456df99177c68fcba1a35041ebdc92c",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/volby-komunalni-sumperk-povede-triclenna-koalice-bez-vitezneho-ano-40605074",
+      "published_utc": "2026-10-26T17:45:30Z",
+      "title_en": "Šumperk povede tříčlenná koalice bez vítězného ANO",
+      "lead_en": "Tříčlenná koalice tvořená uskupením Nezávislá volba, STAN a Srdcem pro Šumperk povede následující čtyři roky Šumperk. V sedmadvacetičlenném zastupitelstvu bude mít těsnou většinu 14 mandátů.",
+      "title_raw": "Šumperk povede tříčlenná koalice bez vítězného ANO",
+      "lead_raw": "Tříčlenná koalice tvořená uskupením Nezávislá volba, STAN a Srdcem pro Šumperk povede následující čtyři roky Šumperk. V sedmadvacetičlenném zastupitelstvu bude mít těsnou většinu 14 mandátů.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "9e80ec3b2233e55d47d97c4bd93603e82d54777c",
+      "fingerprint": "47a2f798bdd2438c024c229255c67ba6602ad376",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/airbnb-pravidla-ubytovani-myti-nadobi-svlekani-povleceni.A261026_150659_eko-zahranicni_jla",
+      "published_utc": "2026-10-26T17:45:00Z",
+      "title_en": "Airbnb mění pravidla ubytované. Které starosti hostům odpadnou?",
+      "lead_en": "Hosté Airbnb se dočkají změny, která jim může ušetřit práci před odjezdem z dovolené. Společnost totiž upravila pravidla pro majitele pronajímaných nemovitostí.",
+      "title_raw": "Airbnb mění pravidla ubytované. Které starosti hostům odpadnou?",
+      "lead_raw": "Hosté Airbnb se dočkají změny, která jim může ušetřit práci před odjezdem z dovolené. Společnost totiž upravila pravidla pro majitele pronajímaných nemovitostí.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "6228962d9a92e3e1a09d7f411caf8dacef8f6a63",
+      "fingerprint": "140b4d39ddf15361cc69de7cbd453db240b13eed",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/kultura/film-televize/herec-walter-koenig-zemrel-serial-star-trek.A261026_182531_filmvideo_fohl",
+      "published_utc": "2026-10-26T17:41:00Z",
+      "title_en": "Ve věku 90 let zemřel Walter Koenig, proslavila ho role poručíka Čechova ve Star Treku",
+      "lead_en": "Ve věku 90 let zemřel americký herec Walter Koenig. Proslavila ho role poručíka Pavla Čechova v legendárním sci-fi seriálu Star Trek.",
+      "title_raw": "Ve věku 90 let zemřel Walter Koenig, proslavila ho role poručíka Čechova ve Star Treku",
+      "lead_raw": "Ve věku 90 let zemřel americký herec Walter Koenig. Proslavila ho role poručíka Pavla Čechova v legendárním sci-fi seriálu Star Trek.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
     {
       "id": "fd4b52d479f3d8eb8960376fae3ae0c226225056",
       "fingerprint": "3866f934a1fdf61d78c9fcccaa1b6c8ae50b9f50",
@@ -2347,6 +3482,26 @@
       "title_en": "Neovlivní.cz: Diamo žádá u NSZ prověření postupu MŽP v kauze heřmanické haldy",
       "lead_en": "Ostrava - Státní podnik Diamo podal podnět k Nejvyššímu státnímu zastupitelství (NSZ), aby prověřilo postup ministerstva životního prostředí (MŽP) v kauze heřmanické haldy v Ostravě. Důvodem je zejména...",
       "title_raw": "Neovlivní.cz: Diamo žádá u NSZ prověření postupu MŽP v kauze heřmanické haldy",
+      "lead_raw": "Ostrava - Státní podnik Diamo podal podnět k Nejvyššímu státnímu zastupitelství (NSZ), aby prověřilo postup ministerstva životního prostředí (MŽP) v kauze heřmanické haldy v Ostravě. Důvodem je zejména...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "416e291ab88ac0c99f4fe9064687a04d49f3f716",
+      "fingerprint": "da5c8039adce0e775f265e6145f162bb18227b82",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/diamo-zada-u-nsz-provereni-postupu-mzp-v-kauze-hermanicke-haldy/2893338",
+      "published_utc": "2026-10-26T13:54:00Z",
+      "title_en": "Diamo žádá u NSZ prověření postupu MŽP v kauze heřmanické haldy",
+      "lead_en": "Ostrava - Státní podnik Diamo podal podnět k Nejvyššímu státnímu zastupitelství (NSZ), aby prověřilo postup ministerstva životního prostředí (MŽP) v kauze heřmanické haldy v Ostravě. Důvodem je zejména...",
+      "title_raw": "Diamo žádá u NSZ prověření postupu MŽP v kauze heřmanické haldy",
       "lead_raw": "Ostrava - Státní podnik Diamo podal podnět k Nejvyššímu státnímu zastupitelství (NSZ), aby prověřilo postup ministerstva životního prostředí (MŽP) v kauze heřmanické haldy v Ostravě. Důvodem je zejména...",
       "topic_scores": {
         "diplomacy": 0,
@@ -11672,416 +12827,6 @@
       "lead_en": "Už za několik dní se v Izraeli konají první parlamentní volby od vražedného útoku Hamásu. Při té příležitosti jsme pro vás připravili kvíz z historie židovského státu.",
       "title_raw": "Musel vzniknout v Palestině? Jak dobře znáte historii Izraele?",
       "lead_raw": "Už za několik dní se v Izraeli konají první parlamentní volby od vražedného útoku Hamásu. Při té příležitosti jsme pro vás připravili kvíz z historie židovského státu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "46ece01ddb09329c403448cb2587cb1f7ed27683",
-      "fingerprint": "8573265767433ba457d570696e5214dd999c95d2",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-trump-odvolil-na-floride-vyuzil-moznosti-predcasneho-hlasovani-40604796",
-      "published_utc": "2026-10-24T21:00:00Z",
-      "title_en": "Trump odvolil na Floridě, využil možnosti předčasného hlasování",
-      "lead_en": "Americký prezident Donald Trump v sobotu na Floridě odevzdal hlas ve volbách do parlamentu, které se konají v polovině jeho druhého mandátu. Informovala o tom agentura AFP.",
-      "title_raw": "Trump odvolil na Floridě, využil možnosti předčasného hlasování",
-      "lead_raw": "Americký prezident Donald Trump v sobotu na Floridě odevzdal hlas ve volbách do parlamentu, které se konají v polovině jeho druhého mandátu. Informovala o tom agentura AFP.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "10a09e4b4f96c64f22d79914328590ddfc6d5542",
-      "fingerprint": "3b33d1477e5daa51c994b8cd0e2e93cd131479ca",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-americane-stahuji-diplomaty-z-blizkeho-vychodu-boji-se-iranskych-akci-318683",
-      "published_utc": "2026-10-24T20:51:39Z",
-      "title_en": "Američané stahují diplomaty z Blízkého východu. Bojí se íránských akcí",
-      "lead_en": "Americké ministerstvo zahraničí stahuje své diplomaty z velvyslanectví na Blízkém východě kvůli stupňujícím se úderům Húthíů a Íránců na oblast. Vyslanci se přitom do oblasti vrátili teprve nedávno a situaci označují za chaos.",
-      "title_raw": "Američané stahují diplomaty z Blízkého východu. Bojí se íránských akcí",
-      "lead_raw": "Americké ministerstvo zahraničí stahuje své diplomaty z velvyslanectví na Blízkém východě kvůli stupňujícím se úderům Húthíů a Íránců na oblast. Vyslanci se přitom do oblasti vrátili teprve nedávno a situaci označují za chaos.",
-      "topic_scores": {
-        "diplomacy": 3,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "dbfefdeb276c517ed41eee8447d7a7d7bdf30e45",
-      "fingerprint": "582abfb50582fd5f89412bf0b00cad8fe5ed7d0f",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-v-sofii-zastrelili-byvaleho-europoslance-a-mistra-evropy-v-taekwondu-40604793",
-      "published_utc": "2026-10-24T20:50:22Z",
-      "title_en": "V Sofii zastřelili bývalého europoslance a mistra Evropy v taekwondu",
-      "lead_en": "Bývalého bulharského europoslance, podnikatele a mistra Evropy v taekwondu Slaviho Bineva v sobotu zastřelili v jeho domě v Sofii. Šedesátiletý politik a sportovní funkcionář zemřel ještě před příjezdem záchranářů.",
-      "title_raw": "V Sofii zastřelili bývalého europoslance a mistra Evropy v taekwondu",
-      "lead_raw": "Bývalého bulharského europoslance, podnikatele a mistra Evropy v taekwondu Slaviho Bineva v sobotu zastřelili v jeho domě v Sofii. Šedesátiletý politik a sportovní funkcionář zemřel ještě před příjezdem záchranářů.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "eca7dbb0f0a5334fac2d69f3696ade3ff60f1329",
-      "fingerprint": "c6dfbcaad4a4b554ca65763fb41a9ba4a9c8367d",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/kultura-divadlo-platime-i-politiky-ktere-jsme-nevolili-ostravsti-herci-se-po-premiere-pustili-do-vlady-40604788",
-      "published_utc": "2026-10-24T20:21:29Z",
-      "title_en": "Platíme i politiky, které jsme nevolili. Ostravští herci se po premiéře pustili do vlády",
-      "lead_en": "Podporu České televizi a Českému rozhlasu vyjádřili v sobotu večer také herci Národního divadla moravskoslezského (NDM). Po premiéře adaptace Felliniho filmu Zkouška orchestru přerušili závěrečný potlesk a z jeviště ostře vystoupili proti záměrům politiků s veřejnoprávními médii.",
-      "title_raw": "Platíme i politiky, které jsme nevolili. Ostravští herci se po premiéře pustili do vlády",
-      "lead_raw": "Podporu České televizi a Českému rozhlasu vyjádřili v sobotu večer také herci Národního divadla moravskoslezského (NDM). Po premiéře adaptace Felliniho filmu Zkouška orchestru přerušili závěrečný potlesk a z jeviště ostře vystoupili proti záměrům politiků s veřejnoprávními médii.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "3d3790b63450a7ccec1d1edc8a4b819d52c6b194",
-      "fingerprint": "acccda8e983426ad9db3f6f2e07866d4c452abfb",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-v-tel-avivu-se-tri-dny-pred-volbami-sesly-tisice-lidi-na-protestu-proti-vlade-40604791",
-      "published_utc": "2026-10-24T20:18:09Z",
-      "title_en": "V Tel Avivu se tři dny před volbami sešly tisíce lidí na protestu proti vládě",
-      "lead_en": "Tisíce lidí se v sobotu sešly v Tel Avivu na velké protivládní demonstraci. Konala se jen tři dny před parlamentními volbami, které agentura AFP označuje za referendum o premiérovi Benjaminovi Netanjahuovi.",
-      "title_raw": "V Tel Avivu se tři dny před volbami sešly tisíce lidí na protestu proti vládě",
-      "lead_raw": "Tisíce lidí se v sobotu sešly v Tel Avivu na velké protivládní demonstraci. Konala se jen tři dny před parlamentními volbami, které agentura AFP označuje za referendum o premiérovi Benjaminovi Netanjahuovi.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "801d955010e445fc33508a3b06de3ab5397a4760",
-      "fingerprint": "0dfcc429fb44fff52f73f420d1d114683bed77c1",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/kultura-tv-streaming-ze-stardance-vypadli-hana-dvorska-a-michal-kurtis-40604783",
-      "published_utc": "2026-10-24T20:09:03Z",
-      "title_en": "Ze StarDance vypadli Hana Dvorská a Michal Kurtiš",
-      "lead_en": "Sobotní televizní večer patřil opět taneční soutěži StarDance. Její 3.",
-      "title_raw": "Ze StarDance vypadli Hana Dvorská a Michal Kurtiš",
-      "lead_raw": "Sobotní televizní večer patřil opět taneční soutěži StarDance. Její 3.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "4a6597e75c20d8b717c5cbe6091d21e21ffb0249",
-      "fingerprint": "3faaed2bb365e62f5278848ea854ee40ebd5b06a",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-demonstranti-v-rime-vtrhli-do-kolosea-40604785",
-      "published_utc": "2026-10-24T19:25:37Z",
-      "title_en": "Demonstranti v Římě vtrhli do Kolosea",
-      "lead_en": "Do římského Kolosea v sobotu vtrhla skupina mladých demonstrantů, která se oddělila od protestního pochodu v italské metropoli. Ochranka je následně z památky vytlačila.",
-      "title_raw": "Demonstranti v Římě vtrhli do Kolosea",
-      "lead_raw": "Do římského Kolosea v sobotu vtrhla skupina mladých demonstrantů, která se oddělila od protestního pochodu v italské metropoli. Ochranka je následně z památky vytlačila.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "4283ffa700bc342ad0a2af54685b9f2dead75a55",
-      "fingerprint": "07831f30f9a570c40fbc3f17a2e1852454f031b2",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-muz-podezrely-z-terorismu-je-ve-vazbe-podle-starosty-byl-utok-islamofobni-318682",
-      "published_utc": "2026-10-24T19:21:04Z",
-      "title_en": "Muž podezřelý z terorismu je ve vazbě. Podle starosty byl útok islamofobní",
-      "lead_en": "Páteční střelba na předměstí Paříže si vyžádala jednu oběť a několik zraněných. Úřady zadržely podezřelého muže i jeho známé.",
-      "title_raw": "Muž podezřelý z terorismu je ve vazbě. Podle starosty byl útok islamofobní",
-      "lead_raw": "Páteční střelba na předměstí Paříže si vyžádala jednu oběť a několik zraněných. Úřady zadržely podezřelého muže i jeho známé.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "59f1905370525c5046b19fa0503ada092e1dab60",
-      "fingerprint": "c0b77af96fb3f5e95f025637799efaf92a80c0a1",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-lzi-vykriky-nesmysly-reagoval-okamura-na-piratsky-navrh-na-jeho-odvolani-40604768",
-      "published_utc": "2026-10-24T19:11:54Z",
-      "title_en": "Lži, výkřiky, nesmysly, reagoval Okamura na pirátský návrh na jeho odvolání",
-      "lead_en": "Piráti chtějí na nejbližším jednání Sněmovny navrhnout odvolání Tomia Okamury (SPD) z čela komory, informoval šéf strany Zdeněk Hřib. Okamuru pirátský návrh nadzvedl s tím, že se jen věnuje naplňování vůle svých voličů.",
-      "title_raw": "Lži, výkřiky, nesmysly, reagoval Okamura na pirátský návrh na jeho odvolání",
-      "lead_raw": "Piráti chtějí na nejbližším jednání Sněmovny navrhnout odvolání Tomia Okamury (SPD) z čela komory, informoval šéf strany Zdeněk Hřib. Okamuru pirátský návrh nadzvedl s tím, že se jen věnuje naplňování vůle svých voličů.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "6fcc7945c434a56ae9615692f73c958cd38180e9",
-      "fingerprint": "95e6636ef5e6df8ed6f7fb00b80aac37d26d2575",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/koktejl-ital-dostal-vyhazov-protoze-kvuli-strachu-z-letani-odmitl-sluzebni-cestu-do-usa-vysoudil-odskodneni-40603156",
-      "published_utc": "2026-10-24T19:09:01Z",
-      "title_en": "Ital dostal vyhazov, protože kvůli strachu z létání odmítl služební cestu do USA. Vysoudil odškodnění",
-      "lead_en": "Italská firma propustila zaměstnance, který kvůli strachu z létání odmítl cestovat služebně do Spojených států. Pracovník se nedal a obrátil se na soud, který v odvolacím řízení označil postup zaměstnavatele za nepřiměřený a nařídil společnosti vyplatit odškodné.",
-      "title_raw": "Ital dostal vyhazov, protože kvůli strachu z létání odmítl služební cestu do USA. Vysoudil odškodnění",
-      "lead_raw": "Italská firma propustila zaměstnance, který kvůli strachu z létání odmítl cestovat služebně do Spojených států. Pracovník se nedal a obrátil se na soud, který v odvolacím řízení označil postup zaměstnavatele za nepřiměřený a nařídil společnosti vyplatit odškodné.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "c4a0d032b0c00120d26d111ccfaa5c2da13052a7",
-      "fingerprint": "1723187d0604a89c5664444a5dc904b8afc48724",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-dva-lide-spadli-na-rozestavene-dalnici-d11-z-nedokonceneho-mostu-jeden-neprezil-40604784",
-      "published_utc": "2026-10-24T19:05:43Z",
-      "title_en": "Dva lidé spadli na rozestavěné dálnici D11 z nedokončeného mostu, jeden nepřežil",
-      "lead_en": "Vrtulník a dvě pozemní posádky záchranářů v sobotu vyrazily na pomoc dvěma lidem, kteří na stavbě D11 na Trutnovsku spadli z nedokončeného mostu. Jedna osoba zraněním na místě podlehla.",
-      "title_raw": "Dva lidé spadli na rozestavěné dálnici D11 z nedokončeného mostu, jeden nepřežil",
-      "lead_raw": "Vrtulník a dvě pozemní posádky záchranářů v sobotu vyrazily na pomoc dvěma lidem, kteří na stavbě D11 na Trutnovsku spadli z nedokončeného mostu. Jedna osoba zraněním na místě podlehla.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "ebc738573956e1e8aa2b3a774687e568a989f61d",
-      "fingerprint": "884ed6a100862537033dd9a8d66b37f018c479f6",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/pocet-stretu-se-zveri-se-zvysuje-prevenci-je-nizsi-rychlost-jizdy-378979",
-      "published_utc": "2026-10-24T18:36:25Z",
-      "title_en": "Počet střetů se zvěří se zvyšuje, prevencí je nižší rychlost jízdy",
-      "lead_en": "S příchodem zimních měsíců narůstá riziko střetu se zvěří. Podle nejnovějších statistik dochází v tomto období v průměru ke stovce srážek za den.",
-      "title_raw": "Počet střetů se zvěří se zvyšuje, prevencí je nižší rychlost jízdy",
-      "lead_raw": "S příchodem zimních měsíců narůstá riziko střetu se zvěří. Podle nejnovějších statistik dochází v tomto období v průměru ke stovce srážek za den.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "d6ecd6b7760033d5bcf1ccf0602d4bc1ea5f1429",
-      "fingerprint": "18e19d970cb998666a3fdd63fbd251cd50ed8be1",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-eben-se-ve-stardance-otrel-o-vladu-dobro-zvitezi-ty-zle-si-vezme-cert-318681",
-      "published_utc": "2026-10-24T18:34:32Z",
-      "title_en": "Eben s Kostkovou se ve StarDance otřeli o Babišovu vládu",
-      "lead_en": "V úvodu oblíbeného pořadu České televize reagoval moderátor Marek Eben na schválení zákona o financování veřejnoprávních médií, který dnes brzy ráno prošel prvním čtením.",
-      "title_raw": "Eben s Kostkovou se ve StarDance otřeli o Babišovu vládu",
-      "lead_raw": "V úvodu oblíbeného pořadu České televize reagoval moderátor Marek Eben na schválení zákona o financování veřejnoprávních médií, který dnes brzy ráno prošel prvním čtením.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "7ddd11d7c42ab8da65776dc3299ed908dee9d178",
-      "fingerprint": "1d48e5d9b7c8b08dea5918269b92f4f131c877f5",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nejblizsim-ukrytem-je-sklep-jak-je-cesko-pripravene-na-vystrazne-sireny-316496",
-      "published_utc": "2026-10-24T18:30:00Z",
-      "title_en": "Nejbližším úkrytem je sklep. Jak je Česko připravené na výstražné sirény",
-      "lead_en": "Příprava na krizi v Česku podle odborníků vázne. Zatímco sousední Polsko zákony posiluje obranyschopnost, v tuzemsku se podobný krok nechystá.",
-      "title_raw": "Nejbližším úkrytem je sklep. Jak je Česko připravené na výstražné sirény",
-      "lead_raw": "Příprava na krizi v Česku podle odborníků vázne. Zatímco sousední Polsko zákony posiluje obranyschopnost, v tuzemsku se podobný krok nechystá.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "4fdcbd9318320f8209656fc3efb4187ffad5fcc9",
-      "fingerprint": "35529bfa69c6ae0aebd112b5c33871a2f57b6028",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-zmena-casu-zdrzi-pres-dvacet-nocnich-vlaku-a-autobusu-40604541",
-      "published_utc": "2026-10-24T18:17:12Z",
-      "title_en": "Změna času zdrží přes dvacet nočních vlaků a autobusů",
-      "lead_en": "Kdo pojede v noci na neděli dálkovým vlakem nebo autobusem, musí počítat s hodinovou zastávkou. Ve 3.00 skončí letní čas a hodiny se vrátí na 2.00, přes dvacet převážně mezinárodních spojů tří dopravců proto vyčká na odjezd podle nového času a pak bude pokračovat podle platného jízdního řádu.",
-      "title_raw": "Změna času zdrží přes dvacet nočních vlaků a autobusů",
-      "lead_raw": "Kdo pojede v noci na neděli dálkovým vlakem nebo autobusem, musí počítat s hodinovou zastávkou. Ve 3.00 skončí letní čas a hodiny se vrátí na 2.00, přes dvacet převážně mezinárodních spojů tří dopravců proto vyčká na odjezd podle nového času a pak bude pokračovat podle platného jízdního řádu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "87031ffc777f3658dcb5633a9840a530bd803960",
-      "fingerprint": "5f3be7d43a2e778e1ce9703cde7fb32b84cccfa0",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-foto-sobotni-protesty-ve-francii-40604772",
-      "published_utc": "2026-10-24T18:11:50Z",
-      "title_en": "FOTO: Sobotní protesty ve Francii",
-      "lead_en": "Ve Francii v sobotu protestovalo 800 000 lidí, z toho čtvrt milionu v Paříži. S odkazem na odpolední sdělení odborů o tom informovala agentura AFP.",
-      "title_raw": "FOTO: Sobotní protesty ve Francii",
-      "lead_raw": "Ve Francii v sobotu protestovalo 800 000 lidí, z toho čtvrt milionu v Paříži. S odkazem na odpolední sdělení odborů o tom informovala agentura AFP.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "c624040a7f1e32538e409d010abaf55abc72005c",
-      "fingerprint": "b19e0ace1c27c9a5c32c56cb71d6c450e1648166",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/furt-hlad-o-pomoc-se-hodiny-nedovolate-kamila-fouska-v-ustavu-obrali-o-dustojnost.A261023_181921_domaci_kton",
-      "published_utc": "2026-10-24T18:00:00Z",
-      "title_en": "Furt hlad, o pomoc se hodiny nedovoláte. Kamila Fouska v ústavu obrali o důstojnost",
-      "lead_en": "Básník, DJ, výtvarník, oblíbený a vtipný společník i sportovec. To všechno o Kamilu Fouskovi při letmém setkání jen málokdo zjistí.",
-      "title_raw": "Furt hlad, o pomoc se hodiny nedovoláte. Kamila Fouska v ústavu obrali o důstojnost",
-      "lead_raw": "Básník, DJ, výtvarník, oblíbený a vtipný společník i sportovec. To všechno o Kamilu Fouskovi při letmém setkání jen málokdo zjistí.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "d442a0ac37fb42cd4bd7a0b617d935a47dad0e3f",
-      "fingerprint": "1751d957fc520f09e54cb35e0253d1db5d158302",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/vztahy-polska-a-ukrajiny-opet-kazi-historie-profitovat-z-toho-muze-jen-rusko.A261023_160316_zahranicni_kton",
-      "published_utc": "2026-10-24T18:00:00Z",
-      "title_en": "Vztahy Polska a Ukrajiny opět kazí historie. Profitovat z toho může jen Rusko",
-      "lead_en": "Ukrajinci by zřejmě měli zvážit založení institutu, který by se věnoval výzkumu všech možných způsobů, jak naštvat Poláky. To se jim totiž daří mimořádně dobře.",
-      "title_raw": "Vztahy Polska a Ukrajiny opět kazí historie. Profitovat z toho může jen Rusko",
-      "lead_raw": "Ukrajinci by zřejmě měli zvážit založení institutu, který by se věnoval výzkumu všech možných způsobů, jak naštvat Poláky. To se jim totiž daří mimořádně dobře.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "0d688aaa906f22b6f2ddf461e940457d055a848c",
-      "fingerprint": "555d997590f7e0c2f4aab4be4476a4624cd67f23",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/detektory-dronu-i-kurzy-prvni-pomoci-ukrajinci-reaguji-na-zhorseni-bezpecnosti-378981",
-      "published_utc": "2026-10-24T17:57:53Z",
-      "title_en": "Detektory dronů i kurzy první pomoci. Ukrajinci reagují na zhoršení bezpečnosti",
-      "lead_en": "Satelitní systém Starlink už nad Ukrajinou funguje bez omezení, potvrdil v sobotu prezident Volodymyr Zelenskyj. Kyjev si víc než týden stěžoval na výpadky, které Ukrajincům komplikovaly obranu před ruskými raketami a drony.",
-      "title_raw": "Detektory dronů i kurzy první pomoci. Ukrajinci reagují na zhoršení bezpečnosti",
-      "lead_raw": "Satelitní systém Starlink už nad Ukrajinou funguje bez omezení, potvrdil v sobotu prezident Volodymyr Zelenskyj. Kyjev si víc než týden stěžoval na výpadky, které Ukrajincům komplikovaly obranu před ruskými raketami a drony.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "b694045f1765f998e3ea2a4d9f14419398ffdfb8",
-      "fingerprint": "5e589910e0ff1f1bc0c36feb1bf36872fd63579f",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-spd-svolalo-kvuli-neuspechu-ve-volbach-celostatni-gremium-40604770",
-      "published_utc": "2026-10-24T17:47:23Z",
-      "title_en": "SPD svolalo kvůli neúspěchu ve volbách celostátní grémium",
-      "lead_en": "Vládní hnutí SPD svolalo na 8. listopadu kvůli neúspěchu v říjnových volbách celostátní grémium.",
-      "title_raw": "SPD svolalo kvůli neúspěchu ve volbách celostátní grémium",
-      "lead_raw": "Vládní hnutí SPD svolalo na 8. listopadu kvůli neúspěchu v říjnových volbách celostátní grémium.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
