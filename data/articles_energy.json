@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-27T18:26:01Z",
+  "updated_at_utc": "2026-10-27T22:42:01Z",
   "topic": "energy",
   "count": 45,
   "articles": [
+    {
+      "id": "c821a2a3b60fc1825cd6a9d5ab23415c2955dd65",
+      "fingerprint": "e1a6b12af680c3b54851ebf9b49bec315e8c78cf",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/okamura-by-souhlasil-pokud-nekdo-navrhne-zruseni-ct-a-cro-379076",
+      "published_utc": "2026-10-27T19:04:06Z",
+      "title_en": "Okamura by souhlasil, pokud někdo navrhne zrušení ČT a ČRo",
+      "lead_en": "Předseda SPD a šéf sněmovny Tomio Okamura by souhlasil, pokud by někdo navrhl zrušení České televize (ČT) a Českého rozhlasu (ČRo), řekl serveru Aktuálně.cz. Podle šéfa ODS Martina Kupky tak Okamura dává najevo, že chce víc prostoru pro manipulace a kremelskou propagandu.",
+      "title_raw": "Okamura by souhlasil, pokud někdo navrhne zrušení ČT a ČRo",
+      "lead_raw": "Předseda SPD a šéf sněmovny Tomio Okamura by souhlasil, pokud by někdo navrhl zrušení České televize (ČT) a Českého rozhlasu (ČRo), řekl serveru Aktuálně.cz. Podle šéfa ODS Martina Kupky tak Okamura dává najevo, že chce víc prostoru pro manipulace a kremelskou propagandu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "269cff9cb1f80ee80dfc2703af57ae405f24945e",
       "fingerprint": "99982f2ad98b9bd6d603d8a2193fe6805ebd5b60",
@@ -985,29 +1007,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "4243368c15113746737893a6b97ef93f24bbcd90",
-      "fingerprint": "d35b883f64b1f09760635495c37a1b09d29cbd82",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/pocasi-statisice-domacnosti-bez-elektriny-zrusene-lety-zapadni-evropu-ochromila-boure-boelo-40604875",
-      "published_utc": "2026-10-25T19:54:16Z",
-      "title_en": "Statisíce domácností bez elektřiny, zrušené lety. Západní Evropu ochromila bouře Boelo",
-      "lead_en": "Hluboká tlaková níže Boelo v neděli přinesla do severozápadní Evropy silný vítr, který v nárazech dosahoval síly orkánu. Více než 150 000 domácností se ocitlo bez dodávek elektřiny a několik osob utrpělo zranění.",
-      "title_raw": "Statisíce domácností bez elektřiny, zrušené lety. Západní Evropu ochromila bouře Boelo",
-      "lead_raw": "Hluboká tlaková níže Boelo v neděli přinesla do severozápadní Evropy silný vítr, který v nárazech dosahoval síly orkánu. Více než 150 000 domácností se ocitlo bez dodávek elektřiny a několik osob utrpělo zranění.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "energy",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }
