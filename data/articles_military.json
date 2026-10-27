@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-26T21:58:44Z",
+  "updated_at_utc": "2026-10-27T01:05:19Z",
   "topic": "military",
   "count": 37,
   "articles": [
+    {
+      "id": "236300c9074f3c86137685418f6e8d9539c82b71",
+      "fingerprint": "af4c6622fe384986b8813f9eab051c026a04aefb",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/jordansko-uderilo-v-syrii-damasek-v-reakci-uzavrel-hranicni-prechod-nasib-379039",
+      "published_utc": "2026-10-26T23:08:01Z",
+      "title_en": "Jordánsko udeřilo v Sýrii, Damašek v reakci uzavřel hraniční přechod Nasíb",
+      "lead_en": "Syrské úřady tvrdí, že při jordánských úderech na syrském území zemřelo pět civilistů. Jordánská armáda je provedla v souvislosti s pátečním útokem na kostel, při kterém zahynulo devět lidí, píše agentura Reuters.",
+      "title_raw": "Jordánsko udeřilo v Sýrii, Damašek v reakci uzavřel hraniční přechod Nasíb",
+      "lead_raw": "Syrské úřady tvrdí, že při jordánských úderech na syrském území zemřelo pět civilistů. Jordánská armáda je provedla v souvislosti s pátečním útokem na kostel, při kterém zahynulo devět lidí, píše agentura Reuters.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "a71da4c1e6ef9f40f2e88ef8dacc7a746c8e623d",
       "fingerprint": "1cf00d9fde7c9422d0c6214349d448340b8ed804",
@@ -804,28 +826,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ca69b00b2ef3b116d5ce30ba2499eed002a42a9c",
-      "fingerprint": "54c9188ee8caea0e316cc54dee32467c23c8be7a",
-      "source": "Radio Prague International (EN)",
-      "url": "https://english.radio.cz/october-1526-first-prague-vienna-mail-route-established-8900513",
-      "published_utc": "2026-10-24T22:45:00Z",
-      "title_en": "October 1526: First Prague-Vienna mail route established",
-      "lead_en": "When Ferdinand I of Habsburg sought the Bohemian crown in 1526, he needed fast and reliable communications between Vienna and Prague Castle. This led to the creation of the first regular postal route in Central Europe.",
-      "title_raw": "October 1526: First Prague-Vienna mail route established",
-      "lead_raw": "When Ferdinand I of Habsburg sought the Bohemian crown in 1526, he needed fast and reliable communications between Vienna and Prague Castle. This led to the creation of the first regular postal route in Central Europe.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
       },
       "topics": [
         "military"
