@@ -1,10 +1,33 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-27T06:55:45Z",
+  "updated_at_utc": "2026-10-27T12:49:16Z",
   "topic": "local_events",
-  "count": 19,
+  "count": 14,
   "articles": [
+    {
+      "id": "10af93725b75e607b192db2d51972e8bda8d8ee3",
+      "fingerprint": "fdfa6838685a0f811953f975fc09ffd220ed6006",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-utok-v-nigerii-40605206",
+      "published_utc": "2026-10-27T11:03:44Z",
+      "title_en": "Ozbrojenci zaútočili na severovýchodě Nigérie, desítky mrtvých",
+      "lead_en": "Nejméně 62 lidí zemřelo během útoku ozbrojenců na komunitu na severovýchodě Nigérie. Desítky dalších byly zraněny a tisíce vysídleny, uvedla agentura AP.",
+      "title_raw": "Ozbrojenci zaútočili na severovýchodě Nigérie, desítky mrtvých",
+      "lead_raw": "Nejméně 62 lidí zemřelo během útoku ozbrojenců na komunitu na severovýchodě Nigérie. Desítky dalších byly zraněny a tisíce vysídleny, uvedla agentura AP.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "a71da4c1e6ef9f40f2e88ef8dacc7a746c8e623d",
       "fingerprint": "1cf00d9fde7c9422d0c6214349d448340b8ed804",
@@ -289,141 +312,6 @@
       },
       "topics": [
         "energy",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "c5b356c5ad52de8b5a24412119cf3df7540d517d",
-      "fingerprint": "9b9294f7da7ed18239168ad4ea9f41c67b5c4f50",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-na-havlicskobrodsku-horel-rodinny-dum-zdravotnici-osetrili-tri-zranene-40604824",
-      "published_utc": "2026-10-25T11:02:44Z",
-      "title_en": "Na Havlíčskobrodsku hořel rodinný dům, zdravotníci ošetřili tři zraněné",
-      "lead_en": "Požár rodinného domu likvidovali v noci na dnešek ve Mstislavicích na Havlíčkobrodsku hasiči. V péči zdravotníků po něm skončili tři lidé.",
-      "title_raw": "Na Havlíčskobrodsku hořel rodinný dům, zdravotníci ošetřili tři zraněné",
-      "lead_raw": "Požár rodinného domu likvidovali v noci na dnešek ve Mstislavicích na Havlíčkobrodsku hasiči. V péči zdravotníků po něm skončili tři lidé.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "ed1fc9caea640a0d5b9720d813a8d02788cb78cb",
-      "fingerprint": "c4cbbc61959f3e5f615f3108a6f9b642f901ff55",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-nehoda-nebo-sebevrazda-zemrel-nacionalisticky-rusky-rapper-adorujici-valku-na-ukrajine-40604820",
-      "published_utc": "2026-10-25T10:50:26Z",
-      "title_en": "Nehoda, nebo sebevražda? Zemřel nacionalistický ruský rapper adorující válku na Ukrajině",
-      "lead_en": "V noci na neděli ve věku 41 let zemřel ruský rapper a vojenský blogger Miša Mavaši, nacionalista podporující ruskou válku na Ukrajině a zakladatel ultrapravicového nacionalistického hnutí Severní člověk. Informovala o tom tamní média, podle nichž existují dvě verze smrti: sebevražda a neopatrné zacházení se zbraní.",
-      "title_raw": "Nehoda, nebo sebevražda? Zemřel nacionalistický ruský rapper adorující válku na Ukrajině",
-      "lead_raw": "V noci na neděli ve věku 41 let zemřel ruský rapper a vojenský blogger Miša Mavaši, nacionalista podporující ruskou válku na Ukrajině a zakladatel ultrapravicového nacionalistického hnutí Severní člověk. Informovala o tom tamní média, podle nichž existují dvě verze smrti: sebevražda a neopatrné zacházení se zbraní.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ec79ff5371f147e4cb2088c55e4b9f10abf94a87",
-      "fingerprint": "d451f29eee979d1da7a4db3c9513a29fa2db44e1",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/pri-demonstracich-ve-francii-zadrzela-policie-pres-trinact-set-lidi-378989",
-      "published_utc": "2026-10-25T10:45:18Z",
-      "title_en": "Při demonstracích ve Francii zadržela policie přes třináct set lidí",
-      "lead_en": "Francouzská policie při sobotních demonstracích zadržela 1314 lidí, uvedlo v neděli na základě předběžné bilance ministerstvo vnitra. Zranění utrpělo 53 členů bezpečnostních složek, vyrabováno bylo 24 obchodů a v 75 případech zasahovali hasiči či bezpečnostní složky u požárů.",
-      "title_raw": "Při demonstracích ve Francii zadržela policie přes třináct set lidí",
-      "lead_raw": "Francouzská policie při sobotních demonstracích zadržela 1314 lidí, uvedlo v neděli na základě předběžné bilance ministerstvo vnitra. Zranění utrpělo 53 členů bezpečnostních složek, vyrabováno bylo 24 obchodů a v 75 případech zasahovali hasiči či bezpečnostní složky u požárů.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "3ec20b7210a739376703f2f14236da8d27a50bcd",
-      "fingerprint": "1b5918c49ebb1849a2549121384cebcbad513c5f",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-ukrajinci-uderili-na-chemicku-v-permskem-kraji-u-belgorodu-podle-moskvy-zabijeli-drony-40604818",
-      "published_utc": "2026-10-25T10:03:51Z",
-      "title_en": "Ukrajinci udeřili na chemičku v Permském kraji, u Bělgorodu podle Moskvy zabíjeli drony",
-      "lead_en": "Ukrajinská armáda v noci na neděli zaútočila na průmyslový podnik v ruském Permském kraji, během něhož bylo podle ruských úřadů zraněno pět lidí. Útočili také na příhraniční Bělgorodskou oblast, kde podle Moskvy zemřeli čtyři lidé, dalších 19 bylo zraněno.",
-      "title_raw": "Ukrajinci udeřili na chemičku v Permském kraji, u Bělgorodu podle Moskvy zabíjeli drony",
-      "lead_raw": "Ukrajinská armáda v noci na neděli zaútočila na průmyslový podnik v ruském Permském kraji, během něhož bylo podle ruských úřadů zraněno pět lidí. Útočili také na příhraniční Bělgorodskou oblast, kde podle Moskvy zemřeli čtyři lidé, dalších 19 bylo zraněno.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "db1e4cee60390a5f85b2d33de22871bec339e9c9",
-      "fingerprint": "8c7e89e1f1ef60990f92ea08e1881e7329b33085",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/karlovy-vary/zpravy/velka-hledsebe-hasici-mrtvy-clovek-pozar-chebsko.A261025_094119_vary-zpravy_zdo",
-      "published_utc": "2026-10-25T09:22:00Z",
-      "title_en": "Sobotní požár rodinného domu na Chebsku má jednu oběť, tři lidé jsou zranění",
-      "lead_en": "Osm jednotek hasičů zasahovalo v sobotu večer u požáru rodinného domu ve Velké Hleďsebi nedaleko Mariánských Lázní na Chebsku. Policisté následně potvrdili, že požár nepřežil jeden člověk a tři lidé se zranili.",
-      "title_raw": "Sobotní požár rodinného domu na Chebsku má jednu oběť, tři lidé jsou zranění",
-      "lead_raw": "Osm jednotek hasičů zasahovalo v sobotu večer u požáru rodinného domu ve Velké Hleďsebi nedaleko Mariánských Lázní na Chebsku. Policisté následně potvrdili, že požár nepřežil jeden člověk a tři lidé se zranili.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "0e94337e4690cc71425527242f99009680572c7b",
-      "fingerprint": "0df700351781a052e9f789a05bdda1b5740362a6",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-pri-nocnim-pozaru-rodinneho-domu-na-chebsku-zemrel-clovek-40604813",
-      "published_utc": "2026-10-25T09:00:26Z",
-      "title_en": "Při nočním požáru rodinného domu na Chebsku zemřel člověk",
-      "lead_en": "Hasiči našli po sobotním požáru rodinného domu ve Velké Hleďsebi na Chebsku mrtvého člověka. Další tři lidé skončili v nemocnici.",
-      "title_raw": "Při nočním požáru rodinného domu na Chebsku zemřel člověk",
-      "lead_raw": "Hasiči našli po sobotním požáru rodinného domu ve Velké Hleďsebi na Chebsku mrtvého člověka. Další tři lidé skončili v nemocnici.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
         "local_events"
       ],
       "primary_topic": "local_events"

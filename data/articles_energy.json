@@ -1,10 +1,172 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-27T06:55:45Z",
+  "updated_at_utc": "2026-10-27T12:49:16Z",
   "topic": "energy",
-  "count": 44,
+  "count": 45,
   "articles": [
+    {
+      "id": "52c0cfa08e822cbe8f0fc4a69aa51b8dc21513e4",
+      "fingerprint": "73d55595812db392703b46dede48ada41c446d3d",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-co-si-od-toho-slibuji-danska-premierka-zkritizovala-finsko-a-norsko-kvuli-telefonatu-s-putinem-40605233",
+      "published_utc": "2026-10-27T12:42:36Z",
+      "title_en": "Co si od toho slibují? Dánská premiérka zkritizovala Finsko a Norsko kvůli telefonátu s Putinem",
+      "lead_en": "Dánská premiérka Mette Frederiksenová zkritizovala Finsko a Norsko kvůli jednání s ruským vůdcem Vladimirem Putinem. Podle ní by Evropa měla jednat koordinovaně a nikoli každý zvlášť.",
+      "title_raw": "Co si od toho slibují? Dánská premiérka zkritizovala Finsko a Norsko kvůli telefonátu s Putinem",
+      "lead_raw": "Dánská premiérka Mette Frederiksenová zkritizovala Finsko a Norsko kvůli jednání s ruským vůdcem Vladimirem Putinem. Podle ní by Evropa měla jednat koordinovaně a nikoli každý zvlášť.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "e99ffa5ba2d4267b650e451da993452b0c341622",
+      "fingerprint": "9d810f575891355c39c1f308733235b33db8cf24",
+      "source": "iROZHLAS - Economy",
+      "url": "https://www.irozhlas.cz/ekonomika/rusko-jen-ekonomicky-porazit-nelze-drzi-ho-vyroba-zbrani-hlavne-dronu-a-cina_2610271240_jaf",
+      "published_utc": "2026-10-27T11:40:00Z",
+      "title_en": "Rusko jen ekonomicky porazit nelze. Drží ho výroba zbraní, hlavně dronů, a Čína, varuje profesor z Harvardu",
+      "lead_en": "Je důležité, že si Evropa po pěti letech ruské války uvědomila potřebnost vysokých vojenských rozpočtů. Ty jsou klíčové pro to, aby válka vůbec nevznikla.",
+      "title_raw": "Rusko jen ekonomicky porazit nelze. Drží ho výroba zbraní, hlavně dronů, a Čína, varuje profesor z Harvardu",
+      "lead_raw": "Je důležité, že si Evropa po pěti letech ruské války uvědomila potřebnost vysokých vojenských rozpočtů. Ty jsou klíčové pro to, aby válka vůbec nevznikla.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d4c019e95cb9e077888ab60dd744e4b346ddb928",
+      "fingerprint": "086548eb6334fe54ddc1ed180d907c7c13a05290",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/investice-evropa-chce-trh-jako-usa-podle-burzy-zacina-na-spatnem-konci-318812",
+      "published_utc": "2026-10-27T11:20:00Z",
+      "title_en": "Evropa chce trh jako USA. Podle burzy začíná na špatném konci",
+      "lead_en": "Evropa chce propojit kapitálové trhy a posílit společný dohled. ČNB ale má k dohodnutému kompromisu výhrady a u kryptofirem by šla jinou cestou než Ministerstvo financí.",
+      "title_raw": "Evropa chce trh jako USA. Podle burzy začíná na špatném konci",
+      "lead_raw": "Evropa chce propojit kapitálové trhy a posílit společný dohled. ČNB ale má k dohodnutému kompromisu výhrady a u kryptofirem by šla jinou cestou než Ministerstvo financí.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "8ca61e1625250e1612c569a88f9f8588b9ed8ba7",
+      "fingerprint": "326cf3a0c7b7682679160d6627dc6128d13b477e",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/domaci/svaz-prumyslu-mimoradna-dan-na-rafinerie-muze-ohrozit-cely-cesky-prumysl.A261027_114518_ekonomika_iluj",
+      "published_utc": "2026-10-27T10:52:00Z",
+      "title_en": "Mimořádná daň na rafinerie může ohrozit celý český průmysl, varuje Svaz",
+      "lead_en": "Nová daň na zvýšené marže rafinerií, kterou koncem září schválila vláda, ohrozí podle Svazu průmyslu celý český průmysl. Vládní návrh totiž může podle svazu za mimořádný zisk považovat i pouhý návrat k běžné výrobní výkonnosti.",
+      "title_raw": "Mimořádná daň na rafinerie může ohrozit celý český průmysl, varuje Svaz",
+      "lead_raw": "Nová daň na zvýšené marže rafinerií, kterou koncem září schválila vláda, ohrozí podle Svazu průmyslu celý český průmysl. Vládní návrh totiž může podle svazu za mimořádný zisk považovat i pouhý návrat k běžné výrobní výkonnosti.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "b204bfa2ea12d7e3b8a73bc6f279310336859cc9",
+      "fingerprint": "19b8dafe5348e46d0885955db5569811180d46ec",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/svaz-prumyslu-mimoradna-dan-na-rafinerie-muze-ohrozit-cely-cesky-prumysl/2893678",
+      "published_utc": "2026-10-27T10:39:00Z",
+      "title_en": "Svaz průmyslu: Mimořádná daň na rafinerie může ohrozit celý český průmysl",
+      "lead_en": "Praha - Nová daň na zvýšené marže rafinerií, kterou koncem září schválila vláda, ohrozí podle Svazu průmyslu celý český průmysl. Vládní návrh totiž může podle svazu za mimořádný zisk považovat i pouhý...",
+      "title_raw": "Svaz průmyslu: Mimořádná daň na rafinerie může ohrozit celý český průmysl",
+      "lead_raw": "Praha - Nová daň na zvýšené marže rafinerií, kterou koncem září schválila vláda, ohrozí podle Svazu průmyslu celý český průmysl. Vládní návrh totiž může podle svazu za mimořádný zisk považovat i pouhý...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "c50e3f39fabb4024c9d9596f24b7e9d8c87ade1d",
+      "fingerprint": "dc5eda29095c6e6116442117198fa26eee46819b",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-ocima-byznysu-ocima-byznysu-sektorova-dan-na-rafinerie-muze-prinest-zavislost-na-dovozu-318865",
+      "published_utc": "2026-10-27T09:30:00Z",
+      "title_en": "Sektorová daň na rafinerie může přinést závislost na dovozu",
+      "lead_en": "Stát nemůže hospodářskou politiku řídit jen podle toho, kolik vybere nyní na daních, ale i tím, co to způsobí v budoucnu. Sektorová daň na rafinerie je dobrým příkladem, píše rektor Anglo-americké vysoké školy Jiří Schwarz.",
+      "title_raw": "Sektorová daň na rafinerie může přinést závislost na dovozu",
+      "lead_raw": "Stát nemůže hospodářskou politiku řídit jen podle toho, kolik vybere nyní na daních, ale i tím, co to způsobí v budoucnu. Sektorová daň na rafinerie je dobrým příkladem, píše rektor Anglo-americké vysoké školy Jiří Schwarz.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "540800214fce2426bdcb1b24d52a27aadb8f17c2",
+      "fingerprint": "bfce49f3690cdb5e34490f029f573f8a167ad5cf",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/koncentrace-sklenikovych-plynu-jsou-rekordni-rika-wmo-varuje-pred-i-pred-temi-mene-znamymi-379046",
+      "published_utc": "2026-10-27T09:00:00Z",
+      "title_en": "Koncentrace skleníkových plynů jsou rekordní, říká WMO. Varuje i před těmi méně známými",
+      "lead_en": "Podle nové zprávy Světové meteorologické organizace (WMO) dosáhly v roce 2025 hladiny oxidu uhličitého (CO₂) a dalších hlavních skleníkových plynů v atmosféře bezprecedentních maxim. Znamená to další dlouhodobý nárůst teploty na Zemi.",
+      "title_raw": "Koncentrace skleníkových plynů jsou rekordní, říká WMO. Varuje i před těmi méně známými",
+      "lead_raw": "Podle nové zprávy Světové meteorologické organizace (WMO) dosáhly v roce 2025 hladiny oxidu uhličitého (CO₂) a dalších hlavních skleníkových plynů v atmosféře bezprecedentních maxim. Znamená to další dlouhodobý nárůst teploty na Zemi.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "b78b26d947a084492e311705fbf87b612414ec49",
       "fingerprint": "ed0059395acb0c178648ee19981e991d779fa271",
@@ -838,138 +1000,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "2d7d5b41a8de5dd3f404bd8b5dac3100e48d3e9f",
-      "fingerprint": "ea7c2ca1f989a89b49f3bb89eb02f82de4d32edb",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-saudska-arabie-znovu-otevrela-letiste-v-rijadu-pro-mezinarodni-lety-318690",
-      "published_utc": "2026-10-25T10:17:01Z",
-      "title_en": "Saúdská Arábie znovu otevřela letiště v Rijádu pro mezinárodní lety",
-      "lead_en": "Po dvou týdnech obnovila Saúdská Arábie provoz letiště v Rijádu, poničeného útoky Húthíů. Ti však pokračují v ostřelování saúdských měst i energetické infrastruktury.",
-      "title_raw": "Saúdská Arábie znovu otevřela letiště v Rijádu pro mezinárodní lety",
-      "lead_raw": "Po dvou týdnech obnovila Saúdská Arábie provoz letiště v Rijádu, poničeného útoky Húthíů. Ti však pokračují v ostřelování saúdských měst i energetické infrastruktury.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e8f085195ef376e3951801abb240106c7447315b",
-      "fingerprint": "c020a681215409955c8c847f0c3cb7087df46c65",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-ochrana-dat-evropanu-stoji-na-americkem-piliri-a-ten-se-ted-otrasl-317950",
-      "published_utc": "2026-10-25T10:00:00Z",
-      "title_en": "Ochrana dat Evropanů stojí na americkém pilíři. A ten se teď otřásl",
-      "lead_en": "Americký Nejvyšší soud dovolil prezidentu Donaldu Trumpovi odvolávat členy úřadu, který má v USA hlídat, jak tamní firmy zacházejí s daty Evropanů. Evropská pravidla pro přenos dat za oceán přitom na jeho nezávislost spoléhala.",
-      "title_raw": "Ochrana dat Evropanů stojí na americkém pilíři. A ten se teď otřásl",
-      "lead_raw": "Americký Nejvyšší soud dovolil prezidentu Donaldu Trumpovi odvolávat členy úřadu, který má v USA hlídat, jak tamní firmy zacházejí s daty Evropanů. Evropská pravidla pro přenos dat za oceán přitom na jeho nezávislost spoléhala.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b09f25b816144538a0bdaf208c90370e0807a3c8",
-      "fingerprint": "685b352191a4a1833b30bcd7b337f05209bda0af",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/studie-evropa-bude-potrebovat-az-dvojnasobek-energeticke-flexibility/2892794",
-      "published_utc": "2026-10-25T09:50:00Z",
-      "title_en": "Studie: Evropa bude potřebovat až dvojnásobek energetické flexibility",
-      "lead_en": "Praha - Evropská elektrizační soustava bude v příštích letech kvůli zvyšující se proměnlivosti výroby a spotřeby potřebovat až dvojnásobek flexibility, tedy schopnosti energetického systému v potřebném...",
-      "title_raw": "Studie: Evropa bude potřebovat až dvojnásobek energetické flexibility",
-      "lead_raw": "Praha - Evropská elektrizační soustava bude v příštích letech kvůli zvyšující se proměnlivosti výroby a spotřeby potřebovat až dvojnásobek flexibility, tedy schopnosti energetického systému v potřebném...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "1e21e159936f512122cf75b8e43726ba966839ef",
-      "fingerprint": "0757ab0e67dd7cdaedd21ffbd0105d7212de1cf5",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/kultura-knihy-recenze-znama-neznama-prvni-dama-treti-rise-40603558",
-      "published_utc": "2026-10-25T09:32:00Z",
-      "title_en": "RECENZE: Známá neznámá první dáma třetí říše",
-      "lead_en": "Sokyně prvorepublikové herečky Lídy Baarové v boji o srdce manžela, ministra propagandy Josepha Goebbelse, a vražedkyně svých šesti dětí. Takto zarámovaná zůstala v povědomí široké veřejnosti prominentka nacistického režimu Magda Goebbelsová.",
-      "title_raw": "RECENZE: Známá neznámá první dáma třetí říše",
-      "lead_raw": "Sokyně prvorepublikové herečky Lídy Baarové v boji o srdce manžela, ministra propagandy Josepha Goebbelse, a vražedkyně svých šesti dětí. Takto zarámovaná zůstala v povědomí široké veřejnosti prominentka nacistického režimu Magda Goebbelsová.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "9306c5d250a8512a073debc2002292c7cd20baeb",
-      "fingerprint": "3a68f1111613b89f256a6489f0c9c37780f5040a",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/komentare-komentar-vladni-hra-s-ohnem-alex-svamberk-40604798",
-      "published_utc": "2026-10-25T09:22:41Z",
-      "title_en": "KOMENTÁŘ: Vládní hra s ohněm - Alex Švamberk",
-      "lead_en": "Evropa zažívá největší nejen studentské protesty od roku 1968. Nekonají se jen ve Francii, kde se demonstruje obvykle, ale i ve Španělsku, Itálii, Belgii nebo Albánii.",
-      "title_raw": "KOMENTÁŘ: Vládní hra s ohněm - Alex Švamberk",
-      "lead_raw": "Evropa zažívá největší nejen studentské protesty od roku 1968. Nekonají se jen ve Francii, kde se demonstruje obvykle, ale i ve Španělsku, Itálii, Belgii nebo Albánii.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "740f8e628c0af111fce6ec20aab631c37af5e9be",
-      "fingerprint": "ea537e2f9458ebfe856ca27b817b75e23267fe8b",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-trendy-analyzy-cesko-sazi-na-jadro-poptavka-po-elektrine-ale-na-nove-reaktory-neceka-318401",
-      "published_utc": "2026-10-25T07:45:00Z",
-      "title_en": "Česko sází na jádro. Poptávka po elektřině ale na nové reaktory nečeká",
-      "lead_en": "Jaderná energetika zažívá po letech útlumu novou vlnu zájmu. Staví se nové reaktory, mnohé další jsou v plánu a do hry také vstupují malé modulární reaktory slibující rychlejší výstavbu.",
-      "title_raw": "Česko sází na jádro. Poptávka po elektřině ale na nové reaktory nečeká",
-      "lead_raw": "Jaderná energetika zažívá po letech útlumu novou vlnu zájmu. Staví se nové reaktory, mnohé další jsou v plánu a do hry také vstupují malé modulární reaktory slibující rychlejší výstavbu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
         "economy": 0,
         "local_events": 0
       },
