@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-29T17:08:31Z",
+  "updated_at_utc": "2026-10-29T22:05:47Z",
   "topic": "economy",
-  "count": 22,
+  "count": 21,
   "articles": [
+    {
+      "id": "4c27244487fc1b0cd3cf076893e07497af642259",
+      "fingerprint": "015cb59b619f81e7ed6ad59077496a4b0643a350",
+      "source": "iROZHLAS - Economy",
+      "url": "https://www.irozhlas.cz/ekonomika/historicka-vyvraci-myty-o-ceskoslovenske-ekonomice-prosperita-se-zadrhla-pad_2610292233_lar",
+      "published_utc": "2026-10-29T21:33:00Z",
+      "title_en": "Historička vyvrací mýty o československé ekonomice: Prosperita se zadrhla, pád monarchie přinesl cla",
+      "lead_en": "První republiku často vykreslujeme jako dobu úspěšných podnikatelů, zrodu českých světově proslulých značek a mimořádně vyspělého průmyslu. „Představa byla vymanit se z okovů, zbavit se žaláře národů a být středoevropským lídrem,“ připomíná v pořadu Řečí peněz historička ekonomie Antonie Doležalová.",
+      "title_raw": "Historička vyvrací mýty o československé ekonomice: Prosperita se zadrhla, pád monarchie přinesl cla",
+      "lead_raw": "První republiku často vykreslujeme jako dobu úspěšných podnikatelů, zrodu českých světově proslulých značek a mimořádně vyspělého průmyslu. „Představa byla vymanit se z okovů, zbavit se žaláře národů a být středoevropským lídrem,“ připomíná v pořadu Řečí peněz historička ekonomie Antonie Doležalová.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "dd83ad32c3d63341b4eb9dbc7487512a3382beae",
       "fingerprint": "2596dd7942d90dbe8d1d571d913f2a619c99aeef",
@@ -438,51 +460,6 @@
       "lead_en": "Jihokorejský výrobce čipů SK Hynix meziročně více než zesedminásobil zisk na rekordních 83,3 bilionu wonů (1,4 bilionu korun). Dál těží z poptávky po umělé inteligenci (AI), která zvyšuje ceny paměťových čipů.",
       "title_raw": "Výrobce čipů SK Hynix zesedminásobil zisk",
       "lead_raw": "Jihokorejský výrobce čipů SK Hynix meziročně více než zesedminásobil zisk na rekordních 83,3 bilionu wonů (1,4 bilionu korun). Dál těží z poptávky po umělé inteligenci (AI), která zvyšuje ceny paměťových čipů.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "7874ab3c630f834dae3a5e79727d1f268a4b8184",
-      "fingerprint": "97686d4c748ded62289c4d9cf09667a0592ea7c1",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-trump-zvazuje-dalsi-ustupek-rusku-zruseni-sankci-vuci-putinovu-fondu-40605322",
-      "published_utc": "2026-10-27T20:34:27Z",
-      "title_en": "Trump zvažuje další ústupek Rusku. Zrušení sankcí vůči Putinovu fondu",
-      "lead_en": "Administrativa amerického prezidenta Donalda Trumpa zvažuje zrušení sankcí vůči Ruskému fondu přímých investic (RDIF), na který předchozí americká administrativa uvalila po začátku plnohodnotné invaze sankce. Ruští představitelé o tento krok usilují v rámci širších jednání o zapojení fondu do přepravy ruské motorové nafty do Spojených států, informuje deník The New York Times (NYT).",
-      "title_raw": "Trump zvažuje další ústupek Rusku. Zrušení sankcí vůči Putinovu fondu",
-      "lead_raw": "Administrativa amerického prezidenta Donalda Trumpa zvažuje zrušení sankcí vůči Ruskému fondu přímých investic (RDIF), na který předchozí americká administrativa uvalila po začátku plnohodnotné invaze sankce. Ruští představitelé o tento krok usilují v rámci širších jednání o zapojení fondu do přepravy ruské motorové nafty do Spojených států, informuje deník The New York Times (NYT).",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "6b1a8b73ad6a89233d51ac80c57f89ed4d0721c5",
-      "fingerprint": "245e4f4d7e3a23fb5edf17d12359312b6a945e35",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/domaci/kosmetika-dermacol-vladimir-komar-vera-komarova.A261027_173539_ekonomika_ptac",
-      "published_utc": "2026-10-27T17:10:00Z",
-      "title_en": "Dermacol loni prodělal 55,2 milionu korun, ztrátu téměř ztrojnásobil",
-      "lead_en": "Český výrobce kosmetiky Dermacol loni prohloubil ztrátu na 55,2 milionu korun z předloňských 20,5 milionu korun. Vyplývá to z účetní uzávěrky zveřejněné ve Sbírce listin.",
-      "title_raw": "Dermacol loni prodělal 55,2 milionu korun, ztrátu téměř ztrojnásobil",
-      "lead_raw": "Český výrobce kosmetiky Dermacol loni prohloubil ztrátu na 55,2 milionu korun z předloňských 20,5 milionu korun. Vyplývá to z účetní uzávěrky zveřejněné ve Sbírce listin.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
