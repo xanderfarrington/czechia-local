@@ -1,10 +1,54 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-29T10:29:39Z",
+  "updated_at_utc": "2026-10-29T17:08:31Z",
   "topic": "local_events",
-  "count": 14,
+  "count": 15,
   "articles": [
+    {
+      "id": "4552de52cad82c76384846c80852540c119257fe",
+      "fingerprint": "836545a6931d02204b38a8ef35b3c3b8cae892cf",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/turecko-kappadokia-dva-lide-zemreli-po-zriceni-skalniho-utvaru.A261029_154614_zahranicni_kha",
+      "published_utc": "2026-10-29T15:25:00Z",
+      "title_en": "V turecké Kappadokii se po deštích zřítil „pohádkový komín“, dva lidé zemřeli",
+      "lead_en": "V turecké oblasti Kappadokie, jež patří k oblíbeným turistickým cílům, se ve čtvrtek zřítil kus skalního útvaru přezdívaného pohádkový komín. Důvodem byl zřejmě sesuv půdy způsobený silnými dešti.",
+      "title_raw": "V turecké Kappadokii se po deštích zřítil „pohádkový komín“, dva lidé zemřeli",
+      "lead_raw": "V turecké oblasti Kappadokie, jež patří k oblíbeným turistickým cílům, se ve čtvrtek zřítil kus skalního útvaru přezdívaného pohádkový komín. Důvodem byl zřejmě sesuv půdy způsobený silnými dešti.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "0b5541025f2fdcfb80bd4ed42c41deb27e3e5240",
+      "fingerprint": "60cbd75137cb31c0e6517bd890f5f528531457e4",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/zaplavy-zpusobily-sesuv-pudy-v-thajskem-turistickem-letovisku-379105",
+      "published_utc": "2026-10-29T11:00:00Z",
+      "title_en": "Záplavy způsobily sesuv půdy v thajském turistickém letovisku",
+      "lead_en": "Silné a&nbsp;vytrvalé deště během týdne pohltily thajský ostrov Phuket. Voda zalila jak stejnojmenné hlavní město ostrova, tak i&nbsp;turistické letovisko Patong.",
+      "title_raw": "Záplavy způsobily sesuv půdy v thajském turistickém letovisku",
+      "lead_raw": "Silné a&nbsp;vytrvalé deště během týdne pohltily thajský ostrov Phuket. Voda zalila jak stejnojmenné hlavní město ostrova, tak i&nbsp;turistické letovisko Patong.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "bfd36b1a82e4615fc5ac54eac7178a2296dfda54",
       "fingerprint": "082a4c391129ed7062a395859f68b289eef51a56",
@@ -287,29 +331,6 @@
         "local_events": 2
       },
       "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "10af93725b75e607b192db2d51972e8bda8d8ee3",
-      "fingerprint": "fdfa6838685a0f811953f975fc09ffd220ed6006",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-utok-v-nigerii-40605206",
-      "published_utc": "2026-10-27T11:03:44Z",
-      "title_en": "Ozbrojenci zaútočili na severovýchodě Nigérie, desítky mrtvých",
-      "lead_en": "Nejméně 62 lidí zemřelo během útoku ozbrojenců na komunitu na severovýchodě Nigérie. Desítky dalších byly zraněny a tisíce vysídleny, uvedla agentura AP.",
-      "title_raw": "Ozbrojenci zaútočili na severovýchodě Nigérie, desítky mrtvých",
-      "lead_raw": "Nejméně 62 lidí zemřelo během útoku ozbrojenců na komunitu na severovýchodě Nigérie. Desítky dalších byly zraněny a tisíce vysídleny, uvedla agentura AP.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "military",
         "local_events"
       ],
       "primary_topic": "local_events"
