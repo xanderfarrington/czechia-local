@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-28T23:43:55Z",
+  "updated_at_utc": "2026-10-29T03:06:46Z",
   "topic": "military",
   "count": 58,
   "articles": [
+    {
+      "id": "85eecd428c885e1f528dd50149f9859dd3bdf515",
+      "fingerprint": "f2fa7fb07c1b5a82e59e9b7d7616c23852919030",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/v-moldavsku-se-po-rozsahlem-kyberutoku-sejde-narodni-bezpecnostni-rada-379093",
+      "published_utc": "2026-10-29T02:03:21Z",
+      "title_en": "V Moldavsku se po rozsáhlém kyberútoku sejde Národní bezpečnostní rada",
+      "lead_en": "Moldavská Národní bezpečnostní rada se v nejbližších dnech sejde kvůli rozsáhlému kyberútoku na vládní informační systémy. S odkazem na středeční oznámení prezidentské kanceláře o tom informovala v noci na čtvrtek agentura AFP.",
+      "title_raw": "V Moldavsku se po rozsáhlém kyberútoku sejde Národní bezpečnostní rada",
+      "lead_raw": "Moldavská Národní bezpečnostní rada se v nejbližších dnech sejde kvůli rozsáhlému kyberútoku na vládní informační systémy. S odkazem na středeční oznámení prezidentské kanceláře o tom informovala v noci na čtvrtek agentura AFP.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "00beb795b458bb8b2bea88d39c0b3fe27a9ee5fa",
       "fingerprint": "f89f61f94c3610806fa977e50b3eb57b14ad1be8",
@@ -1262,28 +1284,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "afbf5e830dcda11eb99b8db8cede8c26e8aae2e6",
-      "fingerprint": "4ab2c3baa4c1d9ac7d31853449763a72ca266ac9",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/v-ukrajinskych-oleskach-zacalo-platit-lokalni-primeri-379041",
-      "published_utc": "2026-10-27T02:00:00Z",
-      "title_en": "V ukrajinských Oleškách začalo platit lokální příměří. Rusko mezitím udeřilo na Kyjev",
-      "lead_en": "V ukrajinském městě Olešky začalo platit lokální příměří mezi Ukrajinou a ruskými invazními jednotkami. Klid zbraní má zajistit dodat strádajícím lidem v okolí města potraviny a léky, případně zajistit jejich evakuaci.",
-      "title_raw": "V ukrajinských Oleškách začalo platit lokální příměří. Rusko mezitím udeřilo na Kyjev",
-      "lead_raw": "V ukrajinském městě Olešky začalo platit lokální příměří mezi Ukrajinou a ruskými invazními jednotkami. Klid zbraní má zajistit dodat strádajícím lidem v okolí města potraviny a léky, případně zajistit jejich evakuaci.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
       },
       "topics": [
         "military"
