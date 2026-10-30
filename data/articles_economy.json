@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-30T16:19:02Z",
+  "updated_at_utc": "2026-10-30T21:10:22Z",
   "topic": "economy",
   "count": 31,
   "articles": [
+    {
+      "id": "643cc7e9fe8feb305e1686e3fd601e20ccdcfdbf",
+      "fingerprint": "a51443bebfd87c7dea2e00d6695fa921b3a7c69f",
+      "source": "iROZHLAS - Economy",
+      "url": "https://www.irozhlas.cz/ekonomika/do-vysetrovani-hackerskeho-utoku-na-binance-se-zapojily-americke-urady-stopy_2610301751_med",
+      "published_utc": "2026-10-30T16:51:00Z",
+      "title_en": "Do vyšetřování krádeže ‚největší sumy v dějinách‘ se zapojily americké úřady. Stopy vedou do KLDR",
+      "lead_en": "Za rozsáhlým hackerským útokem na kryptoměnovou burzu Binance, při kterém útočníci odcizili kryptoměny v hodnotě 6,36 miliardy dolarů (zhruba 134 miliard korun), pravděpodobně stojí Severní Korea. Podle analytických společností TRM Labs a Chainalysis nese útok znaky předchozích operací severokorejské hackerské skupiny Lazarus, známé také jako TraderTraitor.",
+      "title_raw": "Do vyšetřování krádeže ‚největší sumy v dějinách‘ se zapojily americké úřady. Stopy vedou do KLDR",
+      "lead_raw": "Za rozsáhlým hackerským útokem na kryptoměnovou burzu Binance, při kterém útočníci odcizili kryptoměny v hodnotě 6,36 miliardy dolarů (zhruba 134 miliard korun), pravděpodobně stojí Severní Korea. Podle analytických společností TRM Labs a Chainalysis nese útok znaky předchozích operací severokorejské hackerské skupiny Lazarus, známé také jako TraderTraitor.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "8eb9d53ca1758fdffdd392500d71a1c1b398f444",
       "fingerprint": "19731d53eecc1183ed65797c53482143b1d43bad",
@@ -664,28 +686,6 @@
         "military": 0,
         "energy": 0,
         "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "a40f71c9155ec9a38c2dca48a68ba7913b76967f",
-      "fingerprint": "7b33bab6c6373c15f737e2fef9ad20cb06ee0623",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/americka-centralni-banka-podle-ocekavani-ponechala-urokove-sazby-beze-zmeny/2894262",
-      "published_utc": "2026-10-28T18:17:00Z",
-      "title_en": "Americká centrální banka podle očekávání ponechala úrokové sazby beze změny",
-      "lead_en": "Washington - Americká centrální banka (Fed) dnes podle očekávání ponechala základní úrokovou sazbu beze změny v pásmu 3,75 až 4,00 procenta. Ekonomická aktivita pokračuje v silném růstu, uvedla v prohlášení...",
-      "title_raw": "Americká centrální banka podle očekávání ponechala úrokové sazby beze změny",
-      "lead_raw": "Washington - Americká centrální banka (Fed) dnes podle očekávání ponechala základní úrokovou sazbu beze změny v pásmu 3,75 až 4,00 procenta. Ekonomická aktivita pokračuje v silném růstu, uvedla v prohlášení...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
         "local_events": 0
       },
       "topics": [
