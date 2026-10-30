@@ -1,10 +1,416 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-30T09:09:32Z",
+  "updated_at_utc": "2026-10-30T16:19:02Z",
   "topic": "diplomacy",
-  "count": 54,
+  "count": 63,
   "articles": [
+    {
+      "id": "bff7f81011cb2c27f54085a2296b80a73e39f600",
+      "fingerprint": "59a450e40a18648a1a54f4e95925db4cb3ca0d64",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/koalice-uz-je-domluvena-v-jeseniku-povolebni-jednani-skoncila-take-v-sumperku_2610301707_bva",
+      "published_utc": "2026-10-30T16:07:00Z",
+      "title_en": "Koalice už je domluvená v Jeseníku. Povolební jednání skončila také v Šumperku, Přerově a Prostějově",
+      "lead_en": "Ve většině bývalých okresních měst Olomouckého kraje už je jasné, kdo povede radnice v následujících čtyřech letech. V jednom se o podobě koalice stále jedná.",
+      "title_raw": "Koalice už je domluvená v Jeseníku. Povolební jednání skončila také v Šumperku, Přerově a Prostějově",
+      "lead_raw": "Ve většině bývalých okresních měst Olomouckého kraje už je jasné, kdo povede radnice v následujících čtyřech letech. V jednom se o podobě koalice stále jedná.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "425b1d3a8f02b9566a46fa185e78eab4bf50ebd4",
+      "fingerprint": "7b9210663630c937f71e63e7a09a177076b67689",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-stredni-evropa-kaczynski-otevrel-tema-polexitu-tuskovi-dal-argument-do-voleb-319184",
+      "published_utc": "2026-10-30T16:05:00Z",
+      "title_en": "Kaczyński otevřel téma polexitu. Tuskovi dal argument do voleb",
+      "lead_en": "Předseda PiS připustil jednání o odchodu z Evropské unie, pokud selžou pokusy o její přestavbu podle jeho představ. Rok před volbami tím nahrál premiérovi, před důsledky výroku ale varují i někdejší spojenci šéfa polské opozice.",
+      "title_raw": "Kaczyński otevřel téma polexitu. Tuskovi dal argument do voleb",
+      "lead_raw": "Předseda PiS připustil jednání o odchodu z Evropské unie, pokud selžou pokusy o její přestavbu podle jeho představ. Rok před volbami tím nahrál premiérovi, před důsledky výroku ale varují i někdejší spojenci šéfa polské opozice.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "6fa85d87109da194f5c192e866add3375aa17704",
+      "fingerprint": "961f397adfe32161d5026883329de7e1e1ce271c",
+      "source": "iROZHLAS - Economy",
+      "url": "https://www.irozhlas.cz/ekonomika/doosan-ujistil-korejskou-burzu-ze-se-spor-kolem-smlouvy-khnp-na-stavbu-dukovan_2610301648_jaf",
+      "published_utc": "2026-10-30T15:48:00Z",
+      "title_en": "Spor o stavbu Dukovan se nás netýká, ujišťuje Doosan Energy. Dodávky jaderné technologie pokračují",
+      "lead_en": "Korejská společnost Doosan Energy ze skupiny Doosan Enerbility, která má být hlavním dodavatelem jaderné technologie pro dva nové bloky elektrárny Dukovany, ve čtvrtek informovala korejskou burzu, že ukončení jednání o stavební části projektu neovlivní její technologické dodávky. Reagovala tak na oznámení společnosti KHNP, která ukončila jednání s konsorciem firem Daewoo Engineering & Construction a Doosan Enerbility o stavební části zakázky.",
+      "title_raw": "Spor o stavbu Dukovan se nás netýká, ujišťuje Doosan Energy. Dodávky jaderné technologie pokračují",
+      "lead_raw": "Korejská společnost Doosan Energy ze skupiny Doosan Enerbility, která má být hlavním dodavatelem jaderné technologie pro dva nové bloky elektrárny Dukovany, ve čtvrtek informovala korejskou burzu, že ukončení jednání o stavební části projektu neovlivní její technologické dodávky. Reagovala tak na oznámení společnosti KHNP, která ukončila jednání s konsorciem firem Daewoo Engineering & Construction a Doosan Enerbility o stavební části zakázky.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 4,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "04e636743caffcde18345ee94f26bcbf66e31da5",
+      "fingerprint": "59d87c62d0c2f9d9c7a5d726441d529b37f910ab",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/jedine-dohoda-vzkazal-ombudsman-zene-ktera-se-bala-o-hrob-matky-v-najmu-ho-ma-macecha.A261030_143006_domaci_pzak",
+      "published_utc": "2026-10-30T15:30:00Z",
+      "title_en": "Jedině dohoda, vzkázal ombudsman ženě, která se bála o hrob matky. V nájmu ho má macecha",
+      "lead_en": "Žena, jejímž případem se zabýval úřad veřejného ochránce práv, roky pečovala o rodinný hrob, v němž odpočívá její matka a další příbuzní. Po smrti otce ale nájem hrobu přešel na jeho druhou manželku, s níž se ženě nepodařilo dohodnout na sdílení pronájmu.",
+      "title_raw": "Jedině dohoda, vzkázal ombudsman ženě, která se bála o hrob matky. V nájmu ho má macecha",
+      "lead_raw": "Žena, jejímž případem se zabýval úřad veřejného ochránce práv, roky pečovala o rodinný hrob, v němž odpočívá její matka a další příbuzní. Po smrti otce ale nájem hrobu přešel na jeho druhou manželku, s níž se ženě nepodařilo dohodnout na sdílení pronájmu.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "6c99ecc18c715ff05ae4e2d28a6bf33584f23058",
+      "fingerprint": "081ba62dcbd8479b2ecf07f76430ac8d8fcb3442",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/cez-zdrazi-od-noveho-roku-elektrinu-i-plyn-379154",
+      "published_utc": "2026-10-30T15:28:41Z",
+      "title_en": "ČEZ zdraží od nového roku elektřinu i plyn",
+      "lead_en": "Energetická společnost ČEZ v&nbsp;příštím roce zdraží 1,6 milionu zákazníků se smlouvou na dobu neurčitou dodávky elektřiny i&nbsp;plynu. Nové ceny začnou platit od začátku příštího roku.",
+      "title_raw": "ČEZ zdraží od nového roku elektřinu i plyn",
+      "lead_raw": "Energetická společnost ČEZ v&nbsp;příštím roce zdraží 1,6 milionu zákazníků se smlouvou na dobu neurčitou dodávky elektřiny i&nbsp;plynu. Nové ceny začnou platit od začátku příštího roku.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 4,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "3e06fee28d1334e35eb4897b9a31db2362b8e0bd",
+      "fingerprint": "cdf4d722c56b6936a16aa9053ad9a7ecb4743ce0",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/byvali-prezidenti-zeman-a-schuster-prevzali-oceneni-za-cesko-slovenskou-vzajemnost.A261030_152545_domaci_jira",
+      "published_utc": "2026-10-30T15:16:00Z",
+      "title_en": "Zeman získal cenu za česko-slovenskou vzájemnost. Okamura ocenil i Schustera",
+      "lead_en": "Bývalí prezidenti České republiky a Slovenska Miloš Zeman a Rudolf Schuster se stali prvními laureáty Ceny za česko-slovenskou vzájemnost. Na slavnostním ceremoniálu ve slovenském Martině ji v pátek předali šéf české Poslanecké sněmovny Tomio Okamura a jeho slovenský kolega Richard Raši, kteří se na vzniku ocenění dohodli již dříve v letošním roce.",
+      "title_raw": "Zeman získal cenu za česko-slovenskou vzájemnost. Okamura ocenil i Schustera",
+      "lead_raw": "Bývalí prezidenti České republiky a Slovenska Miloš Zeman a Rudolf Schuster se stali prvními laureáty Ceny za česko-slovenskou vzájemnost. Na slavnostním ceremoniálu ve slovenském Martině ji v pátek předali šéf české Poslanecké sněmovny Tomio Okamura a jeho slovenský kolega Richard Raši, kteří se na vzniku ocenění dohodli již dříve v letošním roce.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "3c71a910e7e3b10db3df793992e14842ae2f61be",
+      "fingerprint": "2868a26e8b410107a2d9c85b96ec1ec568f993af",
+      "source": "iROZHLAS - Economy",
+      "url": "https://www.irozhlas.cz/ekonomika/cez-pristi-rok-zdrazi-elektrinu-i-plyn-dotkne-se-16-milionu-klientu-se-smlouvou_2610301606_med",
+      "published_utc": "2026-10-30T15:06:00Z",
+      "title_en": "ČEZ příští rok zdraží elektřinu i plyn. Dotkne se to 1,6 milionu klientů se smlouvou na dobu neurčitou",
+      "lead_en": "Energetická společnost ČEZ v příštím roce zdraží dodávky energií 1,6 milionu zákazníků se smlouvou na dobu neurčitou. Cenu elektřiny bez fixace oproti letošku zvýší o 3,5 procenta, tedy přibližně o 330 korun s DPH za spotřebovanou megawatthodinu (MWh).",
+      "title_raw": "ČEZ příští rok zdraží elektřinu i plyn. Dotkne se to 1,6 milionu klientů se smlouvou na dobu neurčitou",
+      "lead_raw": "Energetická společnost ČEZ v příštím roce zdraží dodávky energií 1,6 milionu zákazníků se smlouvou na dobu neurčitou. Cenu elektřiny bez fixace oproti letošku zvýší o 3,5 procenta, tedy přibližně o 330 korun s DPH za spotřebovanou megawatthodinu (MWh).",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 4,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "5a7612842f23a7051e34b387989bd394d80a4b45",
+      "fingerprint": "78be6ce17839249fdbe3379868c0bada181d65f1",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-cez-bude-pristi-rok-zdrazovat-40605854",
+      "published_utc": "2026-10-30T15:04:04Z",
+      "title_en": "ČEZ bude zdražovat, pocítí to 1,6 milionu zákazníků",
+      "lead_en": "Energetická společnost ČEZ v příštím roce zdraží 1,6 milionu zákazníků se smlouvou na dobu neurčitou dodávky energií. Cenu elektřiny bez fixace oproti letošku zvýší o 3,5 procenta, tedy přibližně o 330 korun s DPH za spotřebovanou megawatthodinu (MWh).",
+      "title_raw": "ČEZ bude zdražovat, pocítí to 1,6 milionu zákazníků",
+      "lead_raw": "Energetická společnost ČEZ v příštím roce zdraží 1,6 milionu zákazníků se smlouvou na dobu neurčitou dodávky energií. Cenu elektřiny bez fixace oproti letošku zvýší o 3,5 procenta, tedy přibližně o 330 korun s DPH za spotřebovanou megawatthodinu (MWh).",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 3,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "5b76cbec1dcb9162dc5eb185e8d10e4a4f068d3c",
+      "fingerprint": "3df3f65f31e6756eee5994d2b45f86028b1fa0b7",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/cez-pristi-rok-zdrazi-16-milionu-klientu-o-jednotky-procent-elektrinu-a-plyn/2895116",
+      "published_utc": "2026-10-30T15:02:00Z",
+      "title_en": "ČEZ příští rok zdraží 1,6 milionu klientů o jednotky procent elektřinu a plyn",
+      "lead_en": "Praha - Energetická společnost ČEZ v příštím roce zdraží 1,6 milionu zákazníků se smlouvou na dobu neurčitou dodávky energií. Cenu elektřiny bez fixace oproti letošku zvýší o 3,5 procenta, tedy přibližně...",
+      "title_raw": "ČEZ příští rok zdraží 1,6 milionu klientů o jednotky procent elektřinu a plyn",
+      "lead_raw": "Praha - Energetická společnost ČEZ v příštím roce zdraží 1,6 milionu zákazníků se smlouvou na dobu neurčitou dodávky energií. Cenu elektřiny bez fixace oproti letošku zvýší o 3,5 procenta, tedy přibližně...",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 4,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "6007b371adc528f318980d5c2eedadf8ba952de9",
+      "fingerprint": "89148d3619ebf8362957b8f6bb488e6c9ca3994b",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-usakov-letenky-do-sae-si-evropane-koupit-mohou-k-nasim-jednanim-o-ukrajine-zvani-nejsou-40605799",
+      "published_utc": "2026-10-30T14:23:52Z",
+      "title_en": "Ušakov: Letenky do SAE si Evropané koupit mohou, k našim jednáním o Ukrajině zváni nejsou",
+      "lead_en": "Zástupci evropských zemí se nebudou účastnit třístranných jednání USA-Rusko-Ukrajina ohlášených na příští měsíc do Abú Zabí. Uvedl to Jurij Ušakov, poradce ruského prezidenta Vladimira Putina pro mezinárodní záležitosti.",
+      "title_raw": "Ušakov: Letenky do SAE si Evropané koupit mohou, k našim jednáním o Ukrajině zváni nejsou",
+      "lead_raw": "Zástupci evropských zemí se nebudou účastnit třístranných jednání USA-Rusko-Ukrajina ohlášených na příští měsíc do Abú Zabí. Uvedl to Jurij Ušakov, poradce ruského prezidenta Vladimira Putina pro mezinárodní záležitosti.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "f8d352d8d713aba673440c6e85b043b76c311fb4",
+      "fingerprint": "002c70b293e9259787a872dfe37a3874664ea130",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-rusky-hokej-neprijatelne-ukrajinsky-velvyslanec-zverejnil-drsne-snimky-40605825",
+      "published_utc": "2026-10-30T14:10:01Z",
+      "title_en": "Ruský hokej? Nepřijatelné. Ukrajinský velvyslanec zveřejnil drsné snímky",
+      "lead_en": "Ukrajinský velvyslanec v České republice Vasyl Zvaryč zareagoval na rozhodnutí Sportovního arbitrážního soudu (CAS), který v pátek s okamžitou platností umožnil ruským hokejistům návrat do mezinárodních soutěží. Zveřejnil fotky několika ukrajinských zimních stadionů zničených ruskými útoky.",
+      "title_raw": "Ruský hokej? Nepřijatelné. Ukrajinský velvyslanec zveřejnil drsné snímky",
+      "lead_raw": "Ukrajinský velvyslanec v České republice Vasyl Zvaryč zareagoval na rozhodnutí Sportovního arbitrážního soudu (CAS), který v pátek s okamžitou platností umožnil ruským hokejistům návrat do mezinárodních soutěží. Zveřejnil fotky několika ukrajinských zimních stadionů zničených ruskými útoky.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "0f08ece236256fde912cf39c96bbda6d29980acc",
+      "fingerprint": "be46ce836a5908d00657395503496a38d7505fca",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/pavel-se-v-pondeli-zucastni-jednani-vlady-na-programu-bude-armadni-koncepce.A261030_133201_domaci_vank",
+      "published_utc": "2026-10-30T12:44:00Z",
+      "title_en": "Prezident Pavel se zúčastní jednání vlády. Dorazí kvůli nové armádní koncepci",
+      "lead_en": "Prezident Petr Pavel se v pondělí z důvodu projednávání bezpečnostních témat zúčastní jednání vlády. Na webu to v pátek oznámil odbor komunikace prezidentské kanceláře.",
+      "title_raw": "Prezident Pavel se zúčastní jednání vlády. Dorazí kvůli nové armádní koncepci",
+      "lead_raw": "Prezident Petr Pavel se v pondělí z důvodu projednávání bezpečnostních témat zúčastní jednání vlády. Na webu to v pátek oznámil odbor komunikace prezidentské kanceláře.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "2442520f5edc25b87e256566590f580ed17aa93f",
+      "fingerprint": "11fb5e232269e0e28fe621d74c98f2897f06f697",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/vysetrovaci-komise-snemovna-dozimetr-rajchl.A261030_102037_domaci_tty",
+      "published_utc": "2026-10-30T12:39:09Z",
+      "title_en": "Práce nabírá na obrátkách, řekl Rajchl po jednání k Dozimetru. Chystá změnu zákona",
+      "lead_en": "Již popáté se sešla parlamentní vyšetřovací komise ke kauze Dozimetr v čele s Jindřichem Rajchlem (PRO). Ten si jednání pochvaloval, na tiskové konferenci uvedl, že komise jednala se státními zástupci.",
+      "title_raw": "Práce nabírá na obrátkách, řekl Rajchl po jednání k Dozimetru. Chystá změnu zákona",
+      "lead_raw": "Již popáté se sešla parlamentní vyšetřovací komise ke kauze Dozimetr v čele s Jindřichem Rajchlem (PRO). Ten si jednání pochvaloval, na tiskové konferenci uvedl, že komise jednala se státními zástupci.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "847827770011437b33fd9cd148bd3eb0aedfc82e",
+      "fingerprint": "97dde8ed8c97a21706fb5caeec3b58eb831b2f23",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/pavel-se-zucastni-jednani-vlady-na-programu-bude-armadni-koncepce/2895044",
+      "published_utc": "2026-10-30T12:30:00Z",
+      "title_en": "Pavel se zúčastní jednání vlády, na programu bude armádní koncepce",
+      "lead_en": "Praha - Prezident Petr Pavel se v pondělí z důvodu projednávání bezpečnostních témat zúčastní jednání vlády. Na webu to dnes oznámil odbor komunikace prezidentské kanceláře.",
+      "title_raw": "Pavel se zúčastní jednání vlády, na programu bude armádní koncepce",
+      "lead_raw": "Praha - Prezident Petr Pavel se v pondělí z důvodu projednávání bezpečnostních témat zúčastní jednání vlády. Na webu to dnes oznámil odbor komunikace prezidentské kanceláře.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "5803acc38414c2c1f0604642b55ca52500710b54",
+      "fingerprint": "5d230975994c4d05d8ba51bb1c6a878b60c05f82",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/bude-extremne-dlouhe-a-slozite-emoce-stale-neopadly-vztahy-ve-snemovne-jsou-dal_2610301124_jgr",
+      "published_utc": "2026-10-30T10:24:00Z",
+      "title_en": "‚Bude to extrémně dlouhé a složité.‘ Emoce stále neopadly, vztahy ve Sněmovně jsou dál na bodu mrazu",
+      "lead_en": "Ani týden po nečekaném úvodním schvalování novely zákona o změně financování České televize a Českého rozhlasu emoce neopadly. Opozice dál způsob jednání kritizuje, koalice ale stojí za svým, že vše bylo standardní a podle pravidel.",
+      "title_raw": "‚Bude to extrémně dlouhé a složité.‘ Emoce stále neopadly, vztahy ve Sněmovně jsou dál na bodu mrazu",
+      "lead_raw": "Ani týden po nečekaném úvodním schvalování novely zákona o změně financování České televize a Českého rozhlasu emoce neopadly. Opozice dál způsob jednání kritizuje, koalice ale stojí za svým, že vše bylo standardní a podle pravidel.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "8af34cd957aa87c3dfa39ca924f808b0168f42c2",
+      "fingerprint": "e911dd31e352bd237061e8a1ac43728d540ff7a1",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/strasbursky-soud-v-unoru-projedna-stiznost-lichtenstejnska-na-cr-kvuli-majetku/2894951",
+      "published_utc": "2026-10-30T09:59:00Z",
+      "title_en": "Štrasburský soud v únoru projedná stížnost Lichtenštejnska na ČR kvůli majetku",
+      "lead_en": "Praha - Letité snahy šlechtického rodu Lichtenštejnů o navrácení majetku na českém území dospěly do další fáze. Evropský soud pro lidská práva (ESLP) stanovil termín ústního projednání lichtenštejnské...",
+      "title_raw": "Štrasburský soud v únoru projedná stížnost Lichtenštejnska na ČR kvůli majetku",
+      "lead_raw": "Praha - Letité snahy šlechtického rodu Lichtenštejnů o navrácení majetku na českém území dospěly do další fáze. Evropský soud pro lidská práva (ESLP) stanovil termín ústního projednání lichtenštejnské...",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "bff446f5fea2a572aa5f7988d9b63332b4136a83",
+      "fingerprint": "6ae12d1dacc509470c3d743b8496822592802358",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/politici-cekaji-v-izraeli-slozita-jednani-na-vztazich-s-cr-se-nic-nezmeni/2894935",
+      "published_utc": "2026-10-30T09:36:00Z",
+      "title_en": "Politici čekají v Izraeli složitá jednání, na vztazích s ČR se nic nezmění",
+      "lead_en": "Praha - Čeští vládní i opoziční politici očekávají po volbách v Izraeli složitá vyjednávání, rozhodující slovo budou mít arabské strany. Vyplývá to z jejich vyjádření pro ČTK.",
+      "title_raw": "Politici čekají v Izraeli složitá jednání, na vztazích s ČR se nic nezmění",
+      "lead_raw": "Praha - Čeští vládní i opoziční politici očekávají po volbách v Izraeli složitá vyjednávání, rozhodující slovo budou mít arabské strany. Vyplývá to z jejich vyjádření pro ČTK.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "6584511ef76aa9a22399cc4bef51d39d9c23bd27",
+      "fingerprint": "debe9060a4ca78164b0a7c30154786e95746546a",
+      "source": "Radio Prague International (EN)",
+      "url": "https://english.radio.cz/stronger-together-babis-and-magyar-pledge-closer-cooperation-8901344",
+      "published_utc": "2026-10-30T08:12:00Z",
+      "title_en": "“Stronger together”: Babiš and Magyar pledge closer cooperation",
+      "lead_en": "The Czech and Hungarian governments have agreed to strengthen bilateral ties and coordinate more closely on EU affairs, security, energy and transport. At their first joint meeting in Prague on Thursday, Prime Ministers Andrej Babiš and Péter Magyar also backed closer cooperation within the Visegrad Group (V4) and the development of high-speed rail links across Central Europe.",
+      "title_raw": "“Stronger together”: Babiš and Magyar pledge closer cooperation",
+      "lead_raw": "The Czech and Hungarian governments have agreed to strengthen bilateral ties and coordinate more closely on EU affairs, security, energy and transport. At their first joint meeting in Prague on Thursday, Prime Ministers Andrej Babiš and Péter Magyar also backed closer cooperation within the Visegrad Group (V4) and the development of high-speed rail links across Central Europe.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "4f063855f7a38ccddb8294586f0cc4c039ddcd76",
       "fingerprint": "c9f272b78a8694be249aaf337371cc04ab841a4d",
@@ -997,205 +1403,6 @@
       "lead_raw": "Mluvčí ruské diplomacie Marija Zacharovová dnes oznámila účast ministra zahraničí Sergeje Lavrova na jednání skupiny G20, které se bude konat tento týden v pátek a v sobotu v americké Atlantě.",
       "topic_scores": {
         "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "507d404436f4ed2fd905aabd1f30e7aeef6fd536",
-      "fingerprint": "8b0c6c50cd5958792622c0ae35eab284b04271d5",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-lavrov-leti-do-usa-40605371",
-      "published_utc": "2026-10-28T15:44:05Z",
-      "title_en": "Lavrov letí do USA",
-      "lead_en": "Ruský ministr zahraničí Sergej Lavrov se zúčastní setkání šéfů diplomacií zemí skupiny G20 v americké Atlantě. Jeho účast podle agentury Reuters oznámila mluvčí ruské diplomacie Marija Zacharovová.",
-      "title_raw": "Lavrov letí do USA",
-      "lead_raw": "Ruský ministr zahraničí Sergej Lavrov se zúčastní setkání šéfů diplomacií zemí skupiny G20 v americké Atlantě. Jeho účast podle agentury Reuters oznámila mluvčí ruské diplomacie Marija Zacharovová.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "921b3fcc4928901287102c4cc7bcfc6565d49940",
-      "fingerprint": "28ec791956dac7c9732432421dcac80037b085d4",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/izraelske-paralemntni-volby-2026-rozhovor-ruth-wasserman-lande.A261028_111742_zahranicni_rtn",
-      "published_utc": "2026-10-28T15:00:00Z",
-      "title_en": "Sliby stranou. Kloudné řešení patu je Bibi prezidentem, říká izraelská diplomatka",
-      "lead_en": "Sestavit funkční koalici v rozděleném Izraeli bude téměř nemožné, zemi přitom tlačí čas. „Islámská strana Ra’am je postavena mimo zákon ve většině arabských zemí v regionu,“ říká bývalá diplomatka a poradkyně prezidenta Šimona Perese Ruth Wasserman Landeová.",
-      "title_raw": "Sliby stranou. Kloudné řešení patu je Bibi prezidentem, říká izraelská diplomatka",
-      "lead_raw": "Sestavit funkční koalici v rozděleném Izraeli bude téměř nemožné, zemi přitom tlačí čas. „Islámská strana Ra’am je postavena mimo zákon ve většině arabských zemí v regionu,“ říká bývalá diplomatka a poradkyně prezidenta Šimona Perese Ruth Wasserman Landeová.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "ddd54c4eeb5d45216118e9a9fae26d9815b1e5e6",
-      "fingerprint": "8fdc1db75343e2932db50d7d9b678246f964327b",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-pavel-hovoril-se-stubbem-o-jednani-s-putinem-40605356",
-      "published_utc": "2026-10-28T14:51:38Z",
-      "title_en": "Pavel hovořil se Stubbem o jednání s Putinem",
-      "lead_en": "Prezident Petr Pavel ve středu odpoledne telefonicky hovořil se svým finským protějškem Alexanderem Stubbem. Informovala o tom prezidentská kancelář, podle níž spolu oba státníci mluvili o úterním jednání s ruským vůdcem Vladimirem Putinem, se kterým jednal Stubb s norským premiérem Jonasem Gahrem Størem.",
-      "title_raw": "Pavel hovořil se Stubbem o jednání s Putinem",
-      "lead_raw": "Prezident Petr Pavel ve středu odpoledne telefonicky hovořil se svým finským protějškem Alexanderem Stubbem. Informovala o tom prezidentská kancelář, podle níž spolu oba státníci mluvili o úterním jednání s ruským vůdcem Vladimirem Putinem, se kterým jednal Stubb s norským premiérem Jonasem Gahrem Størem.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "87f0dacf9eac820d10d02063685cb63660d52534",
-      "fingerprint": "dfa6eb73d13e54256298ead9318d53e951ea39a4",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/prubeh-jednani-o-poplatcich-byl-neuveritelny-na-akci-muze-vydelat-jen-spd-mini_2610281410_ako",
-      "published_utc": "2026-10-28T13:10:00Z",
-      "title_en": "Průběh jednání o poplatcích byl neuvěřitelný, na akci může vydělat jen SPD, míní šéfredaktor deníku Právo",
-      "lead_en": "„Andrej Babiš (ANO) si vyložil neslavný výsledek voleb tak, že je to reakce na jednání vlády, která nestíhá plnit některé věci. Takže asi šlápli na plyn,” vysvětluje snahu o rychlou změnu systému financování médií veřejné služby šéfredaktor deníku Právo a komentátor Petr Šabata.",
-      "title_raw": "Průběh jednání o poplatcích byl neuvěřitelný, na akci může vydělat jen SPD, míní šéfredaktor deníku Právo",
-      "lead_raw": "„Andrej Babiš (ANO) si vyložil neslavný výsledek voleb tak, že je to reakce na jednání vlády, která nestíhá plnit některé věci. Takže asi šlápli na plyn,” vysvětluje snahu o rychlou změnu systému financování médií veřejné služby šéfredaktor deníku Právo a komentátor Petr Šabata.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "0dfc26a5aba9cb1d1e7d51246cae5fba30545468",
-      "fingerprint": "5bc38f3d1b688ce46c26ca515e2a9dd84a11f609",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/stan-se-ve-zline-vzda-jednoho-mandatu-v-rade-chce-odblokovat-pat-v-jednani/2887544",
-      "published_utc": "2026-10-28T12:28:00Z",
-      "title_en": "STAN se ve Zlíně vzdá jednoho mandátu v radě, chce odblokovat pat v jednání",
-      "lead_en": "Zlín - Hnutí STAN ve Zlíně je ochotné se vzdát jednoho mandátu v radě města, chce tím odblokovat koaliční vyjednávání. V jedenáctičlenné radě města by tak podle návrhu STAN měli Starostové tři mandáty,...",
-      "title_raw": "STAN se ve Zlíně vzdá jednoho mandátu v radě, chce odblokovat pat v jednání",
-      "lead_raw": "Zlín - Hnutí STAN ve Zlíně je ochotné se vzdát jednoho mandátu v radě města, chce tím odblokovat koaliční vyjednávání. V jedenáctičlenné radě města by tak podle návrhu STAN měli Starostové tři mandáty,...",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "41f100099704651b69b9b73da7b425b93db4ea09",
-      "fingerprint": "e89650e2486a464f68a73e605d37abf4d0646559",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/volby/zlin/komunalni-volby-2026-zlin-koalice-vera-stojar-stan-cestmir-vancura-zlin-21-ales-dufek-spolecne-pro-z.A261028_122702_zlin-volby_stoj",
-      "published_utc": "2026-10-28T11:27:00Z",
-      "title_en": "Jednání koalici ve Zlíně se posunula dál, primátora by mohli mít Starostové",
-      "lead_en": "Povolební vyjednávání o nové koalici ve Zlíně se pohnula kupředu. Podařilo se odblokovat patovou situaci z neděle, kdy hnutí STAN a Zlín 21 přišla na jednání s požadavkem, že chtějí mít v jedenáctičlenné městské radě sedm křesel.",
-      "title_raw": "Jednání koalici ve Zlíně se posunula dál, primátora by mohli mít Starostové",
-      "lead_raw": "Povolební vyjednávání o nové koalici ve Zlíně se pohnula kupředu. Podařilo se odblokovat patovou situaci z neděle, kdy hnutí STAN a Zlín 21 přišla na jednání s požadavkem, že chtějí mít v jedenáctičlenné městské radě sedm křesel.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "bddfa8a9f2683080843249741386b0fbddf13794",
-      "fingerprint": "3341ef3fb343a0c2f5af76d33fad0b0bbf92750b",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/stan-ve-zline-ustupuje-koalicnim-partnerum-vzda-se-jednoho-mandatu-ve-prospech_2610281220_bod",
-      "published_utc": "2026-10-28T11:20:00Z",
-      "title_en": "STAN ve Zlíně ustupuje koaličním partnerům. Vzdá se jednoho mandátu ve prospěch trojbloku, navrhuje",
-      "lead_en": "Hnutí STAN ve Zlíně je ochotné se vzdát jednoho mandátu v radě města, chce tím odblokovat koaliční vyjednávání. V jedenáctičlenné radě města by tak podle návrhu STAN měli Starostové tři mandáty, trojblok ODS, Společně pro Zlín a Zlín Srdcem a Piráti pět mandátů a hnutí Zlín 21 tři mandáty.",
-      "title_raw": "STAN ve Zlíně ustupuje koaličním partnerům. Vzdá se jednoho mandátu ve prospěch trojbloku, navrhuje",
-      "lead_raw": "Hnutí STAN ve Zlíně je ochotné se vzdát jednoho mandátu v radě města, chce tím odblokovat koaliční vyjednávání. V jedenáctičlenné radě města by tak podle návrhu STAN měli Starostové tři mandáty, trojblok ODS, Společně pro Zlín a Zlín Srdcem a Piráti pět mandátů a hnutí Zlín 21 tři mandáty.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "ee0534551478daef473e3f5d20b8ae6576766e42",
-      "fingerprint": "abc00efcb929a24a1f000969bb71c22acf6dbbc8",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/volby/olomouc/prostejov-ano-primatorka-sokolova-ods-na-rovinu-jilkova-komunalni-volby.A261028_113801_olomouc-volby_mikp",
-      "published_utc": "2026-10-28T10:54:00Z",
-      "title_en": "Sokolová dostala nabídku na primátorku. V Prostějově se rýsuje konec vlády ANO",
-      "lead_en": "Povolební vyjednávání v Prostějově nabralo zásadní obrat. Prostějovští demokraté (ODS a nezávislí kandidáti) ukončili rozhovory s hnutím ANO dosavadního primátora Františka Jury a rozhodli se jednat výhradně s vítězným uskupením Na rovinu!",
-      "title_raw": "Sokolová dostala nabídku na primátorku. V Prostějově se rýsuje konec vlády ANO",
-      "lead_raw": "Povolební vyjednávání v Prostějově nabralo zásadní obrat. Prostějovští demokraté (ODS a nezávislí kandidáti) ukončili rozhovory s hnutím ANO dosavadního primátora Františka Jury a rozhodli se jednat výhradně s vítězným uskupením Na rovinu!",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "28b9d109f2337191f67b46a26a7a8b6d9ef8060c",
-      "fingerprint": "53d88a361ac8cf42aebab297b3fd076dc2f952f5",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-tohle-je-amerika-trumpuv-muz-se-v-osn-prekrikoval-s-kubanskym-ministrem-318968",
-      "published_utc": "2026-10-28T09:13:37Z",
-      "title_en": "„Tohle je Amerika!“ Trumpův muž se v OSN překřikoval s kubánským ministrem",
-      "lead_en": "K hlasité výměně názorů došlo během projevu amerického velvyslance při OSN Mikea Waltze. Roztržku vyvolalo obvinění, že havanská vláda profituje z nucených prací svých občanů.",
-      "title_raw": "„Tohle je Amerika!“ Trumpův muž se v OSN překřikoval s kubánským ministrem",
-      "lead_raw": "K hlasité výměně názorů došlo během projevu amerického velvyslance při OSN Mikea Waltze. Roztržku vyvolalo obvinění, že havanská vláda profituje z nucených prací svých občanů.",
-      "topic_scores": {
-        "diplomacy": 1,
         "military": 0,
         "energy": 0,
         "economy": 0,

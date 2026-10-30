@@ -1,10 +1,55 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-30T09:09:32Z",
+  "updated_at_utc": "2026-10-30T16:19:02Z",
   "topic": "economy",
-  "count": 33,
+  "count": 31,
   "articles": [
+    {
+      "id": "8eb9d53ca1758fdffdd392500d71a1c1b398f444",
+      "fingerprint": "19731d53eecc1183ed65797c53482143b1d43bad",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/ropa-brent-je-nad-117-usd-trh-se-obava-eskalace-konfliktu-na-blizkem-vychode/2895144",
+      "published_utc": "2026-10-30T16:16:00Z",
+      "title_en": "Ropa Brent je nad 117 USD, trh se obává eskalace konfliktu na Blízkém východě",
+      "lead_en": "Londýn/New York - Ceny ropy se dnes zvyšují, obchodníci se připravují na možnou eskalaci konfliktu na Blízkém východě po kongresových volbách ve Spojených státech. Severomořská ropa Brent si krátce před...",
+      "title_raw": "Ropa Brent je nad 117 USD, trh se obává eskalace konfliktu na Blízkém východě",
+      "lead_raw": "Londýn/New York - Ceny ropy se dnes zvyšují, obchodníci se připravují na možnou eskalaci konfliktu na Blízkém východě po kongresových volbách ve Spojených státech. Severomořská ropa Brent si krátce před...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "5fce6779e475bc7d64496d13eea0a8eb8b706296",
+      "fingerprint": "fe1ee20bdee321b2dfaf8486341eef8dbf222267",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/rust-ekonomiky-eu-ve-3-ctvrtleti-zpomalil-na-05-procenta-odhadl-eurostat/2894961",
+      "published_utc": "2026-10-30T10:13:00Z",
+      "title_en": "Růst ekonomiky EU ve 3. čtvrtletí zpomalil na 0,5 procenta, odhadl Eurostat",
+      "lead_en": "Brusel - Hrubý domácí produkt (HDP) Evropské unie se ve třetím čtvrtletí zvýšil o 0,5 procenta oproti předchozím třem měsícům. Hospodářský růst tak zpomalil z 0,7 procenta ve druhém čtvrtletí.",
+      "title_raw": "Růst ekonomiky EU ve 3. čtvrtletí zpomalil na 0,5 procenta, odhadl Eurostat",
+      "lead_raw": "Brusel - Hrubý domácí produkt (HDP) Evropské unie se ve třetím čtvrtletí zvýšil o 0,5 procenta oproti předchozím třem měsícům. Hospodářský růst tak zpomalil z 0,7 procenta ve druhém čtvrtletí.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "ddda8513390bbfaf3a8f2ccf5bffc7c6dee7e018",
       "fingerprint": "1ff02013ca1b8d257e516ecdd7381982affa84f9",
@@ -641,95 +686,6 @@
         "military": 0,
         "energy": 0,
         "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "d86d1ade451fe1a6b537ea15df0b3d0e00e61ca5",
-      "fingerprint": "52da5d86e3870b92b5b9e87cd41ad41a9df3e342",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/cena-plynu-v-evrope-poprve-od-prosince-2022-kratce-prekrocila-100-eur/2890524",
-      "published_utc": "2026-10-28T14:08:00Z",
-      "title_en": "Cena plynu v Evropě poprvé od prosince 2022 krátce překročila 100 eur",
-      "lead_en": "Amsterodam - Velkoobchodní cena zemního plynu pro evropský trh se dnes poprvé od prosince 2022 krátce dostala na úroveň 100 eur za megawatthodinu (MWh). Po 14:35 SEČ potom termínový kontrakt s dodáním...",
-      "title_raw": "Cena plynu v Evropě poprvé od prosince 2022 krátce překročila 100 eur",
-      "lead_raw": "Amsterodam - Velkoobchodní cena zemního plynu pro evropský trh se dnes poprvé od prosince 2022 krátce dostala na úroveň 100 eur za megawatthodinu (MWh). Po 14:35 SEČ potom termínový kontrakt s dodáním...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "fd50fc49e40bd7fce8f8b766e3da1fa308138e12",
-      "fingerprint": "2ec8241469eb656d889454cd2fbe6710f359e43b",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/investice-trhy-a-finance-fed-vyckava-inflace-nikoli-dalsi-zvyseni-sazeb-muze-prijit-v-prosinci-318965",
-      "published_utc": "2026-10-28T11:00:00Z",
-      "title_en": "Fed vyčkává, inflace nikoli. Další zvýšení sazeb může přijít v prosinci",
-      "lead_en": "Americká centrální banka ve středu pravděpodobně ponechá sazby na současné úrovni. Kvůli přetrvávající inflaci ale investoři očekávají, že Fed může na příštím zasedání v prosinci měnovou politiku znovu zpřísnit.",
-      "title_raw": "Fed vyčkává, inflace nikoli. Další zvýšení sazeb může přijít v prosinci",
-      "lead_raw": "Americká centrální banka ve středu pravděpodobně ponechá sazby na současné úrovni. Kvůli přetrvávající inflaci ale investoři očekávají, že Fed může na příštím zasedání v prosinci měnovou politiku znovu zpřísnit.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "4473fd228bccb2087bf1121ba442839582e4548d",
-      "fingerprint": "d4c97c8f34849f4384b39f85970b79e68f64d590",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-ocima-byznysu-ocima-byznysu-jak-vysoky-ma-byt-deficit-rozpoctu-mame-prece-zlate-pravidlo-318751",
-      "published_utc": "2026-10-28T09:43:03Z",
-      "title_en": "Jak vysoký má být deficit rozpočtu? Máme přece Zlaté pravidlo",
-      "lead_en": "Může se zdát, že na určení správné výše deficitu státního rozpočtu správná rada neexistuje. Ale „zlaté pravidlo“ už známe, potřebuje však dobrou domácí přípravu, píše v komentáři ekonom České spořitelny Michal Skořepa.",
-      "title_raw": "Jak vysoký má být deficit rozpočtu? Máme přece Zlaté pravidlo",
-      "lead_raw": "Může se zdát, že na určení správné výše deficitu státního rozpočtu správná rada neexistuje. Ale „zlaté pravidlo“ už známe, potřebuje však dobrou domácí přípravu, píše v komentáři ekonom České spořitelny Michal Skořepa.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "129a0163ceb6be2ba7dd434ff28b55226265739a",
-      "fingerprint": "dde9ba4e0ed2c6906de9ae81c87f7b73fdfa5fee",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-vyrobce-cipu-sk-hynix-zesedminasobil-zisk-40605343",
-      "published_utc": "2026-10-28T09:30:03Z",
-      "title_en": "Výrobce čipů SK Hynix zesedminásobil zisk",
-      "lead_en": "Jihokorejský výrobce čipů SK Hynix meziročně více než zesedminásobil zisk na rekordních 83,3 bilionu wonů (1,4 bilionu korun). Dál těží z poptávky po umělé inteligenci (AI), která zvyšuje ceny paměťových čipů.",
-      "title_raw": "Výrobce čipů SK Hynix zesedminásobil zisk",
-      "lead_raw": "Jihokorejský výrobce čipů SK Hynix meziročně více než zesedminásobil zisk na rekordních 83,3 bilionu wonů (1,4 bilionu korun). Dál těží z poptávky po umělé inteligenci (AI), která zvyšuje ceny paměťových čipů.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
         "local_events": 0
       },
       "topics": [

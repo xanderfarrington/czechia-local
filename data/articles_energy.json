@@ -1,10 +1,569 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-30T09:09:32Z",
+  "updated_at_utc": "2026-10-30T16:19:02Z",
   "topic": "energy",
-  "count": 48,
+  "count": 66,
   "articles": [
+    {
+      "id": "8eb9d53ca1758fdffdd392500d71a1c1b398f444",
+      "fingerprint": "19731d53eecc1183ed65797c53482143b1d43bad",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/ropa-brent-je-nad-117-usd-trh-se-obava-eskalace-konfliktu-na-blizkem-vychode/2895144",
+      "published_utc": "2026-10-30T16:16:00Z",
+      "title_en": "Ropa Brent je nad 117 USD, trh se obává eskalace konfliktu na Blízkém východě",
+      "lead_en": "Londýn/New York - Ceny ropy se dnes zvyšují, obchodníci se připravují na možnou eskalaci konfliktu na Blízkém východě po kongresových volbách ve Spojených státech. Severomořská ropa Brent si krátce před...",
+      "title_raw": "Ropa Brent je nad 117 USD, trh se obává eskalace konfliktu na Blízkém východě",
+      "lead_raw": "Londýn/New York - Ceny ropy se dnes zvyšují, obchodníci se připravují na možnou eskalaci konfliktu na Blízkém východě po kongresových volbách ve Spojených státech. Severomořská ropa Brent si krátce před...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "6fa85d87109da194f5c192e866add3375aa17704",
+      "fingerprint": "961f397adfe32161d5026883329de7e1e1ce271c",
+      "source": "iROZHLAS - Economy",
+      "url": "https://www.irozhlas.cz/ekonomika/doosan-ujistil-korejskou-burzu-ze-se-spor-kolem-smlouvy-khnp-na-stavbu-dukovan_2610301648_jaf",
+      "published_utc": "2026-10-30T15:48:00Z",
+      "title_en": "Spor o stavbu Dukovan se nás netýká, ujišťuje Doosan Energy. Dodávky jaderné technologie pokračují",
+      "lead_en": "Korejská společnost Doosan Energy ze skupiny Doosan Enerbility, která má být hlavním dodavatelem jaderné technologie pro dva nové bloky elektrárny Dukovany, ve čtvrtek informovala korejskou burzu, že ukončení jednání o stavební části projektu neovlivní její technologické dodávky. Reagovala tak na oznámení společnosti KHNP, která ukončila jednání s konsorciem firem Daewoo Engineering & Construction a Doosan Enerbility o stavební části zakázky.",
+      "title_raw": "Spor o stavbu Dukovan se nás netýká, ujišťuje Doosan Energy. Dodávky jaderné technologie pokračují",
+      "lead_raw": "Korejská společnost Doosan Energy ze skupiny Doosan Enerbility, která má být hlavním dodavatelem jaderné technologie pro dva nové bloky elektrárny Dukovany, ve čtvrtek informovala korejskou burzu, že ukončení jednání o stavební části projektu neovlivní její technologické dodávky. Reagovala tak na oznámení společnosti KHNP, která ukončila jednání s konsorciem firem Daewoo Engineering & Construction a Doosan Enerbility o stavební části zakázky.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 4,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "136ecba49b75a28150dde6079fb96844ae2d2c47",
+      "fingerprint": "cd8d301f66601e1bbc571a12beca88eea550fa6b",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/kultura-filmy-serialy-hororova-tyna-za-desivym-fantomem-opery-hledejte-tragicke-incidenty-v-parizi-40605513",
+      "published_utc": "2026-10-30T15:44:00Z",
+      "title_en": "Hororová Týna: Za děsivým Fantomem opery hledejte tragické incidenty v Paříži",
+      "lead_en": "Zohyzděný obličej má zpola zahalený maskou a straší v útrobách divadla. Gotický horor Fantom opery z pera Gastona Lerouxe z roku 1910 se dočkal spousty jevištních, televizních i filmových zpracování.",
+      "title_raw": "Hororová Týna: Za děsivým Fantomem opery hledejte tragické incidenty v Paříži",
+      "lead_raw": "Zohyzděný obličej má zpola zahalený maskou a straší v útrobách divadla. Gotický horor Fantom opery z pera Gastona Lerouxe z roku 1910 se dočkal spousty jevištních, televizních i filmových zpracování.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "6c99ecc18c715ff05ae4e2d28a6bf33584f23058",
+      "fingerprint": "081ba62dcbd8479b2ecf07f76430ac8d8fcb3442",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/cez-zdrazi-od-noveho-roku-elektrinu-i-plyn-379154",
+      "published_utc": "2026-10-30T15:28:41Z",
+      "title_en": "ČEZ zdraží od nového roku elektřinu i plyn",
+      "lead_en": "Energetická společnost ČEZ v&nbsp;příštím roce zdraží 1,6 milionu zákazníků se smlouvou na dobu neurčitou dodávky elektřiny i&nbsp;plynu. Nové ceny začnou platit od začátku příštího roku.",
+      "title_raw": "ČEZ zdraží od nového roku elektřinu i plyn",
+      "lead_raw": "Energetická společnost ČEZ v&nbsp;příštím roce zdraží 1,6 milionu zákazníků se smlouvou na dobu neurčitou dodávky elektřiny i&nbsp;plynu. Nové ceny začnou platit od začátku příštího roku.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 4,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "3c71a910e7e3b10db3df793992e14842ae2f61be",
+      "fingerprint": "2868a26e8b410107a2d9c85b96ec1ec568f993af",
+      "source": "iROZHLAS - Economy",
+      "url": "https://www.irozhlas.cz/ekonomika/cez-pristi-rok-zdrazi-elektrinu-i-plyn-dotkne-se-16-milionu-klientu-se-smlouvou_2610301606_med",
+      "published_utc": "2026-10-30T15:06:00Z",
+      "title_en": "ČEZ příští rok zdraží elektřinu i plyn. Dotkne se to 1,6 milionu klientů se smlouvou na dobu neurčitou",
+      "lead_en": "Energetická společnost ČEZ v příštím roce zdraží dodávky energií 1,6 milionu zákazníků se smlouvou na dobu neurčitou. Cenu elektřiny bez fixace oproti letošku zvýší o 3,5 procenta, tedy přibližně o 330 korun s DPH za spotřebovanou megawatthodinu (MWh).",
+      "title_raw": "ČEZ příští rok zdraží elektřinu i plyn. Dotkne se to 1,6 milionu klientů se smlouvou na dobu neurčitou",
+      "lead_raw": "Energetická společnost ČEZ v příštím roce zdraží dodávky energií 1,6 milionu zákazníků se smlouvou na dobu neurčitou. Cenu elektřiny bez fixace oproti letošku zvýší o 3,5 procenta, tedy přibližně o 330 korun s DPH za spotřebovanou megawatthodinu (MWh).",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 4,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "5a7612842f23a7051e34b387989bd394d80a4b45",
+      "fingerprint": "78be6ce17839249fdbe3379868c0bada181d65f1",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-cez-bude-pristi-rok-zdrazovat-40605854",
+      "published_utc": "2026-10-30T15:04:04Z",
+      "title_en": "ČEZ bude zdražovat, pocítí to 1,6 milionu zákazníků",
+      "lead_en": "Energetická společnost ČEZ v příštím roce zdraží 1,6 milionu zákazníků se smlouvou na dobu neurčitou dodávky energií. Cenu elektřiny bez fixace oproti letošku zvýší o 3,5 procenta, tedy přibližně o 330 korun s DPH za spotřebovanou megawatthodinu (MWh).",
+      "title_raw": "ČEZ bude zdražovat, pocítí to 1,6 milionu zákazníků",
+      "lead_raw": "Energetická společnost ČEZ v příštím roce zdraží 1,6 milionu zákazníků se smlouvou na dobu neurčitou dodávky energií. Cenu elektřiny bez fixace oproti letošku zvýší o 3,5 procenta, tedy přibližně o 330 korun s DPH za spotřebovanou megawatthodinu (MWh).",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 3,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "5b76cbec1dcb9162dc5eb185e8d10e4a4f068d3c",
+      "fingerprint": "3df3f65f31e6756eee5994d2b45f86028b1fa0b7",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/cez-pristi-rok-zdrazi-16-milionu-klientu-o-jednotky-procent-elektrinu-a-plyn/2895116",
+      "published_utc": "2026-10-30T15:02:00Z",
+      "title_en": "ČEZ příští rok zdraží 1,6 milionu klientů o jednotky procent elektřinu a plyn",
+      "lead_en": "Praha - Energetická společnost ČEZ v příštím roce zdraží 1,6 milionu zákazníků se smlouvou na dobu neurčitou dodávky energií. Cenu elektřiny bez fixace oproti letošku zvýší o 3,5 procenta, tedy přibližně...",
+      "title_raw": "ČEZ příští rok zdraží 1,6 milionu klientů o jednotky procent elektřinu a plyn",
+      "lead_raw": "Praha - Energetická společnost ČEZ v příštím roce zdraží 1,6 milionu zákazníků se smlouvou na dobu neurčitou dodávky energií. Cenu elektřiny bez fixace oproti letošku zvýší o 3,5 procenta, tedy přibližně...",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 4,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "10350778fc27c3fd27af8d318c10ff4dfe7bcd24",
+      "fingerprint": "b824bee7c873eade3aa8d8575d454a19341b7388",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/karlovy-vary/zpravy/policie-vybrzdovani-pripad-znovuotevreni-sokolov.A261030_151803_vary-zpravy_pkz",
+      "published_utc": "2026-10-30T15:02:00Z",
+      "title_en": "Agresor na D6 zřejmě neútočil poprvé. I při starším incidentu byly v autě děti",
+      "lead_en": "Třiačtyřicetiletý muž, který před několika dny na D6 u Jesenice na Rakovnicku vybrzdil a poté brutálně napadl řidičku před zraky její malé dcery, se zřejmě obdobného skutku dopustil už v minulosti. Policisté v uplynulých dnech znovu otevřeli případ z října roku 2022, který se odehrál také na D6, tentokrát poblíž Sokolova.",
+      "title_raw": "Agresor na D6 zřejmě neútočil poprvé. I při starším incidentu byly v autě děti",
+      "lead_raw": "Třiačtyřicetiletý muž, který před několika dny na D6 u Jesenice na Rakovnicku vybrzdil a poté brutálně napadl řidičku před zraky její malé dcery, se zřejmě obdobného skutku dopustil už v minulosti. Policisté v uplynulých dnech znovu otevřeli případ z října roku 2022, který se odehrál také na D6, tentokrát poblíž Sokolova.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "09c830746d8c82334f120a63428c5a4fd7b6344d",
+      "fingerprint": "5bba4a0d11bf2ffd25a8c878ec3a376185bf68f7",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/domaci/cez-od-ledna-zdrazuje-energie-pro-zakazniky-bez-fixace-dalsi-budou-nasledovat.A261030_105749_ekonomika_hyk",
+      "published_utc": "2026-10-30T15:00:00Z",
+      "title_en": "ČEZ od ledna zdražuje energie pro zákazníky bez fixace, další budou následovat",
+      "lead_en": "Dodavatelé energií přestali věřit v brzké uklidnění konfliktu na Blízkém východě, kvůli němuž prudce vzrostly ceny komodit na burze. Zákazníci bez fixace si tak brzy začnou připlácet, zdražení od ledna oznámila už Skupina ČEZ.",
+      "title_raw": "ČEZ od ledna zdražuje energie pro zákazníky bez fixace, další budou následovat",
+      "lead_raw": "Dodavatelé energií přestali věřit v brzké uklidnění konfliktu na Blízkém východě, kvůli němuž prudce vzrostly ceny komodit na burze. Zákazníci bez fixace si tak brzy začnou připlácet, zdražení od ledna oznámila už Skupina ČEZ.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e14834cc5bf42918709fc543a4247da8935b9eca",
+      "fingerprint": "8393547536884c1c7b270cc87e4b4579410b5423",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-akcie-fondy-ceske-starteepo-vsadilo-na-xerox-akcie-vyrobce-tiskaren-se-ale-propadaji-319193",
+      "published_utc": "2026-10-30T14:50:00Z",
+      "title_en": "České Starteepo vsadilo na Xerox. Akcie výrobce tiskáren se ale propadají",
+      "lead_en": "Xerox zažil jeden z nejprudších burzovních propadů posledních let. Akcie ve čtvrtek ztratily přes 40 procent a klesaly i v pátek.",
+      "title_raw": "České Starteepo vsadilo na Xerox. Akcie výrobce tiskáren se ale propadají",
+      "lead_raw": "Xerox zažil jeden z nejprudších burzovních propadů posledních let. Akcie ve čtvrtek ztratily přes 40 procent a klesaly i v pátek.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "6007b371adc528f318980d5c2eedadf8ba952de9",
+      "fingerprint": "89148d3619ebf8362957b8f6bb488e6c9ca3994b",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-usakov-letenky-do-sae-si-evropane-koupit-mohou-k-nasim-jednanim-o-ukrajine-zvani-nejsou-40605799",
+      "published_utc": "2026-10-30T14:23:52Z",
+      "title_en": "Ušakov: Letenky do SAE si Evropané koupit mohou, k našim jednáním o Ukrajině zváni nejsou",
+      "lead_en": "Zástupci evropských zemí se nebudou účastnit třístranných jednání USA-Rusko-Ukrajina ohlášených na příští měsíc do Abú Zabí. Uvedl to Jurij Ušakov, poradce ruského prezidenta Vladimira Putina pro mezinárodní záležitosti.",
+      "title_raw": "Ušakov: Letenky do SAE si Evropané koupit mohou, k našim jednáním o Ukrajině zváni nejsou",
+      "lead_raw": "Zástupci evropských zemí se nebudou účastnit třístranných jednání USA-Rusko-Ukrajina ohlášených na příští měsíc do Abú Zabí. Uvedl to Jurij Ušakov, poradce ruského prezidenta Vladimira Putina pro mezinárodní záležitosti.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "a91c1f391ee012d3ec61087b1fc00e28c950b66f",
+      "fingerprint": "90be0674a342cde6d916d82701db171e7d11b885",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/eralpova-nemecko-berlin-der-spiegel-islamiste-hamas-palestina.A261030_143156_zahranicni_jhr",
+      "published_utc": "2026-10-30T14:21:00Z",
+      "title_en": "Kandidátka na starostku Berlína omylem přiznala strach mluvit o zastáncích Hamásu",
+      "lead_en": "Kandidátka německé Levice na primátorku Berlína Elif Eralpová se dostala pod palbu kritiky za svůj rozhovor s týdeníkem Der Spiegel. Nechtěně totiž přiznala, že ona a její manžel mají značný strach z propalestinských extremistů.",
+      "title_raw": "Kandidátka na starostku Berlína omylem přiznala strach mluvit o zastáncích Hamásu",
+      "lead_raw": "Kandidátka německé Levice na primátorku Berlína Elif Eralpová se dostala pod palbu kritiky za svůj rozhovor s týdeníkem Der Spiegel. Nechtěně totiž přiznala, že ona a její manžel mají značný strach z propalestinských extremistů.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "52e8507b0198b7e9973ee0e106091989e9f09b36",
+      "fingerprint": "7b8eb72c51c110ba966db6f00f0fbcfe05774e42",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-valka-zdrazila-paliva-exxon-a-chevron-kvuli-tomu-vyrazne-navysily-zisky-40605806",
+      "published_utc": "2026-10-30T14:10:02Z",
+      "title_en": "Válka zdražila paliva, Exxon a Chevron kvůli tomu výrazně navýšily zisky",
+      "lead_en": "Americké ropné koncerny ExxonMobil a Chevron v letošních prvních třech čtvrtletích prudce zvýšily zisky. Firmy těží z růstu cen pohonných hmot, který je důsledkem americko-izraelské války s Íránem a války mezi Ruskem a Ukrajinou, píše agentura Reuters.",
+      "title_raw": "Válka zdražila paliva, Exxon a Chevron kvůli tomu výrazně navýšily zisky",
+      "lead_raw": "Americké ropné koncerny ExxonMobil a Chevron v letošních prvních třech čtvrtletích prudce zvýšily zisky. Firmy těží z růstu cen pohonných hmot, který je důsledkem americko-izraelské války s Íránem a války mezi Ruskem a Ukrajinou, píše agentura Reuters.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "475571d70fd4de74e3e2654dc43d2029d528fc13",
+      "fingerprint": "fe0974a9da3b39904ef809728e0d20a4c64c3dba",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-i-uklizecka-musi-mit-proverku-jak-se-do-temelina-vraci-americke-palivo-319179",
+      "published_utc": "2026-10-30T13:31:59Z",
+      "title_en": "Nejstřeženější místo v Temelíně. Sem se dostane jen pár vyvolených",
+      "lead_en": "První temelínský blok je uprostřed důležité odstávky. Dostane totiž první palivové soubory od americké společnosti Westinghouse.",
+      "title_raw": "Nejstřeženější místo v Temelíně. Sem se dostane jen pár vyvolených",
+      "lead_raw": "První temelínský blok je uprostřed důležité odstávky. Dostane totiž první palivové soubory od americké společnosti Westinghouse.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "3a06941197011a05e51bf3d319915aff794a5d9d",
+      "fingerprint": "f3080405cdc3b41140e771f6d3358ce422bb6dda",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ceske-budejovice/zpravy/temelin-schillerova-benes-cez-jaderna-elektrarna-palivo.A261030_130143_budejovice-zpravy_jakj",
+      "published_utc": "2026-10-30T13:27:00Z",
+      "title_en": "Ruské palivo v Temelíně končí, nové od Westinghouse přispěje k navýšení výroby",
+      "lead_en": "Aktuální plánovaná odstávka prvního bloku temelínské jaderné elektrárny má mimořádný význam. Technici při ní totiž začnou do reaktoru zavážet nové palivo od americké společnosti Westinghouse.",
+      "title_raw": "Ruské palivo v Temelíně končí, nové od Westinghouse přispěje k navýšení výroby",
+      "lead_raw": "Aktuální plánovaná odstávka prvního bloku temelínské jaderné elektrárny má mimořádný význam. Technici při ní totiž začnou do reaktoru zavážet nové palivo od americké společnosti Westinghouse.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 4,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "9e6995678f220a0b5aaefc47ae907f2de851eb2b",
+      "fingerprint": "a03e5a87c6c795c08a363fadc8a5fbf8470fa44a",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-dukovany-odpoji-od-site-treti-blok-kvuli-oprave-netesnosti-jedne-z-armatur-319181",
+      "published_utc": "2026-10-30T12:45:54Z",
+      "title_en": "Dukovany odpojí od sítě třetí blok kvůli opravě netěsnosti jedné z armatur",
+      "lead_en": "Dukovany neplánovaně odstaví třetí blok. Důvodem je netěsnost jedné z armatur.",
+      "title_raw": "Dukovany odpojí od sítě třetí blok kvůli opravě netěsnosti jedné z armatur",
+      "lead_raw": "Dukovany neplánovaně odstaví třetí blok. Důvodem je netěsnost jedné z armatur.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "b1f7fa132fc56cfcf05ebc5ca6274affbc78e358",
+      "fingerprint": "8c3d27f76563619d61e979973b4df76e382927c5",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/v-ukrajinskych-oleskach-evakuuji-obyvatele-379149",
+      "published_utc": "2026-10-30T12:43:06Z",
+      "title_en": "Z ukrajinských Olešek evakuovali obyvatele",
+      "lead_en": "V&nbsp;ukrajinském městě Olešky, které je obsazené ruskou armádou, v&nbsp;pátek dopoledne evakuovali obyvatele, vyplynulo z&nbsp;prohlášení ukrajinských a&nbsp;ruských činitelů. Do frontového města se společně vypravili ombudsmani Ukrajiny a&nbsp;Ruska&nbsp;– Dmytro Lubinec a&nbsp;Jana Lantratovová.",
+      "title_raw": "Z ukrajinských Olešek evakuovali obyvatele",
+      "lead_raw": "V&nbsp;ukrajinském městě Olešky, které je obsazené ruskou armádou, v&nbsp;pátek dopoledne evakuovali obyvatele, vyplynulo z&nbsp;prohlášení ukrajinských a&nbsp;ruských činitelů. Do frontového města se společně vypravili ombudsmani Ukrajiny a&nbsp;Ruska&nbsp;– Dmytro Lubinec a&nbsp;Jana Lantratovová.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "edba927c4e877ad5cc3dedd373c3e4f5b797b49f",
+      "fingerprint": "b313e56058b880e3b96ab564c1c69ca505794b37",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/nazory-komentare-nejvlivnejsi-cech-kazdym-coulem-evropan-jeho-jmeno-presto-neuhodnete-319121",
+      "published_utc": "2026-10-30T12:40:00Z",
+      "title_en": "Nejvlivnější Čech, každým coulem Evropan. Jeho jméno neuhodnete",
+      "lead_en": "V učebnicích dějepisu jsme zvyklí číst o otcích vlasti, stavitelích chrámů, hrdlořezech a těch, kteří se jim postavili. Málokdy ale zaznamenáme mimořádného člověka, který byl součástí „malých dějin“.",
+      "title_raw": "Nejvlivnější Čech, každým coulem Evropan. Jeho jméno neuhodnete",
+      "lead_raw": "V učebnicích dějepisu jsme zvyklí číst o otcích vlasti, stavitelích chrámů, hrdlořezech a těch, kteří se jim postavili. Málokdy ale zaznamenáme mimořádného člověka, který byl součástí „malých dějin“.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "8e1b54a554f9a75671f76d7a4766ea519eb99d5b",
+      "fingerprint": "62d6897b8703d34da00632c1225faee6f7078002",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/magazin-jidlo-liberec-chutna-cim-dal-lepe-ma-chleba-z-cerne-psenice-i-moderni-ceskou-hospodu-317841",
+      "published_utc": "2026-10-30T12:00:00Z",
+      "title_en": "Liberec chutná čím dál lépe. Má chleba z černé pšenice i moderní českou hospodu",
+      "lead_en": "Rodinná pražírna, malé řemeslné pekárny i restaurace, kam se chodí za poctivou kuchyní. Liberecká gastroscéna kvete do krásy.",
+      "title_raw": "Liberec chutná čím dál lépe. Má chleba z černé pšenice i moderní českou hospodu",
+      "lead_raw": "Rodinná pražírna, malé řemeslné pekárny i restaurace, kam se chodí za poctivou kuchyní. Liberecká gastroscéna kvete do krásy.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "5f6fd981553931349ef24c89d8f22109c7e6f8d6",
+      "fingerprint": "3e5ae49feac1a46befead0e5039e1c5d49350dd1",
+      "source": "Radio Prague International (EN)",
+      "url": "https://english.radio.cz/cez-says-dukovany-nuclear-contract-has-fixed-price-and-timetable-8901400",
+      "published_utc": "2026-10-30T11:47:00Z",
+      "title_en": "ČEZ says Dukovany nuclear contract has fixed price and timetable",
+      "lead_en": "ČEZ says Dukovany nuclear contract has fixed price and timetable",
+      "title_raw": "ČEZ says Dukovany nuclear contract has fixed price and timetable",
+      "lead_raw": "ČEZ says Dukovany nuclear contract has fixed price and timetable",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "738eaa5a7d683144222b726a156f9a48c4b0b8fc",
+      "fingerprint": "2cce066337874be84d05fdf3eac3655f9b57c16d",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-hokejova-normalizace-cesti-politici-odsuzuji-navrat-rusu-na-led-40605755",
+      "published_utc": "2026-10-30T11:32:20Z",
+      "title_en": "Hokejová normalizace. Čeští politici odsuzují návrat Rusů na led",
+      "lead_en": "Čeští opoziční politici se v pátek ohradili proti rozhodnutí arbitrážního soudu v Lausanne, podle kterého se ruské hokejové týmy mohou s okamžitou platností znovu účastnit mezinárodních soutěží. Připomínají, že nelze oddělovat ruskou politiku a sport, který Kremlu slouží k propagandě.",
+      "title_raw": "Hokejová normalizace. Čeští politici odsuzují návrat Rusů na led",
+      "lead_raw": "Čeští opoziční politici se v pátek ohradili proti rozhodnutí arbitrážního soudu v Lausanne, podle kterého se ruské hokejové týmy mohou s okamžitou platností znovu účastnit mezinárodních soutěží. Připomínají, že nelze oddělovat ruskou politiku a sport, který Kremlu slouží k propagandě.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "df478ccad421c0d7928fe4e752ae20d1c19998b1",
+      "fingerprint": "629b9937c8e50668d4886f75db87fd21b17b9594",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/reditel-cez-kontrakt-s-korejskou-firmou-khnp-ma-pevnou-cenu-a-harmonogram/2895005",
+      "published_utc": "2026-10-30T11:18:00Z",
+      "title_en": "Ředitel ČEZ: Kontrakt s korejskou firmou KHNP má pevnou cenu a harmonogram",
+      "lead_en": "Temelín (Českobudějovicko) - Kontrakt s korejskou firmou KHNP má pevnou cenu a harmonogram, za nedodržení hrozí sankce. Novinářům to řekl generální ředitel ČEZ Daniel Beneš.",
+      "title_raw": "Ředitel ČEZ: Kontrakt s korejskou firmou KHNP má pevnou cenu a harmonogram",
+      "lead_raw": "Temelín (Českobudějovicko) - Kontrakt s korejskou firmou KHNP má pevnou cenu a harmonogram, za nedodržení hrozí sankce. Novinářům to řekl generální ředitel ČEZ Daniel Beneš.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "8e4c98b043f8d122e48ce6d336e8fa775123c60b",
+      "fingerprint": "06478ad42677bb33e9d49eb7ddfad4a404701ce9",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/v-rusku-hori-novokujbysevska-rafinerie-v-kyjeve-je-po-utoku-jeden-mrtvy-379144",
+      "published_utc": "2026-10-30T10:48:13Z",
+      "title_en": "V Rusku hoří Novokujbyševská rafinerie, v Kyjevě je po útoku jeden mrtvý",
+      "lead_en": "V&nbsp;ruské Samarské oblasti hoří po dronovém útoku rafinerie v&nbsp;Novokujbyševsku. Podle listu The&nbsp;Wall Street Journal (WSJ) jde zřejmě o&nbsp;první ukrajinský úder na ruské ropné zařízení od 15.&nbsp;října.",
+      "title_raw": "V Rusku hoří Novokujbyševská rafinerie, v Kyjevě je po útoku jeden mrtvý",
+      "lead_raw": "V&nbsp;ruské Samarské oblasti hoří po dronovém útoku rafinerie v&nbsp;Novokujbyševsku. Podle listu The&nbsp;Wall Street Journal (WSJ) jde zřejmě o&nbsp;první ukrajinský úder na ruské ropné zařízení od 15.&nbsp;října.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "cf8afed5d3d0a0aa643711e60372c5ccb8c20c68",
+      "fingerprint": "6f55b8258c37e1405e94088895670816c0c4b78a",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/temelin-zaveze-prvni-jaderne-palivo-od-americke-firmy-westinghouse/2894974",
+      "published_utc": "2026-10-30T10:39:00Z",
+      "title_en": "Temelín zaveze první jaderné palivo od americké firmy Westinghouse",
+      "lead_en": "Temelín (Českobudějovicko) - Jaderná elektrárna Temelín přechází na jaderné palivo od americké společnosti Westinghouse. První palivové soubory odborníci otestovali a umístí je do reaktoru při současné...",
+      "title_raw": "Temelín zaveze první jaderné palivo od americké firmy Westinghouse",
+      "lead_raw": "Temelín (Českobudějovicko) - Jaderná elektrárna Temelín přechází na jaderné palivo od americké společnosti Westinghouse. První palivové soubory odborníci otestovali a umístí je do reaktoru při současné...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 4,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "6584511ef76aa9a22399cc4bef51d39d9c23bd27",
+      "fingerprint": "debe9060a4ca78164b0a7c30154786e95746546a",
+      "source": "Radio Prague International (EN)",
+      "url": "https://english.radio.cz/stronger-together-babis-and-magyar-pledge-closer-cooperation-8901344",
+      "published_utc": "2026-10-30T08:12:00Z",
+      "title_en": "“Stronger together”: Babiš and Magyar pledge closer cooperation",
+      "lead_en": "The Czech and Hungarian governments have agreed to strengthen bilateral ties and coordinate more closely on EU affairs, security, energy and transport. At their first joint meeting in Prague on Thursday, Prime Ministers Andrej Babiš and Péter Magyar also backed closer cooperation within the Visegrad Group (V4) and the development of high-speed rail links across Central Europe.",
+      "title_raw": "“Stronger together”: Babiš and Magyar pledge closer cooperation",
+      "lead_raw": "The Czech and Hungarian governments have agreed to strengthen bilateral ties and coordinate more closely on EU affairs, security, energy and transport. At their first joint meeting in Prague on Thursday, Prime Ministers Andrej Babiš and Péter Magyar also backed closer cooperation within the Visegrad Group (V4) and the development of high-speed rail links across Central Europe.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "0002299bab3c61678f77382757e43b517e4ebd17",
       "fingerprint": "ed7daa0e719f521092dc5896dac69cff059a020d",
@@ -915,162 +1474,6 @@
         "military": 0,
         "energy": 3,
         "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "9e82b4fe69d97e572f9fbdfab19c9a94cc9c19a3",
-      "fingerprint": "4ebd1164cdd2bc77b4432901b2eb3d558d2c0d70",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/cerne-uhli-nahradi-metan-okd-na-karvinsku-testuje-vyrobu-elektriny-a-tepla-z_2610281555_jkd",
-      "published_utc": "2026-10-28T14:55:00Z",
-      "title_en": "Černé uhlí nahradí metan. OKD na Karvinsku testuje výrobu elektřiny a tepla z důlního plynu",
-      "lead_en": "Společnost OKD začala na Karvinsku zkušebně vyrábět elektřinu a teplo z důlního plynu. Spustila speciální kogenerační jednotku, která dokáže z metanu získat jeden megawatt elektřiny a více než jeden megawatt tepla za hodinu.",
-      "title_raw": "Černé uhlí nahradí metan. OKD na Karvinsku testuje výrobu elektřiny a tepla z důlního plynu",
-      "lead_raw": "Společnost OKD začala na Karvinsku zkušebně vyrábět elektřinu a teplo z důlního plynu. Spustila speciální kogenerační jednotku, která dokáže z metanu získat jeden megawatt elektřiny a více než jeden megawatt tepla za hodinu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "43b6576138560ee15638d8bc291ad1d9f2bc8dbd",
-      "fingerprint": "5c07d72edc39680f0e1ecc420b66a8649efe8ea2",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-ceny-plynu-a-ropy-stoupaji-kvuli-utokum-v-saudske-arabii-318998",
-      "published_utc": "2026-10-28T14:51:30Z",
-      "title_en": "Ceny plynu a ropy stoupají kvůli útokům v Saúdské Arábii",
-      "lead_en": "Kvůli útokům v Saúdské Arábii rostou ceny ropy a plynu. Útok na rafinerii v zemi znovu vyvolal obavy z rizik pro dodávky ropy.",
-      "title_raw": "Ceny plynu a ropy stoupají kvůli útokům v Saúdské Arábii",
-      "lead_raw": "Kvůli útokům v Saúdské Arábii rostou ceny ropy a plynu. Útok na rafinerii v zemi znovu vyvolal obavy z rizik pro dodávky ropy.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "fb4d54720cb73077861cef940feb177bd2c0cb0b",
-      "fingerprint": "c76a88839a7b6caab001f30b7bac70b464098b06",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-ceny-ropy-rostou-po-utoku-na-rafinerii-40605369",
-      "published_utc": "2026-10-28T14:12:46Z",
-      "title_en": "Ceny ropy rostou po útoku na rafinérii",
-      "lead_en": "Ceny ropy rostou po útoku na saúdskoarabskou rafinérii. Severomořská ropa Brent přidává 1,2 procenta na zhruba 115,30 dolaru za barel.",
-      "title_raw": "Ceny ropy rostou po útoku na rafinérii",
-      "lead_raw": "Ceny ropy rostou po útoku na saúdskoarabskou rafinérii. Severomořská ropa Brent přidává 1,2 procenta na zhruba 115,30 dolaru za barel.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "d86d1ade451fe1a6b537ea15df0b3d0e00e61ca5",
-      "fingerprint": "52da5d86e3870b92b5b9e87cd41ad41a9df3e342",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/cena-plynu-v-evrope-poprve-od-prosince-2022-kratce-prekrocila-100-eur/2890524",
-      "published_utc": "2026-10-28T14:08:00Z",
-      "title_en": "Cena plynu v Evropě poprvé od prosince 2022 krátce překročila 100 eur",
-      "lead_en": "Amsterodam - Velkoobchodní cena zemního plynu pro evropský trh se dnes poprvé od prosince 2022 krátce dostala na úroveň 100 eur za megawatthodinu (MWh). Po 14:35 SEČ potom termínový kontrakt s dodáním...",
-      "title_raw": "Cena plynu v Evropě poprvé od prosince 2022 krátce překročila 100 eur",
-      "lead_raw": "Amsterodam - Velkoobchodní cena zemního plynu pro evropský trh se dnes poprvé od prosince 2022 krátce dostala na úroveň 100 eur za megawatthodinu (MWh). Po 14:35 SEČ potom termínový kontrakt s dodáním...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "8fa4e256a644045b723f48ab27e97cbce0400c06",
-      "fingerprint": "48a5ede731ab8db50c802a272b8cca84e089238a",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-plyn-zdrazuje-40605367",
-      "published_utc": "2026-10-28T13:57:49Z",
-      "title_en": "Cena plynu se krátce dostala na hodnotu z konce roku 2022",
-      "lead_en": "Cena plynu pro evropský trh se poprvé od prosince 2022 krátce dostala na úroveň 100 eur za megawatthodinu. Jde o důsledek napětí na Blízkém východě.",
-      "title_raw": "Cena plynu se krátce dostala na hodnotu z konce roku 2022",
-      "lead_raw": "Cena plynu pro evropský trh se poprvé od prosince 2022 krátce dostala na úroveň 100 eur za megawatthodinu. Jde o důsledek napětí na Blízkém východě.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "87f0dacf9eac820d10d02063685cb63660d52534",
-      "fingerprint": "dfa6eb73d13e54256298ead9318d53e951ea39a4",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/prubeh-jednani-o-poplatcich-byl-neuveritelny-na-akci-muze-vydelat-jen-spd-mini_2610281410_ako",
-      "published_utc": "2026-10-28T13:10:00Z",
-      "title_en": "Průběh jednání o poplatcích byl neuvěřitelný, na akci může vydělat jen SPD, míní šéfredaktor deníku Právo",
-      "lead_en": "„Andrej Babiš (ANO) si vyložil neslavný výsledek voleb tak, že je to reakce na jednání vlády, která nestíhá plnit některé věci. Takže asi šlápli na plyn,” vysvětluje snahu o rychlou změnu systému financování médií veřejné služby šéfredaktor deníku Právo a komentátor Petr Šabata.",
-      "title_raw": "Průběh jednání o poplatcích byl neuvěřitelný, na akci může vydělat jen SPD, míní šéfredaktor deníku Právo",
-      "lead_raw": "„Andrej Babiš (ANO) si vyložil neslavný výsledek voleb tak, že je to reakce na jednání vlády, která nestíhá plnit některé věci. Takže asi šlápli na plyn,” vysvětluje snahu o rychlou změnu systému financování médií veřejné služby šéfredaktor deníku Právo a komentátor Petr Šabata.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "edc7cf1dfc716749f70a1469762dc02e61ffccef",
-      "fingerprint": "13164f4b54a26f856f05bcdf79e623d88ef0fb11",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/putin-norsko-rusko-valka-na-ukrajine-evropa.A261028_112102_zahranicni_jhr",
-      "published_utc": "2026-10-28T12:27:00Z",
-      "title_en": "Přezíravý Kreml a rozpačití Evropané. Putin severským lídrům přednášel historii",
-      "lead_en": "Telefonický rozhovor o Ukrajině finského prezidenta Alexandera Stubba, norského premiéra Jonase Gahra St&#248;reho a ruského prezidenta Vladimira Putina provázejí rozpaky. Putin jej údajně pojal jako historickou přednášku, přičemž o konci války mluvil jen málo.",
-      "title_raw": "Přezíravý Kreml a rozpačití Evropané. Putin severským lídrům přednášel historii",
-      "lead_raw": "Telefonický rozhovor o Ukrajině finského prezidenta Alexandera Stubba, norského premiéra Jonase Gahra St&#248;reho a ruského prezidenta Vladimira Putina provázejí rozpaky. Putin jej údajně pojal jako historickou přednášku, přičemž o konci války mluvil jen málo.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
         "local_events": 0
       },
       "topics": [
