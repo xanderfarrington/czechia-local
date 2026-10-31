@@ -1,10 +1,33 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-30T21:10:22Z",
+  "updated_at_utc": "2026-10-31T01:09:34Z",
   "topic": "energy",
   "count": 68,
   "articles": [
+    {
+      "id": "2a1c05e5c2e11ea64d5ec38386805a37bf01722f",
+      "fingerprint": "76ca68b077536221011de43e33b331215cd6bd2f",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-svet-rosatom-s-africkymi-zememi-jedna-o-dodavce-plovoucich-jadernych-elektraren-40605883",
+      "published_utc": "2026-10-30T21:10:56Z",
+      "title_en": "Rosatom s africkými zeměmi jedná o dodávce plovoucích jaderných elektráren",
+      "lead_en": "Ruská státní jaderná společnost Rosatom s africkými zeměmi jedná o dodávce plovoucích jaderných elektráren. Na rusko-africkém summitu to ve středu řekl zástupce šéfa výrobní divize společnosti Vladimir Aptekarev.",
+      "title_raw": "Rosatom s africkými zeměmi jedná o dodávce plovoucích jaderných elektráren",
+      "lead_raw": "Ruská státní jaderná společnost Rosatom s africkými zeměmi jedná o dodávce plovoucích jaderných elektráren. Na rusko-africkém summitu to ve středu řekl zástupce šéfa výrobní divize společnosti Vladimir Aptekarev.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "815a7a96bd8d33e1eb9c1cebbf56088f36c2f0f8",
       "fingerprint": "ac96e50e17bffb5845a57e02b5bc8dc9f59efaa1",
@@ -1501,28 +1524,6 @@
       "topics": [
         "energy",
         "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "6f9602767ea77e73080e721a24c2a6dd17f3ecd8",
-      "fingerprint": "3451de110c3d37fd97709a97d449bbf94b250703",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/doprava/nafta-doprava-kamiony.A261027_135434_eko-doprava_cfr",
-      "published_utc": "2026-10-28T23:00:00Z",
-      "title_en": "Padesát za litr je stále málo. Drahá nafta nenutí dopravce k hledání alternativ",
-      "lead_en": "Ceny nafty se i přes zastropování marží blíží padesáti korunám za litr. Ačkoliv u osobních aut drahá paliva přechodně výrazně zvýšila prodeje elektroaut, v nákladní dopravě se zatím s přechodem od dieselu k alternativním variantám příliš nepočítá.",
-      "title_raw": "Padesát za litr je stále málo. Drahá nafta nenutí dopravce k hledání alternativ",
-      "lead_raw": "Ceny nafty se i přes zastropování marží blíží padesáti korunám za litr. Ačkoliv u osobních aut drahá paliva přechodně výrazně zvýšila prodeje elektroaut, v nákladní dopravě se zatím s přechodem od dieselu k alternativním variantám příliš nepočítá.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
       ],
       "primary_topic": "energy"
     }
