@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-31T18:05:48Z",
+  "updated_at_utc": "2026-10-31T21:58:52Z",
   "topic": "local_events",
-  "count": 26,
+  "count": 25,
   "articles": [
+    {
+      "id": "79fe0dc571b48f14e2da25957dab5717a424fc5b",
+      "fingerprint": "50653ab9537a2f710885fe7a8e85d9936260502d",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/pad-ultralehkeho-letadla-na-benesovsku-neprezil-pilot-priciny-nehody-vysetruji_2610311939_tkp",
+      "published_utc": "2026-10-31T18:39:00Z",
+      "title_en": "Pád ultralehkého letadla na Benešovsku nepřežil pilot. Příčiny nehody vyšetřují kriminalisté",
+      "lead_en": "Při pádu ultralehkého letadla u Vranova na Benešovsku v sobotu odpoledne zemřel pilot. V letadle cestoval sám.",
+      "title_raw": "Pád ultralehkého letadla na Benešovsku nepřežil pilot. Příčiny nehody vyšetřují kriminalisté",
+      "lead_raw": "Při pádu ultralehkého letadla u Vranova na Benešovsku v sobotu odpoledne zemřel pilot. V letadle cestoval sám.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "f98efd0d1c3b9a276cec1cb8e15c22135ed4b07d",
       "fingerprint": "bfaa0942f55903802e3d878e521bbe18805f28a8",
@@ -540,50 +562,6 @@
         "local_events"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "386d85b82bc1645acbec3961791b1da075d57770",
-      "fingerprint": "2da1c71bbafd43751a40a69d211a6b171a71d262",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/vysetrovaci-zprava-pozaru-v-hongkongu-ukazuje-selhani-verejne-spravy-379123",
-      "published_utc": "2026-10-29T19:45:42Z",
-      "title_en": "Vyšetřovací zpráva požáru v Hongkongu ukazuje selhání veřejné správy",
-      "lead_en": "Hongkongské úřady zveřejnily vyšetřovací zprávu o&nbsp;požáru ve čtvrti Tai Po, při kterém loni zemřelo 168 lidí. Plameny zároveň zničily domovy tisíců obyvatel.",
-      "title_raw": "Vyšetřovací zpráva požáru v Hongkongu ukazuje selhání veřejné správy",
-      "lead_raw": "Hongkongské úřady zveřejnily vyšetřovací zprávu o&nbsp;požáru ve čtvrti Tai Po, při kterém loni zemřelo 168 lidí. Plameny zároveň zničily domovy tisíců obyvatel.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "5c2c60d0f2f844169d7c3eb570c0d11ca984adef",
-      "fingerprint": "bb62a3b27b7586477f746920f3befd48131e0c0a",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/bosna-a-hercegovina-havarie-vrtulnik-mise-eufor.A261029_192138_zahranicni_kha",
-      "published_utc": "2026-10-29T19:14:02Z",
-      "title_en": "V Bosně havaroval vrtulník mise EUFOR, nejméně tři lidé zemřeli",
-      "lead_en": "V regionu u města Brčko na severu Bosny a Hercegoviny ve čtvrtek při rutinní operaci havaroval vrtulník evropské mise mírových stabilizačních sil EUFOR. Podle vyjádření mise nebyli zraněni žádní civilisté a poškozena nebyla civilní infrastruktura ani majetek.",
-      "title_raw": "V Bosně havaroval vrtulník mise EUFOR, nejméně tři lidé zemřeli",
-      "lead_raw": "V regionu u města Brčko na severu Bosny a Hercegoviny ve čtvrtek při rutinní operaci havaroval vrtulník evropské mise mírových stabilizačních sil EUFOR. Podle vyjádření mise nebyli zraněni žádní civilisté a poškozena nebyla civilní infrastruktura ani majetek.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
     }
   ]
 }

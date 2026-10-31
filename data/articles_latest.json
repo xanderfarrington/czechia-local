@@ -1,10 +1,622 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-31T18:05:48Z",
+  "updated_at_utc": "2026-10-31T21:58:52Z",
   "keep_hours": 48,
-  "count": 572,
+  "count": 552,
   "articles": [
+    {
+      "id": "d5d1fd6139fe87c06d1a61d8fe9cbece8e980f23",
+      "fingerprint": "3d3e626c97c220f715991f909a87d2faed9de942",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-koupe-garaze-nevysla-prodejce-jen-od-kupujiciho-vylakal-desitky-tisic-40605890",
+      "published_utc": "2026-10-31T21:50:00Z",
+      "title_en": "Koupě garáže nevyšla. Prodejce jen od kupujícího vylákal desítky tisíc",
+      "lead_en": "Obětí podvodníka se stal čtyřicetiletý muž z Olomouce, když chtěl koupit garáž, kterou viděl v inzerátu. Údajný majitel a prodejce garáže z něj vylákal desítky tisíc korun, což měla být záloha.",
+      "title_raw": "Koupě garáže nevyšla. Prodejce jen od kupujícího vylákal desítky tisíc",
+      "lead_raw": "Obětí podvodníka se stal čtyřicetiletý muž z Olomouce, když chtěl koupit garáž, kterou viděl v inzerátu. Údajný majitel a prodejce garáže z něj vylákal desítky tisíc korun, což měla být záloha.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "c51a37327f075fd1c0a98e71be5b29147b7cd0d8",
+      "fingerprint": "440102ed114a6ef0e30b7b02e1492e676b40d6e6",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/prvni-muslim-v-americkem-senatu-muze-byt-z-michiganu-379184",
+      "published_utc": "2026-10-31T21:29:41Z",
+      "title_en": "El-Sayed z Michiganu má šanci stát se prvním muslimem v americkém Senátu",
+      "lead_en": "Velkou šanci proniknut do amerického Senátu má vůbec poprvé muslim. Abdul El-Sayed z&nbsp;levicově progresivního křídla Demokratů kandiduje v&nbsp;Michiganu, kde žije největší arabská komunita v&nbsp;USA&nbsp;– více než 400 tisíc lidí s&nbsp;kořeny v&nbsp;arabských zemích.",
+      "title_raw": "El-Sayed z Michiganu má šanci stát se prvním muslimem v americkém Senátu",
+      "lead_raw": "Velkou šanci proniknut do amerického Senátu má vůbec poprvé muslim. Abdul El-Sayed z&nbsp;levicově progresivního křídla Demokratů kandiduje v&nbsp;Michiganu, kde žije největší arabská komunita v&nbsp;USA&nbsp;– více než 400 tisíc lidí s&nbsp;kořeny v&nbsp;arabských zemích.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "2d49f8aa390e95de986ad81b7deabd7e03a5ccf1",
+      "fingerprint": "b544dee883233f49386714d0f2319a001f4747ff",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-soud-definitivne-zamitl-trumpovu-zalobu-v-niz-zadal-od-wsj-miliardy-319232",
+      "published_utc": "2026-10-31T21:28:18Z",
+      "title_en": "Soud definitivně zamítl Trumpovu žalobu, v níž žádal od WSJ miliardy",
+      "lead_en": "Podle deníku měl Trump v roce 2003 poslat sexuálně explicitní přání finančníkovi Jeffreymu Epsteinovi. Prezident obvinění popřel a noviny zažaloval za pomluvu.",
+      "title_raw": "Soud definitivně zamítl Trumpovu žalobu, v níž žádal od WSJ miliardy",
+      "lead_raw": "Podle deníku měl Trump v roce 2003 poslat sexuálně explicitní přání finančníkovi Jeffreymu Epsteinovi. Prezident obvinění popřel a noviny zažaloval za pomluvu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "f92a066127f57803a9ee08976b86e6bdaf4823c8",
+      "fingerprint": "294b3603ef45f857e388c7c755e7c4234b94206e",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-kvuli-stavbe-lavky-byla-uzavrena-d10-u-stare-boleslavi-40605931",
+      "published_utc": "2026-10-31T21:17:40Z",
+      "title_en": "Kvůli stavbě lávky byla uzavřena D10 u Staré Boleslavi",
+      "lead_en": "Stavbaři v sobotu večer druhou noc po sobě uzavřeli dálnici D10 u Staré Boleslavi v okrese Praha-východ kvůli pokračující stavbě lávky pro pěší. Zatímco v noci na sobotu byla dálnice neprůjezdná ve směru na Prahu, nyní řidiči neprojedou ve směru na Turnov v úseku mezi exity 10 u Záp a 14 u Staré Boleslavi.",
+      "title_raw": "Kvůli stavbě lávky byla uzavřena D10 u Staré Boleslavi",
+      "lead_raw": "Stavbaři v sobotu večer druhou noc po sobě uzavřeli dálnici D10 u Staré Boleslavi v okrese Praha-východ kvůli pokračující stavbě lávky pro pěší. Zatímco v noci na sobotu byla dálnice neprůjezdná ve směru na Prahu, nyní řidiči neprojedou ve směru na Turnov v úseku mezi exity 10 u Záp a 14 u Staré Boleslavi.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "be1f570a4963fd1672c325f9d0846bced85451d6",
+      "fingerprint": "0a2ba7cc33c3f11f3094bce4c9e20e5450e84264",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/kultura/vitezstvi-v-jihlave-si-vydobyly-dokumenty-zarit-ci-land-of-fire-379183",
+      "published_utc": "2026-10-31T21:16:18Z",
+      "title_en": "Vítězství v Ji.hlavě si vydobyly dokumenty Zářit či Land of Fire",
+      "lead_en": "Nejlepšími českými filmy se v&nbsp;sobotu na 30. ročníku Mezinárodního festivalu dokumentárních filmů Ji.hlava staly snímek Zářit od režiséra Martina Páva, který nahlíží do soukromí lidí lapených v&nbsp;síti společenských očekávání a&nbsp;tlaku na dokonalost, a&nbsp;snímek Nikoly Klingera Land of Fire, jenž skládá vrstevnatý portrét krajiny Britské Kolumbie a&nbsp;vztahu lidí k&nbsp;divočině.",
+      "title_raw": "Vítězství v Ji.hlavě si vydobyly dokumenty Zářit či Land of Fire",
+      "lead_raw": "Nejlepšími českými filmy se v&nbsp;sobotu na 30. ročníku Mezinárodního festivalu dokumentárních filmů Ji.hlava staly snímek Zářit od režiséra Martina Páva, který nahlíží do soukromí lidí lapených v&nbsp;síti společenských očekávání a&nbsp;tlaku na dokonalost, a&nbsp;snímek Nikoly Klingera Land of Fire, jenž skládá vrstevnatý portrét krajiny Britské Kolumbie a&nbsp;vztahu lidí k&nbsp;divočině.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "8685333febc01a40f4ea1caacc6c3b14ede0e0a4",
+      "fingerprint": "cb91428876fee70de321d7b2f9d01b3e1214cdd5",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-tusk-obvinil-opozici-ze-snah-znicit-demokracii-319231",
+      "published_utc": "2026-10-31T21:15:45Z",
+      "title_en": "Tusk obvinil opozici ze snah zničit demokracii",
+      "lead_en": "Před snahami o oslabení demokracie a právního státu varoval polský premiér Donald Tusk. Napětí kolem ústavního soudu v pátek vyvrcholilo protesty příznivců opoziční strany PiS a policejním zásahem.",
+      "title_raw": "Tusk obvinil opozici ze snah zničit demokracii",
+      "lead_raw": "Před snahami o oslabení demokracie a právního státu varoval polský premiér Donald Tusk. Napětí kolem ústavního soudu v pátek vyvrcholilo protesty příznivců opoziční strany PiS a policejním zásahem.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "59852dca75dd9e4d361019859cd98abcd0066ad5",
+      "fingerprint": "c78260af0ba3470a78fd24f7b0848b7e7f8209e7",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-mfdf-jihlava-2026-festival-vitezove-319233",
+      "published_utc": "2026-10-31T21:15:00Z",
+      "title_en": "Vítěznými českými filmy jihlavského festivalu jsou Zářit a Land of Fire",
+      "lead_en": "První nahlíží do soukromí lidí lapených v síti společenských očekávání a tlaku na dokonalost. Druhý přes propojené osudy místních skládá vrstevnatý portrét krajiny Britské Kolumbie a vztahu lidí k divočině, její magii a mýtům.",
+      "title_raw": "Vítěznými českými filmy jihlavského festivalu jsou Zářit a Land of Fire",
+      "lead_raw": "První nahlíží do soukromí lidí lapených v síti společenských očekávání a tlaku na dokonalost. Druhý přes propojené osudy místních skládá vrstevnatý portrét krajiny Britské Kolumbie a vztahu lidí k divočině, její magii a mýtům.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "cc99952072407992c08dbfbedddb93364d751301",
+      "fingerprint": "7660cc4204c650611ca3486eb5b3948d2abf100e",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/kultura-tv-streaming-ze-stardance-vypadli-tomas-polak-a-adriana-maskova-40605925",
+      "published_utc": "2026-10-31T21:08:40Z",
+      "title_en": "Ze StarDance vypadli Tomáš Polák a Adriana Mašková",
+      "lead_en": "Poslední říjnový večer patřil v České televizi čtvrtému pokračování letošního ročníku taneční soutěže StarDance. Na základě bodování poroty a hlasování diváků soutěž opustili muzikant Tomáš Polák a jeho taneční partnerka Adriana Mašková.",
+      "title_raw": "Ze StarDance vypadli Tomáš Polák a Adriana Mašková",
+      "lead_raw": "Poslední říjnový večer patřil v České televizi čtvrtému pokračování letošního ročníku taneční soutěže StarDance. Na základě bodování poroty a hlasování diváků soutěž opustili muzikant Tomáš Polák a jeho taneční partnerka Adriana Mašková.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ea45b5dfc0644eca7f4a7a0950e041cf33ad048b",
+      "fingerprint": "84cdde031a7845188b716516abd51a17429b4c73",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-soud-zamitl-trumpovu-zalobu-v-niz-pozadoval-od-wsj-216-miliard-40605929",
+      "published_utc": "2026-10-31T21:05:44Z",
+      "title_en": "Soud zamítl Trumpovu žalobu, v níž požadoval od WSJ 216 miliard",
+      "lead_en": "Okresní soudce v Miami Darryn Gayles v sobotu s definitivní platností zamítl žalobu amerického prezidenta Donalda Trumpa, v níž šéf Bílého domu od deníku The Wall Street Journal požadoval 10 miliard dolarů (216,6 miliardy korun) za údajné poškození pověsti. Žaloba se týkala článku o Trumpových vazbách na sexuálního predátora Jeffreyho Epsteina.",
+      "title_raw": "Soud zamítl Trumpovu žalobu, v níž požadoval od WSJ 216 miliard",
+      "lead_raw": "Okresní soudce v Miami Darryn Gayles v sobotu s definitivní platností zamítl žalobu amerického prezidenta Donalda Trumpa, v níž šéf Bílého domu od deníku The Wall Street Journal požadoval 10 miliard dolarů (216,6 miliardy korun) za údajné poškození pověsti. Žaloba se týkala článku o Trumpových vazbách na sexuálního predátora Jeffreyho Epsteina.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "688ac062b19a3b6b8b1c4ba82e8b43692e010b47",
+      "fingerprint": "6068d244ce7d06eb9b4d20789de2ff4e14b08c7f",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/tusk-demokracie-protest-ustavni-soud-polsko-krize.A261031_215035_zahranicni_votr",
+      "published_utc": "2026-10-31T20:55:00Z",
+      "title_en": "Tusk kritizuje opozici kvůli krizi ústavního soudu, mluví o ničení demokracie",
+      "lead_en": "Polský premiér Donald Tusk v sobotu obvinil představitele národně konzervativní opozice, že chtějí zničit demokracii a právní stát. Podle agentury AFP tak učinil v projevu věnovaném pokračující krizi kolem ústavního soudu.",
+      "title_raw": "Tusk kritizuje opozici kvůli krizi ústavního soudu, mluví o ničení demokracie",
+      "lead_raw": "Polský premiér Donald Tusk v sobotu obvinil představitele národně konzervativní opozice, že chtějí zničit demokracii a právní stát. Podle agentury AFP tak učinil v projevu věnovaném pokračující krizi kolem ústavního soudu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "14955a6b11036e84c5288b41c16019262a460382",
+      "fingerprint": "f97e7cc829b7f2581f600fb9801d4bf65084bd84",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/pet-let-od-padu-lanovky-na-jested-kdy-vyjede-nova-a-kdo-ponese-trestni_2610312150_jho",
+      "published_utc": "2026-10-31T20:50:00Z",
+      "title_en": "Pět let od pádu lanovky na Ještěd. Kdy vyjede nová a kdo ponese trestní odpovědnost?",
+      "lead_en": "Krátce po půl druhé odpoledne 31. října 2021 spadla jedna ze dvou kabin lanovky na Ještěd.",
+      "title_raw": "Pět let od pádu lanovky na Ještěd. Kdy vyjede nová a kdo ponese trestní odpovědnost?",
+      "lead_raw": "Krátce po půl druhé odpoledne 31. října 2021 spadla jedna ze dvou kabin lanovky na Ještěd.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "d421c7919162a127f48966acb02790bffe010f07",
+      "fingerprint": "e93f34fb4fa5825cd0d4c054d596126a2a0ba9d6",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/policejni-velitele-v-praze-maji-nove-auto-s-moderni-technikou-i-zbranemi-379181",
+      "published_utc": "2026-10-31T20:41:33Z",
+      "title_en": "Policejní velitelé v Praze mají nové auto s moderní technikou i zbraněmi",
+      "lead_en": "Specializovaní policejní velitelé z&nbsp;Pohotovostní motorizované jednotky, kteří jezdí k&nbsp;nejzávažnějším událostem v&nbsp;Praze, dostali nové auto, jež si vybavili doslova na míru&nbsp;– s&nbsp;moderním komunikačním zařízením, světelnou rampou a&nbsp;dvěma dlouhými palnými zbraněmi, zjistil pořad Zóna ČT24. Ten se kromě toho věnoval opožděným dodávkám zbraní pro českou armádu, neplnění závazků vůči NATO, útokům v&nbsp;Černém moři či vojenskému cvičení koalice ochotných, které se uskuteční v&nbsp;Polsku.",
+      "title_raw": "Policejní velitelé v Praze mají nové auto s moderní technikou i zbraněmi",
+      "lead_raw": "Specializovaní policejní velitelé z&nbsp;Pohotovostní motorizované jednotky, kteří jezdí k&nbsp;nejzávažnějším událostem v&nbsp;Praze, dostali nové auto, jež si vybavili doslova na míru&nbsp;– s&nbsp;moderním komunikačním zařízením, světelnou rampou a&nbsp;dvěma dlouhými palnými zbraněmi, zjistil pořad Zóna ČT24. Ten se kromě toho věnoval opožděným dodávkám zbraní pro českou armádu, neplnění závazků vůči NATO, útokům v&nbsp;Černém moři či vojenskému cvičení koalice ochotných, které se uskuteční v&nbsp;Polsku.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 5,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "4221458321a4c89a5d42b83f5ae1663688ad400a",
+      "fingerprint": "98995e7622c9b1f5357090e5dffdef18bd05360d",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-rubio-hovoril-s-lavrovem-o-moznem-setkani-trumpa-s-putinem-v-cine-319230",
+      "published_utc": "2026-10-31T20:34:34Z",
+      "title_en": "Rubio mluvil s Lavrovem o možném setkání Trumpa s Putinem v Číně",
+      "lead_en": "Rubio a Lavrov se setkali na jednání ministrů zahraničí zemí G20. Rozhovor nebyl oficiální vyjednávací schůzkou.",
+      "title_raw": "Rubio mluvil s Lavrovem o možném setkání Trumpa s Putinem v Číně",
+      "lead_raw": "Rubio a Lavrov se setkali na jednání ministrů zahraničí zemí G20. Rozhovor nebyl oficiální vyjednávací schůzkou.",
+      "topic_scores": {
+        "diplomacy": 3,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "ece143ffa29deb737f207e5ac153978639f2ab21",
+      "fingerprint": "e32fd5105d138640e5f6caaabe2001555888b1d8",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/nejlepsimi-ceskymi-snimky-na-festivalu-jihlava-jsou-filmy-zarit-a-land-of-fire/2895564",
+      "published_utc": "2026-10-31T20:34:00Z",
+      "title_en": "Nejlepšími českými snímky na festivalu Ji.hlava jsou filmy Zářit a Land of Fire",
+      "lead_en": "Jihlava - Nejlepšími českými filmy se dnes na 30. ročníku Mezinárodního festivalu dokumentárních filmů Ji.hlava staly snímky Zářit režiséra Martina Páva a Land of Fire od Nikoly Klingera.",
+      "title_raw": "Nejlepšími českými snímky na festivalu Ji.hlava jsou filmy Zářit a Land of Fire",
+      "lead_raw": "Jihlava - Nejlepšími českými filmy se dnes na 30. ročníku Mezinárodního festivalu dokumentárních filmů Ji.hlava staly snímky Zářit režiséra Martina Páva a Land of Fire od Nikoly Klingera.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "19c2acf98a9c230e15f2b4679e6856fb8681d57e",
+      "fingerprint": "f707b70d6751ef3f71033c5888ac766d4a0b760a",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/kultura-festival-dokumentu-ji-hlava-vyhral-film-o-sirotkovi-z-afghanistanu-40605923",
+      "published_utc": "2026-10-31T20:30:00Z",
+      "title_en": "Festival dokumentů Ji.hlava vyhrál film o sirotkovi z Afghánistánu",
+      "lead_en": "Hlavní cenu na Mezinárodním festivalu dokumentárních filmů Ji.hlava vyhrál snímek amerického dokumentaristy Jamese Longleyho Mohabat. Vypráví o chlapci z Afghánistánu, který se po tragické smrti otce ocitá i s dvěma bratry zcela bez rodičů.",
+      "title_raw": "Festival dokumentů Ji.hlava vyhrál film o sirotkovi z Afghánistánu",
+      "lead_raw": "Hlavní cenu na Mezinárodním festivalu dokumentárních filmů Ji.hlava vyhrál snímek amerického dokumentaristy Jamese Longleyho Mohabat. Vypráví o chlapci z Afghánistánu, který se po tragické smrti otce ocitá i s dvěma bratry zcela bez rodičů.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "dcd3b758e9eea506883cc616532af5384e10cb38",
+      "fingerprint": "ca8e0b55287cd3ef217977ace34b69a12d43a6f9",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-rubio-mluvil-s-lavrovem-o-moznem-setkani-trumpa-s-putinem-v-cine-40605928",
+      "published_utc": "2026-10-31T20:22:34Z",
+      "title_en": "Rubio mluvil s Lavrovem o možném setkání Trumpa s Putinem v Číně",
+      "lead_en": "Americký ministr zahraničí Marco Rubio mluvil se svým ruským protějškem Sergejem Lavrovem o možném setkání amerického prezidenta Donalda Trumpa s ruským prezidentem Vladimirem Putinem na summitu Asijsko-pacifického hospodářského společenství (APEC), který se bude konat v polovině listopadu v Číně. Informovala o tom agentura AFP.",
+      "title_raw": "Rubio mluvil s Lavrovem o možném setkání Trumpa s Putinem v Číně",
+      "lead_raw": "Americký ministr zahraničí Marco Rubio mluvil se svým ruským protějškem Sergejem Lavrovem o možném setkání amerického prezidenta Donalda Trumpa s ruským prezidentem Vladimirem Putinem na summitu Asijsko-pacifického hospodářského společenství (APEC), který se bude konat v polovině listopadu v Číně. Informovala o tom agentura AFP.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "021d874812e5507e7c58beb43207979035129447",
+      "fingerprint": "c03745fdb105d24e921787d1fe927f71474f3aef",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/cechy-na-trziste-do-polska-svazi-autobusy-podle-nekterych-uz-nakupy-nejsou-tak_2610312118_zfr",
+      "published_utc": "2026-10-31T20:18:00Z",
+      "title_en": "Čechy na tržiště do Polska sváží autobusy. Podle některých už ale nákupy nejsou tak výhodné jako dřív",
+      "lead_en": "Před Dušičkami míří spousta Čechů za hranice. Pro tematické zboží, potraviny nebo oblečení jezdí například do příhraničního polského města Kudowa-Zdrój.",
+      "title_raw": "Čechy na tržiště do Polska sváží autobusy. Podle některých už ale nákupy nejsou tak výhodné jako dřív",
+      "lead_raw": "Před Dušičkami míří spousta Čechů za hranice. Pro tematické zboží, potraviny nebo oblečení jezdí například do příhraničního polského města Kudowa-Zdrój.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "8547b67c14ac38c31c5f30a73252e98aca4aefbf",
+      "fingerprint": "e0cc4e68784a0cbfb1da3930b5efe99be0020fc5",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/rubio-cina-trump-putin-usa-rusko-atlanta-moskva.A261031_211220_zahranicni_votr",
+      "published_utc": "2026-10-31T20:12:00Z",
+      "title_en": "Trump a Putin by se mohli setkat v Číně. Rubio jednal s Lavrovem o summitu APEC",
+      "lead_en": "Americký ministr zahraničí Marco Rubio mluvil se svým ruským protějškem Sergejem Lavrovem o možném setkání amerického prezidenta Donalda Trumpa s ruským prezidentem Vladimirem Putinem na summitu Asijsko-pacifického hospodářského společenství (APEC), který se bude konat v polovině",
+      "title_raw": "Trump a Putin by se mohli setkat v Číně. Rubio jednal s Lavrovem o summitu APEC",
+      "lead_raw": "Americký ministr zahraničí Marco Rubio mluvil se svým ruským protějškem Sergejem Lavrovem o možném setkání amerického prezidenta Donalda Trumpa s ruským prezidentem Vladimirem Putinem na summitu Asijsko-pacifického hospodářského společenství (APEC), který se bude konat v polovině",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "2caee90a6673750703f494090b0748d7fe41dee2",
+      "fingerprint": "bc91df5a9ae702d1780816a77f5837afb04d1651",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-svet-etiopsky-premier-clenum-vlady-naridil-vojensky-vycvik-a-zverejnil-fotky-40605922",
+      "published_utc": "2026-10-31T20:02:45Z",
+      "title_en": "Etiopský premiér členům vlády nařídil vojenský výcvik a zveřejnil fotky",
+      "lead_en": "Etiopští ministři a další představitelé vlády na příkaz premiéra Abiye Ahmeda v současnosti podstupují vojenský výcvik. Ahmed své rozhodnutí zdůvodnil tím, že vojenská disciplína pomáhá s výchovou lepších lídrů a může tak přispět k rozvoji země.",
+      "title_raw": "Etiopský premiér členům vlády nařídil vojenský výcvik a zveřejnil fotky",
+      "lead_raw": "Etiopští ministři a další představitelé vlády na příkaz premiéra Abiye Ahmeda v současnosti podstupují vojenský výcvik. Ahmed své rozhodnutí zdůvodnil tím, že vojenská disciplína pomáhá s výchovou lepších lídrů a může tak přispět k rozvoji země.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "323d7980b01286d162d57a927ac7b4b706cf2b85",
+      "fingerprint": "1b4b4f15504e1b2183fc3b7c09ebc8372fb221f3",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/resort-zdravotnictvi-chce-pridavat-sestram-nemocnice-ukazuji-na-chybejici-penize-379182",
+      "published_utc": "2026-10-31T19:29:43Z",
+      "title_en": "Resort zdravotnictví chce přidávat sestrám. Nemocnice ukazují na chybějící peníze",
+      "lead_en": "Až šest tisíc měsíčně navíc pro začínající sestry. Podle ministra zdravotnictví Adama Vojtěcha (za ANO) by si ve státních nemocnicích měli příští rok polepšit hlavně lidi z&nbsp;nelékařských profesí na startu kariéry.",
+      "title_raw": "Resort zdravotnictví chce přidávat sestrám. Nemocnice ukazují na chybějící peníze",
+      "lead_raw": "Až šest tisíc měsíčně navíc pro začínající sestry. Podle ministra zdravotnictví Adama Vojtěcha (za ANO) by si ve státních nemocnicích měli příští rok polepšit hlavně lidi z&nbsp;nelékařských profesí na startu kariéry.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "fd00fd1c2e1e4e141441577271787dee7d69d848",
+      "fingerprint": "0415baf047948c4934defff6ca152b93e8ab63d8",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/valka-v-cernem-mori-eskaluje-zasahla-stovky-lodi-379176",
+      "published_utc": "2026-10-31T19:22:34Z",
+      "title_en": "Válka v Černém moři eskaluje, zasáhla stovky lodí",
+      "lead_en": "V&nbsp;Černém moři letos zemřelo více námořníků než kdekoliv jinde. Je smrtelnější než Hormuzský průliv.",
+      "title_raw": "Válka v Černém moři eskaluje, zasáhla stovky lodí",
+      "lead_raw": "V&nbsp;Černém moři letos zemřelo více námořníků než kdekoliv jinde. Je smrtelnější než Hormuzský průliv.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "c9de72c166895f6f51902daec42933236a24b6aa",
+      "fingerprint": "3ba6832ef2a3dea1451ac256537e5685d9d65ebb",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/praha/zpravy/pad-ultralehke-letadlo-benesov-vranov-smrt.A261031_191724_praha-zpravy_votr",
+      "published_utc": "2026-10-31T19:11:00Z",
+      "title_en": "Na Benešovsku havarovalo ultralehké letadlo, pilot nepřežil",
+      "lead_en": "Při pádu ultralehkého letadla u Vranova na Benešovsku v sobotu odpoledne zemřel pilot. V letadle cestoval sám.",
+      "title_raw": "Na Benešovsku havarovalo ultralehké letadlo, pilot nepřežil",
+      "lead_raw": "Při pádu ultralehkého letadla u Vranova na Benešovsku v sobotu odpoledne zemřel pilot. V letadle cestoval sám.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "92b5c96006036fed45facfe9f2ff0737ed2cd29f",
+      "fingerprint": "27bf9303ff3780d9a44e376a6e7114205048610e",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/marsal-radecky-napoleon-historie-olomouc-milan-vidensky-rizek.A261030_180532_domaci_krou",
+      "published_utc": "2026-10-31T19:00:00Z",
+      "title_en": "Radecký zvítězil nad Napoleonem, dovezl do Vídně řízek. Císaře ale před smrtí naštval",
+      "lead_en": "Milovníci železnice říkají, že hranice bývalého Rakouska poznáte podle nádraží a jejich originální architektury. Dají se ale poznat i podle toho, kde najdete sochy, kavárny nebo ulice nesoucí jméno maršála Josefa Václava Radeckého.",
+      "title_raw": "Radecký zvítězil nad Napoleonem, dovezl do Vídně řízek. Císaře ale před smrtí naštval",
+      "lead_raw": "Milovníci železnice říkají, že hranice bývalého Rakouska poznáte podle nádraží a jejich originální architektury. Dají se ale poznat i podle toho, kde najdete sochy, kavárny nebo ulice nesoucí jméno maršála Josefa Václava Radeckého.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "b95adcb9fe4bbd41fabccd9c8a244eeb812fc0dd",
+      "fingerprint": "5250c31c6beff3e05eef49bbf5cc831c13e61292",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/plzen/zpravy/skolstvi-deti-agresivita-plzensky-kraj-psychologove-inkluze.A261030_981324_vary-zpravy_pkz",
+      "published_utc": "2026-10-31T19:00:00Z",
+      "title_en": "Agresivní dítě oddělit z výuky? Potřebují spíš pomoc, zní ze škol k nápadu vlády",
+      "lead_en": "Ministerstvo školství a zástupci vládních stran navrhují revizi inkluze. Její součástí má být možnost dočasného vyloučení agresivního žáka z výuky.",
+      "title_raw": "Agresivní dítě oddělit z výuky? Potřebují spíš pomoc, zní ze škol k nápadu vlády",
+      "lead_raw": "Ministerstvo školství a zástupci vládních stran navrhují revizi inkluze. Její součástí má být možnost dočasného vyloučení agresivního žáka z výuky.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c5baf0c27d6f7e2f9851e56aa72bfbe54caedd5f",
+      "fingerprint": "f25c57b05174ea6e4f5e2cd6f43acf566c1ad2a5",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-v-podzemni-garazi-bytoveho-domu-na-zbraslavi-vzplalo-auto-40605927",
+      "published_utc": "2026-10-31T18:48:25Z",
+      "title_en": "V podzemní garáži bytového domu na Zbraslavi vzplálo auto",
+      "lead_en": "V podzemní garáži obytného domu na pražské Zbraslavi hořelo v sobotu večer zaparkované osobní auto. Hasiči vyhlásili II.",
+      "title_raw": "V podzemní garáži bytového domu na Zbraslavi vzplálo auto",
+      "lead_raw": "V podzemní garáži obytného domu na pražské Zbraslavi hořelo v sobotu večer zaparkované osobní auto. Hasiči vyhlásili II.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "0375254bd1cf0a4d88a3677a9f0c504239f89977",
+      "fingerprint": "b2b3b2f5e23eed60250917b12381a7ada61d2c3f",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-madarsko-zacne-od-stredy-zverejnovat-spisy-komunisticke-tajne-policie-40605926",
+      "published_utc": "2026-10-31T18:40:51Z",
+      "title_en": "Maďarsko začne od středy zveřejňovat spisy komunistické tajné policie",
+      "lead_en": "Od středy 4. listopadu 2026 Maďarsko postupně odtajní spisy komunistické tajné policie a zveřejní 60 až 80 tisíc jmen informátorů a konfidentů režimu.",
+      "title_raw": "Maďarsko začne od středy zveřejňovat spisy komunistické tajné policie",
+      "lead_raw": "Od středy 4. listopadu 2026 Maďarsko postupně odtajní spisy komunistické tajné policie a zveřejní 60 až 80 tisíc jmen informátorů a konfidentů režimu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "79fe0dc571b48f14e2da25957dab5717a424fc5b",
+      "fingerprint": "50653ab9537a2f710885fe7a8e85d9936260502d",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/pad-ultralehkeho-letadla-na-benesovsku-neprezil-pilot-priciny-nehody-vysetruji_2610311939_tkp",
+      "published_utc": "2026-10-31T18:39:00Z",
+      "title_en": "Pád ultralehkého letadla na Benešovsku nepřežil pilot. Příčiny nehody vyšetřují kriminalisté",
+      "lead_en": "Při pádu ultralehkého letadla u Vranova na Benešovsku v sobotu odpoledne zemřel pilot. V letadle cestoval sám.",
+      "title_raw": "Pád ultralehkého letadla na Benešovsku nepřežil pilot. Příčiny nehody vyšetřují kriminalisté",
+      "lead_raw": "Při pádu ultralehkého letadla u Vranova na Benešovsku v sobotu odpoledne zemřel pilot. V letadle cestoval sám.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "97c2d570687aae3e667cfc75e2b12d1a6368eb15",
+      "fingerprint": "cf5fd5a62b1ae85f1d6976f1d07446cc6bc54985",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-rostliny-si-pletou-podzim-s-jarem-zavaznejsi-je-ale-jina-zmena-319151",
+      "published_utc": "2026-10-31T18:30:00Z",
+      "title_en": "Rostliny si pletou podzim s jarem. Závažnější je ale jiná změna",
+      "lead_en": "Na jižní Moravě rozkvétají rostliny, které by měly čekat na jaro. Podle botanika Kryštofa Chytrého je ale mnohem závažnější jiná změna.",
+      "title_raw": "Rostliny si pletou podzim s jarem. Závažnější je ale jiná změna",
+      "lead_raw": "Na jižní Moravě rozkvétají rostliny, které by měly čekat na jaro. Podle botanika Kryštofa Chytrého je ale mnohem závažnější jiná změna.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "a5275bccf56edec4ca16afaccaeda2318ce0e2ff",
+      "fingerprint": "61435147148d35245353b8f27d6bfe0babbd20e7",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/dute-lamely-na-terase-plzenskeho-divadla-neodolaly-povetrnostnim-podminkam-mesto_2610311924_bod",
+      "published_utc": "2026-10-31T18:24:00Z",
+      "title_en": "Duté lamely na terase plzeňského divadla neodolaly povětrnostním podmínkám. Město chystá výměnu",
+      "lead_en": "Plzeň vymění po 11 letech poškozený povrch severní terasy u Velkého divadla. Duté lamely z dřevoplastového kompozitu, které tam město dalo položit při stavebních úpravách v roce 2015, totiž opakovaně praskají a prolamují se.",
+      "title_raw": "Duté lamely na terase plzeňského divadla neodolaly povětrnostním podmínkám. Město chystá výměnu",
+      "lead_raw": "Plzeň vymění po 11 letech poškozený povrch severní terasy u Velkého divadla. Duté lamely z dřevoplastového kompozitu, které tam město dalo položit při stavebních úpravách v roce 2015, totiž opakovaně praskají a prolamují se.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "243a7f39186faf9660165ad88a7d3ba3a60d41de",
+      "fingerprint": "333ac61205ea6a67be8315510116ddd7209c53f5",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-demonstraci-po-celem-nemecku-se-zucastnily-desitky-tisic-lidi-319229",
+      "published_utc": "2026-10-31T18:11:42Z",
+      "title_en": "V Německu demonstrovaly tisíce lidí, Frankfurt hlásí rozbité výlohy a rabování",
+      "lead_en": "Podle německého ministerstva vnitra se do podpory demonstrací zapojily také části krajně levicové extremistické skupiny.",
+      "title_raw": "V Německu demonstrovaly tisíce lidí, Frankfurt hlásí rozbité výlohy a rabování",
+      "lead_raw": "Podle německého ministerstva vnitra se do podpory demonstrací zapojily také části krajně levicové extremistické skupiny.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
     {
       "id": "2ede9624317ec31a22018963f7eeee1910bd3c10",
       "fingerprint": "336d546e41e721eaa979781f76522c59f8861faf",
@@ -10802,1038 +11414,6 @@
       },
       "topics": [],
       "primary_topic": "economy"
-    },
-    {
-      "id": "7b41e5f527c96035d98ade68e8dd00f070601b8b",
-      "fingerprint": "fdd50da0017b0aa6cf1d36b3ccfa00538deda3c4",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-akcie-fondy-dalsi-zklamani-cloudovy-byznys-amazonu-roste-cash-flow-ale-trpi-kvuli-ai-319138",
-      "published_utc": "2026-10-29T21:55:48Z",
-      "title_en": "Další zklamání. Cloudový byznys Amazonu roste, cash flow ale trpí kvůli AI",
-      "lead_en": "Amazon ve třetím čtvrtletí zaostal za odhady tržeb i zisku a jeho akcie po výsledcích ztrácely přes šest procent. Cloudový byznys zrychlil růst na 39 procent, stamiliardové investice do AI ale prohlubují záporné volné cash flow.",
-      "title_raw": "Další zklamání. Cloudový byznys Amazonu roste, cash flow ale trpí kvůli AI",
-      "lead_raw": "Amazon ve třetím čtvrtletí zaostal za odhady tržeb i zisku a jeho akcie po výsledcích ztrácely přes šest procent. Cloudový byznys zrychlil růst na 39 procent, stamiliardové investice do AI ale prohlubují záporné volné cash flow.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "0f8c934495d691da0b4a5044cf36ee01f80d7f68",
-      "fingerprint": "1511a4eb9af9233e434eb9a09e3a70d92afd7ffa",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-zpravy-liberecky-kraj-muzeum-v-turnove-vystavuje-unikatni-stribrny-relikviar-svateho-vaclava-40605651",
-      "published_utc": "2026-10-29T21:55:07Z",
-      "title_en": "Muzeum v Turnově vystavuje unikátní stříbrný relikviář svatého Václava",
-      "lead_en": "Expozici replik královských korun v muzeu v Turnově dočasně obohatil stříbrný relikviář svatého Václava, zachycující tvář a hruď hlavního patrona české země. Na objednávku staroboleslavské kapituly ho vytvořil turnovský zlatník Jiří Urban spolu se sochařem Petrem Vogelem a dalšími řemeslníky.",
-      "title_raw": "Muzeum v Turnově vystavuje unikátní stříbrný relikviář svatého Václava",
-      "lead_raw": "Expozici replik královských korun v muzeu v Turnově dočasně obohatil stříbrný relikviář svatého Václava, zachycující tvář a hruď hlavního patrona české země. Na objednávku staroboleslavské kapituly ho vytvořil turnovský zlatník Jiří Urban spolu se sochařem Petrem Vogelem a dalšími řemeslníky.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "14778e3261bc953e6bf9f6d572ab1bdf8fd21e65",
-      "fingerprint": "569388e9a4468eccf84c7a6016261204c27b99f6",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-muz-v-sumperku-po-hadce-pobodal-soka-40605577",
-      "published_utc": "2026-10-29T21:41:51Z",
-      "title_en": "Muž v Šumperku po hádce pobodal soka",
-      "lead_en": "Nožem pobodal dvaatřicetiletý muž o šest let mladšího muže v úterý odpoledne v Šumperku. Vyvrcholil tak konflikt mezi oběma aktéry, který začal hádkou.",
-      "title_raw": "Muž v Šumperku po hádce pobodal soka",
-      "lead_raw": "Nožem pobodal dvaatřicetiletý muž o šest let mladšího muže v úterý odpoledne v Šumperku. Vyvrcholil tak konflikt mezi oběma aktéry, který začal hádkou.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "1a852e664ba1f62a14fe50301849aae95f58e57c",
-      "fingerprint": "8303a9e6c6601be88e8ed21745380d68f4c0e75a",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-dva-belorusove-planovali-zharsky-utok-u-norimberku-40605573",
-      "published_utc": "2026-10-29T21:38:37Z",
-      "title_en": "Dva Bělorusové plánovali žhářský útok u Norimberku",
-      "lead_en": "Bavorské úřady vyšetřují dva běloruské muže, kteří zřejmě plánovali žhářský útok na důležitou infrastrukturu v okolí Norimberku. Podle německých médií je dvojice zapletená také do útoku na továrnu v rumunském Brašově.",
-      "title_raw": "Dva Bělorusové plánovali žhářský útok u Norimberku",
-      "lead_raw": "Bavorské úřady vyšetřují dva běloruské muže, kteří zřejmě plánovali žhářský útok na důležitou infrastrukturu v okolí Norimberku. Podle německých médií je dvojice zapletená také do útoku na továrnu v rumunském Brašově.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "4c27244487fc1b0cd3cf076893e07497af642259",
-      "fingerprint": "015cb59b619f81e7ed6ad59077496a4b0643a350",
-      "source": "iROZHLAS - Economy",
-      "url": "https://www.irozhlas.cz/ekonomika/historicka-vyvraci-myty-o-ceskoslovenske-ekonomice-prosperita-se-zadrhla-pad_2610292233_lar",
-      "published_utc": "2026-10-29T21:33:00Z",
-      "title_en": "Historička vyvrací mýty o československé ekonomice: Prosperita se zadrhla, pád monarchie přinesl cla",
-      "lead_en": "První republiku často vykreslujeme jako dobu úspěšných podnikatelů, zrodu českých světově proslulých značek a mimořádně vyspělého průmyslu. „Představa byla vymanit se z okovů, zbavit se žaláře národů a být středoevropským lídrem,“ připomíná v pořadu Řečí peněz historička ekonomie Antonie Doležalová.",
-      "title_raw": "Historička vyvrací mýty o československé ekonomice: Prosperita se zadrhla, pád monarchie přinesl cla",
-      "lead_raw": "První republiku často vykreslujeme jako dobu úspěšných podnikatelů, zrodu českých světově proslulých značek a mimořádně vyspělého průmyslu. „Představa byla vymanit se z okovů, zbavit se žaláře národů a být středoevropským lídrem,“ připomíná v pořadu Řečí peněz historička ekonomie Antonie Doležalová.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "33766a555a880301de56402b4c98d4d130c8bb78",
-      "fingerprint": "9cafc76e2aa520eb6e1f878cc6477774336833a1",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-devitileta-divka-na-novojicinsku-necekane-vstoupila-do-silnice-ridic-uz-stretu-nezabranil-40605567",
-      "published_utc": "2026-10-29T21:11:53Z",
-      "title_en": "Devítiletá dívka na Novojičínsku nečekaně vstoupila do silnice, řidič už střetu nezabránil",
-      "lead_en": "Vážné poranění nohy utrpěla devítiletá dívka, kterou ve středu odpoledne srazilo ve Veřovicích na Novojičínsku osobní auto. Podle policistů dívenka nečekaně vstoupila do vozovky mimo přechod pro chodce, na což 82letý řidič nedokázal zareagovat.",
-      "title_raw": "Devítiletá dívka na Novojičínsku nečekaně vstoupila do silnice, řidič už střetu nezabránil",
-      "lead_raw": "Vážné poranění nohy utrpěla devítiletá dívka, kterou ve středu odpoledne srazilo ve Veřovicích na Novojičínsku osobní auto. Podle policistů dívenka nečekaně vstoupila do vozovky mimo přechod pro chodce, na což 82letý řidič nedokázal zareagovat.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "f7f03a272da20d0cb41aa739cf7edbdeb22855a1",
-      "fingerprint": "700790f4a854f41828ede211e79189a799413e6c",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/putin-rusko-valku-s-evropou-nechce-ale-je-pripraveno.A261029_214010_zahranicni_ikul",
-      "published_utc": "2026-10-29T21:08:00Z",
-      "title_en": "Rusko s Evropou válčit nechce. Ale je připraveno, pohrozil Putin",
-      "lead_en": "Rusko válku s Evropou nechce, je na ni ale připraveno, uvedl ve čtvrtek šéf Kremlu Vladimir Putin podle státní tiskové agentury RIA Novosti. Komentoval také svůj úterní telefonát s finským prezidentem Alexanderem Stubbem a norským premiérem Jonasem Gahrem Störem.",
-      "title_raw": "Rusko s Evropou válčit nechce. Ale je připraveno, pohrozil Putin",
-      "lead_raw": "Rusko válku s Evropou nechce, je na ni ale připraveno, uvedl ve čtvrtek šéf Kremlu Vladimir Putin podle státní tiskové agentury RIA Novosti. Komentoval také svůj úterní telefonát s finským prezidentem Alexanderem Stubbem a norským premiérem Jonasem Gahrem Störem.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "dc2f42c4089d05f367c788dc39f568f840341712",
-      "fingerprint": "ce0c32c51b4b996d850f26c89710548d61d968bc",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-volby-do-kongresu-mohou-akciim-prospet-40605550",
-      "published_utc": "2026-10-29T21:07:12Z",
-      "title_en": "Volby do Kongresu mohou akciím prospět",
-      "lead_en": "Americké akcie mají historicky po volbách do Kongresu Spojených států tendenci růst. Ve všech devatenácti sledovaných cyklech od roku 1950 byl index S&amp;P 500 o šest měsíců později výše, přičemž průměrný výnos činil 13 procent.",
-      "title_raw": "Volby do Kongresu mohou akciím prospět",
-      "lead_raw": "Americké akcie mají historicky po volbách do Kongresu Spojených států tendenci růst. Ve všech devatenácti sledovaných cyklech od roku 1950 byl index S&amp;P 500 o šest měsíců později výše, přičemž průměrný výnos činil 13 procent.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "15f0ca623e6c13bb056489912d85ec2569d54c9d",
-      "fingerprint": "b163d95b5153ef1839dd1c000a025856fb5e6276",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-pad-cloveka-pod-soupravu-metra-40605658",
-      "published_utc": "2026-10-29T21:05:36Z",
-      "title_en": "Pod soupravu metra spadl muž",
-      "lead_en": "Záchranáři zasahují ve čtvrtek v noci ve stanici metra Luka u hlášeného pádu člověka pod soupravu. Provoz metra na části linky B je zastaven.",
-      "title_raw": "Pod soupravu metra spadl muž",
-      "lead_raw": "Záchranáři zasahují ve čtvrtek v noci ve stanici metra Luka u hlášeného pádu člověka pod soupravu. Provoz metra na části linky B je zastaven.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "b12addddfeea8c2a1f93ea0460b5e3f89bfcd986",
-      "fingerprint": "3221ae47c86c658aa14ce95d3af1553e8051a209",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/klempir-potvrdil-ze-vlada-bude-rozpocet-fondu-audiovize-schvalovat-v-pondeli/2894835",
-      "published_utc": "2026-10-29T21:04:00Z",
-      "title_en": "Klempíř potvrdil, že vláda bude rozpočet fondu audiovize schvalovat v pondělí",
-      "lead_en": "Praha - Vláda bude v pondělí 2. listopadu schvalovat rozpočet Státního fondu audiovize (SFA).",
-      "title_raw": "Klempíř potvrdil, že vláda bude rozpočet fondu audiovize schvalovat v pondělí",
-      "lead_raw": "Praha - Vláda bude v pondělí 2. listopadu schvalovat rozpočet Státního fondu audiovize (SFA).",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "ff21ec8bf925bbf17ced2ece72b571d599078b11",
-      "fingerprint": "344447c6d9000071eb38c2d67cdd5ee7b0dc0a33",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-akcie-fondy-intel-prekonal-odhady-slaby-vyhled-pro-pc-trh-ale-srazil-akcie-prudce-dolu-319137",
-      "published_utc": "2026-10-29T21:02:02Z",
-      "title_en": "Intel překonal odhady, slabý výhled pro PC trh ale srazil akcie prudce dolů",
-      "lead_en": "Intel ve třetím čtvrtletí zvýšil tržby o 21 procent a překonal odhady zisku. Výhled na další kvartál ale zaostal za očekáváním, když zejména slabý trh s PC a výpadek izraelského závodu srazily cenu akcií firmy až o pětinu níže.",
-      "title_raw": "Intel překonal odhady, slabý výhled pro PC trh ale srazil akcie prudce dolů",
-      "lead_raw": "Intel ve třetím čtvrtletí zvýšil tržby o 21 procent a překonal odhady zisku. Výhled na další kvartál ale zaostal za očekáváním, když zejména slabý trh s PC a výpadek izraelského závodu srazily cenu akcií firmy až o pětinu níže.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "442069259a71224ab278b133d90dcef04d79db1a",
-      "fingerprint": "c8256863d76d1afc98760828476b3d4e071bb710",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/statni-vyznamenani-biolozka-helena-illnerova_2610292155_zfr",
-      "published_utc": "2026-10-29T20:55:00Z",
-      "title_en": "„Všichni dobří vědci by měli učit na vysokých školách,\" říká držitelka Řádu bílého lva Helena Illnerová",
-      "lead_en": "Prezident Petr Pavel na středečním předávání státních vyznamenání hned v úvodu večera propůjčil nejvyšší státní vyznamenání bioložce Heleně Illnerové. Zakladatelka české chronobiologie a první předsedkyni Akademie věd České republiky získala Řád bílého lva za zvláště vynikající zásluhy o stát v oblasti vědy.",
-      "title_raw": "„Všichni dobří vědci by měli učit na vysokých školách,\" říká držitelka Řádu bílého lva Helena Illnerová",
-      "lead_raw": "Prezident Petr Pavel na středečním předávání státních vyznamenání hned v úvodu večera propůjčil nejvyšší státní vyznamenání bioložce Heleně Illnerové. Zakladatelka české chronobiologie a první předsedkyni Akademie věd České republiky získala Řád bílého lva za zvláště vynikající zásluhy o stát v oblasti vědy.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "57fd404fe2c956fe15fc9e7f2fe423d1c5e035c3",
-      "fingerprint": "de3ceb76e0526b4e887b829c95488d93336a9fbf",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-rusko-valku-s-evropou-nechce-ale-je-na-ni-pripraveno-uvedl-putin-319135",
-      "published_utc": "2026-10-29T20:47:35Z",
-      "title_en": "Rusko válku s Evropou nechce, ale je na ni připraveno, uvedl Putin",
-      "lead_en": "Vladimir Putin si pochvaloval telefonát s finský prezidentem a norským premiérem. To, že s ním hovořili, považuje za správné.",
-      "title_raw": "Rusko válku s Evropou nechce, ale je na ni připraveno, uvedl Putin",
-      "lead_raw": "Vladimir Putin si pochvaloval telefonát s finský prezidentem a norským premiérem. To, že s ním hovořili, považuje za správné.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "50cf8120d6308ab8c638ac0b0fc2c83cf46bb25b",
-      "fingerprint": "6c9c2a772b7d6b1d24c07eef9813e23ccad0754b",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-ukrajinska-rozvedka-rekrutovala-mlade-rusy-pres-seznamovaciho-chatbota-tvrdi-fsb-40605548",
-      "published_utc": "2026-10-29T20:42:39Z",
-      "title_en": "Ukrajinská rozvědka rekrutovala mladé Rusy přes seznamovacího chatbota, tvrdí FSB",
-      "lead_en": "Ukrajinské tajné služby podle ruské bezpečnostní služby FSB rekrutovaly mladé Rusy pro sabotážní a špionážní operace přes seznamovacího chatbota na sociální síti Telegram. Informovala o tom ruská a ukrajinská média.",
-      "title_raw": "Ukrajinská rozvědka rekrutovala mladé Rusy přes seznamovacího chatbota, tvrdí FSB",
-      "lead_raw": "Ukrajinské tajné služby podle ruské bezpečnostní služby FSB rekrutovaly mladé Rusy pro sabotážní a špionážní operace přes seznamovacího chatbota na sociální síti Telegram. Informovala o tom ruská a ukrajinská média.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "b85ffc457f24dbfe09efc8f1a081ad107acbe788",
-      "fingerprint": "a6454d5778574ff04858fd84f3fae103a5e1ccd5",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-strnad-chce-vyrobce-bryli-ray-ban-za-italsky-holding-nabizi-730-miliard-319136",
-      "published_utc": "2026-10-29T20:36:34Z",
-      "title_en": "Strnad chce výrobce brýlí Ray-Ban. Za italský holding nabízí 730 miliard",
-      "lead_en": "Český miliardář Michal Strnad podal nabídku na italský holding Delfin, pod který spadá i výrobce brýlí Ray-Ban. Dědic zakladatele ale trvá na italském vlastníkovi.",
-      "title_raw": "Strnad chce výrobce brýlí Ray-Ban. Za italský holding nabízí 730 miliard",
-      "lead_raw": "Český miliardář Michal Strnad podal nabídku na italský holding Delfin, pod který spadá i výrobce brýlí Ray-Ban. Dědic zakladatele ale trvá na italském vlastníkovi.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "72fdacfef9bb9a40a847cd104b036a120e675edb",
-      "fingerprint": "e902500d0b03cea853e81143e2e9979bcce0865b",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/babis-chudarkovi-pripustil-jiny-model-financovani-medii-ukazuje-nepripravenost_2610292136_med",
-      "published_utc": "2026-10-29T20:36:00Z",
-      "title_en": "Babiš Chudárkovi připustil jiný model financování médií. ‚Ukazuje to nepřipravenost vlády,‘ kritizuje Zavoral",
-      "lead_en": "Schůzka premiéra Andreje Babiše z ANO s generálním ředitelem České televize Hynkem Chudárkem skončila bez výsledku. Probírali plánované zrušení rozhlasových a televizních poplatků a jejich nahrazení příspěvky ze státního rozpočtu.",
-      "title_raw": "Babiš Chudárkovi připustil jiný model financování médií. ‚Ukazuje to nepřipravenost vlády,‘ kritizuje Zavoral",
-      "lead_raw": "Schůzka premiéra Andreje Babiše z ANO s generálním ředitelem České televize Hynkem Chudárkem skončila bez výsledku. Probírali plánované zrušení rozhlasových a televizních poplatků a jejich nahrazení příspěvky ze státního rozpočtu.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "de943b6194cfc28f15bd2886762bec84e5d3f0ff",
-      "fingerprint": "b71d4988d9f61900af582e1f828c8a24433f0cc8",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/domaci/strnad-nabizi-30-miliard-eur-koupe-delfin-vyrobce-bryli-rad-ban.A261029_211913_ekonomika_ikul",
-      "published_utc": "2026-10-29T20:35:00Z",
-      "title_en": "Miliardář Strnad nabízí 30 miliard eur za holding, pod který patří výrobce Ray-Ban",
-      "lead_en": "Miliardář Michal Strnad nabídl přibližně 30 miliard eur (730 miliard Kč) za italský rodinný holding Delfin, pod který patří výrobce brýlí EssilorLuxottica a další firmy. Strnad je vlastníkem a předsedou představenstva zbrojní skupiny Czechoslovak Group (CSG).",
-      "title_raw": "Miliardář Strnad nabízí 30 miliard eur za holding, pod který patří výrobce Ray-Ban",
-      "lead_raw": "Miliardář Michal Strnad nabídl přibližně 30 miliard eur (730 miliard Kč) za italský rodinný holding Delfin, pod který patří výrobce brýlí EssilorLuxottica a další firmy. Strnad je vlastníkem a předsedou představenstva zbrojní skupiny Czechoslovak Group (CSG).",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "77c6716efff61a129d50eb6c0409074b2480c9b9",
-      "fingerprint": "ab9826d10e7de473cf09912934a717da0e621fe9",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-polsky-prezident-vyznamenal-in-memoriam-lekare-z-prahy-za-pomoc-detem-319132",
-      "published_utc": "2026-10-29T20:28:06Z",
-      "title_en": "Polský prezident vyznamenal in memoriam lékaře z Prahy za pomoc dětem",
-      "lead_en": "Emil Vogl, který jako lékař židovského původu z Prahy za války pomáhal pečovat a zachraňovat životy dětí v Polsku, získal od prezidenta Nawrockého in memoriam medaili.",
-      "title_raw": "Polský prezident vyznamenal in memoriam lékaře z Prahy za pomoc dětem",
-      "lead_raw": "Emil Vogl, který jako lékař židovského původu z Prahy za války pomáhal pečovat a zachraňovat životy dětí v Polsku, získal od prezidenta Nawrockého in memoriam medaili.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "ca6980e82c51a75c32c9262a9b9aa4f3693b38d1",
-      "fingerprint": "91a37d48ed70afc1e91aaf4f000f59bd1a48b407",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/kultura/film-televize/legendarni-kapitan-star-treku-zemrel-herci-patricku-stewartovi-bylo-86-let.A261029_210210_filmvideo_dvou",
-      "published_utc": "2026-10-29T20:25:00Z",
-      "title_en": "Legendární kapitán Star Treku zemřel. Herci Patricku Stewartovi bylo 86 let",
-      "lead_en": "Ve věku 86 let zemřel britský herec Patrick Stewart. Ztvárnil jednu z klíčových rolí kapitána Jeana-Luca Picarda v legendárním sci-fi seriálu Star Trek.",
-      "title_raw": "Legendární kapitán Star Treku zemřel. Herci Patricku Stewartovi bylo 86 let",
-      "lead_raw": "Ve věku 86 let zemřel britský herec Patrick Stewart. Ztvárnil jednu z klíčových rolí kapitána Jeana-Luca Picarda v legendárním sci-fi seriálu Star Trek.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "af12cd2e1a3b2ea89098facf743a9d9b52dff036",
-      "fingerprint": "ba697f4ed012b0506661879c21bbfec43f1845ff",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/kultura/zemrel-herec-patrick-stewart-proslavil-se-filmy-x-men-nebo-v-serialu-star-trek-379124",
-      "published_utc": "2026-10-29T20:23:18Z",
-      "title_en": "Zemřel herec Patrick Stewart. Proslavil se filmy X-Men nebo v seriálu Star Trek",
-      "lead_en": "Ve věku 86 let zemřel britský herec Patrick Stewart, který je známý jako kapitán Jean-Luc Picard ze seriálu Star Trek: Nová generace nebo z&nbsp;filmů X-Men, kde ztvárnil roli profesora Charlese Xaviera. Na divadle ztvárnil řadu shakespearovských rolí.",
-      "title_raw": "Zemřel herec Patrick Stewart. Proslavil se filmy X-Men nebo v seriálu Star Trek",
-      "lead_raw": "Ve věku 86 let zemřel britský herec Patrick Stewart, který je známý jako kapitán Jean-Luc Picard ze seriálu Star Trek: Nová generace nebo z&nbsp;filmů X-Men, kde ztvárnil roli profesora Charlese Xaviera. Na divadle ztvárnil řadu shakespearovských rolí.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "637507b3c1291af4c902ca8937e6e14784f76291",
-      "fingerprint": "7eda37a2d495973174ec2b269bb750f56f447298",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/zmeny-dotacniho-systemu-v-kulture-jsou-podle-klempire-nezbytne-/2894706",
-      "published_utc": "2026-10-29T20:21:00Z",
-      "title_en": "Změny dotačního systému v kultuře jsou podle Klempíře nezbytné",
-      "lead_en": "Praha - Ministr kultury Oto Klempíř (za Motoristy) před členy sněmovního mediálního výboru zopakoval, že změny dotačního systému na ministerstvu kultury a jasná pravidla pro předcházení střetu zájmů jsou...",
-      "title_raw": "Změny dotačního systému v kultuře jsou podle Klempíře nezbytné",
-      "lead_raw": "Praha - Ministr kultury Oto Klempíř (za Motoristy) před členy sněmovního mediálního výboru zopakoval, že změny dotačního systému na ministerstvu kultury a jasná pravidla pro předcházení střetu zájmů jsou...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "979cc711305dea2e4a16e1780d92d01215242b7c",
-      "fingerprint": "81801b28afb390f983924070652723eeb298f1f1",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/bloomberg-strnad-nabizi-30-miliard-eur-za-vlastnika-vyrobce-bryli-ray-ban/2894821",
-      "published_utc": "2026-10-29T20:20:00Z",
-      "title_en": "Bloomberg: Strnad nabízí 30 miliard eur za vlastníka výrobce brýlí Ray-Ban",
-      "lead_en": "Milán (Itálie) - Miliardář Michal Strnad nabídl přibližně 30 miliard eur (730 miliard Kč) za italský rodinný holding Delfin, pod který patří výrobce brýlí EssilorLuxottica a další firmy. Dnes to uvedla...",
-      "title_raw": "Bloomberg: Strnad nabízí 30 miliard eur za vlastníka výrobce brýlí Ray-Ban",
-      "lead_raw": "Milán (Itálie) - Miliardář Michal Strnad nabídl přibližně 30 miliard eur (730 miliard Kč) za italský rodinný holding Delfin, pod který patří výrobce brýlí EssilorLuxottica a další firmy. Dnes to uvedla...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "76491b237a59342a28a7fc6d933b85f1fbadc2a5",
-      "fingerprint": "94d18ff3ca73f4daf3a93d4c7613a82da13a78c1",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/kultura-zemrel-patrick-stewart-kapitan-picard-ze-star-treku-319134",
-      "published_utc": "2026-10-29T20:17:43Z",
-      "title_en": "Zemřel Patrick Stewart, kapitán Picard ze Star Treku",
-      "lead_en": "Ceněný divadelník Patrick Stewart se proslavil díky Star Treku nebo filmům X-Men.",
-      "title_raw": "Zemřel Patrick Stewart, kapitán Picard ze Star Treku",
-      "lead_raw": "Ceněný divadelník Patrick Stewart se proslavil díky Star Treku nebo filmům X-Men.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "21a792dcf38221974fcd8963b96a9b382a8d441c",
-      "fingerprint": "4d322d8c5841916b09addce9736717a80199f00a",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-babis-pripustil-ze-by-financovani-ct-a-rozhlasu-mohlo-byt-jine-rekl-chudarek-319133",
-      "published_utc": "2026-10-29T20:13:08Z",
-      "title_en": "Babiš připustil, že by financování ČT a rozhlasu mohlo být jiné, řekl Chudárek",
-      "lead_en": "Premiér Andrej Babiš při jednání se šéfem ČT Hynkem Chudárkem připustil jinou formu financování veřejnoprávních médií než přes státní rozpočet. Uvažuje o severském modelu.",
-      "title_raw": "Babiš připustil, že by financování ČT a rozhlasu mohlo být jiné, řekl Chudárek",
-      "lead_raw": "Premiér Andrej Babiš při jednání se šéfem ČT Hynkem Chudárkem připustil jinou formu financování veřejnoprávních médií než přes státní rozpočet. Uvažuje o severském modelu.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "d73339fcc9ae3c4fb2d955453101d3bc226df2e9",
-      "fingerprint": "3c5cacfef3503c69091155d6fe167be3830ba52a",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/kultura-zemrel-patrick-stewart-40605654",
-      "published_utc": "2026-10-29T19:55:04Z",
-      "title_en": "Zemřel herec Patrick Stewart",
-      "lead_en": "Ve věku 86 let ve středu zemřel divadelní, filmový a seriálový herec Patrick Stewart, známý divákům zejména jako kapitán Jean-Luc Picard ze seriálu Star Trek.",
-      "title_raw": "Zemřel herec Patrick Stewart",
-      "lead_raw": "Ve věku 86 let ve středu zemřel divadelní, filmový a seriálový herec Patrick Stewart, známý divákům zejména jako kapitán Jean-Luc Picard ze seriálu Star Trek.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "0ca7eed4b27817aabd5dc405a24a11bccbcffb33",
-      "fingerprint": "fd1139219ec3107411d70712549da4f0fd4a8259",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-rusko-je-pripraveno-na-valku-s-evropou-prohlasil-putin-40605653",
-      "published_utc": "2026-10-29T19:52:17Z",
-      "title_en": "Rusko je připraveno na válku s Evropou, prohlásil Putin",
-      "lead_en": "Rusko je připraveno na potenciální válku s Evropou, i když ji nechce, prohlásil ruský prezident Vladimir Putin na tiskové konferenci po summitu Rusko-Afrika.",
-      "title_raw": "Rusko je připraveno na válku s Evropou, prohlásil Putin",
-      "lead_raw": "Rusko je připraveno na potenciální válku s Evropou, i když ji nechce, prohlásil ruský prezident Vladimir Putin na tiskové konferenci po summitu Rusko-Afrika.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "73a5454e555c9dcb49b6298c33e33d510f272250",
-      "fingerprint": "d981d487c20feabcd67bfedff7b77a3c3e1724ad",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/chudarek-babis-pripustil-jiny-model-financovani-ct-a-cro-mimo-rozpocet-/2894474",
-      "published_utc": "2026-10-29T19:52:00Z",
-      "title_en": "Chudárek: Babiš připustil jiný model financování ČT a ČRo mimo rozpočet",
-      "lead_en": "Praha - Premiér Andrej Babiš (ANO) na jednání s generálním ředitelem České televize (ČT) Hynkem Chudárkem připustil možnost jiné formy financování veřejnoprávních médií než ze státního rozpočtu nebo formou...",
-      "title_raw": "Chudárek: Babiš připustil jiný model financování ČT a ČRo mimo rozpočet",
-      "lead_raw": "Praha - Premiér Andrej Babiš (ANO) na jednání s generálním ředitelem České televize (ČT) Hynkem Chudárkem připustil možnost jiné formy financování veřejnoprávních médií než ze státního rozpočtu nebo formou...",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "2a397cc14729923f24d9973021840a7af51a29fb",
-      "fingerprint": "0756c69734e44fa5c9f605d4578c46f96d765418",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/kultura-sef-divadla-se-oprel-do-klempire-vadi-mu-jeho-vyrok-o-voskovci-a-werichovi-319131",
-      "published_utc": "2026-10-29T19:45:55Z",
-      "title_en": "Šéf divadla se opřel do Klempíře. Vadí mu jeho výrok o Voskovci a Werichovi",
-      "lead_en": "„Voskovec a Werich svou odvahu prokázali v době, kdy za ni nesli skutečné následky. Oto Klempíř by měl při své intelektuální nesmělosti projevit při hodnocení jejich morálních postojů aspoň více pokory,“ napsal.",
-      "title_raw": "Šéf divadla se opřel do Klempíře. Vadí mu jeho výrok o Voskovci a Werichovi",
-      "lead_raw": "„Voskovec a Werich svou odvahu prokázali v době, kdy za ni nesli skutečné následky. Oto Klempíř by měl při své intelektuální nesmělosti projevit při hodnocení jejich morálních postojů aspoň více pokory,“ napsal.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "386d85b82bc1645acbec3961791b1da075d57770",
-      "fingerprint": "2da1c71bbafd43751a40a69d211a6b171a71d262",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/vysetrovaci-zprava-pozaru-v-hongkongu-ukazuje-selhani-verejne-spravy-379123",
-      "published_utc": "2026-10-29T19:45:42Z",
-      "title_en": "Vyšetřovací zpráva požáru v Hongkongu ukazuje selhání veřejné správy",
-      "lead_en": "Hongkongské úřady zveřejnily vyšetřovací zprávu o&nbsp;požáru ve čtvrti Tai Po, při kterém loni zemřelo 168 lidí. Plameny zároveň zničily domovy tisíců obyvatel.",
-      "title_raw": "Vyšetřovací zpráva požáru v Hongkongu ukazuje selhání veřejné správy",
-      "lead_raw": "Hongkongské úřady zveřejnily vyšetřovací zprávu o&nbsp;požáru ve čtvrti Tai Po, při kterém loni zemřelo 168 lidí. Plameny zároveň zničily domovy tisíců obyvatel.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "158b5429b59c51b46037237b90405c73e6d78615",
-      "fingerprint": "f25db2929bac6673cfa5bedadfacecc3b3ce3bda",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-babis-pripustil-jiny-model-financovani-ct-a-cro-tvrdi-chudarek-40605518",
-      "published_utc": "2026-10-29T19:35:31Z",
-      "title_en": "Babiš připustil jiný model financování ČT a ČRo, tvrdí Chudárek",
-      "lead_en": "Premiér Andrej Babiš (ANO) připustil jiný model financování veřejnoprávních médií. Agentuře ČTK to po společné schůzce s premiérem sdělil ředitel České televize Hynek Chudárek.",
-      "title_raw": "Babiš připustil jiný model financování ČT a ČRo, tvrdí Chudárek",
-      "lead_raw": "Premiér Andrej Babiš (ANO) připustil jiný model financování veřejnoprávních médií. Agentuře ČTK to po společné schůzce s premiérem sdělil ředitel České televize Hynek Chudárek.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "cd950e7a284b54779567fdc5ca064343617a6b6e",
-      "fingerprint": "30747444aa4510433db8a62c2e66331f3d91ba40",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-zpravy-liberecky-kraj-na-frydlantsku-skoncilo-posledni-pasmo-vymezene-kvuli-africkemu-moru-prasat-40605269",
-      "published_utc": "2026-10-29T19:31:15Z",
-      "title_en": "Na Frýdlantsku skončilo poslední pásmo vymezené kvůli africkému moru prasat",
-      "lead_en": "Česko zrušilo poslední zbývající pásmo vymezené kvůli africkému moru prasat. Od posledního pozitivního případu uplynuly dva roky.",
-      "title_raw": "Na Frýdlantsku skončilo poslední pásmo vymezené kvůli africkému moru prasat",
-      "lead_raw": "Česko zrušilo poslední zbývající pásmo vymezené kvůli africkému moru prasat. Od posledního pozitivního případu uplynuly dva roky.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "3aafcba3844ff7ab6dba6d993f0106daf327ef0b",
-      "fingerprint": "2ae4721d297b322647c3a16563a0c6d146b4b6e2",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-na-koleje-v-jihlave-nekdo-polozil-houpaciho-kone-vlak-na-nej-najel-40605528",
-      "published_utc": "2026-10-29T19:24:02Z",
-      "title_en": "Na koleje v Jihlavě někdo položil houpacího koně. Vlak na něj najel",
-      "lead_en": "Svým očím asi ani nevěřil strojvedoucí vlaku jedoucího mezi stanicemi Jihlava a Jihlava - město. Na koleje totiž někdo navršil překážku v podobě kamene, pneumatiky od horského kola a houpacího koně z tvrzeného plastu.",
-      "title_raw": "Na koleje v Jihlavě někdo položil houpacího koně. Vlak na něj najel",
-      "lead_raw": "Svým očím asi ani nevěřil strojvedoucí vlaku jedoucího mezi stanicemi Jihlava a Jihlava - město. Na koleje totiž někdo navršil překážku v podobě kamene, pneumatiky od horského kola a houpacího koně z tvrzeného plastu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "039b4cdbd6f41f3762845d621fe9996dd77ad42e",
-      "fingerprint": "36a5bf550c5dc1d71d4cda57e528a25a53e4738e",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-valka-proti-iranu-uz-stala-usa-vice-nez-bilion-korun-40605584",
-      "published_utc": "2026-10-29T19:18:26Z",
-      "title_en": "Válka proti Íránu už stála USA více než bilion korun",
-      "lead_en": "Americké náklady na válku proti Íránu dosáhly k polovině října výše 47,1 miliardy dolarů (více než bilion korun). Podle listu The New York Times více než 60 procent této částky padlo na bomby, rakety a další munici.",
-      "title_raw": "Válka proti Íránu už stála USA více než bilion korun",
-      "lead_raw": "Americké náklady na válku proti Íránu dosáhly k polovině října výše 47,1 miliardy dolarů (více než bilion korun). Podle listu The New York Times více než 60 procent této částky padlo na bomby, rakety a další munici.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "5c2c60d0f2f844169d7c3eb570c0d11ca984adef",
-      "fingerprint": "bb62a3b27b7586477f746920f3befd48131e0c0a",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/bosna-a-hercegovina-havarie-vrtulnik-mise-eufor.A261029_192138_zahranicni_kha",
-      "published_utc": "2026-10-29T19:14:02Z",
-      "title_en": "V Bosně havaroval vrtulník mise EUFOR, nejméně tři lidé zemřeli",
-      "lead_en": "V regionu u města Brčko na severu Bosny a Hercegoviny ve čtvrtek při rutinní operaci havaroval vrtulník evropské mise mírových stabilizačních sil EUFOR. Podle vyjádření mise nebyli zraněni žádní civilisté a poškozena nebyla civilní infrastruktura ani majetek.",
-      "title_raw": "V Bosně havaroval vrtulník mise EUFOR, nejméně tři lidé zemřeli",
-      "lead_raw": "V regionu u města Brčko na severu Bosny a Hercegoviny ve čtvrtek při rutinní operaci havaroval vrtulník evropské mise mírových stabilizačních sil EUFOR. Podle vyjádření mise nebyli zraněni žádní civilisté a poškozena nebyla civilní infrastruktura ani majetek.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "debb637b1a0264c7b40e759c9248d17cebf3ac30",
-      "fingerprint": "8f1f4da75bf786aab835af3bc9789502edda758e",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/za-zastreleni-loveckeho-psa-dostal-myslivec-trilety-zakaz-cinnosti-379122",
-      "published_utc": "2026-10-29T19:10:15Z",
-      "title_en": "Za zastřelení loveckého psa dostal myslivec tříletý zákaz činnosti",
-      "lead_en": "Přišel o&nbsp;zbraň a&nbsp;následující tři roky nesmí vykonávat myslivost. Takový je nepravomocný rozsudek, který vynesl Okresní soud ve Žďáře nad Sázavou nad 54letým myslivcem z&nbsp;Blízkova, který zastřelil loveckého psa.",
-      "title_raw": "Za zastřelení loveckého psa dostal myslivec tříletý zákaz činnosti",
-      "lead_raw": "Přišel o&nbsp;zbraň a&nbsp;následující tři roky nesmí vykonávat myslivost. Takový je nepravomocný rozsudek, který vynesl Okresní soud ve Žďáře nad Sázavou nad 54letým myslivcem z&nbsp;Blízkova, který zastřelil loveckého psa.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "dbe5e4d29ae7718db0dd3cd4b56f64adb934a1e4",
-      "fingerprint": "0b940155670b1b09db80c4c5e1b3e927d88875a9",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nasli-kde-vznika-reka-punkva-prohrabali-jsme-se-tam-rukama-lici-potapec-319129",
-      "published_utc": "2026-10-29T19:06:28Z",
-      "title_en": "Našli, kde vzniká řeka Punkva. Prohrabali jsme se tam rukama, líčí potápěč",
-      "lead_en": "Jeskyňářům se podařilo to, o co se pokouší už roky. V podzemí Moravského krasu, poblíž propasti Macocha, nalezli místo, kde vzniká řeka Punkva.",
-      "title_raw": "Našli, kde vzniká řeka Punkva. Prohrabali jsme se tam rukama, líčí potápěč",
-      "lead_raw": "Jeskyňářům se podařilo to, o co se pokouší už roky. V podzemí Moravského krasu, poblíž propasti Macocha, nalezli místo, kde vzniká řeka Punkva.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "7516dd0b7f1d4da94ebf5e477cf824ad9ff0f5c2",
-      "fingerprint": "42d38a39be3242aa272d97b4b96296440f22208e",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/pocasi-ulice-se-menily-v-reky-recko-zasahly-dalsi-bleskove-povodne-40605621",
-      "published_utc": "2026-10-29T19:02:42Z",
-      "title_en": "Ulice se měnily v řeky. Řecko zasáhly další bleskové povodně",
-      "lead_en": "Silné lijáky ve středu zasáhly Řecko a na několika místech vyvolaly bleskové povodně. Voda zaplavovala domy a ulice, unášela předměty a poškozovala silnice.",
-      "title_raw": "Ulice se měnily v řeky. Řecko zasáhly další bleskové povodně",
-      "lead_raw": "Silné lijáky ve středu zasáhly Řecko a na několika místech vyvolaly bleskové povodně. Voda zaplavovala domy a ulice, unášela předměty a poškozovala silnice.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "2b1012d7f648b76a3862e649a0a00f0dc78af54e",
-      "fingerprint": "94daf63ff8f46e9aea76ebdea8e82ff4f23c88d1",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-podzemi-rusko-trubky-ropovody-plynovody.A261029_113237_zahranicni_aha",
-      "published_utc": "2026-10-29T19:00:00Z",
-      "title_en": "Válka se zakopává pod zem. Ukrajinci a Rusové bojují v potrubí, učí se u Hamásu",
-      "lead_en": "První světová. Vietnam.",
-      "title_raw": "Válka se zakopává pod zem. Ukrajinci a Rusové bojují v potrubí, učí se u Hamásu",
-      "lead_raw": "První světová. Vietnam.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "e0f5898ef2279f41c534123084a0c6b22018ff8f",
-      "fingerprint": "dff46aecc16afde420bcae88ffbc66cbb415f290",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/veda-skoly-nicivou-povoden-ktera-zasahla-cesko-v-roce-2024-vyrazne-zesilila-klimaticka-zmena-spocitali-vedci-40605613",
-      "published_utc": "2026-10-29T18:58:00Z",
-      "title_en": "Ničivou povodeň, která zasáhla Česko v roce 2024, výrazně zesílila klimatická změna, spočítali vědci",
-      "lead_en": "Při zářijových povodních v roce 2024 klimatická změna zesílila povodňové kulminace výrazněji než nárůst srážek. K tomuto závěru dospěl mezinárodní tým vědců vedený německým Helmholtzovým centrem pro výzkum životního prostředí (UFZ), na jehož práci se podílela i Česká zemědělská univerzita v Praze (ČZU).",
-      "title_raw": "Ničivou povodeň, která zasáhla Česko v roce 2024, výrazně zesílila klimatická změna, spočítali vědci",
-      "lead_raw": "Při zářijových povodních v roce 2024 klimatická změna zesílila povodňové kulminace výrazněji než nárůst srážek. K tomuto závěru dospěl mezinárodní tým vědců vedený německým Helmholtzovým centrem pro výzkum životního prostředí (UFZ), na jehož práci se podílela i Česká zemědělská univerzita v Praze (ČZU).",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "e7acf1ae0c83e7da3ea996853214505fd4d7eae2",
-      "fingerprint": "463d28c4d4e631d9baba2f551a9664cf6c975cba",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-vyrobce-toblerone-zene-konkurenta-k-soudu-kvuli-tvaru-veganske-cokolady-40605487",
-      "published_utc": "2026-10-29T18:46:48Z",
-      "title_en": "Výrobce Toblerone žene konkurenta k soudu kvůli tvaru veganské čokolády",
-      "lead_en": "Potravinářská společnost Mondelēz, majitelka značky Toblerone, zažalovala u londýnského vrchního soudu britského výrobce veganské čokolády Catherine’s Originals. Důvodem je podoba výrobku O’bar, který podle nadnárodního koncernu příliš připomíná charakteristický tvar slavné švýcarské čokolády.",
-      "title_raw": "Výrobce Toblerone žene konkurenta k soudu kvůli tvaru veganské čokolády",
-      "lead_raw": "Potravinářská společnost Mondelēz, majitelka značky Toblerone, zažalovala u londýnského vrchního soudu britského výrobce veganské čokolády Catherine’s Originals. Důvodem je podoba výrobku O’bar, který podle nadnárodního koncernu příliš připomíná charakteristický tvar slavné švýcarské čokolády.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "aa584b28a39682d07aefd6e060fb2f048537c666",
-      "fingerprint": "8c763c50485efc7dd8d860cd9cec5a072420e81f",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/volby-komunalni-v-novem-jicine-se-na-koalici-dohodl-vitez-voleb-40605467",
-      "published_utc": "2026-10-29T18:37:46Z",
-      "title_en": "V Novém Jičíně se na koalici dohodl vítěz voleb",
-      "lead_en": "Novojičínskou radnici povede koalice vítězného hnutí Náš Nový Jičín (9 mandátů) se sdružením Zelených, Pirátů, TOP 09 a Starostů (4) a uskupením Víc pro Nový Jičín (2). Hnutí ANO (7), ODS (3) a KDU-ČSL (2), kteří byli v čele města posledních osm let, končí společně v opozici.",
-      "title_raw": "V Novém Jičíně se na koalici dohodl vítěz voleb",
-      "lead_raw": "Novojičínskou radnici povede koalice vítězného hnutí Náš Nový Jičín (9 mandátů) se sdružením Zelených, Pirátů, TOP 09 a Starostů (4) a uskupením Víc pro Nový Jičín (2). Hnutí ANO (7), ODS (3) a KDU-ČSL (2), kteří byli v čele města posledních osm let, končí společně v opozici.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "e7730772e6646293552e33cc555217a302829c64",
-      "fingerprint": "6e580c0b99f42d50c005b398764c6d46ddb83415",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-v-bosne-a-hercegovine-havaroval-vrtulnik-mise-eufor-tri-lide-zemreli-319130",
-      "published_utc": "2026-10-29T18:31:45Z",
-      "title_en": "V Bosně a Hercegovině havaroval vrtulník mise EUFOR, čtyři lidé zemřeli",
-      "lead_en": "V Bosně a Hercegovině spadl vojenský vrtulník mezinárodní mírové mise.",
-      "title_raw": "V Bosně a Hercegovině havaroval vrtulník mise EUFOR, čtyři lidé zemřeli",
-      "lead_raw": "V Bosně a Hercegovině spadl vojenský vrtulník mezinárodní mírové mise.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "5c787fd507e945f1bbeabf8039ed277f0a64a269",
-      "fingerprint": "a008e833d80460abd651a7bc5ac8bf05bf60d387",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-estonsko-postavi-bunkry-na-hranici-s-ruskem-40605556",
-      "published_utc": "2026-10-29T18:30:58Z",
-      "title_en": "Estonsko postaví bunkry na hranici s Ruskem",
-      "lead_en": "Estonsko plánuje postavit prvních 150 bunkrů na hranici s Ruskem. Ve středu to oznámil estonský ministr obrany Martin Herem během jednání estonského parlamentu.",
-      "title_raw": "Estonsko postaví bunkry na hranici s Ruskem",
-      "lead_raw": "Estonsko plánuje postavit prvních 150 bunkrů na hranici s Ruskem. Ve středu to oznámil estonský ministr obrany Martin Herem během jednání estonského parlamentu.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "8b834b7d493250f86fcfb12373c4ae10e6314b3c",
-      "fingerprint": "b1dfd6e55f324a1ceb4a1cc01df735a21d3ae10c",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/elektromobily-uz-v-prodejich-v-evrope-prekonaly-spalovaci-auta/2894782",
-      "published_utc": "2026-10-29T18:19:00Z",
-      "title_en": "Elektromobily už v prodejích v Evropě překonaly spalovací auta",
-      "lead_en": "Čistě benzinových aut se ve třetím čtvrtletí letošního roku prodalo v Evropské unii skoro půl milionu, dieselů pak více než 160 tisíc kusů. Ani v součtu však tyto prodané auty nestačí na objem do provozu...",
-      "title_raw": "Elektromobily už v prodejích v Evropě překonaly spalovací auta",
-      "lead_raw": "Čistě benzinových aut se ve třetím čtvrtletí letošního roku prodalo v Evropské unii skoro půl milionu, dieselů pak více než 160 tisíc kusů. Ani v součtu však tyto prodané auty nestačí na objem do provozu...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "b1af63d33a764f4156a1390a160c0297fcb495c7",
-      "fingerprint": "a61de4d2b2aceacb42d02515c65c2301982117a3",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/kultura/literatura/ivan-tesar-audiokniha-krest-na-kusy-luxor-hynek-cermak-povidky.A261029_165536_literatura_lysa",
-      "published_utc": "2026-10-29T18:19:00Z",
-      "title_en": "Tesař pokřtil audioverzi knihy Na kusy. Normalizační vzpomínky namluvil Hynek Čermák",
-      "lead_en": "Novinář a spisovatel Ivan Tesař v pražském Paláci knih Luxor slavnostně pokřtil audioverzi své knihy povídek a básní Na kusy. Pod režijním vedení Jakuba Taberyho vznikla pro příznivce audioknih více než čtyřhodinová nahrávka s hlasem herce Hynka Čermáka, jež připomíná dospívání za dob normalizace.",
-      "title_raw": "Tesař pokřtil audioverzi knihy Na kusy. Normalizační vzpomínky namluvil Hynek Čermák",
-      "lead_raw": "Novinář a spisovatel Ivan Tesař v pražském Paláci knih Luxor slavnostně pokřtil audioverzi své knihy povídek a básní Na kusy. Pod režijním vedení Jakuba Taberyho vznikla pro příznivce audioknih více než čtyřhodinová nahrávka s hlasem herce Hynka Čermáka, jež připomíná dospívání za dob normalizace.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "8b487891c77f607cbf19a045a9ae5679b1f90366",
-      "fingerprint": "2dbe5796502c8accfd88fc05aa181f6c669470cf",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-misto-aktualit-stare-porady-stavka-ve-verejnopravnich-mediich-ma-byt-znat-40605646",
-      "published_utc": "2026-10-29T18:17:40Z",
-      "title_en": "Místo aktualit staré pořady? Stávka ve veřejnoprávních médiích má být znát",
-      "lead_en": "Ohlášená úterní stávka zaměstnanců České televize (ČT) a Českého rozhlasu (ČRo) má tentokrát vysílání výrazně proměnit. Podle informací serveru iDnes stávkující zaměstnanci uvažují o citelném osekání programu na kanálu ČT24, který by místo aktuálních reportáží obsahoval reprízy těch starších.",
-      "title_raw": "Místo aktualit staré pořady? Stávka ve veřejnoprávních médiích má být znát",
-      "lead_raw": "Ohlášená úterní stávka zaměstnanců České televize (ČT) a Českého rozhlasu (ČRo) má tentokrát vysílání výrazně proměnit. Podle informací serveru iDnes stávkující zaměstnanci uvažují o citelném osekání programu na kanálu ČT24, který by místo aktuálních reportáží obsahoval reprízy těch starších.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "1e8ca84eabfec06bd4a87807be3620fe4ac1678d",
-      "fingerprint": "b1e7b6ef6afb7dbc984c3fb82c85176a7189cc7f",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/volby-hejtman-a-novy-senator-puta-je-kandidatem-na-starostu-v-hradku-nad-nisou-40605642",
-      "published_utc": "2026-10-29T18:15:29Z",
-      "title_en": "Hejtman a nový senátor Půta je kandidátem na starostu v Hrádku nad Nisou",
-      "lead_en": "Hejtman Libereckého kraje a nově zvolený senátor Martin Půta (Starostové pro LK) oznámil na sociální síti, že je kandidátem na starostu v Hrádku nad Nisou na Liberecku, kde bydlí. Půta byl dvojkou na kandidátce Hrádek potřebuje změny, která získala 19 mandátů v pětadvacetičlenném zastupitelstvu.",
-      "title_raw": "Hejtman a nový senátor Půta je kandidátem na starostu v Hrádku nad Nisou",
-      "lead_raw": "Hejtman Libereckého kraje a nově zvolený senátor Martin Půta (Starostové pro LK) oznámil na sociální síti, že je kandidátem na starostu v Hrádku nad Nisou na Liberecku, kde bydlí. Půta byl dvojkou na kandidátce Hrádek potřebuje změny, která získala 19 mandátů v pětadvacetičlenném zastupitelstvu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "97583de8a360933d8c1bf1a7bc4b1f66cfc1d796",
-      "fingerprint": "03d92780892da38e227c051747a2be21353236a9",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-partnerstvi-ktere-se-priblizi-clenstvi-eu-jedna-o-detailech-paktu-s-kanadou-319126",
-      "published_utc": "2026-10-29T18:13:21Z",
-      "title_en": "Partnerství, které se přiblíží členství. EU jedná o detailech paktu s Kanadou",
-      "lead_en": "„Chceme vybudovat partnerství, které se členství přiblíží více než cokoli, co jsme dosud udělali,“ prohlásila Ursula von der Leyenová. Konkrétní parametry unijního paktu s Kanadou ale narážejí na výhrady členských států.",
-      "title_raw": "Partnerství, které se přiblíží členství. EU jedná o detailech paktu s Kanadou",
-      "lead_raw": "„Chceme vybudovat partnerství, které se členství přiblíží více než cokoli, co jsme dosud udělali,“ prohlásila Ursula von der Leyenová. Konkrétní parametry unijního paktu s Kanadou ale narážejí na výhrady členských států.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "3a31b49c5cbd2f256c9f016360919449d366a886",
-      "fingerprint": "6ad0114d21486bdc9222539b41d6d3e19f54de71",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/armada-chce-do-roku-2030-mit-nejmene-32-000-vojaku-z-povolani.A261029_182124_domaci_kop",
-      "published_utc": "2026-10-29T18:12:00Z",
-      "title_en": "Zvyšuje se pravděpodobnost napadení zemí NATO a EU, říká nová koncepce",
-      "lead_en": "Nová Koncepce výstavby Armády ČR 2040, kterou příští týden projedná vláda a kterou získal portál iDNES.cz, vychází ze základního faktu, že bezpečnostní prostředí se zásadně zhoršuje. „Zvyšuje se pravděpodobnost vzniku komplexních bezpečnostních krizí včetně napadení zemí NATO a EU.",
-      "title_raw": "Zvyšuje se pravděpodobnost napadení zemí NATO a EU, říká nová koncepce",
-      "lead_raw": "Nová Koncepce výstavby Armády ČR 2040, kterou příští týden projedná vláda a kterou získal portál iDNES.cz, vychází ze základního faktu, že bezpečnostní prostředí se zásadně zhoršuje. „Zvyšuje se pravděpodobnost vzniku komplexních bezpečnostních krizí včetně napadení zemí NATO a EU.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "672b1911f14743b2769839c1ff93f46516355827",
-      "fingerprint": "914adfee18ebe02badf080e8cf5fcef69e9a21a4",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropsti-a-kanadsti-vydavatele-tisku-vytvorili-koalici-chteji-svobodna-media-40605648",
-      "published_utc": "2026-10-29T18:10:29Z",
-      "title_en": "Evropští a kanadští vydavatelé tisku vytvořili koalici, chtějí svobodná média",
-      "lead_en": "Evropští a kanadští vydavatelé novin a časopisů vytvořili koalici, jejímž cílem je usilovat o svobodu, nezávislost a důvěryhodnost médií. V tiskové zprávě to uvedla Česká unie vydavatelů, která je členem evropských asociací tvořících součást nové koalice.",
-      "title_raw": "Evropští a kanadští vydavatelé tisku vytvořili koalici, chtějí svobodná média",
-      "lead_raw": "Evropští a kanadští vydavatelé novin a časopisů vytvořili koalici, jejímž cílem je usilovat o svobodu, nezávislost a důvěryhodnost médií. V tiskové zprávě to uvedla Česká unie vydavatelů, která je členem evropských asociací tvořících součást nové koalice.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
     }
   ]
 }
