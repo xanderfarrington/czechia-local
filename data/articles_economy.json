@@ -1,10 +1,55 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-31T13:57:14Z",
+  "updated_at_utc": "2026-10-31T18:05:48Z",
   "topic": "economy",
-  "count": 26,
+  "count": 24,
   "articles": [
+    {
+      "id": "7d522df4660f29b2918282e6fb36fa99d2aebe10",
+      "fingerprint": "5011aa55411d2fc7f308bfa43d98ac8af42547ea",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/svicky-vence-kvety-dusicky-trhovci-zdrazovani-jidlo.A261030_084032_domaci_vank",
+      "published_utc": "2026-10-31T18:02:00Z",
+      "title_en": "Svíčky, věnce, květy. Za Dušičky si připlatíte, trhovci si však stěžují. Proč?",
+      "lead_en": "Tradiční návštěva hrobu na Svátek zesnulých bude letos o trochu dražší, a to nejen kvůli benzinu. Třeba cena hřbitovních svíček se zvedla průměrně o dvě koruny, což ale není tak citelné.",
+      "title_raw": "Svíčky, věnce, květy. Za Dušičky si připlatíte, trhovci si však stěžují. Proč?",
+      "lead_raw": "Tradiční návštěva hrobu na Svátek zesnulých bude letos o trochu dražší, a to nejen kvůli benzinu. Třeba cena hřbitovních svíček se zvedla průměrně o dvě koruny, což ale není tak citelné.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "ba233ffc8e837de625b7b7a59bd620532eb45ee2",
+      "fingerprint": "340299c7a333824d775b8257e7f2f802fb6d44e1",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-ceskym-firmam-se-u-malych-jadernych-reaktoru-rysuji-lukrativni-zakazky-40605255",
+      "published_utc": "2026-10-31T15:53:44Z",
+      "title_en": "Českým firmám se u malých jaderných reaktorů rýsují lukrativní zakázky",
+      "lead_en": "Rozvoj malých modulárních reaktorů od britské společnosti Rolls-Royce SMR může českému průmyslu přinést zakázky za desítky miliard korun. Například plzeňská Škoda JS bude výhradním dodavatelem systému řízení reaktoru a hodnota budoucí dodávky pro každý postavený blok má přesáhnout miliardu, a stavět se jich mají desítky.",
+      "title_raw": "Českým firmám se u malých jaderných reaktorů rýsují lukrativní zakázky",
+      "lead_raw": "Rozvoj malých modulárních reaktorů od britské společnosti Rolls-Royce SMR může českému průmyslu přinést zakázky za desítky miliard korun. Například plzeňská Škoda JS bude výhradním dodavatelem systému řízení reaktoru a hodnota budoucí dodávky pro každý postavený blok má přesáhnout miliardu, a stavět se jich mají desítky.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "ffdb815fe6d0d61c72734e810ea77aefe1e3b0b4",
       "fingerprint": "4323463af63d7465559c4cada7db08965beff854",
@@ -486,95 +531,6 @@
         "military": 0,
         "energy": 0,
         "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "dd83ad32c3d63341b4eb9dbc7487512a3382beae",
-      "fingerprint": "2596dd7942d90dbe8d1d571d913f2a619c99aeef",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-penize-na-ceste-unie-schvalila-finalni-miliardovy-balicek-pro-cesko-319123",
-      "published_utc": "2026-10-29T15:43:00Z",
-      "title_en": "Peníze na cestě. Unie schválila finální miliardový balíček pro Česko",
-      "lead_en": "Evropská komise schválila Česku poslední platbu z Národního plánu obnovy ve výši 20 miliard korun. Tuzemsko tak v rámci programu obdrží z evropských fondů dohromady 214 miliard na investice do rozvoje.",
-      "title_raw": "Peníze na cestě. Unie schválila finální miliardový balíček pro Česko",
-      "lead_raw": "Evropská komise schválila Česku poslední platbu z Národního plánu obnovy ve výši 20 miliard korun. Tuzemsko tak v rámci programu obdrží z evropských fondů dohromady 214 miliard na investice do rozvoje.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "73fd979b8bccbefb2b20ea2f1ab0e612ee2a2268",
-      "fingerprint": "601d94d89eb4707af621cf5a816b1fe6e27955dd",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/vybor-doporucil-schvalit-rozpocet-ministerstva-kultury-s-vydaji-193-miliardy-kc/2894706",
-      "published_utc": "2026-10-29T14:47:00Z",
-      "title_en": "Výbor doporučil schválit rozpočet ministerstva kultury s výdaji 19,3 miliardy Kč",
-      "lead_en": "Praha - Sněmovní mediální výbor doporučil schválit rozpočet ministerstva kultury na příští rok s výdaji 19,26 miliardy korun. Proti letošnímu schválenému rozpočtu je to meziroční nárůst asi o 1,7 miliardy...",
-      "title_raw": "Výbor doporučil schválit rozpočet ministerstva kultury s výdaji 19,3 miliardy Kč",
-      "lead_raw": "Praha - Sněmovní mediální výbor doporučil schválit rozpočet ministerstva kultury na příští rok s výdaji 19,26 miliardy korun. Proti letošnímu schválenému rozpočtu je to meziroční nárůst asi o 1,7 miliardy...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "8cac5d9cd1e9ca0a3d0db11ee5531826a1a04ca0",
-      "fingerprint": "5a2ab3e9a7d543b97a9e18b13aa5610de2523ad2",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/linet-mel-opet-rekordni-rocni-trzby-97-miliardy-kc-provozni-zisk-mirne-klesl/2894703",
-      "published_utc": "2026-10-29T14:34:00Z",
-      "title_en": "Linet měl opět rekordní roční tržby, 9,7 miliardy Kč, provozní zisk mírně klesl",
-      "lead_en": "Želevčice (Kladensko) - Výrobce zdravotnických lůžek Linet měl v uplynulém obchodním roce 2025/2026 rekordní tržby 9,7 miliardy korun. O rok dříve, kdy byly také rekordní, činily téměř devět miliard korun....",
-      "title_raw": "Linet měl opět rekordní roční tržby, 9,7 miliardy Kč, provozní zisk mírně klesl",
-      "lead_raw": "Želevčice (Kladensko) - Výrobce zdravotnických lůžek Linet měl v uplynulém obchodním roce 2025/2026 rekordní tržby 9,7 miliardy korun. O rok dříve, kdy byly také rekordní, činily téměř devět miliard korun....",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "0a336d888505b76a106518c9377550583dd806a6",
-      "fingerprint": "7e3a49b4955cdb8d4f629cc8f676504689ad1534",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/audit-cnb-zamestnanec-jenz-mel-ukrast-desitky-mil-kc-zneuzil-sveho-postaveni/2894673",
-      "published_utc": "2026-10-29T14:02:00Z",
-      "title_en": "Audit ČNB: Zaměstnanec, jenž měl ukrást desítky mil. Kč, zneužil svého postavení",
-      "lead_en": "Praha - Zaměstnanec České národní banky (ČNB), který podle kriminalistů ukradl na jejím pracovišti v Brně desítky milionů korun, zneužil svého postavení a porušil její zavedená pravidla. Vyplývá to z...",
-      "title_raw": "Audit ČNB: Zaměstnanec, jenž měl ukrást desítky mil. Kč, zneužil svého postavení",
-      "lead_raw": "Praha - Zaměstnanec České národní banky (ČNB), který podle kriminalistů ukradl na jejím pracovišti v Brně desítky milionů korun, zneužil svého postavení a porušil její zavedená pravidla. Vyplývá to z...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 4,
         "local_events": 0
       },
       "topics": [
