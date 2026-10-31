@@ -1,10 +1,77 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-31T07:37:44Z",
+  "updated_at_utc": "2026-10-31T13:57:14Z",
   "topic": "economy",
-  "count": 32,
+  "count": 26,
   "articles": [
+    {
+      "id": "ffdb815fe6d0d61c72734e810ea77aefe1e3b0b4",
+      "fingerprint": "4323463af63d7465559c4cada7db08965beff854",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/rusko-prodlouzilo-vyrobcum-nafty-zakaz-vyvozu-paliva-hmota.A261031_135501_zahranicni_sahu",
+      "published_utc": "2026-10-31T13:20:00Z",
+      "title_en": "Zákaz exportu ruské nafty potrvá do konce ledna, rafinerie čelily vlně útoků",
+      "lead_en": "Rusko opět prodloužilo zákaz vývozu nafty, který se vztahuje na výrobce tohoto paliva. Ruská vláda v sobotu oznámila, že zákaz zůstane v platnosti až do konce ledna příštího roku.",
+      "title_raw": "Zákaz exportu ruské nafty potrvá do konce ledna, rafinerie čelily vlně útoků",
+      "lead_raw": "Rusko opět prodloužilo zákaz vývozu nafty, který se vztahuje na výrobce tohoto paliva. Ruská vláda v sobotu oznámila, že zákaz zůstane v platnosti až do konce ledna příštího roku.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "85a0964022b5080f7e6baf048943ce3edbe05f0a",
+      "fingerprint": "e1b34f1d4210fba68509193e20e911361f0b9fd5",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-ze-slabiny-zbran-cina-ziskava-moc-nad-svetovym-obchodem-s-potravinami-317682",
+      "published_utc": "2026-10-31T10:15:00Z",
+      "title_en": "Ze slabiny zbraň. Čína získává moc nad světovým obchodem s potravinami",
+      "lead_en": "Čína patří k největším producentům potravin, přesto je závislá na jejich dovozu. Peking proto investuje do zahraniční infrastruktury, mění dodavatele a svou kupní sílu využívá i k politickému tlaku na jiné státy.",
+      "title_raw": "Ze slabiny zbraň. Čína získává moc nad světovým obchodem s potravinami",
+      "lead_raw": "Čína patří k největším producentům potravin, přesto je závislá na jejich dovozu. Peking proto investuje do zahraniční infrastruktury, mění dodavatele a svou kupní sílu využívá i k politickému tlaku na jiné státy.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "cf9dcccb1e2e08b3e0ed8775dd0c0ea339372a5f",
+      "fingerprint": "572627e639d5a34a00d9297b05cedfbb57517caa",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/domaci/burger-i-za-400-korun-provozovatele-resi-drazsi-suroviny-i-zavislost-na-rozvozu.A261026_125046_ekonomika_vebe",
+      "published_utc": "2026-10-31T08:00:00Z",
+      "title_en": "Burger i za 400 korun. Provozovatelé řeší dražší suroviny i závislost na rozvozu",
+      "lead_en": "Kvalitní maso už samo o sobě nestačí. Úspěch burgerového podniku podle provozovatelů stojí na stálé kvalitě, dobře zvládnutém provozu, marketingu i vhodné lokalitě.",
+      "title_raw": "Burger i za 400 korun. Provozovatelé řeší dražší suroviny i závislost na rozvozu",
+      "lead_raw": "Kvalitní maso už samo o sobě nestačí. Úspěch burgerového podniku podle provozovatelů stojí na stálé kvalitě, dobře zvládnutém provozu, marketingu i vhodné lokalitě.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "927d5725967eb131241add8832c7210796c73a6b",
       "fingerprint": "18ec7cc943c14f88b91ef129ec54d50a65927253",
@@ -514,207 +581,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "1a0dc97bd3414cb96594d4ec86b2cb1624851e84",
-      "fingerprint": "dcc9957a770fe69d9d600df823f91280a34651b9",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-ecb-nechala-sazby-bez-zmeny-lagardeova-predcasne-skonci-319107",
-      "published_utc": "2026-10-29T13:47:16Z",
-      "title_en": "ECB nechala sazby bez změny, Lagardeová předčasně skončí",
-      "lead_en": "Evropská centrální banka ponechala základní úrokové sazby beze změn, a to navzdory růstu inflace. Prezidentka ECB Christine Lagardeová krátce před jednáním rady guvernérů oznámila, že předčasně odstoupí z funkce.",
-      "title_raw": "ECB nechala sazby bez změny, Lagardeová předčasně skončí",
-      "lead_raw": "Evropská centrální banka ponechala základní úrokové sazby beze změn, a to navzdory růstu inflace. Prezidentka ECB Christine Lagardeová krátce před jednáním rady guvernérů oznámila, že předčasně odstoupí z funkce.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "d95492dadf49f04d453e6a5380d270c9e74d98ec",
-      "fingerprint": "3936cfc97a4c3ce4e0298f5a94196c76dce48040",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/ecb-navzdory-vyssi-inflaci-uroky-nezmenila-depozitni-sazba-cini-250-procenta/2894659",
-      "published_utc": "2026-10-29T13:38:00Z",
-      "title_en": "ECB navzdory vyšší inflaci úroky nezměnila, depozitní sazba činí 2,50 procenta",
-      "lead_en": "Frankfurt - Evropská centrální banka (ECB) navzdory vyšší inflaci dnes podle očekávání nechala základní úrokové sazby beze změn, klíčová depozitní sazba tak zůstává na 2,50 procenta. Banka o tom informovala...",
-      "title_raw": "ECB navzdory vyšší inflaci úroky nezměnila, depozitní sazba činí 2,50 procenta",
-      "lead_raw": "Frankfurt - Evropská centrální banka (ECB) navzdory vyšší inflaci dnes podle očekávání nechala základní úrokové sazby beze změn, klíčová depozitní sazba tak zůstává na 2,50 procenta. Banka o tom informovala...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "f86572aa54225de6bfcb63b43b1aea48e5c52835",
-      "fingerprint": "d8318e88a55518688ab7dfd3108ec3cdea118539",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-americka-ekonomika-predcila-ocekavani-ve-ctvrtleti-zrychlila-na-34-procenta-319104",
-      "published_utc": "2026-10-29T13:23:23Z",
-      "title_en": "Americká ekonomika předčila očekávání. Ve čtvrtletí zrychlila na 3,4 procenta",
-      "lead_en": "Růst ekonomiky USA zrychlil na 3,4 procenta. Silné výdaje lidí a firemní investice do AI převážily i dopady drahé ropy.",
-      "title_raw": "Americká ekonomika předčila očekávání. Ve čtvrtletí zrychlila na 3,4 procenta",
-      "lead_raw": "Růst ekonomiky USA zrychlil na 3,4 procenta. Silné výdaje lidí a firemní investice do AI převážily i dopady drahé ropy.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 1
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "4a380450bb2c4c313044fa525f8b58af27a131ee",
-      "fingerprint": "1bd800bfcd1e25215712559786b3243ea875dcd9",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/ekonomika-usa-ve-ctvrtleti-zrychlila-na-34-procenta-vice-nez-se-cekalo/2894635",
-      "published_utc": "2026-10-29T13:11:00Z",
-      "title_en": "Ekonomika USA ve čtvrtletí zrychlila na 3,4 procenta, více než se čekalo",
-      "lead_en": "Washington - Růst hrubého domácího produktu (HDP) Spojených států ve třetím čtvrtletí v celoročním přepočtu zrychlil na 3,4 procenta ze 2,2 procenta ve druhém čtvrtletí. V rychlém odhadu to dnes uvedlo...",
-      "title_raw": "Ekonomika USA ve čtvrtletí zrychlila na 3,4 procenta, více než se čekalo",
-      "lead_raw": "Washington - Růst hrubého domácího produktu (HDP) Spojených států ve třetím čtvrtletí v celoročním přepočtu zrychlil na 3,4 procenta ze 2,2 procenta ve druhém čtvrtletí. V rychlém odhadu to dnes uvedlo...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "b18e8cf9ccb7892ca6f19def60f818c77e713e0b",
-      "fingerprint": "28c29856079be3563e8aa70803acd01498102a32",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-americka-ekonomika-zrychlila-ve-tretim-ctvrtleti-rostla-o-34-procenta-40605574",
-      "published_utc": "2026-10-29T12:43:52Z",
-      "title_en": "Americká ekonomika zrychlila. Ve třetím čtvrtletí rostla o 3,4 procenta",
-      "lead_en": "Růst hrubého domácího produktu (HDP) Spojených států ve třetím čtvrtletí v celoročním přepočtu zrychlil na 3,4 procenta ze 2,2 procenta ve druhém čtvrtletí. V rychlém odhadu to ve čtvrtek uvedlo americké ministerstvo obchodu.",
-      "title_raw": "Americká ekonomika zrychlila. Ve třetím čtvrtletí rostla o 3,4 procenta",
-      "lead_raw": "Růst hrubého domácího produktu (HDP) Spojených států ve třetím čtvrtletí v celoročním přepočtu zrychlil na 3,4 procenta ze 2,2 procenta ve druhém čtvrtletí. V rychlém odhadu to ve čtvrtek uvedlo americké ministerstvo obchodu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "9c7ca7c7445bf6f0fd88498957796fd61979b87b",
-      "fingerprint": "eb4a6617c0e7b9464dd0910dfe7a4d0545bec9a7",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/leon-tsoukernik-sandra-tsoukernik-senat-volby-2026-vysetrovani-policie-podvody-dane-hazard-kasino-ro.A261027_093549_domaci_svm",
-      "published_utc": "2026-10-29T08:55:00Z",
-      "title_en": "Policie krouží okolo „krále hazardu“ Tsoukernika, jeho choť chtěla do Senátu",
-      "lead_en": "Jedna z nejvýraznějších osobností českého hazardního byznysu, miliardář Leon Tsoukernik, čelí policejnímu vyšetřování v souvislosti s podezřením ze spáchání velkých daňových podvodů. Údajná škoda podle informací iDNES.cz dosahuje několika stovek milionů korun.",
-      "title_raw": "Policie krouží okolo „krále hazardu“ Tsoukernika, jeho choť chtěla do Senátu",
-      "lead_raw": "Jedna z nejvýraznějších osobností českého hazardního byznysu, miliardář Leon Tsoukernik, čelí policejnímu vyšetřování v souvislosti s podezřením ze spáchání velkých daňových podvodů. Údajná škoda podle informací iDNES.cz dosahuje několika stovek milionů korun.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "5a277266a38418f6ca06d84967b222638776a941",
-      "fingerprint": "93150260b07b22cbbb49004fc6fc332813cef61f",
-      "source": "iROZHLAS - Economy",
-      "url": "https://www.irozhlas.cz/ekonomika/americky-fed-ponechal-sazby-beze-zmen-navzdory-rostouci-inflaci-neprekvapive_2610290939_mst",
-      "published_utc": "2026-10-29T08:39:00Z",
-      "title_en": "Americký FED ponechal sazby beze změn navzdory rostoucí inflaci. ‚Nepřekvapivé,‘ hodnotí ekonom",
-      "lead_en": "Americká centrální banka ponechala základní úrokovou sazbu beze změny v pásmu 3,75 procenta až 4 procenta. FED se tak rozhodl, přestože inflace dosáhla v září meziročně skoro čtyř procent.",
-      "title_raw": "Americký FED ponechal sazby beze změn navzdory rostoucí inflaci. ‚Nepřekvapivé,‘ hodnotí ekonom",
-      "lead_raw": "Americká centrální banka ponechala základní úrokovou sazbu beze změny v pásmu 3,75 procenta až 4 procenta. FED se tak rozhodl, přestože inflace dosáhla v září meziročně skoro čtyř procent.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 4,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "95a49a5f8ef63a0a91830823939d42853bb8733f",
-      "fingerprint": "b6a75b58ae2d21184aa615dc9612db4ab21ce533",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-temelin-vymeni-transformatory-za-stovky-milionu-korun-chysta-se-na-delsi-provoz-319067",
-      "published_utc": "2026-10-29T08:19:51Z",
-      "title_en": "Temelín vymění transformátory za stovky milionů korun, chystá se na delší provoz",
-      "lead_en": "Temelín vymění pět odbočkových transformátorů, které slouží k zajištění elektřiny. Tato investice má přispět k dlouhodobému provozu.",
-      "title_raw": "Temelín vymění transformátory za stovky milionů korun, chystá se na delší provoz",
-      "lead_raw": "Temelín vymění pět odbočkových transformátorů, které slouží k zajištění elektřiny. Tato investice má přispět k dlouhodobému provozu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "3833815955ab94f0681e6265f99cac3b3582e939",
-      "fingerprint": "956e194d523d9ff65eca3ec478eacf951353ede3",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/temelin-vymeni-transformatory-za-stovky-milionu-korun-chysta-se-na-delsi-provoz/2894451",
-      "published_utc": "2026-10-29T07:38:00Z",
-      "title_en": "Temelín vymění transformátory za stovky milionů korun, chystá se na delší provoz",
-      "lead_en": "Temelín (Českobudějovicko) - Jaderná elektrárna Temelín chystá výměnu odbočkových transformátorů, které zajišťují elektřinu pro potřeby elektrárny. Nová zařízení jsou ve výrobě a současné transformátory...",
-      "title_raw": "Temelín vymění transformátory za stovky milionů korun, chystá se na delší provoz",
-      "lead_raw": "Temelín (Českobudějovicko) - Jaderná elektrárna Temelín chystá výměnu odbočkových transformátorů, které zajišťují elektřinu pro potřeby elektrárny. Nová zařízení jsou ve výrobě a současné transformátory...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 4,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }

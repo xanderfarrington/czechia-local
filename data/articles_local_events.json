@@ -1,10 +1,188 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-10-31T07:37:44Z",
+  "updated_at_utc": "2026-10-31T13:57:14Z",
   "topic": "local_events",
-  "count": 18,
+  "count": 23,
   "articles": [
+    {
+      "id": "d78b37215a2cbc3aabd7aafd95480898eca59911",
+      "fingerprint": "483e63d38e04087595ed2b0237a7b95e146a2bb4",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/statisice-ukrajincu-jsou-bez-proudu-kyjev-zasahl-rusky-zavod-na-raketove-palivo-379174",
+      "published_utc": "2026-10-31T13:35:31Z",
+      "title_en": "Statisíce Ukrajinců jsou bez proudu, Kyjev zasáhl ruský závod na raketové palivo",
+      "lead_en": "Noční ruské dronové útoky připravily na Ukrajině o&nbsp;elektřinu statisíce lidí. V&nbsp;Dněpropetrovské oblasti zemřel jeden, pět zraněných pak hlásí Charkovská oblast.",
+      "title_raw": "Statisíce Ukrajinců jsou bez proudu, Kyjev zasáhl ruský závod na raketové palivo",
+      "lead_raw": "Noční ruské dronové útoky připravily na Ukrajině o&nbsp;elektřinu statisíce lidí. V&nbsp;Dněpropetrovské oblasti zemřel jeden, pět zraněných pak hlásí Charkovská oblast.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "286a985040316d0618a8871ac63e4d0805dfc5e3",
+      "fingerprint": "583691071e824caff98fb683f326a6f1671ff0c8",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/plzen/zpravy/srazka-se-stromem-tachovsko-sytno-dopravni-nehoda.A261031_091315_plzen-zpravy_aya",
+      "published_utc": "2026-10-31T12:09:00Z",
+      "title_en": "Řidič zemřel při nehodě u Sytna na Tachovsku. S autem narazil do stromu",
+      "lead_en": "U obce Sytno na Tachovsku v sobotu ráno havarovalo osobní auto, které vyjelo mimo vozovku a narazilo do stromu. Řidič vozu utrpěl zranění, kterým na místě podlehl.",
+      "title_raw": "Řidič zemřel při nehodě u Sytna na Tachovsku. S autem narazil do stromu",
+      "lead_raw": "U obce Sytno na Tachovsku v sobotu ráno havarovalo osobní auto, které vyjelo mimo vozovku a narazilo do stromu. Řidič vozu utrpěl zranění, kterým na místě podlehl.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "ffd02fe9c6739ba655606400e78c635026cdce75",
+      "fingerprint": "247cce945df09fbc002976cc8d0b63565d13b373",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ruske-drony-utocily-ukrajina-jeden-clovek-zemrel.A261031_082122_zahranicni_sahu",
+      "published_utc": "2026-10-31T11:48:00Z",
+      "title_en": "Ruské drony vyřadily proud pro 280 tisíc rodin. Mrtvé hlásí Ukrajina i Rusko",
+      "lead_en": "Rusko v noci na sobotu opět útočilo pomocí dronů na Ukrajinu. V ukrajinské Dněpropetrovské oblasti jeden člověk přišel o život a dva lidé byli zraněni.",
+      "title_raw": "Ruské drony vyřadily proud pro 280 tisíc rodin. Mrtvé hlásí Ukrajina i Rusko",
+      "lead_raw": "Rusko v noci na sobotu opět útočilo pomocí dronů na Ukrajinu. V ukrajinské Dněpropetrovské oblasti jeden člověk přišel o život a dva lidé byli zraněni.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "dc52dd88798580033768770b5cc2a489ea3eee92",
+      "fingerprint": "08d447aaee155b320aae7b1072dbcb7aa94cb275",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/norsko-pohresovani-cesi-rybari-ztroskotani-ostrov-more.A261031_105726_zahranicni_sahu",
+      "published_utc": "2026-10-31T11:23:00Z",
+      "title_en": "Norové našli mrtvého Čecha z potopené lodi, proudy ho zanesly k Lofotám",
+      "lead_en": "V moři u obce Vestv&#229;g&#248;y v kraji Nordland bylo nalezeno tělo jednoho z českých rybářů pohřešovaných po zářijové nehodě u souostroví Grip. Pozůstalí byli vyrozuměni, dva muži jsou stále nezvěstní.",
+      "title_raw": "Norové našli mrtvého Čecha z potopené lodi, proudy ho zanesly k Lofotám",
+      "lead_raw": "V moři u obce Vestv&#229;g&#248;y v kraji Nordland bylo nalezeno tělo jednoho z českých rybářů pohřešovaných po zářijové nehodě u souostroví Grip. Pozůstalí byli vyrozuměni, dva muži jsou stále nezvěstní.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "bb4fdc4b2af20b61442938fc6f5ee7444e1db0ef",
+      "fingerprint": "c04ddc96eb54b3b070c950c46c5bce76a8cf370c",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-na-tachovsku-narazil-ridic-osobniho-auta-do-stromu-na-miste-zemrel-40605897",
+      "published_utc": "2026-10-31T10:58:00Z",
+      "title_en": "Na Tachovsku narazil řidič osobního auta do stromu, na místě zemřel",
+      "lead_en": "Nehoda se stala v sobotu ráno u obce Sytno na Tachovsku. Řidič osobního auta nezvládl řízení, vyjel ze silnice a narazil do stromu.",
+      "title_raw": "Na Tachovsku narazil řidič osobního auta do stromu, na místě zemřel",
+      "lead_raw": "Nehoda se stala v sobotu ráno u obce Sytno na Tachovsku. Řidič osobního auta nezvládl řízení, vyjel ze silnice a narazil do stromu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "9df0f5e51dd1599110a530073019d089a417d782",
+      "fingerprint": "7f1122ce307a67ed277e5859bbc3bb49a5e1a6cd",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-v-norsku-nasli-telo-pohresovaneho-ceskeho-rybare-40605900",
+      "published_utc": "2026-10-31T10:57:29Z",
+      "title_en": "V Norsku našli tělo pohřešovaného českého rybáře",
+      "lead_en": "Mrtvé tělo nalezené koncem minulého týdne v norských vodách patřilo jednomu z Čechů pohřešovaných po zářijové nehodě lodi na západě Norska. V sobotu o tom informovala norská média s odvoláním na prohlášení policie.",
+      "title_raw": "V Norsku našli tělo pohřešovaného českého rybáře",
+      "lead_raw": "Mrtvé tělo nalezené koncem minulého týdne v norských vodách patřilo jednomu z Čechů pohřešovaných po zářijové nehodě lodi na západě Norska. V sobotu o tom informovala norská média s odvoláním na prohlášení policie.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "e93abf6699a1ae65f23ddefe04dff031dc18d63f",
+      "fingerprint": "a8b062985d4baff2ba2bce30e8deb90bf750d595",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-v-olomouci-horelo-ve-vyskove-budove-skoda-pres-tri-miliony-jeden-zraneny-40605895",
+      "published_utc": "2026-10-31T10:04:02Z",
+      "title_en": "V Olomouci hořelo ve výškové budově, škoda přes tři miliony, jeden zraněný",
+      "lead_en": "Požár ve výškové budově likvidovali v noci na sobotu hasiči v Olomouci. Škoda byla předběžně odhadnuta na více než tři miliony korun.",
+      "title_raw": "V Olomouci hořelo ve výškové budově, škoda přes tři miliony, jeden zraněný",
+      "lead_raw": "Požár ve výškové budově likvidovali v noci na sobotu hasiči v Olomouci. Škoda byla předběžně odhadnuta na více než tři miliony korun.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "2d31c347eff36cb316dfeff51f9928c01e38049f",
+      "fingerprint": "59774c14e34882d69b9618ece92f03ada16a2269",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/plzen/zpravy/nehoda-janovice-nad-uhlavou-klatovy-plzensky-kraj-srazka.A261031_085906_plzen-zpravy_aya",
+      "published_utc": "2026-10-31T08:14:00Z",
+      "title_en": "U Janovic nad Úhlavou zemřel mladý řidič. S autem narazil do stromu",
+      "lead_en": "V pátek dopoledne zemřel při nehodě u obce Janovice nad Úhlavou na Klatovsku řidič osobního auta. Podle policie osmnáctiletý mladík pravděpodobně nepřizpůsobil rychlost jízdy, vyjel mimo silnici a narazil do stromu, informovala krajská policejní mluvčí Barbora Kunešová.",
+      "title_raw": "U Janovic nad Úhlavou zemřel mladý řidič. S autem narazil do stromu",
+      "lead_raw": "V pátek dopoledne zemřel při nehodě u obce Janovice nad Úhlavou na Klatovsku řidič osobního auta. Podle policie osmnáctiletý mladík pravděpodobně nepřizpůsobil rychlost jízdy, vyjel mimo silnici a narazil do stromu, informovala krajská policejní mluvčí Barbora Kunešová.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "eeb9ae53169fb347be1d3967cda4fcd0803238cf",
       "fingerprint": "664906de7b2d86b592eef1b76a80aa4ad7ecb486",
@@ -329,72 +507,6 @@
       "lead_en": "V turecké oblasti Kappadokie, jež patří k oblíbeným turistickým cílům, se ve čtvrtek zřítil kus skalního útvaru přezdívaného pohádkový komín. Důvodem byl zřejmě sesuv půdy způsobený silnými dešti.",
       "title_raw": "V turecké Kappadokii se po deštích zřítil „pohádkový komín“, dva lidé zemřeli",
       "lead_raw": "V turecké oblasti Kappadokie, jež patří k oblíbeným turistickým cílům, se ve čtvrtek zřítil kus skalního útvaru přezdívaného pohádkový komín. Důvodem byl zřejmě sesuv půdy způsobený silnými dešti.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "0b5541025f2fdcfb80bd4ed42c41deb27e3e5240",
-      "fingerprint": "60cbd75137cb31c0e6517bd890f5f528531457e4",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/zaplavy-zpusobily-sesuv-pudy-v-thajskem-turistickem-letovisku-379105",
-      "published_utc": "2026-10-29T11:00:00Z",
-      "title_en": "Záplavy způsobily sesuv půdy v thajském turistickém letovisku",
-      "lead_en": "Silné a&nbsp;vytrvalé deště během týdne pohltily thajský ostrov Phuket. Voda zalila jak stejnojmenné hlavní město ostrova, tak i&nbsp;turistické letovisko Patong.",
-      "title_raw": "Záplavy způsobily sesuv půdy v thajském turistickém letovisku",
-      "lead_raw": "Silné a&nbsp;vytrvalé deště během týdne pohltily thajský ostrov Phuket. Voda zalila jak stejnojmenné hlavní město ostrova, tak i&nbsp;turistické letovisko Patong.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "bfd36b1a82e4615fc5ac54eac7178a2296dfda54",
-      "fingerprint": "082a4c391129ed7062a395859f68b289eef51a56",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-rusove-uderili-na-dnipro-13-mrtvych-40605505",
-      "published_utc": "2026-10-29T09:50:25Z",
-      "title_en": "Rusové udeřili na nádraží v Dnipru: 13 mrtvých",
-      "lead_en": "Nejméně 13 mrtvých a pět zraněných si vyžádal čtvrteční ruský dronový útok na ukrajinské město Dnipro. Informovaly o tom tamní úřady s tím, že bezpilotní letouny měly zasáhnout vlak.",
-      "title_raw": "Rusové udeřili na nádraží v Dnipru: 13 mrtvých",
-      "lead_raw": "Nejméně 13 mrtvých a pět zraněných si vyžádal čtvrteční ruský dronový útok na ukrajinské město Dnipro. Informovaly o tom tamní úřady s tím, že bezpilotní letouny měly zasáhnout vlak.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "4fe47f5d77724874e87e9eab0282c0a54fd0fcc2",
-      "fingerprint": "48ced2836574c62952f2479f6de297b4a726061e",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-na-namrzle-silnici-na-chebsku-havaroval-autobus-dva-zraneni-40605471",
-      "published_utc": "2026-10-29T09:30:23Z",
-      "title_en": "Na namrzlé silnici na Chebsku havaroval autobus, dva zranění",
-      "lead_en": "Dvě lehce zraněné osoby si vyžádala čtvrteční ranní nehoda autobusu na silnici mezi Teplou a Mariánskými Lázněmi. Autobus boural na silnici II/198 ve směru na Horní Kramolín, když se vyhýbal protijedoucímu nákladnímu vozidlu.",
-      "title_raw": "Na namrzlé silnici na Chebsku havaroval autobus, dva zranění",
-      "lead_raw": "Dvě lehce zraněné osoby si vyžádala čtvrteční ranní nehoda autobusu na silnici mezi Teplou a Mariánskými Lázněmi. Autobus boural na silnici II/198 ve směru na Horní Kramolín, když se vyhýbal protijedoucímu nákladnímu vozidlu.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
