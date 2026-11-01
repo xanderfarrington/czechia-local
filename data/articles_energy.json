@@ -1,10 +1,79 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-01T00:40:49Z",
+  "updated_at_utc": "2026-11-01T06:57:05Z",
   "topic": "energy",
-  "count": 52,
+  "count": 49,
   "articles": [
+    {
+      "id": "35d2e5240c1b83dec58545cd8a3f02230cd438f6",
+      "fingerprint": "5028567beef43668be8fcab3be2162f4a4c15476",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-trump-par-cilu-v-iranu-jeste-zbyva-staci-nam-deset-minut-40605937",
+      "published_utc": "2026-11-01T06:30:00Z",
+      "title_en": "Trump: Pár cílů v Íránu ještě zbývá, stačí nám deset minut",
+      "lead_en": "Spojené státy už zničily velkou část íránských vojenských kapacit, stále ale musí zasáhnout jeden či dva zbývající cíle, včetně předpokládaného jaderného zařízení známého jako Pickaxe Mountain (persky Kúh-e Kolang Gáz Lá). V noci na neděli to podle agentury AFP řekl americký prezident Donald Trump.",
+      "title_raw": "Trump: Pár cílů v Íránu ještě zbývá, stačí nám deset minut",
+      "lead_raw": "Spojené státy už zničily velkou část íránských vojenských kapacit, stále ale musí zasáhnout jeden či dva zbývající cíle, včetně předpokládaného jaderného zařízení známého jako Pickaxe Mountain (persky Kúh-e Kolang Gáz Lá). V noci na neděli to podle agentury AFP řekl americký prezident Donald Trump.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "04e3877966b0f32f996bffbad6114c0fec382799",
+      "fingerprint": "f73652209fef2d22bec9adab969d45d16065d546",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-cash-only-uhelne-elektrarny-zazivaji-obrat-jejich-budoucnost-to-nemeni-319106",
+      "published_utc": "2026-11-01T06:00:00Z",
+      "title_en": "Uhelné elektrárny zažívají obrat. Jejich budoucnost to nemění",
+      "lead_en": "Poslední teplé dny máme letos za sebou a domácnosti i firmy začínají otáčet kohoutky radiátorů. To znamená, že teplárny a elektrárny přitopí pod kotli.",
+      "title_raw": "Uhelné elektrárny zažívají obrat. Jejich budoucnost to nemění",
+      "lead_raw": "Poslední teplé dny máme letos za sebou a domácnosti i firmy začínají otáčet kohoutky radiátorů. To znamená, že teplárny a elektrárny přitopí pod kotli.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "7ead3b4698ef2e089e5fc8b67c99448600122f8a",
+      "fingerprint": "6e7b839e5448707dc8cea73c1250620bfd964461",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/nove-zakazky-kolem-dukovan-jsou-sanci-pro-ceske-firmy-379179",
+      "published_utc": "2026-11-01T05:30:00Z",
+      "title_en": "Nové zakázky kolem Dukovan jsou šancí pro české firmy",
+      "lead_en": "Otevírají se nové zakázky spojené s&nbsp;rozšířením jaderné elektrárny Dukovany. Jednání se stavebním konsorciem korejská KHNP sice ukončila, spustila ale tendr na hybridní chladicí věže, které jsou klíčovou součástí elektrárny, jelikož odvádějí přebytečné teplo vznikající při výrobě elektřiny.",
+      "title_raw": "Nové zakázky kolem Dukovan jsou šancí pro české firmy",
+      "lead_raw": "Otevírají se nové zakázky spojené s&nbsp;rozšířením jaderné elektrárny Dukovany. Jednání se stavebním konsorciem korejská KHNP sice ukončila, spustila ale tendr na hybridní chladicí věže, které jsou klíčovou součástí elektrárny, jelikož odvádějí přebytečné teplo vznikající při výrobě elektřiny.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 4,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "ba233ffc8e837de625b7b7a59bd620532eb45ee2",
       "fingerprint": "340299c7a333824d775b8257e7f2f802fb6d44e1",
@@ -1035,140 +1104,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "90c196242467339acf4063bc2ef03dbc1249e6d5",
-      "fingerprint": "9a1e4ddcd34122976e7346fef1460b9510756fd4",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-babis-chce-dostat-cesko-pod-jaderny-destnik-macron-reagoval-pozitivne-319109",
-      "published_utc": "2026-10-30T06:40:00Z",
-      "title_en": "Babiš chce dostat Česko pod jaderný deštník. Macron reagoval „pozitivně“",
-      "lead_en": "Zprávu o potenciálním vstupu Česka pod jaderný deštník Francie zaslal Andrej Babiš poslední zářijový den. Zhruba dva týdny poté téma řešil s Emmanuelem Macronem na Evropské radě.",
-      "title_raw": "Babiš chce dostat Česko pod jaderný deštník. Macron reagoval „pozitivně“",
-      "lead_raw": "Zprávu o potenciálním vstupu Česka pod jaderný deštník Francie zaslal Andrej Babiš poslední zářijový den. Zhruba dva týdny poté téma řešil s Emmanuelem Macronem na Evropské radě.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "d1503c449c8301b0c2eeedd9dd760a86ba1df479",
-      "fingerprint": "551a1328dea511d4cb8b2de077b3382689ded82a",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/jihlava/zpravy/dukovany-ii-edu-ii-elektrarna-administrativni-sidlo.A261029_981162_jihlava-zpravy_evs",
-      "published_utc": "2026-10-30T06:20:00Z",
-      "title_en": "Dukovany II otevřely svou první budovu, je prošpikovaná moderními technologiemi",
-      "lead_en": "První budova, která zvěstuje vznik rozlehlého staveniště Jaderné elektrárny Dukovany II (EDU II), je zde. Administrativní sídlo vedení a přípravných týmů nové elektrárny bylo v minulých dnech zkolaudováno a slavnostně otevřeno.",
-      "title_raw": "Dukovany II otevřely svou první budovu, je prošpikovaná moderními technologiemi",
-      "lead_raw": "První budova, která zvěstuje vznik rozlehlého staveniště Jaderné elektrárny Dukovany II (EDU II), je zde. Administrativní sídlo vedení a přípravných týmů nové elektrárny bylo v minulých dnech zkolaudováno a slavnostně otevřeno.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "9b5214edbd6d1e5df669135034b07ffaf86a6531",
-      "fingerprint": "dfb32b356d1e47dc45580b91a81f73fa4b15d352",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-tlak-usa-volby-valka-rusko-rafinerie-udery.A261030_062549_zahranicni_mikp",
-      "published_utc": "2026-10-30T05:51:00Z",
-      "title_en": "Ukrajina po Trumpově tlaku pozastavila údery na ruské rafinerie, tvrdí zdroje",
-      "lead_en": "Ukrajinská armáda po týdnech tlaku ze strany amerického prezidenta Donalda Trumpa minulý týden pozastavila vzdušné údery na ruské rafinerie. Tvrdí to americký list The Wall Street Journal s odvoláním na osoby obeznámené s vojenskými operacemi.",
-      "title_raw": "Ukrajina po Trumpově tlaku pozastavila údery na ruské rafinerie, tvrdí zdroje",
-      "lead_raw": "Ukrajinská armáda po týdnech tlaku ze strany amerického prezidenta Donalda Trumpa minulý týden pozastavila vzdušné údery na ruské rafinerie. Tvrdí to americký list The Wall Street Journal s odvoláním na osoby obeznámené s vojenskými operacemi.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "c8d6810da647bb88e0b4edb0d8b0e4137d43223c",
-      "fingerprint": "1fd017c122e57d48b8909883b162caacd5b0aab2",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-ukrajina-po-tlaku-usa-pozastavila-nejmene-do-voleb-udery-na-ruske-rafinerie-319142",
-      "published_utc": "2026-10-30T05:31:31Z",
-      "title_en": "Ukrajina po tlaku USA pozastavila nejméně do voleb údery na ruské rafinerie",
-      "lead_en": "Ukrajina pozastavila vzdušné údery na ruské rafinerie. Stalo se tak po týdnech tlaku ze strany USA.",
-      "title_raw": "Ukrajina po tlaku USA pozastavila nejméně do voleb údery na ruské rafinerie",
-      "lead_raw": "Ukrajina pozastavila vzdušné údery na ruské rafinerie. Stalo se tak po týdnech tlaku ze strany USA.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ae9c03d09574a6ccb9ac2fff9540e07174b02a5b",
-      "fingerprint": "d22a27724ddc954bf6473f560a41207567d2cbd2",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-politik-spd-se-zapletl-s-rusy-je-v-podezreni-ze-jim-pomohl-obejit-sankce-318892",
-      "published_utc": "2026-10-30T04:00:00Z",
-      "title_en": "Politik SPD se zapletl s Rusy. Je v podezření, že jim pomohl obejít sankce",
-      "lead_en": "Ruský dům, jehož provozovatel je kvůli šíření Putinovy propagandy na sankčním seznamu EU, se chlubil akcí v sále Univerzity Karlovy. Škola posloužila nevědomky.",
-      "title_raw": "Politik SPD se zapletl s Rusy. Je v podezření, že jim pomohl obejít sankce",
-      "lead_raw": "Ruský dům, jehož provozovatel je kvůli šíření Putinovy propagandy na sankčním seznamu EU, se chlubil akcí v sále Univerzity Karlovy. Škola posloužila nevědomky.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "873a61023ba9635880f15b5764ea0a53993efe64",
-      "fingerprint": "2ba7114e7860fafb032e374e790613934ba805d4",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/wsj-ukrajina-pod-tlakem-usa-pozastavila-utoky-na-ruske-rafinerie-nejmene-do-americkych-voleb-379128",
-      "published_utc": "2026-10-30T03:52:49Z",
-      "title_en": "WSJ: Ukrajina pod tlakem USA pozastavila útoky na ruské rafinerie nejméně do amerických voleb",
-      "lead_en": "Ukrajinská armáda po týdnech tlaku ze strany amerického prezidenta Donalda Trumpa minulý týden pozastavila vzdušné údery na ruské rafinerie. Napsal to v&nbsp;noci na pátek SEČ list The&nbsp;Wall Street Journal (WSJ) s&nbsp;odvoláním na osoby obeznámené s&nbsp;vojenskými operacemi.",
-      "title_raw": "WSJ: Ukrajina pod tlakem USA pozastavila útoky na ruské rafinerie nejméně do amerických voleb",
-      "lead_raw": "Ukrajinská armáda po týdnech tlaku ze strany amerického prezidenta Donalda Trumpa minulý týden pozastavila vzdušné údery na ruské rafinerie. Napsal to v&nbsp;noci na pátek SEČ list The&nbsp;Wall Street Journal (WSJ) s&nbsp;odvoláním na osoby obeznámené s&nbsp;vojenskými operacemi.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }

@@ -1,10 +1,33 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-01T00:40:49Z",
+  "updated_at_utc": "2026-11-01T06:57:05Z",
   "topic": "economy",
-  "count": 22,
+  "count": 21,
   "articles": [
+    {
+      "id": "a4b71e6c1372e6acc8bca273d827409e8da428bc",
+      "fingerprint": "23c80dfb8491d1135a8691389d0aeefa1acd6336",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/cnb-na-ctvrtecnim-jednani-zvysi-urokove-sazby-na-40-pct-odhaduji-analytici/2895624",
+      "published_utc": "2026-11-01T05:20:00Z",
+      "title_en": "ČNB na čtvrtečním jednání zvýší úrokové sazby na 4,0 pct, odhadují analytici",
+      "lead_en": "Praha - Bankovní rada České národní banky (ČNB) ve čtvrtek zvýší základní úrokovou sazbu o čtvrt bodu na čtyři procenta. Shodli se na tom analytici oslovení ČTK a přikláněl se k tomu v týdnu i člen bankovní...",
+      "title_raw": "ČNB na čtvrtečním jednání zvýší úrokové sazby na 4,0 pct, odhadují analytici",
+      "lead_raw": "Praha - Bankovní rada České národní banky (ČNB) ve čtvrtek zvýší základní úrokovou sazbu o čtvrt bodu na čtyři procenta. Shodli se na tom analytici oslovení ČTK a přikláněl se k tomu v týdnu i člen bankovní...",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "7d522df4660f29b2918282e6fb36fa99d2aebe10",
       "fingerprint": "5011aa55411d2fc7f308bfa43d98ac8af42547ea",
@@ -438,50 +461,6 @@
       "lead_en": "Čistý zisk České spořitelny za první tři čtvrtletí letošního roku dosáhl 22,2 miliardy korun, meziročně tak byl vyšší o 16,7 procenta. Provozní zisk banky se zvýšil o 13,8 procenta na 28,2 miliardy korun.",
       "title_raw": "Česká spořitelna zvýšila čistý zisk za tři čtvrtletí na 22,2 miliardy korun",
       "lead_raw": "Čistý zisk České spořitelny za první tři čtvrtletí letošního roku dosáhl 22,2 miliardy korun, meziročně tak byl vyšší o 16,7 procenta. Provozní zisk banky se zvýšil o 13,8 procenta na 28,2 miliardy korun.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "0a69d718aa0075dfedad971f9ac62c4d224e2030",
-      "fingerprint": "b6059b2ef4257a74ccd2aa8eeb45ecc5d47e42c6",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/ceska-sporitelna-zvysila-cisty-zisk-za-tri-ctvrtleti-na-222-miliardy-korun/2894848",
-      "published_utc": "2026-10-30T06:56:00Z",
-      "title_en": "Česká spořitelna zvýšila čistý zisk za tři čtvrtletí na 22,2 miliardy korun",
-      "lead_en": "Praha - Čistý zisk České spořitelny za první tři čtvrtletí letošního roku dosáhl 22,2 miliardy korun, meziročně tak byl vyšší o 16,7 procenta. Provozní zisk banky se zvýšil o 13,8 procenta na 28,2 miliardy...",
-      "title_raw": "Česká spořitelna zvýšila čistý zisk za tři čtvrtletí na 22,2 miliardy korun",
-      "lead_raw": "Praha - Čistý zisk České spořitelny za první tři čtvrtletí letošního roku dosáhl 22,2 miliardy korun, meziročně tak byl vyšší o 16,7 procenta. Provozní zisk banky se zvýšil o 13,8 procenta na 28,2 miliardy...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "36d122acd95de770a008ad51d8121c5462f24c7d",
-      "fingerprint": "79065241e9ba31b35b97b5f0a69d87c0388a73dd",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-jak-vybrat-terminovany-vklad-nabidky-bank-se-vyrazne-lisi-urok-ale-neni-vse-318879",
-      "published_utc": "2026-10-30T06:00:00Z",
-      "title_en": "Jak vybrat termínovaný vklad. Nabídky bank se výrazně liší, úrok ale není vše",
-      "lead_en": "Termínované vklady poskytují vyšší zhodnocení peněz než spořicí účty. Při výběru správného termínovaného účtu je ale dobré zvážit více parametrů než jen výši úroku.",
-      "title_raw": "Jak vybrat termínovaný vklad. Nabídky bank se výrazně liší, úrok ale není vše",
-      "lead_raw": "Termínované vklady poskytují vyšší zhodnocení peněz než spořicí účty. Při výběru správného termínovaného účtu je ale dobré zvážit více parametrů než jen výši úroku.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
