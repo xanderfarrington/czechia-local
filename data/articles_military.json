@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-01T18:41:10Z",
+  "updated_at_utc": "2026-11-01T22:29:47Z",
   "topic": "military",
-  "count": 38,
+  "count": 32,
   "articles": [
+    {
+      "id": "412d0691fd5d425af256158096b8cd7d6d973734",
+      "fingerprint": "531e678c5c7baa867af0c10f7794256aff45406b",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-lotyssko-zaznamenalo-naruseni-vzdusneho-prostoru-u-hranic-s-ruskem-a-beloruskem-40605989",
+      "published_utc": "2026-11-01T20:14:09Z",
+      "title_en": "Lotyšsko zaznamenalo narušení vzdušného prostoru u hranic s Ruskem a Běloruskem",
+      "lead_en": "Lotyšsko dnes zaznamenalo krátké narušení svého vzdušného prostoru poblíž hranic s Ruskem a Běloruskem. Kvůli incidentu armáda vyzvala obyvatele v oblasti, aby kvůli své bezpečnosti zůstali uvnitř budov.",
+      "title_raw": "Lotyšsko zaznamenalo narušení vzdušného prostoru u hranic s Ruskem a Běloruskem",
+      "lead_raw": "Lotyšsko dnes zaznamenalo krátké narušení svého vzdušného prostoru poblíž hranic s Ruskem a Běloruskem. Kvůli incidentu armáda vyzvala obyvatele v oblasti, aby kvůli své bezpečnosti zůstali uvnitř budov.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "a65a9995641a45b57e18c32aa20a272a8254336e",
       "fingerprint": "c9fea7f63335e842527c20250b52b80e49387aef",
@@ -695,162 +717,6 @@
         "economy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "2ad8ff2c686e3a29c3ce64cccd3319134bee50cb",
-      "fingerprint": "556ca422db1dae63db4807346f39c1dace8e5306",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-huthiove-zautocili-raketami-na-prezidentsky-palac-v-jemenskem-adenu-319210",
-      "published_utc": "2026-10-30T20:35:57Z",
-      "title_en": "Húthíové zaútočili raketami na prezidentský palác v jemenském Adenu",
-      "lead_en": "Sídlo mezinárodně uznávané jemenské vlády v Adenu se stalo terčem raketového útoku Húthíů. Rozsah škod a obětí zatím úřady neupřesnily, na místě ale zasahují sanitky.",
-      "title_raw": "Húthíové zaútočili raketami na prezidentský palác v jemenském Adenu",
-      "lead_raw": "Sídlo mezinárodně uznávané jemenské vlády v Adenu se stalo terčem raketového útoku Húthíů. Rozsah škod a obětí zatím úřady neupřesnily, na místě ale zasahují sanitky.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "a9290afe6f752c86e8e11ffc4b9b0ef0770778f6",
-      "fingerprint": "3e8070b7a2f3d8eaba56671166ce2fc3c2a5c851",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/zapomenuty-zvon-nova-zvonice-renovace-dobrovolni-hasici-oslavy-vyroci_2610302135_zfr",
-      "published_utc": "2026-10-30T20:35:00Z",
-      "title_en": "Dobrovolní hasiči v Těrlicku slaví výročí. V rámci oslav rozezní zapomenutý prvorepublikový zvon",
-      "lead_en": "Zvon z roku 1918, nalezený při demolici staré školy v Těrlicku-Hradišti, se v sobotu znovu rozezní. Dobrovolní hasiči ho nechali zrenovovat a umístili ho do nové Floriánovy zvoničky před zbrojnicí.",
-      "title_raw": "Dobrovolní hasiči v Těrlicku slaví výročí. V rámci oslav rozezní zapomenutý prvorepublikový zvon",
-      "lead_raw": "Zvon z roku 1918, nalezený při demolici staré školy v Těrlicku-Hradišti, se v sobotu znovu rozezní. Dobrovolní hasiči ho nechali zrenovovat a umístili ho do nové Floriánovy zvoničky před zbrojnicí.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "2ebd69bcbc886d90e251d4f95d621d63636dd814",
-      "fingerprint": "ed251388e796752cb21a7bbadfd4c1fc8650cd06",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/usa-strely-protirakove-patriot-ukrajina-valka-miliarda.A261030_211624_zahranicni_votr",
-      "published_utc": "2026-10-30T20:34:32Z",
-      "title_en": "USA prodají pět set střel pro systém Patriot Ukrajině, uvedlo ministerstvo",
-      "lead_en": "Americké ministerstvo zahraničí dnes oznámilo, že schválilo prodej 500 střel PAC-3 do systémů protiraketové obrany Patriot Ukrajině. Odhadovaná cena je 2,1 miliardy dolarů (45,8 miliardy Kč) a financovat nákup budou \"partneři a spojenci\", uvedl úřad Marca Rubia.",
-      "title_raw": "USA prodají pět set střel pro systém Patriot Ukrajině, uvedlo ministerstvo",
-      "lead_raw": "Americké ministerstvo zahraničí dnes oznámilo, že schválilo prodej 500 střel PAC-3 do systémů protiraketové obrany Patriot Ukrajině. Odhadovaná cena je 2,1 miliardy dolarů (45,8 miliardy Kč) a financovat nákup budou \"partneři a spojenci\", uvedl úřad Marca Rubia.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "19c86397b87ee77f058222309ee5ebea50eb1904",
-      "fingerprint": "99ab6ddb3828a762fff4c6bf39d983639a50e363",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/usa-schvalily-prodej-peti-set-strel-pac-3-do-sytemu-patriot-pro-ukrajinu-379164",
-      "published_utc": "2026-10-30T20:09:48Z",
-      "title_en": "USA schválily prodej pěti set střel PAC-3 do systému Patriot pro Ukrajinu",
-      "lead_en": "Americké ministerstvo zahraničí v&nbsp;pátek oznámilo, že schválilo prodej pěti set střel PAC-3 do systémů protiraketové obrany Patriot Ukrajině. Odhadovaná cena je 2,1 miliardy dolarů (45,8 miliardy korun) a&nbsp;financovat nákup budou „partneři a&nbsp;spojenci“, upřesnilo ministerstvo s&nbsp;tím, že se Spojené státy na financování tohoto prodeje nebudou podílet.",
-      "title_raw": "USA schválily prodej pěti set střel PAC-3 do systému Patriot pro Ukrajinu",
-      "lead_raw": "Americké ministerstvo zahraničí v&nbsp;pátek oznámilo, že schválilo prodej pěti set střel PAC-3 do systémů protiraketové obrany Patriot Ukrajině. Odhadovaná cena je 2,1 miliardy dolarů (45,8 miliardy korun) a&nbsp;financovat nákup budou „partneři a&nbsp;spojenci“, upřesnilo ministerstvo s&nbsp;tím, že se Spojené státy na financování tohoto prodeje nebudou podílet.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "de26f7095c89fc248377e9cfdf386c1e20085ebc",
-      "fingerprint": "2135ff28f2e201b726f5513a463d8f93046951d6",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-americka-diplomacie-schvalila-prodej-stovek-raket-do-patriotu-ukrajine-40605882",
-      "published_utc": "2026-10-30T20:05:34Z",
-      "title_en": "Americká diplomacie schválila prodej stovek raket do patriotů Ukrajině",
-      "lead_en": "Americké ministerstvo zahraničí v pátek schválilo prodej 500 raket PAC-3 do systémů protivzdušné obrany Patriot Ukrajině. Celková cena takového množství raket se odhaduje na 2,1 miliardy dolarů (45,8 miliardy korun).",
-      "title_raw": "Americká diplomacie schválila prodej stovek raket do patriotů Ukrajině",
-      "lead_raw": "Americké ministerstvo zahraničí v pátek schválilo prodej 500 raket PAC-3 do systémů protivzdušné obrany Patriot Ukrajině. Celková cena takového množství raket se odhaduje na 2,1 miliardy dolarů (45,8 miliardy korun).",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 2,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "837f6b6c6c6a3d251d2f9c52b967937f441e2492",
-      "fingerprint": "b6ffc2d18503ed7eee4599af037214e82368e435",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-ukrajinci-zlikvidovali-rusky-vrtulnik-mi-8-40605879",
-      "published_utc": "2026-10-30T19:05:06Z",
-      "title_en": "Ukrajinci zlikvidovali ruský vrtulník Mi-8",
-      "lead_en": "Ukrajinské ozbrojené síly v pátek v Ruskem okupované Luhanské oblasti zničily ruský vojenský vrtulník Mi-8. Za operací stála 3.",
-      "title_raw": "Ukrajinci zlikvidovali ruský vrtulník Mi-8",
-      "lead_raw": "Ukrajinské ozbrojené síly v pátek v Ruskem okupované Luhanské oblasti zničily ruský vojenský vrtulník Mi-8. Za operací stála 3.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "46339154b121ca66fcf39818cc367ce6cbb7658a",
-      "fingerprint": "20078b8b7c832c7d7a920347ecb3af9a57e58648",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-olesky-primeri.A261030_103824_zahranicni_aha",
-      "published_utc": "2026-10-30T19:00:00Z",
-      "title_en": "Jiskřička naděje. Olešky naznačily, že Kyjev a Moskva se mohou dohodnout",
-      "lead_en": "Ve válce na Ukrajině se objevila věc nevídaná: klid zbraní. Šestidenní lokální příměří v Oleškách podle optimistických hlasů nabízí návod, jak překonat hlubokou nedůvěru mezi Moskvou a Kyjevem.",
-      "title_raw": "Jiskřička naděje. Olešky naznačily, že Kyjev a Moskva se mohou dohodnout",
-      "lead_raw": "Ve válce na Ukrajině se objevila věc nevídaná: klid zbraní. Šestidenní lokální příměří v Oleškách podle optimistických hlasů nabízí návod, jak překonat hlubokou nedůvěru mezi Moskvou a Kyjevem.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
