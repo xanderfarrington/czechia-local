@@ -1,10 +1,55 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-01T13:56:45Z",
+  "updated_at_utc": "2026-11-01T18:41:10Z",
   "topic": "economy",
   "count": 14,
   "articles": [
+    {
+      "id": "6b92cb7631195dbfa6f6715a73a8f715b9ff60c4",
+      "fingerprint": "3dc8a609c55b9e2c2311b5887921a1df3e755985",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-rozhovory-veteran-bank-of-england-jsme-v-krizi-demokracie-ne-ekonomiky-318847",
+      "published_utc": "2026-11-01T18:15:28Z",
+      "title_en": "Veterán Bank of England: Jsme v krizi demokracie, ne ekonomiky",
+      "lead_en": "Recept na dluhy vyspělých států i na inflaci je dobře známý, říká britský ekonom Charles Goodhart. Chybí nám ale politická odvaha ho použít, za toto váhání zaplatí hlavně mladá generace.",
+      "title_raw": "Veterán Bank of England: Jsme v krizi demokracie, ne ekonomiky",
+      "lead_raw": "Recept na dluhy vyspělých států i na inflaci je dobře známý, říká britský ekonom Charles Goodhart. Chybí nám ale politická odvaha ho použít, za toto váhání zaplatí hlavně mladá generace.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "5af8ef4b8feedc27f56faaf7da4ff35a2abfc0f7",
+      "fingerprint": "9cdb2b9ae0aacd12e1bf9f04a6eacd26a5d5d8d6",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-korea-s-projektem-rozsireni-dukovan-nadale-pocita-ujistil-ministr-40605978",
+      "published_utc": "2026-11-01T15:49:34Z",
+      "title_en": "Korea s projektem rozšíření Dukovan nadále počítá, ujistil ministr",
+      "lead_en": "Jižní Korea ani v nejmenším neustupuje od svého závazku zdárně dokončit projekt rozšíření jaderné elektrárny Dukovany. Ve svém příspěvku na sociální síti X to v neděli napsal jihokorejský ministr obchodu, průmyslu a energetiky Kim Čong-kwan.",
+      "title_raw": "Korea s projektem rozšíření Dukovan nadále počítá, ujistil ministr",
+      "lead_raw": "Jižní Korea ani v nejmenším neustupuje od svého závazku zdárně dokončit projekt rozšíření jaderné elektrárny Dukovany. Ve svém příspěvku na sociální síti X to v neděli napsal jihokorejský ministr obchodu, průmyslu a energetiky Kim Čong-kwan.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 4,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "330e855adefb12006ca642a748eccdf4e0c3d057",
       "fingerprint": "412f52ad5c49e5a14ce3a6cbe88ae1580eea79a6",
@@ -272,51 +317,6 @@
         "economy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "643cc7e9fe8feb305e1686e3fd601e20ccdcfdbf",
-      "fingerprint": "a51443bebfd87c7dea2e00d6695fa921b3a7c69f",
-      "source": "iROZHLAS - Economy",
-      "url": "https://www.irozhlas.cz/ekonomika/do-vysetrovani-hackerskeho-utoku-na-binance-se-zapojily-americke-urady-stopy_2610301751_med",
-      "published_utc": "2026-10-30T16:51:00Z",
-      "title_en": "Do vyšetřování krádeže ‚největší sumy v dějinách‘ se zapojily americké úřady. Stopy vedou do KLDR",
-      "lead_en": "Za rozsáhlým hackerským útokem na kryptoměnovou burzu Binance, při kterém útočníci odcizili kryptoměny v hodnotě 6,36 miliardy dolarů (zhruba 134 miliard korun), pravděpodobně stojí Severní Korea. Podle analytických společností TRM Labs a Chainalysis nese útok znaky předchozích operací severokorejské hackerské skupiny Lazarus, známé také jako TraderTraitor.",
-      "title_raw": "Do vyšetřování krádeže ‚největší sumy v dějinách‘ se zapojily americké úřady. Stopy vedou do KLDR",
-      "lead_raw": "Za rozsáhlým hackerským útokem na kryptoměnovou burzu Binance, při kterém útočníci odcizili kryptoměny v hodnotě 6,36 miliardy dolarů (zhruba 134 miliard korun), pravděpodobně stojí Severní Korea. Podle analytických společností TRM Labs a Chainalysis nese útok znaky předchozích operací severokorejské hackerské skupiny Lazarus, známé také jako TraderTraitor.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "8eb9d53ca1758fdffdd392500d71a1c1b398f444",
-      "fingerprint": "19731d53eecc1183ed65797c53482143b1d43bad",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/ropa-brent-je-nad-117-usd-trh-se-obava-eskalace-konfliktu-na-blizkem-vychode/2895144",
-      "published_utc": "2026-10-30T16:16:00Z",
-      "title_en": "Ropa Brent je nad 117 USD, trh se obává eskalace konfliktu na Blízkém východě",
-      "lead_en": "Londýn/New York - Ceny ropy se dnes zvyšují, obchodníci se připravují na možnou eskalaci konfliktu na Blízkém východě po kongresových volbách ve Spojených státech. Severomořská ropa Brent si krátce před...",
-      "title_raw": "Ropa Brent je nad 117 USD, trh se obává eskalace konfliktu na Blízkém východě",
-      "lead_raw": "Londýn/New York - Ceny ropy se dnes zvyšují, obchodníci se připravují na možnou eskalaci konfliktu na Blízkém východě po kongresových volbách ve Spojených státech. Severomořská ropa Brent si krátce před...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }

@@ -1,10 +1,76 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-01T13:56:45Z",
+  "updated_at_utc": "2026-11-01T18:41:10Z",
   "topic": "military",
-  "count": 42,
+  "count": 38,
   "articles": [
+    {
+      "id": "a65a9995641a45b57e18c32aa20a272a8254336e",
+      "fingerprint": "c9fea7f63335e842527c20250b52b80e49387aef",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-zelenskyj-ukrajina-v-rijnu-zpusobila-rusku-nejvyssi-ztraty-od-zacatku-valky-319254",
+      "published_utc": "2026-11-01T15:50:10Z",
+      "title_en": "Zelenskyj: Ukrajina v říjnu způsobila Rusku nejvyšší ztráty od začátku války",
+      "lead_en": "V říjnu utrpěla ruská armáda rekordní ztráty přes 54 tisíc vojáků, uvedl ukrajinský prezident Volodymyr Zelenskyj. Ukrajina zároveň osvobodila více území, než Rusové obsadili.",
+      "title_raw": "Zelenskyj: Ukrajina v říjnu způsobila Rusku nejvyšší ztráty od začátku války",
+      "lead_raw": "V říjnu utrpěla ruská armáda rekordní ztráty přes 54 tisíc vojáků, uvedl ukrajinský prezident Volodymyr Zelenskyj. Ukrajina zároveň osvobodila více území, než Rusové obsadili.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "a3bd78c0eb5942755c3ff8fa26718ea69729945f",
+      "fingerprint": "a2ed66a5bd6230f5af2e10f8b142fdb4f1bdeee7",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/zelenskyj-ukrajina-rusko-moskva-putin-valka-ztraty.A261101_162707_zahranicni_hock",
+      "published_utc": "2026-11-01T15:45:00Z",
+      "title_en": "Ukrajina v říjnu způsobila Rusku nejvyšší ztráty od začátku války, uvedl Zelenskyj",
+      "lead_en": "Ukrajinská armáda v říjnu způsobila Rusku nejvyšší lidské ztráty od začátku války. O život přišlo nebo bylo těžce zraněno na 54 400 vojáků ruských sil, uvedl ukrajinský prezident Volodymyr Zelenskyj.",
+      "title_raw": "Ukrajina v říjnu způsobila Rusku nejvyšší ztráty od začátku války, uvedl Zelenskyj",
+      "lead_raw": "Ukrajinská armáda v říjnu způsobila Rusku nejvyšší lidské ztráty od začátku války. O život přišlo nebo bylo těžce zraněno na 54 400 vojáků ruských sil, uvedl ukrajinský prezident Volodymyr Zelenskyj.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "7ee8347c7b44b6b76af237690b460eb773d49bfc",
+      "fingerprint": "e286b432e0058b8794235599fb6f884fc3719bf3",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-zelenskyj-rusko-v-rijnu-utrpelo-nejtezsi-ztraty-od-zacatku-valky-40605970",
+      "published_utc": "2026-11-01T14:11:41Z",
+      "title_en": "Zelenskyj: Rusko v říjnu utrpělo nejtěžší ztráty od začátku války",
+      "lead_en": "Rusko v říjnu přišlo o 54 400 zabitých nebo zraněných vojáků, oznámil v neděli na platformě Telegram ukrajinský prezident Volodymyr Zelenskyj. To by znamenalo, že říjen byl pro ruské síly ztrátově nejhorším měsícem od začátku války v únoru 2022.",
+      "title_raw": "Zelenskyj: Rusko v říjnu utrpělo nejtěžší ztráty od začátku války",
+      "lead_raw": "Rusko v říjnu přišlo o 54 400 zabitých nebo zraněných vojáků, oznámil v neděli na platformě Telegram ukrajinský prezident Volodymyr Zelenskyj. To by znamenalo, že říjen byl pro ruské síly ztrátově nejhorším měsícem od začátku války v únoru 2022.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "a70f40e3abdab9aa381fcbc07bf1869451b16c2d",
       "fingerprint": "eac22dbc191fcd57ffd4624abbddcb2176dec2e4",
@@ -785,165 +851,6 @@
         "military"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "17b10fec09484c28b03d1de6626fc915a114a79b",
-      "fingerprint": "a949929fa5223b9979c5a5bd6e29f2f7d1a07bf3",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-prezident-pavel-prijde-v-pondeli-na-vladu-40605874",
-      "published_utc": "2026-10-30T17:37:32Z",
-      "title_en": "Prezident Pavel přijde v pondělí na vládu",
-      "lead_en": "Pondělního zasedání vlády se zúčastní i prezident Petr Pavel. Na programu jednání kabinetu premiéra Andreje Babiše (ANO) je hned několik bezpečnostních témat, o něž se prezident zajímá.",
-      "title_raw": "Prezident Pavel přijde v pondělí na vládu",
-      "lead_raw": "Pondělního zasedání vlády se zúčastní i prezident Petr Pavel. Na programu jednání kabinetu premiéra Andreje Babiše (ANO) je hned několik bezpečnostních témat, o něž se prezident zajímá.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "fc51ff86be248b203b97c1ece10038f384958f7d",
-      "fingerprint": "9a0464b2ea0a24437e1ac33501bb72226c1e39f7",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-k-jednacimu-stolu-nespecha-kyjev-chce-zatlacit-do-kouta-mini-expert-379134",
-      "published_utc": "2026-10-30T17:15:00Z",
-      "title_en": "Rusko k jednacímu stolu nespěchá. Kyjev chce zatlačit do kouta, míní expert",
-      "lead_en": "V&nbsp;listopadu může dojít k&nbsp;trojstrannému jednání mezi USA, Ruskem a&nbsp;Ukrajinou v&nbsp;Abú Dhabí, které by teoreticky mohlo přispět k&nbsp;ukončení rusko-ukrajinského konfliktu. Kyjev chce hovořit o&nbsp;svých bezpečnostních prioritách, Moskva však o&nbsp;své účasti stále mlží.",
-      "title_raw": "Rusko k jednacímu stolu nespěchá. Kyjev chce zatlačit do kouta, míní expert",
-      "lead_raw": "V&nbsp;listopadu může dojít k&nbsp;trojstrannému jednání mezi USA, Ruskem a&nbsp;Ukrajinou v&nbsp;Abú Dhabí, které by teoreticky mohlo přispět k&nbsp;ukončení rusko-ukrajinského konfliktu. Kyjev chce hovořit o&nbsp;svých bezpečnostních prioritách, Moskva však o&nbsp;své účasti stále mlží.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "59fc87fe3e5ab39c852abd23a380846aaf6b3340",
-      "fingerprint": "e9ca75f57fd61fd1a4ada9b21b4f1576baefd9a7",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/eu-a-kanada-vytvori-alianci-pro-budoucnost-379159",
-      "published_utc": "2026-10-30T17:05:14Z",
-      "title_en": "EU a Kanada vytvoří Alianci pro budoucnost",
-      "lead_en": "Evropská unie a&nbsp;Kanada chtějí do summitu v&nbsp;roce 2027 upřesnit podobu užšího přidružení Kanady k&nbsp;Unii, které nebude znamenat plné členství, stojí v&nbsp;závěrečném prohlášení z&nbsp;dvoudenního summitu, jenž v&nbsp;pátek skončil v&nbsp;Montrealu. Podle tohoto dokumentu vytvoří Alianci pro budoucnost, která propojí jejich ekonomiky, posílí hospodářskou a&nbsp;strategickou bezpečnost a&nbsp;zvýší odolnost dodavatelských řetězců, zejména v&nbsp;oblasti kritických surovin a&nbsp;strategických technologií.",
-      "title_raw": "EU a Kanada vytvoří Alianci pro budoucnost",
-      "lead_raw": "Evropská unie a&nbsp;Kanada chtějí do summitu v&nbsp;roce 2027 upřesnit podobu užšího přidružení Kanady k&nbsp;Unii, které nebude znamenat plné členství, stojí v&nbsp;závěrečném prohlášení z&nbsp;dvoudenního summitu, jenž v&nbsp;pátek skončil v&nbsp;Montrealu. Podle tohoto dokumentu vytvoří Alianci pro budoucnost, která propojí jejich ekonomiky, posílí hospodářskou a&nbsp;strategickou bezpečnost a&nbsp;zvýší odolnost dodavatelských řetězců, zejména v&nbsp;oblasti kritických surovin a&nbsp;strategických technologií.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "5a4068582516b0b7771bd06e1a83597eb918104b",
-      "fingerprint": "ee57f451252018d066b880b0998c33237097ef20",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-mohutne-protesty-v-italii-do-ulic-vyslo-15-milionu-lidi-40605859",
-      "published_utc": "2026-10-30T15:33:32Z",
-      "title_en": "Mohutné protesty v Itálii: Do ulic vyšlo 1,5 milionu lidí",
-      "lead_en": "Na 1,5 milionu lidí ve více než 60 městech po celé Itálii vyšlo v pátek do ulic, aby protestovalo proti vysokým životním nákladům, bytové nouzi, zbrojení a válkám. Z toho všeho viní pravicovou vládu premiérky Giorgie Meloniové.",
-      "title_raw": "Mohutné protesty v Itálii: Do ulic vyšlo 1,5 milionu lidí",
-      "lead_raw": "Na 1,5 milionu lidí ve více než 60 městech po celé Itálii vyšlo v pátek do ulic, aby protestovalo proti vysokým životním nákladům, bytové nouzi, zbrojení a válkám. Z toho všeho viní pravicovou vládu premiérky Giorgie Meloniové.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "6682ff5ba1697a3d2b69f1ed7e21bf3bfeb50fcc",
-      "fingerprint": "3499724dbf7f71aa045c98bdda374aa9610f481f",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-ve-spanelske-fabrice-csg-vybuchla-munice-dva-lide-maji-lehka-poraneni-sluchu-319196",
-      "published_utc": "2026-10-30T15:29:53Z",
-      "title_en": "Ve španělské fabrice CSG vybuchla munice. Dva lidé mají lehká poranění sluchu",
-      "lead_en": "Ve španělské muničce FMG patřící české skupině CSG došlo k výbuchu v zóně určené k likvidaci staré munice. Dva lidé utrpěli lehká zranění sluchu.",
-      "title_raw": "Ve španělské fabrice CSG vybuchla munice. Dva lidé mají lehká poranění sluchu",
-      "lead_raw": "Ve španělské muničce FMG patřící české skupině CSG došlo k výbuchu v zóně určené k likvidaci staré munice. Dva lidé utrpěli lehká zranění sluchu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "4dbfa3544f25bfbfdb583f837a7a56e18e5918b1",
-      "fingerprint": "dc1072b213277ff5ece49f7afeeccfc630fb4e95",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/ve-zbrojovce-csg-ve-spanelsku-doslo-k-vybuchu-dva-lide-jsou-zraneni.A261030_153024_eko-zahranicni_meli",
-      "published_utc": "2026-10-30T15:20:00Z",
-      "title_en": "Ve zbrojovce CSG ve Španělsku došlo k výbuchu, dva lidé jsou zranění",
-      "lead_en": "V areálu španělské firmy Fábrica de Municiones de Granada došlo k výbuchu. O události informoval mluvčí zbrojařské a strojírenské skupiny Czechoslovak Group (CSG) Andrej Čírtek, pod níž podnik patří.",
-      "title_raw": "Ve zbrojovce CSG ve Španělsku došlo k výbuchu, dva lidé jsou zranění",
-      "lead_raw": "V areálu španělské firmy Fábrica de Municiones de Granada došlo k výbuchu. O události informoval mluvčí zbrojařské a strojírenské skupiny Czechoslovak Group (CSG) Andrej Čírtek, pod níž podnik patří.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "7cbfaff73374366b8e262e13545d195321d9a851",
-      "fingerprint": "2825198bc1a7fd205aa10bf1a4a2ba82ce0ba5e0",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-strnad-si-jde-pro-italske-rodinne-stribro-kde-ale-vezme-730-miliard-korun-319190",
-      "published_utc": "2026-10-30T15:00:00Z",
-      "title_en": "Strnad si jde pro italské rodinné stříbro. Kde ale vezme 730 miliard korun",
-      "lead_en": "Zbrojařský magnát Michal Strnad se pustil do jednoho z nejambicióznějších podniků své kariéry. Dědicům italského byznysmena Leonarda del Vecchia nabídl, že za 30 miliard eur v hotovosti odkoupí rodinný holding Delfin.",
-      "title_raw": "Strnad si jde pro italské rodinné stříbro. Kde ale vezme 730 miliard korun",
-      "lead_raw": "Zbrojařský magnát Michal Strnad se pustil do jednoho z nejambicióznějších podniků své kariéry. Dědicům italského byznysmena Leonarda del Vecchia nabídl, že za 30 miliard eur v hotovosti odkoupí rodinný holding Delfin.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
