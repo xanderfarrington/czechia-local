@@ -1,10 +1,168 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-02T08:38:40Z",
+  "updated_at_utc": "2026-11-02T18:54:54Z",
   "topic": "energy",
-  "count": 27,
+  "count": 26,
   "articles": [
+    {
+      "id": "1bba60599c7b266b947d9e30a71284ca4cbba016",
+      "fingerprint": "74abc54b6260232da79c94ed23aad593417b4aaa",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-rusko-prislo-o-nejmodernejsi-stihacku-su-57-40606207",
+      "published_utc": "2026-11-02T17:17:54Z",
+      "title_en": "Rusko přišlo o nejmodernější stíhačku Su-57",
+      "lead_en": "Ruské letectvo ztratilo svůj nejmodernější stíhací letoun Su-57. Při startu na letišti Achťubinsk mu explodoval jeden z motorů, zřejmě kvůli nekvalitnímu palivu, informovala v pondělí ukrajinská rozvědka HUR.",
+      "title_raw": "Rusko přišlo o nejmodernější stíhačku Su-57",
+      "lead_raw": "Ruské letectvo ztratilo svůj nejmodernější stíhací letoun Su-57. Při startu na letišti Achťubinsk mu explodoval jeden z motorů, zřejmě kvůli nekvalitnímu palivu, informovala v pondělí ukrajinská rozvědka HUR.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "7809b1e117fce24a8d70f82f4ab0a656c7e7b5b1",
+      "fingerprint": "0ba1a82c5738cbd99a8910e31a58262a7b4ba2d8",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-byznys-komodity-dluhopisy-ceny-ropy-klesaji-kvuli-jednanim-s-iranem-presto-panuji-obavy-z-eskalace-319354",
+      "published_utc": "2026-11-02T15:26:23Z",
+      "title_en": "Ceny ropy klesají kvůli jednáním s Íránem, přesto panují obavy z eskalace",
+      "lead_en": "Pokračující jednání o ukončení konfliktu na Blízkém východě mají za následek propad cen ropy na světovém trhu. Nadále však panují obavy, že by konflikt mezi USA a Íránem po volbách do amerického Kongresu mohl dál eskalovat.",
+      "title_raw": "Ceny ropy klesají kvůli jednáním s Íránem, přesto panují obavy z eskalace",
+      "lead_raw": "Pokračující jednání o ukončení konfliktu na Blízkém východě mají za následek propad cen ropy na světovém trhu. Nadále však panují obavy, že by konflikt mezi USA a Íránem po volbách do amerického Kongresu mohl dál eskalovat.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "e3247425c4cd67ddd552d9ccdf2b8f3a044cfaa6",
+      "fingerprint": "eeaf51d8d02ccc81ab74b42e3cde1528ea577a52",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-elektrina-zdrazi-domacnosti-si-priplati-i-nekolik-tisic-319315",
+      "published_utc": "2026-11-02T15:15:00Z",
+      "title_en": "Elektřina zdraží. Domácnosti si připlatí i několik tisíc",
+      "lead_en": "Ceny elektřiny od Nového roku vzrostou. Rostou ceny silové elektřiny a navýšení regulovaných plateb v průměru o 2,8 procenta navrhuje také Energetický regulační úřad.",
+      "title_raw": "Elektřina zdraží. Domácnosti si připlatí i několik tisíc",
+      "lead_raw": "Ceny elektřiny od Nového roku vzrostou. Rostou ceny silové elektřiny a navýšení regulovaných plateb v průměru o 2,8 procenta navrhuje také Energetický regulační úřad.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "969ad74a743e6f6be0f30a578efbd4e57bfda3b2",
+      "fingerprint": "8703d6d0e0d36787b21092a26dbde266f549f803",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/-ceny-ropy-diky-nadeji-na-ukonceni-iranskeho-konfliktu-ztraceji-pres-sest-procent/2895144",
+      "published_utc": "2026-11-02T14:06:00Z",
+      "title_en": "Ceny ropy díky naději na ukončení íránského konfliktu ztrácejí přes šest procent",
+      "lead_en": "Londýn - Ceny ropy na světovém trhu prohloubily propad. Ztrácejí více než šest procent, americká lehká ropa WTI se tak dostala výrazně pod 100 USD za barel.",
+      "title_raw": "Ceny ropy díky naději na ukončení íránského konfliktu ztrácejí přes šest procent",
+      "lead_raw": "Londýn - Ceny ropy na světovém trhu prohloubily propad. Ztrácejí více než šest procent, americká lehká ropa WTI se tak dostala výrazně pod 100 USD za barel.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "9bb38be87ed35d53c9192ff265606c08f64d3d5e",
+      "fingerprint": "e39f7c135bf4d7ef95b5d680d6b2ef98b46bc9e9",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/pavel-pokud-se-evropa-nezapoji-do-mirovych-jednani-mohou-skoncit-bez-ni/2896175",
+      "published_utc": "2026-11-02T12:34:00Z",
+      "title_en": "Pavel: Pokud se Evropa nezapojí do mírových jednání, mohou skončit bez ní",
+      "lead_en": "Praha - V případě, že se Evropa jednoznačně nezapojí se svými požadavky do jednání o míru na Ukrajině, může se stát, že se Rusko se Spojenými státy a Čínou dohodnou \"o nás bez nás\", řekl při...",
+      "title_raw": "Pavel: Pokud se Evropa nezapojí do mírových jednání, mohou skončit bez ní",
+      "lead_raw": "Praha - V případě, že se Evropa jednoznačně nezapojí se svými požadavky do jednání o míru na Ukrajině, může se stát, že se Rusko se Spojenými státy a Čínou dohodnou \"o nás bez nás\", řekl při...",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "1827f0ab3f6d2eb0b20f914540c707b1b6def218",
+      "fingerprint": "60ee8be39b79f2dcd2368e5a287f62d2b1ece308",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/usa-navrhly-obnovu-prodeje-ruskeho-plynu-do-eu-podle-moskvy-to-zatim-neni-mozne-379226",
+      "published_utc": "2026-11-02T11:41:22Z",
+      "title_en": "USA navrhly obnovu prodeje ruského plynu do EU. Podle Moskvy to zatím není možné",
+      "lead_en": "Spojené státy navrhly při zářijových jednáních v&nbsp;Moskvě a&nbsp;Kyjevě obnovu dodávek ruského plynu do Evropy prostřednictvím plynovodu na území Ukrajiny, napsal The&nbsp;Wall Street Journal s&nbsp;odkazem na několik nejmenovaných zdrojů z&nbsp;USA a&nbsp;některých evropských zemí včetně Ukrajiny. Prodeje by se podle návrhu uskutečňovaly přes americké zprostředkovatele.",
+      "title_raw": "USA navrhly obnovu prodeje ruského plynu do EU. Podle Moskvy to zatím není možné",
+      "lead_raw": "Spojené státy navrhly při zářijových jednáních v&nbsp;Moskvě a&nbsp;Kyjevě obnovu dodávek ruského plynu do Evropy prostřednictvím plynovodu na území Ukrajiny, napsal The&nbsp;Wall Street Journal s&nbsp;odkazem na několik nejmenovaných zdrojů z&nbsp;USA a&nbsp;některých evropských zemí včetně Ukrajiny. Prodeje by se podle návrhu uskutečňovaly přes americké zprostředkovatele.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "332413cac18c056dee614d7be63b5663247d646c",
+      "fingerprint": "e22206a9bddd440431c446cf0e9247451e4912ed",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/ceny-palivoveho-dreva-ci-pelet-letos-vzrostly-asi-o-petinu-projevuje-se-krize/2896102",
+      "published_utc": "2026-11-02T11:02:00Z",
+      "title_en": "Ceny palivového dřeva či pelet letos vzrostly asi o pětinu, projevuje se krize",
+      "lead_en": "Praha - Palivové dřevo v Česku zdražuje. Domácnosti, které topí dřevem, briketami nebo peletami, si oproti loňsku připlatí místy až o pětinu více.",
+      "title_raw": "Ceny palivového dřeva či pelet letos vzrostly asi o pětinu, projevuje se krize",
+      "lead_raw": "Praha - Palivové dřevo v Česku zdražuje. Domácnosti, které topí dřevem, briketami nebo peletami, si oproti loňsku připlatí místy až o pětinu více.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "8b7e65830c3e65299661099a08bcf655823805cb",
       "fingerprint": "573a86d750460e7507b0882386ec38ca6e55432a",
@@ -428,188 +586,6 @@
       "topics": [
         "diplomacy",
         "military",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ba233ffc8e837de625b7b7a59bd620532eb45ee2",
-      "fingerprint": "340299c7a333824d775b8257e7f2f802fb6d44e1",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-ceskym-firmam-se-u-malych-jadernych-reaktoru-rysuji-lukrativni-zakazky-40605255",
-      "published_utc": "2026-10-31T15:53:44Z",
-      "title_en": "Českým firmám se u malých jaderných reaktorů rýsují lukrativní zakázky",
-      "lead_en": "Rozvoj malých modulárních reaktorů od britské společnosti Rolls-Royce SMR může českému průmyslu přinést zakázky za desítky miliard korun. Například plzeňská Škoda JS bude výhradním dodavatelem systému řízení reaktoru a hodnota budoucí dodávky pro každý postavený blok má přesáhnout miliardu, a stavět se jich mají desítky.",
-      "title_raw": "Českým firmám se u malých jaderných reaktorů rýsují lukrativní zakázky",
-      "lead_raw": "Rozvoj malých modulárních reaktorů od britské společnosti Rolls-Royce SMR může českému průmyslu přinést zakázky za desítky miliard korun. Například plzeňská Škoda JS bude výhradním dodavatelem systému řízení reaktoru a hodnota budoucí dodávky pro každý postavený blok má přesáhnout miliardu, a stavět se jich mají desítky.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "e02ab86b81e7335a5596cf5627b549882b3535d2",
-      "fingerprint": "949dbfb5a95125d063d3a39528b1baf6e67b3bdb",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-ukrajinske-neptuny-zasahly-rusky-zavod-na-vyrobu-raketoveho-paliva-40605912",
-      "published_utc": "2026-10-31T14:52:58Z",
-      "title_en": "Ukrajinské neptuny zasáhly ruský závod na výrobu raketového paliva",
-      "lead_en": "Ukrajinské ozbrojené síly v noci na sobotu v Kamensku-Šachtinském v ruské Rostovské oblasti zasáhly závod na výrobu raketového paliva. Oznámil to ukrajinský generální štáb.",
-      "title_raw": "Ukrajinské neptuny zasáhly ruský závod na výrobu raketového paliva",
-      "lead_raw": "Ukrajinské ozbrojené síly v noci na sobotu v Kamensku-Šachtinském v ruské Rostovské oblasti zasáhly závod na výrobu raketového paliva. Oznámil to ukrajinský generální štáb.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 4,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d78b37215a2cbc3aabd7aafd95480898eca59911",
-      "fingerprint": "483e63d38e04087595ed2b0237a7b95e146a2bb4",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/statisice-ukrajincu-jsou-bez-proudu-kyjev-zasahl-rusky-zavod-na-raketove-palivo-379174",
-      "published_utc": "2026-10-31T13:35:31Z",
-      "title_en": "Statisíce Ukrajinců jsou bez proudu, Kyjev zasáhl ruský závod na raketové palivo",
-      "lead_en": "Noční ruské dronové útoky připravily na Ukrajině o&nbsp;elektřinu statisíce lidí. V&nbsp;Dněpropetrovské oblasti zemřel jeden, pět zraněných pak hlásí Charkovská oblast.",
-      "title_raw": "Statisíce Ukrajinců jsou bez proudu, Kyjev zasáhl ruský závod na raketové palivo",
-      "lead_raw": "Noční ruské dronové útoky připravily na Ukrajině o&nbsp;elektřinu statisíce lidí. V&nbsp;Dněpropetrovské oblasti zemřel jeden, pět zraněných pak hlásí Charkovská oblast.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "energy",
-        "local_events"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ffdb815fe6d0d61c72734e810ea77aefe1e3b0b4",
-      "fingerprint": "4323463af63d7465559c4cada7db08965beff854",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/rusko-prodlouzilo-vyrobcum-nafty-zakaz-vyvozu-paliva-hmota.A261031_135501_zahranicni_sahu",
-      "published_utc": "2026-10-31T13:20:00Z",
-      "title_en": "Zákaz exportu ruské nafty potrvá do konce ledna, rafinerie čelily vlně útoků",
-      "lead_en": "Rusko opět prodloužilo zákaz vývozu nafty, který se vztahuje na výrobce tohoto paliva. Ruská vláda v sobotu oznámila, že zákaz zůstane v platnosti až do konce ledna příštího roku.",
-      "title_raw": "Zákaz exportu ruské nafty potrvá do konce ledna, rafinerie čelily vlně útoků",
-      "lead_raw": "Rusko opět prodloužilo zákaz vývozu nafty, který se vztahuje na výrobce tohoto paliva. Ruská vláda v sobotu oznámila, že zákaz zůstane v platnosti až do konce ledna příštího roku.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "a495ce080dee1126b67be3c31a0327ae143a7b48",
-      "fingerprint": "62cf13e5575cac0843a29b0380b789c60767d170",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/od-padu-lanovky-na-jested-uplynulo-pet-let-379173",
-      "published_utc": "2026-10-31T11:43:40Z",
-      "title_en": "Od pádu lanovky na Ještěd uplynulo pět let",
-      "lead_en": "Je to přesně pět let od pádu lanovky na Ještědu. Po přetržení tažného lana se tam tehdy jedna z&nbsp;kabin zřítila, uvnitř zemřel průvodčí.",
-      "title_raw": "Od pádu lanovky na Ještěd uplynulo pět let",
-      "lead_raw": "Je to přesně pět let od pádu lanovky na Ještědu. Po přetržení tažného lana se tam tehdy jedna z&nbsp;kabin zřítila, uvnitř zemřel průvodčí.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "a9a801e9b956b67a901d0ea602695dd56438d8d8",
-      "fingerprint": "fe1f6998bb8621627f03f63d92585070c16fd017",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-evropane-odmitli-pozovat-s-lavrovem-rubio-tradicni-fotku-skupiny-g20-zrusil-319218",
-      "published_utc": "2026-10-31T11:43:36Z",
-      "title_en": "Evropané odmítli pózovat s Lavrovem. Rubio tradiční fotku skupiny G20 zrušil",
-      "lead_en": "Přibližně třetina zemí na jednání skupiny G20 odmítla společnou fotografii s ruským ministrem zahraničí. Spojené státy proto nakonec focení zrušily.",
-      "title_raw": "Evropané odmítli pózovat s Lavrovem. Rubio tradiční fotku skupiny G20 zrušil",
-      "lead_raw": "Přibližně třetina zemí na jednání skupiny G20 odmítla společnou fotografii s ruským ministrem zahraničí. Spojené státy proto nakonec focení zrušily.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "28c7b49ea0b0f2eafce56c024503d50756666ab1",
-      "fingerprint": "a65f6cb62f061d29e9394b9bae1d7e913be3aa0a",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/lifestyle-osobnosti-petr-uhlik-herectvi-nedelam-proto-abych-byl-videt-40604938",
-      "published_utc": "2026-10-31T11:25:00Z",
-      "title_en": "Petr Uhlík: Herectví nedělám proto, abych byl vidět",
-      "lead_en": "Ztělesnil sériového vraha i atletickou rekordmanku, která se rozhodla přiznat skutečnou sexuální identitu. Jenom letos se objevil ve čtyřech celovečerních filmech.",
-      "title_raw": "Petr Uhlík: Herectví nedělám proto, abych byl vidět",
-      "lead_raw": "Ztělesnil sériového vraha i atletickou rekordmanku, která se rozhodla přiznat skutečnou sexuální identitu. Jenom letos se objevil ve čtyřech celovečerních filmech.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "813c2e094cae5983c0b4b0e304c23c159576af13",
-      "fingerprint": "181cb92049fc8d115294e6520bfdfec653421d69",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-zraneny-pes-a-ucet-u-veterinare-za-30-tisic-sklizen-zene-divocaky-bliz-k-lidem-318904",
-      "published_utc": "2026-10-31T11:00:00Z",
-      "title_en": "Divočáci se stahují blíž k lidem. Vbíhají i mezi domy a na zahrady",
-      "lead_en": "Ačkoliv myslivci v uplynulé sezoně odstřelili rekordní počet divočáků, s přicházející zimou se zvířata opět stahují blíže k lidem. A páchají škody.",
-      "title_raw": "Divočáci se stahují blíž k lidem. Vbíhají i mezi domy a na zahrady",
-      "lead_raw": "Ačkoliv myslivci v uplynulé sezoně odstřelili rekordní počet divočáků, s přicházející zimou se zvířata opět stahují blíže k lidem. A páchají škody.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
         "energy"
       ],
       "primary_topic": "energy"
