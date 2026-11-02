@@ -1,10 +1,188 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-02T01:56:34Z",
+  "updated_at_utc": "2026-11-02T08:38:40Z",
   "topic": "military",
-  "count": 33,
+  "count": 38,
   "articles": [
+    {
+      "id": "fd399f7ab8eb557e4b8d0ebd611ea55e9c219015",
+      "fingerprint": "cd2794c0bf34bf2511ece10f8f3c03ddc14adc33",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-drony-bombardovani-ruske-ropne-zarizeni-rusko-utok-na-pristav.A261102_080312_zahranicni_lysa",
+      "published_utc": "2026-11-02T07:43:23Z",
+      "title_en": "Ukrajina v noci zasáhla ruské ropné zařízení. Moskva útočila na Oděsu i Záporoží",
+      "lead_en": "Ukrajinské síly v noci na pondělí zasáhly ropné zařízení v ruské Samarské oblasti, uvedl server The Kyiv Independent. Ruské ministerstvo obrany oproti tomu oznámilo, že v noci útočilo na objekty přístavní infrastruktury v ukrajinské Oděské oblasti.",
+      "title_raw": "Ukrajina v noci zasáhla ruské ropné zařízení. Moskva útočila na Oděsu i Záporoží",
+      "lead_raw": "Ukrajinské síly v noci na pondělí zasáhly ropné zařízení v ruské Samarské oblasti, uvedl server The Kyiv Independent. Ruské ministerstvo obrany oproti tomu oznámilo, že v noci útočilo na objekty přístavní infrastruktury v ukrajinské Oděské oblasti.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d9cb9619a2ad68fd2b89a910b69775fe66dbbb47",
+      "fingerprint": "45ce30f97cc151eb766e679651a65a1cfb9eae82",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/aplikace-pro-varovani-civilistu-na-ukrajine-a-v-rusku-celily-kyberutokum-379209",
+      "published_utc": "2026-11-02T06:24:12Z",
+      "title_en": "Aplikace pro varování civilistů na Ukrajině a v Rusku čelily kyberútokům",
+      "lead_en": "Ukrajinská aplikace, která předává civilnímu obyvatelstvu varování před údery ze vzduchu, čelila v&nbsp;neděli kybernetickému útoku, sdělilo podle agentur ukrajinské vojenské letectvo. Ruské ministerstvo pro mimořádné situace později napsalo, že i&nbsp;jeho aplikace pro varování obyvatelstva čelila masivnímu kybernetickému útoku.",
+      "title_raw": "Aplikace pro varování civilistů na Ukrajině a v Rusku čelily kyberútokům",
+      "lead_raw": "Ukrajinská aplikace, která předává civilnímu obyvatelstvu varování před údery ze vzduchu, čelila v&nbsp;neděli kybernetickému útoku, sdělilo podle agentur ukrajinské vojenské letectvo. Ruské ministerstvo pro mimořádné situace později napsalo, že i&nbsp;jeho aplikace pro varování obyvatelstva čelila masivnímu kybernetickému útoku.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d87eb326d631c1b5e5049e8db687a10db3e871fb",
+      "fingerprint": "628d5894a60ff1d21aaae900ac22f6349df28ebc",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-rozhovory-spicar-volkswagen-ceka-bolestiva-lecba-cesi-uz-ale-maji-plan-jak-prezit-319156",
+      "published_utc": "2026-11-02T06:00:00Z",
+      "title_en": "Špicar: Volkswagen čeká bolestivá léčba. Češi už ale mají plán, jak přežít",
+      "lead_en": "Jak krize Volkswagenu dopadne na české dodavatele? „My jsme velmi flexibilní, Němci tuhle vlastnost úplně nemají,“ popisuje Radek Špicar ze Svazu průmyslu a dopravy s tím, že Češi už zjišťují, jak se zapojit do obranného průmyslu.",
+      "title_raw": "Špicar: Volkswagen čeká bolestivá léčba. Češi už ale mají plán, jak přežít",
+      "lead_raw": "Jak krize Volkswagenu dopadne na české dodavatele? „My jsme velmi flexibilní, Němci tuhle vlastnost úplně nemají,“ popisuje Radek Špicar ze Svazu průmyslu a dopravy s tím, že Češi už zjišťují, jak se zapojit do obranného průmyslu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "8caa43434761c5aae019c9318eddc13c89957c52",
+      "fingerprint": "397d677c1bebada36470f91b9fd4cd88b2f6b6f8",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-agenti-fbi-zadrzeli-muze-podezreleho-ze-sdileni-prisne-tajnych-informaci-na-socialnich-sitich-40605969",
+      "published_utc": "2026-11-02T05:25:00Z",
+      "title_en": "Agenti FBI zadrželi muže podezřelého ze sdílení přísně tajných informací na sociálních sítích",
+      "lead_en": "Agenti amerického Federálního vyšetřovacího úřadu (FBI) v pátek v Severní Karolíně zadrželi muže, který měl na sociálních sítích sdílet přísně tajné informace. K těm se dostal, když pracoval pro firmu, jež americké armádě poskytovala bezpečnostní služby.",
+      "title_raw": "Agenti FBI zadrželi muže podezřelého ze sdílení přísně tajných informací na sociálních sítích",
+      "lead_raw": "Agenti amerického Federálního vyšetřovacího úřadu (FBI) v pátek v Severní Karolíně zadrželi muže, který měl na sociálních sítích sdílet přísně tajné informace. K těm se dostal, když pracoval pro firmu, jež americké armádě poskytovala bezpečnostní služby.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ba9eb2af32325e1cb29142e1d219f03a08953e6d",
+      "fingerprint": "637446522a9779001f90948f1b25924bf5edceda",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/okradena-kryptomenova-burza-binance-znovu-umoznuje-zakaznikum-vybirat-bitcoiny.A261102_062049_eko-zahranicni_iluj",
+      "published_utc": "2026-11-02T05:22:00Z",
+      "title_en": "Největší kryptoměnová burza po kyberútoku opět umožňuje vybírat bitcoiny",
+      "lead_en": "Největší světová kryptoměnová burza Binance, která se stala obětí rozsáhlé kybernetické krádeže, dnes obnovila zákazníkům možnost výběru uložených bitcoinů. Firma na svém webu rovněž uvedla, že možnost výběru bude postupně obnovovat také u dalších kryptoměn.",
+      "title_raw": "Největší kryptoměnová burza po kyberútoku opět umožňuje vybírat bitcoiny",
+      "lead_raw": "Největší světová kryptoměnová burza Binance, která se stala obětí rozsáhlé kybernetické krádeže, dnes obnovila zákazníkům možnost výběru uložených bitcoinů. Firma na svém webu rovněž uvedla, že možnost výběru bude postupně obnovovat také u dalších kryptoměn.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "c55e95aef752ef98545ffeb42d3226458532a57c",
+      "fingerprint": "791af465f4e701e2fd89f73281634578b9fd907f",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/vlada-nova-koncepce-vystavby-armady-cr-do-roku-2040-prezident-pavel.A261102_052219_domaci_kop",
+      "published_utc": "2026-11-02T05:05:00Z",
+      "title_en": "Vláda za účasti prezidenta Pavla projedná novou koncepci armády do roku 2040",
+      "lead_en": "Za účasti prezidenta Petra Pavla, který je také vrchním velitelem ozbrojenýcn sil, projedná vláda Andreje Babiše koncepci výstavby armády České republiky do roku 2040. „„Do roku 2040 armáda disponuje nejméně 32 tisíci vojáky z povolání a 15 tisíci vojáky v aktivní záloze,“ píše se v v nové armádní koncepci.",
+      "title_raw": "Vláda za účasti prezidenta Pavla projedná novou koncepci armády do roku 2040",
+      "lead_raw": "Za účasti prezidenta Petra Pavla, který je také vrchním velitelem ozbrojenýcn sil, projedná vláda Andreje Babiše koncepci výstavby armády České republiky do roku 2040. „„Do roku 2040 armáda disponuje nejméně 32 tisíci vojáky z povolání a 15 tisíci vojáky v aktivní záloze,“ píše se v v nové armádní koncepci.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "37fa7a81d2130bdbdd18d8c2376547ec212abc2a",
+      "fingerprint": "a9102b43700046912e06cb7ca1817440c40d679f",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-spor-o-starlink-ukrajina-i-evropa-se-poohlizeji-po-vlastnich-druzicich-40605605",
+      "published_utc": "2026-11-02T04:46:00Z",
+      "title_en": "Spor o Starlink. Ukrajina i Evropa se poohlížejí po vlastních družicích",
+      "lead_en": "Deset dní nemohla Ukrajina pomocí satelitního internetu řídit drony letící rychleji než 160 kilometrů za hodinu. Americká firma SpaceX v polovině října bez varování omezila vojenskou síť Starshield a podle bývalých amerických důstojníků si tím USA vytvářejí konkurenty.",
+      "title_raw": "Spor o Starlink. Ukrajina i Evropa se poohlížejí po vlastních družicích",
+      "lead_raw": "Deset dní nemohla Ukrajina pomocí satelitního internetu řídit drony letící rychleji než 160 kilometrů za hodinu. Americká firma SpaceX v polovině října bez varování omezila vojenskou síť Starshield a podle bývalých amerických důstojníků si tím USA vytvářejí konkurenty.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "c32aa87d82643919d9a4425fa8783bec4181daf9",
+      "fingerprint": "4b26bea4d4ec5c0e0a82b1c3f4f74239420fe720",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/cinske-armadni-experty-skolil-ustav-jaderne-ochrany-bez-dukladneho-provereni_2611020500_nel",
+      "published_utc": "2026-11-02T04:00:00Z",
+      "title_en": "Čínské armádní experty školil ústav jaderné ochrany bez důkladného prověření. Podcenil rizika, uvádí kontrola",
+      "lead_en": "Státní ústav jaderné, chemické a biologické ochrany (SÚJCHBO) podcenil při výcviku čínských expertů bezpečnostní rizika. Vyplývá to ze závěrů mimořádné kontroly, kterou provedla dozorčí rada ústavu po medializaci těchto kurzů začátkem léta.",
+      "title_raw": "Čínské armádní experty školil ústav jaderné ochrany bez důkladného prověření. Podcenil rizika, uvádí kontrola",
+      "lead_raw": "Státní ústav jaderné, chemické a biologické ochrany (SÚJCHBO) podcenil při výcviku čínských expertů bezpečnostní rizika. Vyplývá to ze závěrů mimořádné kontroly, kterou provedla dozorčí rada ústavu po medializaci těchto kurzů začátkem léta.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "357a6627bc44afbe36cf9636c08d30a0c8a5ba9a",
       "fingerprint": "76b32517f3198c2303890553f18418c7d6596c8e",
@@ -670,73 +848,6 @@
       },
       "topics": [
         "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "94db3e72a57abb2c5d59a9b947e4218459a781c4",
-      "fingerprint": "36ed9f071d098996c4b839d808600305dc652d28",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-vesmirne-akcie-tahnou-ppf-na-kanadske-firme-vydelala-miliardy-319127",
-      "published_utc": "2026-10-31T07:45:00Z",
-      "title_en": "Vesmírné akcie táhnou. PPF na kanadské firmě vydělala miliardy",
-      "lead_en": "Do kanadské vesmírné společnosti MDA Space nedávno vstoupil už druhý český investor, zbrojařský holding CSG. Tomu prvnímu, skupině PPF, vydělaly akcie této společnosti miliardy korun.",
-      "title_raw": "Vesmírné akcie táhnou. PPF na kanadské firmě vydělala miliardy",
-      "lead_raw": "Do kanadské vesmírné společnosti MDA Space nedávno vstoupil už druhý český investor, zbrojařský holding CSG. Tomu prvnímu, skupině PPF, vydělaly akcie této společnosti miliardy korun.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "421a8228ed525f3fd9ca9e98f70350bfdccd2132",
-      "fingerprint": "18e5eb70f497ff4696307013e0e4ec2c7c7db4a0",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-rada-bezpecnosti-po-vetech-usa-a-ruska-neprodlouzila-misi-osn-na-zapadni-sahare-319211",
-      "published_utc": "2026-10-31T07:34:44Z",
-      "title_en": "Rada bezpečnosti po vetech USA a Ruska neprodloužila misi OSN na Západní Sahaře",
-      "lead_en": "Mírová mise OSN na Západní Sahaře po pátečních vetech Ruska a USA v Radě bezpečnosti pravděpodobně po desetiletích skončí. Spor o území, které z většiny ovládá Maroko, ale nárokuje si ho i fronta Polisario, se tak prohlubuje.",
-      "title_raw": "Rada bezpečnosti po vetech USA a Ruska neprodloužila misi OSN na Západní Sahaře",
-      "lead_raw": "Mírová mise OSN na Západní Sahaře po pátečních vetech Ruska a USA v Radě bezpečnosti pravděpodobně po desetiletích skončí. Spor o území, které z většiny ovládá Maroko, ale nárokuje si ho i fronta Polisario, se tak prohlubuje.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "288ffad3057a6cd6635ef3623b3a9fa3b94d2e86",
-      "fingerprint": "01711b4cd1de51caa1f83bc7b1e4a8dd146ea58c",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-armada-neni-pripravena-na-dlouhodoby-konflikt-40605840",
-      "published_utc": "2026-10-31T04:47:00Z",
-      "title_en": "Armáda není připravená na dlouhodobý konflikt",
-      "lead_en": "Nedostatek personálu, dlouhodobý deficit ve výzbroji, zásobách i infrastruktuře. A k tomu zásadní mezery ve schopnostech protivzdušné obrany i plnění požadavků NATO - ty Česko zvládá jen ze třiceti procent.",
-      "title_raw": "Armáda není připravená na dlouhodobý konflikt",
-      "lead_raw": "Nedostatek personálu, dlouhodobý deficit ve výzbroji, zásobách i infrastruktuře. A k tomu zásadní mezery ve schopnostech protivzdušné obrany i plnění požadavků NATO - ty Česko zvládá jen ze třiceti procent.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 6,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "economy"
       ],
       "primary_topic": "military"
     }
