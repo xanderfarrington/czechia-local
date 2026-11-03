@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-02T18:54:54Z",
+  "updated_at_utc": "2026-11-03T01:23:13Z",
   "topic": "diplomacy",
-  "count": 44,
+  "count": 42,
   "articles": [
+    {
+      "id": "4826db4ad514a1992b7623a7bcf6721acb954c14",
+      "fingerprint": "767ed0671663ca49b3d4515d70b80743bc73f433",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-dohoda-s-iranem-by-mohla-byt-na-dosah-prohlasil-donald-trump-40606227",
+      "published_utc": "2026-11-02T21:59:21Z",
+      "title_en": "Dohoda s Íránem by mohla být na dosah, prohlásil Donald Trump",
+      "lead_en": "Americký prezident Donald Trump prohlásil, že dohoda mezi Washingtonem a Teheránem by mohla být na dosah. Děje se tak v době obav, že by se konflikt mohl po amerických volbách do Kongresu 3.",
+      "title_raw": "Dohoda s Íránem by mohla být na dosah, prohlásil Donald Trump",
+      "lead_raw": "Americký prezident Donald Trump prohlásil, že dohoda mezi Washingtonem a Teheránem by mohla být na dosah. Děje se tak v době obav, že by se konflikt mohl po amerických volbách do Kongresu 3.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "6e72436ba69159129e5e7fa78ff4a2170b12cf30",
       "fingerprint": "3f2b9a270dbaab26704396f7cb24264637493652",
@@ -917,72 +939,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "4221458321a4c89a5d42b83f5ae1663688ad400a",
-      "fingerprint": "98995e7622c9b1f5357090e5dffdef18bd05360d",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-rubio-hovoril-s-lavrovem-o-moznem-setkani-trumpa-s-putinem-v-cine-319230",
-      "published_utc": "2026-10-31T20:34:34Z",
-      "title_en": "Rubio mluvil s Lavrovem o možném setkání Trumpa s Putinem v Číně",
-      "lead_en": "Rubio a Lavrov se setkali na jednání ministrů zahraničí zemí G20. Rozhovor nebyl oficiální vyjednávací schůzkou.",
-      "title_raw": "Rubio mluvil s Lavrovem o možném setkání Trumpa s Putinem v Číně",
-      "lead_raw": "Rubio a Lavrov se setkali na jednání ministrů zahraničí zemí G20. Rozhovor nebyl oficiální vyjednávací schůzkou.",
-      "topic_scores": {
-        "diplomacy": 3,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "dcd3b758e9eea506883cc616532af5384e10cb38",
-      "fingerprint": "ca8e0b55287cd3ef217977ace34b69a12d43a6f9",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-rubio-mluvil-s-lavrovem-o-moznem-setkani-trumpa-s-putinem-v-cine-40605928",
-      "published_utc": "2026-10-31T20:22:34Z",
-      "title_en": "Rubio mluvil s Lavrovem o možném setkání Trumpa s Putinem v Číně",
-      "lead_en": "Americký ministr zahraničí Marco Rubio mluvil se svým ruským protějškem Sergejem Lavrovem o možném setkání amerického prezidenta Donalda Trumpa s ruským prezidentem Vladimirem Putinem na summitu Asijsko-pacifického hospodářského společenství (APEC), který se bude konat v polovině listopadu v Číně. Informovala o tom agentura AFP.",
-      "title_raw": "Rubio mluvil s Lavrovem o možném setkání Trumpa s Putinem v Číně",
-      "lead_raw": "Americký ministr zahraničí Marco Rubio mluvil se svým ruským protějškem Sergejem Lavrovem o možném setkání amerického prezidenta Donalda Trumpa s ruským prezidentem Vladimirem Putinem na summitu Asijsko-pacifického hospodářského společenství (APEC), který se bude konat v polovině listopadu v Číně. Informovala o tom agentura AFP.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "8547b67c14ac38c31c5f30a73252e98aca4aefbf",
-      "fingerprint": "e0cc4e68784a0cbfb1da3930b5efe99be0020fc5",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/rubio-cina-trump-putin-usa-rusko-atlanta-moskva.A261031_211220_zahranicni_votr",
-      "published_utc": "2026-10-31T20:12:00Z",
-      "title_en": "Trump a Putin by se mohli setkat v Číně. Rubio jednal s Lavrovem o summitu APEC",
-      "lead_en": "Americký ministr zahraničí Marco Rubio mluvil se svým ruským protějškem Sergejem Lavrovem o možném setkání amerického prezidenta Donalda Trumpa s ruským prezidentem Vladimirem Putinem na summitu Asijsko-pacifického hospodářského společenství (APEC), který se bude konat v polovině",
-      "title_raw": "Trump a Putin by se mohli setkat v Číně. Rubio jednal s Lavrovem o summitu APEC",
-      "lead_raw": "Americký ministr zahraničí Marco Rubio mluvil se svým ruským protějškem Sergejem Lavrovem o možném setkání amerického prezidenta Donalda Trumpa s ruským prezidentem Vladimirem Putinem na summitu Asijsko-pacifického hospodářského společenství (APEC), který se bude konat v polovině",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
