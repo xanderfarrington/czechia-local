@@ -1,10 +1,76 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-03T01:23:13Z",
+  "updated_at_utc": "2026-11-03T08:43:29Z",
   "topic": "economy",
-  "count": 17,
+  "count": 18,
   "articles": [
+    {
+      "id": "fd212c0246d7cc93a41e9c42a066f969beb6fb46",
+      "fingerprint": "25ba102378d913f8092e356095b7a2c9f9938e3c",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-trump-se-chlubi-lepsi-ekonomikou-nez-za-bidena-americane-to-tak-nevidi-40605497",
+      "published_utc": "2026-11-03T07:27:03Z",
+      "title_en": "Trump vs Biden: Kdo zařídil lepší ekonomiku?",
+      "lead_en": "Donald Trump přesvědčuje Američany, že se jim za jeho vlády daří. Z hledisek růstu ekonomiky, zaměstnanosti i zisků na akciovém trhu by se to tak dalo hodnotit.",
+      "title_raw": "Trump vs Biden: Kdo zařídil lepší ekonomiku?",
+      "lead_raw": "Donald Trump přesvědčuje Američany, že se jim za jeho vlády daří. Z hledisek růstu ekonomiky, zaměstnanosti i zisků na akciovém trhu by se to tak dalo hodnotit.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "098580aad7ebc42392cfdcb54f07a81a2ffd004c",
+      "fingerprint": "a014a2129ae262a4acdba4ce7fe2ffb8b182a9f1",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-ropne-firmy-tezi-z-valky-v-iranu-jejich-zisky-prudce-rostou-40606086",
+      "published_utc": "2026-11-03T07:26:41Z",
+      "title_en": "Ropné firmy těží z války v Íránu. Jejich zisky prudce rostou",
+      "lead_en": "Devět největších veřejně obchodovaných ropných firem podle analýzy investiční platformy AJ Bell vydělalo ve třetím čtvrtletí dohromady 95 miliard dolarů, tedy přes dva biliony korun. Podobné sumy dosáhly podruhé v řadě.",
+      "title_raw": "Ropné firmy těží z války v Íránu. Jejich zisky prudce rostou",
+      "lead_raw": "Devět největších veřejně obchodovaných ropných firem podle analýzy investiční platformy AJ Bell vydělalo ve třetím čtvrtletí dohromady 95 miliard dolarů, tedy přes dva biliony korun. Podobné sumy dosáhly podruhé v řadě.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 1
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "3aae0896878495dfa42fefac24a3bf89e868ef7a",
+      "fingerprint": "e7ceeb20018310c3b7490f561df3e1cb76bbb3b1",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/lednice-kyberutok-supermarket.A261102_120648_eko-zahranicni_elsy",
+      "published_utc": "2026-11-02T23:00:00Z",
+      "title_en": "Jak se hackeři dokážou nabourat do lednice. A co dalšího je v ohrožení",
+      "lead_en": "Zatím neznámým hackerům se při kyberútocích na západoevropské supermarkety podařilo vyřadit z provozu lednice a mrazáky v desítkách prodejen. Škody na zničeném zboží jdou v přepočtu do stovek milionů korun.",
+      "title_raw": "Jak se hackeři dokážou nabourat do lednice. A co dalšího je v ohrožení",
+      "lead_raw": "Zatím neznámým hackerům se při kyberútocích na západoevropské supermarkety podařilo vyřadit z provozu lednice a mrazáky v desítkách prodejen. Škody na zničeném zboží jdou v přepočtu do stovek milionů korun.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "52877bcb94dc6241b9883d90b1823e91103f24c6",
       "fingerprint": "ff6b35d4efa7facdeef9bc694aaf3aefa35a89db",
@@ -331,51 +397,6 @@
         "military": 0,
         "energy": 0,
         "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "a4b71e6c1372e6acc8bca273d827409e8da428bc",
-      "fingerprint": "23c80dfb8491d1135a8691389d0aeefa1acd6336",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/cnb-na-ctvrtecnim-jednani-zvysi-urokove-sazby-na-40-pct-odhaduji-analytici/2895624",
-      "published_utc": "2026-11-01T05:20:00Z",
-      "title_en": "ČNB na čtvrtečním jednání zvýší úrokové sazby na 4,0 pct, odhadují analytici",
-      "lead_en": "Praha - Bankovní rada České národní banky (ČNB) ve čtvrtek zvýší základní úrokovou sazbu o čtvrt bodu na čtyři procenta. Shodli se na tom analytici oslovení ČTK a přikláněl se k tomu v týdnu i člen bankovní...",
-      "title_raw": "ČNB na čtvrtečním jednání zvýší úrokové sazby na 4,0 pct, odhadují analytici",
-      "lead_raw": "Praha - Bankovní rada České národní banky (ČNB) ve čtvrtek zvýší základní úrokovou sazbu o čtvrt bodu na čtyři procenta. Shodli se na tom analytici oslovení ČTK a přikláněl se k tomu v týdnu i člen bankovní...",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "cea794ac12d048b73e2077824343637c802a9536",
-      "fingerprint": "3a167cde49ebe7b8519cdf8be66281bc31419d5c",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/cnb-ve-ctvrtek-zvysi-urokove-sazby-na-40-pct-odhaduji-analytici/2895624",
-      "published_utc": "2026-11-01T05:20:00Z",
-      "title_en": "ČNB ve čtvrtek zvýší úrokové sazby na 4,0 pct, odhadují analytici",
-      "lead_en": "Praha - Bankovní rada České národní banky (ČNB) ve čtvrtek zvýší základní úrokovou sazbu o čtvrt bodu na čtyři procenta. Shodli se na tom analytici oslovení ČTK a přikláněl se k tomu v týdnu i člen bankovní...",
-      "title_raw": "ČNB ve čtvrtek zvýší úrokové sazby na 4,0 pct, odhadují analytici",
-      "lead_raw": "Praha - Bankovní rada České národní banky (ČNB) ve čtvrtek zvýší základní úrokovou sazbu o čtvrt bodu na čtyři procenta. Shodli se na tom analytici oslovení ČTK a přikláněl se k tomu v týdnu i člen bankovní...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
         "local_events": 0
       },
       "topics": [
