@@ -1,10 +1,366 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-03T08:43:29Z",
+  "updated_at_utc": "2026-11-03T16:40:28Z",
   "topic": "diplomacy",
-  "count": 47,
+  "count": 59,
   "articles": [
+    {
+      "id": "5a470d3a7b75849ef16a77ed43cf4c737b1a7af1",
+      "fingerprint": "efd82dcda6459dbdc11de3a3735c62e6c03e845f",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/prvni-schuze-snemovny-po-nocni-bitve-o-poplatky-pirati-navrhli-odvolani-okamury.A261103_045326_domaci_kop",
+      "published_utc": "2026-11-03T16:28:33Z",
+      "title_en": "Hřib navrhl jménem celé opozice odvolání Okamury. Koalice se za šéfa SPD postavila",
+      "lead_en": "Spor poslanců po bouřlivém nočním jednání o návrhu vlády Andreje Babiše na zrušení poplatků pro Českou televizi a Český rozhlas, které vyvrcholila hlasováním v sobotu ráno ve 4:36, pokračuje. Šéf Pirátů Zdeněk Hřib navrhl jménem všech 92 poslanců opozice hlasování o odvolání šéfa SPD Tomia Okamury z čela Sněmovny.",
+      "title_raw": "Hřib navrhl jménem celé opozice odvolání Okamury. Koalice se za šéfa SPD postavila",
+      "lead_raw": "Spor poslanců po bouřlivém nočním jednání o návrhu vlády Andreje Babiše na zrušení poplatků pro Českou televizi a Český rozhlas, které vyvrcholila hlasováním v sobotu ráno ve 4:36, pokračuje. Šéf Pirátů Zdeněk Hřib navrhl jménem všech 92 poslanců opozice hlasování o odvolání šéfa SPD Tomia Okamury z čela Sněmovny.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "5652a3429d60ee2827f3e3869cea243298b11aa6",
+      "fingerprint": "f0996cf00be34caefe4cd6bd7943039ae8172a3b",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-usa-rusko-a-cina-mozna-usednou-k-jednacimu-stolu-pisi-financial-times-40606311",
+      "published_utc": "2026-11-03T15:55:01Z",
+      "title_en": "USA, Rusko a Čína možná usednou k jednacímu stolu, píší Financial Times",
+      "lead_en": "Američtí, čínští a ruští představitelé jednají o možném summitu Donalda Trumpa, Si Ťin-pchinga a Vladimira Putina, který by se mohl uskutečnit ještě tento měsíc během setkání světových lídrů na hospodářském fóru APEC v čínském Šen-čenu. Trump tam zamíří za dva týdny.",
+      "title_raw": "USA, Rusko a Čína možná usednou k jednacímu stolu, píší Financial Times",
+      "lead_raw": "Američtí, čínští a ruští představitelé jednají o možném summitu Donalda Trumpa, Si Ťin-pchinga a Vladimira Putina, který by se mohl uskutečnit ještě tento měsíc během setkání světových lídrů na hospodářském fóru APEC v čínském Šen-čenu. Trump tam zamíří za dva týdny.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "dd46d7bd6e788ab3e7538527e4a0e6a6131c621a",
+      "fingerprint": "52a754c9778f8cc4d40ce3595375fff714335cde",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-mezi-barikadami-stavka-jeste-muze-dobre-dopadnout-319517",
+      "published_utc": "2026-11-03T15:10:00Z",
+      "title_en": "Babiš bere protesty vážně. Mezi barikádami je prostor k dohodě",
+      "lead_en": "Lepší pozdě než nikdy. Pokud se všichni zúčastnění budou chovat pragmaticky a odpovědně, může debata o financování veřejnoprávních médií ještě proběhnout a zabránit části škod.",
+      "title_raw": "Babiš bere protesty vážně. Mezi barikádami je prostor k dohodě",
+      "lead_raw": "Lepší pozdě než nikdy. Pokud se všichni zúčastnění budou chovat pragmaticky a odpovědně, může debata o financování veřejnoprávních médií ještě proběhnout a zabránit části škod.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "2152996420f6d81dc05f4c28cad9ec7565df714e",
+      "fingerprint": "0ac160af58b38b3970f829aae6ba0b002a5f576d",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/hlavacek-vysledek-jednani-o-koalici-v-praze-oznami-strany-v-utery-ci-ve-stredu/2895938",
+      "published_utc": "2026-11-03T14:49:00Z",
+      "title_en": "Hlaváček: Výsledek jednání o koalici v Praze oznámí strany v úterý, či ve středu",
+      "lead_en": "Praha - Výsledek jednání o pražské koalici plánují STAN a Spolu (ODS a TOP 09) oznámit příští týden v úterý, nebo ve středu po dokončení schůzek o programu v tomto týdnu a jednání zastupitelských klubů...",
+      "title_raw": "Hlaváček: Výsledek jednání o koalici v Praze oznámí strany v úterý, či ve středu",
+      "lead_raw": "Praha - Výsledek jednání o pražské koalici plánují STAN a Spolu (ODS a TOP 09) oznámit příští týden v úterý, nebo ve středu po dokončení schůzek o programu v tomto týdnu a jednání zastupitelských klubů...",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "cfac060f8e816249443f142e02d06ce64a9ac09f",
+      "fingerprint": "dcdcb30d714f36806c3f6ec62b00d025feef1f7e",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-opozice-vyzvala-babise-ke-spolecnemu-jednani-o-financovani-ct-a-cro-40606441",
+      "published_utc": "2026-11-03T14:45:17Z",
+      "title_en": "Opozice vyzvala Babiše ke společnému jednání o financování ČT a ČRo",
+      "lead_en": "Parlamentní opozice zaslala premiérovi Andreji Babišovi (ANO) dopis, ve kterém navrhuje společné jednání předsedů všech sněmovních stran o budoucnosti veřejnoprávních médií. Reagují tak na Babišova slova, že o finální podobě zákona, který má jejich financování převést pod státní rozpočet, je stále možné jednat.",
+      "title_raw": "Opozice vyzvala Babiše ke společnému jednání o financování ČT a ČRo",
+      "lead_raw": "Parlamentní opozice zaslala premiérovi Andreji Babišovi (ANO) dopis, ve kterém navrhuje společné jednání předsedů všech sněmovních stran o budoucnosti veřejnoprávních médií. Reagují tak na Babišova slova, že o finální podobě zákona, který má jejich financování převést pod státní rozpočet, je stále možné jednat.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "ae39c9196a3ef6d4c2f8a98b4a866402e5c46a1f",
+      "fingerprint": "66a8c8c3a81ceb89fb66d34b5749a05399e4d65c",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-policie-proveruje-firmu-stepanek-auto-kvuli-stamilionovym-podvodum-na-stovkach-lidi-40606439",
+      "published_utc": "2026-11-03T14:44:39Z",
+      "title_en": "Policie prověřuje firmu Štěpánek Auto kvůli stamilionovým podvodům na stovkách lidí",
+      "lead_en": "Policie vyšetřuje kauzu Štěpánek Auto týkající se podezření na podvodné jednání s dluhopisy. Zatím se přihlásilo 257 poškozených, kterým byla způsobena škoda téměř 277 milionů korun.",
+      "title_raw": "Policie prověřuje firmu Štěpánek Auto kvůli stamilionovým podvodům na stovkách lidí",
+      "lead_raw": "Policie vyšetřuje kauzu Štěpánek Auto týkající se podezření na podvodné jednání s dluhopisy. Zatím se přihlásilo 257 poškozených, kterým byla způsobena škoda téměř 277 milionů korun.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "405102880f3f84b597c03f3aefa3b5a16207a492",
+      "fingerprint": "1f964ceb106ab51a0207dd76b04b33eebdca69f1",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-lide-se-hadaji-i-o-hroby-snazte-se-dohodnout-radi-jim-ombudsmanka-40606117",
+      "published_utc": "2026-11-03T14:44:12Z",
+      "title_en": "Lidé se hádají i o hroby. Snažte se dohodnout, radí jim ombudsmanka",
+      "lead_en": "Ne v každé rodině je Svátek zesnulých obdobím rozjímání a vzpomínek na mrtvé. Někdy se totiž hrob a péče o něj stanou předmětem sporu, který vyhrotí příbuzenské vztahy.",
+      "title_raw": "Lidé se hádají i o hroby. Snažte se dohodnout, radí jim ombudsmanka",
+      "lead_raw": "Ne v každé rodině je Svátek zesnulých obdobím rozjímání a vzpomínek na mrtvé. Někdy se totiž hrob a péče o něj stanou předmětem sporu, který vyhrotí příbuzenské vztahy.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "9be3ec76e9ca0dc85737c49a098e454245872604",
+      "fingerprint": "591d9fe3fe923c5b8ab5c03c67b1af24e8376719",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-usa-podle-trumpa-na-konci-roku-prestanou-poskytovat-vojenskou-pomoc-izraeli-319522",
+      "published_utc": "2026-11-03T14:40:06Z",
+      "title_en": "USA podle Trumpa na konci roku přestanou poskytovat vojenskou pomoc Izraeli",
+      "lead_en": "Donald Trump oznámil, že Spojené státy na konci letošního roku ukončí poskytování vojenské pomoci Izraeli. Podle něj se na tom dohodl s premiérem Benjaminem Netanjahuem, Izrael už navíc americkou podporu nepotřebuje.",
+      "title_raw": "USA podle Trumpa na konci roku přestanou poskytovat vojenskou pomoc Izraeli",
+      "lead_raw": "Donald Trump oznámil, že Spojené státy na konci letošního roku ukončí poskytování vojenské pomoci Izraeli. Podle něj se na tom dohodl s premiérem Benjaminem Netanjahuem, Izrael už navíc americkou podporu nepotřebuje.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "cf6e95a0e13261b12bfdbcd310c62ea54dd14215",
+      "fingerprint": "1c5493d3a24710b073f65339a0fec21bc2bf0bc0",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/od-noveho-roku-zt-vojenskou-pomoc-izraeli.A261103_144752_zahranicni_rtn",
+      "published_utc": "2026-11-03T14:25:00Z",
+      "title_en": "Od nového roku žádná vojenská pomoc pro Izrael, prohlásil Trump",
+      "lead_en": "USA na konci roku přestanou poskytovat vojenskou pomoc Izraeli, prohlásil v úterý prezident Donald Trump v rozhovoru se stanicí Fox News. Dohodl se na tom prý s izraelským premiérem Benjaminem Netanjahuem.",
+      "title_raw": "Od nového roku žádná vojenská pomoc pro Izrael, prohlásil Trump",
+      "lead_raw": "USA na konci roku přestanou poskytovat vojenskou pomoc Izraeli, prohlásil v úterý prezident Donald Trump v rozhovoru se stanicí Fox News. Dohodl se na tom prý s izraelským premiérem Benjaminem Netanjahuem.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "eab8e5a31c9c10cb867d35fc6135e4e0094fca3a",
+      "fingerprint": "d8c08aecd7d4303ddf1563d61255e77035b38e04",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/pirati-navrhli-doplneni-programu-schuze-o-okamurovo-odvolani-z-cela-snemovny/2896078",
+      "published_utc": "2026-11-03T14:06:00Z",
+      "title_en": "Piráti navrhli doplnění programu schůze o Okamurovo odvolání z čela Sněmovny",
+      "lead_en": "Praha - Předseda Pirátů Zdeněk Hřib chce doplnit program nynější sněmovní schůze o návrh na odvolání Tomia Okamury (SPD) z čela Sněmovny kvůli podobě jednání o zrušení televizního a rozhlasového poplatku...",
+      "title_raw": "Piráti navrhli doplnění programu schůze o Okamurovo odvolání z čela Sněmovny",
+      "lead_raw": "Praha - Předseda Pirátů Zdeněk Hřib chce doplnit program nynější sněmovní schůze o návrh na odvolání Tomia Okamury (SPD) z čela Sněmovny kvůli podobě jednání o zrušení televizního a rozhlasového poplatku...",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "5ce49a55bf28f867143211cb9bce93475936fd9b",
+      "fingerprint": "e17f4572ac3477e671a65ed6c925b1bfa9fcabed",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-evropska-komise-svolala-schuzky-kvuli-kyberutokum-na-supermarkety-puvodce-nezna-319494",
+      "published_utc": "2026-11-03T13:42:02Z",
+      "title_en": "Evropská komise svolala schůzky kvůli kyberútokům na supermarkety, původce nezná",
+      "lead_en": "Evropská komise kvůli kyberútokům, které zasáhly supermarkety v pěti evropských zemích, svolala koordinační schůzky. Původce incidentů zatím nezná a odmítá spekulovat o zapojení Ruska.",
+      "title_raw": "Evropská komise svolala schůzky kvůli kyberútokům na supermarkety, původce nezná",
+      "lead_raw": "Evropská komise kvůli kyberútokům, které zasáhly supermarkety v pěti evropských zemích, svolala koordinační schůzky. Původce incidentů zatím nezná a odmítá spekulovat o zapojení Ruska.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "a230122f873b94f5ebac3b6d89bb8c16850d15cd",
+      "fingerprint": "28e1f330402ea75a0215afad3d0a9c8eeb65747a",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/lidri-opozice-vyzvali-babise-k-odbornemu-jednani-o-ct-a-cro/2896727",
+      "published_utc": "2026-11-03T13:05:00Z",
+      "title_en": "Lídři opozice vyzvali Babiše k odbornému jednání o ČT a ČRo",
+      "lead_en": "Praha - Předsedové pětice opozičních stran vyzvali v dopisu premiéra Andreje Babiše (ANO) ke konání společného jednání o budoucnosti České televize (ČT) a Českého rozhlasu (ČRo) za účasti jejich ředitelů...",
+      "title_raw": "Lídři opozice vyzvali Babiše k odbornému jednání o ČT a ČRo",
+      "lead_raw": "Praha - Předsedové pětice opozičních stran vyzvali v dopisu premiéra Andreje Babiše (ANO) ke konání společného jednání o budoucnosti České televize (ČT) a Českého rozhlasu (ČRo) za účasti jejich ředitelů...",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "1b955bd243f7087390b606a3beb66926aeccb69d",
+      "fingerprint": "12e342b780f1a2d145354140b151a1bbd48d27cd",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/dohodnuty-harmonogram-pro-dukovany-zustava-beze-zmeny-uvedla-khnp/2894657",
+      "published_utc": "2026-11-03T13:03:00Z",
+      "title_en": "Dohodnutý harmonogram pro Dukovany zůstává beze změny, uvedla KHNP",
+      "lead_en": "Soul/Praha - Dohodnutý harmonogram výstavby nových jaderných bloků v Dukovanech, včetně zahájení stavby v roce 2029, zůstává beze změny. Na dotaz ČTK to uvedla korejská společnost KHNP.",
+      "title_raw": "Dohodnutý harmonogram pro Dukovany zůstává beze změny, uvedla KHNP",
+      "lead_raw": "Soul/Praha - Dohodnutý harmonogram výstavby nových jaderných bloků v Dukovanech, včetně zahájení stavby v roce 2029, zůstává beze změny. Na dotaz ČTK to uvedla korejská společnost KHNP.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e1f7f2d84754f1d8ae5048c497bfae3dd4be5c8e",
+      "fingerprint": "d1dbec49f46fcdc9c4f089d02dab8729ff191889",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/pavel-vstup-cerne-hory-do-eu-by-mohl-byt-pozitivnim-prikladem-pro-dalsi-zeme/2893405",
+      "published_utc": "2026-11-03T12:45:00Z",
+      "title_en": "Pavel: Vstup Černé Hory do EU by mohl být pozitivním příkladem pro další země",
+      "lead_en": "Praha - Vstup Černé Hory do Evropské unie by byl strategickou investicí ve prospěch celé EU, zároveň může sloužit jako pozitivní příklad pro další balkánské země. Po dnešním jednání se svým černohorským...",
+      "title_raw": "Pavel: Vstup Černé Hory do EU by mohl být pozitivním příkladem pro další země",
+      "lead_raw": "Praha - Vstup Černé Hory do Evropské unie by byl strategickou investicí ve prospěch celé EU, zároveň může sloužit jako pozitivní příklad pro další balkánské země. Po dnešním jednání se svým černohorským...",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "d502f522e14d8a50d171b2e35ef412126c12b294",
+      "fingerprint": "13e02169d9633c1dc5d76a14ec5b353a97a4c056",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/pracovnici-ct-a-cro-stavkuji-opozice-vyzvala-babise-k-jednani/2896060",
+      "published_utc": "2026-11-03T11:39:00Z",
+      "title_en": "Pracovníci ČT a ČRo stávkují, opozice vyzvala Babiše k jednání",
+      "lead_en": "Praha - Pracovníci České televize (ČT) a Českého rozhlasu (ČRo) dnes stávkují proti koaličnímu návrhu na změnu financování veřejnoprávních médií. Vysílání ČT24 i ČRo Radiožurnál je upravené, poskytuje...",
+      "title_raw": "Pracovníci ČT a ČRo stávkují, opozice vyzvala Babiše k jednání",
+      "lead_raw": "Praha - Pracovníci České televize (ČT) a Českého rozhlasu (ČRo) dnes stávkují proti koaličnímu návrhu na změnu financování veřejnoprávních médií. Vysílání ČT24 i ČRo Radiožurnál je upravené, poskytuje...",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "5844c7a41c8fb6554534857258e23f5a5a43ab44",
+      "fingerprint": "93f2fdd93fe9cd0267a6f82d033a4d1179d3eba3",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/koudelka-trestni-soud-poprve-v-historii-potvrdil-informace-bis/2896534",
+      "published_utc": "2026-11-03T08:49:00Z",
+      "title_en": "Koudelka: Trestní soud poprvé v historii potvrdil informace BIS",
+      "lead_en": "Praha - Trestní soud poprvé v historii potvrdil v odůvodnění rozsudku informace Bezpečnostní informační služby (BIS), uvedl dnes její ředitel Michal Koudelka na jednání sněmovního bezpečnostního výboru....",
+      "title_raw": "Koudelka: Trestní soud poprvé v historii potvrdil informace BIS",
+      "lead_raw": "Praha - Trestní soud poprvé v historii potvrdil v odůvodnění rozsudku informace Bezpečnostní informační služby (BIS), uvedl dnes její ředitel Michal Koudelka na jednání sněmovního bezpečnostního výboru....",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "5bbaba9703fd241d33564d5914b8367f99f26054",
       "fingerprint": "8d66dbfc9afde0b4db07f345f32407a07d2027ed",
@@ -949,95 +1305,6 @@
       "lead_raw": "Zlín - Zlín povede koalice hnutí STAN, Zlín 21 a trojbloku, který tvoří ODS, Společně pro Zlín a Zlín Srdcem s Piráty. Koaliční smlouvu chtějí podepsat za týden, řekla dnes večer po jednání novinářům...",
       "topic_scores": {
         "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "89de30f2d717334980a23a58af935d0ea91038ea",
-      "fingerprint": "a48b74a232dffbb885dbc465f8a8e1d0a68704a9",
-      "source": "Radio Prague International (EN)",
-      "url": "https://english.radio.cz/czech-sports-minister-seeks-talks-over-russias-return-international-hockey-8901512",
-      "published_utc": "2026-11-01T14:35:00Z",
-      "title_en": "Czech sports minister seeks talks over Russia’s return to international hockey",
-      "lead_en": "Czech sports minister seeks talks over Russia’s return to international hockey",
-      "title_raw": "Czech sports minister seeks talks over Russia’s return to international hockey",
-      "lead_raw": "Czech sports minister seeks talks over Russia’s return to international hockey",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "da1a2be1005c9bbf822ea39e01dc3bb9ab2df7ec",
-      "fingerprint": "40c52b6a93599c74cc9fe3f5c2c40557f51ae721",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-kreml-chce-prvni-kolo-jednani-o-ukrajine-v-tristrannem-formatu-319241",
-      "published_utc": "2026-11-01T11:19:22Z",
-      "title_en": "Kreml chce první kolo jednání o Ukrajině v třístranném formátu",
-      "lead_en": "Rusko nepočítá s tím, že by se Evropa zapojila do úvodní fáze vyjednávání míru na Ukrajině. Poradce Kremlu zároveň zopakoval, že by ukrajinský prezident měl přijet do Moskvy.",
-      "title_raw": "Kreml chce první kolo jednání o Ukrajině v třístranném formátu",
-      "lead_raw": "Rusko nepočítá s tím, že by se Evropa zapojila do úvodní fáze vyjednávání míru na Ukrajině. Poradce Kremlu zároveň zopakoval, že by ukrajinský prezident měl přijet do Moskvy.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "d3c5eb598b3c4b861a8cc2bdb63bece64216761a",
-      "fingerprint": "3ca23a169f9a0e9e07e4b1eb6cae39088ce3fd74",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-exkluzivni-pruzkum-z-poplatku-se-stal-symbol-boje-vlady-a-opozice-40605553",
-      "published_utc": "2026-11-01T10:40:21Z",
-      "title_en": "Exkluzivní průzkum: Z poplatků se stal symbol boje vlády a opozice",
-      "lead_en": "Vyostřené jednání ve Sněmovně, které se týkalo zrušení koncesionářských poplatků za Českou televizi a rozhlas, vnímají příznivci opozice a koalice velmi odlišně. Voliči vládních stran odmítají tvrzení, že cílem zrušení poplatků je posílení vlivu vlády na vysílání.",
-      "title_raw": "Exkluzivní průzkum: Z poplatků se stal symbol boje vlády a opozice",
-      "lead_raw": "Vyostřené jednání ve Sněmovně, které se týkalo zrušení koncesionářských poplatků za Českou televizi a rozhlas, vnímají příznivci opozice a koalice velmi odlišně. Voliči vládních stran odmítají tvrzení, že cílem zrušení poplatků je posílení vlivu vlády na vysílání.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "2b3029ec4a0261c128ca584f0749947705da3723",
-      "fingerprint": "819cdb84b0935db195fc224e18ce03b3d0896030",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-svet-prevleceny-za-harryho-pottera-kritizoval-monarchii-thajec-stravi-ve-vezeni-34-let-40605954",
-      "published_utc": "2026-11-01T10:11:28Z",
-      "title_en": "Převlečený za Harryho Pottera kritizoval monarchii. Thajec stráví ve vězení 34 let",
-      "lead_en": "Thajský lidskoprávní advokát Arnon Nampa byl v pátek v Bangkoku odsouzen ke dvěma letům a osmi měsícům vězení za urážku královského majestátu. Jedná se už o dvanáctý verdikt proti němu, přičemž všechny případy se vážou k demonstraci z roku 2020, na níž Nampa v převleku za Harryho Pottera požadoval, aby se mocná thajská monarchie podrobila drobnohledu veřejnosti a zodpovídala za své jednání.",
-      "title_raw": "Převlečený za Harryho Pottera kritizoval monarchii. Thajec stráví ve vězení 34 let",
-      "lead_raw": "Thajský lidskoprávní advokát Arnon Nampa byl v pátek v Bangkoku odsouzen ke dvěma letům a osmi měsícům vězení za urážku královského majestátu. Jedná se už o dvanáctý verdikt proti němu, přičemž všechny případy se vážou k demonstraci z roku 2020, na níž Nampa v převleku za Harryho Pottera požadoval, aby se mocná thajská monarchie podrobila drobnohledu veřejnosti a zodpovídala za své jednání.",
-      "topic_scores": {
-        "diplomacy": 1,
         "military": 0,
         "energy": 0,
         "economy": 0,
