@@ -1,10 +1,101 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-03T16:40:28Z",
+  "updated_at_utc": "2026-11-03T22:06:28Z",
   "topic": "energy",
-  "count": 30,
+  "count": 34,
   "articles": [
+    {
+      "id": "dfc17e5fff4b386f1c38d8885404af3af9dbe149",
+      "fingerprint": "511fd689f41ddbe28af2fc378fadeaa17dcb6531",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-na-brnensku-ho-zase-pristihli-za-volantem-porusil-14-zakaz-rizeni-40606344",
+      "published_utc": "2026-11-03T18:46:04Z",
+      "title_en": "Na Brněnsku ho zase přistihli za volantem. Porušil 14. zákaz řízení",
+      "lead_en": "Rekordmana z řad řidičů-potížistů přistihli v uplynulých dnech při řízení policisté ve Zbýšově na Brněnsku a nestačili se divit. Řidiče se rozhodli zkontrolovat, protože jim byl povědomý kvůli užívání drog.",
+      "title_raw": "Na Brněnsku ho zase přistihli za volantem. Porušil 14. zákaz řízení",
+      "lead_raw": "Rekordmana z řad řidičů-potížistů přistihli v uplynulých dnech při řízení policisté ve Zbýšově na Brněnsku a nestačili se divit. Řidiče se rozhodli zkontrolovat, protože jim byl povědomý kvůli užívání drog.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d879cbe0fdd6332f01b79a54c17c549a54b9b7cd",
+      "fingerprint": "1ad600f5dbb6568db2874dfb849d7bfaf37f0528",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-po-vybuchu-propanbutanove-lahve-horelo-v-bytovem-dome-v-sumperku-40606507",
+      "published_utc": "2026-11-03T17:32:51Z",
+      "title_en": "Po výbuchu propanbutanové lahve hořelo v bytovém domě v Šumperku",
+      "lead_en": "Dvě zraněné osoby si vyžádal požár bytu v bytovém domě v Šumperku. Oba lidi a spolu s nimi ještě jednoho člověka hasiči z objektu museli evakuovat.",
+      "title_raw": "Po výbuchu propanbutanové lahve hořelo v bytovém domě v Šumperku",
+      "lead_raw": "Dvě zraněné osoby si vyžádal požár bytu v bytovém domě v Šumperku. Oba lidi a spolu s nimi ještě jednoho člověka hasiči z objektu museli evakuovat.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "68243f131bb5aef984cc0ecf9486e591aafc69d3",
+      "fingerprint": "40f8efdbfa3f0a63b78ea4b2d2eb745cbdc82eda",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-dav-utocil-na-policisty-zpravy-o-tyrani-vojaku-u-kyjeva-rozpoutaly-nepokoje-40606358",
+      "published_utc": "2026-11-03T17:14:29Z",
+      "title_en": "Dav útočil na policisty. Zprávy o týrání vojáků u Kyjeva rozpoutaly nepokoje",
+      "lead_en": "V obci Petropavlivská Borščahivka v Kyjevské oblasti v pondělí vypukly nepokoje. Způsobily je šířící se zprávy o tom, že jsou v jednom z tamních domů nezákonně zadržováni a mučeni vojáci Národní gardy.",
+      "title_raw": "Dav útočil na policisty. Zprávy o týrání vojáků u Kyjeva rozpoutaly nepokoje",
+      "lead_raw": "V obci Petropavlivská Borščahivka v Kyjevské oblasti v pondělí vypukly nepokoje. Způsobily je šířící se zprávy o tom, že jsou v jednom z tamních domů nezákonně zadržováni a mučeni vojáci Národní gardy.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ed08174ff99cfc79ebbb8066b7b49ef214b8695d",
+      "fingerprint": "40ad21e666216383dc0d443df3c9461d0c552e10",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/olomouc/zpravy/pozar-vybuch-propan-butanove-lahve-bytovy-dum-sumperk-hasici.A261103_175442_olomouc-zpravy_slv",
+      "published_utc": "2026-11-03T17:03:00Z",
+      "title_en": "V Šumperku hořelo v bytě po výbuchu plynové lahve, dva lidé se zranili",
+      "lead_en": "Požár po výbuchu propan-butanové lahve likvidovali v úterý odpoledne hasiči v třípatrovém bytovém domě v Šumperku. Z bytu evakuovali tři lidi, dva z nich se zranili.",
+      "title_raw": "V Šumperku hořelo v bytě po výbuchu plynové lahve, dva lidé se zranili",
+      "lead_raw": "Požár po výbuchu propan-butanové lahve likvidovali v úterý odpoledne hasiči v třípatrovém bytovém domě v Šumperku. Z bytu evakuovali tři lidi, dva z nich se zranili.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "e3c9cfa2278caf0b2da091943005ba8e27235f18",
       "fingerprint": "d7e6cb880d31c11edcbb35a86cc6328946ae09e7",
