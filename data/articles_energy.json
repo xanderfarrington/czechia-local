@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-03T22:06:28Z",
+  "updated_at_utc": "2026-11-04T02:47:06Z",
   "topic": "energy",
   "count": 34,
   "articles": [
+    {
+      "id": "a1fc5937dd19326b9995638b89450e444d7f8f33",
+      "fingerprint": "9f7b0bef3f7adaf8bc2c6d2c055d6138a268b684",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/domaci/norsko-plyn-equinor-evropska-komise.A261103_153245_ekonomika_hyk",
+      "published_utc": "2026-11-03T23:00:00Z",
+      "title_en": "Evropa potřebuje norský plyn. Nevadí, že se v budoucnu začne těžit i v Arktidě",
+      "lead_en": "Evropská unie v minulosti odmítala fosilní paliva ze severu Norska. Ještě v roce 2021 se zavázala, že bude prosazovat mezinárodní zákaz nových vrtů v Arktidě.",
+      "title_raw": "Evropa potřebuje norský plyn. Nevadí, že se v budoucnu začne těžit i v Arktidě",
+      "lead_raw": "Evropská unie v minulosti odmítala fosilní paliva ze severu Norska. Ještě v roce 2021 se zavázala, že bude prosazovat mezinárodní zákaz nových vrtů v Arktidě.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "dfc17e5fff4b386f1c38d8885404af3af9dbe149",
       "fingerprint": "511fd689f41ddbe28af2fc378fadeaa17dcb6531",
@@ -747,28 +769,6 @@
         "energy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "3a24af6f41e9d7e3b9b61d4b74bdfcec8698071f",
-      "fingerprint": "06548cb1bdbf162ea6abd6386907864f265149b2",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/domaci/restaurace-budou-mit-nizsi-dph-na-nealko-napoje-zakaznici-se-ale-zlevneni-nedockaji.A261101_174415_ekonomika_bury",
-      "published_utc": "2026-11-01T23:00:00Z",
-      "title_en": "Restaurace budou mít nižší DPH na nealko nápoje. Zákazníci se ale zlevnění nedočkají",
-      "lead_en": "Daň z přidané hodnoty (DPH) na nápoje v gastronomii se od Nového roku sníží o devět procentních bodů na 12 procent, budou tedy ve stejné sazbě jako točená voda nebo mléčné nápoje.",
-      "title_raw": "Restaurace budou mít nižší DPH na nealko nápoje. Zákazníci se ale zlevnění nedočkají",
-      "lead_raw": "Daň z přidané hodnoty (DPH) na nápoje v gastronomii se od Nového roku sníží o devět procentních bodů na 12 procent, budou tedy ve stejné sazbě jako točená voda nebo mléčné nápoje.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
