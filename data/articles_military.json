@@ -1,10 +1,77 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-04T02:47:06Z",
+  "updated_at_utc": "2026-11-04T10:02:11Z",
   "topic": "military",
-  "count": 48,
+  "count": 42,
   "articles": [
+    {
+      "id": "2f89f65c062bdd92d5e762b33dc26af7a6fbabe1",
+      "fingerprint": "3f8b54878c3f604d1fd2d0893646b6f19d8f0107",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/babis-varsava-jednani-polsky-premier-donald-tusk-cesko-polske-vztahy.A261103_211056_domaci_jira",
+      "published_utc": "2026-11-04T08:36:00Z",
+      "title_en": "Babiš bude jednat s Tuskem. Je to pro nás klíčový spojenec, řekl před odletem",
+      "lead_en": "Premiéra Andreje Babiše přijme na středečním jednání ve Varšavě polský předseda vlády Donald Tusk. Společně chtějí diskutovat o řadě témat, včetně konkurenceschopnosti evropské ekonomiky nebo o spolupráci v oblasti bezpečnosti a obrany.",
+      "title_raw": "Babiš bude jednat s Tuskem. Je to pro nás klíčový spojenec, řekl před odletem",
+      "lead_raw": "Premiéra Andreje Babiše přijme na středečním jednání ve Varšavě polský předseda vlády Donald Tusk. Společně chtějí diskutovat o řadě témat, včetně konkurenceschopnosti evropské ekonomiky nebo o spolupráci v oblasti bezpečnosti a obrany.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "30d8758b94571a7c70e8c249638e14296f2a2658",
+      "fingerprint": "ad67540fdd42ad2928243a97953d175dde1127ca",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/spoluprace-s-polskem-je-podle-babise-zasadni-pro-budoucnost-stredni-evropy/2896062",
+      "published_utc": "2026-11-04T08:33:00Z",
+      "title_en": "Spolupráce s Polskem je podle Babiše zásadní pro budoucnost střední Evropy",
+      "lead_en": "Praha - Spolupráce s Polskem má zásadní význam pro bezpečnost, prosperitu a budoucnost střední Evropy, řekl dnes novinářům premiér Andrej Babiš (ANO) před odletem do Polska. Se šéfem polské vlády Donaldem...",
+      "title_raw": "Spolupráce s Polskem je podle Babiše zásadní pro budoucnost střední Evropy",
+      "lead_raw": "Praha - Spolupráce s Polskem má zásadní význam pro bezpečnost, prosperitu a budoucnost střední Evropy, řekl dnes novinářům premiér Andrej Babiš (ANO) před odletem do Polska. Se šéfem polské vlády Donaldem...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d5ef5ef2cdd1ed6fc057cabb73ad8cdb28d7e49b",
+      "fingerprint": "3151276a2eba5529e9962fe5ed04cd97c92ed388",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/severni-korea-odpalila-nekolik-strel-smerem-k-japonskemu-mori-uvedl-soul-379255",
+      "published_utc": "2026-11-04T06:25:32Z",
+      "title_en": "Severní Korea odpálila několik střel směrem k Japonskému moři, uvedl Soul",
+      "lead_en": "Severní Korea ve středu odpálila několik střel z&nbsp;oblasti Sondok na východním pobřeží směrem k&nbsp;Japonskému moři, uvedla podle agentury Reuters jihokorejská armáda. Jde již o&nbsp;čtvrtý podobný test KLDR za poslední měsíc.",
+      "title_raw": "Severní Korea odpálila několik střel směrem k Japonskému moři, uvedl Soul",
+      "lead_raw": "Severní Korea ve středu odpálila několik střel z&nbsp;oblasti Sondok na východním pobřeží směrem k&nbsp;Japonskému moři, uvedla podle agentury Reuters jihokorejská armáda. Jde již o&nbsp;čtvrtý podobný test KLDR za poslední měsíc.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "4b1b9073622a630e68ce4177e98a2f804462d05e",
       "fingerprint": "1922875237baa708f8f009b78fa0955e5d70b1bb",
@@ -871,206 +938,6 @@
       },
       "topics": [
         "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "e1e203359b229a2258c4ce9fe8dbffd3e1ef442c",
-      "fingerprint": "d0f6a9870cc73f894c6e3176f9882f186793b64f",
-      "source": "Radio Prague International (EN)",
-      "url": "https://english.radio.cz/czech-military-must-prepare-prolonged-war-lacks-funding-says-former-army-chief-8901532",
-      "published_utc": "2026-11-02T08:56:00Z",
-      "title_en": "Czech military must prepare for prolonged war, but lacks the funding, says former army chief",
-      "lead_en": "The Czech government is due to discuss a new military development strategy looking ahead to 2040, which identifies Russia as a major security threat and calls for substantial improvements in the country's defence capabilities. But former chief of the Czech general staff Jiří Šedivý (now CEVRO University) warns that planned funding will not be sufficient to meet those ambitions.",
-      "title_raw": "Czech military must prepare for prolonged war, but lacks the funding, says former army chief",
-      "lead_raw": "The Czech government is due to discuss a new military development strategy looking ahead to 2040, which identifies Russia as a major security threat and calls for substantial improvements in the country's defence capabilities. But former chief of the Czech general staff Jiří Šedivý (now CEVRO University) warns that planned funding will not be sufficient to meet those ambitions.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "fd399f7ab8eb557e4b8d0ebd611ea55e9c219015",
-      "fingerprint": "cd2794c0bf34bf2511ece10f8f3c03ddc14adc33",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-drony-bombardovani-ruske-ropne-zarizeni-rusko-utok-na-pristav.A261102_080312_zahranicni_lysa",
-      "published_utc": "2026-11-02T07:43:23Z",
-      "title_en": "Ukrajina v noci zasáhla ruské ropné zařízení. Moskva útočila na Oděsu i Záporoží",
-      "lead_en": "Ukrajinské síly v noci na pondělí zasáhly ropné zařízení v ruské Samarské oblasti, uvedl server The Kyiv Independent. Ruské ministerstvo obrany oproti tomu oznámilo, že v noci útočilo na objekty přístavní infrastruktury v ukrajinské Oděské oblasti.",
-      "title_raw": "Ukrajina v noci zasáhla ruské ropné zařízení. Moskva útočila na Oděsu i Záporoží",
-      "lead_raw": "Ukrajinské síly v noci na pondělí zasáhly ropné zařízení v ruské Samarské oblasti, uvedl server The Kyiv Independent. Ruské ministerstvo obrany oproti tomu oznámilo, že v noci útočilo na objekty přístavní infrastruktury v ukrajinské Oděské oblasti.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d9cb9619a2ad68fd2b89a910b69775fe66dbbb47",
-      "fingerprint": "45ce30f97cc151eb766e679651a65a1cfb9eae82",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/aplikace-pro-varovani-civilistu-na-ukrajine-a-v-rusku-celily-kyberutokum-379209",
-      "published_utc": "2026-11-02T06:24:12Z",
-      "title_en": "Aplikace pro varování civilistů na Ukrajině a v Rusku čelily kyberútokům",
-      "lead_en": "Ukrajinská aplikace, která předává civilnímu obyvatelstvu varování před údery ze vzduchu, čelila v&nbsp;neděli kybernetickému útoku, sdělilo podle agentur ukrajinské vojenské letectvo. Ruské ministerstvo pro mimořádné situace později napsalo, že i&nbsp;jeho aplikace pro varování obyvatelstva čelila masivnímu kybernetickému útoku.",
-      "title_raw": "Aplikace pro varování civilistů na Ukrajině a v Rusku čelily kyberútokům",
-      "lead_raw": "Ukrajinská aplikace, která předává civilnímu obyvatelstvu varování před údery ze vzduchu, čelila v&nbsp;neděli kybernetickému útoku, sdělilo podle agentur ukrajinské vojenské letectvo. Ruské ministerstvo pro mimořádné situace později napsalo, že i&nbsp;jeho aplikace pro varování obyvatelstva čelila masivnímu kybernetickému útoku.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d87eb326d631c1b5e5049e8db687a10db3e871fb",
-      "fingerprint": "628d5894a60ff1d21aaae900ac22f6349df28ebc",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-rozhovory-spicar-volkswagen-ceka-bolestiva-lecba-cesi-uz-ale-maji-plan-jak-prezit-319156",
-      "published_utc": "2026-11-02T06:00:00Z",
-      "title_en": "Špicar: Volkswagen čeká bolestivá léčba. Češi už ale mají plán, jak přežít",
-      "lead_en": "Jak krize Volkswagenu dopadne na české dodavatele? „My jsme velmi flexibilní, Němci tuhle vlastnost úplně nemají,“ popisuje Radek Špicar ze Svazu průmyslu a dopravy s tím, že Češi už zjišťují, jak se zapojit do obranného průmyslu.",
-      "title_raw": "Špicar: Volkswagen čeká bolestivá léčba. Češi už ale mají plán, jak přežít",
-      "lead_raw": "Jak krize Volkswagenu dopadne na české dodavatele? „My jsme velmi flexibilní, Němci tuhle vlastnost úplně nemají,“ popisuje Radek Špicar ze Svazu průmyslu a dopravy s tím, že Češi už zjišťují, jak se zapojit do obranného průmyslu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "8caa43434761c5aae019c9318eddc13c89957c52",
-      "fingerprint": "397d677c1bebada36470f91b9fd4cd88b2f6b6f8",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-agenti-fbi-zadrzeli-muze-podezreleho-ze-sdileni-prisne-tajnych-informaci-na-socialnich-sitich-40605969",
-      "published_utc": "2026-11-02T05:25:00Z",
-      "title_en": "Agenti FBI zadrželi muže podezřelého ze sdílení přísně tajných informací na sociálních sítích",
-      "lead_en": "Agenti amerického Federálního vyšetřovacího úřadu (FBI) v pátek v Severní Karolíně zadrželi muže, který měl na sociálních sítích sdílet přísně tajné informace. K těm se dostal, když pracoval pro firmu, jež americké armádě poskytovala bezpečnostní služby.",
-      "title_raw": "Agenti FBI zadrželi muže podezřelého ze sdílení přísně tajných informací na sociálních sítích",
-      "lead_raw": "Agenti amerického Federálního vyšetřovacího úřadu (FBI) v pátek v Severní Karolíně zadrželi muže, který měl na sociálních sítích sdílet přísně tajné informace. K těm se dostal, když pracoval pro firmu, jež americké armádě poskytovala bezpečnostní služby.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ba9eb2af32325e1cb29142e1d219f03a08953e6d",
-      "fingerprint": "637446522a9779001f90948f1b25924bf5edceda",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/okradena-kryptomenova-burza-binance-znovu-umoznuje-zakaznikum-vybirat-bitcoiny.A261102_062049_eko-zahranicni_iluj",
-      "published_utc": "2026-11-02T05:22:00Z",
-      "title_en": "Největší kryptoměnová burza po kyberútoku opět umožňuje vybírat bitcoiny",
-      "lead_en": "Největší světová kryptoměnová burza Binance, která se stala obětí rozsáhlé kybernetické krádeže, dnes obnovila zákazníkům možnost výběru uložených bitcoinů. Firma na svém webu rovněž uvedla, že možnost výběru bude postupně obnovovat také u dalších kryptoměn.",
-      "title_raw": "Největší kryptoměnová burza po kyberútoku opět umožňuje vybírat bitcoiny",
-      "lead_raw": "Největší světová kryptoměnová burza Binance, která se stala obětí rozsáhlé kybernetické krádeže, dnes obnovila zákazníkům možnost výběru uložených bitcoinů. Firma na svém webu rovněž uvedla, že možnost výběru bude postupně obnovovat také u dalších kryptoměn.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "c55e95aef752ef98545ffeb42d3226458532a57c",
-      "fingerprint": "791af465f4e701e2fd89f73281634578b9fd907f",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/vlada-nova-koncepce-vystavby-armady-cr-do-roku-2040-prezident-pavel.A261102_052219_domaci_kop",
-      "published_utc": "2026-11-02T05:05:00Z",
-      "title_en": "Vláda za účasti prezidenta Pavla projedná novou koncepci armády do roku 2040",
-      "lead_en": "Za účasti prezidenta Petra Pavla, který je také vrchním velitelem ozbrojenýcn sil, projedná vláda Andreje Babiše koncepci výstavby armády České republiky do roku 2040. „„Do roku 2040 armáda disponuje nejméně 32 tisíci vojáky z povolání a 15 tisíci vojáky v aktivní záloze,“ píše se v v nové armádní koncepci.",
-      "title_raw": "Vláda za účasti prezidenta Pavla projedná novou koncepci armády do roku 2040",
-      "lead_raw": "Za účasti prezidenta Petra Pavla, který je také vrchním velitelem ozbrojenýcn sil, projedná vláda Andreje Babiše koncepci výstavby armády České republiky do roku 2040. „„Do roku 2040 armáda disponuje nejméně 32 tisíci vojáky z povolání a 15 tisíci vojáky v aktivní záloze,“ píše se v v nové armádní koncepci.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "37fa7a81d2130bdbdd18d8c2376547ec212abc2a",
-      "fingerprint": "a9102b43700046912e06cb7ca1817440c40d679f",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-spor-o-starlink-ukrajina-i-evropa-se-poohlizeji-po-vlastnich-druzicich-40605605",
-      "published_utc": "2026-11-02T04:46:00Z",
-      "title_en": "Spor o Starlink. Ukrajina i Evropa se poohlížejí po vlastních družicích",
-      "lead_en": "Deset dní nemohla Ukrajina pomocí satelitního internetu řídit drony letící rychleji než 160 kilometrů za hodinu. Americká firma SpaceX v polovině října bez varování omezila vojenskou síť Starshield a podle bývalých amerických důstojníků si tím USA vytvářejí konkurenty.",
-      "title_raw": "Spor o Starlink. Ukrajina i Evropa se poohlížejí po vlastních družicích",
-      "lead_raw": "Deset dní nemohla Ukrajina pomocí satelitního internetu řídit drony letící rychleji než 160 kilometrů za hodinu. Americká firma SpaceX v polovině října bez varování omezila vojenskou síť Starshield a podle bývalých amerických důstojníků si tím USA vytvářejí konkurenty.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "c32aa87d82643919d9a4425fa8783bec4181daf9",
-      "fingerprint": "4b26bea4d4ec5c0e0a82b1c3f4f74239420fe720",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/cinske-armadni-experty-skolil-ustav-jaderne-ochrany-bez-dukladneho-provereni_2611020500_nel",
-      "published_utc": "2026-11-02T04:00:00Z",
-      "title_en": "Čínské armádní experty školil ústav jaderné ochrany bez důkladného prověření. Podcenil rizika, uvádí kontrola",
-      "lead_en": "Státní ústav jaderné, chemické a biologické ochrany (SÚJCHBO) podcenil při výcviku čínských expertů bezpečnostní rizika. Vyplývá to ze závěrů mimořádné kontroly, kterou provedla dozorčí rada ústavu po medializaci těchto kurzů začátkem léta.",
-      "title_raw": "Čínské armádní experty školil ústav jaderné ochrany bez důkladného prověření. Podcenil rizika, uvádí kontrola",
-      "lead_raw": "Státní ústav jaderné, chemické a biologické ochrany (SÚJCHBO) podcenil při výcviku čínských expertů bezpečnostní rizika. Vyplývá to ze závěrů mimořádné kontroly, kterou provedla dozorčí rada ústavu po medializaci těchto kurzů začátkem léta.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
       ],
       "primary_topic": "military"
     }
