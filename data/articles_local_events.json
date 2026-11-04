@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-04T10:02:11Z",
+  "updated_at_utc": "2026-11-04T18:18:07Z",
   "topic": "local_events",
-  "count": 15,
+  "count": 13,
   "articles": [
+    {
+      "id": "482d61859d913913d62e5d27a25d6c0b8706a886",
+      "fingerprint": "ac7e047dd829ec51faa19e72d3439edcf25528a6",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/usa-hlasi-mrtveho-s-ptaci-chripkou-nakazil-se-od-dobytka-379273",
+      "published_utc": "2026-11-04T16:44:29Z",
+      "title_en": "USA hlásí mrtvého s ptačí chřipkou. Nakazil se od dobytka",
+      "lead_en": "Ve státě Washington zemřel Američan na komplikace způsobené ptačí chřipkou. Podle zdravotnických úřadů se jedná o&nbsp;první takový případ úmrtí v&nbsp;USA za poslední rok.",
+      "title_raw": "USA hlásí mrtvého s ptačí chřipkou. Nakazil se od dobytka",
+      "lead_raw": "Ve státě Washington zemřel Američan na komplikace způsobené ptačí chřipkou. Podle zdravotnických úřadů se jedná o&nbsp;první takový případ úmrtí v&nbsp;USA za poslední rok.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "7b3eccd81635f56050c4f485bed52704a34e4623",
       "fingerprint": "bd2be5660e8a3702db59a707f6c1b57cbb1aaec1",
@@ -268,72 +290,6 @@
       },
       "topics": [
         "energy",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "39606e32d7dc28ce53d339d85b87c7e1b0bb7bee",
-      "fingerprint": "7e29838cda2963ed1040911173d5bf17169a0d0b",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/pocasi-boure-agneta-zasahla-recko-lide-pred-zaplavami-utikali-na-strechy-40606069",
-      "published_utc": "2026-11-02T16:41:54Z",
-      "title_en": "Bouře Agneta zasáhla Řecko. Lidé před záplavami utíkali na střechy",
-      "lead_en": "Řecko zasáhla bouře Agneta, která od neděle přináší přívalové deště a bleskové povodně. Nejvážnější situace panuje na ostrově Rhodos, záplavy však zasáhly také ostrovy Samos a Kalymnos nebo přístavní město Volos na řecké pevnině.",
-      "title_raw": "Bouře Agneta zasáhla Řecko. Lidé před záplavami utíkali na střechy",
-      "lead_raw": "Řecko zasáhla bouře Agneta, která od neděle přináší přívalové deště a bleskové povodně. Nejvážnější situace panuje na ostrově Rhodos, záplavy však zasáhly také ostrovy Samos a Kalymnos nebo přístavní město Volos na řecké pevnině.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "3e5b5004fc476c54e69c4fd51e5cb12cd5af283e",
-      "fingerprint": "a30493ef4bb6832f704a0a03d25d817347fa44ce",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/byvaly-sef-hasicu-vlcek-ma-novou-pozici-bude-soucasti-celoevropske-poradni_2611021710_vdv",
-      "published_utc": "2026-11-02T16:10:00Z",
-      "title_en": "Bývalý šéf hasičů Vlček má novou pozici. Bude součástí celoevropské poradní skupiny pro katastrofy",
-      "lead_en": "Bývalý generální ředitel Hasičského záchranného sboru ČR Vladimír Vlček je součástí nové poradní skupiny Evropské komise. Skupina s názvem PreparEU má pomáhat především se zvládáním přírodních katastrof, jako jsou stále častější požáry.",
-      "title_raw": "Bývalý šéf hasičů Vlček má novou pozici. Bude součástí celoevropské poradní skupiny pro katastrofy",
-      "lead_raw": "Bývalý generální ředitel Hasičského záchranného sboru ČR Vladimír Vlček je součástí nové poradní skupiny Evropské komise. Skupina s názvem PreparEU má pomáhat především se zvládáním přírodních katastrof, jako jsou stále častější požáry.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "1792b75f6712171672e9168d11cf269c3eae5b89",
-      "fingerprint": "10aa0065f593b9850ba5e891cefa5ce3ff9bad13",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-hasici-zasahovali-ve-skole-v-chyni-po-hodine-vareni-40606184",
-      "published_utc": "2026-11-02T15:14:15Z",
-      "title_en": "Hasiči zasahovali ve škole v Chýni po hodině vaření",
-      "lead_en": "Při hodině vaření v Základní škole Vida v Chýni na Praze-západ vzplál menší požár. Záchranáři si na místě převzali lehce popálenou dospělou ženu, evakuace budovy nebyla nutná.",
-      "title_raw": "Hasiči zasahovali ve škole v Chýni po hodině vaření",
-      "lead_raw": "Při hodině vaření v Základní škole Vida v Chýni na Praze-západ vzplál menší požár. Záchranáři si na místě převzali lehce popálenou dospělou ženu, evakuace budovy nebyla nutná.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
         "local_events"
       ],
       "primary_topic": "local_events"
