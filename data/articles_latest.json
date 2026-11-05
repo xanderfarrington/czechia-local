@@ -1,10 +1,502 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-05T00:00:01Z",
+  "updated_at_utc": "2026-11-05T05:26:39Z",
   "keep_hours": 48,
-  "count": 573,
+  "count": 585,
   "articles": [
+    {
+      "id": "9911197aa06354bb42a2e294e920f78d0c6523d0",
+      "fingerprint": "0cf5996a975556a0cd8f6d355431df848d746496",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/trump-po-volebni-prohre-republikanu-vyjadril-podporu-ministru-obrany-hegsethovi-379297",
+      "published_utc": "2026-11-05T05:25:02Z",
+      "title_en": "Trump po volební prohře republikánů vyjádřil podporu ministru obrany Hegsethovi",
+      "lead_en": "Americký republikánský prezident Donald Trump ve středu vyjádřil podporu ministru obrany Peteovi Hegsethovi, den poté, co demokraté po volbách získali kontrolu nad oběma komorami Kongresu. Napsala to agentura Reuters, podle níž výhra demokratů odráží rozhořčení voličů nad válkou v&nbsp;Íránu zahájenou letos v&nbsp;únoru USA a&nbsp;Izraelem.",
+      "title_raw": "Trump po volební prohře republikánů vyjádřil podporu ministru obrany Hegsethovi",
+      "lead_raw": "Americký republikánský prezident Donald Trump ve středu vyjádřil podporu ministru obrany Peteovi Hegsethovi, den poté, co demokraté po volbách získali kontrolu nad oběma komorami Kongresu. Napsala to agentura Reuters, podle níž výhra demokratů odráží rozhořčení voličů nad válkou v&nbsp;Íránu zahájenou letos v&nbsp;únoru USA a&nbsp;Izraelem.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "5813625b23fff63bbd4f170da838a6fda0ebbe7f",
+      "fingerprint": "2e894828b8621ef198cc26f8895e41b5138b94a9",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ve-francii-bude-ve-ctvrtek-kvuli-stavkam-nasazeno-70-000-policistu-a-cetniku.A261105_061445_zahranicni_iluj",
+      "published_utc": "2026-11-05T05:23:00Z",
+      "title_en": "Francie se chystá na další demonstrace. V ulicích bude 70 000 policistů a četníků",
+      "lead_en": "Ve Francii bude ve čtvrtek nasazeno přibližně 70 000 policistů a četníků v souvislosti s celostátní výzvou ke stávce, kterou vyhlásily hlavní odborové svazy na obranu mezd a pracovních míst. S odvoláním na francouzského ministra vnitra Laurenta Nuňeze to napsala agentura AFP.",
+      "title_raw": "Francie se chystá na další demonstrace. V ulicích bude 70 000 policistů a četníků",
+      "lead_raw": "Ve Francii bude ve čtvrtek nasazeno přibližně 70 000 policistů a četníků v souvislosti s celostátní výzvou ke stávce, kterou vyhlásily hlavní odborové svazy na obranu mezd a pracovních míst. S odvoláním na francouzského ministra vnitra Laurenta Nuňeze to napsala agentura AFP.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "4a9538106004c2220a896b79931e9b706e5d0ac7",
+      "fingerprint": "23661b0c408b8b440e3174f07dcd456dc19997a6",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/cestovani-po-sedmi-letech-se-otevrou-drabske-svetnicky-jedno-z-nejvyhledavanejsich-mist-ceskeho-raje-40606658",
+      "published_utc": "2026-11-05T05:21:00Z",
+      "title_en": "Po sedmi letech se otevřou Drábské světničky, jedno z nejvyhledávanějších míst Českého ráje",
+      "lead_en": "Obnova skalního hradu Drábské světničky za téměř 17 milionů korun se chýlí ke konci. Nové lávky, schody a zábradlí mají ochránit pískovec poničený náporem turistů i vandaly, kteří ryli do skal různé nápisy.",
+      "title_raw": "Po sedmi letech se otevřou Drábské světničky, jedno z nejvyhledávanějších míst Českého ráje",
+      "lead_raw": "Obnova skalního hradu Drábské světničky za téměř 17 milionů korun se chýlí ke konci. Nové lávky, schody a zábradlí mají ochránit pískovec poničený náporem turistů i vandaly, kteří ryli do skal různé nápisy.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "8d4fd5038735641bc222d030ac8e6421f55e9d2a",
+      "fingerprint": "0c867107cb18974cebc2fd7286fde22594e9d688",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-jsme-ve-valce-snemovnu-po-akci-4-36-nejspis-ceka-nevidana-paralyza-319699",
+      "published_utc": "2026-11-05T05:20:00Z",
+      "title_en": "„Jsme ve válce.“ Sněmovnu po „akci 4:36“ nejspíš čeká nevídaná paralýza",
+      "lead_en": "Opozice nechce v případě poplatků za veřejnoprávní média ustoupit. Vládní poslanci sází na to, že obstrukce vykreslí jako destruktivní naschvál.",
+      "title_raw": "„Jsme ve válce.“ Sněmovnu po „akci 4:36“ nejspíš čeká nevídaná paralýza",
+      "lead_raw": "Opozice nechce v případě poplatků za veřejnoprávní média ustoupit. Vládní poslanci sází na to, že obstrukce vykreslí jako destruktivní naschvál.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "897409551443ef892693ec63289110c20daf0ae7",
+      "fingerprint": "560efc411e22d3bfc237861558ea54d32b7e7b6f",
+      "source": "Radio Prague International (EN)",
+      "url": "https://english.radio.cz/coalition-pushes-controversial-conflict-interest-amendment-towards-first-reading-8901771",
+      "published_utc": "2026-11-05T05:13:00Z",
+      "title_en": "Coalition pushes controversial conflict-of-interest amendment towards first reading",
+      "lead_en": "Coalition pushes controversial conflict-of-interest amendment towards first reading",
+      "title_raw": "Coalition pushes controversial conflict-of-interest amendment towards first reading",
+      "lead_raw": "Coalition pushes controversial conflict-of-interest amendment towards first reading",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d8a4a9fb68afb5b08a645f90cde7cf676d2561e0",
+      "fingerprint": "bf2b540597b09e343c2e4a7208982f295d9580b4",
+      "source": "Radio Prague International (EN)",
+      "url": "https://english.radio.cz/lower-house-approves-law-aimed-making-online-environment-safer-8901770",
+      "published_utc": "2026-11-05T05:12:00Z",
+      "title_en": "Lower house approves law aimed at making online environment safer",
+      "lead_en": "Lower house approves law aimed at making online environment safer",
+      "title_raw": "Lower house approves law aimed at making online environment safer",
+      "lead_raw": "Lower house approves law aimed at making online environment safer",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "c86926bffc1806897f0a5e3ceea245abcb170e37",
+      "fingerprint": "8e51c61911dc8865fb4a51469595d8222a1518fa",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-svet-hongkongsky-aktivista-wong-dostal-dalsich-deset-let-za-spiknuti-40606829",
+      "published_utc": "2026-11-05T05:01:00Z",
+      "title_en": "Hongkongský aktivista Wong dostal dalších deset let za spiknutí",
+      "lead_en": "Hongkongský soud ve čtvrtek uložil další, desetiletý trest vězení prodemokratickému aktivistovi Joshuovi Wongovi za spiknutí se zahraničními silami, a to na základě kontroverzního zákona o národní bezpečnosti. Informovaly o tom tiskové agentury.",
+      "title_raw": "Hongkongský aktivista Wong dostal dalších deset let za spiknutí",
+      "lead_raw": "Hongkongský soud ve čtvrtek uložil další, desetiletý trest vězení prodemokratickému aktivistovi Joshuovi Wongovi za spiknutí se zahraničními silami, a to na základě kontroverzního zákona o národní bezpečnosti. Informovaly o tom tiskové agentury.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1712df74ca868e944ae003882100d78a7181fd3f",
+      "fingerprint": "f5628d3f9bbef465292e5881d9d12897531dc5c0",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/starosta-se-meni-jmenovka-zustava-v-cele-kojetina-se-otec-vystrida-se-synem_2611050600_dns",
+      "published_utc": "2026-11-05T05:00:00Z",
+      "title_en": "Starosta se mění, jmenovka zůstává. V čele Kojetína se otec vystřídá se synem, opozice má výhrady",
+      "lead_en": "Kojetín na Přerovsku má po komunálních volbách nového starostu. Město s necelými šesti tisíci obyvateli povede Leoš Ptáček z hnutí ANO.",
+      "title_raw": "Starosta se mění, jmenovka zůstává. V čele Kojetína se otec vystřídá se synem, opozice má výhrady",
+      "lead_raw": "Kojetín na Přerovsku má po komunálních volbách nového starostu. Město s necelými šesti tisíci obyvateli povede Leoš Ptáček z hnutí ANO.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "8675f1b4cd3d19b8a802cfaa9a8505f9f64c4006",
+      "fingerprint": "29263836dd14f407f9b15edc6bcaf137709f1dd3",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-5-59-napeti-v-krnapu-sili-krakonos-ma-posledniho-trautenberka-moravce-dost-319725",
+      "published_utc": "2026-11-05T04:59:00Z",
+      "title_en": "Napětí v KRNAP sílí. „Krakonoš“ má „posledního Trautenberka“ Moravce dost",
+      "lead_en": "Ředitel Krkonošského národního parku Petr Moravec, kterého do funkce v červnu jmenoval ministr životního prostředí Igor Červený z Motoristů, čelí sílící kritice. Ministr Červený ale Moravce hájí.",
+      "title_raw": "Napětí v KRNAP sílí. „Krakonoš“ má „posledního Trautenberka“ Moravce dost",
+      "lead_raw": "Ředitel Krkonošského národního parku Petr Moravec, kterého do funkce v červnu jmenoval ministr životního prostředí Igor Červený z Motoristů, čelí sílící kritice. Ministr Červený ale Moravce hájí.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "6170a9f7be81767c6c1ef28d170f313353fad615",
+      "fingerprint": "660df9f3f117e0163518a205942e784a78babb57",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/volby-usa-nova-hvezda-jon-ossoff-demokraticky-senator-ma-naslapnuto-na-americkeho-prezidenta-40606702",
+      "published_utc": "2026-11-05T04:50:00Z",
+      "title_en": "Nová hvězda Jon Ossoff. Demokratický senátor má našlápnuto na amerického prezidenta",
+      "lead_en": "Američtí demokraté mají novou hvězdu. Stal se jí Jon Ossoff, který dosáhl přesvědčivého vítězství ve volbách do Senátu ve státě Georgie.",
+      "title_raw": "Nová hvězda Jon Ossoff. Demokratický senátor má našlápnuto na amerického prezidenta",
+      "lead_raw": "Američtí demokraté mají novou hvězdu. Stal se jí Jon Ossoff, který dosáhl přesvědčivého vítězství ve volbách do Senátu ve státě Georgie.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "74fff6b0e53ea746725bda3ce22441d19a0e418d",
+      "fingerprint": "97ccb01839771bfe60ed51059f13038e4adb9564",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/hongkongsky-aktivista-wong-dostal-dalsich-deset-let-vezeni-za-spiknuti-379296",
+      "published_utc": "2026-11-05T04:48:52Z",
+      "title_en": "Hongkongský aktivista Wong dostal dalších deset let vězení za „spiknutí“",
+      "lead_en": "Hongkongský soud uložil další, desetiletý trest vězení prodemokratickému aktivistovi Joshuovi Wongovi. Vinil ho ze spiknutí se zahraničními silami, a&nbsp;to na základě kontroverzního zákona o&nbsp;národní bezpečnosti.",
+      "title_raw": "Hongkongský aktivista Wong dostal dalších deset let vězení za „spiknutí“",
+      "lead_raw": "Hongkongský soud uložil další, desetiletý trest vězení prodemokratickému aktivistovi Joshuovi Wongovi. Vinil ho ze spiknutí se zahraničními silami, a&nbsp;to na základě kontroverzního zákona o&nbsp;národní bezpečnosti.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "c08bc652dd8e2f53ed8f4c1f984a44d4e568a001",
+      "fingerprint": "d83da1ad19bbb2dd982d841b40bd2fdad835536f",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zdravi-5-duvodu-proc-si-na-podzim-a-v-zime-doprat-med-pomuze-s-kaslem-i-imunitou-40606386",
+      "published_utc": "2026-11-05T04:45:00Z",
+      "title_en": "5 důvodů, proč si na podzim a v zimě dopřát med. Pomůže s kašlem i imunitou",
+      "lead_en": "Med není jen sladkou pochoutkou, ale také přírodním pomocníkem, kterého oceníte zejména v chladných měsících. Podzim a zima jsou ideálním obdobím, kdy ho zařadit do jídelníčku.",
+      "title_raw": "5 důvodů, proč si na podzim a v zimě dopřát med. Pomůže s kašlem i imunitou",
+      "lead_raw": "Med není jen sladkou pochoutkou, ale také přírodním pomocníkem, kterého oceníte zejména v chladných měsících. Podzim a zima jsou ideálním obdobím, kdy ho zařadit do jídelníčku.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "96c2dcd3c37c5f9de3dadc39baa0687c0db2bfed",
+      "fingerprint": "3733ef36a05aba57e7b2dfae1c24052b118828a2",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/veda-skoly-nejstarsi-znamy-vrak-lodi-na-svete-se-dostal-do-guinnessovy-knihy-rekordu-40606792",
+      "published_utc": "2026-11-05T04:42:00Z",
+      "title_en": "Nejstarší známý vrak lodi na světě se dostal do Guinnessovy knihy rekordů",
+      "lead_en": "Vrak lodi objevený při podmořských vykopávkách nedaleko ostrova Kekova v turecké provincii Antalya na jihu země byl zapsán do Guinnessovy knihy rekordů jako nejstarší známý vrak lodi na světě. Tento týden ve středu na to upozornily agentury Reuters a Anadolu.",
+      "title_raw": "Nejstarší známý vrak lodi na světě se dostal do Guinnessovy knihy rekordů",
+      "lead_raw": "Vrak lodi objevený při podmořských vykopávkách nedaleko ostrova Kekova v turecké provincii Antalya na jihu země byl zapsán do Guinnessovy knihy rekordů jako nejstarší známý vrak lodi na světě. Tento týden ve středu na to upozornily agentury Reuters a Anadolu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "aae16c56c00b3a02db5cc71f1078b85c9dc3ac60",
+      "fingerprint": "ece114b4cd5512e340e46c5801c260714d621fe1",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-vsichni-proti-ano-i-tam-kde-hnuti-vyhravalo-casto-skoncilo-v-opozici-40606736",
+      "published_utc": "2026-11-05T04:40:00Z",
+      "title_en": "Všichni proti ANO. I tam, kde hnutí vyhrávalo, často skončilo v opozici",
+      "lead_en": "Vítězství v komunálních volbách pro partaj zdaleka neznamená, že bude v daném městě vládnout. Novinky udělaly přehled už dojednaných koalic v 63 největších českých městech.",
+      "title_raw": "Všichni proti ANO. I tam, kde hnutí vyhrávalo, často skončilo v opozici",
+      "lead_raw": "Vítězství v komunálních volbách pro partaj zdaleka neznamená, že bude v daném městě vládnout. Novinky udělaly přehled už dojednaných koalic v 63 největších českých městech.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "eb12143998fd2ee332a5d359d8400ac25cd672d8",
+      "fingerprint": "18aa6aa7a7248924b1dc99dc14c0b9f5d7ab5f88",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/stary-textil-na-pelhrimovsku-nove-svazi-obecni-firma-cervene-kontejnery-proto_2611041930_ntu",
+      "published_utc": "2026-11-05T04:35:00Z",
+      "title_en": "Starý textil na Pelhřimovsku nově sváží obecní firma. Červené kontejnery proto byly nahrazeny hnědými",
+      "lead_en": "Textil z desítek obcí a měst na Pelhřimovsku už půl roku nepatří do červených kontejnerů. Nahradily je velké hnědé, které na první pohled mohou působit jako nádoby na bioodpad.",
+      "title_raw": "Starý textil na Pelhřimovsku nově sváží obecní firma. Červené kontejnery proto byly nahrazeny hnědými",
+      "lead_raw": "Textil z desítek obcí a měst na Pelhřimovsku už půl roku nepatří do červených kontejnerů. Nahradily je velké hnědé, které na první pohled mohou působit jako nádoby na bioodpad.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "55b6ee98335f17735b38a9605d7729b6b6840caa",
+      "fingerprint": "9b3d276d271f9a32195ccb2986ed8dba11911bd6",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/pocasi-ranni-teploty-klesnou-pod-bod-mrazu-40606805",
+      "published_utc": "2026-11-05T04:30:00Z",
+      "title_en": "Ranní teploty klesnou pod bod mrazu",
+      "lead_en": "Nejbližší dny nás čeká krásné slunečné počasí, ale s ranními mlhami. Na některých místech bohužel mlhy mohou vydržet po většinu dne a příliš slunce si tak neužijí.",
+      "title_raw": "Ranní teploty klesnou pod bod mrazu",
+      "lead_raw": "Nejbližší dny nás čeká krásné slunečné počasí, ale s ranními mlhami. Na některých místech bohužel mlhy mohou vydržet po většinu dne a příliš slunce si tak neužijí.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "e85be8e51fe2d7f923e8b7a9160dbc4221e6fd8f",
+      "fingerprint": "0b2418d8a000cbedbb464cef0b46f4dcfe1c9007",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-osobni-kremace-zdrazi-krematoria-z-toho-vini-ministerstvo-zivotniho-prostredi-319681",
+      "published_utc": "2026-11-05T04:30:00Z",
+      "title_en": "Kremace zdraží. Krematoria z toho viní ministerstvo životního prostředí",
+      "lead_en": "Česká republika patří v Evropě mezi země s nejvyšším počtem kremací. Zpopelnění volí přes 80 procent rodin.",
+      "title_raw": "Kremace zdraží. Krematoria z toho viní ministerstvo životního prostředí",
+      "lead_raw": "Česká republika patří v Evropě mezi země s nejvyšším počtem kremací. Zpopelnění volí přes 80 procent rodin.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "25c98b77a265efb23fb60d74d258026cca97a67d",
+      "fingerprint": "d3579f36f19541a0f6a5e361ef41ba02499a1b2c",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/kultura-filmy-serialy-recenze-film-houpacky-se-slamovi-ani-havlove-nepovedl-40606606",
+      "published_utc": "2026-11-05T04:23:00Z",
+      "title_en": "RECENZE: Film Houpačky se Slámovi ani Havlové nepovedl",
+      "lead_en": "Nový film scenáristy a režiséra Bohdana Slámy Houpačky, který ve čtvrtek vstupuje do kin, překvapil tím, že si Sláma, autor silných dramat, vybral ke zfilmování stejnojmennou předlohu Lucie Konečné, která píše lehké románky pro ženy a v roli scenáristky se podílela na seriálech j",
+      "title_raw": "RECENZE: Film Houpačky se Slámovi ani Havlové nepovedl",
+      "lead_raw": "Nový film scenáristy a režiséra Bohdana Slámy Houpačky, který ve čtvrtek vstupuje do kin, překvapil tím, že si Sláma, autor silných dramat, vybral ke zfilmování stejnojmennou předlohu Lucie Konečné, která píše lehké románky pro ženy a v roli scenáristky se podílela na seriálech j",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ab03e2418f1531257ed3c1b43a623d19b1355481",
+      "fingerprint": "ec556e9c1473addae2235b230de818bfe76b09ba",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-stredocesky-kraj-foto-vraky-na-dne-vysychajici-slapy-odhaluji-sva-tajemstvi-40606009",
+      "published_utc": "2026-11-05T04:20:00Z",
+      "title_en": "FOTO: Vraky na dně. Vysychající Slapy odhalují svá tajemství",
+      "lead_en": "Hladina Vodní nádrže Slapy se i po nástupu podzimního počasí dál drží hluboko pod dlouhodobým průměrem. Na odhalených březích jsou nejen škeble, které potřebují zachránit, ale také spousta nepořádku, který je normálně skrytý pod vodou.",
+      "title_raw": "FOTO: Vraky na dně. Vysychající Slapy odhalují svá tajemství",
+      "lead_raw": "Hladina Vodní nádrže Slapy se i po nástupu podzimního počasí dál drží hluboko pod dlouhodobým průměrem. Na odhalených březích jsou nejen škeble, které potřebují zachránit, ale také spousta nepořádku, který je normálně skrytý pod vodou.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "174bdc0f3338b397c9cdb8ed0337a44ca412496e",
+      "fingerprint": "1a46547437fa51f7dd72cab8e8a3156f7c9388cd",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/novy-defibrilator-v-pardubicich-zvladne-obslouzit-kazdy-pristroj-zachrance-sam_2611050500_ntu",
+      "published_utc": "2026-11-05T04:00:00Z",
+      "title_en": "Nový defibrilátor v Pardubicích zvládne obsloužit každý. Přístroj zachránce sám navádí hlasem",
+      "lead_en": "Když člověk na ulici zkolabuje a přestane dýchat, důležitá je okamžitá reakce okolí. S resuscitací může pomoci defibrilátor, který zachránce hlasově provází celým postupem.",
+      "title_raw": "Nový defibrilátor v Pardubicích zvládne obsloužit každý. Přístroj zachránce sám navádí hlasem",
+      "lead_raw": "Když člověk na ulici zkolabuje a přestane dýchat, důležitá je okamžitá reakce okolí. S resuscitací může pomoci defibrilátor, který zachránce hlasově provází celým postupem.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "1a05130307a8fa34afdd319f6227ee468df1aae4",
+      "fingerprint": "0a1481878bb1fdb0e6e46b8e496dcc5784e0e600",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/byvaly-nezletily-sef-sekretariatu-spravy-jeskyn-celi-trestnimu-stihani-obvinili_2611050500_vtk",
+      "published_utc": "2026-11-05T04:00:00Z",
+      "title_en": "Bývalý nezletilý šéf sekretariátu Správy jeskyň čelí trestnímu stíhání. Obvinili ho ze znásilnění i podvodu",
+      "lead_en": "Policie podle zjištění Radiožurnálu a webu iROZHLAS.cz obvinila bývalého pracovníka Správy jeskyň Samuela Kocandu ze znásilnění, ublížení na zdraví ve stadiu pokusu, útisku nebo podvodu. Kocanda „proslul“ tím, že ještě jako 17letý nastoupil letos v dubnu jako vedoucí sekretariátu do Správy jeskyň.",
+      "title_raw": "Bývalý nezletilý šéf sekretariátu Správy jeskyň čelí trestnímu stíhání. Obvinili ho ze znásilnění i podvodu",
+      "lead_raw": "Policie podle zjištění Radiožurnálu a webu iROZHLAS.cz obvinila bývalého pracovníka Správy jeskyň Samuela Kocandu ze znásilnění, ublížení na zdraví ve stadiu pokusu, útisku nebo podvodu. Kocanda „proslul“ tím, že ještě jako 17letý nastoupil letos v dubnu jako vedoucí sekretariátu do Správy jeskyň.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "2d695db90c86fc8f9bf8bcb85244d9b729ae46e6",
+      "fingerprint": "9d2fce97eb7215c37c3143e7d1a7e9fec88cc146",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-doufam-ze-jsem-ropak-lide-z-univerzity-pili-vodu-s-toxickym-olovem-319664",
+      "published_utc": "2026-11-05T04:00:00Z",
+      "title_en": "Toxické olovo v pitné vodě. Vedení univerzity dva měsíce otálelo s testy",
+      "lead_en": "V budově Univerzity Palackého v Olomouci naměřili až 51násobek limitu olova v pitné vodě. Zaměstnanci vedení vyčítají, že po nálezu olověného potrubí týdny odkládalo testování.",
+      "title_raw": "Toxické olovo v pitné vodě. Vedení univerzity dva měsíce otálelo s testy",
+      "lead_raw": "V budově Univerzity Palackého v Olomouci naměřili až 51násobek limitu olova v pitné vodě. Zaměstnanci vedení vyčítají, že po nálezu olověného potrubí týdny odkládalo testování.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "85b1a9abe3f0deaeb3e8d7580df52ddd02917d56",
+      "fingerprint": "9d018f066e377a9c1f18532ef419d96978abb510",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/na-konferenci-venovane-bezpecnosti-vystoupi-babis-i-nekteri-ministri-379294",
+      "published_utc": "2026-11-05T03:25:00Z",
+      "title_en": "Na konferenci věnované bezpečnosti vystoupí Babiš i někteří ministři",
+      "lead_en": "Na konferenci věnované bezpečnosti Prague Security Dialogue ve čtvrtek v&nbsp;Praze vystoupí premiér Andrej Babiš (ANO) i&nbsp;další členové vlády. Akci letos podruhé pořádá think-tank hnutí ANO Institut pro politiku a&nbsp;společnost.",
+      "title_raw": "Na konferenci věnované bezpečnosti vystoupí Babiš i někteří ministři",
+      "lead_raw": "Na konferenci věnované bezpečnosti Prague Security Dialogue ve čtvrtek v&nbsp;Praze vystoupí premiér Andrej Babiš (ANO) i&nbsp;další členové vlády. Akci letos podruhé pořádá think-tank hnutí ANO Institut pro politiku a&nbsp;společnost.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "6ddb67b05e9a5c0273a23cfe9cc399000345bf75",
+      "fingerprint": "b1448cf692a097960688ef5fdeb7382423ff752b",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/jizni-korea-planuje-rozsirit-pusobeni-protipiratske-jednotky-k-hormuzskemu-prulivu-379295",
+      "published_utc": "2026-11-05T02:10:17Z",
+      "title_en": "Jižní Korea plánuje rozšířit působení protipirátské jednotky k Hormuzskému průlivu",
+      "lead_en": "Jižní Korea plánuje rozšířit působnost své protipirátské jednotky Čchonghe do vod blíže k&nbsp;Hormuzskému průlivu. Oznámilo to ministerstvo obrany v&nbsp;Soulu, které tak reaguje na žádosti amerického prezidenta Donalda Trumpa o&nbsp;poskytnutí podpory v&nbsp;souvislosti s&nbsp;napětím v&nbsp;Íránu.",
+      "title_raw": "Jižní Korea plánuje rozšířit působení protipirátské jednotky k Hormuzskému průlivu",
+      "lead_raw": "Jižní Korea plánuje rozšířit působnost své protipirátské jednotky Čchonghe do vod blíže k&nbsp;Hormuzskému průlivu. Oznámilo to ministerstvo obrany v&nbsp;Soulu, které tak reaguje na žádosti amerického prezidenta Donalda Trumpa o&nbsp;poskytnutí podpory v&nbsp;souvislosti s&nbsp;napětím v&nbsp;Íránu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "856f84decec7071dc7b9c5428cdc556eaebf6943",
       "fingerprint": "e6d806f5a5974609083ea296c8121c29be32d461",
@@ -11486,248 +11978,6 @@
       },
       "topics": [],
       "primary_topic": "economy"
-    },
-    {
-      "id": "04b74b8269c57debbc2aaba8fdd69f4e393409ec",
-      "fingerprint": "85ef854efc6d991f4c26595f7e69235c02787672",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-usa-opet-zautocily-v-hormuzskem-prulivu-pise-denik-319388",
-      "published_utc": "2026-11-03T05:23:06Z",
-      "title_en": "USA opět zaútočily v Hormuzském průlivu",
-      "lead_en": "Spojené státy podle amerického deníku zaútočily na íránský ostrov Kešm v Hormuzském průlivu. USA údajně v posledním týdnu na Írán tajně útočí, prezident Donald Trump však tvrdí, že Spojené státy už několik týdnů nebojují.",
-      "title_raw": "USA opět zaútočily v Hormuzském průlivu",
-      "lead_raw": "Spojené státy podle amerického deníku zaútočily na íránský ostrov Kešm v Hormuzském průlivu. USA údajně v posledním týdnu na Írán tajně útočí, prezident Donald Trump však tvrdí, že Spojené státy už několik týdnů nebojují.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "eed7f82ed892a2fc62ac9d774245b7f22e91943c",
-      "fingerprint": "85b72ce265b9408ccc61f7c50622ac847fc82f68",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-ukrajinske-drony-zautocily-na-jednu-z-nejvetsich-ruskych-ropnych-rafinerii-40606238",
-      "published_utc": "2026-11-03T05:22:50Z",
-      "title_en": "Ukrajinské drony zaútočily na jednu z největších ruských ropných rafinérií",
-      "lead_en": "Drony ukrajinských operátorů v noci na úterý zaútočily na jednu z největších ruských ropných rafinérií v Jaroslavli. O úderu informovaly telegramové kanály, ukrajinská i ruská média.",
-      "title_raw": "Ukrajinské drony zaútočily na jednu z největších ruských ropných rafinérií",
-      "lead_raw": "Drony ukrajinských operátorů v noci na úterý zaútočily na jednu z největších ruských ropných rafinérií v Jaroslavli. O úderu informovaly telegramové kanály, ukrajinská i ruská média.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "01c038801aac92f209b82bea4902a6ccceab53b5",
-      "fingerprint": "074e567389976bb712bd200a8c91827afeb9403a",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/kultura-gerard-depardieu-hybernia-319386",
-      "published_utc": "2026-11-03T05:03:00Z",
-      "title_en": "Gérard Depardieu zazpíval v Praze. Dorazili Miloš Zeman nebo šéf rozhlasu",
-      "lead_en": "Francouzský herec Gérard Depardieu známý z filmů Bídníci, Cyrano z Bergeracu či Asterix a Obelix nebo minisérie Hrabě Monte Christo se toto pondělí představil jako zpěvák ve vyprodaném pražském Divadle Hybernia.",
-      "title_raw": "Gérard Depardieu zazpíval v Praze. Dorazili Miloš Zeman nebo šéf rozhlasu",
-      "lead_raw": "Francouzský herec Gérard Depardieu známý z filmů Bídníci, Cyrano z Bergeracu či Asterix a Obelix nebo minisérie Hrabě Monte Christo se toto pondělí představil jako zpěvák ve vyprodaném pražském Divadle Hybernia.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "6324b29010d6bd297974a7964482e347a3ff9898",
-      "fingerprint": "6cbc970e67f8959db8798afcebc060b270d10461",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-v-pentagonu-se-schyluje-ke-vzpoure-proti-ministru-hegsethovi-40606186",
-      "published_utc": "2026-11-03T05:00:00Z",
-      "title_en": "V Pentagonu se schyluje ke vzpouře proti ministru Hegsethovi",
-      "lead_en": "Americký ministr obrany Pete Hegseth čelí v Pentagonu tiše se rodící vzpouře, která představuje vážnou hrozbu pro jeho setrvání ve funkci. Podle deníku Daily Mail spiklenci již shromáždili důkazy, které hodlají použít k tomu, aby Hegsetha donutili odstoupit z funkce, nebo aby byl proti němu zahájen impeachment.",
-      "title_raw": "V Pentagonu se schyluje ke vzpouře proti ministru Hegsethovi",
-      "lead_raw": "Americký ministr obrany Pete Hegseth čelí v Pentagonu tiše se rodící vzpouře, která představuje vážnou hrozbu pro jeho setrvání ve funkci. Podle deníku Daily Mail spiklenci již shromáždili důkazy, které hodlají použít k tomu, aby Hegsetha donutili odstoupit z funkce, nebo aby byl proti němu zahájen impeachment.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "fc78652f60301f68aab8f8f0f43221c737f0a23d",
-      "fingerprint": "c7a5b2237737f39c265fb475b6f26620773e4994",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-stavka-ct-rozhlas-2026-online-319281",
-      "published_utc": "2026-11-03T05:00:00Z",
-      "title_en": "V České televizi a rozhlase se stávkuje. Vysílání je omezené",
-      "lead_en": "Do celodenní stávky o půlnoci vstoupili pracovníci České televize a Českého rozhlasu. Nesouhlasí s plánem vlády převést financování pod státní rozpočet.",
-      "title_raw": "V České televizi a rozhlase se stávkuje. Vysílání je omezené",
-      "lead_raw": "Do celodenní stávky o půlnoci vstoupili pracovníci České televize a Českého rozhlasu. Nesouhlasí s plánem vlády převést financování pod státní rozpočet.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "dc06d22ea85019bbf27ed3b4ad422777646965ce",
-      "fingerprint": "7b55e93d1ec009f0c2239ff938795160449899a7",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/volby/usti/litomerice-volby-koalice-mistostarostove-cervin-lenik.A261102_110810_usti-zpravy_imst",
-      "published_utc": "2026-11-03T05:00:00Z",
-      "title_en": "Litoměřická rošáda. Do zastupitelstva se nedostali, přitom mají být místostarosty",
-      "lead_en": "Dva ze tří politiků, kteří se v Litoměřicích chystají usednout do křesel místostarostů, nezískali v nedávných komunálních volbách dostatečný počet hlasů, aby vůbec byli v zastupitelstvu. Přesto by měli být pověřeni vedením samosprávy, a to poté, co rezignovali řádně zvolení zastupitelé.",
-      "title_raw": "Litoměřická rošáda. Do zastupitelstva se nedostali, přitom mají být místostarosty",
-      "lead_raw": "Dva ze tří politiků, kteří se v Litoměřicích chystají usednout do křesel místostarostů, nezískali v nedávných komunálních volbách dostatečný počet hlasů, aby vůbec byli v zastupitelstvu. Přesto by měli být pověřeni vedením samosprávy, a to poté, co rezignovali řádně zvolení zastupitelé.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "686f1d02b171ea89866f34b009314f2ceca866a0",
-      "fingerprint": "ce556c5718fec0addfa01316ae74327a214dbbde",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-5-59-mimoradna-chamtivost-v-nemecku-padly-tresty-za-vyvoz-odpadu-do-ceska-319291",
-      "published_utc": "2026-11-03T04:59:00Z",
-      "title_en": "Chamtivost, pláč a omluvy. Německý soud trestal za vývoz odpadu do Česka",
-      "lead_en": "Co dělat s odpadem, který nedokážete řádně zpracovat? Odvézt ho do Česka.",
-      "title_raw": "Chamtivost, pláč a omluvy. Německý soud trestal za vývoz odpadu do Česka",
-      "lead_raw": "Co dělat s odpadem, který nedokážete řádně zpracovat? Odvézt ho do Česka.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "57dafbe2ec1b397b7e3d0f7a404c720b1834a281",
-      "fingerprint": "a552a0f261fc402f66b58563e9983fc753652bf7",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/prvni-schuze-snemovny-po-nocni-bitve-o-poplatky-nechci-konflikty-rekl-babis.A261103_045326_domaci_kop",
-      "published_utc": "2026-11-03T04:48:00Z",
-      "title_en": "Poslanci se sejdou poprvé po noční bitvě o poplatky. Nechci konflikty, řekl Babiš",
-      "lead_en": "Poslanci se sejdou na první schůzi Sněmovny po bouřlivém nočním jednání o zrušení poplatků pro Českou televizi a Český rozhlas. Vyvrcholilo hlasováním, které nařídila koalice na 4:36 v sobotu ráno.",
-      "title_raw": "Poslanci se sejdou poprvé po noční bitvě o poplatky. Nechci konflikty, řekl Babiš",
-      "lead_raw": "Poslanci se sejdou na první schůzi Sněmovny po bouřlivém nočním jednání o zrušení poplatků pro Českou televizi a Český rozhlas. Vyvrcholilo hlasováním, které nařídila koalice na 4:36 v sobotu ráno.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "19a0b3c28a01bea83ac0c36cc91ada74d62727ac",
-      "fingerprint": "954dd0b760798c143a8828c9ede8f74375c848a1",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-po-solarnich-panelech-zdrazuji-i-baterie-cina-meni-pravidla-hry-319202",
-      "published_utc": "2026-11-03T04:30:00Z",
-      "title_en": "Po solárních panelech zdražují i baterie. Čína mění pravidla hry",
-      "lead_en": "Doba levných čínských baterií končí. Zákazníci v Evropě si připlatí kvůli ukončení exportní vratky, kterou Peking nabízel tamním firmám, ale i růstu cen lithia.",
-      "title_raw": "Po solárních panelech zdražují i baterie. Čína mění pravidla hry",
-      "lead_raw": "Doba levných čínských baterií končí. Zákazníci v Evropě si připlatí kvůli ukončení exportní vratky, kterou Peking nabízel tamním firmám, ale i růstu cen lithia.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "e046114caeedb013304b7d44c9c91c3f3e5911bd",
-      "fingerprint": "3db1bda94fe39443ae4e08d6be4e8918ca86d0c2",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-hotel-plavba-wellness-pracovni-cesta-exsefa-pojistovny-vysla-na-pul-milionu-319169",
-      "published_utc": "2026-11-03T04:00:00Z",
-      "title_en": "Pracovní cesta s manželkami. Za tři noci ve Švýcarsku zaplatila PVZP půl milionu",
-      "lead_en": "Bývalý šéf Pojišťovny VZP Robert Kareš byl loni na čtyřdenní služební cestě ve Švýcarsku. Stála téměř půl milionu korun.",
-      "title_raw": "Pracovní cesta s manželkami. Za tři noci ve Švýcarsku zaplatila PVZP půl milionu",
-      "lead_raw": "Bývalý šéf Pojišťovny VZP Robert Kareš byl loni na čtyřdenní služební cestě ve Švýcarsku. Stála téměř půl milionu korun.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "9a407e1b5dc372df488cdd689fb9bfbbf2a9d3f7",
-      "fingerprint": "46775d6ef1c9ac4f15f9ba4e7acf088b2f5de601",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/automobilky-vyzyvaji-zakonodarce-v-usa-k-trvalemu-zakazu-cinskych-aut/2896480",
-      "published_utc": "2026-11-03T02:30:00Z",
-      "title_en": "Automobilky vyzývají zákonodárce v USA k trvalému zákazu čínských aut",
-      "lead_en": "Washington - Skupina reprezentující významné automobilky působící ve Spojených státech vyzvala americké zákonodárce, aby příští týden schválili trvalý zákaz čínských automobilů v USA. Informovala o tom...",
-      "title_raw": "Automobilky vyzývají zákonodárce v USA k trvalému zákazu čínských aut",
-      "lead_raw": "Washington - Skupina reprezentující významné automobilky působící ve Spojených státech vyzvala americké zákonodárce, aby příští týden schválili trvalý zákaz čínských automobilů v USA. Informovala o tom...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "2a80918268849d56e3eaeae4499fa5b399d6d37a",
-      "fingerprint": "2a4fca4c6f55aa48ce2d96b14ce62fc3344e1147",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-usa-uderily-na-iransky-ostrov-kesm-uvedl-wsj-40606234",
-      "published_utc": "2026-11-03T01:15:13Z",
-      "title_en": "USA udeřily na íránský ostrov Kešm, uvedl WSJ",
-      "lead_en": "USA podle zdrojů The Wall Street Journal podnikly údery na íránský ostrov Kešm v Hormuzském průlivu. Íránská agentura IRNA ohlásila několik explozí.",
-      "title_raw": "USA udeřily na íránský ostrov Kešm, uvedl WSJ",
-      "lead_raw": "USA podle zdrojů The Wall Street Journal podnikly údery na íránský ostrov Kešm v Hormuzském průlivu. Íránská agentura IRNA ohlásila několik explozí.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
     }
   ]
 }
