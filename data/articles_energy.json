@@ -1,10 +1,123 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-05T13:36:12Z",
+  "updated_at_utc": "2026-11-05T20:51:34Z",
   "topic": "energy",
-  "count": 40,
+  "count": 35,
   "articles": [
+    {
+      "id": "a7ba5fa37e68d1264b6793e457ef75200b34981b",
+      "fingerprint": "f842611989e4ba7ef1539b3902e10338c13cb62a",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/praha/zpravy/zdenek-pelc-nehoda-alkohol-smrt-soud-trestni-stihani-nejvyssi-soud.A261105_185055_praha-zpravy_iri",
+      "published_utc": "2026-11-05T19:08:00Z",
+      "title_en": "Pelc chtěl po smrtelné nehodě dohodu o vině, žalobkyně nereagovala, píše NS",
+      "lead_en": "Miliardář a někdejší šéf loděnické továrny na gramodesky Zdeněk Pelc, který podle policie zavinil loni v létě pod vlivem alkoholu smrtelnou nehodu, chtěl před podáním obžaloby uzavřít dohodu o vině a trestu, na což rakovnická státní zástupkyně nereagovala. Plyne to z usnesení Nejvyššího soudu (NS) zveřejněném na úřední desce.",
+      "title_raw": "Pelc chtěl po smrtelné nehodě dohodu o vině, žalobkyně nereagovala, píše NS",
+      "lead_raw": "Miliardář a někdejší šéf loděnické továrny na gramodesky Zdeněk Pelc, který podle policie zavinil loni v létě pod vlivem alkoholu smrtelnou nehodu, chtěl před podáním obžaloby uzavřít dohodu o vině a trestu, na což rakovnická státní zástupkyně nereagovala. Plyne to z usnesení Nejvyššího soudu (NS) zveřejněném na úřední desce.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "c5270430b3a742a26843ebad88b75da05961339e",
+      "fingerprint": "f7ded986e976594d710153535e05bf50b06ec1ae",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/expert-letecka-doprava-bomba-vyhruzka-letiste-aerolinky-hrozba.A261105_160451_domaci_linh",
+      "published_utc": "2026-11-05T17:11:00Z",
+      "title_en": "Výhrůžky bombou v letadle se mohou brát jako vtip a inspirovat další, říká expert",
+      "lead_en": "Dokázat propašovat bombu do letadla je podle experta na leteckou dopravu Petra Kováče velmi nepravděpodobné. Přesto i minimální riziko stačí k tomu, aby aerolinky začaly hledat možnost co nejrychlejšího přistání.",
+      "title_raw": "Výhrůžky bombou v letadle se mohou brát jako vtip a inspirovat další, říká expert",
+      "lead_raw": "Dokázat propašovat bombu do letadla je podle experta na leteckou dopravu Petra Kováče velmi nepravděpodobné. Přesto i minimální riziko stačí k tomu, aby aerolinky začaly hledat možnost co nejrychlejšího přistání.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "4a53e7c4a81166349e05b58cad2ebe5f8d926203",
+      "fingerprint": "27b41ffe9902759ea9b901b458598acb211e8035",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-pavel-navrhuje-obdobu-marshallova-planu-pro-povalecnou-ukrajinu-40607053",
+      "published_utc": "2026-11-05T17:04:41Z",
+      "title_en": "Pavel navrhuje obdobu Marshallova plánu pro poválečnou Ukrajinu",
+      "lead_en": "Evropa by měla předem připravit rozsáhlý plán poválečné obnovy Ukrajiny, který by mohl fungovat podobně jako Marshallův plán po druhé světové válce. Po summitu Visegrádské čtyřky v Trenčíně to ve čtvrtek řekl prezident Petr Pavel.",
+      "title_raw": "Pavel navrhuje obdobu Marshallova plánu pro poválečnou Ukrajinu",
+      "lead_raw": "Evropa by měla předem připravit rozsáhlý plán poválečné obnovy Ukrajiny, který by mohl fungovat podobně jako Marshallův plán po druhé světové válce. Po summitu Visegrádské čtyřky v Trenčíně to ve čtvrtek řekl prezident Petr Pavel.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "3446689e5052a4a881655bc1cf998987b835dfdd",
+      "fingerprint": "2279636416fc66e0e82d7e6a1e489e214b78c4bd",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/v-nezdenicich-na-uherskobrodsku-pokaceli-zhruba-30-stromu-pri-bourkam-padaly-na_2611051450_aru",
+      "published_utc": "2026-11-05T13:50:00Z",
+      "title_en": "V Nezdenicích na Uherskobrodsku pokáceli zhruba 30 stromů. Při bouřkách padaly na elektrické vedení",
+      "lead_en": "Obyvatele Nezdenic a Záhorovic na Uherskohradišťsku by už neměly postihovat časté výpadky dodávek elektrické energie. Vedení Nezdenic totiž nechalo pokácet zhruba třicet vzrostlých stromů v okolí potoka Kladenka, které při větším větru či bouřkách padaly na elektrické vedení.",
+      "title_raw": "V Nezdenicích na Uherskobrodsku pokáceli zhruba 30 stromů. Při bouřkách padaly na elektrické vedení",
+      "lead_raw": "Obyvatele Nezdenic a Záhorovic na Uherskohradišťsku by už neměly postihovat časté výpadky dodávek elektrické energie. Vedení Nezdenic totiž nechalo pokácet zhruba třicet vzrostlých stromů v okolí potoka Kladenka, které při větším větru či bouřkách padaly na elektrické vedení.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e875f6e1ac026f40fe0bebfda4f9bf645bf2a67f",
+      "fingerprint": "1c19b75b3fd7593d339a045026b7e3e545c794ef",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/spalovna-odpadu-v-ceperce-na-pardubicku-bude-stat-temer-66-miliardy/2897860",
+      "published_utc": "2026-11-05T13:36:00Z",
+      "title_en": "Spalovna odpadu v Čeperce na Pardubicku bude stát téměř 6,6 miliardy",
+      "lead_en": "Opatovice nad Labem (Pardubicko) - Společnost Elektrárny Opatovice podepsala smlouvu na stavbu spalovny odpadu v katastru obce Čeperka na Pardubicku. Stavbu zařízení pro energetické využití odpadu (ZEVO)...",
+      "title_raw": "Spalovna odpadu v Čeperce na Pardubicku bude stát téměř 6,6 miliardy",
+      "lead_raw": "Opatovice nad Labem (Pardubicko) - Společnost Elektrárny Opatovice podepsala smlouvu na stavbu spalovny odpadu v katastru obce Čeperka na Pardubicku. Stavbu zařízení pro energetické využití odpadu (ZEVO)...",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "8ab468007fe9c30a7fe196d0f5e070caf6d32596",
       "fingerprint": "cfa907a1b20da2768840b27cb7c544b24e5c8e4b",
@@ -666,230 +779,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 3,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "dfc17e5fff4b386f1c38d8885404af3af9dbe149",
-      "fingerprint": "511fd689f41ddbe28af2fc378fadeaa17dcb6531",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-na-brnensku-ho-zase-pristihli-za-volantem-porusil-14-zakaz-rizeni-40606344",
-      "published_utc": "2026-11-03T18:46:04Z",
-      "title_en": "Na Brněnsku ho zase přistihli za volantem. Porušil 14. zákaz řízení",
-      "lead_en": "Rekordmana z řad řidičů-potížistů přistihli v uplynulých dnech při řízení policisté ve Zbýšově na Brněnsku a nestačili se divit. Řidiče se rozhodli zkontrolovat, protože jim byl povědomý kvůli užívání drog.",
-      "title_raw": "Na Brněnsku ho zase přistihli za volantem. Porušil 14. zákaz řízení",
-      "lead_raw": "Rekordmana z řad řidičů-potížistů přistihli v uplynulých dnech při řízení policisté ve Zbýšově na Brněnsku a nestačili se divit. Řidiče se rozhodli zkontrolovat, protože jim byl povědomý kvůli užívání drog.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "d879cbe0fdd6332f01b79a54c17c549a54b9b7cd",
-      "fingerprint": "1ad600f5dbb6568db2874dfb849d7bfaf37f0528",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-po-vybuchu-propanbutanove-lahve-horelo-v-bytovem-dome-v-sumperku-40606507",
-      "published_utc": "2026-11-03T17:32:51Z",
-      "title_en": "Po výbuchu propanbutanové lahve hořelo v bytovém domě v Šumperku",
-      "lead_en": "Dvě zraněné osoby si vyžádal požár bytu v bytovém domě v Šumperku. Oba lidi a spolu s nimi ještě jednoho člověka hasiči z objektu museli evakuovat.",
-      "title_raw": "Po výbuchu propanbutanové lahve hořelo v bytovém domě v Šumperku",
-      "lead_raw": "Dvě zraněné osoby si vyžádal požár bytu v bytovém domě v Šumperku. Oba lidi a spolu s nimi ještě jednoho člověka hasiči z objektu museli evakuovat.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "energy",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "68243f131bb5aef984cc0ecf9486e591aafc69d3",
-      "fingerprint": "40f8efdbfa3f0a63b78ea4b2d2eb745cbdc82eda",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-dav-utocil-na-policisty-zpravy-o-tyrani-vojaku-u-kyjeva-rozpoutaly-nepokoje-40606358",
-      "published_utc": "2026-11-03T17:14:29Z",
-      "title_en": "Dav útočil na policisty. Zprávy o týrání vojáků u Kyjeva rozpoutaly nepokoje",
-      "lead_en": "V obci Petropavlivská Borščahivka v Kyjevské oblasti v pondělí vypukly nepokoje. Způsobily je šířící se zprávy o tom, že jsou v jednom z tamních domů nezákonně zadržováni a mučeni vojáci Národní gardy.",
-      "title_raw": "Dav útočil na policisty. Zprávy o týrání vojáků u Kyjeva rozpoutaly nepokoje",
-      "lead_raw": "V obci Petropavlivská Borščahivka v Kyjevské oblasti v pondělí vypukly nepokoje. Způsobily je šířící se zprávy o tom, že jsou v jednom z tamních domů nezákonně zadržováni a mučeni vojáci Národní gardy.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ed08174ff99cfc79ebbb8066b7b49ef214b8695d",
-      "fingerprint": "40ad21e666216383dc0d443df3c9461d0c552e10",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/olomouc/zpravy/pozar-vybuch-propan-butanove-lahve-bytovy-dum-sumperk-hasici.A261103_175442_olomouc-zpravy_slv",
-      "published_utc": "2026-11-03T17:03:00Z",
-      "title_en": "V Šumperku hořelo v bytě po výbuchu plynové lahve, dva lidé se zranili",
-      "lead_en": "Požár po výbuchu propan-butanové lahve likvidovali v úterý odpoledne hasiči v třípatrovém bytovém domě v Šumperku. Z bytu evakuovali tři lidi, dva z nich se zranili.",
-      "title_raw": "V Šumperku hořelo v bytě po výbuchu plynové lahve, dva lidé se zranili",
-      "lead_raw": "Požár po výbuchu propan-butanové lahve likvidovali v úterý odpoledne hasiči v třípatrovém bytovém domě v Šumperku. Z bytu evakuovali tři lidi, dva z nich se zranili.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "energy",
-        "local_events"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e3c9cfa2278caf0b2da091943005ba8e27235f18",
-      "fingerprint": "d7e6cb880d31c11edcbb35a86cc6328946ae09e7",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/polsko-ustavni-soud-krize-vlada-donald-tusk-opozice-rusko.A261103_113326_zahranicni_kha",
-      "published_utc": "2026-11-03T16:07:00Z",
-      "title_en": "Kolaps, jako Majdan! Soudní krize v Polsku zburcovala Kreml i proruské síly",
-      "lead_en": "Ruská propaganda po krizi kolem polského ústavního soudu skočila jako slepice po flusu. V posledních týdnech Moskva přichází o jednoho spojence po druhém, po Maďarsku se situace mění i v Srbsku a nové téma se tak náramně hodí.",
-      "title_raw": "Kolaps, jako Majdan! Soudní krize v Polsku zburcovala Kreml i proruské síly",
-      "lead_raw": "Ruská propaganda po krizi kolem polského ústavního soudu skočila jako slepice po flusu. V posledních týdnech Moskva přichází o jednoho spojence po druhém, po Maďarsku se situace mění i v Srbsku a nové téma se tak náramně hodí.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "51c16aa78a8231f906cf37506673db6944271e6d",
-      "fingerprint": "94bbbd4f787ca67212b59f77aee84ed5ed4db8b7",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-datacentra-uz-dnes-spotrebuji-elektrinu-z-28-temelinu-do-roku-2030-odber-jeste-zdvojnasobi-40606037",
-      "published_utc": "2026-11-03T15:20:53Z",
-      "title_en": "Datacentra dnes spotřebují elektřinu z 28 Temelínů, do roku 2030 odběr ještě zdvojnásobí",
-      "lead_en": "Datová centra, která zajišťují chod webů, aplikací, internetových služeb i umělé inteligence, spotřebovala loni po světě 485 terawatthodin elektřiny a do roku 2030 se jejich odběr podle Mezinárodní agentury pro energii téměř zdvojnásobí. Už loni odpovídala jejich spotřeba výrobě tří desítek jaderných elektráren o výkonu Temelína.",
-      "title_raw": "Datacentra dnes spotřebují elektřinu z 28 Temelínů, do roku 2030 odběr ještě zdvojnásobí",
-      "lead_raw": "Datová centra, která zajišťují chod webů, aplikací, internetových služeb i umělé inteligence, spotřebovala loni po světě 485 terawatthodin elektřiny a do roku 2030 se jejich odběr podle Mezinárodní agentury pro energii téměř zdvojnásobí. Už loni odpovídala jejich spotřeba výrobě tří desítek jaderných elektráren o výkonu Temelína.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "a53481a39687fc5345d77ad8c9c451a04f30fb8d",
-      "fingerprint": "5ce2e2a11cb440d7dcc5a24b34545ad03be5ea16",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/mpo-pripravuje-novou-sluzbu-na-zajisteni-dostupnosti-plynu-pro-pripad-krize/2896845",
-      "published_utc": "2026-11-03T15:04:00Z",
-      "title_en": "MPO připravuje novou službu na zajištění dostupnosti plynu pro případ krize",
-      "lead_en": "Praha - Ministerstvo průmyslu a obchodu (MPO) připravuje novou službu pro zajištění dostupnosti plynu pro Českou republiku. Služba by měla být prevencí pro případ krize.",
-      "title_raw": "MPO připravuje novou službu na zajištění dostupnosti plynu pro případ krize",
-      "lead_raw": "Praha - Ministerstvo průmyslu a obchodu (MPO) připravuje novou službu pro zajištění dostupnosti plynu pro Českou republiku. Služba by měla být prevencí pro případ krize.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "3c6e20316ac7672f11d37b5acd524f4eabfd8161",
-      "fingerprint": "7889cd819a1700d57e33768af85ae1768ed9d71a",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-akcie-fondy-trh-hleda-viteze-ery-ai-jenze-kdo-vlastne-zavodi-319266",
-      "published_utc": "2026-11-03T14:40:00Z",
-      "title_en": "Trh hledá vítěze éry AI. Jenže kdo vlastně závodí?",
-      "lead_en": "Čipy, software, energetika, biotechnologie. Umělá inteligence zasahuje stále více oborů, a tak se nabízí otázka, co v současnosti vlastně znamená investovat do AI akcií.",
-      "title_raw": "Trh hledá vítěze éry AI. Jenže kdo vlastně závodí?",
-      "lead_raw": "Čipy, software, energetika, biotechnologie. Umělá inteligence zasahuje stále více oborů, a tak se nabízí otázka, co v současnosti vlastně znamená investovat do AI akcií.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "7940a90f9297a285403ccf2edd99baa97b07a6ba",
-      "fingerprint": "128b9a75af1b4c71fbb0bd19594a712900de9bcf",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-nejbohatsi-lide-kretinsky-a-tkac-uspeli-v-nemeckych-aukcich-postavi-sedm-elektraren-319493",
-      "published_utc": "2026-11-03T14:15:00Z",
-      "title_en": "Křetínský a Tkáč uspěli v německých aukcích. Postaví sedm elektráren",
-      "lead_en": "Německá firma Leag, kterou ovládá EP Energy Transition Daniela Křetínského a Patrika Tkáče, získala v první kapacitní aukci v Německu sedm nových plynových bloků. Podobné soutěže se chystají i v Česku.",
-      "title_raw": "Křetínský a Tkáč uspěli v německých aukcích. Postaví sedm elektráren",
-      "lead_raw": "Německá firma Leag, kterou ovládá EP Energy Transition Daniela Křetínského a Patrika Tkáče, získala v první kapacitní aukci v Německu sedm nových plynových bloků. Podobné soutěže se chystají i v Česku.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "a5c651b03877225ff5c0e4cc0fadcb77a9f1e64f",
-      "fingerprint": "321ddd10ff631dff67bc9d2a84ce7a6cb3d84da1",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/rusko-ekonomika-domacnosti-energie-teplo-elektrina-voda.A261103_121844_eko-zahranicni_jla",
-      "published_utc": "2026-11-03T14:00:00Z",
-      "title_en": "Jako hospodyňky za časů SSSR, zoufají si Rusové. Přestávají zvládat rostoucí ceny energií",
-      "lead_en": "Ruským domácnostem dál rostou životní náklady. Za vodu, elektřinu a teplo platí od začátku války na Ukrajině o více než polovinu více.",
-      "title_raw": "Jako hospodyňky za časů SSSR, zoufají si Rusové. Přestávají zvládat rostoucí ceny energií",
-      "lead_raw": "Ruským domácnostem dál rostou životní náklady. Za vodu, elektřinu a teplo platí od začátku války na Ukrajině o více než polovinu více.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
         "economy": 0,
         "local_events": 0
       },
