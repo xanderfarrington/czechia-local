@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-04T18:18:07Z",
+  "updated_at_utc": "2026-11-05T00:00:01Z",
   "topic": "local_events",
   "count": 13,
   "articles": [
+    {
+      "id": "7e45a5682bf733657f15110ad97be98659c3f684",
+      "fingerprint": "e1d835d2e2142927aee49cb2ffe629d371f54453",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/aiwanger-bavorsky-vicepremier-zemrel-hotel-berlin-bavorsko.A261104_220838_zahranicni_linh",
+      "published_utc": "2026-11-04T21:25:00Z",
+      "title_en": "Zemřel bavorský vicepremiér. Našli ho v berlínském hotelu",
+      "lead_en": "Bavorského vicepremiéra a ministra hospodářství Huberta Aiwangera našli mrtvého v hotelu v centru Berlína. Informoval o tom deník Bild s odvoláním na zdroje z bavorské vlády a berlínské policie.",
+      "title_raw": "Zemřel bavorský vicepremiér. Našli ho v berlínském hotelu",
+      "lead_raw": "Bavorského vicepremiéra a ministra hospodářství Huberta Aiwangera našli mrtvého v hotelu v centru Berlína. Informoval o tom deník Bild s odvoláním na zdroje z bavorské vlády a berlínské policie.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "482d61859d913913d62e5d27a25d6c0b8706a886",
       "fingerprint": "ac7e047dd829ec51faa19e72d3439edcf25528a6",
@@ -267,29 +289,6 @@
         "local_events": 3
       },
       "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "a3c91ea98e75be726f153143dff1dfc8a4208461",
-      "fingerprint": "0e1854073b479253376231f9e62d243b265db1c9",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/pocasi-kanary-zasahly-silne-bourky-statisice-bez-elektriny-na-teide-snih-40606180",
-      "published_utc": "2026-11-02T21:13:27Z",
-      "title_en": "Kanáry zasáhly silné bouřky. Statisíce lidí bez elektřiny, na Teide sníh",
-      "lead_en": "Kanárské ostrovy zasáhly v neděli prudké bouřky s přívalovými dešti. Zejména na Tenerife způsobily lokální záplavy a sesuvy půdy.",
-      "title_raw": "Kanáry zasáhly silné bouřky. Statisíce lidí bez elektřiny, na Teide sníh",
-      "lead_raw": "Kanárské ostrovy zasáhly v neděli prudké bouřky s přívalovými dešti. Zejména na Tenerife způsobily lokální záplavy a sesuvy půdy.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "energy",
         "local_events"
       ],
       "primary_topic": "local_events"

@@ -1,10 +1,77 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-04T18:18:07Z",
+  "updated_at_utc": "2026-11-05T00:00:01Z",
   "topic": "energy",
-  "count": 35,
+  "count": 34,
   "articles": [
+    {
+      "id": "56b57299b44ec6f45f3f21e9fcce2c7ff3911f49",
+      "fingerprint": "e38e471a6482ea92c98a9f600199b97e651a8684",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/zlate-vazky-rozdavaly-ceny-za-socialni-podnikani-osobnosti-roku-je-zuzana-dudakova-379285",
+      "published_utc": "2026-11-04T19:14:13Z",
+      "title_en": "Zlaté vážky rozdávaly ceny za sociální podnikání, osobností roku je Zuzana Dudáková",
+      "lead_en": "Vítězkou ceny Zlatá vážka 2026 v&nbsp;kategorii Osobnost roku se ve středu stala Zuzana Dudáková, zakladatelka Modrého domečku ve středočeských Řevnicích. Před 20 lety začínal jako kavárna se šesti zaměstnanci se zdravotním postižením, dnes jich mají přes padesát a&nbsp;provoz se rozšířil i&nbsp;o&nbsp;gastrovýrobu, obchod a&nbsp;pekárnu.",
+      "title_raw": "Zlaté vážky rozdávaly ceny za sociální podnikání, osobností roku je Zuzana Dudáková",
+      "lead_raw": "Vítězkou ceny Zlatá vážka 2026 v&nbsp;kategorii Osobnost roku se ve středu stala Zuzana Dudáková, zakladatelka Modrého domečku ve středočeských Řevnicích. Před 20 lety začínal jako kavárna se šesti zaměstnanci se zdravotním postižením, dnes jich mají přes padesát a&nbsp;provoz se rozšířil i&nbsp;o&nbsp;gastrovýrobu, obchod a&nbsp;pekárnu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "a60c59e2ea2da0ce2e2bcb1c7ea25de3eb357fa8",
+      "fingerprint": "a0a1501bb9aa54491f74a63c343fd021af2c595f",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/umela-inteligence-datova-centra-plynove-elektrarny-emise.A261103_103826_eko-zahranicni_rie",
+      "published_utc": "2026-11-04T19:00:00Z",
+      "title_en": "AI žene spotřebu elektřiny vzhůru. Z hlediska klimatu je to katastrofa, varují někteří",
+      "lead_en": "Rozmach umělé inteligence prudce zvyšuje spotřebu elektřiny v datových centrech. Technologičtí giganti jako Amazon, Microsoft, Google či Meta proto mimo jiné sázejí na výstavbu obřích plynových elektráren, které dokážou zajistit potřebnou energii rychleji než například nové jaderné zdroje.",
+      "title_raw": "AI žene spotřebu elektřiny vzhůru. Z hlediska klimatu je to katastrofa, varují někteří",
+      "lead_raw": "Rozmach umělé inteligence prudce zvyšuje spotřebu elektřiny v datových centrech. Technologičtí giganti jako Amazon, Microsoft, Google či Meta proto mimo jiné sázejí na výstavbu obřích plynových elektráren, které dokážou zajistit potřebnou energii rychleji než například nové jaderné zdroje.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "505e685ce69ce6d39ba3a44c519b773cfc119985",
+      "fingerprint": "25886138ab59ad69b03c7d75213fa30080183181",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/rekordni-navstevnost-v-olomouckem-kraji-nejvice-tahnou-zoo-termaly-a_2611041931_tez",
+      "published_utc": "2026-11-04T18:31:00Z",
+      "title_en": "Rekordní návštěvnost v Olomouckém kraji. Nejvíce táhnou zoo, termály a přečerpávací elektrárna",
+      "lead_en": "Zhruba 816 tisíc lidí navštívilo loni Olomoucký kraj. Je to nejvíce za celou dobu sledování návštěvnosti regionu.",
+      "title_raw": "Rekordní návštěvnost v Olomouckém kraji. Nejvíce táhnou zoo, termály a přečerpávací elektrárna",
+      "lead_raw": "Zhruba 816 tisíc lidí navštívilo loni Olomoucký kraj. Je to nejvíce za celou dobu sledování návštěvnosti regionu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "745facee90c6052936fdb4f8b58e4911c2dc1eb2",
       "fingerprint": "eaa2b05c7ad0abdf52ab87e3ecf735d85cce8121",
@@ -683,96 +750,6 @@
       "lead_en": "Ruské vojenské choutky neuspokojí případný zisk ukrajinského Donbasu, varoval za zavřenými dveřmi americký ministr zahraničí Marco Rubio evropské představitele. Informovalo o tom Rádio Svobodná Evropa/Rádio Svoboda (RFE/RL), a to v době, kdy USA žádají evropské země, aby mírnily rétoriku vůči Rusku.",
       "title_raw": "Putin se na Donbase nezastaví, varoval Rubio Evropu",
       "lead_raw": "Ruské vojenské choutky neuspokojí případný zisk ukrajinského Donbasu, varoval za zavřenými dveřmi americký ministr zahraničí Marco Rubio evropské představitele. Informovalo o tom Rádio Svobodná Evropa/Rádio Svoboda (RFE/RL), a to v době, kdy USA žádají evropské země, aby mírnily rétoriku vůči Rusku.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "a3c91ea98e75be726f153143dff1dfc8a4208461",
-      "fingerprint": "0e1854073b479253376231f9e62d243b265db1c9",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/pocasi-kanary-zasahly-silne-bourky-statisice-bez-elektriny-na-teide-snih-40606180",
-      "published_utc": "2026-11-02T21:13:27Z",
-      "title_en": "Kanáry zasáhly silné bouřky. Statisíce lidí bez elektřiny, na Teide sníh",
-      "lead_en": "Kanárské ostrovy zasáhly v neděli prudké bouřky s přívalovými dešti. Zejména na Tenerife způsobily lokální záplavy a sesuvy půdy.",
-      "title_raw": "Kanáry zasáhly silné bouřky. Statisíce lidí bez elektřiny, na Teide sníh",
-      "lead_raw": "Kanárské ostrovy zasáhly v neděli prudké bouřky s přívalovými dešti. Zejména na Tenerife způsobily lokální záplavy a sesuvy půdy.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "energy",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "11a915b7acd38e045022112f9f7753f76d234a85",
-      "fingerprint": "d672d65fd0f8d52f39bf32c09367735a80eb9dab",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-rusko-chysta-rozsahly-vzdusny-utok-na-ukrajinu-uvedl-zelenskyj-40606224",
-      "published_utc": "2026-11-02T21:08:56Z",
-      "title_en": "Rusko chystá rozsáhlý vzdušný útok na Ukrajinu, uvedl Zelenskyj",
-      "lead_en": "Rusko připravuje nový rozsáhlý vzdušný útok na Ukrajinu, který bude zaměřený především na energetiku a logistiku, uvedl ukrajinský prezident Volodymyr Zelenskyj. Moskva podle něj spoléhá na to, že se pozornost světa v úterý upře k americkým volbám do Kongresu a dění na Ukrajině bude do značné míry přehlédnuto.",
-      "title_raw": "Rusko chystá rozsáhlý vzdušný útok na Ukrajinu, uvedl Zelenskyj",
-      "lead_raw": "Rusko připravuje nový rozsáhlý vzdušný útok na Ukrajinu, který bude zaměřený především na energetiku a logistiku, uvedl ukrajinský prezident Volodymyr Zelenskyj. Moskva podle něj spoléhá na to, že se pozornost světa v úterý upře k americkým volbám do Kongresu a dění na Ukrajině bude do značné míry přehlédnuto.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "288b02db8b23b267bf1cb2f3d73ec8aee30b77f9",
-      "fingerprint": "00c626f75bed21cba45016e5161193f9b5f520ea",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/ceny-energii-stoupaji-lide-si-priplati-za-plyn-elektrinu-i-topne-drevo-379245",
-      "published_utc": "2026-11-02T19:20:23Z",
-      "title_en": "Ceny energií stoupají. Lidé si připlatí za plyn, elektřinu i topné dřevo",
-      "lead_en": "Velkoobchodní cena zemního plynu se pohybuje kolem 95 eur za megawatthodinu (MWh), je tak nejvyšší od konce roku 2022. Na začátku letošního roku stála MWh plynu kolem 30 eur.",
-      "title_raw": "Ceny energií stoupají. Lidé si připlatí za plyn, elektřinu i topné dřevo",
-      "lead_raw": "Velkoobchodní cena zemního plynu se pohybuje kolem 95 eur za megawatthodinu (MWh), je tak nejvyšší od konce roku 2022. Na začátku letošního roku stála MWh plynu kolem 30 eur.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "dbdecee4e4e7b8cd4880a4c3d68116552f74d976",
-      "fingerprint": "23a98bd687f2bba90b38b1587cd211f95f488750",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/ruska-stihacka-vybuch-achtubinsk-letiste-ukrajinska-rozvedka-hur-sankce-palivo.A261102_192958_zahranicni_linh",
-      "published_utc": "2026-11-02T19:13:00Z",
-      "title_en": "Mohlo za to špatné palivo? Moderní ruská stíhačka vybuchla při spouštění motorů",
-      "lead_en": "Na ruském vojenském letišti Achtubinsk podle ukrajinské vojenské rozvědky vybuchla stíhačka Su-57. Incident se měl odehrát 29.",
-      "title_raw": "Mohlo za to špatné palivo? Moderní ruská stíhačka vybuchla při spouštění motorů",
-      "lead_raw": "Na ruském vojenském letišti Achtubinsk podle ukrajinské vojenské rozvědky vybuchla stíhačka Su-57. Incident se měl odehrát 29.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,

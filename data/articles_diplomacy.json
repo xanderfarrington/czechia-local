@@ -1,10 +1,55 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-04T18:18:07Z",
+  "updated_at_utc": "2026-11-05T00:00:01Z",
   "topic": "diplomacy",
-  "count": 46,
+  "count": 47,
   "articles": [
+    {
+      "id": "0d14a2ed13115dfe08e8fc16dc2b6018a50eb2cf",
+      "fingerprint": "2d6213a8c5c78274e4381bc9d43c81d34e793da3",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/v-praze-se-dnes-sejdou-nove-zvoleni-zastupitele-vedeni-mesta-volit-nebudou/2897568",
+      "published_utc": "2026-11-04T23:07:00Z",
+      "title_en": "V Praze se dnes sejdou nově zvolení zastupitelé, vedení města volit nebudou",
+      "lead_en": "Praha - V Praze se dnes poprvé sejde nově zvolené zastupitelstvo. Ustavující schůze se koná od 09:00, podle vyjádření lídra vítězného hnutí STAN Petra Hlaváčka je však v plánu kvůli pokračujícím jednáním...",
+      "title_raw": "V Praze se dnes sejdou nově zvolení zastupitelé, vedení města volit nebudou",
+      "lead_raw": "Praha - V Praze se dnes poprvé sejde nově zvolené zastupitelstvo. Ustavující schůze se koná od 09:00, podle vyjádření lídra vítězného hnutí STAN Petra Hlaváčka je však v plánu kvůli pokračujícím jednáním...",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "738b4153bf777e551ff80603a1d3ccf8052f43fb",
+      "fingerprint": "307266ce4765e73b26a4fca237d7da8719630bfe",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/prezidenti-v4-guverneri-centralni-banky-ekonomika-v-regionu.A261104_191259_zahranicni_linh",
+      "published_utc": "2026-11-04T19:22:00Z",
+      "title_en": "Prezidenti V4 zahájili summit v Trenčíně. Jednali s guvernéry centrálních bank",
+      "lead_en": "Prezidenti zemí visegrádské čtyřky (V4) ve středu vpodvečer zahájili ve slovenském Trenčíně dvoudenní summit. Na úvod se setkali s guvernéry centrálních bank všech čtyř zemí, se kterými diskutovali o ekonomických výzvách středoevropského regionu.",
+      "title_raw": "Prezidenti V4 zahájili summit v Trenčíně. Jednali s guvernéry centrálních bank",
+      "lead_raw": "Prezidenti zemí visegrádské čtyřky (V4) ve středu vpodvečer zahájili ve slovenském Trenčíně dvoudenní summit. Na úvod se setkali s guvernéry centrálních bank všech čtyř zemí, se kterými diskutovali o ekonomických výzvách středoevropského regionu.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "74074f5f3a2605cde6e185d796b45e509967de2a",
       "fingerprint": "2a67961a377b2be5c29535eb36aaa20307178389",
@@ -995,28 +1040,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 1
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "4826db4ad514a1992b7623a7bcf6721acb954c14",
-      "fingerprint": "767ed0671663ca49b3d4515d70b80743bc73f433",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-dohoda-s-iranem-by-mohla-byt-na-dosah-prohlasil-donald-trump-40606227",
-      "published_utc": "2026-11-02T21:59:21Z",
-      "title_en": "Dohoda s Íránem by mohla být na dosah, prohlásil Donald Trump",
-      "lead_en": "Americký prezident Donald Trump prohlásil, že dohoda mezi Washingtonem a Teheránem by mohla být na dosah. Děje se tak v době obav, že by se konflikt mohl po amerických volbách do Kongresu 3.",
-      "title_raw": "Dohoda s Íránem by mohla být na dosah, prohlásil Donald Trump",
-      "lead_raw": "Americký prezident Donald Trump prohlásil, že dohoda mezi Washingtonem a Teheránem by mohla být na dosah. Děje se tak v době obav, že by se konflikt mohl po amerických volbách do Kongresu 3.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
       },
       "topics": [
         "diplomacy"
