@@ -1,10 +1,55 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-05T05:26:39Z",
+  "updated_at_utc": "2026-11-05T13:36:12Z",
   "topic": "local_events",
   "count": 13,
   "articles": [
+    {
+      "id": "e737fb00e155e0f4e6e300fb8cc03b3f8cd788f3",
+      "fingerprint": "5f803026728f3390f7e8b7d7ec450fcb5e658297",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-zautocilo-u-kyjeva-ukrajinci-podle-medii-zasahli-rafinerii-v-rjazani-379299",
+      "published_utc": "2026-11-05T07:47:47Z",
+      "title_en": "Rusko zaútočilo u Kyjeva. Ukrajinci podle úřadů zasáhli rafinerii v Rjazani",
+      "lead_en": "Ukrajinští záchranáři ráno hasili požár, který vznikl po ruském útoku na logistickou infrastrukturu v&nbsp;okrese Buča u&nbsp;Kyjeva, oznámila Státní služba pro mimořádné situace (DSNS). Zranění při něm utrpěl jeden člověk.",
+      "title_raw": "Rusko zaútočilo u Kyjeva. Ukrajinci podle úřadů zasáhli rafinerii v Rjazani",
+      "lead_raw": "Ukrajinští záchranáři ráno hasili požár, který vznikl po ruském útoku na logistickou infrastrukturu v&nbsp;okrese Buča u&nbsp;Kyjeva, oznámila Státní služba pro mimořádné situace (DSNS). Zranění při něm utrpěl jeden člověk.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "d939e7328236f9f1dc82b51aaef6e8938b4f9227",
+      "fingerprint": "660033c6e7418b1644339d57499917faf0eff552",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/osobni-auto-v-brne-srazilo-na-prechodu-chodkyni-zena-zemrela/2897609",
+      "published_utc": "2026-11-05T06:54:00Z",
+      "title_en": "Osobní auto v Brně srazilo na přechodu chodkyni, žena zemřela",
+      "lead_en": "Brno - Osobní auto dnes ráno srazilo na přechodu pro chodce v Seifertově ulici v brněnské části Lesná šestasedmdesátiletou chodkyni. Záchranáři ženu ošetřili, zraněním ale při převozu do nemocnice podlehla....",
+      "title_raw": "Osobní auto v Brně srazilo na přechodu chodkyni, žena zemřela",
+      "lead_raw": "Brno - Osobní auto dnes ráno srazilo na přechodu pro chodce v Seifertově ulici v brněnské části Lesná šestasedmdesátiletou chodkyni. Záchranáři ženu ošetřili, zraněním ale při převozu do nemocnice podlehla....",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "7e45a5682bf733657f15110ad97be98659c3f684",
       "fingerprint": "e1d835d2e2142927aee49cb2ffe629d371f54453",
@@ -237,50 +282,6 @@
       "lead_en": "V úterý odpoledne se v obci Čelákovice na silnici číslo 245 stala vážná dopravní nehoda, při které se střetl osobní automobil s nákladním vozem převážejícím cihly. K události došlo krátce po čtrnácté hodině a vyžádala si zásah všech složek integrovaného záchranného systému.",
       "title_raw": "Auto se srazilo s náklaďákem s cihlami. Jeden z řidičů při nehodě zemřel",
       "lead_raw": "V úterý odpoledne se v obci Čelákovice na silnici číslo 245 stala vážná dopravní nehoda, při které se střetl osobní automobil s nákladním vozem převážejícím cihly. K události došlo krátce po čtrnácté hodině a vyžádala si zásah všech složek integrovaného záchranného systému.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "e54b436313314e22008e7bb05024591d0468ed83",
-      "fingerprint": "a84c2167e56422efd91fc38ab83a29aa3cda3da4",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/investuji-do-katastrof-bohaci-maji-z-klimaticke-krize-prospech-varuje-charita.A261027_135129_zahranicni_dvou",
-      "published_utc": "2026-11-03T08:40:00Z",
-      "title_en": "Investují do katastrof. Boháči mají z klimatické krize prospěch, varuje charita",
-      "lead_en": "Požáry, záplavy, vlny veder. Jevy, které doprovázejí klimatickou změnu, negativně ovlivňují životy lidí po celém světě.",
-      "title_raw": "Investují do katastrof. Boháči mají z klimatické krize prospěch, varuje charita",
-      "lead_raw": "Požáry, záplavy, vlny veder. Jevy, které doprovázejí klimatickou změnu, negativně ovlivňují životy lidí po celém světě.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "ea39325c033ae3d9bb613d46ee33831847c6e0b8",
-      "fingerprint": "aca2048fa33b19d0510b526b7fd0e7ca411f13eb",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-pri-havarii-tryskace-na-floride-zahynul-podnikatel-s-celou-rodinou-40606254",
-      "published_utc": "2026-11-03T08:28:13Z",
-      "title_en": "Při havárii tryskáče na Floridě zahynul podnikatel s celou rodinou",
-      "lead_en": "Mezi devíti oběťmi nedělní letecké katastrofy v americkém státě Florida byl texaský podnikatel s manželkou a dvěma malými dětmi. Zřícený soukromý tryskáč směřující z texaského Austinu na Bahamy mu patřil.",
-      "title_raw": "Při havárii tryskáče na Floridě zahynul podnikatel s celou rodinou",
-      "lead_raw": "Mezi devíti oběťmi nedělní letecké katastrofy v americkém státě Florida byl texaský podnikatel s manželkou a dvěma malými dětmi. Zřícený soukromý tryskáč směřující z texaského Austinu na Bahamy mu patřil.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,

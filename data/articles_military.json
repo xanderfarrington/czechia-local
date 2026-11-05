@@ -1,10 +1,366 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-05T05:26:39Z",
+  "updated_at_utc": "2026-11-05T13:36:12Z",
   "topic": "military",
-  "count": 29,
+  "count": 41,
   "articles": [
+    {
+      "id": "8ab468007fe9c30a7fe196d0f5e070caf6d32596",
+      "fingerprint": "cfa907a1b20da2768840b27cb7c544b24e5c8e4b",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-rusove-posilaji-na-ukrajinu-drony-s-propagandistickymi-letaky-a-nebezpecnymi-qr-kody-40606947",
+      "published_utc": "2026-11-05T13:24:31Z",
+      "title_en": "Rusové posílají na Ukrajinu drony s propagandistickými letáky a nebezpečnými QR kódy",
+      "lead_en": "Ruská armáda začala využívat bezpilotní letouny k šíření propagandistických materiálů a potenciálně nebezpečných QR kódů. Ty by mohly sloužit ke sběru osobních údajů ukrajinských občanů nebo k infikování jejich mobilních zařízení.",
+      "title_raw": "Rusové posílají na Ukrajinu drony s propagandistickými letáky a nebezpečnými QR kódy",
+      "lead_raw": "Ruská armáda začala využívat bezpilotní letouny k šíření propagandistických materiálů a potenciálně nebezpečných QR kódů. Ty by mohly sloužit ke sběru osobních údajů ukrajinských občanů nebo k infikování jejich mobilních zařízení.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "61f08bbb9aaa8804c2aed216a721b76cc4d611ce",
+      "fingerprint": "96b489d84e5643c05b768722c5cba99f6a97a8b5",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/analyza-vysledku-voleb-v-usa-muze-novy-kongres-zastavit-trumpovy-vojenske-operace-379289",
+      "published_utc": "2026-11-05T13:24:27Z",
+      "title_en": "Analýza výsledků voleb v USA: Může nový Kongres zastavit Trumpovy vojenské operace?",
+      "lead_en": "Volební výsledky v&nbsp;USA přinesly výrazný posun na politické mapě, kde opoziční demokraté ovládli obě komory Kongresu. Bývalý diplomat, autor a&nbsp;psycholog Michael Žantovský v&nbsp;podcastu Za Horizont rozebírá příčiny této proměny, roli prezidenta Donalda Trumpa i&nbsp;vliv ekonomických faktorů a&nbsp;zahraniční politiky.",
+      "title_raw": "Analýza výsledků voleb v USA: Může nový Kongres zastavit Trumpovy vojenské operace?",
+      "lead_raw": "Volební výsledky v&nbsp;USA přinesly výrazný posun na politické mapě, kde opoziční demokraté ovládli obě komory Kongresu. Bývalý diplomat, autor a&nbsp;psycholog Michael Žantovský v&nbsp;podcastu Za Horizont rozebírá příčiny této proměny, roli prezidenta Donalda Trumpa i&nbsp;vliv ekonomických faktorů a&nbsp;zahraniční politiky.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "84369a03886fe79fd6fddd297c3dffcd389b0be3",
+      "fingerprint": "f007ad8eb9a67495dc34e5715df919764d82fab2",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/konference-prague-security-2026-hnuti-ano-institut-pro-politiku-a-spolecnost.A261105_052215_domaci_kop",
+      "published_utc": "2026-11-05T13:10:00Z",
+      "title_en": "Babiš chce posílit protivzdušnou obranu. Nemáme moc čas, varuje Šedivý",
+      "lead_en": "Válka na Ukrajině podle premiéra Andreje Babiše ukázala, že ochrana vzdušného prostoru se stala jedním z rozhodujících faktorů bezpečnosti státu. Hovořil o tom na konferenci Prague Security Dialogue 2026 věnované bezpečnosti.",
+      "title_raw": "Babiš chce posílit protivzdušnou obranu. Nemáme moc čas, varuje Šedivý",
+      "lead_raw": "Válka na Ukrajině podle premiéra Andreje Babiše ukázala, že ochrana vzdušného prostoru se stala jedním z rozhodujících faktorů bezpečnosti státu. Hovořil o tom na konferenci Prague Security Dialogue 2026 věnované bezpečnosti.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "07470f3e6149000e4d11f21c401da5bf5999f3e1",
+      "fingerprint": "d54214c748ef728b373211119f3e00888e9e77c5",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/polsko-odhalilo-skupinu-podezrelou-z-aktivit-ve-prospech-ruska.A261105_131128_zahranicni_sile",
+      "published_utc": "2026-11-05T12:55:00Z",
+      "title_en": "Polsko zadrželo skupinu, kterou podezřívá z aktivit ve prospěch ruských služeb",
+      "lead_en": "Polská kontrarozvědka (ABW) zadržela šest lidí, z nichž čtyři jsou podezřelí z aktivit ve prospěch ruských tajných služeb. Podle vyšetřovatelů tito lidé nelegálně dodávali do Ruska velké množství materiálu vojenského určení používaného k výrobě munice a zbraňových systémů.",
+      "title_raw": "Polsko zadrželo skupinu, kterou podezřívá z aktivit ve prospěch ruských služeb",
+      "lead_raw": "Polská kontrarozvědka (ABW) zadržela šest lidí, z nichž čtyři jsou podezřelí z aktivit ve prospěch ruských tajných služeb. Podle vyšetřovatelů tito lidé nelegálně dodávali do Ruska velké množství materiálu vojenského určení používaného k výrobě munice a zbraňových systémů.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "3f5c236df889c0ff805e346529f271d182df626b",
+      "fingerprint": "671fea369fc46738b7efe336d1eca601a8185351",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/internet-a-pc-bezpecnost-francouzska-banka-se-stala-tercem-hackeru-podle-medii-odcerpali-100-milionu-eur-40606973",
+      "published_utc": "2026-11-05T12:47:45Z",
+      "title_en": "Hackeři vysáli účet francouzské banky. Ve hře jsou miliardy korun",
+      "lead_en": "Francouzská regionální banka Crédit Mutuel Arkéa se stala terčem kybernetického útoku, oznámila to ve středeční tiskové zprávě. Podle médií došlo k podvodným transakcím za více než 100 milionů eur (2,43 miliardy Kč).",
+      "title_raw": "Hackeři vysáli účet francouzské banky. Ve hře jsou miliardy korun",
+      "lead_raw": "Francouzská regionální banka Crédit Mutuel Arkéa se stala terčem kybernetického útoku, oznámila to ve středeční tiskové zprávě. Podle médií došlo k podvodným transakcím za více než 100 milionů eur (2,43 miliardy Kč).",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "b128378921151dfbc6a5c960a13f6e06b6dac01c",
+      "fingerprint": "520e58339a3eb57e166296103260cdaa397054a9",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/ctyri-letadla-mirici-do-prahy-celila-hrozbam-prohlidky-vybusniny-nepotvrdily-379311",
+      "published_utc": "2026-11-05T12:46:49Z",
+      "title_en": "Čtyři letadla mířící do Prahy čelila hrozbám, prohlídky výbušniny nepotvrdily",
+      "lead_en": "Čtyři letadla mířící do Prahy čelila ve čtvrtek anonymním bombovým výhrůžkám. Policisté spolu s&nbsp;pracovníky Letiště Václava Havla aktivovali nastavená bezpečnostní opatření, i&nbsp;když závažnost hrozeb hodnotili jako nízkou.",
+      "title_raw": "Čtyři letadla mířící do Prahy čelila hrozbám, prohlídky výbušniny nepotvrdily",
+      "lead_raw": "Čtyři letadla mířící do Prahy čelila ve čtvrtek anonymním bombovým výhrůžkám. Policisté spolu s&nbsp;pracovníky Letiště Václava Havla aktivovali nastavená bezpečnostní opatření, i&nbsp;když závažnost hrozeb hodnotili jako nízkou.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "e51db00b28d0fcd5a00d96c1dd5453d90e9834ff",
+      "fingerprint": "311ec68d5c91dc84f49a73750f08d7ea1177b46e",
+      "source": "Radio Prague International (EN)",
+      "url": "https://english.radio.cz/more-czechs-turning-ai-health-advice-doctors-warn-against-relying-chatbots-8901821",
+      "published_utc": "2026-11-05T11:28:00Z",
+      "title_en": "More Czechs turning to AI for health advice; doctors warn against relying on chatbots",
+      "lead_en": "More people in Czechia are turning to artificial intelligence for health advice, including mental health support. While chatbots can help explain medical information and give basic advice on minor ailments, doctors warn that relying on them for diagnoses or treatment decisions can be dangerous.",
+      "title_raw": "More Czechs turning to AI for health advice; doctors warn against relying on chatbots",
+      "lead_raw": "More people in Czechia are turning to artificial intelligence for health advice, including mental health support. While chatbots can help explain medical information and give basic advice on minor ailments, doctors warn that relying on them for diagnoses or treatment decisions can be dangerous.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "bcc3ea9c968d7cdb5e0f3450fe310b3da2477927",
+      "fingerprint": "e00641910b288bed7b0d2b4c804de398e8f91bf9",
+      "source": "Radio Prague International (EN)",
+      "url": "https://english.radio.cz/use-artificial-intelligence-among-czech-companies-doubles-one-year-8901818",
+      "published_utc": "2026-11-05T11:22:00Z",
+      "title_en": "Use of artificial intelligence among Czech companies doubles in one year",
+      "lead_en": "Use of artificial intelligence among Czech companies doubles in one year",
+      "title_raw": "Use of artificial intelligence among Czech companies doubles in one year",
+      "lead_raw": "Use of artificial intelligence among Czech companies doubles in one year",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "3110610ad3ec8b1d6ba3d13ddcc7d1363fc95d0e",
+      "fingerprint": "78e61aed2adaaf3f6854d1fa2622e318a747eef5",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/babis-cesko-prodalo-srbsku-sest-letounu-l39-skyfox/2897733",
+      "published_utc": "2026-11-05T11:03:00Z",
+      "title_en": "Babiš: Česko prodalo Srbsku šest letounů L-39 Skyfox",
+      "lead_en": "Praha - Česko prodalo Srbsku šest letounů L-39 Skyfox, které vyrábí společnost Aero Vodochody. Premiér Andrej Babiš (ANO) to dnes řekl na bezpečnostní konferenci Prague Security Dialogue v Praze.",
+      "title_raw": "Babiš: Česko prodalo Srbsku šest letounů L-39 Skyfox",
+      "lead_raw": "Praha - Česko prodalo Srbsku šest letounů L-39 Skyfox, které vyrábí společnost Aero Vodochody. Premiér Andrej Babiš (ANO) to dnes řekl na bezpečnostní konferenci Prague Security Dialogue v Praze.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "d9b644c359dc918dbac6581c2e863883a8730863",
+      "fingerprint": "c7861193e9112bd50e05222869149a9b75dc9838",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/ctyri-letadla-mirici-do-prahy-celila-bombove-hrozbe-policie-se-chysta-na_2611051123_ako",
+      "published_utc": "2026-11-05T10:23:00Z",
+      "title_en": "Čtyři letadla mířící do Prahy čelila bombové hrozbě. Prohlédli je pyrotechnici, nic ale nenašli",
+      "lead_en": "Čtyři letadla mířící do Prahy ve čtvrtek čelila bombové hrozbě. Policie na sociální síti X uvedla, že společně s pražským letištěm proto aktivovala všechna nezbytná bezpečnostní opatření s co nejmenším dopadem na cestující a provoz.",
+      "title_raw": "Čtyři letadla mířící do Prahy čelila bombové hrozbě. Prohlédli je pyrotechnici, nic ale nenašli",
+      "lead_raw": "Čtyři letadla mířící do Prahy ve čtvrtek čelila bombové hrozbě. Policie na sociální síti X uvedla, že společně s pražským letištěm proto aktivovala všechna nezbytná bezpečnostní opatření s co nejmenším dopadem na cestující a provoz.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "b6be35986fdf45003feb0c7c894ba7b21352cf34",
+      "fingerprint": "9938c71a5ce4d9955d07ffa9976fcada014850fc",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/polsko-zadrzelo-sest-lidi-podezrelych-z-aktivit-ve-prospech-ruskych-tajnych-sluzeb-379305",
+      "published_utc": "2026-11-05T09:53:47Z",
+      "title_en": "Polsko zadrželo šest lidí podezřelých z aktivit ve prospěch ruských tajných služeb",
+      "lead_en": "Polská kontrarozvědka (ABW) zadržela šest lidí podezřelých z&nbsp;aktivit ve prospěch ruských tajných služeb, oznámil ve čtvrtek na síti X Tomasz Siemoniak, ministr odpovědný za koordinaci polských tajných služeb. Podle vyšetřovatelů tito lidé nelegálně dodávali do Ruska velké množství materiálu vojenského určení používaného k&nbsp;výrobě munice a&nbsp;zbraňových systémů.",
+      "title_raw": "Polsko zadrželo šest lidí podezřelých z aktivit ve prospěch ruských tajných služeb",
+      "lead_raw": "Polská kontrarozvědka (ABW) zadržela šest lidí podezřelých z&nbsp;aktivit ve prospěch ruských tajných služeb, oznámil ve čtvrtek na síti X Tomasz Siemoniak, ministr odpovědný za koordinaci polských tajných služeb. Podle vyšetřovatelů tito lidé nelegálně dodávali do Ruska velké množství materiálu vojenského určení používaného k&nbsp;výrobě munice a&nbsp;zbraňových systémů.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "b62107f1bc25cdf09ac1229878aa06d38a07949f",
+      "fingerprint": "914bf19a1dee8564d12431118b4b37e6eecc0cd6",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-babis-chce-zdanit-dalsi-odvetvi-prave-jedna-s-bankami-319768",
+      "published_utc": "2026-11-05T09:45:19Z",
+      "title_en": "Babiš chce zdanit další odvětví. Jednal s bankami",
+      "lead_en": "Vláda hledá další odvětví, kterým by mohla sáhnout na zisky a pomoci tak státnímu rozpočtu. V úvahu připadají banky, zbrojaři, energetické a digitální firmy.",
+      "title_raw": "Babiš chce zdanit další odvětví. Jednal s bankami",
+      "lead_raw": "Vláda hledá další odvětví, kterým by mohla sáhnout na zisky a pomoci tak státnímu rozpočtu. V úvahu připadají banky, zbrojaři, energetické a digitální firmy.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "9505a447a123f9c500b5bda2e22f40dd0da9bec1",
+      "fingerprint": "c52a6ea2dea0c23e207e5d0312786f6a00031a73",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-princ-harry-s-manzelkou-budou-v-bruselu-debatovat-o-bezpecnosti-deti-on-line-319767",
+      "published_utc": "2026-11-05T09:34:14Z",
+      "title_en": "Princ Harry s manželkou budou v Bruselu debatovat o bezpečnosti dětí online",
+      "lead_en": "V Evropském parlamentu bude princ Harry mimo jiné diskutovat o tom, jak dosavadní legislativní závazky v oblasti ochrany dětí na internetu proměnit v účinná opatření.",
+      "title_raw": "Princ Harry s manželkou budou v Bruselu debatovat o bezpečnosti dětí online",
+      "lead_raw": "V Evropském parlamentu bude princ Harry mimo jiné diskutovat o tom, jak dosavadní legislativní závazky v oblasti ochrany dětí na internetu proměnit v účinná opatření.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "40d90762b5e451df0cd4c130c98d9e49acc0e54f",
+      "fingerprint": "af8af339c93b6b2cc8e005011240d7dcf1b86a10",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/babis-vlada-planuje-obsadit-pozici-poradce-pro-narodni-bezpecnost/2897649",
+      "published_utc": "2026-11-05T09:12:00Z",
+      "title_en": "Babiš: Vláda plánuje obsadit pozici poradce pro národní bezpečnost",
+      "lead_en": "Praha - Vláda obsadí pozici poradce pro národní bezpečnost, hledá někoho, kdo by měl zkušenosti a byl připraven okamžitě funkci vykonávat. Na konferenci Prague Security Dialogue to dnes řekl premiér Andrej...",
+      "title_raw": "Babiš: Vláda plánuje obsadit pozici poradce pro národní bezpečnost",
+      "lead_raw": "Praha - Vláda obsadí pozici poradce pro národní bezpečnost, hledá někoho, kdo by měl zkušenosti a byl připraven okamžitě funkci vykonávat. Na konferenci Prague Security Dialogue to dnes řekl premiér Andrej...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1c1ab8fa704235cc149520b1636ea20dd37da985",
+      "fingerprint": "cbf4b84e4595e1d55404aebdd99f30826f2038ee",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-hongkong-odsoudil-ikonickou-tvar-hnuti-za-demokracii-dostal-10-let-vezeni-314413",
+      "published_utc": "2026-11-05T06:10:00Z",
+      "title_en": "Naděje zemřela. Čína napodruhé ničí život mladého člověka",
+      "lead_en": "Před 12 lety hleděl z obálky časopisu Time jako „tvář protestu“. Dnes je Joshua Wong jediným hongkongským aktivistou, kterého úřady stíhaly podle zákona o národní bezpečnosti už podruhé.",
+      "title_raw": "Naděje zemřela. Čína napodruhé ničí život mladého člověka",
+      "lead_raw": "Před 12 lety hleděl z obálky časopisu Time jako „tvář protestu“. Dnes je Joshua Wong jediným hongkongským aktivistou, kterého úřady stíhaly podle zákona o národní bezpečnosti už podruhé.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "0df19521432f9ca764d832c6cee9a5306c6300e9",
+      "fingerprint": "9a4fe5389920fea40826c8ae4ade8e5cac0ff6b2",
+      "source": "Radio Prague International (EN)",
+      "url": "https://english.radio.cz/prime-minister-babis-and-cabinet-ministers-address-prague-security-conference-8901773",
+      "published_utc": "2026-11-05T05:39:00Z",
+      "title_en": "Prime Minister Babiš and cabinet ministers to address Prague security conference",
+      "lead_en": "Prime Minister Babiš and cabinet ministers to address Prague security conference",
+      "title_raw": "Prime Minister Babiš and cabinet ministers to address Prague security conference",
+      "lead_raw": "Prime Minister Babiš and cabinet ministers to address Prague security conference",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "5813625b23fff63bbd4f170da838a6fda0ebbe7f",
       "fingerprint": "2e894828b8621ef198cc26f8895e41b5138b94a9",
@@ -560,97 +916,6 @@
         "military"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "5844c7a41c8fb6554534857258e23f5a5a43ab44",
-      "fingerprint": "93f2fdd93fe9cd0267a6f82d033a4d1179d3eba3",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/koudelka-trestni-soud-poprve-v-historii-potvrdil-informace-bis/2896534",
-      "published_utc": "2026-11-03T08:49:00Z",
-      "title_en": "Koudelka: Trestní soud poprvé v historii potvrdil informace BIS",
-      "lead_en": "Praha - Trestní soud poprvé v historii potvrdil v odůvodnění rozsudku informace Bezpečnostní informační služby (BIS), uvedl dnes její ředitel Michal Koudelka na jednání sněmovního bezpečnostního výboru....",
-      "title_raw": "Koudelka: Trestní soud poprvé v historii potvrdil informace BIS",
-      "lead_raw": "Praha - Trestní soud poprvé v historii potvrdil v odůvodnění rozsudku informace Bezpečnostní informační služby (BIS), uvedl dnes její ředitel Michal Koudelka na jednání sněmovního bezpečnostního výboru....",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "dedd53808f098e74891cc6e361607eb07ac4c675",
-      "fingerprint": "5414b29dc3f44b715bcdd3da82ce3fd6c5917d34",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-valka-boje.A261103_070943_zahranicni_pluh",
-      "published_utc": "2026-11-03T07:59:00Z",
-      "title_en": "Moskva zaútočila na ukrajinskou energetiku, Kyjev zasáhl ruskou rafinerii",
-      "lead_en": "Ruské síly v noci na úterý podnikly rozsáhlé údery na energetickou infrastrukturu v ukrajinské Dněpropetrovské, Charkovské a Vinnycké oblasti. V úterý ráno to na síti Telegram oznámilo ruské ministerstvo obrany.",
-      "title_raw": "Moskva zaútočila na ukrajinskou energetiku, Kyjev zasáhl ruskou rafinerii",
-      "lead_raw": "Ruské síly v noci na úterý podnikly rozsáhlé údery na energetickou infrastrukturu v ukrajinské Dněpropetrovské, Charkovské a Vinnycké oblasti. V úterý ráno to na síti Telegram oznámilo ruské ministerstvo obrany.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "dae21733c03a69ee2db99c31e3026e122dc3487c",
-      "fingerprint": "ba5334dd2a4f92ed2d7f74cd2642d1dc719177fd",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-evropske-mirove-jednotky-na-ukrajine-by-dostaly-povoleni-opetovat-ruskou-palbu-40606246",
-      "published_utc": "2026-11-03T07:13:37Z",
-      "title_en": "Evropské mírové jednotky na Ukrajině by dostaly povolení opětovat ruskou palbu",
-      "lead_en": "Evropské mírové jednotky nasazené na Ukrajině v rámci mírového urovnání současného konfliktu by měly povoleno opětovat případnou ruskou palbu. S odkazem na zdroje z řad západních představitelů o tom informuje deník The Guardian.",
-      "title_raw": "Evropské mírové jednotky na Ukrajině by dostaly povolení opětovat ruskou palbu",
-      "lead_raw": "Evropské mírové jednotky nasazené na Ukrajině v rámci mírového urovnání současného konfliktu by měly povoleno opětovat případnou ruskou palbu. S odkazem na zdroje z řad západních představitelů o tom informuje deník The Guardian.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "f675b496556bbfe918460f67b59b7fedf043e80a",
-      "fingerprint": "76a7d6682c4079ed0875090d107afb2cbfb8bc1b",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-putin-se-na-donbase-nezastavi-varoval-rubio-evropu-40606065",
-      "published_utc": "2026-11-03T06:22:37Z",
-      "title_en": "Putin se na Donbase nezastaví, varoval Rubio Evropu",
-      "lead_en": "Ruské vojenské choutky neuspokojí případný zisk ukrajinského Donbasu, varoval za zavřenými dveřmi americký ministr zahraničí Marco Rubio evropské představitele. Informovalo o tom Rádio Svobodná Evropa/Rádio Svoboda (RFE/RL), a to v době, kdy USA žádají evropské země, aby mírnily rétoriku vůči Rusku.",
-      "title_raw": "Putin se na Donbase nezastaví, varoval Rubio Evropu",
-      "lead_raw": "Ruské vojenské choutky neuspokojí případný zisk ukrajinského Donbasu, varoval za zavřenými dveřmi americký ministr zahraničí Marco Rubio evropské představitele. Informovalo o tom Rádio Svobodná Evropa/Rádio Svoboda (RFE/RL), a to v době, kdy USA žádají evropské země, aby mírnily rétoriku vůči Rusku.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }
