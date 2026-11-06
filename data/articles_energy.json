@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-05T20:51:34Z",
+  "updated_at_utc": "2026-11-06T01:13:54Z",
   "topic": "energy",
   "count": 35,
   "articles": [
+    {
+      "id": "91b8dbf4e73607240b444bb50bc42451b030efb5",
+      "fingerprint": "554961a3ae7afcf42d17b2fca1f9b0ef0e3a7700",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-akcie-fondy-demokrate-vydesili-wall-street-americke-akcie-padaji-319835",
+      "published_utc": "2026-11-05T20:54:26Z",
+      "title_en": "Demokraté vyděsili Wall Street. Americké akcie padají",
+      "lead_en": "Ve středu euforie, ve čtvrtek výplach. Americké akcie prudce propadají, nejvíce krvácejí výrobci čipů.",
+      "title_raw": "Demokraté vyděsili Wall Street. Americké akcie padají",
+      "lead_raw": "Ve středu euforie, ve čtvrtek výplach. Americké akcie prudce propadají, nejvíce krvácejí výrobci čipů.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "a7ba5fa37e68d1264b6793e457ef75200b34981b",
       "fingerprint": "f842611989e4ba7ef1539b3902e10338c13cb62a",
@@ -758,28 +780,6 @@
         "military": 0,
         "energy": 1,
         "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "a1fc5937dd19326b9995638b89450e444d7f8f33",
-      "fingerprint": "9f7b0bef3f7adaf8bc2c6d2c055d6138a268b684",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/domaci/norsko-plyn-equinor-evropska-komise.A261103_153245_ekonomika_hyk",
-      "published_utc": "2026-11-03T23:00:00Z",
-      "title_en": "Evropa potřebuje norský plyn. Nevadí, že se v budoucnu začne těžit i v Arktidě",
-      "lead_en": "Evropská unie v minulosti odmítala fosilní paliva ze severu Norska. Ještě v roce 2021 se zavázala, že bude prosazovat mezinárodní zákaz nových vrtů v Arktidě.",
-      "title_raw": "Evropa potřebuje norský plyn. Nevadí, že se v budoucnu začne těžit i v Arktidě",
-      "lead_raw": "Evropská unie v minulosti odmítala fosilní paliva ze severu Norska. Ještě v roce 2021 se zavázala, že bude prosazovat mezinárodní zákaz nových vrtů v Arktidě.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
         "local_events": 0
       },
       "topics": [
