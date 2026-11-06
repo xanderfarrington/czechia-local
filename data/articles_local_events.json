@@ -1,10 +1,33 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-06T16:23:38Z",
+  "updated_at_utc": "2026-11-06T21:50:04Z",
   "topic": "local_events",
-  "count": 11,
+  "count": 10,
   "articles": [
+    {
+      "id": "1c9404646312098dda911b6159b2a1c1e608513c",
+      "fingerprint": "8b5edf45ac699d0a77bc46db952b20bdf97fc0f7",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-to-byly-nase-stihacky-uklidnuje-srbske-ministerstvo-obrany-40607307",
+      "published_utc": "2026-11-06T18:05:26Z",
+      "title_en": "To byly naše stíhačky, uklidňuje srbské ministerstvo obrany",
+      "lead_en": "Hlasité zvuky připomínající výbuchy vyděsily v pátek obyvatele srbského regionu Šumadija. Srbské ministerstvo obrany v reakci na záplavu telefonátů na krizové linky přispěchalo s vysvětlením, že je způsobily dvě srbské stíhačky při překonávání zvukové bariéry.",
+      "title_raw": "To byly naše stíhačky, uklidňuje srbské ministerstvo obrany",
+      "lead_raw": "Hlasité zvuky připomínající výbuchy vyděsily v pátek obyvatele srbského regionu Šumadija. Srbské ministerstvo obrany v reakci na záplavu telefonátů na krizové linky přispěchalo s vysvětlením, že je způsobily dvě srbské stíhačky při překonávání zvukové bariéry.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "c32c35160b5bba1692da83d422e3acf12cc341c8",
       "fingerprint": "d8b3103569d43e25e78dec1358205b3dfbfc29a7",
@@ -198,50 +221,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "7e45a5682bf733657f15110ad97be98659c3f684",
-      "fingerprint": "e1d835d2e2142927aee49cb2ffe629d371f54453",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/aiwanger-bavorsky-vicepremier-zemrel-hotel-berlin-bavorsko.A261104_220838_zahranicni_linh",
-      "published_utc": "2026-11-04T21:25:00Z",
-      "title_en": "Zemřel bavorský vicepremiér. Našli ho v berlínském hotelu",
-      "lead_en": "Bavorského vicepremiéra a ministra hospodářství Huberta Aiwangera našli mrtvého v hotelu v centru Berlína. Informoval o tom deník Bild s odvoláním na zdroje z bavorské vlády a berlínské policie.",
-      "title_raw": "Zemřel bavorský vicepremiér. Našli ho v berlínském hotelu",
-      "lead_raw": "Bavorského vicepremiéra a ministra hospodářství Huberta Aiwangera našli mrtvého v hotelu v centru Berlína. Informoval o tom deník Bild s odvoláním na zdroje z bavorské vlády a berlínské policie.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "482d61859d913913d62e5d27a25d6c0b8706a886",
-      "fingerprint": "ac7e047dd829ec51faa19e72d3439edcf25528a6",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/veda/usa-hlasi-mrtveho-s-ptaci-chripkou-nakazil-se-od-dobytka-379273",
-      "published_utc": "2026-11-04T16:44:29Z",
-      "title_en": "USA hlásí mrtvého s ptačí chřipkou. Nakazil se od dobytka",
-      "lead_en": "Ve státě Washington zemřel Američan na komplikace způsobené ptačí chřipkou. Podle zdravotnických úřadů se jedná o&nbsp;první takový případ úmrtí v&nbsp;USA za poslední rok.",
-      "title_raw": "USA hlásí mrtvého s ptačí chřipkou. Nakazil se od dobytka",
-      "lead_raw": "Ve státě Washington zemřel Američan na komplikace způsobené ptačí chřipkou. Podle zdravotnických úřadů se jedná o&nbsp;první takový případ úmrtí v&nbsp;USA za poslední rok.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
       },
       "topics": [
         "local_events"
