@@ -1,10 +1,77 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-07T07:54:04Z",
+  "updated_at_utc": "2026-11-07T14:27:28Z",
   "topic": "local_events",
-  "count": 9,
+  "count": 12,
   "articles": [
+    {
+      "id": "9153b800639b2af2fa83d81c97fde8e94f02594b",
+      "fingerprint": "a396ff23a791be14247dbcd486b7408084bf6b8b",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/praha/zpravy/nehoda-ctyr-aut-uzavrela-hlavni-tah-z-prahy-na-tabor-jeden-clovek-se-zranil.A261107_144515_praha-zpravy_ichuc",
+      "published_utc": "2026-11-07T13:45:00Z",
+      "title_en": "Nehoda čtyř aut uzavřela hlavní tah z Prahy na Tábor, jeden člověk se zranil",
+      "lead_en": "Nehoda tří osobních a jednoho nákladního automobilu zastavila v sobotu kolem poledne provoz na silnici I/3 u Benešova, která je hlavním tahem z Prahy na Tábor. Při střetu utrpěl jeden člověk lehké zranění.",
+      "title_raw": "Nehoda čtyř aut uzavřela hlavní tah z Prahy na Tábor, jeden člověk se zranil",
+      "lead_raw": "Nehoda tří osobních a jednoho nákladního automobilu zastavila v sobotu kolem poledne provoz na silnici I/3 u Benešova, která je hlavním tahem z Prahy na Tábor. Při střetu utrpěl jeden člověk lehké zranění.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "cf73b1dc333a7a50e88c6ba2d8e52b2e8e8385c7",
+      "fingerprint": "2b9348b2d02a5fba9256b739d44f66d33bb6d3e7",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-evropsti-zalobci-po-nehodach-vysetruji-zneuziti-dotaci-na-spanelskou-zeleznici-319940",
+      "published_utc": "2026-11-07T10:11:00Z",
+      "title_en": "Evropští žalobci po nehodách vyšetřují zneužití dotací na španělskou železnici",
+      "lead_en": "Na španělské vysokorychlostní trati letos při dvou nehodách zemřelo 115 lidí. Evropská prokuratura nyní prověřuje, zda nedošlo ke zneužití unijních dotací určených na modernizaci jejích bezpečnostních systémů.",
+      "title_raw": "Evropští žalobci po nehodách vyšetřují zneužití dotací na španělskou železnici",
+      "lead_raw": "Na španělské vysokorychlostní trati letos při dvou nehodách zemřelo 115 lidí. Evropská prokuratura nyní prověřuje, zda nedošlo ke zneužití unijních dotací určených na modernizaci jejích bezpečnostních systémů.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "e049051dc6dbfc7a37535c4cab5086c3fc5a0999",
+      "fingerprint": "b8470c4d4ff5e8a890279a91be4ff6d8d1eecc8e",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/praha/zpravy/vinohrady-pozar-restaurace.A261107_102034_praha-zpravy_ichuc",
+      "published_utc": "2026-11-07T09:36:00Z",
+      "title_en": "Na Vinohradech hořelo v suterénu restaurace. Jeden člověk se popálil",
+      "lead_en": "Při ranním požáru v suterénu restaurace na pražských Vinohradech se jeden člověk popálil a nadýchal kouře. Záchranáři ho po ošetření převezli do nemocnice.",
+      "title_raw": "Na Vinohradech hořelo v suterénu restaurace. Jeden člověk se popálil",
+      "lead_raw": "Při ranním požáru v suterénu restaurace na pražských Vinohradech se jeden člověk popálil a nadýchal kouře. Záchranáři ho po ošetření převezli do nemocnice.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "1db2b2e9e5e4375911957f428b9aa4b477a0279f",
       "fingerprint": "e49414d3e0ab4a27493984e669793fd842b8a700",
