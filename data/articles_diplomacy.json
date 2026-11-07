@@ -1,10 +1,54 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-07T14:27:28Z",
+  "updated_at_utc": "2026-11-07T19:07:30Z",
   "topic": "diplomacy",
-  "count": 41,
+  "count": 32,
   "articles": [
+    {
+      "id": "0393fd13268278161eabe6dd10a4bfdd196c00f5",
+      "fingerprint": "010722e5c9f9307e232d09d7438c47b784cde4b9",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/mzv-nema-zpravy-o-cesich-na-miste-strelby-v-krakove-babis-vyjadril-podporu/2898752",
+      "published_utc": "2026-11-07T16:38:00Z",
+      "title_en": "MZV nemá zprávy o Češích na místě střelby v Krakově, Babiš vyjádřil podporu",
+      "lead_en": "Praha - Česká diplomacie nemá nyní informace, že by mezi oběťmi či zraněnými po dnešní střelbě v centru polského města Krakova byli čeští občané. ČTK to sdělil mluvčí ministerstva zahraničí Adam Čörgő....",
+      "title_raw": "MZV nemá zprávy o Češích na místě střelby v Krakově, Babiš vyjádřil podporu",
+      "lead_raw": "Praha - Česká diplomacie nemá nyní informace, že by mezi oběťmi či zraněnými po dnešní střelbě v centru polského města Krakova byli čeští občané. ČTK to sdělil mluvčí ministerstva zahraničí Adam Čörgő....",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "7b124396e43a8b00e5e792eadb1194b7c812759b",
+      "fingerprint": "16c6e8ab2a10250bfa865bc5f0a7be48ed78f148",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/debaty-vice-o-obsahu-s-mene-invektivami-popsaly-expoliticky-drivejsi-spory-ve-snemovne-379371",
+      "published_utc": "2026-11-07T15:00:00Z",
+      "title_en": "Debaty více o obsahu s méně invektivami, popsaly expolitičky dřívější spory ve sněmovně",
+      "lead_en": "Jednání mezi koalicí a&nbsp;opozicí ve sněmovně provází poslední dobou spory. Velmi vyhrocené vztahy spolu mají od hlasování o&nbsp;změně financování veřejnoprávních médií.",
+      "title_raw": "Debaty více o obsahu s méně invektivami, popsaly expolitičky dřívější spory ve sněmovně",
+      "lead_raw": "Jednání mezi koalicí a&nbsp;opozicí ve sněmovně provází poslední dobou spory. Velmi vyhrocené vztahy spolu mají od hlasování o&nbsp;změně financování veřejnoprávních médií.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "619569ed70a3655e48a93966b0c4634d28956eb1",
       "fingerprint": "6ef2628b1a1999817ac0481b503b4b5bdf2d6c3b",
@@ -673,251 +717,6 @@
       "topics": [
         "diplomacy",
         "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "fe5353e5c47e4984994c248265ee48f8d2838851",
-      "fingerprint": "56f84ec19bff2ae3cdf087b1b341639ceba881be",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/sport-hokej-iihf-podle-arbitrazniho-soudu-pri-jednani-nepredlozila-dukazy-proti-startu-rusu-319824",
-      "published_utc": "2026-11-05T17:53:50Z",
-      "title_en": "IIHF podle arbitrážního soudu při jednání nepředložila důkazy proti startu Rusů",
-      "lead_en": "Minulý týden v pátek umožnil Rusům startovat na světových soutěžích, dnes se ohradil proti kritice svého rozhodnutí. Sportovní arbitrážní soud tvrdí, že IIHF pro bezpečnostní riziko ruských sportovců nepodala dostatek důkazů.",
-      "title_raw": "IIHF podle arbitrážního soudu při jednání nepředložila důkazy proti startu Rusů",
-      "lead_raw": "Minulý týden v pátek umožnil Rusům startovat na světových soutěžích, dnes se ohradil proti kritice svého rozhodnutí. Sportovní arbitrážní soud tvrdí, že IIHF pro bezpečnostní riziko ruských sportovců nepodala dostatek důkazů.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "d5762e9a943590d46f48df70dfe96f3ecad0c506",
-      "fingerprint": "f5b38f91d14c6b2d7edd05de3858fbf13ebb1e85",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-summit-v4-pavel-vyzval-k-vytvoreni-marshallova-planu-pro-ukrajinu-319820",
-      "published_utc": "2026-11-05T17:28:46Z",
-      "title_en": "Summit V4: Pavel nemá ambici být evropským vyjednavačem pro Ukrajinu",
-      "lead_en": "Prezident Petr Pavel po summitu V4 odmítl ambici stát se hlavním evropským vyjednavačem o míru na Ukrajině. Současně Evropu vyzval k přípravě rozsáhlého plánu poválečné obnovy napadené země.",
-      "title_raw": "Summit V4: Pavel nemá ambici být evropským vyjednavačem pro Ukrajinu",
-      "lead_raw": "Prezident Petr Pavel po summitu V4 odmítl ambici stát se hlavním evropským vyjednavačem o míru na Ukrajině. Současně Evropu vyzval k přípravě rozsáhlého plánu poválečné obnovy napadené země.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "4a53e7c4a81166349e05b58cad2ebe5f8d926203",
-      "fingerprint": "27b41ffe9902759ea9b901b458598acb211e8035",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-pavel-navrhuje-obdobu-marshallova-planu-pro-povalecnou-ukrajinu-40607053",
-      "published_utc": "2026-11-05T17:04:41Z",
-      "title_en": "Pavel navrhuje obdobu Marshallova plánu pro poválečnou Ukrajinu",
-      "lead_en": "Evropa by měla předem připravit rozsáhlý plán poválečné obnovy Ukrajiny, který by mohl fungovat podobně jako Marshallův plán po druhé světové válce. Po summitu Visegrádské čtyřky v Trenčíně to ve čtvrtek řekl prezident Petr Pavel.",
-      "title_raw": "Pavel navrhuje obdobu Marshallova plánu pro poválečnou Ukrajinu",
-      "lead_raw": "Evropa by měla předem připravit rozsáhlý plán poválečné obnovy Ukrajiny, který by mohl fungovat podobně jako Marshallův plán po druhé světové válce. Po summitu Visegrádské čtyřky v Trenčíně to ve čtvrtek řekl prezident Petr Pavel.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "7261d5d9617256cbd6dea6e88d3db870d4de441c",
-      "fingerprint": "43de95fbb98ceb5facba723e27f4702c0481488e",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/volby-komunalni-novym-starostou-litomeric-je-hrbek-z-ods-40607051",
-      "published_utc": "2026-11-05T16:51:09Z",
-      "title_en": "Novým starostou Litoměřic je Hrbek z ODS",
-      "lead_en": "Lídr kandidátky ODS Filip Hrbek je novým starostou Litoměřic, do čela radnice ho svými hlasy ve čtvrtek poslali zastupitelé na svém ustavujícím zasedání. Ve městě se po komunálních volbách dohodli na spolupráci zástupci vítězné ODS spolu s uskupením SEN pro Litoměřice a dvoukoalicí STAN a Sport a Zdraví Litoměřice.",
-      "title_raw": "Novým starostou Litoměřic je Hrbek z ODS",
-      "lead_raw": "Lídr kandidátky ODS Filip Hrbek je novým starostou Litoměřic, do čela radnice ho svými hlasy ve čtvrtek poslali zastupitelé na svém ustavujícím zasedání. Ve městě se po komunálních volbách dohodli na spolupráci zástupci vítězné ODS spolu s uskupením SEN pro Litoměřice a dvoukoalicí STAN a Sport a Zdraví Litoměřice.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "65cfc8aa7a7356fb0575f7e84fb7d2c0f203fc81",
-      "fingerprint": "c28083f081ca344adf3309af17e2e35130d7ddb1",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/povolebni-koalice-jsou-uz-jasne-i-v-decine-nebo-v-litomericich-varnsdorf-bude_2611051245_aru",
-      "published_utc": "2026-11-05T16:45:00Z",
-      "title_en": "Povolební koalice jsou už jasné i v Děčíně nebo v Litoměřicích. Varnsdorf bude mít stejného starostu",
-      "lead_en": "Po říjnových komunálních volbách je ve městech a obcích v Ústeckém kraji jasné, kdo bude stát v jejich čele. Vyjednávání o koalicích je u konce a na řadě jsou ustavující zastupitelstva, kde se budou volit starostové nebo primátoři.",
-      "title_raw": "Povolební koalice jsou už jasné i v Děčíně nebo v Litoměřicích. Varnsdorf bude mít stejného starostu",
-      "lead_raw": "Po říjnových komunálních volbách je ve městech a obcích v Ústeckém kraji jasné, kdo bude stát v jejich čele. Vyjednávání o koalicích je u konce a na řadě jsou ustavující zastupitelstva, kde se budou volit starostové nebo primátoři.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "a6eff9cb8bde9fd525ccc066cb8703e41a87835f",
-      "fingerprint": "fa20c9ce846d4c6004acb5fcfbb9874ab4e98a2e",
-      "source": "Radio Prague International (EN)",
-      "url": "https://english.radio.cz/president-pavel-calls-united-european-approach-ukraine-peace-talks-8901872",
-      "published_utc": "2026-11-05T16:11:00Z",
-      "title_en": "President Pavel calls for united European approach to Ukraine peace talks",
-      "lead_en": "President Pavel calls for united European approach to Ukraine peace talks",
-      "title_raw": "President Pavel calls for united European approach to Ukraine peace talks",
-      "lead_raw": "President Pavel calls for united European approach to Ukraine peace talks",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "e4449e37252fdd894e16d5f931db83310cdf6b39",
-      "fingerprint": "d78a9d6d6e348d40424699a8b961513cfe5bce9b",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/klara-schneiderova-jeruzalem-ceska-diplomatka-izrael.A261105_154035_zahranicni_aya",
-      "published_utc": "2026-11-05T15:57:00Z",
-      "title_en": "Smrt české diplomatky v Jeruzalémě. Video z nehody vzbuzuje pochybnosti o náhodě",
-      "lead_en": "Tragická smrt třicetileté české diplomatky Kláry Schneiderové v Jeruzalémě zpočátku vypadala jako nešťastná dopravní nehoda, při níž řidič ztratil kontrolu nad vozem. Bezpečnostní záznamy z místa činu však vzbuzují pochybnosti.",
-      "title_raw": "Smrt české diplomatky v Jeruzalémě. Video z nehody vzbuzuje pochybnosti o náhodě",
-      "lead_raw": "Tragická smrt třicetileté české diplomatky Kláry Schneiderové v Jeruzalémě zpočátku vypadala jako nešťastná dopravní nehoda, při níž řidič ztratil kontrolu nad vozem. Bezpečnostní záznamy z místa činu však vzbuzují pochybnosti.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "ea1fb1c3bc0e36929564189835409993dac4b084",
-      "fingerprint": "3bc25565579754e45464b083eccce05fa93ae156",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-fico-na-ukrajine-zaslouzite-si-respekt-a-pomoc-40607032",
-      "published_utc": "2026-11-05T15:47:16Z",
-      "title_en": "Fico na Ukrajině: Zasloužíte si respekt a pomoc",
-      "lead_en": "Slovensko poskytne Ukrajině finanční podporu na nákup generátorů a další humanitární pomoc, která má tamním obyvatelům usnadnit zvládnutí zimy během pokračující války. Po čtvrtečním společném jednání ukrajinského a slovenského kabinetu ve Lvově to uvedl slovenský premiér Robert Fico (Smer-SD).",
-      "title_raw": "Fico na Ukrajině: Zasloužíte si respekt a pomoc",
-      "lead_raw": "Slovensko poskytne Ukrajině finanční podporu na nákup generátorů a další humanitární pomoc, která má tamním obyvatelům usnadnit zvládnutí zimy během pokračující války. Po čtvrtečním společném jednání ukrajinského a slovenského kabinetu ve Lvově to uvedl slovenský premiér Robert Fico (Smer-SD).",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "6840e66e53593fc88a1b9c2b25ce89a4f97b7e4b",
-      "fingerprint": "ace8166a20b3855138be4e43e98a6dca20f47cba",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/klempirova-namestkyne-za-ano-konci-presouva-se-na-radnici-zlina-kde-babisovo_2611051629_jgr",
-      "published_utc": "2026-11-05T15:29:00Z",
-      "title_en": "Klempířova náměstkyně za ANO končí. Přesouvá se na radnici Zlína, kde Babišovo hnutí odchází od moci",
-      "lead_en": "Kateřina Pešatová po necelém roce ve funkci jako náměstkyně ministra kultury končí, věnovala se rozvoji statusu umělce a podpoře národnostní kultury. Do funkce náměstkyně ji na základě politických dohod nominovalo hnutí ANO.",
-      "title_raw": "Klempířova náměstkyně za ANO končí. Přesouvá se na radnici Zlína, kde Babišovo hnutí odchází od moci",
-      "lead_raw": "Kateřina Pešatová po necelém roce ve funkci jako náměstkyně ministra kultury končí, věnovala se rozvoji statusu umělce a podpoře národnostní kultury. Do funkce náměstkyně ji na základě politických dohod nominovalo hnutí ANO.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "6c341afb4f37e8614b8b5e1a6b8e467b6da90785",
-      "fingerprint": "6279e7b1512e1436152ed28e722235acf3d0f160",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/summit-v4-trencin-ursula-von-der-leyen-ukrajina-energetika.A261105_105601_zahranicni_onbu",
-      "published_utc": "2026-11-05T15:19:00Z",
-      "title_en": "Jednání o míru na Ukrajině? Pavel vyzval k jednotnému postupu Evropy",
-      "lead_en": "Český prezident Petr Pavel po summitu visegrádské čtyřky na Slovensku vyzval k jednotnějšímu evropskému postupu při jednáních o míru na Ukrajině. Mezi prezidenty podle něj panovala téměř úplná shoda v otázce jednání o míru.",
-      "title_raw": "Jednání o míru na Ukrajině? Pavel vyzval k jednotnému postupu Evropy",
-      "lead_raw": "Český prezident Petr Pavel po summitu visegrádské čtyřky na Slovensku vyzval k jednotnějšímu evropskému postupu při jednáních o míru na Ukrajině. Mezi prezidenty podle něj panovala téměř úplná shoda v otázce jednání o míru.",
-      "topic_scores": {
-        "diplomacy": 3,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "efc1bcf510cd9db30e57e45e4819b73e773992ba",
-      "fingerprint": "e5cb0ac62b6e7343ba378e52d9faa9d282aeb9af",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/pavel-vyzval-k-jednotnejsimu-postupu-evropy-pri-jednanich-o-miru-na-ukrajine-379322",
-      "published_utc": "2026-11-05T15:13:01Z",
-      "title_en": "Prezident Pavel navrhuje obdobu Marshallova plánu pro poválečnou Ukrajinu",
-      "lead_en": "Český prezident Petr Pavel po summitu visegrádské čtyřky na Slovensku vyzval k&nbsp;jednotnějšímu evropskému postupu při jednáních o&nbsp;míru na Ukrajině. Válku tam před téměř pěti lety rozpoutalo Rusko.",
-      "title_raw": "Prezident Pavel navrhuje obdobu Marshallova plánu pro poválečnou Ukrajinu",
-      "lead_raw": "Český prezident Petr Pavel po summitu visegrádské čtyřky na Slovensku vyzval k&nbsp;jednotnějšímu evropskému postupu při jednáních o&nbsp;míru na Ukrajině. Válku tam před téměř pěti lety rozpoutalo Rusko.",
-      "topic_scores": {
-        "diplomacy": 3,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
       ],
       "primary_topic": "diplomacy"
     }

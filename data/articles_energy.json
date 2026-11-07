@@ -1,10 +1,55 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-07T14:27:28Z",
+  "updated_at_utc": "2026-11-07T19:07:30Z",
   "topic": "energy",
   "count": 52,
   "articles": [
+    {
+      "id": "c482da0464481f17bcf24279df869a7af4b1ad6e",
+      "fingerprint": "d6d7d672d4fa2e5d7638d35cb14e1a2f7dade802",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/letadlo-motor-datova-centra-zivotni-prostredi.A261104_114633_eko-zahranicni_elsy",
+      "published_utc": "2026-11-07T18:00:00Z",
+      "title_en": "Motory ze starých letadel začínají pohánět datová centra. Ekologové se bouří",
+      "lead_en": "V Sonorské poušti v Arizoně stojí na nekonečné ploše tisíce vyřazených starých letadel. Přestože jejich motory neběžely už dlouhé roky, rostoucí poptávka po elektřině pro vznikající datová centra jim může přinést druhý život.",
+      "title_raw": "Motory ze starých letadel začínají pohánět datová centra. Ekologové se bouří",
+      "lead_raw": "V Sonorské poušti v Arizoně stojí na nekonečné ploše tisíce vyřazených starých letadel. Přestože jejich motory neběžely už dlouhé roky, rostoucí poptávka po elektřině pro vznikající datová centra jim může přinést druhý život.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "b6f11c66dd7dd88fd79b2f8671e695a3efabcf61",
+      "fingerprint": "7d8171cdcd69c0f06ca46cedfd8b0a35f98ba9c9",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-e-mailovy-anonym-zadna-bomba-a-evropa-v-pozoru-kdo-stoji-za-vyhruzkami-319948",
+      "published_utc": "2026-11-07T17:17:10Z",
+      "title_en": "E-mailový anonym, žádná bomba a Evropa v pozoru. Kdo stojí za výhrůžkami",
+      "lead_en": "Stíhačky ve vzduchu, evakuované redakce a desítky narušených letů. Evropou se šíří anonymní bombové výhrůžky, které vyvolávají obavy z další hybridní operace.",
+      "title_raw": "E-mailový anonym, žádná bomba a Evropa v pozoru. Kdo stojí za výhrůžkami",
+      "lead_raw": "Stíhačky ve vzduchu, evakuované redakce a desítky narušených letů. Evropou se šíří anonymní bombové výhrůžky, které vyvolávají obavy z další hybridní operace.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "619569ed70a3655e48a93966b0c4634d28956eb1",
       "fingerprint": "6ef2628b1a1999817ac0481b503b4b5bdf2d6c3b",
@@ -1110,51 +1155,6 @@
         "energy": 1,
         "economy": 0,
         "local_events": 1
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "c5270430b3a742a26843ebad88b75da05961339e",
-      "fingerprint": "f7ded986e976594d710153535e05bf50b06ec1ae",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/expert-letecka-doprava-bomba-vyhruzka-letiste-aerolinky-hrozba.A261105_160451_domaci_linh",
-      "published_utc": "2026-11-05T17:11:00Z",
-      "title_en": "Výhrůžky bombou v letadle se mohou brát jako vtip a inspirovat další, říká expert",
-      "lead_en": "Dokázat propašovat bombu do letadla je podle experta na leteckou dopravu Petra Kováče velmi nepravděpodobné. Přesto i minimální riziko stačí k tomu, aby aerolinky začaly hledat možnost co nejrychlejšího přistání.",
-      "title_raw": "Výhrůžky bombou v letadle se mohou brát jako vtip a inspirovat další, říká expert",
-      "lead_raw": "Dokázat propašovat bombu do letadla je podle experta na leteckou dopravu Petra Kováče velmi nepravděpodobné. Přesto i minimální riziko stačí k tomu, aby aerolinky začaly hledat možnost co nejrychlejšího přistání.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "4a53e7c4a81166349e05b58cad2ebe5f8d926203",
-      "fingerprint": "27b41ffe9902759ea9b901b458598acb211e8035",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-pavel-navrhuje-obdobu-marshallova-planu-pro-povalecnou-ukrajinu-40607053",
-      "published_utc": "2026-11-05T17:04:41Z",
-      "title_en": "Pavel navrhuje obdobu Marshallova plánu pro poválečnou Ukrajinu",
-      "lead_en": "Evropa by měla předem připravit rozsáhlý plán poválečné obnovy Ukrajiny, který by mohl fungovat podobně jako Marshallův plán po druhé světové válce. Po summitu Visegrádské čtyřky v Trenčíně to ve čtvrtek řekl prezident Petr Pavel.",
-      "title_raw": "Pavel navrhuje obdobu Marshallova plánu pro poválečnou Ukrajinu",
-      "lead_raw": "Evropa by měla předem připravit rozsáhlý plán poválečné obnovy Ukrajiny, který by mohl fungovat podobně jako Marshallův plán po druhé světové válce. Po summitu Visegrádské čtyřky v Trenčíně to ve čtvrtek řekl prezident Petr Pavel.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
       },
       "topics": [
         "diplomacy",
