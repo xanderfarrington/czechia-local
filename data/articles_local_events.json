@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-07T01:22:04Z",
+  "updated_at_utc": "2026-11-07T07:54:04Z",
   "topic": "local_events",
-  "count": 10,
+  "count": 9,
   "articles": [
+    {
+      "id": "1db2b2e9e5e4375911957f428b9aa4b477a0279f",
+      "fingerprint": "e49414d3e0ab4a27493984e669793fd842b8a700",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-slepa-duvera-v-aplikaci-se-mu-stala-osudnou-cech-se-v-rakouskych-alpach-zritil-do-rokle-40607334",
+      "published_utc": "2026-11-07T07:18:15Z",
+      "title_en": "Slepá důvěra v aplikaci se mu stala osudnou. Čech se v rakouských Alpách zřítil do rokle",
+      "lead_en": "Sedmadvacetiletý Čech se při sestupu z rakouské hory Hochkönig (2941 metrů) zřítil do rokle, kde s vážnými zraněními ležel několik hodin, než se ho podařilo záchranářům vyprostit. Mladý muž doplatil na zrádnost mobilní aplikace, ta ho totiž navedla na dlouhodobě uzavřenou trasu, píše web t-online.",
+      "title_raw": "Slepá důvěra v aplikaci se mu stala osudnou. Čech se v rakouských Alpách zřítil do rokle",
+      "lead_raw": "Sedmadvacetiletý Čech se při sestupu z rakouské hory Hochkönig (2941 metrů) zřítil do rokle, kde s vážnými zraněními ležel několik hodin, než se ho podařilo záchranářům vyprostit. Mladý muž doplatil na zrádnost mobilní aplikace, ta ho totiž navedla na dlouhodobě uzavřenou trasu, píše web t-online.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "1c9404646312098dda911b6159b2a1c1e608513c",
       "fingerprint": "8b5edf45ac699d0a77bc46db952b20bdf97fc0f7",
@@ -170,51 +192,6 @@
       "lead_en": "Okresní soud v Karviné potrestal přepravní firmu, jejího dispečera a řidiče za tragickou srážku rychlíku s nákladním autem na přejezdu v Dolní Lutyni z ledna 2024. Při nehodě zemřel strojvedoucí a dvacet lidí utrpělo zranění.",
       "title_raw": "Pokuta i stopka pro řidiče. Soud rozdal tresty za tragickou nehodu na přejezdu",
       "lead_raw": "Okresní soud v Karviné potrestal přepravní firmu, jejího dispečera a řidiče za tragickou srážku rychlíku s nákladním autem na přejezdu v Dolní Lutyni z ledna 2024. Při nehodě zemřel strojvedoucí a dvacet lidí utrpělo zranění.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "e737fb00e155e0f4e6e300fb8cc03b3f8cd788f3",
-      "fingerprint": "5f803026728f3390f7e8b7d7ec450fcb5e658297",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-zautocilo-u-kyjeva-ukrajinci-podle-medii-zasahli-rafinerii-v-rjazani-379299",
-      "published_utc": "2026-11-05T07:47:47Z",
-      "title_en": "Rusko zaútočilo u Kyjeva. Ukrajinci podle úřadů zasáhli rafinerii v Rjazani",
-      "lead_en": "Ukrajinští záchranáři ráno hasili požár, který vznikl po ruském útoku na logistickou infrastrukturu v&nbsp;okrese Buča u&nbsp;Kyjeva, oznámila Státní služba pro mimořádné situace (DSNS). Zranění při něm utrpěl jeden člověk.",
-      "title_raw": "Rusko zaútočilo u Kyjeva. Ukrajinci podle úřadů zasáhli rafinerii v Rjazani",
-      "lead_raw": "Ukrajinští záchranáři ráno hasili požár, který vznikl po ruském útoku na logistickou infrastrukturu v&nbsp;okrese Buča u&nbsp;Kyjeva, oznámila Státní služba pro mimořádné situace (DSNS). Zranění při něm utrpěl jeden člověk.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "energy",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "d939e7328236f9f1dc82b51aaef6e8938b4f9227",
-      "fingerprint": "660033c6e7418b1644339d57499917faf0eff552",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/osobni-auto-v-brne-srazilo-na-prechodu-chodkyni-zena-zemrela/2897609",
-      "published_utc": "2026-11-05T06:54:00Z",
-      "title_en": "Osobní auto v Brně srazilo na přechodu chodkyni, žena zemřela",
-      "lead_en": "Brno - Osobní auto dnes ráno srazilo na přechodu pro chodce v Seifertově ulici v brněnské části Lesná šestasedmdesátiletou chodkyni. Záchranáři ženu ošetřili, zraněním ale při převozu do nemocnice podlehla....",
-      "title_raw": "Osobní auto v Brně srazilo na přechodu chodkyni, žena zemřela",
-      "lead_raw": "Brno - Osobní auto dnes ráno srazilo na přechodu pro chodce v Seifertově ulici v brněnské části Lesná šestasedmdesátiletou chodkyni. Záchranáři ženu ošetřili, zraněním ale při převozu do nemocnice podlehla....",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,

@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-07T01:22:04Z",
+  "updated_at_utc": "2026-11-07T07:54:04Z",
   "topic": "diplomacy",
   "count": 46,
   "articles": [
+    {
+      "id": "d4f0eb93dd2ed8f3964435cbfc520ee19be4b491",
+      "fingerprint": "896d0a7b9b53bc15b04d295b4687957c3675977f",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/lidem-s-agresivnimi-sklony-nabizi-diakonie-v-mostu-i-teplicich-terapie-zdarma_2611070600_brz",
+      "published_utc": "2026-11-07T07:50:00Z",
+      "title_en": "Lidem s agresivními sklony nabízí diakonie v Mostu i Teplicích terapie zdarma. Učí se, jak problém zvládat",
+      "lead_en": "Lidem, kteří se u sebe potýkají s agresivním chováním, pomáhá zdarma Diakonie Českobratrské církve evangelické v Mostě. Poskytuje terapie a konzultace v rámci projektu STOP NÁSILÍ.",
+      "title_raw": "Lidem s agresivními sklony nabízí diakonie v Mostu i Teplicích terapie zdarma. Učí se, jak problém zvládat",
+      "lead_raw": "Lidem, kteří se u sebe potýkají s agresivním chováním, pomáhá zdarma Diakonie Českobratrské církve evangelické v Mostě. Poskytuje terapie a konzultace v rámci projektu STOP NÁSILÍ.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "4e0ba6aac0aefb91e36f400a92925c4598af2cb2",
       "fingerprint": "6ed2e7afdd01134b0b673069cce5d1c2a43462d5",
@@ -1008,29 +1030,6 @@
       },
       "topics": [
         "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "1f7eacfb22af9ce4f294ebfba6289dfb60cf69f4",
-      "fingerprint": "a91ee396b0b18dca0da394f88d5b54f13c0236a3",
-      "source": "Radio Prague International (EN)",
-      "url": "https://english.radio.cz/v4-presidents-discuss-ukraine-eu-enlargement-and-energy-slovakia-summit-8901772",
-      "published_utc": "2026-11-05T05:25:00Z",
-      "title_en": "V4 presidents to discuss Ukraine, EU enlargement and energy at Slovakia summit",
-      "lead_en": "V4 presidents to discuss Ukraine, EU enlargement and energy at Slovakia summit",
-      "title_raw": "V4 presidents to discuss Ukraine, EU enlargement and energy at Slovakia summit",
-      "lead_raw": "V4 presidents to discuss Ukraine, EU enlargement and energy at Slovakia summit",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
       ],
       "primary_topic": "diplomacy"
     }
