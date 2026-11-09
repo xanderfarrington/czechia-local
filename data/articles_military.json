@@ -1,10 +1,544 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-09T07:19:48Z",
+  "updated_at_utc": "2026-11-09T17:53:10Z",
   "topic": "military",
-  "count": 58,
+  "count": 66,
   "articles": [
+    {
+      "id": "2eb8d4bd9905a4f48a2890e6b18f2aa330f0723b",
+      "fingerprint": "2c763661223a517ec04230cf92184a7001426f52",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/zuna-odvolal-sefa-kybernetickych-sil-haratka-stane-se-poradcem-sefa-armady_2611091829_lbl",
+      "published_utc": "2026-11-09T17:29:00Z",
+      "title_en": "Zůna odvolal šéfa kybernetických sil Haratka. Stane se poradcem šéfa armády Hlaváče",
+      "lead_en": "Ministr obrany Jaromír Zůna (SPD) odvolal brigádního generála Radka Haratka z velení kybernetických a informačních sil. Od prosince bude poradcem náčelníka generálního štábu Miroslava Hlaváče, oznámil šéf armády na síti X.",
+      "title_raw": "Zůna odvolal šéfa kybernetických sil Haratka. Stane se poradcem šéfa armády Hlaváče",
+      "lead_raw": "Ministr obrany Jaromír Zůna (SPD) odvolal brigádního generála Radka Haratka z velení kybernetických a informačních sil. Od prosince bude poradcem náčelníka generálního štábu Miroslava Hlaváče, oznámil šéf armády na síti X.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "060052ed39bd46af970f3343a3463910c69e05c5",
+      "fingerprint": "2b80062834ed3d30ebf2256c137f3e5e8f85f225",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/francie-kyber-utok-supermarkety-obchody-zarizeni-iran-gardy.A261109_180050_zahranicni_fohl",
+      "published_utc": "2026-11-09T17:27:00Z",
+      "title_en": "Paříž viní Írán z útoků na chladicí zařízení v obchodech. Ponese následky, tvrdí",
+      "lead_en": "Francouzská prokuratura zahájila vyšetřování íránské kybernetické jednotky, kterou Paříž viní z říjnových útoků na chladicí zařízení v supermarketech. Francouzský ministr zahraničí Jean-Noël Barrot v pondělí prohlásil, že za útoky stojí íránské revoluční gardy a že za ně Írán ponese následky.",
+      "title_raw": "Paříž viní Írán z útoků na chladicí zařízení v obchodech. Ponese následky, tvrdí",
+      "lead_raw": "Francouzská prokuratura zahájila vyšetřování íránské kybernetické jednotky, kterou Paříž viní z říjnových útoků na chladicí zařízení v supermarketech. Francouzský ministr zahraničí Jean-Noël Barrot v pondělí prohlásil, že za útoky stojí íránské revoluční gardy a že za ně Írán ponese následky.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "54e792763c1e334b362c71959d1fef3d8b00fff8",
+      "fingerprint": "f964b31814e1549826cb472fc1ac14e5eb79c4cd",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-pariz-vini-iranske-gardy-z-utoku-na-chladici-zarizeni-v-obchodech-320093",
+      "published_utc": "2026-11-09T17:16:06Z",
+      "title_en": "Paříž viní íránské gardy z útoků na chladicí zařízení v obchodech",
+      "lead_en": "Za říjnovými kyberútoky na chladicí zařízení v obchodech může být íránská kybernetická jednotka, tamní prokuratura proto zahájila její vyšetřování. Útočníci zvýšili teplotu chladniček ve stokách obchodů, škody jdou do milionů.",
+      "title_raw": "Paříž viní íránské gardy z útoků na chladicí zařízení v obchodech",
+      "lead_raw": "Za říjnovými kyberútoky na chladicí zařízení v obchodech může být íránská kybernetická jednotka, tamní prokuratura proto zahájila její vyšetřování. Útočníci zvýšili teplotu chladniček ve stokách obchodů, škody jdou do milionů.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "2102367072509ee3bbe682373179c66be214dcc4",
+      "fingerprint": "08d08f67e8bbf4f24eaa31baa746d56e0a6ce14a",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-vlada-resi-koho-zdani-jeji-poslanci-se-neshodnou-320073",
+      "published_utc": "2026-11-09T17:15:00Z",
+      "title_en": "Vláda řeší, koho zdaní. Její poslanci se neshodnou",
+      "lead_en": "Až 90procentní daň na zisky zbrojařů nebo daň na banky. Vládní většina řeší, kterým sektorům navýšit odvody.",
+      "title_raw": "Vláda řeší, koho zdaní. Její poslanci se neshodnou",
+      "lead_raw": "Až 90procentní daň na zisky zbrojařů nebo daň na banky. Vládní většina řeší, kterým sektorům navýšit odvody.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "db2eb2efd367ce4172865d7af4f21ac6f72cc6a8",
+      "fingerprint": "be7c7dc8227703b34b749517601513b168585d28",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/zive-v-jakem-stavu-je-ceska-armada-a-jak-se-ma-zmenit-poslouchejte-debatu-kulaty_2611091810_jos",
+      "published_utc": "2026-11-09T17:10:00Z",
+      "title_en": "ŽIVĚ: V jakém stavu je česká armáda a jak se má změnit? Poslouchejte debatu Kulatý stůl",
+      "lead_en": "Vláda před týdnem schválila koncepci výstavby české armády do roku 2040. Prioritami je dokončení výstavby těžké brigády, zahájení modernizace střední brigády, posílení ochrany proti vzdušným hrozbám a zlepšení velení a řízení.",
+      "title_raw": "ŽIVĚ: V jakém stavu je česká armáda a jak se má změnit? Poslouchejte debatu Kulatý stůl",
+      "lead_raw": "Vláda před týdnem schválila koncepci výstavby české armády do roku 2040. Prioritami je dokončení výstavby těžké brigády, zahájení modernizace střední brigády, posílení ochrany proti vzdušným hrozbám a zlepšení velení a řízení.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "778183eeeb4e835127d8ba675f3e1d84bea82524",
+      "fingerprint": "61688aa669a9bff3ef643532fb2570a0b3ee64eb",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/zuna-odvolal-generala-haratka-z-veleni-kybernetickych-sil-od-bude-od-prosince-poradcem-nacelnika-gen.A261109_171330_domaci_mikp",
+      "published_utc": "2026-11-09T16:52:00Z",
+      "title_en": "Ministr Zůna prosadil odvolání generála Haratka z velení kybernetických sil",
+      "lead_en": "Ministr obrany Jaromír Zůna (za SPD) odvolal generála Radka Haratka z velení kybernetických a informačních sil. Od prosince bude poradcem náčelníka generálního štábu Miroslava Hlaváče, oznámil šéf armády na síti X.",
+      "title_raw": "Ministr Zůna prosadil odvolání generála Haratka z velení kybernetických sil",
+      "lead_raw": "Ministr obrany Jaromír Zůna (za SPD) odvolal generála Radka Haratka z velení kybernetických a informačních sil. Od prosince bude poradcem náčelníka generálního štábu Miroslava Hlaváče, oznámil šéf armády na síti X.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "9b7732ab47df4860a27315f0541915b36ae3e4bc",
+      "fingerprint": "08c316799939942413f4073a901feacbf401c8df",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/pariz-vini-iranske-gardy-z-utoku-na-chladici-zarizeni-v-obchodech-379447",
+      "published_utc": "2026-11-09T16:43:23Z",
+      "title_en": "Paříž viní íránské gardy z útoků na chladicí zařízení v obchodech",
+      "lead_en": "Francouzská prokuratura zahájila vyšetřování íránské kybernetické jednotky, kterou Paříž viní z&nbsp;říjnových útoků na chladicí zařízení v&nbsp;supermarketech. Francouzský ministr zahraničí Jean-Noël Barrot v&nbsp;pondělí prohlásil, že za útoky stojí íránské revoluční gardy a&nbsp;že Írán za ně ponese následky.",
+      "title_raw": "Paříž viní íránské gardy z útoků na chladicí zařízení v obchodech",
+      "lead_raw": "Francouzská prokuratura zahájila vyšetřování íránské kybernetické jednotky, kterou Paříž viní z&nbsp;říjnových útoků na chladicí zařízení v&nbsp;supermarketech. Francouzský ministr zahraničí Jean-Noël Barrot v&nbsp;pondělí prohlásil, že za útoky stojí íránské revoluční gardy a&nbsp;že Írán za ně ponese následky.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "4b3a10798790c98399547d327bbca589ba3d642e",
+      "fingerprint": "d77d91f19838d1289dfaba165127f7eb354a5af6",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/zuna-odvolal-generala-haratka-z-veleni-kybernetickych-sil-379446",
+      "published_utc": "2026-11-09T16:38:59Z",
+      "title_en": "Zůna odvolal generála Haratka z velení kybernetických sil",
+      "lead_en": "Ministr obrany Jaromír Zůna (za SPD) odvolal brigádního generála Radka Haratka z&nbsp;velení kybernetických a&nbsp;informačních sil. Od prosince bude poradcem náčelníka generálního štábu Miroslava Hlaváče, oznámil šéf armády na síti X.",
+      "title_raw": "Zůna odvolal generála Haratka z velení kybernetických sil",
+      "lead_raw": "Ministr obrany Jaromír Zůna (za SPD) odvolal brigádního generála Radka Haratka z&nbsp;velení kybernetických a&nbsp;informačních sil. Od prosince bude poradcem náčelníka generálního štábu Miroslava Hlaváče, oznámil šéf armády na síti X.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "8d338adffb1a9ee3a80b76606627fe8b2ad491bf",
+      "fingerprint": "d7b93b13544317bb3621722e4d582b25767727f7",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-francie-z-kybernetickych-utoku-na-chladici-zarizeni-podezriva-iran-40607684",
+      "published_utc": "2026-11-09T16:33:30Z",
+      "title_en": "Francie z kybernetických útoků na chladicí zařízení viní Írán",
+      "lead_en": "Francouzská prokuratura v pondělí oznámila, že zahájila vyšetřování íránské kybernetické jednotky, kterou viní z nedávných útoků na chladicí zařízení. Informovala o tom tamní stanice BFMTV.",
+      "title_raw": "Francie z kybernetických útoků na chladicí zařízení viní Írán",
+      "lead_raw": "Francouzská prokuratura v pondělí oznámila, že zahájila vyšetřování íránské kybernetické jednotky, kterou viní z nedávných útoků na chladicí zařízení. Informovala o tom tamní stanice BFMTV.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "6d9d5a61f86853cdeba8928e5ab5b5decd5df4d4",
+      "fingerprint": "64997f1016d3d1a609bb682bb9d6011c69f025d5",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/zuna-odvolal-generala-haratka-z-veleni-kybernetickych-sil/2899665",
+      "published_utc": "2026-11-09T16:20:00Z",
+      "title_en": "Zůna odvolal generála Haratka z velení kybernetických sil",
+      "lead_en": "Praha - Ministr obrany Jaromír Zůna (za SPD) odvolal brigádního generála Radka Haratka z velení kybernetických a informačních sil. Od prosince bude poradcem náčelníka generálního štábu Miroslava Hlaváče,...",
+      "title_raw": "Zůna odvolal generála Haratka z velení kybernetických sil",
+      "lead_raw": "Praha - Ministr obrany Jaromír Zůna (za SPD) odvolal brigádního generála Radka Haratka z velení kybernetických a informačních sil. Od prosince bude poradcem náčelníka generálního štábu Miroslava Hlaváče,...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "c9c8291e0878f939c40c10bb3f95a3e2e02cc525",
+      "fingerprint": "d17ae0dc76c4e81b71254ca5ffa185fd3b1236b4",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-zuna-odvolal-velitele-informacnich-a-kybernetickych-sil-i-pres-hlavacuv-odpor-40607680",
+      "published_utc": "2026-11-09T16:11:52Z",
+      "title_en": "Zůna odvolal velitele informačních a kybernetických sil i přes Hlaváčův odpor",
+      "lead_en": "Radek Haratek končí v čele informačních a kybernetických sil. Vyplývá to z vyjádření náčelníka generálního štábu Miroslava Hlaváče na sociálních sítích.",
+      "title_raw": "Zůna odvolal velitele informačních a kybernetických sil i přes Hlaváčův odpor",
+      "lead_raw": "Radek Haratek končí v čele informačních a kybernetických sil. Vyplývá to z vyjádření náčelníka generálního štábu Miroslava Hlaváče na sociálních sítích.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "f01b0c849bff8000a10866ffbda013cb4e88e460",
+      "fingerprint": "273eb918f35e0c8b433d8e82b5329e8cb3821475",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/nato/nato-dron-c-uas-bezpilotni-ukrajina-brave1-aliance.A261109_165044_zpr_nato_inc",
+      "published_utc": "2026-11-09T16:09:00Z",
+      "title_en": "NATO spouští tržiště proti dronům. Umožní nákupy bez zdlouhavých tendrů",
+      "lead_en": "Severoatlantická aliance spustila tržiště protidronových systémů (C-UAS marketplace). Členské státy včetně České republiky z něj mohou nakupovat vybrané systémy přímo, bez dalšího výběrového řízení.",
+      "title_raw": "NATO spouští tržiště proti dronům. Umožní nákupy bez zdlouhavých tendrů",
+      "lead_raw": "Severoatlantická aliance spustila tržiště protidronových systémů (C-UAS marketplace). Členské státy včetně České republiky z něj mohou nakupovat vybrané systémy přímo, bez dalšího výběrového řízení.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "2dbc048e15bbab4d7c3a7f21249634fa97b7c601",
+      "fingerprint": "810ba362c37a28e6716161a55024999470a968d7",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-vlada-schvalila-zakon-o-referendu-o-vystupu-z-eu-ani-nato-vsak-hlasovat-nepujde-40607662",
+      "published_utc": "2026-11-09T15:47:55Z",
+      "title_en": "Vláda schválila zákon o referendu, o vystoupení z EU ani NATO však hlasovat nepůjde",
+      "lead_en": "Vláda v pondělí schválila návrh ministerstva spravedlnosti na ústavní zákon o referendech. Občané by podle něj mohli hlasovat o otázkách domácí i zahraniční politiky.",
+      "title_raw": "Vláda schválila zákon o referendu, o vystoupení z EU ani NATO však hlasovat nepůjde",
+      "lead_raw": "Vláda v pondělí schválila návrh ministerstva spravedlnosti na ústavní zákon o referendech. Občané by podle něj mohli hlasovat o otázkách domácí i zahraniční politiky.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "58ff8b581e1f381f526e5b2b52aa59f028756702",
+      "fingerprint": "2cd686aaa043849134a3612ad2c4f06fdad5020e",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/zaostavame-priznava-britanie-s-evropany-hodla-posilit-lov-ruskych-ponorek.A261109_143653_zahranicni_jhr",
+      "published_utc": "2026-11-09T15:40:00Z",
+      "title_en": "Zaostáváme, přiznává Británie. S Evropany hodlá posílit lov ruských ponorek",
+      "lead_en": "Velká Británie zaostává v obraně před ruskými hrozbami v Arktidě. Přiznává to obranný výbor Dolní sněmovny i nejvýše postavený britský vojenský činitel Richard Knighton.",
+      "title_raw": "Zaostáváme, přiznává Británie. S Evropany hodlá posílit lov ruských ponorek",
+      "lead_raw": "Velká Británie zaostává v obraně před ruskými hrozbami v Arktidě. Přiznává to obranný výbor Dolní sněmovny i nejvýše postavený britský vojenský činitel Richard Knighton.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "c6e7151f690078b74a1c71755258502b51fc1e50",
+      "fingerprint": "46387a0e3f3846bef8191ae1c99be1cbd4cc393d",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-zuna-odvolal-sefa-kybernetickych-sil-ktere-celi-ruskym-hrozbam-320019",
+      "published_utc": "2026-11-09T15:38:57Z",
+      "title_en": "Zůna odvolal šéfa kybersil, které čelí ruským hrozbám. Generál protestuje",
+      "lead_en": "Ministr obrany Jaromír Zůna (za SPD) odvolal Radka Haratka z pozice velitele informačních a kybernetických sil. Redakci to potvrdily tři zdroje z resortu obrany.",
+      "title_raw": "Zůna odvolal šéfa kybersil, které čelí ruským hrozbám. Generál protestuje",
+      "lead_raw": "Ministr obrany Jaromír Zůna (za SPD) odvolal Radka Haratka z pozice velitele informačních a kybernetických sil. Redakci to potvrdily tři zdroje z resortu obrany.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "a909d1b25e2e76def4b7936c7d36d25ac12c151e",
+      "fingerprint": "d0b0e40c411edc57b771123d7a58ad961d8368f2",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-vse-nadbytecne-musi-pryc-ukrajinsky-mechanik-dela-z-aut-vojenske-buginy-319864",
+      "published_utc": "2026-11-09T15:30:00Z",
+      "title_en": "Ukrajinský mechanik dělá z aut vojenské buginy",
+      "lead_en": "„V prvních, řekněme, dvou letech jsme na buginy montovali kulomety a jiné zbraně, ale teď je to hlavně dronová válka. Auta už není třeba vybavovat zbraněmi,“ vypráví automechanik Ihor.",
+      "title_raw": "Ukrajinský mechanik dělá z aut vojenské buginy",
+      "lead_raw": "„V prvních, řekněme, dvou letech jsme na buginy montovali kulomety a jiné zbraně, ale teď je to hlavně dronová válka. Auta už není třeba vybavovat zbraněmi,“ vypráví automechanik Ihor.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "b4a163de6a806fffd65e1ad13ad97a5ab77dd565",
+      "fingerprint": "fdf303b0f080336007d0b5daa1705a978969206a",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/podcasty-policheck-babis-srovnava-pocty-vojaku-vytahl-cisla-z-ceskoslovenske-lidove-armady-vcetne-brancu-40607616",
+      "published_utc": "2026-11-09T15:08:49Z",
+      "title_en": "Babiš srovnává počty vojáků. Vytáhl čísla z Československé lidové armády včetně branců",
+      "lead_en": "Premiér Andrej Babiš (ANO) se ve svém nedělním videu na sociálních sítích pustil do srovnávání počtu vojáků v české armádě. Připomněl, že za socialismu bylo vojáků přes dvě stě tisíc.",
+      "title_raw": "Babiš srovnává počty vojáků. Vytáhl čísla z Československé lidové armády včetně branců",
+      "lead_raw": "Premiér Andrej Babiš (ANO) se ve svém nedělním videu na sociálních sítích pustil do srovnávání počtu vojáků v české armádě. Připomněl, že za socialismu bylo vojáků přes dvě stě tisíc.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "6e32ef1757fc8ba1394dafabf3540f7ebcfdf02f",
+      "fingerprint": "72059172d1bdf11907bf50c4080e3f79b829bf01",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/domaci/nemecka-klasika-s-ceskym-rukopisem-v-praze-otvira-prvni-bistro-s-currywurstem.A261109_144804_ekonomika_vebe",
+      "published_utc": "2026-11-09T15:00:00Z",
+      "title_en": "Německá klasika s českým rukopisem. V Praze otvírá první bistro s currywurstem",
+      "lead_en": "V centru Prahy se ve středu 11. listopadu otevře bistro Currywurst 11 zaměřené na oblíbenou německou klobásu politou curry omáčkou.",
+      "title_raw": "Německá klasika s českým rukopisem. V Praze otvírá první bistro s currywurstem",
+      "lead_raw": "V centru Prahy se ve středu 11. listopadu otevře bistro Currywurst 11 zaměřené na oblíbenou německou klobásu politou curry omáčkou.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "feabad3347d892db6ae445e38f7635861300acf5",
+      "fingerprint": "22e90d6ddf20a1a12e11b02ac13802876d5d7a88",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/pocasi-silny-vitr-strhl-strechu-skoly-v-rusku-zatimco-zaci-byli-uvnitr-40607640",
+      "published_utc": "2026-11-09T14:47:43Z",
+      "title_en": "Silný vítr strhl střechu školy v Rusku, zatímco žáci byli uvnitř",
+      "lead_en": "KRÁTCE: Kovové plechy a trosky létaly vzduchem. Záznamy z bezpečnostních kamer ze 6.",
+      "title_raw": "Silný vítr strhl střechu školy v Rusku, zatímco žáci byli uvnitř",
+      "lead_raw": "KRÁTCE: Kovové plechy a trosky létaly vzduchem. Záznamy z bezpečnostních kamer ze 6.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ef4e9b1580f1ded317afbde7daf9bd1794e60d59",
+      "fingerprint": "9fc03e15e451d405ba8fee3bae57d276e6107cb3",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-ukrajinci-zasahli-tovarnu-ktera-vyrabi-palivo-do-iskanderu-40607644",
+      "published_utc": "2026-11-09T14:44:47Z",
+      "title_en": "Ukrajinci zasáhli továrnu, která vyrábí palivo do iskanderů",
+      "lead_en": "Ukrajinské síly v noci na pondělí v Imeni Morozova v Leningradské oblasti zasáhly továrnu, která vyrábí tuhé palivo pro balistické střely Iskander-M. Informoval o tom generální štáb ukrajinské armády.",
+      "title_raw": "Ukrajinci zasáhli továrnu, která vyrábí palivo do iskanderů",
+      "lead_raw": "Ukrajinské síly v noci na pondělí v Imeni Morozova v Leningradské oblasti zasáhly továrnu, která vyrábí tuhé palivo pro balistické střely Iskander-M. Informoval o tom generální štáb ukrajinské armády.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "7c1582f773e697e686eaad142e93320806c1b037",
+      "fingerprint": "4d244ded0c6359b465d1ec355364e9bff8eedb5d",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/kultura-godzilla-minus-zero-film-recenze-320041",
+      "published_utc": "2026-11-09T14:40:00Z",
+      "title_en": "Nová japonská Godzilla ukazuje americké vojáky jako zlo",
+      "lead_en": "Vznikl první japonský film natočený pro formát IMAX. Zatímco americké snímky o monstrech bývají plné barev a přebujelé akce, pokračování úspěšného titulu nazvané Godzilla Minus Zero je zdrcující a syrové.",
+      "title_raw": "Nová japonská Godzilla ukazuje americké vojáky jako zlo",
+      "lead_raw": "Vznikl první japonský film natočený pro formát IMAX. Zatímco americké snímky o monstrech bývají plné barev a přebujelé akce, pokračování úspěšného titulu nazvané Godzilla Minus Zero je zdrcující a syrové.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ed5baec55a082e6b23ff249a8a1aa5d626d5269c",
+      "fingerprint": "c5451082511fd8b1e4d1c277abfb28c4ad4a3f66",
+      "source": "Radio Prague International (EN)",
+      "url": "https://english.radio.cz/new-exhibition-explores-jaroslav-cermak-19th-century-czech-painter-who-made-his-8902121",
+      "published_utc": "2026-11-09T13:00:00Z",
+      "title_en": "New exhibition explores Jaroslav Čermák, the 19th-century Czech painter who made his name in Paris",
+      "lead_en": "A new exhibition at the Prague City Gallery's Municipal Library venue looks back at the life and work of Jaroslav Čermák, a Czech painter who enjoyed considerable success across Europe in the 19th century but gradually faded from public memory.",
+      "title_raw": "New exhibition explores Jaroslav Čermák, the 19th-century Czech painter who made his name in Paris",
+      "lead_raw": "A new exhibition at the Prague City Gallery's Municipal Library venue looks back at the life and work of Jaroslav Čermák, a Czech painter who enjoyed considerable success across Europe in the 19th century but gradually faded from public memory.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "4f263f706a71c889957dcd331eb9f26c61f1fb76",
+      "fingerprint": "72b1a76efedb540a19336854e41b000749047e88",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/zlate-zachranarske-krize-ziskala-ucitelka-i-zachranari-za-zasah-u-pozaru-v-moste/2899398",
+      "published_utc": "2026-11-09T10:26:00Z",
+      "title_en": "Zlaté záchranářské kříže získala učitelka i záchranáři za zásah u požáru v Mostě",
+      "lead_en": "Praha - Ocenění za nejlepší záchranářské činy loňského roku, Zlaté záchranářské kříže, získala učitelka z Rudolfova, která zabránila útoku ozbrojeného žáka, nebo zdravotnická záchranná služba Ústeckého...",
+      "title_raw": "Zlaté záchranářské kříže získala učitelka i záchranáři za zásah u požáru v Mostě",
+      "lead_raw": "Praha - Ocenění za nejlepší záchranářské činy loňského roku, Zlaté záchranářské kříže, získala učitelka z Rudolfova, která zabránila útoku ozbrojeného žáka, nebo zdravotnická záchranná služba Ústeckého...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "38b134962e640ab34f01486f5601bb0f88b2ac76",
+      "fingerprint": "7bfc3b769c863625ea65a998e8f05c364de0108b",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/prezident-prijal-na-hrade-sefa-armady-hovorili-mj-o-nove-armadni-koncepci/2899370",
+      "published_utc": "2026-11-09T09:49:00Z",
+      "title_en": "Prezident přijal na Hradě šéfa armády, hovořili mj. o nové armádní koncepci",
+      "lead_en": "Praha - Nová armádní koncepce a aktuální bezpečnostní situace byly hlavními tématy dnešního setkání náčelníka generálního štábu Miroslava Hlaváče a prezidenta Petra Pavla na Hradě. Kancelář prezidenta...",
+      "title_raw": "Prezident přijal na Hradě šéfa armády, hovořili mj. o nové armádní koncepci",
+      "lead_raw": "Praha - Nová armádní koncepce a aktuální bezpečnostní situace byly hlavními tématy dnešního setkání náčelníka generálního štábu Miroslava Hlaváče a prezidenta Petra Pavla na Hradě. Kancelář prezidenta...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "b4ec94d8aa81fb397c5d78b0623609dc474cbc93",
       "fingerprint": "683efaf77b60f92fecebcf7338d29b233e453b4d",
@@ -927,360 +1461,6 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d77f2fc18cff6c304bf261572db7fb9e7bcddc8b",
-      "fingerprint": "8e440408151c3e3104869484447f46fa71f2920d",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-ozbrojene-sily-usa-zridi-tym-zamereny-na-pozemni-hranice-iranu-a-kaspicke-more-319956",
-      "published_utc": "2026-11-07T17:45:00Z",
-      "title_en": "Ozbrojené síly USA zřídí tým zaměřený na pozemní hranice Íránu a Kaspické moře",
-      "lead_en": "Dvacetičlenná skupina s názvem Iron Gate má bránit Teheránu financovat pokračování konfliktu. Spojené státy do této doby blokovaly lodě především v Ománském zálivu, Írán naopak v Hormuzském průlivu.",
-      "title_raw": "Ozbrojené síly USA zřídí tým zaměřený na pozemní hranice Íránu a Kaspické moře",
-      "lead_raw": "Dvacetičlenná skupina s názvem Iron Gate má bránit Teheránu financovat pokračování konfliktu. Spojené státy do této doby blokovaly lodě především v Ománském zálivu, Írán naopak v Hormuzském průlivu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d5ea7179e6c8e779b2db33d9eca036148f3deff2",
-      "fingerprint": "cd38ba6421969fb125f056ddd2f815fd5a612fc3",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/armada-potrebuje-vic-nez-udrzovaci-rozpocet-mini-opozice-davame-tolik-kolik_2611071831_jos",
-      "published_utc": "2026-11-07T17:31:00Z",
-      "title_en": "Armáda potřebuje víc než udržovací rozpočet, míní opozice. ‚Dáváme tolik, kolik můžeme,‘ zní z ANO",
-      "lead_en": "Vláda schválila novou Koncepci výstavby Armády České republiky do roku 2040. Dokument však podle prezidenta Petra Pavla nezajistí plnění spojeneckých závazků ani připravenost na konflikt vyšší intenzity.",
-      "title_raw": "Armáda potřebuje víc než udržovací rozpočet, míní opozice. ‚Dáváme tolik, kolik můžeme,‘ zní z ANO",
-      "lead_raw": "Vláda schválila novou Koncepci výstavby Armády České republiky do roku 2040. Dokument však podle prezidenta Petra Pavla nezajistí plnění spojeneckých závazků ani připravenost na konflikt vyšší intenzity.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "b6f11c66dd7dd88fd79b2f8671e695a3efabcf61",
-      "fingerprint": "7d8171cdcd69c0f06ca46cedfd8b0a35f98ba9c9",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-e-mailovy-anonym-zadna-bomba-a-evropa-v-pozoru-kdo-stoji-za-vyhruzkami-319948",
-      "published_utc": "2026-11-07T17:17:10Z",
-      "title_en": "E-mailový anonym, žádná bomba a Evropa v pozoru. Kdo stojí za výhrůžkami",
-      "lead_en": "Stíhačky ve vzduchu, evakuované redakce a desítky narušených letů. Evropou se šíří anonymní bombové výhrůžky, které vyvolávají obavy z další hybridní operace.",
-      "title_raw": "E-mailový anonym, žádná bomba a Evropa v pozoru. Kdo stojí za výhrůžkami",
-      "lead_raw": "Stíhačky ve vzduchu, evakuované redakce a desítky narušených letů. Evropou se šíří anonymní bombové výhrůžky, které vyvolávají obavy z další hybridní operace.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "a0588ce1a20b67d3f89e344d153f8418c3ccf688",
-      "fingerprint": "537e64d14a325ebd363b4e96654d580dd6125809",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/jemen-saudska-arabie-syrie-husiove-boj-vojaci-vlada.A261107_151252_zahranicni_linh",
-      "published_utc": "2026-11-07T16:42:00Z",
-      "title_en": "Sýrie pomůže Saúdům a Jemenu v boji proti Húsíům, vyšle tisíce vojáků, tvrdí zdroje",
-      "lead_en": "V Saúdské Arábii a Jemenu budou nasazeny tisíce syrských vojáků, stovky jich jsou na obou stranách hranice již nyní. Sdělily to nejmenované zdroje z jemenských vládních úřadů a armády.",
-      "title_raw": "Sýrie pomůže Saúdům a Jemenu v boji proti Húsíům, vyšle tisíce vojáků, tvrdí zdroje",
-      "lead_raw": "V Saúdské Arábii a Jemenu budou nasazeny tisíce syrských vojáků, stovky jich jsou na obou stranách hranice již nyní. Sdělily to nejmenované zdroje z jemenských vládních úřadů a armády.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "33aa1261d96d80ebd565369884c2c2aecc13d562",
-      "fingerprint": "b83d4d07b49f9551a87e3e39aa1a58fe7ff4f5fb",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-zpravy-hlavni-mesto-praha-jedenact-kamer-na-dvoreckem-moste-vyjde-na-4-miliony-rocni-provoz-na-175-milionu-40607224",
-      "published_utc": "2026-11-07T15:51:09Z",
-      "title_en": "Jedenáct kamer na Dvoreckém mostě vyjde na 4 miliony, roční provoz na 1,75 milionu",
-      "lead_en": "Ještě před koncem roku se na novém Dvoreckém mostě mezi Prahou 4 a Prahou 5 objeví městské bezpečnostní kamery, jejichž provoz vyjde na miliony korun. Sloužit budou ke kontrole veřejného pořádku, nikoli k odhalování porušení zákazu vjezdu či automatickému rozesílání pokut.",
-      "title_raw": "Jedenáct kamer na Dvoreckém mostě vyjde na 4 miliony, roční provoz na 1,75 milionu",
-      "lead_raw": "Ještě před koncem roku se na novém Dvoreckém mostě mezi Prahou 4 a Prahou 5 objeví městské bezpečnostní kamery, jejichž provoz vyjde na miliony korun. Sloužit budou ke kontrole veřejného pořádku, nikoli k odhalování porušení zákazu vjezdu či automatickému rozesílání pokut.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "3b6a5a23e9754e7b29ce143924ad42bd9a5ca0eb",
-      "fingerprint": "9e429b359250a474b21c10d4eeaef40e9e857b4e",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/v-saudske-arabii-a-jemenu-pribudou-tisice-syrskych-vojaku-pise-afp-379379",
-      "published_utc": "2026-11-07T14:51:11Z",
-      "title_en": "V Saúdské Arábii a Jemenu přibudou tisíce syrských vojáků, píše AFP",
-      "lead_en": "V&nbsp;Saúdské Arábii a&nbsp;Jemenu budou nasazeny tisíce syrských vojáků, stovky jich jsou na obou stranách hranice již nyní, sdělily AFP nejmenované zdroje z&nbsp;jemenských vládních úřadů a&nbsp;armády. Vojáci mají oběma zemím pomáhat v&nbsp;konfliktu s&nbsp;jemenskými hútíjskými islamisty, kteří jsou spojenci íránského režimu.",
-      "title_raw": "V Saúdské Arábii a Jemenu přibudou tisíce syrských vojáků, píše AFP",
-      "lead_raw": "V&nbsp;Saúdské Arábii a&nbsp;Jemenu budou nasazeny tisíce syrských vojáků, stovky jich jsou na obou stranách hranice již nyní, sdělily AFP nejmenované zdroje z&nbsp;jemenských vládních úřadů a&nbsp;armády. Vojáci mají oběma zemím pomáhat v&nbsp;konfliktu s&nbsp;jemenskými hútíjskými islamisty, kteří jsou spojenci íránského režimu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "fb740aa664dd68827f51375094ce20f4d7de2185",
-      "fingerprint": "ea6b65eee6fd0c5d38776e40f42fab1d1fe4b9ba",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-syrie-vysle-tisice-vojaku-do-saudske-arabie-a-jemenu-pro-boj-s-huthium-319950",
-      "published_utc": "2026-11-07T14:45:00Z",
-      "title_en": "Sýrie vyšle tisíce vojáků do Saúdské Arábie a Jemenu pro boj proti Húthíům",
-      "lead_en": "Sýrie vyšle k saúdsko-jemenské hranici 3000 vojáků. Pomáhat budou v boji proti jemenskými húthískými povstalci.",
-      "title_raw": "Sýrie vyšle tisíce vojáků do Saúdské Arábie a Jemenu pro boj proti Húthíům",
-      "lead_raw": "Sýrie vyšle k saúdsko-jemenské hranici 3000 vojáků. Pomáhat budou v boji proti jemenskými húthískými povstalci.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "4629085ff7d14ecbb7ca093c8b3b5f075214316d",
-      "fingerprint": "513ff3166e5f1b085ea5ed09fdc4b3dd45f060ff",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-v-saudske-arabii-a-jemenu-budou-nasazeny-tisice-syrskych-vojaku-40607357",
-      "published_utc": "2026-11-07T13:30:42Z",
-      "title_en": "V Saúdské Arábii a Jemenu budou nasazeny tisíce syrských vojáků",
-      "lead_en": "V Saúdské Arábii a Jemenu budou nasazeny tisíce syrských vojáků, stovky jich jsou na obou stranách hranice již nyní. Agentuře AFP to sdělily nejmenované zdroje z jemenských vládních úřadů a armády.",
-      "title_raw": "V Saúdské Arábii a Jemenu budou nasazeny tisíce syrských vojáků",
-      "lead_raw": "V Saúdské Arábii a Jemenu budou nasazeny tisíce syrských vojáků, stovky jich jsou na obou stranách hranice již nyní. Agentuře AFP to sdělily nejmenované zdroje z jemenských vládních úřadů a armády.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "8d096b6be3aba2bdcfc9af0276edd8858735ebc3",
-      "fingerprint": "cc5d9e6529193666d229a41cda6b5b00fef89664",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-rusko-neprestava-dodavat-iranu-zbrane-i-kdyz-je-potrebuje-na-ukrajine-40607277",
-      "published_utc": "2026-11-07T12:08:19Z",
-      "title_en": "Rusko nepřestává dodávat Íránu zbraně, i když je potřebuje na Ukrajině",
-      "lead_en": "Opačným směrem než íránské drony Šáhid se vydá nebo již vydalo 90 ruských odpalovacích zařízení pro pokročilé střely. Zatímco bezpilotníky putovaly z Íránu do Ruska, odpalovací zařízení zamíří z Ruska do Íránu.",
-      "title_raw": "Rusko nepřestává dodávat Íránu zbraně, i když je potřebuje na Ukrajině",
-      "lead_raw": "Opačným směrem než íránské drony Šáhid se vydá nebo již vydalo 90 ruských odpalovacích zařízení pro pokročilé střely. Zatímco bezpilotníky putovaly z Íránu do Ruska, odpalovací zařízení zamíří z Ruska do Íránu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "85b189b7acf39ff09e293590f6be69f9a9f6ea1e",
-      "fingerprint": "cef75a73ed5b44543067a0fab9ece74544f362dc",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-o-jednu-nohu-prisel-druhou-si-amputoval-sam-ukrajinskeho-vojaka-po-osmi-mesicich-evakuoval-dron-40607346",
-      "published_utc": "2026-11-07T11:02:07Z",
-      "title_en": "O jednu nohu přišel, druhou si uřízl sám. Ukrajinského vojáka po osmi měsících evakuoval dron",
-      "lead_en": "Už nemám pravou nohu ani botu velikosti 44, hlásil Kostjantyn Vlasenko svému nadřízenému. Ukrajinský voják strávil měsíce v izolaci na frontové linii u Kupjansku.",
-      "title_raw": "O jednu nohu přišel, druhou si uřízl sám. Ukrajinského vojáka po osmi měsících evakuoval dron",
-      "lead_raw": "Už nemám pravou nohu ani botu velikosti 44, hlásil Kostjantyn Vlasenko svému nadřízenému. Ukrajinský voják strávil měsíce v izolaci na frontové linii u Kupjansku.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "646f040308810953d66728874c9d5add815eb864",
-      "fingerprint": "620481cee22f2efc786b53534bea73c8dfabf238",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-co-tady-delas-nechceme-v-polsku-nemecke-vojaky-oboril-se-poslanec-sejmu-na-prislusniky-bundeswehru-40607321",
-      "published_utc": "2026-11-07T10:26:21Z",
-      "title_en": "Co tady děláš, nechceme v Polsku německé vojáky, obořil se poslanec Sejmu na příslušníky Bundeswehru",
-      "lead_en": "Nebývalý rozruch vyvolalo v Polsku video, na němž se poslanec Sejmu Dariusz Matecki za národně konzervativní opoziční stranu Právo a spravedlnost (PiS) na ulici v centru Varšavy obul do tří vojáků německého Bundeswehru v polních uniformách.",
-      "title_raw": "Co tady děláš, nechceme v Polsku německé vojáky, obořil se poslanec Sejmu na příslušníky Bundeswehru",
-      "lead_raw": "Nebývalý rozruch vyvolalo v Polsku video, na němž se poslanec Sejmu Dariusz Matecki za národně konzervativní opoziční stranu Právo a spravedlnost (PiS) na ulici v centru Varšavy obul do tří vojáků německého Bundeswehru v polních uniformách.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "2832e05b7adf91aa9efd5011b8f8ef461ea740e7",
-      "fingerprint": "a3cdadfe3e662507f4c1d5b7d37b0e36d64b1453",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-referendum-o-vstupu-slovenska-do-evropske-unie-bylo-zfalsovane-tvrdi-premier-fico-40607345",
-      "published_utc": "2026-11-07T10:21:04Z",
-      "title_en": "Referendum o vstupu Slovenska do Evropské unie bylo zfalšované, tvrdí premiér Fico",
-      "lead_en": "Referendum o vstupu Slovenska do Evropské unie v roce 2003 bylo zfalšované, prohlásil premiér Robert Fico (Směr) během otevření Školy sociální demokracie organizované stranou Směr. Všelidové hlasování o vstupu Slovenska do EU bylo zatím jediným úspěšným plebiscitem v historii země.",
-      "title_raw": "Referendum o vstupu Slovenska do Evropské unie bylo zfalšované, tvrdí premiér Fico",
-      "lead_raw": "Referendum o vstupu Slovenska do Evropské unie v roce 2003 bylo zfalšované, prohlásil premiér Robert Fico (Směr) během otevření Školy sociální demokracie organizované stranou Směr. Všelidové hlasování o vstupu Slovenska do EU bylo zatím jediným úspěšným plebiscitem v historii země.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "077a48f782e924ac4d71e35ba73da38a73be2e9e",
-      "fingerprint": "5656c347fcb386e82b1f3023226caff9143d1311",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/zelenskyj-rusko-ukrajina-blackout-podpora-usa.A261107_105348_zahranicni_lupr",
-      "published_utc": "2026-11-07T10:20:00Z",
-      "title_en": "Rusko nás chce uvrhnout do blackoutu, napsal Zelenskyj. Spoléhá na podporu USA",
-      "lead_en": "Spoléháme na americký Kongres, že bude podporovat Ukrajinu, zejména proto, že Rusko své útoky stále stupňuje a snaží se zemi odstřihnout od elektrického proudu, napsal v sobotu ukrajinský prezident Volodymyr Zelenskyj. Ruská armáda v noci udeřila na ukrajinské území 172 drony a 36 balistickými střelami.",
-      "title_raw": "Rusko nás chce uvrhnout do blackoutu, napsal Zelenskyj. Spoléhá na podporu USA",
-      "lead_raw": "Spoléháme na americký Kongres, že bude podporovat Ukrajinu, zejména proto, že Rusko své útoky stále stupňuje a snaží se zemi odstřihnout od elektrického proudu, napsal v sobotu ukrajinský prezident Volodymyr Zelenskyj. Ruská armáda v noci udeřila na ukrajinské území 172 drony a 36 balistickými střelami.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "cf73b1dc333a7a50e88c6ba2d8e52b2e8e8385c7",
-      "fingerprint": "2b9348b2d02a5fba9256b739d44f66d33bb6d3e7",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-evropsti-zalobci-po-nehodach-vysetruji-zneuziti-dotaci-na-spanelskou-zeleznici-319940",
-      "published_utc": "2026-11-07T10:11:00Z",
-      "title_en": "Evropští žalobci po nehodách vyšetřují zneužití dotací na španělskou železnici",
-      "lead_en": "Na španělské vysokorychlostní trati letos při dvou nehodách zemřelo 115 lidí. Evropská prokuratura nyní prověřuje, zda nedošlo ke zneužití unijních dotací určených na modernizaci jejích bezpečnostních systémů.",
-      "title_raw": "Evropští žalobci po nehodách vyšetřují zneužití dotací na španělskou železnici",
-      "lead_raw": "Na španělské vysokorychlostní trati letos při dvou nehodách zemřelo 115 lidí. Evropská prokuratura nyní prověřuje, zda nedošlo ke zneužití unijních dotací určených na modernizaci jejích bezpečnostních systémů.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "3f3f0a7ffe53f1b693e99526c3af7d10b85e5d95",
-      "fingerprint": "b5501bd90d2af4bf732f92cec66e182c2d427a96",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/jihlava/zpravy/silnice-silnicar-snih-zima-udrzba-vysocina-jihlava-rsd-dalnice-sul-sypac.A261106_983359_jihlava-zpravy_mv",
-      "published_utc": "2026-11-07T08:10:58Z",
-      "title_en": "Plné sklady, nové vozy i aplikace, ale méně peněz. Silničáři vyhlížejí první sníh",
-      "lead_en": "Odhodlání, ochota k plnému nasazení – a také plné sklady zásob, nové vozy i aplikace, v níž lze online sledovat pohyb posypových vozů. S tím vším vstoupili do nové zimní sezony silničáři na Vysočině.",
-      "title_raw": "Plné sklady, nové vozy i aplikace, ale méně peněz. Silničáři vyhlížejí první sníh",
-      "lead_raw": "Odhodlání, ochota k plnému nasazení – a také plné sklady zásob, nové vozy i aplikace, v níž lze online sledovat pohyb posypových vozů. S tím vším vstoupili do nové zimní sezony silničáři na Vysočině.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "8005a083bea3fa50688cc381cc005a730fd7d017",
-      "fingerprint": "b5b54db1ee3dad1e4a3e0f373d2b1f0657a22a85",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/madarsko-otevira-archivy-o-informatorech-komunisticke-tajne-policie-379363",
-      "published_utc": "2026-11-07T08:00:00Z",
-      "title_en": "Maďarsko otevírá archivy o informátorech komunistické tajné policie",
-      "lead_en": "Maďarsko postupně zpřístupňuje veřejnosti spisy informátorů komunistické tajné bezpečnosti. V&nbsp;první fázi jde přibližně o&nbsp;šedesát tisíc jmen, další část bude zveřejněná v&nbsp;únoru.",
-      "title_raw": "Maďarsko otevírá archivy o informátorech komunistické tajné policie",
-      "lead_raw": "Maďarsko postupně zpřístupňuje veřejnosti spisy informátorů komunistické tajné bezpečnosti. V&nbsp;první fázi jde přibližně o&nbsp;šedesát tisíc jmen, další část bude zveřejněná v&nbsp;únoru.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
         "energy": 0,
         "economy": 0,
         "local_events": 0
