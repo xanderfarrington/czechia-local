@@ -1,10 +1,80 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-10T15:52:49Z",
+  "updated_at_utc": "2026-11-10T21:30:22Z",
   "topic": "economy",
-  "count": 31,
+  "count": 33,
   "articles": [
+    {
+      "id": "37f5b0f30237f95391e4719e51a4df98289bd487",
+      "fingerprint": "d376aa47906c639ed8ee138e5a349ca3276823c8",
+      "source": "iROZHLAS - Economy",
+      "url": "https://www.irozhlas.cz/ekonomika/kopecny-nase-firmy-maji-o-ukrajinu-zajem-kvuli-ceske-vlade-s-nami-ale-ukrajinci_2611102141_jar",
+      "published_utc": "2026-11-10T20:41:00Z",
+      "title_en": "Kopečný: Naše firmy mají o Ukrajinu zájem. Kvůli české vládě s námi ale Ukrajinci nesdílí všechno",
+      "lead_en": "V Abú Zabí se v následujících dvou dnech bude hledat způsob, jak ukončit ruskou agresi na Ukrajině a najít pro zemi bezpečnostní záruky. Na Ukrajinu naopak míří ministr průmyslu a obchodu Karel Havlíček (ANO) s početnou podnikatelskou delegací.",
+      "title_raw": "Kopečný: Naše firmy mají o Ukrajinu zájem. Kvůli české vládě s námi ale Ukrajinci nesdílí všechno",
+      "lead_raw": "V Abú Zabí se v následujících dvou dnech bude hledat způsob, jak ukončit ruskou agresi na Ukrajině a najít pro zemi bezpečnostní záruky. Na Ukrajinu naopak míří ministr průmyslu a obchodu Karel Havlíček (ANO) s početnou podnikatelskou delegací.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "0801b2c7858a3817b2eee1e70c601ea1f779b3ca",
+      "fingerprint": "34abd491f59c57bdf2d7ea93b2118e813af57286",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-utok-obilniny.A261110_192017_zahranicni_balu",
+      "published_utc": "2026-11-10T19:22:00Z",
+      "title_en": "Po energetice a mostech přichází na řadu vyhladovění. Kam zamíří další ruské útoky",
+      "lead_en": "Rusko plánuje útočit na obilné sklady a další objekty potravinářského průmyslu na Ukrajině, varuje tamější ministerstvo obrany. To by mohlo pro zemi sužovanou válkou znamenat cestu k hladovění, nemluvě o finančních ztrátách kvůli narušení exportu.",
+      "title_raw": "Po energetice a mostech přichází na řadu vyhladovění. Kam zamíří další ruské útoky",
+      "lead_raw": "Rusko plánuje útočit na obilné sklady a další objekty potravinářského průmyslu na Ukrajině, varuje tamější ministerstvo obrany. To by mohlo pro zemi sužovanou válkou znamenat cestu k hladovění, nemluvě o finančních ztrátách kvůli narušení exportu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "f1860280018cff6bb0d5acd4297561dbef24e161",
+      "fingerprint": "d3d51f951565ed6ed13576bf407edd9a1e651555",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-rozhodnuto-kalifornie-odmitla-prulomovou-dan-pro-miliardare-40607917",
+      "published_utc": "2026-11-10T16:44:06Z",
+      "title_en": "Rozhodnuto. Kalifornie odmítla průlomovou daň pro miliardáře",
+      "lead_en": "Kalifornští voliči odmítli tento týden v referendu návrh na zavedení jednorázové daně z majetku miliardářů, která měla být prvním moderním zdaněním bohatství tohoto typu ve Spojených státech. Návrh počítal s pětiprocentním odvodem z čistého majetku obyvatel státu s jměním přesahujícím jednu miliardu dolarů (21,7 miliardy korun).",
+      "title_raw": "Rozhodnuto. Kalifornie odmítla průlomovou daň pro miliardáře",
+      "lead_raw": "Kalifornští voliči odmítli tento týden v referendu návrh na zavedení jednorázové daně z majetku miliardářů, která měla být prvním moderním zdaněním bohatství tohoto typu ve Spojených státech. Návrh počítal s pětiprocentním odvodem z čistého majetku obyvatel státu s jměním přesahujícím jednu miliardu dolarů (21,7 miliardy korun).",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "7c0a8436a789914baef0180cc41e3f828afe7fff",
       "fingerprint": "a51e987b58474b2e3a7791ea2bc337c1d201b0f6",
@@ -668,28 +738,6 @@
         "military": 0,
         "energy": 0,
         "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "27b4d916fe8f0d2b21025bc3fb9d2ab111a06a71",
-      "fingerprint": "5e9c0a91c0f2f74bfdc3129bd6e043d0fcf97d07",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/ai-mladi-lide-trh-prace-velka-britanie.A261105_121551_eko-zahranicni_rie",
-      "published_utc": "2026-11-08T16:00:00Z",
-      "title_en": "Britské firmy mění pravidla náboru mladých. Bez znalosti AI hrozí nezaměstnanost",
-      "lead_en": "Umělá inteligence zásadně mění britský trh práce a komplikuje mladým lidem vstup do zaměstnání. Zatímco počet juniorských pozic prudce klesá, poptávka po uchazečích se znalostmi AI rychle roste.",
-      "title_raw": "Britské firmy mění pravidla náboru mladých. Bez znalosti AI hrozí nezaměstnanost",
-      "lead_raw": "Umělá inteligence zásadně mění britský trh práce a komplikuje mladým lidem vstup do zaměstnání. Zatímco počet juniorských pozic prudce klesá, poptávka po uchazečích se znalostmi AI rychle roste.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
         "local_events": 0
       },
       "topics": [
