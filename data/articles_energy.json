@@ -1,10 +1,76 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-09T17:53:10Z",
+  "updated_at_utc": "2026-11-10T00:54:52Z",
   "topic": "energy",
-  "count": 45,
+  "count": 47,
   "articles": [
+    {
+      "id": "f3042fdfcf55286d76bf4c3eb260e8db42025d81",
+      "fingerprint": "e3aa8cdc48394052fc4bc8a9cab8311580c69943",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/chteji-k-jednacimu-stolu-ac-se-neshodnou-putinuv-telefonat-deli-evropske-spojence.A261109_185821_zahranicni_bury",
+      "published_utc": "2026-11-09T23:00:00Z",
+      "title_en": "Chtějí k jednacímu stolu, ač se neshodnou. Putinův telefonát dělí evropské spojence",
+      "lead_en": "Má Evropa mluvit přímo s Vladimirem Putinem, nebo by tím jen legitimizovala ruskou agresi? Tato otázka nyní rozděluje sever Evropy, téměř pět let po začátku plnohodnotné ruské invaze na Ukrajinu.",
+      "title_raw": "Chtějí k jednacímu stolu, ač se neshodnou. Putinův telefonát dělí evropské spojence",
+      "lead_raw": "Má Evropa mluvit přímo s Vladimirem Putinem, nebo by tím jen legitimizovala ruskou agresi? Tato otázka nyní rozděluje sever Evropy, téměř pět let po začátku plnohodnotné ruské invaze na Ukrajinu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "2c872661b4fe53568a62e396ed8aa9de37947cee",
+      "fingerprint": "17fbb46581118f3589b413b26ed74fc79b76c8ab",
+      "source": "iROZHLAS - Economy",
+      "url": "https://www.irozhlas.cz/ekonomika/dotace-cen-energii-spustily-i-odvody-z-trzeb-energetickych-firem-podle_2611092144_lbl",
+      "published_utc": "2026-11-09T20:44:00Z",
+      "title_en": "Dotace cen energií by spustily i odvody z tržeb energetických firem. Podle ‚koeficientu K‘",
+      "lead_en": "Vláda v pondělí schválila novelu energetického zákona, která jí v případě dalšího prudkého zdražování energií umožní dotovat regulovanou složku ceny elektřiny a plynu pro odběratele a zastropovat nadměrné příjmy výrobců elektřiny. Odvod části těchto příjmů by následně mohla použít pro pokrytí nákladů státu na dotace.",
+      "title_raw": "Dotace cen energií by spustily i odvody z tržeb energetických firem. Podle ‚koeficientu K‘",
+      "lead_raw": "Vláda v pondělí schválila novelu energetického zákona, která jí v případě dalšího prudkého zdražování energií umožní dotovat regulovanou složku ceny elektřiny a plynu pro odběratele a zastropovat nadměrné příjmy výrobců elektřiny. Odvod části těchto příjmů by následně mohla použít pro pokrytí nákladů státu na dotace.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "050d7cc42973169190ef9cfd45969a17a6c941e6",
+      "fingerprint": "bcdc61b95aad1c2a756ca83debc30da6afa3ffa6",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-vlada-podporila-navrh-na-obranu-kriticke-infrastruktury-proti-dronum-320081",
+      "published_utc": "2026-11-09T18:17:43Z",
+      "title_en": "Vláda podpořila návrh na obranu kritické infrastruktury proti dronům",
+      "lead_en": "Vládou schválená novela by mohla dát více možností policii i provozovatelům kritické infrastruktury, v jejíž blízkosti se objeví dron. Úprava by se dotkla bezletových zón u mezinárodních letišť či jaderných elektráren.",
+      "title_raw": "Vláda podpořila návrh na obranu kritické infrastruktury proti dronům",
+      "lead_raw": "Vládou schválená novela by mohla dát více možností policii i provozovatelům kritické infrastruktury, v jejíž blízkosti se objeví dron. Úprava by se dotkla bezletových zón u mezinárodních letišť či jaderných elektráren.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "9c348f73374e63933a190f206b3acb53dfb24d29",
       "fingerprint": "63bc670566d893bc0cdcfb9ed9cc6249353b6123",
@@ -988,28 +1054,6 @@
         "energy": 2,
         "economy": 0,
         "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "c482da0464481f17bcf24279df869a7af4b1ad6e",
-      "fingerprint": "d6d7d672d4fa2e5d7638d35cb14e1a2f7dade802",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/letadlo-motor-datova-centra-zivotni-prostredi.A261104_114633_eko-zahranicni_elsy",
-      "published_utc": "2026-11-07T18:00:00Z",
-      "title_en": "Motory ze starých letadel začínají pohánět datová centra. Ekologové se bouří",
-      "lead_en": "V Sonorské poušti v Arizoně stojí na nekonečné ploše tisíce vyřazených starých letadel. Přestože jejich motory neběžely už dlouhé roky, rostoucí poptávka po elektřině pro vznikající datová centra jim může přinést druhý život.",
-      "title_raw": "Motory ze starých letadel začínají pohánět datová centra. Ekologové se bouří",
-      "lead_raw": "V Sonorské poušti v Arizoně stojí na nekonečné ploše tisíce vyřazených starých letadel. Přestože jejich motory neběžely už dlouhé roky, rostoucí poptávka po elektřině pro vznikající datová centra jim může přinést druhý život.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
       },
       "topics": [
         "energy"

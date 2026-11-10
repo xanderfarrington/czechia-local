@@ -1,10 +1,77 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-09T17:53:10Z",
+  "updated_at_utc": "2026-11-10T00:54:52Z",
   "topic": "local_events",
-  "count": 21,
+  "count": 23,
   "articles": [
+    {
+      "id": "7663b57d2ca555967f6efb0ed45a9c67e17ff64c",
+      "fingerprint": "99384bd7ef8a9307d19c0f6136db24b302d3067c",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/po-vybuchu-v-ocelarne-na-zapade-turecka-zemrelo-16-lidi-rekl-erdogan.A261109_193023_zahranicni_mikp",
+      "published_utc": "2026-11-09T19:27:00Z",
+      "title_en": "Tragédie v turecké ocelárně: mostový jeřáb spadl do průmyslové pece, nastal výbuch",
+      "lead_en": "Pondělní výbuch v ocelárně na západě Turecka zabil 16 lidí, řekl odpoledne turecký prezident Recep Tayyip Erdogan, který také slíbil prošetřit příčiny tragédie. Zraněno je 13 lidí, z nichž dva jsou ve vážném stavu.",
+      "title_raw": "Tragédie v turecké ocelárně: mostový jeřáb spadl do průmyslové pece, nastal výbuch",
+      "lead_raw": "Pondělní výbuch v ocelárně na západě Turecka zabil 16 lidí, řekl odpoledne turecký prezident Recep Tayyip Erdogan, který také slíbil prošetřit příčiny tragédie. Zraněno je 13 lidí, z nichž dva jsou ve vážném stavu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "885c4e91a650a8ebc8aebaec6f2e215373099f1e",
+      "fingerprint": "8682e03a4d7a6543ffaa8c2e575bd110589df30f",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/drama-ve-skole-pri-pozaru-i-kratce-pred-porodem-prezident-ocenil-zachrance-379450",
+      "published_utc": "2026-11-09T19:02:13Z",
+      "title_en": "Drama ve škole, při požáru i krátce před porodem. Prezident ocenil zachránce",
+      "lead_en": "Zlaté záchranářské kříže na Pražském hradě převzali z&nbsp;rukou prezidenta Petra Pavla laici i&nbsp;profesionálové, kteří v&nbsp;loňském roce riskovali životy pro druhé. Mezi oceněnými byla například učitelka, která v&nbsp;Rudolfově chránila žáky před třináctiletým chlapcem, který přinesl do školy pistoli.",
+      "title_raw": "Drama ve škole, při požáru i krátce před porodem. Prezident ocenil zachránce",
+      "lead_raw": "Zlaté záchranářské kříže na Pražském hradě převzali z&nbsp;rukou prezidenta Petra Pavla laici i&nbsp;profesionálové, kteří v&nbsp;loňském roce riskovali životy pro druhé. Mezi oceněnými byla například učitelka, která v&nbsp;Rudolfově chránila žáky před třináctiletým chlapcem, který přinesl do školy pistoli.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "29ef10e278d29f674f2ba9250befe47d360f7450",
+      "fingerprint": "7c521a28a6127219743027a1c54aacf0bb1db68e",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-studentka-mediciny-a-vojak-ze-slovenska-resuscitovali-zenu-po-strelbe-v-krakove-az-do-prijezdu-sanitky-40607592",
+      "published_utc": "2026-11-09T18:13:48Z",
+      "title_en": "Studentka medicíny a voják ze Slovenska resuscitovali ženu po střelbě v Krakově až do příjezdu sanitky",
+      "lead_en": "Dva mladí Slováci pomáhali zraněné ženě po střelbě v centru Krakova. Studentka medicíny Linda a její přítel Mário, který je voják, ji resuscitovali až do příjezdu záchranářů.",
+      "title_raw": "Studentka medicíny a voják ze Slovenska resuscitovali ženu po střelbě v Krakově až do příjezdu sanitky",
+      "lead_raw": "Dva mladí Slováci pomáhali zraněné ženě po střelbě v centru Krakova. Studentka medicíny Linda a její přítel Mário, který je voják, ji resuscitovali až do příjezdu záchranářů.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "b4fda3b8538082d4d46db08a3e7044eaedddd885",
       "fingerprint": "3096e662c3e68643030998ab512b4ce756a00cd0",
@@ -435,28 +502,6 @@
       "lead_en": "Centrální Japonsko zasáhlo v&nbsp;neděli silné zemětřesení. Agentura AP s&nbsp;odkazem na místní média informovala o&nbsp;nejméně 22 zraněných.",
       "title_raw": "Japonsko zasáhlo silné zemětřesení, zranění utrpělo nejméně 22 lidí",
       "lead_raw": "Centrální Japonsko zasáhlo v&nbsp;neděli silné zemětřesení. Agentura AP s&nbsp;odkazem na místní média informovala o&nbsp;nejméně 22 zraněných.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "46c2356a44769d3229367804a89ef40212c5804b",
-      "fingerprint": "79f2f17f38e8599ed4e54ba344f0b0d54fad3393",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/dva-mrtve-si-vyzadala-strelba-na-hlavnim-namesti-v-krakove-na-jihu-polska-uvedla-televize-s-odvolani.A261107_160251_zahranicni_kurl",
-      "published_utc": "2026-11-07T18:29:00Z",
-      "title_en": "Střelba v polském Krakově. Počet obětí vzrostl na šest, ranění jsou také policisté",
-      "lead_en": "Nejméně šest mrtvých a patnáct zraněných si v sobotu vyžádala střelba v centru polského Krakova. Mezi raněnými jsou i policisté.",
-      "title_raw": "Střelba v polském Krakově. Počet obětí vzrostl na šest, ranění jsou také policisté",
-      "lead_raw": "Nejméně šest mrtvých a patnáct zraněných si v sobotu vyžádala střelba v centru polského Krakova. Mezi raněnými jsou i policisté.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
