@@ -1,10 +1,144 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-10T07:50:42Z",
+  "updated_at_utc": "2026-11-10T15:52:49Z",
   "topic": "energy",
-  "count": 51,
+  "count": 45,
   "articles": [
+    {
+      "id": "688454f7216c5e1c38fb75caab23e895636c7925",
+      "fingerprint": "8bdea5ba0aa044e266de2cc7e02bd6d3e2c155e8",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-cinska-stopa-kauzy-nvidia-investor-uz-v-kvetnu-popsal-podezrele-obchody-320180",
+      "published_utc": "2026-11-10T13:40:00Z",
+      "title_en": "Čínská stopa kauzy Nvidia. Investor už v květnu popsal podezřelé obchody",
+      "lead_en": "Za skandálem kolem šéfa Nvidie není jen přiznaná nevěra. Do popředí se vrací zpráva investiční firmy Culper Research, která už v květnu upozornila na jeho kontakty s manažerkou Megaspeedu a možné obcházení omezení vývozu čipů.",
+      "title_raw": "Čínská stopa kauzy Nvidia. Investor už v květnu popsal podezřelé obchody",
+      "lead_raw": "Za skandálem kolem šéfa Nvidie není jen přiznaná nevěra. Do popředí se vrací zpráva investiční firmy Culper Research, která už v květnu upozornila na jeho kontakty s manažerkou Megaspeedu a možné obcházení omezení vývozu čipů.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "27bbad8f70f5f6bfb9bc4919db2c2f96f277ceb6",
+      "fingerprint": "1361d34c8108426d0dddada779d1ad6b3dddf5d5",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/stat-by-mohl-na-odvodech-vybrat-az-90-pct-nadmernych-prijmu-vyrobcu-elektriny/2900064",
+      "published_utc": "2026-11-10T13:11:00Z",
+      "title_en": "Stát by mohl na odvodech vybrat až 90 pct nadměrných příjmů výrobců elektřiny",
+      "lead_en": "Praha - Stát by v případě vysokých cen energií mohl vybrat od producentů elektřiny až 90 procent jejich nadměrných příjmů nad stanovený cenový strop. Ten by při aktivování odvodů předem nastavila vláda....",
+      "title_raw": "Stát by mohl na odvodech vybrat až 90 pct nadměrných příjmů výrobců elektřiny",
+      "lead_raw": "Praha - Stát by v případě vysokých cen energií mohl vybrat od producentů elektřiny až 90 procent jejich nadměrných příjmů nad stanovený cenový strop. Ten by při aktivování odvodů předem nastavila vláda....",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "3aef1c3df15b7937f44e973e928f6eba1785768d",
+      "fingerprint": "a18f1f338ad7d06e7c192e4908654c83f999296b",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ceska-a-slovenska-vlada-spolecne-jednaji-v-bratislave-379473",
+      "published_utc": "2026-11-10T11:56:15Z",
+      "title_en": "Ukrajině platíme účty, ale u jednacího stolu nejsme, řekli Babiš a Fico",
+      "lead_en": "Evropa by se měla aktivně podílet na vyjednávání o&nbsp;ukončení války na Ukrajině, shodli se premiéři Česka a&nbsp;Slovenska Andrej Babiš (ANO) a&nbsp;Robert Fico (Smer) po společném rokování kabinetů v&nbsp;Bratislavě. Oběma vadí, že EU napadené zemi pomáhá finančně, avšak o&nbsp;míru přímo její zástupci nejednají.",
+      "title_raw": "Ukrajině platíme účty, ale u jednacího stolu nejsme, řekli Babiš a Fico",
+      "lead_raw": "Evropa by se měla aktivně podílet na vyjednávání o&nbsp;ukončení války na Ukrajině, shodli se premiéři Česka a&nbsp;Slovenska Andrej Babiš (ANO) a&nbsp;Robert Fico (Smer) po společném rokování kabinetů v&nbsp;Bratislavě. Oběma vadí, že EU napadené zemi pomáhá finančně, avšak o&nbsp;míru přímo její zástupci nejednají.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "0285357aaa1c3318892cc2302f6602abd596047c",
+      "fingerprint": "bb574ef9abe61c149529d0e62287fc0013910190",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-zdrojem-salmonelozy-v-ujezdu-byly-spagety-potvrdilo-vysetrovani-320163",
+      "published_utc": "2026-11-10T11:32:48Z",
+      "title_en": "Zdrojem salmonelózy v Újezdu byly špagety, potvrdilo vyšetřování",
+      "lead_en": "Vyšetřování epidemie salmonelózy v pražském Újezdu nad Lesy potvrdilo, že jejím zdrojem byly uhlířské špagety z prošlých vajec podávané školní jídelnou Masarykovy základní školy. Hygienici o sankci teprve rozhodnou.",
+      "title_raw": "Zdrojem salmonelózy v Újezdu byly špagety, potvrdilo vyšetřování",
+      "lead_raw": "Vyšetřování epidemie salmonelózy v pražském Újezdu nad Lesy potvrdilo, že jejím zdrojem byly uhlířské špagety z prošlých vajec podávané školní jídelnou Masarykovy základní školy. Hygienici o sankci teprve rozhodnou.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "34de1b7e76ad2fab30af5f36f8ec798a65d176c7",
+      "fingerprint": "ab8fe2c21c85fc92fc1199d4074344ae28726cc4",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/vodni-elektrarna-orlik-se-chysta-na-rozsahlou-modernizaci/2899985",
+      "published_utc": "2026-11-10T11:23:00Z",
+      "title_en": "Vodní elektrárna Orlík se chystá na rozsáhlou modernizaci",
+      "lead_en": "Solenice (Příbramsko) - Vodní elektrárna Orlík se chystá na rozsáhlou modernizaci. Dvě ze čtyř soustrojí budou nově schopna fungovat také v přečerpávacím režimu, který umožní ukládat přebytečnou energii....",
+      "title_raw": "Vodní elektrárna Orlík se chystá na rozsáhlou modernizaci",
+      "lead_raw": "Solenice (Příbramsko) - Vodní elektrárna Orlík se chystá na rozsáhlou modernizaci. Dvě ze čtyř soustrojí budou nově schopna fungovat také v přečerpávacím režimu, který umožní ukládat přebytečnou energii....",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "541816779c5fd72907f06695c50be08be2d1aee6",
+      "fingerprint": "df25658c7a082d3b2ab90be37a2030ba20aba22d",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ruske-utoky-na-kyjev-zesiluji-lide-prespavaji-v-metru-i-preventivne-379469",
+      "published_utc": "2026-11-10T10:26:05Z",
+      "title_en": "Ruské útoky na Kyjev zesilují, lidé přespávají v metru i preventivně",
+      "lead_en": "Kyjev čelí stále intenzivnějším ruským útokům. Jejich terčem se stávají obytné domy, energetická infrastruktura či mosty přes řeku Dněpr.",
+      "title_raw": "Ruské útoky na Kyjev zesilují, lidé přespávají v metru i preventivně",
+      "lead_raw": "Kyjev čelí stále intenzivnějším ruským útokům. Jejich terčem se stávají obytné domy, energetická infrastruktura či mosty přes řeku Dněpr.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "86adb53624a7338d6f23dcdf5e173eca43ea8891",
       "fingerprint": "5b7eb99c7f50fd35d498b9e07c3e0bc322f5af4c",
@@ -865,278 +999,6 @@
       "lead_en": "Osm kilometrů a tři sta třicet metrů zvládne v reálném provozu na jednu kilowatthodinu ujet nový malý francouzský elektromobil Renault Twingo. Zjistilo se to při testu patnácti plně elektrických vozidel,...",
       "title_raw": "Renault Twingo je vítězem soutěže v energetické účinnosti",
       "lead_raw": "Osm kilometrů a tři sta třicet metrů zvládne v reálném provozu na jednu kilowatthodinu ujet nový malý francouzský elektromobil Renault Twingo. Zjistilo se to při testu patnácti plně elektrických vozidel,...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "aa1972c38ce0af779f666ca2c242e1e25a62a332",
-      "fingerprint": "7ae41fc4eef09784d422152347478e51cd4ccefc",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/evropa-se-zapoji-do-mirovych-jednani-o-ukrajine-v-abu-dhabi-rekl-francouzsky-ministr-379397",
-      "published_utc": "2026-11-08T14:59:06Z",
-      "title_en": "Evropa se zapojí do mírových jednání o Ukrajině v Abú Dhabí, řekl francouzský ministr",
-      "lead_en": "Francouzský ministr zahraničí Jean-Noël Barrot v&nbsp;rozhovoru pro stanici RTL uvedl, že se evropské země, včetně Francie, zapojí do mírových jednání mezi Ukrajinou a&nbsp;Ruskem. Za zprostředkování Spojených států amerických se jednání uskuteční 10.",
-      "title_raw": "Evropa se zapojí do mírových jednání o Ukrajině v Abú Dhabí, řekl francouzský ministr",
-      "lead_raw": "Francouzský ministr zahraničí Jean-Noël Barrot v&nbsp;rozhovoru pro stanici RTL uvedl, že se evropské země, včetně Francie, zapojí do mírových jednání mezi Ukrajinou a&nbsp;Ruskem. Za zprostředkování Spojených států amerických se jednání uskuteční 10.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "8bb59e340687cbcdd5b2d388cc64c3ed8d525a97",
-      "fingerprint": "352e99507b9fd8cda2bd80ab83538f5078580392",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/evropa-staty-jednani-mir-rusko-ukrajina-usa-valka-emiraty.A261108_141451_zahranicni_fohl",
-      "published_utc": "2026-11-08T14:27:00Z",
-      "title_en": "Evropa se zapojí do mírových jednání mezi Ukrajinou a Ruskem v Abú Zabí",
-      "lead_en": "Evropské země včetně Francie se zúčastní mírových jednání mezi Ukrajinou a Ruskem. To se za zprostředkování Spojených států uskuteční 10.",
-      "title_raw": "Evropa se zapojí do mírových jednání mezi Ukrajinou a Ruskem v Abú Zabí",
-      "lead_raw": "Evropské země včetně Francie se zúčastní mírových jednání mezi Ukrajinou a Ruskem. To se za zprostředkování Spojených států uskuteční 10.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "0e9e8c80ce8b84e10c2215f9f9ab8a573ae6fb99",
-      "fingerprint": "7decaaa7bd15caf5160b64c41ca14e893e18b76c",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-zpravy-kralovehradecky-kraj-v-upici-na-trutnovsku-hlasovali-o-vetrnych-elektrarnach-k-urnam-vsak-nedorazilo-dost-volicu-40607400",
-      "published_utc": "2026-11-08T13:53:32Z",
-      "title_en": "V Úpici na Trutnovsku hlasovali o větrných elektrárnách. K urnám však nedorazilo dost voličů",
-      "lead_en": "Sobotní referendum o případné stavbě větrných elektráren v Úpici na Trutnovsku není platné. Hlasovat přišlo dvanáct set lidí, pro platnost referenda to ale nestačilo.",
-      "title_raw": "V Úpici na Trutnovsku hlasovali o větrných elektrárnách. K urnám však nedorazilo dost voličů",
-      "lead_raw": "Sobotní referendum o případné stavbě větrných elektráren v Úpici na Trutnovsku není platné. Hlasovat přišlo dvanáct set lidí, pro platnost referenda to ale nestačilo.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "21d0a8cca31c79f22601e7fd8787507bcb110a56",
-      "fingerprint": "ce08663402b65f0b8b3785315de696e4d895abfa",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-evropa-vcetne-francie-se-zapoji-do-mirovych-jednani-o-ukrajine-v-abu-zabi-319987",
-      "published_utc": "2026-11-08T13:15:13Z",
-      "title_en": "Evropa včetně Francie se zapojí do mírových jednání o Ukrajině v Abú Zabí",
-      "lead_en": "Evropa se zúčastní mírových dialogů mezi Ukrajinou a Ruskem. Jednání se uskuteční 10.",
-      "title_raw": "Evropa včetně Francie se zapojí do mírových jednání o Ukrajině v Abú Zabí",
-      "lead_raw": "Evropa se zúčastní mírových dialogů mezi Ukrajinou a Ruskem. Jednání se uskuteční 10.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "b39d0b3d14f0cb5a577d35f1d3315935d9718395",
-      "fingerprint": "cb039b418a97b4c830dc9e0ac0da96d55009ac7c",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/videa-tydne-strelba-v-krakove-nepokoje-u-kyjeva-a-blackout-v-praze.A261108_113815_domaci_pech",
-      "published_utc": "2026-11-08T13:09:00Z",
-      "title_en": "VIDEA TÝDNE: Střelba v Krakově, nepokoje u Kyjeva a blackout v Praze",
-      "lead_en": "Také uplynulý týden přinesl dramatické události, které zachytily kamery. Nejvíc rezonovala střelba v polském Krakově, při které zemřelo šest lidí a dalších 15 je zraněných.",
-      "title_raw": "VIDEA TÝDNE: Střelba v Krakově, nepokoje u Kyjeva a blackout v Praze",
-      "lead_raw": "Také uplynulý týden přinesl dramatické události, které zachytily kamery. Nejvíc rezonovala střelba v polském Krakově, při které zemřelo šest lidí a dalších 15 je zraněných.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "energy",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "4eed4c332c9d939a06547160ff854f41600349d7",
-      "fingerprint": "820a7db30bc72e5fc70e9f0ca505314d9301a091",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/operace-v-iranu-jeste-neskoncila-dal-se-snazi-ziskat-jadernou-zbran-tvrdi-kac-379396",
-      "published_utc": "2026-11-08T11:31:17Z",
-      "title_en": "Operace v Íránu ještě neskončila, dál se snaží získat jadernou zbraň, tvrdí Kac",
-      "lead_en": "Izraelská operace v&nbsp;Íránu ještě neskončila, prohlásil v&nbsp;neděli podle agentury AFP ministr obrany židovského státu Jisra'el Kac. Zároveň znovu obvinil Teherán, že usiluje o&nbsp;získání jaderné zbraně, což Írán dlouhodobě odmítá.",
-      "title_raw": "Operace v Íránu ještě neskončila, dál se snaží získat jadernou zbraň, tvrdí Kac",
-      "lead_raw": "Izraelská operace v&nbsp;Íránu ještě neskončila, prohlásil v&nbsp;neděli podle agentury AFP ministr obrany židovského státu Jisra'el Kac. Zároveň znovu obvinil Teherán, že usiluje o&nbsp;získání jaderné zbraně, což Írán dlouhodobě odmítá.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "eb46ef2e8de1601a7629b5f389b75f2d88cdd627",
-      "fingerprint": "b36ba2d2058dcc59d7f33039b906d38657069910",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-macinka-za-evropu-by-mela-s-ruskem-jednat-jedna-osobnost-s-volnym-mandatem-319981",
-      "published_utc": "2026-11-08T11:15:03Z",
-      "title_en": "Macinka: Za Evropu by měla s Ruskem jednat jedna osobnost s volným mandátem",
-      "lead_en": "Šéf české diplomacie Petr Macinka doufá, že pro jednání s Ruskem bude Evropa schopná vybrat jednu osobnost a poskytne jí volný mandát. Názory jednotlivých zemí na ruskou agresi se dle ministra zahraničí liší.",
-      "title_raw": "Macinka: Za Evropu by měla s Ruskem jednat jedna osobnost s volným mandátem",
-      "lead_raw": "Šéf české diplomacie Petr Macinka doufá, že pro jednání s Ruskem bude Evropa schopná vybrat jednu osobnost a poskytne jí volný mandát. Názory jednotlivých zemí na ruskou agresi se dle ministra zahraničí liší.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "57bf738aa8361f14cb1dceece0ea1c573efd147e",
-      "fingerprint": "88656a4dca4fffa17962fa7b4f4dc460426719b2",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/macinka-za-evropu-by-mela-s-ruskem-jednat-jedna-osobnost-s-volnym-mandatem/2898960",
-      "published_utc": "2026-11-08T10:40:00Z",
-      "title_en": "Macinka: Za Evropu by měla s Ruskem jednat jedna osobnost s volným mandátem",
-      "lead_en": "Praha - Evropa by pro jednání s Ruskem o konfliktu na Ukrajině měla podle ministra zahraničí Petra Macinky (Motoristé) vybrat jednu osobnost a vybavit ji volným mandátem, protože názory zemí na ukončení...",
-      "title_raw": "Macinka: Za Evropu by měla s Ruskem jednat jedna osobnost s volným mandátem",
-      "lead_raw": "Praha - Evropa by pro jednání s Ruskem o konfliktu na Ukrajině měla podle ministra zahraničí Petra Macinky (Motoristé) vybrat jednu osobnost a vybavit ji volným mandátem, protože názory zemí na ukončení...",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3c99b98b61365974fd308190758412c5c3650d83",
-      "fingerprint": "9f1e838248da554ee4fcdaf2cec9f190a03f8c3e",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/expremier-australie-rudd-v-praze-cina-meni-svetovy-rad-evropa-musi-byt-jednotna.A261107_160656_zahranicni_mase",
-      "published_utc": "2026-11-08T09:38:26Z",
-      "title_en": "Expremiér Austrálie Rudd v Praze: Čína mění světový řád, Evropa musí být jednotná",
-      "lead_en": "Čína pod vedením prezidenta Si Ťin-pchinga nechce jen dohánět Západ, chce přepisovat pravidla světového řádu. Podle bývalého australského premiéra Kevina Rudda to Evropa pocítí především v průmyslu, tedy i v českých dodavatelských řetězcích.",
-      "title_raw": "Expremiér Austrálie Rudd v Praze: Čína mění světový řád, Evropa musí být jednotná",
-      "lead_raw": "Čína pod vedením prezidenta Si Ťin-pchinga nechce jen dohánět Západ, chce přepisovat pravidla světového řádu. Podle bývalého australského premiéra Kevina Rudda to Evropa pocítí především v průmyslu, tedy i v českých dodavatelských řetězcích.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "cf2db7d87cbfb0e7fcdb5fe338843cb484937f55",
-      "fingerprint": "71e00bf8fa8a13b24ec83b9b7912d1329cde7569",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/domacnosti-bez-proudu-rusko-utoky-ukrajina-energie-telegram.A261108_091309_zahranicni_fohl",
-      "published_utc": "2026-11-08T08:37:00Z",
-      "title_en": "Statisíce domácností bez proudu. Rusko udeřilo na ukrajinskou energetickou síť",
-      "lead_en": "Více než 600 tisíc domácností zůstalo po nočních ruských útocích na energetickou síť v Dněpropetrovské oblasti bez proudu. V neděli to oznámil šéf oblastní vojenské správy Oleksandr Hanža na platformě Telegram.",
-      "title_raw": "Statisíce domácností bez proudu. Rusko udeřilo na ukrajinskou energetickou síť",
-      "lead_raw": "Více než 600 tisíc domácností zůstalo po nočních ruských útocích na energetickou síť v Dněpropetrovské oblasti bez proudu. V neděli to oznámil šéf oblastní vojenské správy Oleksandr Hanža na platformě Telegram.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "fe692c44362824d3f2ea022b67aa4225da394ed7",
-      "fingerprint": "d7ffb3ceff657ff268cf2931deb9fc06ee288f83",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/hradec-kralove/zpravy/vetrne-elektrarny-upice-trutnov-cez-referendum.A261108_091005_hradec-zpravy_aya",
-      "published_utc": "2026-11-08T08:27:00Z",
-      "title_en": "Referendum o větrných elektrárnách v Úpici není platné. Přišlo málo voličů",
-      "lead_en": "Sobotní referendum o případné stavbě větrných elektráren v Úpici na Trutnovsku není platné, protože přišlo málo lidí. Katastr obce nespadá do státem vyhlášených akceleračních zón, které umožňují rychlejší povolování větrníků.",
-      "title_raw": "Referendum o větrných elektrárnách v Úpici není platné. Přišlo málo voličů",
-      "lead_raw": "Sobotní referendum o případné stavbě větrných elektráren v Úpici na Trutnovsku není platné, protože přišlo málo lidí. Katastr obce nespadá do státem vyhlášených akceleračních zón, které umožňují rychlejší povolování větrníků.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "19da2ed846a572b1f2cb89ee0bb13bbe5665ae7a",
-      "fingerprint": "809bd3c7482bf615735b01e7b7bd3d181100d0ec",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-po-ruskych-utocich-je-bez-proudu-600-tisic-domacnosti-v-dnepropetrovske-oblasti-319973",
-      "published_utc": "2026-11-08T08:07:34Z",
-      "title_en": "Po ruských útocích je bez proudu 600 tisíc domácností v Dněpropetrovské oblasti",
-      "lead_en": "Ruské útoky cílí především na energetickou infrastrukturu. Podle ukrajinského prezidenta Volodymyra Zelenského chce Rusko uvrhnout celou Ukrajinu do blackoutu.",
-      "title_raw": "Po ruských útocích je bez proudu 600 tisíc domácností v Dněpropetrovské oblasti",
-      "lead_raw": "Ruské útoky cílí především na energetickou infrastrukturu. Podle ukrajinského prezidenta Volodymyra Zelenského chce Rusko uvrhnout celou Ukrajinu do blackoutu.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
