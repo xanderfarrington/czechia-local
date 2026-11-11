@@ -1,10 +1,433 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-11T01:32:13Z",
+  "updated_at_utc": "2026-11-11T08:31:23Z",
   "topic": "military",
-  "count": 84,
+  "count": 99,
   "articles": [
+    {
+      "id": "73e35804551fc7f2dc393804df254a0a6decffe1",
+      "fingerprint": "a504799166e22aabea0e074fff31c431dec4857f",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/rybari-v-brdech-vylovi-horejsi-padrtsky-rybnik-na-miste-je-pripraveny-prodej-ryb_2611110915_tkp",
+      "published_utc": "2026-11-11T08:15:00Z",
+      "title_en": "Rybáři v Brdech vyloví Hořejší Padrťský rybník. Na místě je připravený prodej ryb i program pro děti",
+      "lead_en": "Podzim a výlovy patří k sobě. Například Vojenské lesy a statky ve středu pořádají výlov v chráněné krajinné oblasti Brdy.",
+      "title_raw": "Rybáři v Brdech vyloví Hořejší Padrťský rybník. Na místě je připravený prodej ryb i program pro děti",
+      "lead_raw": "Podzim a výlovy patří k sobě. Například Vojenské lesy a statky ve středu pořádají výlov v chráněné krajinné oblasti Brdy.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "48be462dd533752bb0e5e79dbe8c6848ed1dea73",
+      "fingerprint": "d69ac95526ba36e2619b880134f1d2a064665ee8",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-neucast-ceskych-vojaku-na-spolecnem-cviceni-v-polsku-neni-stastna-rekl-pavel-320246",
+      "published_utc": "2026-11-11T08:04:36Z",
+      "title_en": "Neúčast českých vojáků na společném cvičení v Polsku není šťastná, řekl Pavel",
+      "lead_en": "Prezident Petr Pavel před schůzkou s premiérem Andrejem Babišem oznámil, že má hned několik témat, které by chtěl probrat. Řešit chce například Babišův dopis šéfovi Evropské rady či veřejnoprávní média.",
+      "title_raw": "Neúčast českých vojáků na společném cvičení v Polsku není šťastná, řekl Pavel",
+      "lead_raw": "Prezident Petr Pavel před schůzkou s premiérem Andrejem Babišem oznámil, že má hned několik témat, které by chtěl probrat. Řešit chce například Babišův dopis šéfovi Evropské rady či veřejnoprávní média.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "372bb04537de6ad92f2086236cd94b9971bc7314",
+      "fingerprint": "46796519f58ea74ef1425b308a8313a06e1ec2c6",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/pavla-rozladila-neucast-ceskych-vojaku-na-cviceni-v-polsku-379503",
+      "published_utc": "2026-11-11T08:02:01Z",
+      "title_en": "Pavla rozladila neúčast českých vojáků na cvičení v Polsku",
+      "lead_en": "Prezident Petr Pavel nepovažuje za šťastnou neúčast tuzemských vojáků na cvičení v&nbsp;Polsku nazvaném Koalicja 26.2. Česko by se mělo účastnit příprav na dobu po konci rusko-ukrajinské války, prohlásila ve středu hlava státu.",
+      "title_raw": "Pavla rozladila neúčast českých vojáků na cvičení v Polsku",
+      "lead_raw": "Prezident Petr Pavel nepovažuje za šťastnou neúčast tuzemských vojáků na cvičení v&nbsp;Polsku nazvaném Koalicja 26.2. Česko by se mělo účastnit příprav na dobu po konci rusko-ukrajinské války, prohlásila ve středu hlava státu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "07740ab2d488489df96a8d621945e6b76ca1d425",
+      "fingerprint": "ec464eb7d588e91549a3f844d88697a559099939",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-v-cesku-zada-o-azyl-klicovy-akter-zpackanych-dodavek-na-obranu-pro-ukrajinu-40607326",
+      "published_utc": "2026-11-11T08:00:00Z",
+      "title_en": "V Česku žádá o azyl klíčový aktér zpackaných dodávek na obranu pro Ukrajinu",
+      "lead_en": "V Česku žádá o azyl člověk, který je zapletený hned do dvou obřích zpackaných vojenských zakázek na munici a neprůstřelné vesty pro Ukrajinu. Oba případy se staly v prvním roce ruské agrese před čtyřmi lety, kdy se zoufalá země snažila získat po světě na svou obranu, co šlo.",
+      "title_raw": "V Česku žádá o azyl klíčový aktér zpackaných dodávek na obranu pro Ukrajinu",
+      "lead_raw": "V Česku žádá o azyl člověk, který je zapletený hned do dvou obřích zpackaných vojenských zakázek na munici a neprůstřelné vesty pro Ukrajinu. Oba případy se staly v prvním roce ruské agrese před čtyřmi lety, kdy se zoufalá země snažila získat po světě na svou obranu, co šlo.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "4aad5c7e46e781bc8d7c3dc1a895a870c1eb5e15",
+      "fingerprint": "38419fb445909e21e1466f0bc3c07bddbbc0d97b",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-ukrajina-ma-prvniho-valecneho-zajatce-z-indonesie-40607968",
+      "published_utc": "2026-11-11T07:58:56Z",
+      "title_en": "Ukrajina má prvního válečného zajatce z Indonésie",
+      "lead_en": "Ukrajinské úřady tvrdí, že zajaly prvního válečného zajatce z Indonésie, a to v době, kdy se Rusko snaží doplňovat stavy svých ozbrojených sil a vystupňovat vojenské úsilí. Jde o 49letého muže z ostrova Jáva, který byl nasazen do bojů v Záporožské oblasti.",
+      "title_raw": "Ukrajina má prvního válečného zajatce z Indonésie",
+      "lead_raw": "Ukrajinské úřady tvrdí, že zajaly prvního válečného zajatce z Indonésie, a to v době, kdy se Rusko snaží doplňovat stavy svých ozbrojených sil a vystupňovat vojenské úsilí. Jde o 49letého muže z ostrova Jáva, který byl nasazen do bojů v Záporožské oblasti.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "2ec04bf91eeb3c9aed9e957e55ee255c8a62c3ac",
+      "fingerprint": "15d56a84e4cdaafae9bacf3dea7a2d939f372c54",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/fsb-zadrzeni-dvou-agentu-polsko-kaliningrad.A261111_072649_zahranicni_onbu",
+      "published_utc": "2026-11-11T07:55:00Z",
+      "title_en": "Rusové oznámili zadržení dvou polských agentů, viní je ze špionáže v Kaliningradu",
+      "lead_en": "Ruská tajná služba FSB oznámila zadržení dvou agentů polských zpravodajských služeb, které viní ze špionáže – konkrétně ze shromažďování informací o vojenských objektech a sociálně-ekonomické situaci v ruské Kaliningradské oblasti, která je vklíněná mezi polským a litevským území",
+      "title_raw": "Rusové oznámili zadržení dvou polských agentů, viní je ze špionáže v Kaliningradu",
+      "lead_raw": "Ruská tajná služba FSB oznámila zadržení dvou agentů polských zpravodajských služeb, které viní ze špionáže – konkrétně ze shromažďování informací o vojenských objektech a sociálně-ekonomické situaci v ruské Kaliningradské oblasti, která je vklíněná mezi polským a litevským území",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "f3ecf83800638b8d2d5a88f6681b527683b00e70",
+      "fingerprint": "71e772de0ca2714bd46a7b84b43a72b56669021d",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/babis-pavel-prazsky-hrad-setkani-bezpecnost-vlada-prezident.A261110_154641_domaci_dyn",
+      "published_utc": "2026-11-11T07:55:00Z",
+      "title_en": "Neúčast vojáků na cvičení v Polsku není šťastná, řekl Pavel. Jednal s Babišem",
+      "lead_en": "Prezident Petr Pavel přijal ve středu v 8 hodin premiéra Andreje Babiše (ANO). Šlo o pravidelné a plánované setkání.",
+      "title_raw": "Neúčast vojáků na cvičení v Polsku není šťastná, řekl Pavel. Jednal s Babišem",
+      "lead_raw": "Prezident Petr Pavel přijal ve středu v 8 hodin premiéra Andreje Babiše (ANO). Šlo o pravidelné a plánované setkání.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1d8379b584ac5ac825354eab0ebb1a2f3e6bd802",
+      "fingerprint": "1c97a1e440f6e26e7d3f07c608ff173971482e0f",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/fsb-hlasi-zatceni-dvou-udajnych-polskych-agentu-varsava-informaci-overuje-379501",
+      "published_utc": "2026-11-11T07:39:10Z",
+      "title_en": "FSB hlásí zatčení dvou údajných polských agentů, Varšava mluví o provokaci",
+      "lead_en": "Ruská tajná služba FSB oznámila zadržení dvou údajných agentů polských zpravodajských služeb, které viní ze špionáže. Konkrétně ze shromažďování informací o&nbsp;vojenských objektech a&nbsp;sociálně-ekonomické situaci v&nbsp;ruské Kaliningradské oblasti, která je vklíněná mezi polským a&nbsp;litevským územím.",
+      "title_raw": "FSB hlásí zatčení dvou údajných polských agentů, Varšava mluví o provokaci",
+      "lead_raw": "Ruská tajná služba FSB oznámila zadržení dvou údajných agentů polských zpravodajských služeb, které viní ze špionáže. Konkrétně ze shromažďování informací o&nbsp;vojenských objektech a&nbsp;sociálně-ekonomické situaci v&nbsp;ruské Kaliningradské oblasti, která je vklíněná mezi polským a&nbsp;litevským územím.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "e0cccd4318492d3c419fb3f10e72c04b4a32bc6b",
+      "fingerprint": "db38e77d01c0f9940dbcff80482bf1c6938d3723",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-zbrojarska-skupina-csg-dal-roste-klesa-ji-ale-marze-320245",
+      "published_utc": "2026-11-11T07:39:03Z",
+      "title_en": "Zbrojařská skupina CSG dál roste, klesá jí ale marže",
+      "lead_en": "Skupina Czechoslovak Group (CSG) Michala Strnada utržila za prvních devět měsíců letošního roku celkem 4,8 miliardy eur, v přepočtu téměř 117 miliard korun. Meziročně to je o 6,2 procenta více.",
+      "title_raw": "Zbrojařská skupina CSG dál roste, klesá jí ale marže",
+      "lead_raw": "Skupina Czechoslovak Group (CSG) Michala Strnada utržila za prvních devět měsíců letošního roku celkem 4,8 miliardy eur, v přepočtu téměř 117 miliard korun. Meziročně to je o 6,2 procenta více.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "f4d8bad0f2ec7c132ae9155c95aa603405f515aa",
+      "fingerprint": "95e19d3a65db4e1118ac6eba11bbe3500f3feef0",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/trzby-skupiny-csg-vzrostly-za-tri-ctvrtleti-na-1159-mld-kc/2900381",
+      "published_utc": "2026-11-11T07:31:00Z",
+      "title_en": "Tržby skupiny CSG vzrostly za tři čtvrtletí na 115,9 mld. Kč",
+      "lead_en": "Praha - Zbrojařská a strojírenská skupina Czechoslovak Group (CSG) podnikatele Michala Strnada za letošní první tři čtvrtletí meziročně zvýšila tržby o 6,1 procenta na 4,76 miliardy eur (115,9 miliardy...",
+      "title_raw": "Tržby skupiny CSG vzrostly za tři čtvrtletí na 115,9 mld. Kč",
+      "lead_raw": "Praha - Zbrojařská a strojírenská skupina Czechoslovak Group (CSG) podnikatele Michala Strnada za letošní první tři čtvrtletí meziročně zvýšila tržby o 6,1 procenta na 4,76 miliardy eur (115,9 miliardy...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ebe11f63886d3064c6336dbce231c5a6e7dd8493",
+      "fingerprint": "62f6cce9ba177ffa700eaa8ad9d37d3a7ce33412",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/strelby-na-uradu-vlady-si-nevsimejte-uvedla-policie-cvici-likvidaci-utocnika.A261111_082522_domaci_tbr",
+      "published_utc": "2026-11-11T07:29:00Z",
+      "title_en": "Střelby na Úřadu vlády se nelekejte, upozornila policie. Cvičí likvidaci útočníka",
+      "lead_en": "Na Úřadu vlády a v jeho okolí se koná cvičení složek IZS zaměřené na eliminaci aktivního útočníka. Uvedla to policie na síti X s tím, že se lidé nemají obávat zvýšeného pohybu policistů, hasičů a záchranářů a také akustických projevů cvičné střelby.",
+      "title_raw": "Střelby na Úřadu vlády se nelekejte, upozornila policie. Cvičí likvidaci útočníka",
+      "lead_raw": "Na Úřadu vlády a v jeho okolí se koná cvičení složek IZS zaměřené na eliminaci aktivního útočníka. Uvedla to policie na síti X s tím, že se lidé nemají obávat zvýšeného pohybu policistů, hasičů a záchranářů a také akustických projevů cvičné střelby.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "311c9d8dd34e35fe487073c8a58b19829aeeea7e",
+      "fingerprint": "24f6e32a012d8eead1fc535805f7efc5034333d5",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-pavel-neucast-ceskych-vojaku-na-cviceni-v-polsku-je-nestastna-40607967",
+      "published_utc": "2026-11-11T07:25:47Z",
+      "title_en": "Pavel: Neúčast českých vojáků na cvičení v Polsku je nešťastná",
+      "lead_en": "Neúčast českých vojáků na mezinárodním cvičení Koalicja 26.2. nepovažuje prezident Petr Pavel za šťastnou.",
+      "title_raw": "Pavel: Neúčast českých vojáků na cvičení v Polsku je nešťastná",
+      "lead_raw": "Neúčast českých vojáků na mezinárodním cvičení Koalicja 26.2. nepovažuje prezident Petr Pavel za šťastnou.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "c24b4bb2e57b2a226ee528acf4f1454a9a039339",
+      "fingerprint": "eee7e122e2f84c1fa93dfb927056a50dc41058c7",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/pavel-neucast-vojaku-na-cviceni-v-polsku-nepovazuji-za-stastnou/2900379",
+      "published_utc": "2026-11-11T07:25:00Z",
+      "title_en": "Pavel: Neúčast vojáků na cvičení v Polsku nepovažuji za šťastnou",
+      "lead_en": "Praha - Prezident Petr Pavel nepovažuje za šťastnou neúčast českých vojáků na cvičení Koalicja 26.2., kde mají armády 11 evropských zemí v příštích dvou týdnech v Polsku trénovat, jak by byly schopné...",
+      "title_raw": "Pavel: Neúčast vojáků na cvičení v Polsku nepovažuji za šťastnou",
+      "lead_raw": "Praha - Prezident Petr Pavel nepovažuje za šťastnou neúčast českých vojáků na cvičení Koalicja 26.2., kde mají armády 11 evropských zemí v příštích dvou týdnech v Polsku trénovat, jak by byly schopné...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "32da2d0f22b40eba7dd84e3dcb7756b5d6d91bea",
+      "fingerprint": "68772e16d2d2720b8ea0e5af4a95444480fab37d",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/veda/vlny-veder-budou-mnohem-horsi-nez-to-co-zname-nyni-varuje-nemecka-studie-379472",
+      "published_utc": "2026-11-11T06:30:00Z",
+      "title_en": "Vlny veder budou mnohem horší než to, co známe nyní, varuje německá studie",
+      "lead_en": "Extrémní vlny veder, které Evropa letos i&nbsp;v&nbsp;předchozích letech zažila, jsou pouze předzvěstí toho, co lidstvo v&nbsp;důsledku klimatických změn čeká. Tvrdí to autoři nové studie, která vyšla v&nbsp;odborném časopise Nature Communications.",
+      "title_raw": "Vlny veder budou mnohem horší než to, co známe nyní, varuje německá studie",
+      "lead_raw": "Extrémní vlny veder, které Evropa letos i&nbsp;v&nbsp;předchozích letech zažila, jsou pouze předzvěstí toho, co lidstvo v&nbsp;důsledku klimatických změn čeká. Tvrdí to autoři nové studie, která vyšla v&nbsp;odborném časopise Nature Communications.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "091fbaedf177b9e0c95b40a41b88ff219906c110",
+      "fingerprint": "8d5befe348495df5915a668c0b8e9e84ec42cfec",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-v-rusku-zadrzeli-dva-polske-agenty-40607965",
+      "published_utc": "2026-11-11T06:22:50Z",
+      "title_en": "V Rusku zadrželi dva polské agenty",
+      "lead_en": "Ruská tajná služba FSB zadržela dvě osoby, o nichž tvrdí, že jde o agenty polských zpravodajských složek. Viní je ze špionáže v Kaliningradské oblasti, konkrétně ze shromažďování informací o vojenských objektech a sociálně-ekonomické situaci.",
+      "title_raw": "V Rusku zadrželi dva polské agenty",
+      "lead_raw": "Ruská tajná služba FSB zadržela dvě osoby, o nichž tvrdí, že jde o agenty polských zpravodajských složek. Viní je ze špionáže v Kaliningradské oblasti, konkrétně ze shromažďování informací o vojenských objektech a sociálně-ekonomické situaci.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "bd0c110fe3361ebc5adad0542f8e1bfad0dfbd90",
+      "fingerprint": "d7bdf6fb5daf767f39830e448d7a7ea65292dcbf",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/evropa-celi-kyberutokum-na-chladici-zarizeni-nukib-doporucuje-preventivni-opatreni-379438",
+      "published_utc": "2026-11-11T06:00:00Z",
+      "title_en": "Evropa čelí kyberútokům na chladicí zařízení. NÚKIB doporučuje preventivní opatření",
+      "lead_en": "Chladicí zařízení napříč Evropou se už měsíc potýkají s&nbsp;kybernetickými útoky. Jejich terčem se staly supermarkety ve Francii, Belgii, Lucembursku, Švédsku, Irsku či Estonsku.",
+      "title_raw": "Evropa čelí kyberútokům na chladicí zařízení. NÚKIB doporučuje preventivní opatření",
+      "lead_raw": "Chladicí zařízení napříč Evropou se už měsíc potýkají s&nbsp;kybernetickými útoky. Jejich terčem se staly supermarkety ve Francii, Belgii, Lucembursku, Švédsku, Irsku či Estonsku.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "9287dc3bf71cbf21f45eb44ae68a2c5b7e58d594",
+      "fingerprint": "e08859fd223e3d16adbe08191ebea94db978c07e",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-republikani-ve-snemovne-reprezentantu-zablokovali-snahu-o-odvolani-hegsetha-320239",
+      "published_utc": "2026-11-11T05:47:09Z",
+      "title_en": "Republikáni ve Sněmovně reprezentantů zablokovali snahu o odvolání Hegsetha",
+      "lead_en": "Návrh na ústavní žalobu na ministra obrany Petea Hegsetha představil ve Sněmovně reprezentantů v pondělí republikánský kongresman Thomas Massie. Návrh se týká hlavně války v Íránu, ale i vojenských operací v Jemenu a Venezuele.",
+      "title_raw": "Republikáni ve Sněmovně reprezentantů zablokovali snahu o odvolání Hegsetha",
+      "lead_raw": "Návrh na ústavní žalobu na ministra obrany Petea Hegsetha představil ve Sněmovně reprezentantů v pondělí republikánský kongresman Thomas Massie. Návrh se týká hlavně války v Íránu, ale i vojenských operací v Jemenu a Venezuele.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "7bb06b099e45d2dd8c29d3d8702e5b70c511d0f0",
+      "fingerprint": "2ba49cf9b2b8a97f7031fd86723e1d4b205a0980",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/psychologicka-pomoc-po-navratu-do-civilu-veterani-se-snaz-sveri-nekomu-s_2611111040_lbl",
+      "published_utc": "2026-11-11T05:22:00Z",
+      "title_en": "Psychologická pomoc po návratu do civilu. Veteráni se snáz svěří někomu s podobnou zkušeností",
+      "lead_en": "Návrat do civilu není pro všechny bývalé vojáky snadný. I na jejich podporu upozorňuje Den válečných veteránů.",
+      "title_raw": "Psychologická pomoc po návratu do civilu. Veteráni se snáz svěří někomu s podobnou zkušeností",
+      "lead_raw": "Návrat do civilu není pro všechny bývalé vojáky snadný. I na jejich podporu upozorňuje Den válečných veteránů.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "83fafbe1af72b7933ce4fd171f15a5d9d2f9a6da",
+      "fingerprint": "283e2e1c0565529719155bdbab9e8533cdca9edc",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/havlicek-jednal-se-sefem-lvovske-oblasti-o-tezbe-plynu-a-zdravotnictvi/2900335",
+      "published_utc": "2026-11-11T00:05:00Z",
+      "title_en": "Havlíček jednal se šéfem Lvovské oblasti o těžbě plynu a zdravotnictví",
+      "lead_en": "Praha - Český ministr průmyslu a obchodu Karel Havlíček jednal se šéfem vojenské správy Lvovské oblasti Maksymem Kozyckým o rozšíření těžby plynu ze strany českých firem na Ukrajině a možném zapojení...",
+      "title_raw": "Havlíček jednal se šéfem Lvovské oblasti o těžbě plynu a zdravotnictví",
+      "lead_raw": "Praha - Český ministr průmyslu a obchodu Karel Havlíček jednal se šéfem vojenské správy Lvovské oblasti Maksymem Kozyckým o rozšíření těžby plynu ze strany českých firem na Ukrajině a možném zapojení...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 1
+      },
+      "topics": [
+        "military",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "b1fad7d6855e6cc0d7557db3de696ee48f2f87e8",
       "fingerprint": "aa7289e36f3edc70c77ec4d17cf355363af39052",
@@ -1776,96 +2199,6 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "b4ec94d8aa81fb397c5d78b0623609dc474cbc93",
-      "fingerprint": "683efaf77b60f92fecebcf7338d29b233e453b4d",
-      "source": "Radio Prague International (EN)",
-      "url": "https://english.radio.cz/czech-radio-seven-czech-deputy-ministers-still-lack-security-clearance-8902062",
-      "published_utc": "2026-11-09T06:41:00Z",
-      "title_en": "Czech Radio: Seven Czech deputy ministers still lack security clearance",
-      "lead_en": "Czech Radio: Seven Czech deputy ministers still lack security clearance",
-      "title_raw": "Czech Radio: Seven Czech deputy ministers still lack security clearance",
-      "lead_raw": "Czech Radio: Seven Czech deputy ministers still lack security clearance",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "68ee0b850f388feaf237339336f8b14374ff40cf",
-      "fingerprint": "2f6566f7c94badbfa9abee0c68eb6eac1bc698cd",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-trump-ocekava-ze-se-pristi-tyden-sejde-s-prezidenty-ciny-a-ruska-40607459",
-      "published_utc": "2026-11-09T04:35:29Z",
-      "title_en": "Trump očekává, že se příští týden sejde s prezidenty Číny a Ruska",
-      "lead_en": "Trump naznačil, že by se příští týden na summitu Asijsko-pacifického hospodářského společenství (APEC) v Číně mohl setkat s čínským prezidentem Si Ťin-pchingem a ruským protějškem Vladimirem Putinem, čímž podpořil spekulace o možném trojstranném jednání státníků. Rozhovory chce zaměřit na jaderné odzbrojení.",
-      "title_raw": "Trump očekává, že se příští týden sejde s prezidenty Číny a Ruska",
-      "lead_raw": "Trump naznačil, že by se příští týden na summitu Asijsko-pacifického hospodářského společenství (APEC) v Číně mohl setkat s čínským prezidentem Si Ťin-pchingem a ruským protějškem Vladimirem Putinem, čímž podpořil spekulace o možném trojstranném jednání státníků. Rozhovory chce zaměřit na jaderné odzbrojení.",
-      "topic_scores": {
-        "diplomacy": 3,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "4efee140cf55509ba8aff8c7b9d58c14b6d282e8",
-      "fingerprint": "1340cfae19c8dcc5b7500a9cc18e05425b965bf4",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/sedm-ministerskych-namestku-stale-nema-bezpecnostni-proverku-ceka-hlavne-obrana_2611090500_nel",
-      "published_utc": "2026-11-09T04:00:00Z",
-      "title_en": "Sedm ministerských náměstků stále nemá bezpečnostní prověrku. Čeká hlavně obrana",
-      "lead_en": "Bezpečnostní prověrku nemá ani po třičtvrtě roce ve funkci sedm politických náměstků. Celkem potřebuje druhý nejvyšší stupeň prověření 17 politiků, kteří působí na resortech jako náměstci ministra.",
-      "title_raw": "Sedm ministerských náměstků stále nemá bezpečnostní prověrku. Čeká hlavně obrana",
-      "lead_raw": "Bezpečnostní prověrku nemá ani po třičtvrtě roce ve funkci sedm politických náměstků. Celkem potřebuje druhý nejvyšší stupeň prověření 17 politiků, kteří působí na resortech jako náměstci ministra.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "06fb574fd9485dce43dac64ffb707ec7c66b285c",
-      "fingerprint": "5e696e5a297482f9a9d0a9ed255f88686ef227a4",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-projedna-ustavni-zakon-o-celostatnim-referendu-379409",
-      "published_utc": "2026-11-09T03:42:00Z",
-      "title_en": "Vláda projedná ústavní zákon o celostátním referendu",
-      "lead_en": "Na pondělním zasedání kabinet projedná návrh ústavního zákona o&nbsp;zavedení celostátního referenda. Předpis výslovně vylučuje hlasování o&nbsp;změnách ústavního pořádku, členství Česka v&nbsp;Evropské unii či Severoatlantické alianci (NATO) nebo o&nbsp;otázkách obrany a&nbsp;bezpečnosti státu.",
-      "title_raw": "Vláda projedná ústavní zákon o celostátním referendu",
-      "lead_raw": "Na pondělním zasedání kabinet projedná návrh ústavního zákona o&nbsp;zavedení celostátního referenda. Předpis výslovně vylučuje hlasování o&nbsp;změnách ústavního pořádku, členství Česka v&nbsp;Evropské unii či Severoatlantické alianci (NATO) nebo o&nbsp;otázkách obrany a&nbsp;bezpečnosti státu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
         "energy": 0,
         "economy": 0,
         "local_events": 0
