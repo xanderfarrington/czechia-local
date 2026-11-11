@@ -1,10 +1,169 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-11T16:42:32Z",
+  "updated_at_utc": "2026-11-11T23:10:10Z",
   "topic": "energy",
-  "count": 40,
+  "count": 41,
   "articles": [
+    {
+      "id": "5e5260fafc9371d1d7ae391d16df6c054b1b9497",
+      "fingerprint": "e7ba5444dbcde52344f5836ef6e9dd5cc81c2e41",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/cesko-a-ukrajina-rozsiri-spolupraci-v-energetice-379528",
+      "published_utc": "2026-11-11T19:12:43Z",
+      "title_en": "Česko a Ukrajina rozšíří spolupráci v energetice",
+      "lead_en": "Šéf ministerstva průmyslu Karel Havlíček (ANO) a&nbsp;ukrajinský ministr energetiky Denys Šmyhal podepsali několik memorand o&nbsp;spolupráci v&nbsp;energetice. Týkají se jaderné a&nbsp;vodní energetiky a&nbsp;obnovitelných zdrojů, řekl Havlíček po skončení oficiální části česko-ukrajinského podnikatelského fóra.",
+      "title_raw": "Česko a Ukrajina rozšíří spolupráci v energetice",
+      "lead_raw": "Šéf ministerstva průmyslu Karel Havlíček (ANO) a&nbsp;ukrajinský ministr energetiky Denys Šmyhal podepsali několik memorand o&nbsp;spolupráci v&nbsp;energetice. Týkají se jaderné a&nbsp;vodní energetiky a&nbsp;obnovitelných zdrojů, řekl Havlíček po skončení oficiální části česko-ukrajinského podnikatelského fóra.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "4ad3344af41f25da6efc4ef8c2e99384eae3ebb7",
+      "fingerprint": "316322d5eda298a853cd781b1410116ac5cbfeeb",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/vlada-dle-babise-uvazuje-o-sektorovych-danich-pro-banky-zbrojare-a-energeticke-firmy-379525",
+      "published_utc": "2026-11-11T19:11:59Z",
+      "title_en": "Vláda dle Babiše uvažuje o sektorových daních pro banky, zbrojaře a energetické firmy",
+      "lead_en": "Vláda vážně zvažuje zavedení sektorových daní pro banky nebo zbrojařské a&nbsp;energetické firmy, potvrdil ve středu premiér Andrej Babiš (ANO). Vynést to má nižší desítky miliard.",
+      "title_raw": "Vláda dle Babiše uvažuje o sektorových daních pro banky, zbrojaře a energetické firmy",
+      "lead_raw": "Vláda vážně zvažuje zavedení sektorových daní pro banky nebo zbrojařské a&nbsp;energetické firmy, potvrdil ve středu premiér Andrej Babiš (ANO). Vynést to má nižší desítky miliard.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1c8932f0459977d6a5f9ac16cea399287f3fae76",
+      "fingerprint": "c5769b4280280fe7c59bd2c3826e5443e22b525f",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/ukrajina-havlicek-navsteva-delegace-smyhal.A261111_132545_domaci_aoc",
+      "published_utc": "2026-11-11T19:02:00Z",
+      "title_en": "Havlíček se v Kyjevě sešel s premiérem. Česko nejspíš dodá 16 letounů",
+      "lead_en": "Od našich zpravodajů na Ukrajině – Návštěva jaderné elektrárny, jednání s vlivnými politiky, podnikatelské fórum, ale i zastávka na natankování a rychlé občerstvení na benzínce. I takový byl program vicepremiéra a ministra průmyslu a obchodu Karla Havlíčka (ANO), který pokračuje v oficiální návštěvě Ukrajiny.",
+      "title_raw": "Havlíček se v Kyjevě sešel s premiérem. Česko nejspíš dodá 16 letounů",
+      "lead_raw": "Od našich zpravodajů na Ukrajině – Návštěva jaderné elektrárny, jednání s vlivnými politiky, podnikatelské fórum, ale i zastávka na natankování a rychlé občerstvení na benzínce. I takový byl program vicepremiéra a ministra průmyslu a obchodu Karla Havlíčka (ANO), který pokračuje v oficiální návštěvě Ukrajiny.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "1e2c3b90f40f6c09011cac18642f257130e2627a",
+      "fingerprint": "45a9517624dd0956cdc6a7c6ed38956aa7fa1d96",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/iran-potrebuje-obohaceny-uran-pro-jaderne-ponorky-rekl-sef-iranske-rady-bezpecnosti.A261111_173649_zahranicni_meli",
+      "published_utc": "2026-11-11T18:23:00Z",
+      "title_en": "Potřebujeme obohacený uran pro jaderné ponorky, vysvětluje Írán",
+      "lead_en": "Írán potřebuje obohacený uran pro vývoj lodí a ponorek s jaderným pohonem, uvedl v úterý v Libanonské televizní stanici Al-Majádín šéf íránské Nejvyšší rady národní bezpečnosti Mohsen Rezáí. Politik zároveň dodal, že v případě dalšího amerického útoku na Írán odpoví Teherán nejen údery na americké vojenské základny na Blízkém východě, ale i na ty, které se nacházejí na vzdálených místech, a to včetně Evropy.",
+      "title_raw": "Potřebujeme obohacený uran pro jaderné ponorky, vysvětluje Írán",
+      "lead_raw": "Írán potřebuje obohacený uran pro vývoj lodí a ponorek s jaderným pohonem, uvedl v úterý v Libanonské televizní stanici Al-Majádín šéf íránské Nejvyšší rady národní bezpečnosti Mohsen Rezáí. Politik zároveň dodal, že v případě dalšího amerického útoku na Írán odpoví Teherán nejen údery na americké vojenské základny na Blízkém východě, ale i na ty, které se nacházejí na vzdálených místech, a to včetně Evropy.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "5008e17b7085c840fe62d73db7feb3f311d23c37",
+      "fingerprint": "d8ae7d29ce136513e94f64fff628f6d4989f2b67",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/navykova-latka-za-miliony-byla-pry-jen-dekorace-zaznelo-u-soudu-presto-padly-vysoke-pokuty.A261111_132213_domaci_stvo",
+      "published_utc": "2026-11-11T18:00:00Z",
+      "title_en": "Razie na maturitní oslavě. Návyková látka byla jen dekorace, zaznělo u soudu",
+      "lead_en": "Jsou na ozdobu, je na lidech, co s nimi udělají, hájil personál pražského baru prodej balonků s rajským plynem, za které podnik podle obžaloby utržil přes pět milionů korun. U soudu nyní padly poslední tresty za šíření toxikomanie.",
+      "title_raw": "Razie na maturitní oslavě. Návyková látka byla jen dekorace, zaznělo u soudu",
+      "lead_raw": "Jsou na ozdobu, je na lidech, co s nimi udělají, hájil personál pražského baru prodej balonků s rajským plynem, za které podnik podle obžaloby utržil přes pět milionů korun. U soudu nyní padly poslední tresty za šíření toxikomanie.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "3fb6724c2125e1151d9d4c57d62ad331b6e91e86",
+      "fingerprint": "a9cee3e0c06e6ed52102f69410807d216ae6f293",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-iran-potrebuje-obohaceny-uran-pro-ponorky-s-jadernym-pohonem-320319",
+      "published_utc": "2026-11-11T17:21:49Z",
+      "title_en": "Írán potřebuje obohacený uran pro ponorky s jaderným pohonem",
+      "lead_en": "Íránu má sloužit obohacený uran k vývoji lodí a ponorek s jaderným pohonem, řekl šéf íránské Nejvyšší rady národní bezpečnosti. Uvedl také, že podle něj v případě dalšího amerického útoku odpoví Teherán útoky i na evropské země.",
+      "title_raw": "Írán potřebuje obohacený uran pro ponorky s jaderným pohonem",
+      "lead_raw": "Íránu má sloužit obohacený uran k vývoji lodí a ponorek s jaderným pohonem, řekl šéf íránské Nejvyšší rady národní bezpečnosti. Uvedl také, že podle něj v případě dalšího amerického útoku odpoví Teherán útoky i na evropské země.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "42e8ce5ac937565dad35a5ef85bb782ffe1e7bf1",
+      "fingerprint": "5d5138d46c75bd60a088ca7faa85d3de0d22358c",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/sklep-promenili-v-rehabilitaci-patra-v-ambulance-opravenou-polikliniku-v_2611111800_brz",
+      "published_utc": "2026-11-11T17:00:00Z",
+      "title_en": "Sklep proměnili v rehabilitaci, patra v ambulance. Opravenou polikliniku v Rumburku obsadí specialisté",
+      "lead_en": "Rekonstrukce budovy polikliniky v Rumburku na Děčínsku je hotová. Zázemí v ní najdou ambulance specialistů a nebude chybět ani rentgen nebo gastroenterologické pracoviště.",
+      "title_raw": "Sklep proměnili v rehabilitaci, patra v ambulance. Opravenou polikliniku v Rumburku obsadí specialisté",
+      "lead_raw": "Rekonstrukce budovy polikliniky v Rumburku na Děčínsku je hotová. Zázemí v ní najdou ambulance specialistů a nebude chybět ani rentgen nebo gastroenterologické pracoviště.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "9412ec62ef24cd7f0fcdc244a54bd47001155e0a",
       "fingerprint": "e868a9463793ce2ec7e16e1ec6de27d42089b4fe",
@@ -751,138 +910,6 @@
       "lead_en": "Praha - Maďarský prezident András Baka dnes zahájí návštěvu Česka na Pražském hradě setkáním s českou hlavou státu Petrem Pavlem. Hovořit budou o energetice, koordinaci v evropských otázkách i o budoucnosti...",
       "title_raw": "Maďarský prezident Baka zahájí návštěvu Česka na Pražském hradě",
       "lead_raw": "Praha - Maďarský prezident András Baka dnes zahájí návštěvu Česka na Pražském hradě setkáním s českou hlavou státu Petrem Pavlem. Hovořit budou o energetice, koordinaci v evropských otázkách i o budoucnosti...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "f3042fdfcf55286d76bf4c3eb260e8db42025d81",
-      "fingerprint": "e3aa8cdc48394052fc4bc8a9cab8311580c69943",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/chteji-k-jednacimu-stolu-ac-se-neshodnou-putinuv-telefonat-deli-evropske-spojence.A261109_185821_zahranicni_bury",
-      "published_utc": "2026-11-09T23:00:00Z",
-      "title_en": "Chtějí k jednacímu stolu, ač se neshodnou. Putinův telefonát dělí evropské spojence",
-      "lead_en": "Má Evropa mluvit přímo s Vladimirem Putinem, nebo by tím jen legitimizovala ruskou agresi? Tato otázka nyní rozděluje sever Evropy, téměř pět let po začátku plnohodnotné ruské invaze na Ukrajinu.",
-      "title_raw": "Chtějí k jednacímu stolu, ač se neshodnou. Putinův telefonát dělí evropské spojence",
-      "lead_raw": "Má Evropa mluvit přímo s Vladimirem Putinem, nebo by tím jen legitimizovala ruskou agresi? Tato otázka nyní rozděluje sever Evropy, téměř pět let po začátku plnohodnotné ruské invaze na Ukrajinu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "2c872661b4fe53568a62e396ed8aa9de37947cee",
-      "fingerprint": "17fbb46581118f3589b413b26ed74fc79b76c8ab",
-      "source": "iROZHLAS - Economy",
-      "url": "https://www.irozhlas.cz/ekonomika/dotace-cen-energii-spustily-i-odvody-z-trzeb-energetickych-firem-podle_2611092144_lbl",
-      "published_utc": "2026-11-09T20:44:00Z",
-      "title_en": "Dotace cen energií by spustily i odvody z tržeb energetických firem. Podle ‚koeficientu K‘",
-      "lead_en": "Vláda v pondělí schválila novelu energetického zákona, která jí v případě dalšího prudkého zdražování energií umožní dotovat regulovanou složku ceny elektřiny a plynu pro odběratele a zastropovat nadměrné příjmy výrobců elektřiny. Odvod části těchto příjmů by následně mohla použít pro pokrytí nákladů státu na dotace.",
-      "title_raw": "Dotace cen energií by spustily i odvody z tržeb energetických firem. Podle ‚koeficientu K‘",
-      "lead_raw": "Vláda v pondělí schválila novelu energetického zákona, která jí v případě dalšího prudkého zdražování energií umožní dotovat regulovanou složku ceny elektřiny a plynu pro odběratele a zastropovat nadměrné příjmy výrobců elektřiny. Odvod části těchto příjmů by následně mohla použít pro pokrytí nákladů státu na dotace.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "050d7cc42973169190ef9cfd45969a17a6c941e6",
-      "fingerprint": "bcdc61b95aad1c2a756ca83debc30da6afa3ffa6",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-vlada-podporila-navrh-na-obranu-kriticke-infrastruktury-proti-dronum-320081",
-      "published_utc": "2026-11-09T18:17:43Z",
-      "title_en": "Vláda podpořila návrh na obranu kritické infrastruktury proti dronům",
-      "lead_en": "Vládou schválená novela by mohla dát více možností policii i provozovatelům kritické infrastruktury, v jejíž blízkosti se objeví dron. Úprava by se dotkla bezletových zón u mezinárodních letišť či jaderných elektráren.",
-      "title_raw": "Vláda podpořila návrh na obranu kritické infrastruktury proti dronům",
-      "lead_raw": "Vládou schválená novela by mohla dát více možností policii i provozovatelům kritické infrastruktury, v jejíž blízkosti se objeví dron. Úprava by se dotkla bezletových zón u mezinárodních letišť či jaderných elektráren.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "9c348f73374e63933a190f206b3acb53dfb24d29",
-      "fingerprint": "63bc670566d893bc0cdcfb9ed9cc6249353b6123",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-zakon-o-sestrelovani-dronu-miri-do-snemovny-40607686",
-      "published_utc": "2026-11-09T17:00:03Z",
-      "title_en": "Zákon o sestřelování dronů míří do Sněmovny",
-      "lead_en": "Vláda schválila návrh zákona, který by umožnil jednodušší zákroky proti dronům v okolí objektů kritické infrastruktury, jako jsou některá letiště nebo zásobníky paliva. Firmám, které do kritické infrastruktury spadají, by také umožnil vytrénovat vlastní zaměstnance, kteří by proti dronům mohli zakročit dřív než dorazí policie.",
-      "title_raw": "Zákon o sestřelování dronů míří do Sněmovny",
-      "lead_raw": "Vláda schválila návrh zákona, který by umožnil jednodušší zákroky proti dronům v okolí objektů kritické infrastruktury, jako jsou některá letiště nebo zásobníky paliva. Firmám, které do kritické infrastruktury spadají, by také umožnil vytrénovat vlastní zaměstnance, kteří by proti dronům mohli zakročit dřív než dorazí policie.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "93e90d24908e28e744cef3228e990b6a183aa230",
-      "fingerprint": "409ca0a9b287e56c6d6e78a40bda152f966aba15",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-video-zazitkove-cesty-jako-ovlivnovani-takto-svet-nefunguje-rika-mluvci-cez-319815",
-      "published_utc": "2026-11-09T17:00:00Z",
-      "title_en": "Video: Zážitkové cesty jako ovlivňování? Takto svět nefunguje, říká mluvčí ČEZ",
-      "lead_en": "Seznam Zprávy odhalily dvacetiletý systém, v němž těžaři z holdingu ČEZ platí zážitkové zahraniční cesty politikům a úředníkům ze severu Čech. Mluvčí skupiny tvrdí, že jde o exkurze, jejichž cílem je vzdělat je o energetice.",
-      "title_raw": "Video: Zážitkové cesty jako ovlivňování? Takto svět nefunguje, říká mluvčí ČEZ",
-      "lead_raw": "Seznam Zprávy odhalily dvacetiletý systém, v němž těžaři z holdingu ČEZ platí zážitkové zahraniční cesty politikům a úředníkům ze severu Čech. Mluvčí skupiny tvrdí, že jde o exkurze, jejichž cílem je vzdělat je o energetice.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "0be134576863b0fd7e087bce077280d504982f4a",
-      "fingerprint": "eb8ede4663f7cf6aea319f1462d37204623f8260",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/brno/zpravy/kniha-holokaust-brno-mestsky-soud-podminky-zprosteni-viny.A261109_151549_brno-zpravy_zubr",
-      "published_utc": "2026-11-09T16:48:00Z",
-      "title_en": "Kauza vydání knihy zpochybňující holokaust. Soud znovu rozhodl, uložil podmínky",
-      "lead_en": "V případu vydání knihy Germara Rudolfa Holocaust pod lupou, která zpochybňuje fakta o holokaustu, v pondělí Městský soud v Brně uložil třem obžalovaným podmíněné tresty, potrestal i nakladatelství. Tresty dostali jako organizovaná skupina, a to za založení, podporu a propagaci hnutí směřujícího k potlačení práv a svobod člověka, a za popírání genocidy.",
-      "title_raw": "Kauza vydání knihy zpochybňující holokaust. Soud znovu rozhodl, uložil podmínky",
-      "lead_raw": "V případu vydání knihy Germara Rudolfa Holocaust pod lupou, která zpochybňuje fakta o holokaustu, v pondělí Městský soud v Brně uložil třem obžalovaným podmíněné tresty, potrestal i nakladatelství. Tresty dostali jako organizovaná skupina, a to za založení, podporu a propagaci hnutí směřujícího k potlačení práv a svobod člověka, a za popírání genocidy.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
