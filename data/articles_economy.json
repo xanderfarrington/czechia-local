@@ -1,10 +1,77 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-11T08:31:23Z",
+  "updated_at_utc": "2026-11-11T16:42:32Z",
   "topic": "economy",
-  "count": 33,
+  "count": 28,
   "articles": [
+    {
+      "id": "3532d39281862f859ae85fbc8c742891ee4c4399",
+      "fingerprint": "82f45e8c8703754efb47c699d03b335798b8ae31",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/sklad-potravinove-banky-karlovarskeho-kraje-je-temer-prazdny-pripravuje-se-na_2611111721_vaa",
+      "published_utc": "2026-11-11T16:21:00Z",
+      "title_en": "Sklad Potravinové banky Karlovarského kraje je téměř prázdný. Připravuje se na sobotní národní sbírku",
+      "lead_en": "Při sobotním nákupu můžete v obchodech potkat dobrovolníky v zelených zástěrách. Od 8.00 do 18.00 hodin bude totiž probíhat Národní potravinová sbírka.",
+      "title_raw": "Sklad Potravinové banky Karlovarského kraje je téměř prázdný. Připravuje se na sobotní národní sbírku",
+      "lead_raw": "Při sobotním nákupu můžete v obchodech potkat dobrovolníky v zelených zástěrách. Od 8.00 do 18.00 hodin bude totiž probíhat Národní potravinová sbírka.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "f92313ecb7b2647aa34e7117251d10ee240bb066",
+      "fingerprint": "ec491dafb46b5aa1987e16cc5df1d73d53accf8c",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/ukrajina-havlicek-pivo-rafaj.A261111_160540_domaci_aoc",
+      "published_utc": "2026-11-11T15:22:00Z",
+      "title_en": "Milovník piva Havlíček ani na Ukrajině neodolal. Zastavil se pro jedno",
+      "lead_en": "Od našich zpravodajů na Ukrajině – Nejen o politických nebo byznysových jednáních je současná cesta vicepremiéra a ministra průmyslu a obchodu Karla Havlíčka (ANO) na Ukrajinu. Během krátké přestávky na tankování neodolal a nechal se od prezidenta Svazu průmyslu a obchodu Jana Rafaje pozvat na jedno ukrajinské pivo v plechovce.",
+      "title_raw": "Milovník piva Havlíček ani na Ukrajině neodolal. Zastavil se pro jedno",
+      "lead_raw": "Od našich zpravodajů na Ukrajině – Nejen o politických nebo byznysových jednáních je současná cesta vicepremiéra a ministra průmyslu a obchodu Karla Havlíčka (ANO) na Ukrajinu. Během krátké přestávky na tankování neodolal a nechal se od prezidenta Svazu průmyslu a obchodu Jana Rafaje pozvat na jedno ukrajinské pivo v plechovce.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "8cfe2555563a043b6262e12511dc05eec505d7b5",
+      "fingerprint": "96f7aafbda8a95fb44fdda208420d93be12a8bfe",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-do-konce-roku-chceme-mit-v-cesku-15-milionu-klientu-rika-sef-revolut-bank-320033",
+      "published_utc": "2026-11-11T15:15:00Z",
+      "title_en": "Do konce roku chceme mít v Česku 1,5 milionu klientů, říká šéf Revolut Bank",
+      "lead_en": "Evropský bankovní trh je pro Revolut stále klíčový, přestože expanduje po celém světě. „Většina současného růstu pochází z Evropy,“ říká Kuba Fast, šéf Revolut Bank.",
+      "title_raw": "Do konce roku chceme mít v Česku 1,5 milionu klientů, říká šéf Revolut Bank",
+      "lead_raw": "Evropský bankovní trh je pro Revolut stále klíčový, přestože expanduje po celém světě. „Většina současného růstu pochází z Evropy,“ říká Kuba Fast, šéf Revolut Bank.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "72993ffe7a4d9066fe7bf5713994846957338e53",
       "fingerprint": "57c23d758b5543b00d6b3e929fe4d79751be7624",
@@ -564,184 +631,6 @@
       },
       "topics": [
         "military",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "1e3a7ac65c508bb448064ea9d1b6f6bb2f2643ea",
-      "fingerprint": "dfd0d20caec2196e3300f7dd3cc2eb2cc1f69349",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/ceske-drahy-nedodrzely-objednanou-kapacitu-vlaku-v-praze-a-okoli-sankce-dosahly_2611091718_zfr",
-      "published_utc": "2026-11-09T16:18:00Z",
-      "title_en": "České dráhy nedodržely objednanou kapacitu vlaků v Praze a okolí. Sankce dosáhly 3,2 milionu korun",
-      "lead_en": "České dráhy dostaly sankce v celkové výši 3,2 milionu korun za to, že v září nezajistily objednanou kapacitu vlaků v Praze a Středočeském kraji. Některé spoje měly až o polovinu méně míst.",
-      "title_raw": "České dráhy nedodržely objednanou kapacitu vlaků v Praze a okolí. Sankce dosáhly 3,2 milionu korun",
-      "lead_raw": "České dráhy dostaly sankce v celkové výši 3,2 milionu korun za to, že v září nezajistily objednanou kapacitu vlaků v Praze a Středočeském kraji. Některé spoje měly až o polovinu méně míst.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "b628ebec1f3e1d773f4cf2859e337ab107480fb5",
-      "fingerprint": "e55f92009868ab20b5553a1692cddc331c10c674",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-vlada-schvalila-upravu-pro-regulaci-cen-elektriny-a-zastropovani-prijmu-vyrobcu-320088",
-      "published_utc": "2026-11-09T16:00:01Z",
-      "title_en": "Strop na cenu, daň pro výrobce. Vláda schválila zbraň proti drahým energiím",
-      "lead_en": "Pokud cena energií opět prudce zdraží, novela energetického zákona, kterou dnes schválila vláda, umožní regulovat ceny elektřiny pro odběratele a také zastropovat nadměrné příjmy výrobců elektřiny.",
-      "title_raw": "Strop na cenu, daň pro výrobce. Vláda schválila zbraň proti drahým energiím",
-      "lead_raw": "Pokud cena energií opět prudce zdraží, novela energetického zákona, kterou dnes schválila vláda, umožní regulovat ceny elektřiny pro odběratele a také zastropovat nadměrné příjmy výrobců elektřiny.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "1f45d2530ba33d80ffc7a215e66e07b9449de182",
-      "fingerprint": "9e35feb7ed943281910897a4637b3cf587799add",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-podvodnik-na-taborsku-lehl-pred-kriminalisty-na-chodnik-dostala-ho-podvedena-seniorka-40607661",
-      "published_utc": "2026-11-09T15:31:27Z",
-      "title_en": "Podvodník na Táborsku lehl před kriminalisty na chodník. Dostala ho podvedená seniorka",
-      "lead_en": "Policisté zveřejnili video ze zadržení kurýra, který se podílel na podvodech s investicemi. Na stopu je přivedla seniorka, která už předtím přišla o celoživotní úspory, více než 4 miliony korun.",
-      "title_raw": "Podvodník na Táborsku lehl před kriminalisty na chodník. Dostala ho podvedená seniorka",
-      "lead_raw": "Policisté zveřejnili video ze zadržení kurýra, který se podílel na podvodech s investicemi. Na stopu je přivedla seniorka, která už předtím přišla o celoživotní úspory, více než 4 miliony korun.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "6edfd4ddca3db9785ae12fb4428b5af26090f691",
-      "fingerprint": "67bc26652d476782eb5ffcb5e115152822c888ec",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-vlada-schvalila-navrh-zakona-ktery-umozni-zastropovani-cen-energii-40607658",
-      "published_utc": "2026-11-09T15:19:02Z",
-      "title_en": "Vláda schválila návrh zákona, který umožní zastropování cen energií",
-      "lead_en": "Vláda v pondělí schválila návrh novely energetického zákona, který umožní zastropovat ceny elektřiny a umožní ji uvalit na výrobce daň z nadměrných příjmů. Stropy mají podle ministra průmyslu a obchodu Karla Havlíčka (ANO) vycházet z těch, které v roce 2023 stanovila při energetické krizi vláda Petra Fialy (ODS).",
-      "title_raw": "Vláda schválila návrh zákona, který umožní zastropování cen energií",
-      "lead_raw": "Vláda v pondělí schválila návrh novely energetického zákona, který umožní zastropovat ceny elektřiny a umožní ji uvalit na výrobce daň z nadměrných příjmů. Stropy mají podle ministra průmyslu a obchodu Karla Havlíčka (ANO) vycházet z těch, které v roce 2023 stanovila při energetické krizi vláda Petra Fialy (ODS).",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 4,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "3f0a1c0fa1ee79d6221b684f2d50222a0aa98cde",
-      "fingerprint": "41eccc2337d3e1da4f8b47fb6465388eba917bef",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-doprava-konec-jedne-ery-skodovka-u-octavie-prestane-nabizet-diesel-320049",
-      "published_utc": "2026-11-09T15:15:00Z",
-      "title_en": "Škodovka u Octavie přestane nabízet diesel",
-      "lead_en": "Mladoboleslavská Škoda v příštím roce ukončí výrobu Octavií s naftovým motorem. Potvrdil to šéf automobilky pro český trh Jiří Maláček.",
-      "title_raw": "Škodovka u Octavie přestane nabízet diesel",
-      "lead_raw": "Mladoboleslavská Škoda v příštím roce ukončí výrobu Octavií s naftovým motorem. Potvrdil to šéf automobilky pro český trh Jiří Maláček.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "46380d52cea078e264565a6ad54059673959065e",
-      "fingerprint": "abf5afed377e2853a32e310cd5b77e7e5232e0d8",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/juchelka-navrhne-ve-snemovne-zmirnit-vladni-zamer-snizit-podporu-nezamestnanym/2899449",
-      "published_utc": "2026-11-09T11:32:00Z",
-      "title_en": "Juchelka navrhne ve Sněmovně zmírnit vládní záměr snížit podporu nezaměstnaným",
-      "lead_en": "Praha - Ministr práce Aleš Juchelka (ANO) navrhne jako poslanec do projednávané novely zákoníku práce zmírnění chystaného snížení podpor v nezaměstnanosti. Mírnější nastavení proti původnímu záměru by...",
-      "title_raw": "Juchelka navrhne ve Sněmovně zmírnit vládní záměr snížit podporu nezaměstnaným",
-      "lead_raw": "Praha - Ministr práce Aleš Juchelka (ANO) navrhne jako poslanec do projednávané novely zákoníku práce zmírnění chystaného snížení podpor v nezaměstnanosti. Mírnější nastavení proti původnímu záměru by...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "038f50e1de436a8c7786ca3bc7ba76e5b6440d47",
-      "fingerprint": "e65d372db924e2932eaca5cc8ca61272f8301074",
-      "source": "Radio Prague International (EN)",
-      "url": "https://english.radio.cz/czech-unemployment-remains-five-percent-fourth-consecutive-month-8902084",
-      "published_utc": "2026-11-09T09:22:00Z",
-      "title_en": "Czech unemployment remains at five percent for fourth consecutive month",
-      "lead_en": "Czech unemployment remains at five percent for fourth consecutive month",
-      "title_raw": "Czech unemployment remains at five percent for fourth consecutive month",
-      "lead_raw": "Czech unemployment remains at five percent for fourth consecutive month",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "a6550f7c7f287fc1304db7603282e579f9b46b12",
-      "fingerprint": "b241cc83618f7f52115cfe0aea41edb6776510e6",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/nezamestnanost-v-cesku-v-rijnu-stagnovala-na-peti-procentech/2899211",
-      "published_utc": "2026-11-09T09:01:00Z",
-      "title_en": "Nezaměstnanost v Česku v říjnu stagnovala na pěti procentech",
-      "lead_en": "Praha - Podíl nezaměstnaných v Česku byl v říjnu pět procent, na stejné hodnotě se drží čtvrtý měsíc v řadě. Ve srovnání s loňským říjnem nezaměstnanost vzrostla o 0,4 procentního bodu.",
-      "title_raw": "Nezaměstnanost v Česku v říjnu stagnovala na pěti procentech",
-      "lead_raw": "Praha - Podíl nezaměstnaných v Česku byl v říjnu pět procent, na stejné hodnotě se drží čtvrtý měsíc v řadě. Ve srovnání s loňským říjnem nezaměstnanost vzrostla o 0,4 procentního bodu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
         "economy"
       ],
       "primary_topic": "economy"
