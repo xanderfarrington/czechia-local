@@ -1,10 +1,432 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-12T13:22:23Z",
+  "updated_at_utc": "2026-11-12T21:11:24Z",
   "topic": "military",
-  "count": 101,
+  "count": 91,
   "articles": [
+    {
+      "id": "60a7a285b1b8754e59fd724527cb443d0563e070",
+      "fingerprint": "8a47d82447ffe07ce5b6652985875202fb9898d7",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/evropsky-summit-v-dublinu-podporil-ukrajinu-rekl-irsky-premier.A261112_203834_zahranicni_sahu",
+      "published_utc": "2026-11-12T20:03:00Z",
+      "title_en": "Summit jasně podpořil Ukrajinu, řekl irský premiér. Evropa odhalila priority pro mír",
+      "lead_en": "Čtvrteční summit Evropského politického společenství (EPC) v Dublinu jasně podpořil Ruskem napadenou Ukrajinu a také ukázal zájem úzce spolupracovat při ochraně proti hybridním hrozbám a při obraně demokracie. Na večerní závěrečné tiskové konferenci to prohlásil irský premiér Micheál Martin, který zároveň upozornil, že Ukrajina čelí stále intenzivnějším útokům na civilisty a kritickou infrastrukturu.",
+      "title_raw": "Summit jasně podpořil Ukrajinu, řekl irský premiér. Evropa odhalila priority pro mír",
+      "lead_raw": "Čtvrteční summit Evropského politického společenství (EPC) v Dublinu jasně podpořil Ruskem napadenou Ukrajinu a také ukázal zájem úzce spolupracovat při ochraně proti hybridním hrozbám a při obraně demokracie. Na večerní závěrečné tiskové konferenci to prohlásil irský premiér Micheál Martin, který zároveň upozornil, že Ukrajina čelí stále intenzivnějším útokům na civilisty a kritickou infrastrukturu.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "952e05b509a34baa124e818726df57b711f71a2c",
+      "fingerprint": "4a07c775ec49513cc8df46f5fab5b7efc2fc67fc",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-v-turecku-se-zritil-vojensky-vrtulnik-ctyri-mrtvi-40608397",
+      "published_utc": "2026-11-12T19:32:59Z",
+      "title_en": "V Turecku se zřítil vojenský vrtulník, čtyři mrtví",
+      "lead_en": "Při zřícení vojenského vrtulníku Black Hawk u města Malatya na jihovýchodě Turecka zahynuli čtyři vojáci. O incidentu ve čtvrtek večer informovala turecká média.",
+      "title_raw": "V Turecku se zřítil vojenský vrtulník, čtyři mrtví",
+      "lead_raw": "Při zřícení vojenského vrtulníku Black Hawk u města Malatya na jihovýchodě Turecka zahynuli čtyři vojáci. O incidentu ve čtvrtek večer informovala turecká média.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "2ebb8d812350fece58888f3b5dfd06aad8fb57e5",
+      "fingerprint": "a501c979d61e6335b462684f3f26b5977e867e69",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-rodina-ho-20-let-povazovala-za-mrtveho-veterana-z-iraku-nasli-v-domove-senioru-na-zapade-cech-40608389",
+      "published_utc": "2026-11-12T18:42:33Z",
+      "title_en": "Rodina ho 20 let považovala za mrtvého. Veterána z Iráku našli v domově seniorů na západě Čech",
+      "lead_en": "Rodina slovenského válečného veterána Jána Šima se po více než dvaceti letech dozvěděla, že muž, kterého už považovala za mrtvého, stále žije. Devětašedesátiletý bývalý voják nyní pobývá v domově pro seniory na západě Čech, kde je kvůli zdravotnímu stavu odkázán na celodenní péči.",
+      "title_raw": "Rodina ho 20 let považovala za mrtvého. Veterána z Iráku našli v domově seniorů na západě Čech",
+      "lead_raw": "Rodina slovenského válečného veterána Jána Šima se po více než dvaceti letech dozvěděla, že muž, kterého už považovala za mrtvého, stále žije. Devětašedesátiletý bývalý voják nyní pobývá v domově pro seniory na západě Čech, kde je kvůli zdravotnímu stavu odkázán na celodenní péči.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "8f459a23114e717183d2f64d04f472e6b7e1dcca",
+      "fingerprint": "e37ee2a8d126ad2c19e7c415c42d711e2addf0fd",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/havlicek-ochranci-prezident-cesta-ukrajina-bodyguardi-kolona.A261112_180855_domaci_sahu",
+      "published_utc": "2026-11-12T18:38:00Z",
+      "title_en": "Hlídali ho jako prezidenta. Kolem Havlíčka bylo na Ukrajině až 50 ochránců",
+      "lead_en": "Od našich zpravodajů v zahraničí – Ojedinělá nejen svou velikostí byla výprava vicepremiéra a ministra průmyslu Karla Havlíčka na Ukrajinu. Už před ní a během ní panovala kvůli možnému útoku přísná bezpečnostní opatření.",
+      "title_raw": "Hlídali ho jako prezidenta. Kolem Havlíčka bylo na Ukrajině až 50 ochránců",
+      "lead_raw": "Od našich zpravodajů v zahraničí – Ojedinělá nejen svou velikostí byla výprava vicepremiéra a ministra průmyslu Karla Havlíčka na Ukrajinu. Už před ní a během ní panovala kvůli možnému útoku přísná bezpečnostní opatření.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "b79f6fa93d78405be591597eb43b72159d0394c0",
+      "fingerprint": "a3893d4be49e65c32848f574383a7b7f3252346d",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/sef-antimonopolniho-uradu-ma-obrovskou-moc-a-petr-mlsna-dela-podivne-kroky-zni-z_2611121834_elev",
+      "published_utc": "2026-11-12T17:34:00Z",
+      "title_en": "Šéf antimonopolního úřadu má obrovskou moc a Petr Mlsna dělá podivné kroky, zní z Transparency",
+      "lead_en": "Současný šéf Úřadu pro ochranu hospodářské soutěže Petr Mlsna zvažuje, že se přihlásí o další šestileté funkční období, přestože přišel o bezpečnostní prověrku. Zájemci o post šéfa antimonopolního úřadu mají pouhý týden na to, aby se přihlásili.",
+      "title_raw": "Šéf antimonopolního úřadu má obrovskou moc a Petr Mlsna dělá podivné kroky, zní z Transparency",
+      "lead_raw": "Současný šéf Úřadu pro ochranu hospodářské soutěže Petr Mlsna zvažuje, že se přihlásí o další šestileté funkční období, přestože přišel o bezpečnostní prověrku. Zájemci o post šéfa antimonopolního úřadu mají pouhý týden na to, aby se přihlásili.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "a4a40ba5b75a5426544d681c13123bda646e9f9a",
+      "fingerprint": "47e8a37c1a7f7fecd207863d429fddd4e3fcde4b",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-v-krakove-se-opet-strilelo-strelce-zadrzela-policie-nikdo-nebyl-zranen-40608378",
+      "published_utc": "2026-11-12T17:08:26Z",
+      "title_en": "V Krakově se opět střílelo, útočníka zadržela policie",
+      "lead_en": "V polském Krakově 39letý muž vypálil dvě rány na policisty, kteří odpověděli výstražnými výstřely a pak muže zadrželi. Během incidentu se nikomu nic nestalo, protože muž střílel z plynové zbraně, informovala polská média.",
+      "title_raw": "V Krakově se opět střílelo, útočníka zadržela policie",
+      "lead_raw": "V polském Krakově 39letý muž vypálil dvě rány na policisty, kteří odpověděli výstražnými výstřely a pak muže zadrželi. Během incidentu se nikomu nic nestalo, protože muž střílel z plynové zbraně, informovala polská média.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "44759193814e65208d588523f475946cc6d247ae",
+      "fingerprint": "42a3ed0d57b821262cda918ed8f0e2a94154333e",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-ozbrojeni-lupici-na-motocyklech-prepadli-luxusni-klenotnictvi-v-centru-parize-40608373",
+      "published_utc": "2026-11-12T17:06:21Z",
+      "title_en": "Ozbrojení lupiči na motocyklech přepadli luxusní klenotnictví v centru Paříže",
+      "lead_en": "Luxusní klenotnictví De Beers v centru Paříže přepadlo několik ozbrojených lupičů. Z místa činu odjeli na motocyklech a skútrech.",
+      "title_raw": "Ozbrojení lupiči na motocyklech přepadli luxusní klenotnictví v centru Paříže",
+      "lead_raw": "Luxusní klenotnictví De Beers v centru Paříže přepadlo několik ozbrojených lupičů. Z místa činu odjeli na motocyklech a skútrech.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "15552f119c1064edd88b8b0068d73cd11b646ae1",
+      "fingerprint": "98b1ff539a62dfcaff00111d458e20e3078f3411",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/ve-veku-100-let-zemrel-valecny-veteran-josef-turek-ucastnil-se-boju-u-dunkerk_2611121803_tez",
+      "published_utc": "2026-11-12T17:03:00Z",
+      "title_en": "Ve věku 100 let zemřel válečný veterán Josef Turek. Účastnil se bojů u Dunkerku, získal mnoho ocenění",
+      "lead_en": "Ve věku 100 let zemřel ve čtvrtek válečný veterán a plukovník ve výslužbě Josef Turek. Byl posledním v Česku žijícím československým vojákem, který se za druhé světové války zúčastnil bojů u francouzského přístavu Dunkerk.",
+      "title_raw": "Ve věku 100 let zemřel válečný veterán Josef Turek. Účastnil se bojů u Dunkerku, získal mnoho ocenění",
+      "lead_raw": "Ve věku 100 let zemřel ve čtvrtek válečný veterán a plukovník ve výslužbě Josef Turek. Byl posledním v Česku žijícím československým vojákem, který se za druhé světové války zúčastnil bojů u francouzského přístavu Dunkerk.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "4959085486eaaf8bbdcf950ac08e654459c4d897",
+      "fingerprint": "d47406511e062844bfe47281af483ec4efbb4d7a",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/vtipy-vojenske-cviceni-okamura-ma-lepsi-plan-nakoupi-vitaminy-pro-lepsi-obranyschopnost-40608375",
+      "published_utc": "2026-11-12T16:56:23Z",
+      "title_en": "Vojenské cvičení? Okamura má lepší plán: Nakoupí vitamíny pro lepší obranyschopnost",
+      "lead_en": "",
+      "title_raw": "Vojenské cvičení? Okamura má lepší plán: Nakoupí vitamíny pro lepší obranyschopnost",
+      "lead_raw": "",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "9e9ba3177715375e73e0c74785e5b598c6c20736",
+      "fingerprint": "bf800c5df777086f10cec847d9ff92f985f14fc8",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ozbrojeni-lupici-prepadli-klenotnictvi-de-beers-centrum-parize.A261112_173930_zahranicni_sahu",
+      "published_utc": "2026-11-12T16:55:00Z",
+      "title_en": "Za bílého dne s puškou. Lupiči na skútrech vykradli v centru Paříže klenotnictví",
+      "lead_en": "Několik ozbrojených lupičů dnes přepadlo klenotnictví De Beers v centru Paříže a z místa zločinu ujelo na motocyklech a skútrech. Pachatelé zbraněmi jen hrozili, při činu nebyl nikdo zraněn.",
+      "title_raw": "Za bílého dne s puškou. Lupiči na skútrech vykradli v centru Paříže klenotnictví",
+      "lead_raw": "Několik ozbrojených lupičů dnes přepadlo klenotnictví De Beers v centru Paříže a z místa zločinu ujelo na motocyklech a skútrech. Pachatelé zbraněmi jen hrozili, při činu nebyl nikdo zraněn.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "9b208e35d7c2bf259a299b42ea9828ecebb056c9",
+      "fingerprint": "ccf99f9e7b206344eb371b8acb82f0744d762979",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/josef-turek-umrti-valecny-veteran.A261112_165240_domaci_aoc",
+      "published_utc": "2026-11-12T16:37:00Z",
+      "title_en": "Ve 100 letech zemřel Josef Turek, český veterán z bojů o Dunkerque",
+      "lead_en": "Ve věku 100 let ve čtvrtek zemřel válečný veterán a plukovník ve výslužbě Josef Turek, poslední v Česku žijící československý voják, který se za druhé světové války zúčastnil bojů u francouzského přístavu Dunkerque. O jeho úmrtí informoval odbor válečných veteránů a válečných hrobů ministerstva obrany na síti X.",
+      "title_raw": "Ve 100 letech zemřel Josef Turek, český veterán z bojů o Dunkerque",
+      "lead_raw": "Ve věku 100 let ve čtvrtek zemřel válečný veterán a plukovník ve výslužbě Josef Turek, poslední v Česku žijící československý voják, který se za druhé světové války zúčastnil bojů u francouzského přístavu Dunkerque. O jeho úmrtí informoval odbor válečných veteránů a válečných hrobů ministerstva obrany na síti X.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "7c68b7c94605a12e4e0e903b8f02ac50806261e7",
+      "fingerprint": "4b7bfff27e4f47c48270a4d1525ef07831eb345f",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/krakov-strelec-polsko-policie-utocnik-zraneni-zbran.A261112_172041_zahranicni_aya",
+      "published_utc": "2026-11-12T16:31:00Z",
+      "title_en": "V Krakově se opět střílelo. Policie zadržela muže, který na ně vypálil ze zbraně",
+      "lead_en": "V Krakově na jihu Polska se ve čtvrtek opět střílelo. Devětatřicetiletý útočník vypálil dvě rány na hlídku, která na ni odpověděla výstražnými výstřely a muže záhy dopadla.",
+      "title_raw": "V Krakově se opět střílelo. Policie zadržela muže, který na ně vypálil ze zbraně",
+      "lead_raw": "V Krakově na jihu Polska se ve čtvrtek opět střílelo. Devětatřicetiletý útočník vypálil dvě rány na hlídku, která na ni odpověděla výstražnými výstřely a muže záhy dopadla.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "158ed1bf452f931dc6570acb9678d459fa83c288",
+      "fingerprint": "37642a6343b77954161418ccd445fb908ae8ba5a",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-ukrajinci-umi-zmast-ruske-oresniky-a-odklonit-je-z-kurzu-40608361",
+      "published_utc": "2026-11-12T16:26:52Z",
+      "title_en": "Ukrajinci umí zmást ruské orešniky a odklonit je z kurzu",
+      "lead_en": "Ukrajinské síly dokázaly odklonit z kurzu ruské rakety Orešnik. Podle listu The New York Times přitom použily ukrajinský systém elektronického boje Lima.",
+      "title_raw": "Ukrajinci umí zmást ruské orešniky a odklonit je z kurzu",
+      "lead_raw": "Ukrajinské síly dokázaly odklonit z kurzu ruské rakety Orešnik. Podle listu The New York Times přitom použily ukrajinský systém elektronického boje Lima.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "39d05841834855eda4a35206dd6ca61aa4c13ced",
+      "fingerprint": "623ec8510032ab6132aca596350f770f7a8ca211",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/zemrel-josef-turek-ceskoslovensky-valecny-veteran-z-boju-u-dunkerku-379565",
+      "published_utc": "2026-11-12T16:19:08Z",
+      "title_en": "Zemřel Josef Turek, československý válečný veterán z bojů u Dunkerku",
+      "lead_en": "Ve věku sto let zemřel válečný veterán a&nbsp;plukovník ve výslužbě Josef Turek, poslední v&nbsp;Česku pobývající československý voják, který se za druhé světové války zúčastnil bojů u&nbsp;francouzského přístavu Dunkerk. O&nbsp;jeho úmrtí informoval odbor válečných veteránů a&nbsp;válečných hrobů ministerstva obrany na síti X.",
+      "title_raw": "Zemřel Josef Turek, československý válečný veterán z bojů u Dunkerku",
+      "lead_raw": "Ve věku sto let zemřel válečný veterán a&nbsp;plukovník ve výslužbě Josef Turek, poslední v&nbsp;Česku pobývající československý voják, který se za druhé světové války zúčastnil bojů u&nbsp;francouzského přístavu Dunkerk. O&nbsp;jeho úmrtí informoval odbor válečných veteránů a&nbsp;válečných hrobů ministerstva obrany na síti X.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ccb96a2baedb49275ab97c780197f839ac55771c",
+      "fingerprint": "82235b6072544371408d9a45b5f3b4ce40b4b045",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-zemrel-veteran-josef-turek-posledni-cesky-ucastnik-boju-u-dunkerque-320414",
+      "published_utc": "2026-11-12T16:05:53Z",
+      "title_en": "Zemřel veterán Josef Turek, poslední český účastník bojů u Dunkerque",
+      "lead_en": "Ve věku 100 let zemřel plukovník ve výslužbě Josef Turek. Byl posledním v Česku žijícím československým vojákem, který se účastnil bojů u Dunkerque.",
+      "title_raw": "Zemřel veterán Josef Turek, poslední český účastník bojů u Dunkerque",
+      "lead_raw": "Ve věku 100 let zemřel plukovník ve výslužbě Josef Turek. Byl posledním v Česku žijícím československým vojákem, který se účastnil bojů u Dunkerque.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "c4753094a4659fea0ac89cb4172bd1c6c03a71a1",
+      "fingerprint": "7217e9a5ec142b3dc3d7526fa9eb4065d028846e",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-doprava-stopka-pro-cinska-auta-i-tesly-nemecka-armada-zakazuje-vjezd-chytrym-autum-320375",
+      "published_utc": "2026-11-12T16:00:00Z",
+      "title_en": "Stopka pro čínská auta i Tesly. Německá armáda zakazuje vjezd chytrým autům",
+      "lead_en": "Německá armáda do svých areálů přestane vpouštět některá moderní auta s pokročilými senzory. Důvodem jsou obavy, že záběry z jejich kamer mohou zneužít cizí tajné služby.",
+      "title_raw": "Stopka pro čínská auta i Tesly. Německá armáda zakazuje vjezd chytrým autům",
+      "lead_raw": "Německá armáda do svých areálů přestane vpouštět některá moderní auta s pokročilými senzory. Důvodem jsou obavy, že záběry z jejich kamer mohou zneužít cizí tajné služby.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "a5376bbe0bffa478d4bd396043dd673e8343141e",
+      "fingerprint": "17f1f3b7619250000520ff1a6d094b726ae15d05",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/tmbk-tmbk-okamura-prekvapil-nove-sefuje-i-vojakum-320406",
+      "published_utc": "2026-11-12T15:40:36Z",
+      "title_en": "TMBK: Okamura překvapil novou funkcí",
+      "lead_en": "Předseda PS Tomio Okamura sám sebe pasoval do pozice, ze které dle jeho slov může rozhodovat o účasti a neúčasti armády na zahraničních misích, včetně aktuálně probíhajícího cvičení západních spojenců. TMBK pro SZ.",
+      "title_raw": "TMBK: Okamura překvapil novou funkcí",
+      "lead_raw": "Předseda PS Tomio Okamura sám sebe pasoval do pozice, ze které dle jeho slov může rozhodovat o účasti a neúčasti armády na zahraničních misích, včetně aktuálně probíhajícího cvičení západních spojenců. TMBK pro SZ.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "ffd0b26117918d47d5d939c1b321f2c33ff8b37f",
+      "fingerprint": "2e4dd7cadb2698b1fe10429f92973f0e08efdd91",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/csg-ziskala-zakazku-na-strelivo-pro-kanadske-ministerstvo-doda-42-mil-naboju/2901271",
+      "published_utc": "2026-11-12T15:12:00Z",
+      "title_en": "CSG získala zakázku na střelivo pro kanadské ministerstvo, dodá 4,2 mil. nábojů",
+      "lead_en": "Praha - Zbrojařská a strojírenská skupina Czechoslovak Group (CSG) podnikatele Michala Strnada získala zakázku na dodávky pistolového střeliva od značky Speer pro kanadské ministerstvo obrany. CSG o tom...",
+      "title_raw": "CSG získala zakázku na střelivo pro kanadské ministerstvo, dodá 4,2 mil. nábojů",
+      "lead_raw": "Praha - Zbrojařská a strojírenská skupina Czechoslovak Group (CSG) podnikatele Michala Strnada získala zakázku na dodávky pistolového střeliva od značky Speer pro kanadské ministerstvo obrany. CSG o tom...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1568a386a45ab6705ae77e7c4bdb7cc2867f83d5",
+      "fingerprint": "fc838055cdd8cdabf3c876bab66213d42161a6fc",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/na-poradek-pri-demonstraci-letna-proti-436-budou-dohlizet-desitky-policistu_2611121539_vsn",
+      "published_utc": "2026-11-12T14:39:00Z",
+      "title_en": "Na pořádek při demonstraci ‚Letná proti 4:36‘ budou dohlížet desítky policistů. Záchranáři posílí provoz",
+      "lead_en": "Pražská policie plánuje při nedělní demonstraci spolku Milion chvilek na Letné nasadit standardní bezpečnostní opatření, na pořádek budou dohlížet desítky policistů. Uvedla to ve čtvrtek policejní mluvčí Eva Kropáčová.",
+      "title_raw": "Na pořádek při demonstraci ‚Letná proti 4:36‘ budou dohlížet desítky policistů. Záchranáři posílí provoz",
+      "lead_raw": "Pražská policie plánuje při nedělní demonstraci spolku Milion chvilek na Letné nasadit standardní bezpečnostní opatření, na pořádek budou dohlížet desítky policistů. Uvedla to ve čtvrtek policejní mluvčí Eva Kropáčová.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "2478108fdd203f8a572e122f8e1060c8a6ce59ed",
       "fingerprint": "c7ef3872eaaec5806958701b28562d4dd429ed0f",
@@ -1605,651 +2027,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "b1fad7d6855e6cc0d7557db3de696ee48f2f87e8",
-      "fingerprint": "aa7289e36f3edc70c77ec4d17cf355363af39052",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/britska-policie-zatceni-americka-armada-podezreni-trestny-cin-rusko.A261110_202429_zahranicni_fohl",
-      "published_utc": "2026-11-10T20:44:00Z",
-      "title_en": "Britská policie zatkla příslušníka americké armády. Mluví se o špionáži pro Rusko",
-      "lead_en": "Britská policie zatkla příslušníka amerických ozbrojených sil, který je podezřelý z trestných činů podle zákona o národní bezpečnosti. Věc se týká Ruska, uvedla v úterý večer britská policie s tím, že spolupracuje s americkými úřady včetně Federálního úřadu pro vyšetřování (FBI).",
-      "title_raw": "Britská policie zatkla příslušníka americké armády. Mluví se o špionáži pro Rusko",
-      "lead_raw": "Britská policie zatkla příslušníka amerických ozbrojených sil, který je podezřelý z trestných činů podle zákona o národní bezpečnosti. Věc se týká Ruska, uvedla v úterý večer britská policie s tím, že spolupracuje s americkými úřady včetně Federálního úřadu pro vyšetřování (FBI).",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "37f5b0f30237f95391e4719e51a4df98289bd487",
-      "fingerprint": "d376aa47906c639ed8ee138e5a349ca3276823c8",
-      "source": "iROZHLAS - Economy",
-      "url": "https://www.irozhlas.cz/ekonomika/kopecny-nase-firmy-maji-o-ukrajinu-zajem-kvuli-ceske-vlade-s-nami-ale-ukrajinci_2611102141_jar",
-      "published_utc": "2026-11-10T20:41:00Z",
-      "title_en": "Kopečný: Naše firmy mají o Ukrajinu zájem. Kvůli české vládě s námi ale Ukrajinci nesdílí všechno",
-      "lead_en": "V Abú Zabí se v následujících dvou dnech bude hledat způsob, jak ukončit ruskou agresi na Ukrajině a najít pro zemi bezpečnostní záruky. Na Ukrajinu naopak míří ministr průmyslu a obchodu Karel Havlíček (ANO) s početnou podnikatelskou delegací.",
-      "title_raw": "Kopečný: Naše firmy mají o Ukrajinu zájem. Kvůli české vládě s námi ale Ukrajinci nesdílí všechno",
-      "lead_raw": "V Abú Zabí se v následujících dvou dnech bude hledat způsob, jak ukončit ruskou agresi na Ukrajině a najít pro zemi bezpečnostní záruky. Na Ukrajinu naopak míří ministr průmyslu a obchodu Karel Havlíček (ANO) s početnou podnikatelskou delegací.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "cb371dca8455fe9ccb23845a20cb93ee1eda07af",
-      "fingerprint": "a5141ec3cb56465ec3e99c3a99d1069bea786068",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-britska-policie-oznamila-zatceni-prislusnika-americke-armady-tyka-se-to-ruska-320229",
-      "published_utc": "2026-11-10T20:15:09Z",
-      "title_en": "Britská policie oznámila zatčení příslušníka americké armády, týká se to Ruska",
-      "lead_en": "Příslušník amerických ozbrojených sil byl zatčen v Británii. Podle tamní policie je podezřelý z trestných činů podle zákona o národní bezpečnosti.",
-      "title_raw": "Britská policie oznámila zatčení příslušníka americké armády, týká se to Ruska",
-      "lead_raw": "Příslušník amerických ozbrojených sil byl zatčen v Británii. Podle tamní policie je podezřelý z trestných činů podle zákona o národní bezpečnosti.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "601da07b3ce7f6a30f329a9a51e30f06f6b1ef67",
-      "fingerprint": "03917bc1f114916ae647f686a749946b7953e92c",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/britska-policie-zatkla-prislusnika-americke-armady-zalezitost-souvisi-s-ruskem-379494",
-      "published_utc": "2026-11-10T19:53:37Z",
-      "title_en": "Britská policie zatkla příslušníka americké armády. Záležitost souvisí s Ruskem",
-      "lead_en": "Britská policie zatkla příslušníka amerických ozbrojených sil, který je podezřelý z&nbsp;trestných činů podle zákona o&nbsp;národní bezpečnosti. Věc souvisí s&nbsp;Ruskem, uvedla v&nbsp;úterý večer britská policie s&nbsp;tím, že spolupracuje s&nbsp;americkými úřady včetně Federálního úřadu pro vyšetřování (FBI).",
-      "title_raw": "Britská policie zatkla příslušníka americké armády. Záležitost souvisí s Ruskem",
-      "lead_raw": "Britská policie zatkla příslušníka amerických ozbrojených sil, který je podezřelý z&nbsp;trestných činů podle zákona o&nbsp;národní bezpečnosti. Věc souvisí s&nbsp;Ruskem, uvedla v&nbsp;úterý večer britská policie s&nbsp;tím, že spolupracuje s&nbsp;americkými úřady včetně Federálního úřadu pro vyšetřování (FBI).",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "6dc0b4ed0f8e7d64909ccd4405ce112d590bed6d",
-      "fingerprint": "7ce701cea04e705f2a3268793f6c35f388abb724",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/deti-se-vratily-do-skolky-kterou-trapil-chemicky-zapach-koprivnice-bude-vymahat_2611102024_jho",
-      "published_utc": "2026-11-10T19:24:00Z",
-      "title_en": "Děti se vrátily do školky, kterou trápil chemický zápach. Kopřivnice bude vymáhat sanační náklady",
-      "lead_en": "Kopřivnické radnici se podařilo vyřešit problém se zapáchající podlahou v mateřské škole Pionýrská. Obtíže způsobila látka 2-ethylhexanol a byly natolik vážné, že školku musely zhruba před rokem opustit děti i učitelky.",
-      "title_raw": "Děti se vrátily do školky, kterou trápil chemický zápach. Kopřivnice bude vymáhat sanační náklady",
-      "lead_raw": "Kopřivnické radnici se podařilo vyřešit problém se zapáchající podlahou v mateřské škole Pionýrská. Obtíže způsobila látka 2-ethylhexanol a byly natolik vážné, že školku musely zhruba před rokem opustit děti i učitelky.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "0801b2c7858a3817b2eee1e70c601ea1f779b3ca",
-      "fingerprint": "34abd491f59c57bdf2d7ea93b2118e813af57286",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/rusko-ukrajina-utok-obilniny.A261110_192017_zahranicni_balu",
-      "published_utc": "2026-11-10T19:22:00Z",
-      "title_en": "Po energetice a mostech přichází na řadu vyhladovění. Kam zamíří další ruské útoky",
-      "lead_en": "Rusko plánuje útočit na obilné sklady a další objekty potravinářského průmyslu na Ukrajině, varuje tamější ministerstvo obrany. To by mohlo pro zemi sužovanou válkou znamenat cestu k hladovění, nemluvě o finančních ztrátách kvůli narušení exportu.",
-      "title_raw": "Po energetice a mostech přichází na řadu vyhladovění. Kam zamíří další ruské útoky",
-      "lead_raw": "Rusko plánuje útočit na obilné sklady a další objekty potravinářského průmyslu na Ukrajině, varuje tamější ministerstvo obrany. To by mohlo pro zemi sužovanou válkou znamenat cestu k hladovění, nemluvě o finančních ztrátách kvůli narušení exportu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "88a3aa1b4d56826c60235a80b102393782022477",
-      "fingerprint": "9d136df9b20fb7efb470390c0003a32fa9cfe655",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-v-britanii-zatkli-americkeho-vojaka-souvisi-to-s-ruskem-40607945",
-      "published_utc": "2026-11-10T19:03:30Z",
-      "title_en": "V Británii zatkli amerického vojáka",
-      "lead_en": "Britská policie zatkla příslušníka armády Spojených států v souvislosti s trestnými činy podle zákona o národní bezpečnosti. Týká se to Ruska, uvedla policie.",
-      "title_raw": "V Británii zatkli amerického vojáka",
-      "lead_raw": "Britská policie zatkla příslušníka armády Spojených států v souvislosti s trestnými činy podle zákona o národní bezpečnosti. Týká se to Ruska, uvedla policie.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "aeb8354986869648218db2dd7dee4645b654281a",
-      "fingerprint": "1e325fdfa606f822837042920f3c7a0d6c5c7477",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-iran-nyni-nevede-se-spojenymi-staty-zadna-jednani-rekl-iransky-cinitel-320226",
-      "published_utc": "2026-11-10T18:50:56Z",
-      "title_en": "Írán nyní nevede se Spojenými státy žádná jednání, řekl íránský činitel",
-      "lead_en": "Podle šéfa íránské Nejvyšší rady národní bezpečnosti Teherán nyní nejedná se Spojenými státy. Obnovení rozhovorů podmiňuje splněním požadavků z červnové přechodné dohody.",
-      "title_raw": "Írán nyní nevede se Spojenými státy žádná jednání, řekl íránský činitel",
-      "lead_raw": "Podle šéfa íránské Nejvyšší rady národní bezpečnosti Teherán nyní nejedná se Spojenými státy. Obnovení rozhovorů podmiňuje splněním požadavků z červnové přechodné dohody.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "988f787daf89bdfa9ceec5d2adfa0dab7c8ff881",
-      "fingerprint": "3317a259bc6daed6885f3e3c5688bdf012ab6800",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-agentura-eu-varovala-pred-moznymi-kybernetickymi-utoky-na-domaci-spotrebice-320225",
-      "published_utc": "2026-11-10T17:40:07Z",
-      "title_en": "Agentura EU varovala před možnými kybernetickými útoky na domácí spotřebiče",
-      "lead_en": "Podle šéfa Agentury EU pro kybernetickou bezpečnost Juhana Lepassaara by po útocích na chladicí zařízení v evropských supermarketech mohly být dalším terčem domácí spotřebiče. Varoval také před možnými výpadky základních služeb.",
-      "title_raw": "Agentura EU varovala před možnými kybernetickými útoky na domácí spotřebiče",
-      "lead_raw": "Podle šéfa Agentury EU pro kybernetickou bezpečnost Juhana Lepassaara by po útocích na chladicí zařízení v evropských supermarketech mohly být dalším terčem domácí spotřebiče. Varoval také před možnými výpadky základních služeb.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "fa14f284f3e4750923b5d2bfb843f4be523e5f3e",
-      "fingerprint": "ba206fd64e41c30ac72c0c806ca19bfb19d17472",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-po-boku-stihacek-f-35-bude-letat-verny-doprovod-40607261",
-      "published_utc": "2026-11-10T16:49:58Z",
-      "title_en": "Po boku stíhaček F-35 bude létat „věrný doprovod“",
-      "lead_en": "Americké stíhačky F‑35, které pořizuje také česká armáda, mají v budoucnu vyrážet do akcí s bezpilotním doprovodem. Drony označované jako „loyal wingman“, tedy „věrný doprovod“, mají pilotům pomáhat s průzkumem, nést další zbraně nebo rušit nepřátelské radary.",
-      "title_raw": "Po boku stíhaček F-35 bude létat „věrný doprovod“",
-      "lead_raw": "Americké stíhačky F‑35, které pořizuje také česká armáda, mají v budoucnu vyrážet do akcí s bezpilotním doprovodem. Drony označované jako „loyal wingman“, tedy „věrný doprovod“, mají pilotům pomáhat s průzkumem, nést další zbraně nebo rušit nepřátelské radary.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ec0e13b82efc346b51dac81f09393fbac63fc291",
-      "fingerprint": "84b04b9db98ec4057463f35b2703bf6f3717f8bf",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/masovy-exodus-a-vojaci-v-ulicich-v-jar-graduje-nasili-vuci-migrantum-379475",
-      "published_utc": "2026-11-10T16:30:00Z",
-      "title_en": "Vlna násilí proti migrantům v JAR spustila nebývalý exodus",
-      "lead_en": "V&nbsp;Jihoafrické republice v&nbsp;posledních měsících sílí protiimigrační protesty a&nbsp;xenofobní útoky. Vláda po brutálním ubití cizince nasadila stovky vojáků do města Durban a&nbsp;pozastavila přijímání žádostí o&nbsp;azyl.",
-      "title_raw": "Vlna násilí proti migrantům v JAR spustila nebývalý exodus",
-      "lead_raw": "V&nbsp;Jihoafrické republice v&nbsp;posledních měsících sílí protiimigrační protesty a&nbsp;xenofobní útoky. Vláda po brutálním ubití cizince nasadila stovky vojáků do města Durban a&nbsp;pozastavila přijímání žádostí o&nbsp;azyl.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "8fc98c1a07ba5e9af1d46c657882ddbe89473a9c",
-      "fingerprint": "77d026c238dac5e4a2c4eb556d08a83012e5392d",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-rusko-planuje-utoky-na-ukrajinsky-potravinarsky-prumysl-40607927",
-      "published_utc": "2026-11-10T16:22:17Z",
-      "title_en": "Rusko plánuje útoky na ukrajinský potravinářský průmysl",
-      "lead_en": "Ruské síly připravují útoky na zařízení potravinářského průmyslu po celé Ukrajině. Uvedl to podle deníku The Kyiv Independent zdroj z ukrajinské vojenské rozvědky (HUR).",
-      "title_raw": "Rusko plánuje útoky na ukrajinský potravinářský průmysl",
-      "lead_raw": "Ruské síly připravují útoky na zařízení potravinářského průmyslu po celé Ukrajině. Uvedl to podle deníku The Kyiv Independent zdroj z ukrajinské vojenské rozvědky (HUR).",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "8bd6ba2b115e7beb7e698fe180b6d4fd69a8afec",
-      "fingerprint": "e708741d7a0e15367902fa81ae77ca34a9863f4b",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/masin-pohreb-amerika-losany-pamatnik.A261110_140310_domaci_row",
-      "published_utc": "2026-11-10T15:58:00Z",
-      "title_en": "Josefa Mašína pohřbí v Kalifornii. V Česku chystají vzpomínkovou akci",
-      "lead_en": "Zesnulý protikomunistický odbojář Josef Mašín bude pohřben na vojenském hřbitově v Riverside v Kalifornii, stejně jako jeho bratr Ctirad. V Česku si zesnulého hrdinu připomenou v Památníku tří odbojů, v Mašínově statku ve středočeských Lošanech.",
-      "title_raw": "Josefa Mašína pohřbí v Kalifornii. V Česku chystají vzpomínkovou akci",
-      "lead_raw": "Zesnulý protikomunistický odbojář Josef Mašín bude pohřben na vojenském hřbitově v Riverside v Kalifornii, stejně jako jeho bratr Ctirad. V Česku si zesnulého hrdinu připomenou v Památníku tří odbojů, v Mašínově statku ve středočeských Lošanech.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "578424a29fa89d7fb6846dbf3e30e87a7dcb7d35",
-      "fingerprint": "af79b922d9f67d3fbb288332563457a738c8c759",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-cesko-chybi-na-veledulezitem-vojenskem-cviceni-v-polsku-40607911",
-      "published_utc": "2026-11-10T15:52:38Z",
-      "title_en": "Česko chybí na velmi důležitém vojenském cvičení v Polsku",
-      "lead_en": "V Polsku začalo v pondělí cvičení koalice ochotných KOALICJA 26.2, které poběží až do 22. listopadu.",
-      "title_raw": "Česko chybí na velmi důležitém vojenském cvičení v Polsku",
-      "lead_raw": "V Polsku začalo v pondělí cvičení koalice ochotných KOALICJA 26.2, které poběží až do 22. listopadu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "c51a9b6adb901fb6875d89a5138b3b2ed0f97524",
-      "fingerprint": "d0845bac7604290c5f3287744647cfeaab9684ea",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/kultura-socha-ve-washingtonu-zesmesnila-trumpa-za-to-ze-se-vyhybal-vojenske-sluzbe-40607889",
-      "published_utc": "2026-11-10T15:27:51Z",
-      "title_en": "Socha ve Washingtonu zesměšnila Trumpa za to, že se vyhýbal vojenské službě",
-      "lead_en": "Skupina anonymních umělců, která si přezdívá The Secret Handshake, instalovala v pondělí v centru Washingtonu sochu zesměšňující amerického prezidenta Donalda Trumpa. Odkazuje na to, že se pomocí lékařské diagnózy kostních výrůstků na chodidlech vyhnul povolání do armády během války ve Vietnamu.",
-      "title_raw": "Socha ve Washingtonu zesměšnila Trumpa za to, že se vyhýbal vojenské službě",
-      "lead_raw": "Skupina anonymních umělců, která si přezdívá The Secret Handshake, instalovala v pondělí v centru Washingtonu sochu zesměšňující amerického prezidenta Donalda Trumpa. Odkazuje na to, že se pomocí lékařské diagnózy kostních výrůstků na chodidlech vyhnul povolání do armády během války ve Vietnamu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "104e8669817a9839347cc9b7eb1c91b4908cff79",
-      "fingerprint": "deec1393bd7f03189005f8d80ebb677d134a34fa",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/pocasi-neobvykly-ukaz-u-italskeho-capri-dve-vodni-smrste-vytvorily-oblouk-40607783",
-      "published_utc": "2026-11-10T15:13:43Z",
-      "title_en": "Neobvyklý úkaz u italského Capri. Dvě vodní smrště vytvořily oblouk",
-      "lead_en": "Neobvyklý přírodní úkaz mohli v sobotu pozorovat lidé na italském ostrově Capri. Přímo před známými skalními útvary Faraglioni se vytvořily hned dvě vodní smrště, které se nad mořem přiblížily natolik, že společně připomínaly mohutný oblouk.",
-      "title_raw": "Neobvyklý úkaz u italského Capri. Dvě vodní smrště vytvořily oblouk",
-      "lead_raw": "Neobvyklý přírodní úkaz mohli v sobotu pozorovat lidé na italském ostrově Capri. Přímo před známými skalními útvary Faraglioni se vytvořily hned dvě vodní smrště, které se nad mořem přiblížily natolik, že společně připomínaly mohutný oblouk.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "5dfdc96f907145b33212688472f5bc13af860438",
-      "fingerprint": "8feabdee208a339dab25563642aa99c514780b3d",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-ruske-jednotky-vylepsuji-svuj-postup-na-fronte-upravenymi-ai-videi-320060",
-      "published_utc": "2026-11-10T15:00:00Z",
-      "title_en": "Ruské jednotky našly moderní způsob, jak nadsazovat u velení své úspěchy",
-      "lead_en": "Ruské jednotky vylepšují svůj postup na frontě upravenými AI videi. Nejde však o centrálně organizovanou kampaň, nýbrž o díla několika vojenských jednotek a na ně napojených proruských blogerů.",
-      "title_raw": "Ruské jednotky našly moderní způsob, jak nadsazovat u velení své úspěchy",
-      "lead_raw": "Ruské jednotky vylepšují svůj postup na frontě upravenými AI videi. Nejde však o centrálně organizovanou kampaň, nýbrž o díla několika vojenských jednotek a na ně napojených proruských blogerů.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "3c0d2840693d977e1f848826d60871851e44bd64",
-      "fingerprint": "18cfe0cbd2fcd68f151d8921fbfeb1d8f167b3d4",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/prezident-petr-pavel-prijme-na-hrade-premiera-andreje-babise.A261110_152520_domaci_lupr",
-      "published_utc": "2026-11-10T14:48:00Z",
-      "title_en": "Pavel přijme na Hradě Babiše. Budou řešit bezpečnost i připravenost na krize",
-      "lead_en": "Prezident Petr Pavel a premiér Andrej Babiš se ve středu ráno setkají na Pražském hradě. V 8:00 se uskuteční jejich pravidelné a plánované jednání, uvedla Kancelář prezidenta republiky.",
-      "title_raw": "Pavel přijme na Hradě Babiše. Budou řešit bezpečnost i připravenost na krize",
-      "lead_raw": "Prezident Petr Pavel a premiér Andrej Babiš se ve středu ráno setkají na Pražském hradě. V 8:00 se uskuteční jejich pravidelné a plánované jednání, uvedla Kancelář prezidenta republiky.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "378cd121fa2074400be9972b10efa4a09292fd85",
-      "fingerprint": "3c8554a9e774a6df94a302adf68b352597b06de1",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/pavel-bude-jednat-s-babisem-mimo-jine-o-jmenovani-predsedy-uohs/2900135",
-      "published_utc": "2026-11-10T14:44:00Z",
-      "title_en": "Pavel bude jednat s Babišem mimo jiné o jmenování předsedy ÚOHS",
-      "lead_en": "Praha - Prezident Petr Pavel se ve středu ráno setká s premiérem Andrejem Babišem (ANO). Budou jednat o bezpečnostní situaci ve světě i v ČR, nadcházejících zahraničních návštěvách a cestách i o jmenování...",
-      "title_raw": "Pavel bude jednat s Babišem mimo jiné o jmenování předsedy ÚOHS",
-      "lead_raw": "Praha - Prezident Petr Pavel se ve středu ráno setká s premiérem Andrejem Babišem (ANO). Budou jednat o bezpečnostní situaci ve světě i v ČR, nadcházejících zahraničních návštěvách a cestách i o jmenování...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "1c09a4a88068869dd94acaee8e6c1964f62a148e",
-      "fingerprint": "f1b4f1594c8bfa6eb3338395b02abeca1c2e7faf",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/internet-a-pc-hry-a-herni-systemy-misto-krve-inkoust-talaka-vas-vyzbroji-stetcem-a-posle-zachranit-brazilske-bohy-40606356",
-      "published_utc": "2026-11-10T14:35:00Z",
-      "title_en": "Místo krve inkoust. Talaka vás vyzbrojí štětcem a pošle zachránit brazilské bohy",
-      "lead_en": "Zapomenuté legendy se mění v monstra a ručně malovanou Brazílii pohlcuje chaos. Svižná akční hra Talaka vás vyzbrojí kouzelným štětcem i pestrou paletou zbraní a pošle zachránit příběhy, na které se zapomíná.",
-      "title_raw": "Místo krve inkoust. Talaka vás vyzbrojí štětcem a pošle zachránit brazilské bohy",
-      "lead_raw": "Zapomenuté legendy se mění v monstra a ručně malovanou Brazílii pohlcuje chaos. Svižná akční hra Talaka vás vyzbrojí kouzelným štětcem i pestrou paletou zbraní a pošle zachránit příběhy, na které se zapomíná.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "96ba4ecc9f0ca2249779d84857c17bb587c59ad3",
-      "fingerprint": "246d57a338a1d4a71da52e46ffd7aded015d5fa3",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nukib-upozornuje-na-ruske-kyberutoky-hlavni-aktivitou-je-kyberspionaz-320193",
-      "published_utc": "2026-11-10T14:32:06Z",
-      "title_en": "Úřad upozorňuje na ruské kyberútoky, hlavní aktivitou je kyberšpionáž",
-      "lead_en": "Ruské státem podporované skupiny dlouhodobě útočí na české i spojenecké instituce, například s cílem zničit data či vyřadit z systémy z provozu, varuje úřad. Zároveň také upozorňuje na možné destruktivní a kybernetické útoky.",
-      "title_raw": "Úřad upozorňuje na ruské kyberútoky, hlavní aktivitou je kyberšpionáž",
-      "lead_raw": "Ruské státem podporované skupiny dlouhodobě útočí na české i spojenecké instituce, například s cílem zničit data či vyřadit z systémy z provozu, varuje úřad. Zároveň také upozorňuje na možné destruktivní a kybernetické útoky.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "5ba65a55a0ed6c8fe46dd1fe435be2549e8e597b",
-      "fingerprint": "d3728c2fb92b7bcd58f0b3e72116fd20322a39f0",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/komentare-trefy-trefa-adely-knapove-s-babisem-a-okamurou-za-cesko-slabe-a-bezbranne-40607762",
-      "published_utc": "2026-11-10T14:30:00Z",
-      "title_en": "Trefa Adély Knapové: S Babišem a Okamurou za Česko slabé a bezbranné",
-      "lead_en": "Česko postupně oslabuje svou armádu a dává čím dál víc najevo, že se ho válka o Ukrajinu netýká. Stáváme se tak evropským bezpečnostním kverulantem.",
-      "title_raw": "Trefa Adély Knapové: S Babišem a Okamurou za Česko slabé a bezbranné",
-      "lead_raw": "Česko postupně oslabuje svou armádu a dává čím dál víc najevo, že se ho válka o Ukrajinu netýká. Stáváme se tak evropským bezpečnostním kverulantem.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "703241568f039b4f8a45310bd115238552159019",
-      "fingerprint": "9dddaf1c15a53c2689b7103cd6a4bb5f7e9484ba",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/olomouc/zpravy/mladik-znasilneni-ctrnactileta-divka-video-odvolani-vezeni-soud.A261110_144021_olomouc-zpravy_stk",
-      "published_utc": "2026-11-10T14:22:00Z",
-      "title_en": "Znásilnění čtrnáctileté si natáčel a video rozeslal. Místo podmínky půjde do vězení",
-      "lead_en": "Pod záminkou, že si u něj může uschovat koloběžku, vylákal tehdy mladistvý chlapec čtrnáctiletou dívku do bytu svých rodičů, kde ji podle verdiktu soudu znásilnil. Nedobrovolný sex navíc natočil a video pak rozeslal známým.",
-      "title_raw": "Znásilnění čtrnáctileté si natáčel a video rozeslal. Místo podmínky půjde do vězení",
-      "lead_raw": "Pod záminkou, že si u něj může uschovat koloběžku, vylákal tehdy mladistvý chlapec čtrnáctiletou dívku do bytu svých rodičů, kde ji podle verdiktu soudu znásilnil. Nedobrovolný sex navíc natočil a video pak rozeslal známým.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "a504c14f01cedfddc86264a40bf49d145948e705",
-      "fingerprint": "bf354739fa6ed2ab02f5bcc67af9262e3a423d3f",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/hegseth-ustavni-zaloba-impeachment-usa-republikani-iran.A261110_144031_zahranicni_jhr",
-      "published_utc": "2026-11-10T14:19:00Z",
-      "title_en": "Politické divadlo, pomáhá to nepřátelům, kritizuje Hegseth návrh impeachmentu",
-      "lead_en": "Americký ministr obrany Pete Hegseth označil snahu o podání ústavní žaloby na jeho osobu kvůli válce v Íránu za politické divadlo, které selže. Nepřátelům Spojených států podle jeho názoru takové úsilí ukazuje, že země je ochotná trestat své vlastní bojovníky a vedení za zákonné vojenské operace.",
-      "title_raw": "Politické divadlo, pomáhá to nepřátelům, kritizuje Hegseth návrh impeachmentu",
-      "lead_raw": "Americký ministr obrany Pete Hegseth označil snahu o podání ústavní žaloby na jeho osobu kvůli válce v Íránu za politické divadlo, které selže. Nepřátelům Spojených států podle jeho názoru takové úsilí ukazuje, že země je ochotná trestat své vlastní bojovníky a vedení za zákonné vojenské operace.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "68f237753a1ea41c35dda7a26962e102a4bacbfc",
-      "fingerprint": "2db8b5fedd0eba334d1ab5cb7dd5abab2fba1eba",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-lovecke-jednotky-britanie-vysila-vojaky-do-zahranici-kvuli-kybernetickym-hrozbam-40607866",
-      "published_utc": "2026-11-10T14:07:24Z",
-      "title_en": "„Lovecké jednotky“. Británie vysílá vojáky do zahraničí kvůli kybernetickým hrozbám",
-      "lead_en": "Spojené království začalo vysílat vojenský personál do zahraničí s cílem odhalovat a neutralizovat kybernetické útoky. Informuje o tom deník The Telegraph s odvoláním na vyjádření velitele britských kybernetických a elektromagnetických sil Mikea Fayerse.",
-      "title_raw": "„Lovecké jednotky“. Británie vysílá vojáky do zahraničí kvůli kybernetickým hrozbám",
-      "lead_raw": "Spojené království začalo vysílat vojenský personál do zahraničí s cílem odhalovat a neutralizovat kybernetické útoky. Informuje o tom deník The Telegraph s odvoláním na vyjádření velitele britských kybernetických a elektromagnetických sil Mikea Fayerse.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d519dc11ed13a50129a64ad1d529c97590c99064",
-      "fingerprint": "0744f16a33b90bab1f33ad2cf279d86c1e071109",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/petr-pavel-prezident-ceska-republika-madarsko-bezpecnost-ukrajina-rusko_2611101507_elev",
-      "published_utc": "2026-11-10T14:07:00Z",
-      "title_en": "Pavel se sešel s Bakou. Česko a Maďarsko podle něj sdílí pohled na bezpečnost Evropy",
-      "lead_en": "Maďarsko a ČR mají podle prezidenta Petra Pavla velice podobný pohled na bezpečnost Evropy a nutnost pokračování podpory Ukrajiny vnímají ne jako filantropii, ale jako strategickou investici do vlastní bezpečnosti. Uvedl to v úterý po jednání se svým maďarským protějškem Andrásem Bakou.",
-      "title_raw": "Pavel se sešel s Bakou. Česko a Maďarsko podle něj sdílí pohled na bezpečnost Evropy",
-      "lead_raw": "Maďarsko a ČR mají podle prezidenta Petra Pavla velice podobný pohled na bezpečnost Evropy a nutnost pokračování podpory Ukrajiny vnímají ne jako filantropii, ale jako strategickou investici do vlastní bezpečnosti. Uvedl to v úterý po jednání se svým maďarským protějškem Andrásem Bakou.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "5bb56f6901760a94f0d219bb9b6959dec6f9691e",
-      "fingerprint": "ade3d52ee779826a66bb642fe0c041312253c84b",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/nukib-upozornuje-na-ruske-kyberutoky-hrozi-pry-i-destruktivni-379478",
-      "published_utc": "2026-11-10T13:51:29Z",
-      "title_en": "NÚKIB upozorňuje na ruské kyberútoky. Hrozí prý i destruktivní",
-      "lead_en": "Národní úřad pro kybernetickou a&nbsp;informační bezpečnost (NÚKIB) upozorňuje na dlouhodobé a&nbsp;sofistikované kybernetické útoky ruských státně sponzorovaných aktérů, které míří na české i&nbsp;spojenecké instituce. Podle dokumentu úřadu má hlavní aktivita podobu kyberšpionáže zaměřené na státní správu, nevládní organizace, soukromé subjekty a&nbsp;jednotlivce.",
-      "title_raw": "NÚKIB upozorňuje na ruské kyberútoky. Hrozí prý i destruktivní",
-      "lead_raw": "Národní úřad pro kybernetickou a&nbsp;informační bezpečnost (NÚKIB) upozorňuje na dlouhodobé a&nbsp;sofistikované kybernetické útoky ruských státně sponzorovaných aktérů, které míří na české i&nbsp;spojenecké instituce. Podle dokumentu úřadu má hlavní aktivita podobu kyberšpionáže zaměřené na státní správu, nevládní organizace, soukromé subjekty a&nbsp;jednotlivce.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "101dd4c7ce13b5aa6b9a985a7d21853a460d4806",
-      "fingerprint": "7e3d3afde0bf5205b935f09bf0f7a07598f47696",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/pesak-s-bolavou-nohou-socha-pripomina-jak-se-trump-vyhnul-valce-ve-vietnamu.A261110_131722_zahranicni_ichuc/foto",
-      "published_utc": "2026-11-10T13:33:00Z",
-      "title_en": "Pěšák s bolavou nohou. Socha připomíná, jak se Trump vyhnul válce ve Vietnamu",
-      "lead_en": "Zlatá socha Donalda Trumpa, který si svírá bosé chodidlo, se objevila v centru Washingtonu. Anonymní umělci si jejím prostřednictvím utahují z amerického prezidenta, který se během války ve Vietnamu vyhnul vojenské službě kvůli diagnóze kostních výrůstků.",
-      "title_raw": "Pěšák s bolavou nohou. Socha připomíná, jak se Trump vyhnul válce ve Vietnamu",
-      "lead_raw": "Zlatá socha Donalda Trumpa, který si svírá bosé chodidlo, se objevila v centru Washingtonu. Anonymní umělci si jejím prostřednictvím utahují z amerického prezidenta, který se během války ve Vietnamu vyhnul vojenské službě kvůli diagnóze kostních výrůstků.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "0c14ffdf79efd9ee276401307df5a66e4a3bee9a",
-      "fingerprint": "e93096092d81569d841cce56e8f412d0d35707b7",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/nukib-kyberspionaz-rusko-utok.A261110_140128_domaci_aoc",
-      "published_utc": "2026-11-10T13:27:00Z",
-      "title_en": "Cílí na stát i jednotlivce. NÚKIB varuje před destruktivními kyberútoky z Ruska",
-      "lead_en": "Národní úřad pro kybernetickou a informační bezpečnost (NÚKIB) upozorňuje na dlouhodobé a sofistikované kybernetické útoky ruských státně sponzorovaných aktérů, které míří na české i spojenecké instituce. Podle dokumentu úřadu má hlavní aktivita podobu kyberšpionáže zaměřené na státní správu, nevládní organizace, soukromé subjekty a jednotlivce.",
-      "title_raw": "Cílí na stát i jednotlivce. NÚKIB varuje před destruktivními kyberútoky z Ruska",
-      "lead_raw": "Národní úřad pro kybernetickou a informační bezpečnost (NÚKIB) upozorňuje na dlouhodobé a sofistikované kybernetické útoky ruských státně sponzorovaných aktérů, které míří na české i spojenecké instituce. Podle dokumentu úřadu má hlavní aktivita podobu kyberšpionáže zaměřené na státní správu, nevládní organizace, soukromé subjekty a jednotlivce.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
     }
   ]
 }

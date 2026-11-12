@@ -1,10 +1,121 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-12T13:22:23Z",
+  "updated_at_utc": "2026-11-12T21:11:24Z",
   "topic": "local_events",
-  "count": 18,
+  "count": 19,
   "articles": [
+    {
+      "id": "952e05b509a34baa124e818726df57b711f71a2c",
+      "fingerprint": "4a07c775ec49513cc8df46f5fab5b7efc2fc67fc",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-v-turecku-se-zritil-vojensky-vrtulnik-ctyri-mrtvi-40608397",
+      "published_utc": "2026-11-12T19:32:59Z",
+      "title_en": "V Turecku se zřítil vojenský vrtulník, čtyři mrtví",
+      "lead_en": "Při zřícení vojenského vrtulníku Black Hawk u města Malatya na jihovýchodě Turecka zahynuli čtyři vojáci. O incidentu ve čtvrtek večer informovala turecká média.",
+      "title_raw": "V Turecku se zřítil vojenský vrtulník, čtyři mrtví",
+      "lead_raw": "Při zřícení vojenského vrtulníku Black Hawk u města Malatya na jihovýchodě Turecka zahynuli čtyři vojáci. O incidentu ve čtvrtek večer informovala turecká média.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "244716abb2f1731375a1ba1dbf58b950a81f4268",
+      "fingerprint": "4c1cd1f42bc3ede5f031c31bea82932e2b3dfd17",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/strelec-nedaleko-bileho-domu-zabil-jednoho-cloveka-dalsi-ctyri-postrelil-379568",
+      "published_utc": "2026-11-12T18:57:52Z",
+      "title_en": "Střelec nedaleko Bílého domu zabil jednoho člověka, další čtyři postřelil",
+      "lead_en": "Čtyři zraněné a&nbsp;jednoho mrtvého si ve čtvrtek vyžádala střelba v&nbsp;prestižní washingtonské čtvrti v&nbsp;pěší vzdálenosti od Bílého domu, píše agentura AP s&nbsp;odkazem na policii. Podle svědka byl jeden člověk z&nbsp;pětice postřelen v&nbsp;posilovně a&nbsp;zraněním podlehl.",
+      "title_raw": "Střelec nedaleko Bílého domu zabil jednoho člověka, další čtyři postřelil",
+      "lead_raw": "Čtyři zraněné a&nbsp;jednoho mrtvého si ve čtvrtek vyžádala střelba v&nbsp;prestižní washingtonské čtvrti v&nbsp;pěší vzdálenosti od Bílého domu, píše agentura AP s&nbsp;odkazem na policii. Podle svědka byl jeden člověk z&nbsp;pětice postřelen v&nbsp;posilovně a&nbsp;zraněním podlehl.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "7a55c4086ae42724c17258cb6e33addaf2c532fc",
+      "fingerprint": "94c1bcbcde077734b8f681b1df16edd8bb79e49b",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/washington-strelba-pet-lidi-smrt-utok.A261112_162137_zahranicni_rtn",
+      "published_utc": "2026-11-12T16:40:00Z",
+      "title_en": "Spor ve společenství vlastníků nedaleko Bílého domu vyvrcholil střelbou: dva mrtví",
+      "lead_en": "Dva mrtvé včetně pachatele a čtyři zraněné si dnes vyžádala střelba v prestižní washingtonské čtvrti v pěší vzdálenosti od Bílého domu. Jeden ze zraněných v místní posilovně nakonec zemřel.",
+      "title_raw": "Spor ve společenství vlastníků nedaleko Bílého domu vyvrcholil střelbou: dva mrtví",
+      "lead_raw": "Dva mrtvé včetně pachatele a čtyři zraněné si dnes vyžádala střelba v prestižní washingtonské čtvrti v pěší vzdálenosti od Bílého domu. Jeden ze zraněných v místní posilovně nakonec zemřel.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "7f8850403eccc1f9727607fcd2e9e8162ea76686",
+      "fingerprint": "9a890e0121259465cc1ab14bdbde144a7732885c",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-hromadna-nehoda-v-emiratu-fudzajra-si-vyzadala-14-mrtvych-a-30-zranenych-40608356",
+      "published_utc": "2026-11-12T15:47:23Z",
+      "title_en": "Hromadná nehoda v emirátu Fudžajra si vyžádala 14 mrtvých a 30 zraněných",
+      "lead_en": "Při hromadné dopravní nehodě v emirátu Fudžajra ve Spojených arabských emirátech v noci na čtvrtek zahynulo 14 osob a nejméně dalších 30 utrpělo zranění. O nehodě informovalo emirátské ministerstvo vnitra na síti X.",
+      "title_raw": "Hromadná nehoda v emirátu Fudžajra si vyžádala 14 mrtvých a 30 zraněných",
+      "lead_raw": "Při hromadné dopravní nehodě v emirátu Fudžajra ve Spojených arabských emirátech v noci na čtvrtek zahynulo 14 osob a nejméně dalších 30 utrpělo zranění. O nehodě informovalo emirátské ministerstvo vnitra na síti X.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "7e15aa62f3800b5d030adca8cbf0fbb6ef041fe6",
+      "fingerprint": "b0f5ec43d415ffe58a39e52949c61caa6ff6fd30",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-ve-washingtonske-ctvrti-nedaleko-bileho-domu-byli-postreleni-ctyri-lide-320395",
+      "published_utc": "2026-11-12T14:27:33Z",
+      "title_en": "Střelba ve Washingtonu má jednu oběť a čtyři zraněné",
+      "lead_en": "Jeden člověk zemřel a další čtyři utrpěli zranění při střelbě v prestižní washingtonské čtvrti Logan Circle nedaleko Bílého domu. Podezřelý se po činu zabarikádoval v bytě a podle zdrojů stanice NBC News spáchal sebevraždu.",
+      "title_raw": "Střelba ve Washingtonu má jednu oběť a čtyři zraněné",
+      "lead_raw": "Jeden člověk zemřel a další čtyři utrpěli zranění při střelbě v prestižní washingtonské čtvrti Logan Circle nedaleko Bílého domu. Podezřelý se po činu zabarikádoval v bytě a podle zdrojů stanice NBC News spáchal sebevraždu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "fd988b719981d33a77475b987b4a036a543eb4e6",
       "fingerprint": "0b3a1359f32272c39154c54ef028a4d071687762",
@@ -307,94 +418,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "3826951f6205b9b5b918eca26cd1fbe3fe3a451f",
-      "fingerprint": "4ae840f3d0d07dacaa7259c7144a6e56cf785fdf",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-devadesat-vozu-jedenact-mrtvych-dron-zachytil-nasledky-tragicke-serie-nehod-na-dalnici-v-bulharsku-40607949",
-      "published_utc": "2026-11-10T20:30:46Z",
-      "title_en": "Devadesát vozů. Dron zachytil následky tragické hromadné nehody na dálnici v Bulharsku",
-      "lead_en": "Rozsah tragédie po sérii hromadných nehod na bulharské dálnici Trakija zachytil dron. Při několika incidentech se srazilo zhruba devadesát vozidel, zemřelo nejméně 11 lidí a dalších pět desítek bylo zraněno.",
-      "title_raw": "Devadesát vozů. Dron zachytil následky tragické hromadné nehody na dálnici v Bulharsku",
-      "lead_raw": "Rozsah tragédie po sérii hromadných nehod na bulharské dálnici Trakija zachytil dron. Při několika incidentech se srazilo zhruba devadesát vozidel, zemřelo nejméně 11 lidí a dalších pět desítek bylo zraněno.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "938dd7d592bc58605388f712fa4c48028e9f039c",
-      "fingerprint": "0cc556c1772f1d02a4e5ebbad7f67e709e5c80a0",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/liberec/zpravy/chodkyne-zemrela-v-hejnicich-na-liberecku-po-stretu-s-osobnim-autem.A261110_211251_domaci_balu",
-      "published_utc": "2026-11-10T20:29:00Z",
-      "title_en": "Na Liberecku zemřela chodkyně, na přechodu ji srazilo osobní vozidlo",
-      "lead_en": "V Hejnicích na Liberecku zemřela chodkyně po střetu s osobním autem. K tragické nehodě došlo v Lázeňské ulici na jednom z přechodů.",
-      "title_raw": "Na Liberecku zemřela chodkyně, na přechodu ji srazilo osobní vozidlo",
-      "lead_raw": "V Hejnicích na Liberecku zemřela chodkyně po střetu s osobním autem. K tragické nehodě došlo v Lázeňské ulici na jednom z přechodů.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "140b6e5b8290a1148b89583015bb0a1a572ffd1d",
-      "fingerprint": "a42532628779a42af889734a0110f218b5ba35a8",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-ridic-na-liberecku-srazil-na-prechodu-zenu-na-miste-zemrela-40607946",
-      "published_utc": "2026-11-10T19:30:16Z",
-      "title_en": "Řidič na Liberecku srazil na přechodu ženu. Na místě zemřela",
-      "lead_en": "Chodkyně zemřela v úterý podvečer v Hejnicích na Liberecku po střetu s osobním autem. Tragická nehoda se stala na přechodu pro chodce v Lázeňské ulici, uvedli regionální mluvčí policie a záchranné služby.",
-      "title_raw": "Řidič na Liberecku srazil na přechodu ženu. Na místě zemřela",
-      "lead_raw": "Chodkyně zemřela v úterý podvečer v Hejnicích na Liberecku po střetu s osobním autem. Tragická nehoda se stala na přechodu pro chodce v Lázeňské ulici, uvedli regionální mluvčí policie a záchranné služby.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "685d3a70e6b9bf93d19cb93fdc3219eecba3a3df",
-      "fingerprint": "3929805206171e83cf7dc288af2045d7957afb2e",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/hromadna-srazka-desitek-vozidel-si-v-bulharsku-vyzadala-11-obeti-a-48-zranenych.A261110_123207_zahranicni_pluh",
-      "published_utc": "2026-11-10T14:48:00Z",
-      "title_en": "Dálniční apokalypsa v Bulharsku. V mlze se srazily desítky aut, nejméně 12 mrtvých",
-      "lead_en": "Několik hromadných srážek desítek vozidel si ráno na dálnici nedaleko města Jambol na jihovýchodě Bulharska vyžádalo nejméně 12 mrtvých a 51 zraněných. Úřady nehodu připisují mlze a snížené viditelnosti.",
-      "title_raw": "Dálniční apokalypsa v Bulharsku. V mlze se srazily desítky aut, nejméně 12 mrtvých",
-      "lead_raw": "Několik hromadných srážek desítek vozidel si ráno na dálnici nedaleko města Jambol na jihovýchodě Bulharska vyžádalo nejméně 12 mrtvých a 51 zraněných. Úřady nehodu připisují mlze a snížené viditelnosti.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
       },
       "topics": [
         "local_events"
