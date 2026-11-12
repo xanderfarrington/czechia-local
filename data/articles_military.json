@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-11T23:10:10Z",
+  "updated_at_utc": "2026-11-12T04:34:46Z",
   "topic": "military",
-  "count": 100,
+  "count": 99,
   "articles": [
+    {
+      "id": "2f863ff028bbb4a0377f4f88f4dce69e4e37dabb",
+      "fingerprint": "e6c126d0db5cc0afb7adfc217349a7f43354132d",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/inkasoval-desitky-milionu-diky-putinovu-zbrojarovi-pise-soud-o-rusovi-ktery-uz_2611120500_hrk",
+      "published_utc": "2026-11-12T04:00:00Z",
+      "title_en": "Inkasoval desítky milionů díky Putinovu zbrojařovi, píše soud o Rusovi, který už nesmí vkročit do Česka",
+      "lead_en": "Pokud se ještě zdržuje v České republice, musí odejít. Jestliže pobývá v zahraničí, do České republiky už nesmí vstoupit.",
+      "title_raw": "Inkasoval desítky milionů díky Putinovu zbrojařovi, píše soud o Rusovi, který už nesmí vkročit do Česka",
+      "lead_raw": "Pokud se ještě zdržuje v České republice, musí odejít. Jestliže pobývá v zahraničí, do České republiky už nesmí vstoupit.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "cd2e1eb32fa8b63554f7311b98e0b94ed99a3ff0",
       "fingerprint": "7792d698c7e87e40b0734de2152dbd8cafc9d957",
@@ -2173,50 +2195,6 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "c36c9347972a86a20e992bc7c54ceffaba799e3e",
-      "fingerprint": "cdc77519050bd58eb9abf732d91fba781d7b02b8",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/australie-zprisni-dohled-nad-umelou-inteligenci-reaguje-na-incident-spojeny-s-openai-379457",
-      "published_utc": "2026-11-10T04:08:14Z",
-      "title_en": "Austrálie zpřísní dohled nad umělou inteligencí, reaguje na incident spojený s OpenAI",
-      "lead_en": "Austrálie zavede povinnost technologických společností hlásit bezpečnostní incidenty související s&nbsp;umělou inteligencí a&nbsp;zřídí nový regulační úřad. V&nbsp;úterý to oznámil premiér Anthony Albanese.",
-      "title_raw": "Austrálie zpřísní dohled nad umělou inteligencí, reaguje na incident spojený s OpenAI",
-      "lead_raw": "Austrálie zavede povinnost technologických společností hlásit bezpečnostní incidenty související s&nbsp;umělou inteligencí a&nbsp;zřídí nový regulační úřad. V&nbsp;úterý to oznámil premiér Anthony Albanese.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "fbcf6f1e6fff4c2623af8b44f2d53eea49bba39d",
-      "fingerprint": "1313d04f96710cf5deb1992ac059db70d0197c2d",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zdravi-spravne-vlozky-do-bot-mohou-pomoci-od-bolesti-i-bez-cviceni-rika-podolozka-40606289",
-      "published_utc": "2026-11-10T04:00:00Z",
-      "title_en": "Správné vložky do bot mohou pomoci od bolesti i bez cvičení, říká podoložka",
-      "lead_en": "Nohy mají dlouhou paměť a chyby nasbírané během vývoje v dětství si často neseme až do dospělosti. I v průběhu dospělého života nohám mnohdy škodíme.",
-      "title_raw": "Správné vložky do bot mohou pomoci od bolesti i bez cvičení, říká podoložka",
-      "lead_raw": "Nohy mají dlouhou paměť a chyby nasbírané během vývoje v dětství si často neseme až do dospělosti. I v průběhu dospělého života nohám mnohdy škodíme.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
         "energy": 0,
         "economy": 0,
         "local_events": 0

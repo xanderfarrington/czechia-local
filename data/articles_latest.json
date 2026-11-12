@@ -1,10 +1,382 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-11T23:10:10Z",
+  "updated_at_utc": "2026-11-12T04:34:46Z",
   "keep_hours": 48,
-  "count": 715,
+  "count": 720,
   "articles": [
+    {
+      "id": "63ddb7ca3ac12d49995663a1286e93f59ad88614",
+      "fingerprint": "1729c5772fd93916695b17fd4092b18689a359b8",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/veda-skoly-v-anglii-pri-priprave-stavby-vodovodu-objevili-pet-pradavnych-studni-40608066",
+      "published_utc": "2026-11-12T04:31:00Z",
+      "title_en": "V Anglii při přípravě stavby vodovodu objevili pět pradávných studní",
+      "lead_en": "Archeologové na jihu Anglie narazili při přípravě stavby nového vodovodu na pozůstatky pěti starobylých dřevěných studní. Čtyři pocházejí z doby železné, pátá z římského období.",
+      "title_raw": "V Anglii při přípravě stavby vodovodu objevili pět pradávných studní",
+      "lead_raw": "Archeologové na jihu Anglie narazili při přípravě stavby nového vodovodu na pozůstatky pěti starobylých dřevěných studní. Čtyři pocházejí z doby železné, pátá z římského období.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "1aedaa8d39b56993133fa159e102b1137f9048ea",
+      "fingerprint": "b1e4d66f283f2e04ce0bf9840cbe4d9cad869244",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-drive-usetrili-ted-plati-nejvic-lide-s-mesicni-fixaci-elektriny-krvaceji-320303",
+      "published_utc": "2026-11-12T04:30:00Z",
+      "title_en": "Dříve ušetřili, teď platí nejvíc. Lidé s měsíční fixací elektřiny krvácejí",
+      "lead_en": "Ceny energií rostou a nejvíce to pociťují zákazníci s cenou fixovanou jen na měsíc. Dříve sice z tohoto produktu profitovali a v levných měsících ušetřili.",
+      "title_raw": "Dříve ušetřili, teď platí nejvíc. Lidé s měsíční fixací elektřiny krvácejí",
+      "lead_raw": "Ceny energií rostou a nejvíce to pociťují zákazníci s cenou fixovanou jen na měsíc. Dříve sice z tohoto produktu profitovali a v levných měsících ušetřili.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "ea81fa90a2994bc80293fc32a46708bf3491fd7e",
+      "fingerprint": "9bede2434b33f4d1f4065f0ad08ebee66cc273c8",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/pamatka-nesmi-chcipnout-starosta-na-karvinsku-zachranuje-petaosmdesatimetrovou_2611120526_brz",
+      "published_utc": "2026-11-12T04:26:00Z",
+      "title_en": "‚Památka nesmí chcípnout‘. Starosta na Karvinsku zachraňuje pětaosmdesátimetrovou důlní věž",
+      "lead_en": "V Horní Suché se chystá rekonstrukce největší a nejvyšší turistické atrakce na Karvinsku. 85metrová věž bývalého dolu František bude mít novou střechu a v plánu je i modernější vyhlídka pro návštěvníky.",
+      "title_raw": "‚Památka nesmí chcípnout‘. Starosta na Karvinsku zachraňuje pětaosmdesátimetrovou důlní věž",
+      "lead_raw": "V Horní Suché se chystá rekonstrukce největší a nejvyšší turistické atrakce na Karvinsku. 85metrová věž bývalého dolu František bude mít novou střechu a v plánu je i modernější vyhlídka pro návštěvníky.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "d87538e6f200cc8b7d82d15b369bf7a8fc820efd",
+      "fingerprint": "cd24e425cce8e6ffc2f32a309d1dad42362ccca0",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-otec-mel-s-14letou-dcerou-opakovane-sex-a-zkousel-to-i-na-10letou-soud-mu-snizil-trest-presto-si-stezoval-40607580",
+      "published_utc": "2026-11-12T04:26:00Z",
+      "title_en": "Otec měl s 14letou dcerou opakovaně sex a zkoušel to i na 10letou. Soud mu snížil trest, přesto si stěžoval",
+      "lead_en": "Měl ve více než dvou desítkách případů pohlavní styk s vlastní čtrnáctiletou dcerou a k sexu vyzýval i druhou, teprve desetiletou. Podle soudců pražského krajského soudu za takové jednání, navíc prováděné v podmínce, stačí pro muže trest 5,5 roku vězení.",
+      "title_raw": "Otec měl s 14letou dcerou opakovaně sex a zkoušel to i na 10letou. Soud mu snížil trest, přesto si stěžoval",
+      "lead_raw": "Měl ve více než dvou desítkách případů pohlavní styk s vlastní čtrnáctiletou dcerou a k sexu vyzýval i druhou, teprve desetiletou. Podle soudců pražského krajského soudu za takové jednání, navíc prováděné v podmínce, stačí pro muže trest 5,5 roku vězení.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "da8eca73dbbc0583b661cdf7a979509177cab6c4",
+      "fingerprint": "767034c664e2e63a12e8f8e92b124c7b4333c7dd",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/kultura-tv-streaming-recenze-prsteny-moci-se-pokouseji-o-napravu-mnohdy-ovsem-pozde-40608002",
+      "published_utc": "2026-11-12T04:12:00Z",
+      "title_en": "RECENZE: Prsteny moci se pokoušejí o nápravu. Mnohdy ovšem pozdě",
+      "lead_en": "Pán prstenů se po dvouleté pauze vrátil na Amazon a ve třetí sérii se snaží přesvědčit diváky, že nákladný návrat do Středozemě má co nabídnout. Výsledek je relativně slibný, řadu problémů se ale odstranit nepodařilo.",
+      "title_raw": "RECENZE: Prsteny moci se pokoušejí o nápravu. Mnohdy ovšem pozdě",
+      "lead_raw": "Pán prstenů se po dvouleté pauze vrátil na Amazon a ve třetí sérii se snaží přesvědčit diváky, že nákladný návrat do Středozemě má co nabídnout. Výsledek je relativně slibný, řadu problémů se ale odstranit nepodařilo.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "087ad618bc29dc40c842914eb33c811416efaff5",
+      "fingerprint": "796157be1db1e2f347ef55ef86b94bfc18e0fabc",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/prerov-chce-posoudit-jinou-variantu-stavby-tunelu-pro-vysokorychlostni-trat-ma_2611120505_elv",
+      "published_utc": "2026-11-12T04:05:00Z",
+      "title_en": "Přerov chce posoudit jinou variantu stavby tunelu pro vysokorychlostní trať, má být delší o 3 kilometry",
+      "lead_en": "Přerovská radnice požaduje, aby odborníci posoudili možnost stavby 3,5 kilometru dlouhého tunelu na připravované vysokorychlostní trati mezi Brodkem u Přerova a Prosenicemi. Projekt Správy železnic (SŽ) tam počítá s tunelem dlouhým 450 metrů.",
+      "title_raw": "Přerov chce posoudit jinou variantu stavby tunelu pro vysokorychlostní trať, má být delší o 3 kilometry",
+      "lead_raw": "Přerovská radnice požaduje, aby odborníci posoudili možnost stavby 3,5 kilometru dlouhého tunelu na připravované vysokorychlostní trati mezi Brodkem u Přerova a Prosenicemi. Projekt Správy železnic (SŽ) tam počítá s tunelem dlouhým 450 metrů.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "2f863ff028bbb4a0377f4f88f4dce69e4e37dabb",
+      "fingerprint": "e6c126d0db5cc0afb7adfc217349a7f43354132d",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/inkasoval-desitky-milionu-diky-putinovu-zbrojarovi-pise-soud-o-rusovi-ktery-uz_2611120500_hrk",
+      "published_utc": "2026-11-12T04:00:00Z",
+      "title_en": "Inkasoval desítky milionů díky Putinovu zbrojařovi, píše soud o Rusovi, který už nesmí vkročit do Česka",
+      "lead_en": "Pokud se ještě zdržuje v České republice, musí odejít. Jestliže pobývá v zahraničí, do České republiky už nesmí vstoupit.",
+      "title_raw": "Inkasoval desítky milionů díky Putinovu zbrojařovi, píše soud o Rusovi, který už nesmí vkročit do Česka",
+      "lead_raw": "Pokud se ještě zdržuje v České republice, musí odejít. Jestliže pobývá v zahraničí, do České republiky už nesmí vstoupit.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "60f77f9c12a035dcecbb1808b6cd9af81fcab722",
+      "fingerprint": "38639e45ecebba9c92abe7cd68dc760eedff31b5",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/lifestyle-sex-vztahy-mluvime-spolu-ale-nerozumime-si-psychoterapeut-vysvetluje-co-nici-vztahy-40606912",
+      "published_utc": "2026-11-12T04:00:00Z",
+      "title_en": "Mluvíme spolu, ale nerozumíme si. Psychoterapeut vysvětluje, co ničí vztahy",
+      "lead_en": "Mluvíte spolu každý den, a přesto máte pocit, že vás partner vůbec nechápe? Nedorozumění, výčitky a zbytečné hádky přitom často vznikají jen proto, že si slova druhého vykládáme po svém.",
+      "title_raw": "Mluvíme spolu, ale nerozumíme si. Psychoterapeut vysvětluje, co ničí vztahy",
+      "lead_raw": "Mluvíte spolu každý den, a přesto máte pocit, že vás partner vůbec nechápe? Nedorozumění, výčitky a zbytečné hádky přitom často vznikají jen proto, že si slova druhého vykládáme po svém.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "3cde14bce978fb89c4d494d9a5437c25f1a7e0fb",
+      "fingerprint": "4826ed4c6316db42220300f93ea05b2468012d24",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-na-skolstvi-lezi-zadost-o-nove-studium-pro-mediky-je-za-tim-turkova-skola-319892",
+      "published_utc": "2026-11-12T04:00:00Z",
+      "title_en": "Na školství leží žádost o nové studium pro mediky. Je za tím „Turkova“ škola",
+      "lead_en": "Za plánem otevřít v Praze soukromé studium medicíny stojí košická univerzita a privátní pražská vysoká škola ovládaná slovenskou rodinou Melasových. Otec Vladimír, přezdívaný Velký Vlado, se těší přízni českých vládních politiků.",
+      "title_raw": "Na školství leží žádost o nové studium pro mediky. Je za tím „Turkova“ škola",
+      "lead_raw": "Za plánem otevřít v Praze soukromé studium medicíny stojí košická univerzita a privátní pražská vysoká škola ovládaná slovenskou rodinou Melasových. Otec Vladimír, přezdívaný Velký Vlado, se těší přízni českých vládních politiků.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "be64b7851af7c48a1ab91dcee3b63a0ea9e962c6",
+      "fingerprint": "aaa89891e0a7f6f96f4339b0ae6728a975f98fd5",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajinci-jsou-podle-svych-slov-na-zimu-pripraveni.A261111_173713_zahranicni_jira",
+      "published_utc": "2026-11-12T04:00:00Z",
+      "title_en": "Teplé oblečení, dřevo na topení a vařiče. Zimu přežijeme, míní sebevědomí Ukrajinci",
+      "lead_en": "Ukrajinci jsou na zimu připraveni, mají teplé oblečení, dřevo na topení a vařiče. Uvedly to ženy z města Netišyn v západoukrajinské Chmelnycké oblasti.",
+      "title_raw": "Teplé oblečení, dřevo na topení a vařiče. Zimu přežijeme, míní sebevědomí Ukrajinci",
+      "lead_raw": "Ukrajinci jsou na zimu připraveni, mají teplé oblečení, dřevo na topení a vařiče. Uvedly to ženy z města Netišyn v západoukrajinské Chmelnycké oblasti.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "0a16bec3d6740a893de2cd5a9fa300178d8c8a55",
+      "fingerprint": "dac176d022736d76749dbc3d3178ace74e811151",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/scott-colom-porazil-hydeovou-smythovou-je-prvnim-cernosskym-senatorem-v-mississippi-od-obcanske-valk.A261112_004235_zahranicni_air",
+      "published_utc": "2026-11-12T01:19:00Z",
+      "title_en": "Scott Colom porazil Hydeovou-Smythovou, je prvním černošským senátorem v Mississippi od občanské války",
+      "lead_en": "Demokrat Scott Colom podle projekcí CNN těsně porazil republikánskou senátorku Cindy Hydeovou-Smythovou a po zdlouhavém sčítání hlasů získal senátorské křeslo za Mississippi, která tak bude mít prvního černošského senátora od rekonstrukce po občanské válce.",
+      "title_raw": "Scott Colom porazil Hydeovou-Smythovou, je prvním černošským senátorem v Mississippi od občanské války",
+      "lead_raw": "Demokrat Scott Colom podle projekcí CNN těsně porazil republikánskou senátorku Cindy Hydeovou-Smythovou a po zdlouhavém sčítání hlasů získal senátorské křeslo za Mississippi, která tak bude mít prvního černošského senátora od rekonstrukce po občanské válce.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "ae5634de474bb69d423f2c91d6343881e463f42c",
+      "fingerprint": "01ab77de401078a6e779d789def2a5b6696dc7f8",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ulomky-zneskodnenych-strel-dopadly-do-oblasti-mekky-tvrdi-saudska-arabie-379538",
+      "published_utc": "2026-11-12T01:13:11Z",
+      "title_en": "Úlomky zneškodněných střel dopadly do oblasti Mekky, tvrdí Saúdská Arábie",
+      "lead_en": "Úlomky ze dvou zneškodněných balistických střel dopadly na oblast Mekky, jedno z&nbsp;nejposvátnějších míst islámu. Podle saúdskoarabské civilní obrany šlo o&nbsp;střely vyslané jemenskými povstalci z&nbsp;řad hútíů, uvedla v&nbsp;noci na čtvrtek agentura Reuters.",
+      "title_raw": "Úlomky zneškodněných střel dopadly do oblasti Mekky, tvrdí Saúdská Arábie",
+      "lead_raw": "Úlomky ze dvou zneškodněných balistických střel dopadly na oblast Mekky, jedno z&nbsp;nejposvátnějších míst islámu. Podle saúdskoarabské civilní obrany šlo o&nbsp;střely vyslané jemenskými povstalci z&nbsp;řad hútíů, uvedla v&nbsp;noci na čtvrtek agentura Reuters.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "64b8ecf1459be0e3a5431606a620989c5dffea1e",
+      "fingerprint": "cb66f04451f32f1046ce44f0e3aefd6cae4965ff",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-akcie-fondy-akcie-nvidie-znovu-padaji-resi-se-dalsi-afera-huangovi-muze-hrozit-konec-320333",
+      "published_utc": "2026-11-12T01:01:09Z",
+      "title_en": "Akcie Nvidie znovu padají. Řeší se další aféra, Huangovi může hrozit konec",
+      "lead_en": "Šéf Nvidie Jensen Huang čelí další aféře kvůli vztahu s vysoce postavenou manažerkou společnosti. Podle listu The Wall Street Journal představenstvo firmy zvažuje jeho odvolání.",
+      "title_raw": "Akcie Nvidie znovu padají. Řeší se další aféra, Huangovi může hrozit konec",
+      "lead_raw": "Šéf Nvidie Jensen Huang čelí další aféře kvůli vztahu s vysoce postavenou manažerkou společnosti. Podle listu The Wall Street Journal představenstvo firmy zvažuje jeho odvolání.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "16c4195decf83cb678df05ed78dd3fea608d7317",
+      "fingerprint": "d4105d4d92abb8a0dce76e0c8df67e0d2ccd1f2a",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/colom-bude-prvnim-afroamerickym-senatorem-v-mississippi-od-obcanske-valky-pise-ap-379536",
+      "published_utc": "2026-11-11T23:52:38Z",
+      "title_en": "Colom bude prvním afroamerickým senátorem v Mississippi od občanské války, píše AP",
+      "lead_en": "Demokratický kandidát Scott Colom podle projekce CNN porazil v&nbsp;těsném souboji republikánskou senátorku Cindy Hydeovou-Smythovou a&nbsp;získal tak křeslo v&nbsp;americkém Senátu za stát Mississippi. Vítězství mu zajistilo zdlouhavé sčítání hlasů, uvedla v&nbsp;noci na čtvrtek agentura AP.",
+      "title_raw": "Colom bude prvním afroamerickým senátorem v Mississippi od občanské války, píše AP",
+      "lead_raw": "Demokratický kandidát Scott Colom podle projekce CNN porazil v&nbsp;těsném souboji republikánskou senátorku Cindy Hydeovou-Smythovou a&nbsp;získal tak křeslo v&nbsp;americkém Senátu za stát Mississippi. Vítězství mu zajistilo zdlouhavé sčítání hlasů, uvedla v&nbsp;noci na čtvrtek agentura AP.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "1078f97245d5282e95d49de0bf0a68cb03da52cc",
+      "fingerprint": "1ff59f84b0a8324428037ad50c79e897d032698b",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/volby-usa-prvni-cernossky-senator-za-mississippi-40608178",
+      "published_utc": "2026-11-11T23:47:39Z",
+      "title_en": "Další Trumpova porážka. Senátorské křeslo v republikánské baště Mississippi získal demokrat Colom",
+      "lead_en": "Demokratický kandidát Scott Colom podle projekce stanice CNN porazil v těsném souboji republikánskou senátorku Cindy Hydeovou-Smythovou a získal tak křeslo v americkém Senátu za stát Mississippi. Vítězství mu zajistilo zdlouhavé sčítání hlasů, uvedla v noci na čtvrtek agentura AP.",
+      "title_raw": "Další Trumpova porážka. Senátorské křeslo v republikánské baště Mississippi získal demokrat Colom",
+      "lead_raw": "Demokratický kandidát Scott Colom podle projekce stanice CNN porazil v těsném souboji republikánskou senátorku Cindy Hydeovou-Smythovou a získal tak křeslo v americkém Senátu za stát Mississippi. Vítězství mu zajistilo zdlouhavé sčítání hlasů, uvedla v noci na čtvrtek agentura AP.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "cebea60fe7188a115d3634ac8fb4ebcc1d9f1a39",
+      "fingerprint": "1c49469a9121f54a4b1a8d6f671c974e411c9289",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/pri-zriceni-budovy-v-brooklynu-zemrel-jeden-clovek-dalsi-jsou-zraneni-379535",
+      "published_utc": "2026-11-11T23:31:22Z",
+      "title_en": "Při zřícení budovy v Brooklynu zemřeli dva lidé, další jsou zranění",
+      "lead_en": "Při zřícení třípatrové budovy v&nbsp;newyorském Brooklynu zemřeli nejméně dva lidé. Nejméně šestnáct osob utrpělo zranění, z&nbsp;toho čtyři lidé jsou raněni vážně.",
+      "title_raw": "Při zřícení budovy v Brooklynu zemřeli dva lidé, další jsou zranění",
+      "lead_raw": "Při zřícení třípatrové budovy v&nbsp;newyorském Brooklynu zemřeli nejméně dva lidé. Nejméně šestnáct osob utrpělo zranění, z&nbsp;toho čtyři lidé jsou raněni vážně.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "cc5ab7eeb0fee427d2ce9a9717e3ac9ebb40dbae",
+      "fingerprint": "8e76f6c59456d99078ef055de1de4c95a5fe98b4",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/csob-dnes-zverejni-hospodarske-vysledky-za-tri-ctvrtleti-2026/2900899",
+      "published_utc": "2026-11-11T23:13:00Z",
+      "title_en": "ČSOB dnes zveřejní hospodářské výsledky za tři čtvrtletí 2026",
+      "lead_en": "Praha - Československá obchodní banka (ČSOB), která patří mezi největší banky v Česku, dnes zveřejní hospodářské výsledky za tři čtvrtletí 2026. Čistý zisk skupiny ČSOB v prvním pololetí letošního roku...",
+      "title_raw": "ČSOB dnes zveřejní hospodářské výsledky za tři čtvrtletí 2026",
+      "lead_raw": "Praha - Československá obchodní banka (ČSOB), která patří mezi největší banky v Česku, dnes zveřejní hospodářské výsledky za tři čtvrtletí 2026. Čistý zisk skupiny ČSOB v prvním pololetí letošního roku...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "e8b7b43011af80c9171d1caec690d1e18fe444a6",
+      "fingerprint": "fbd742f6700d040e612fe2bca554da45b6527983",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/cez-predstavi-hospodareni-za-tri-ctvrtleti-analytici-cekaji-rust-cisteho-zisku/2900897",
+      "published_utc": "2026-11-11T23:05:00Z",
+      "title_en": "ČEZ představí hospodaření za tři čtvrtletí, analytici čekají růst čistého zisku",
+      "lead_en": "Praha - Polostátní energetická společnost ČEZ dnes zveřejní výsledky hospodaření za tři čtvrtletí letošního roku. Podle analytiků lze očekávat zvýšení čistého zisku firmy na téměř 26 miliard korun, což...",
+      "title_raw": "ČEZ představí hospodaření za tři čtvrtletí, analytici čekají růst čistého zisku",
+      "lead_raw": "Praha - Polostátní energetická společnost ČEZ dnes zveřejní výsledky hospodaření za tři čtvrtletí letošního roku. Podle analytiků lze očekávat zvýšení čistého zisku firmy na téměř 26 miliard korun, což...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "37ae0d2fa3bdcd062ae37e7fbcb5ec468df76772",
       "fingerprint": "72cb9ef9d9268943c98fbc7f6481bda163916154",
@@ -15,6 +387,66 @@
       "lead_en": "Prosluněné pláže, rychlá auta a život, který se může během jediné loupeže obrátit vzhůru nohama. Grand Theft Auto VI vychází přesně za týden a hráče zavede do Vice City i jeho okolí.",
       "title_raw": "Zločin ve dvou a město plné pokušení. Vydání GTA VI je na spadnutí",
       "lead_raw": "Prosluněné pláže, rychlá auta a život, který se může během jediné loupeže obrátit vzhůru nohama. Grand Theft Auto VI vychází přesně za týden a hráče zavede do Vice City i jeho okolí.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "013df2427f1a35e87455dfc2d10d6aac057f0cc1",
+      "fingerprint": "c59d9afbfb7928fd54c949eaf388f7373909556e",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/domaci/black-friday-trva-jiz-cely-mesic-slevy-zacinaji-driv-cesi-jim-ale-neveri.A261111_151256_ekonomika_vebe",
+      "published_utc": "2026-11-11T23:00:00Z",
+      "title_en": "Black Friday trvá již celý měsíc. Slevy začínají dřív, Češi jim ale nevěří",
+      "lead_en": "Black Friday se z původně jediného listopadového pátku proměnil v několikatýdenní slevovou akci. Někteří obchodníci tak začínají s cenovými lákadly už v polovině října, jiní ještě dříve.",
+      "title_raw": "Black Friday trvá již celý měsíc. Slevy začínají dřív, Češi jim ale nevěří",
+      "lead_raw": "Black Friday se z původně jediného listopadového pátku proměnil v několikatýdenní slevovou akci. Někteří obchodníci tak začínají s cenovými lákadly už v polovině října, jiní ještě dříve.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "4ebd05691f967f58381c73cc56fba562ed97ccd8",
+      "fingerprint": "6a14ddf6d7593776c93da01b7353b48a01183d46",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/morbidni-obezita-ceske-deti-operace-zaludku.A261111_182940_domaci_kton",
+      "published_utc": "2026-11-11T23:00:00Z",
+      "title_en": "Exploze morbidní obezity českých dětí. Operaci žaludku potřebují tisíce mladých",
+      "lead_en": "Mladých s těžkou obezitou v Česku rychle přibývá. Objevuje se už u předškolních dětí.",
+      "title_raw": "Exploze morbidní obezity českých dětí. Operaci žaludku potřebují tisíce mladých",
+      "lead_raw": "Mladých s těžkou obezitou v Česku rychle přibývá. Objevuje se už u předškolních dětí.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [],
+      "primary_topic": null
+    },
+    {
+      "id": "84d2503a627302b95a20b30889d278a0700ef40a",
+      "fingerprint": "489a274b2a02e88164dd8d385ea4717ae93a3e82",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/kubanci-v-usa-chteji-zpet-ukradeny-majetek-snizi-to-chut-investoru-veri-trump.A261111_191519_zahranicni_kton",
+      "published_utc": "2026-11-11T23:00:00Z",
+      "title_en": "Kubánci v USA chtějí zpět ukradený majetek. Sníží to chuť investorů, věří Trump",
+      "lead_en": "Před více než šedesáti lety kubánský právník Fidel Castro spolu s argentinským lékařem Che Guevarou dobyli Havanu a na druhý pokus svrhli režim Fulgencia Batisty. Za účasti zahraničních sil znárodnili podniky a dokonali tak komunistickou revoluci.",
+      "title_raw": "Kubánci v USA chtějí zpět ukradený majetek. Sníží to chuť investorů, věří Trump",
+      "lead_raw": "Před více než šedesáti lety kubánský právník Fidel Castro spolu s argentinským lékařem Che Guevarou dobyli Havanu a na druhý pokus svrhli režim Fulgencia Batisty. Za účasti zahraničních sil znárodnili podniky a dokonali tak komunistickou revoluci.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
@@ -14451,332 +14883,6 @@
       },
       "topics": [],
       "primary_topic": "economy"
-    },
-    {
-      "id": "85d702d791a7a382471d6ffd4be720984f3e8ff2",
-      "fingerprint": "d3e9a339f5a385b23a15041235e94773826bb367",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-zena-popsala-jak-ji-salah-al-fayed-izoloval-na-skotskem-panstvi-a-opakovane-znasilnil-40607578",
-      "published_utc": "2026-11-10T04:30:00Z",
-      "title_en": "Žena popsala, jak ji Salah Al-Fayed izoloval na skotském panství a opakovaně znásilnil",
-      "lead_en": "Britská BBC v pondělí zveřejnila výpověď ženy, kterou měl na skotském panství Balnagown opakovaně znásilnit Salah Al-Fayed, bratr tehdejšího majitele luxusního obchodního domu Harrods Mohameda Al-Fayeda. Oba bratry ze znásilnění v posledních letech obvinily stovky žen.",
-      "title_raw": "Žena popsala, jak ji Salah Al-Fayed izoloval na skotském panství a opakovaně znásilnil",
-      "lead_raw": "Britská BBC v pondělí zveřejnila výpověď ženy, kterou měl na skotském panství Balnagown opakovaně znásilnit Salah Al-Fayed, bratr tehdejšího majitele luxusního obchodního domu Harrods Mohameda Al-Fayeda. Oba bratry ze znásilnění v posledních letech obvinily stovky žen.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "46c2e5b5cc89b8736e7845db4cdd8510935322a4",
-      "fingerprint": "3409788a0afc91f8dea25010cf10c7d1dd3e0c83",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-albert-muze-prosekat-dodavatele-tesca-pro-vsechny-nemusi-byt-misto-320063",
-      "published_utc": "2026-11-10T04:30:00Z",
-      "title_en": "Albert zatlačí na kvalitu, čekají potravináři. Pro každého místo nebude",
-      "lead_en": "Potravináři, kteří dosud dodávali pro Tesco, čekají na to, zda s nimi bude počítat i řetězec Albert. Pro některé může odchod Teska z českého trhu znamenat nesnadné hledání nového odbytu.",
-      "title_raw": "Albert zatlačí na kvalitu, čekají potravináři. Pro každého místo nebude",
-      "lead_raw": "Potravináři, kteří dosud dodávali pro Tesco, čekají na to, zda s nimi bude počítat i řetězec Albert. Pro některé může odchod Teska z českého trhu znamenat nesnadné hledání nového odbytu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "2655d92e11bf8c6d4ea3d60d6538e1b0b845a20d",
-      "fingerprint": "31cfa339f96ab572abcc5a15ac7d2aa6b4e673bf",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/kultura-knihy-recenze-sexualni-robotka-annie-ukazuje-moznou-budouci-podobu-mizogynie-40607535",
-      "published_utc": "2026-11-10T04:22:00Z",
-      "title_en": "RECENZE: Sexuální robotka Annie ukazuje možnou budoucí podobu mizogynie",
-      "lead_en": "Je krásná a milá, má jen „drobnou“ vadu. Není člověk.",
-      "title_raw": "RECENZE: Sexuální robotka Annie ukazuje možnou budoucí podobu mizogynie",
-      "lead_raw": "Je krásná a milá, má jen „drobnou“ vadu. Není člověk.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "5733ef95087236b60d5cd8d590b7977ad160e6f3",
-      "fingerprint": "10bbdaf68253b42aca9e446569cda73291f41549",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-ceska-mise-do-syrie-uz-pomaha-s-vracenim-migrantu-40607172",
-      "published_utc": "2026-11-10T04:22:00Z",
-      "title_en": "Česká mise do Sýrie už pomáhá s vracením migrantů",
-      "lead_en": "O azyl v Česku letos požádalo 37 Syřanů, jen ve dvou případech dostali ochranu. V rozhodnutí, zda má daná osoba u nás nárok na ochranu, totiž úřadům pomáhají poznatky z české mise, která se do Sýrie vypravila loni v létě a zkoumala, jaké části území je možné považovat za bezpečné.",
-      "title_raw": "Česká mise do Sýrie už pomáhá s vracením migrantů",
-      "lead_raw": "O azyl v Česku letos požádalo 37 Syřanů, jen ve dvou případech dostali ochranu. V rozhodnutí, zda má daná osoba u nás nárok na ochranu, totiž úřadům pomáhají poznatky z české mise, která se do Sýrie vypravila loni v létě a zkoumala, jaké části území je možné považovat za bezpečné.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "5ae38c4d69021b72256489502b7e0b8d6f858e21",
-      "fingerprint": "6a6923c1f38644a7222eeef28d003009b5f3baa9",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/lanova-draha-na-petrin-par-dni-nepojede-provoz-omezi-nataceni-serialu-podle_2611100520_elv",
-      "published_utc": "2026-11-10T04:20:00Z",
-      "title_en": "Lanová dráha na Petřín pár dní nepojede. Provoz omezí natáčení seriálu podle knihy Dana Browna",
-      "lead_en": "Lanová dráha na pražský Petřín od úterý 10. do pátku 13.",
-      "title_raw": "Lanová dráha na Petřín pár dní nepojede. Provoz omezí natáčení seriálu podle knihy Dana Browna",
-      "lead_raw": "Lanová dráha na pražský Petřín od úterý 10. do pátku 13.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "c36c9347972a86a20e992bc7c54ceffaba799e3e",
-      "fingerprint": "cdc77519050bd58eb9abf732d91fba781d7b02b8",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/australie-zprisni-dohled-nad-umelou-inteligenci-reaguje-na-incident-spojeny-s-openai-379457",
-      "published_utc": "2026-11-10T04:08:14Z",
-      "title_en": "Austrálie zpřísní dohled nad umělou inteligencí, reaguje na incident spojený s OpenAI",
-      "lead_en": "Austrálie zavede povinnost technologických společností hlásit bezpečnostní incidenty související s&nbsp;umělou inteligencí a&nbsp;zřídí nový regulační úřad. V&nbsp;úterý to oznámil premiér Anthony Albanese.",
-      "title_raw": "Austrálie zpřísní dohled nad umělou inteligencí, reaguje na incident spojený s OpenAI",
-      "lead_raw": "Austrálie zavede povinnost technologických společností hlásit bezpečnostní incidenty související s&nbsp;umělou inteligencí a&nbsp;zřídí nový regulační úřad. V&nbsp;úterý to oznámil premiér Anthony Albanese.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "3b0cad194c3d56085668a34765d48dbf47c5546a",
-      "fingerprint": "b71cb3c2a96809c9508eb75cdc75cbcd5a333a86",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/kapri-drave-stiky-a-stovky-cejnu-rybari-vypustili-labuti-jezirko-u-liberecke-zoo_2611100505_aln",
-      "published_utc": "2026-11-10T04:05:00Z",
-      "title_en": "Kapři, dravé štiky a stovky cejnů. Rybáři vypustili Labutí jezírko u liberecké zoo, čeká ho oprava",
-      "lead_en": "Labutí jezírko u liberecké zoologické zahrady je téměř bez vody. Vedení zahrady ho vypustilo kvůli chystané opravě historické výpusti a hráze, ty totiž prosakovaly.",
-      "title_raw": "Kapři, dravé štiky a stovky cejnů. Rybáři vypustili Labutí jezírko u liberecké zoo, čeká ho oprava",
-      "lead_raw": "Labutí jezírko u liberecké zoologické zahrady je téměř bez vody. Vedení zahrady ho vypustilo kvůli chystané opravě historické výpusti a hráze, ty totiž prosakovaly.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "094514bb4ceab7c8be3fb26c00fda77d186b7fae",
-      "fingerprint": "ab8809d09c091c19e71bbfddb18d7e5b8ca2d8e5",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/kultura-m-john-harrison-bookerova-cena-320108",
-      "published_utc": "2026-11-10T04:02:00Z",
-      "title_en": "Bookerovu cenu získal 81letý britský autor sci-fi Harrison",
-      "lead_en": "Za satirický dystopický román The End of Everything toto pondělí večer britský autor sci-fi a fantasy M. John Harrison obdržel prestižní literární Bookerovu cenu.",
-      "title_raw": "Bookerovu cenu získal 81letý britský autor sci-fi Harrison",
-      "lead_raw": "Za satirický dystopický román The End of Everything toto pondělí večer britský autor sci-fi a fantasy M. John Harrison obdržel prestižní literární Bookerovu cenu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "63e63ee976cd9199b5bd46bac0672a440fbf5b33",
-      "fingerprint": "07bd7ba65a5758f4904c3bd39adbf5f21a93d7dc",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/takhle-vyhravat-nikdy-nebudeme-jsme-necitelni-pali-expremier-fiala-uz-i-vedeni_2611100500_jgr",
-      "published_utc": "2026-11-10T04:00:00Z",
-      "title_en": "Takhle vyhrávat nikdy nebudeme. Jsme nečitelní, pálí expremiér Fiala. Už i vedení ODS ví, že má problém",
-      "lead_en": "Pohled na graf víkendového volebního modelu agentury Kantar CZ nemohl potěšit žádného člena Občanské demokratické strany, o to méně pak její vedení. ODS prohrála volby, odešla do opozice a v poslední době přišla i o opoziční primát.",
-      "title_raw": "Takhle vyhrávat nikdy nebudeme. Jsme nečitelní, pálí expremiér Fiala. Už i vedení ODS ví, že má problém",
-      "lead_raw": "Pohled na graf víkendového volebního modelu agentury Kantar CZ nemohl potěšit žádného člena Občanské demokratické strany, o to méně pak její vedení. ODS prohrála volby, odešla do opozice a v poslední době přišla i o opoziční primát.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "24894dfb4490bf57ef9a9af7fcde2aa007a35626",
-      "fingerprint": "65351e4dc8d0cab2a4bb050146ba853796ce9289",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/manzele-se-setkali-po-vice-nez-ctyrech-letech-rozdelila-je-okupace-olesek-379448",
-      "published_utc": "2026-11-10T04:00:00Z",
-      "title_en": "Manželé se setkali po více než čtyřech letech, rozdělila je okupace Olešek",
-      "lead_en": "Čtyři a&nbsp;půl roku žil ukrajinský manželský pár tisíce kilometrů od sebe. Larysa Ryndovová několik měsíců po začátku ruské invaze utekla do Londýna, naopak její manžel Serhij se rozhodl zůstat v&nbsp;okupovaných Oleškách.",
-      "title_raw": "Manželé se setkali po více než čtyřech letech, rozdělila je okupace Olešek",
-      "lead_raw": "Čtyři a&nbsp;půl roku žil ukrajinský manželský pár tisíce kilometrů od sebe. Larysa Ryndovová několik měsíců po začátku ruské invaze utekla do Londýna, naopak její manžel Serhij se rozhodl zůstat v&nbsp;okupovaných Oleškách.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "fbcf6f1e6fff4c2623af8b44f2d53eea49bba39d",
-      "fingerprint": "1313d04f96710cf5deb1992ac059db70d0197c2d",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zdravi-spravne-vlozky-do-bot-mohou-pomoci-od-bolesti-i-bez-cviceni-rika-podolozka-40606289",
-      "published_utc": "2026-11-10T04:00:00Z",
-      "title_en": "Správné vložky do bot mohou pomoci od bolesti i bez cvičení, říká podoložka",
-      "lead_en": "Nohy mají dlouhou paměť a chyby nasbírané během vývoje v dětství si často neseme až do dospělosti. I v průběhu dospělého života nohám mnohdy škodíme.",
-      "title_raw": "Správné vložky do bot mohou pomoci od bolesti i bez cvičení, říká podoložka",
-      "lead_raw": "Nohy mají dlouhou paměť a chyby nasbírané během vývoje v dětství si často neseme až do dospělosti. I v průběhu dospělého života nohám mnohdy škodíme.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "22ba1174561db1f2556aba3f392d4df5b29820b6",
-      "fingerprint": "3051c66a8f70982e1e569cc2cb03d0179f896a15",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-boss-chtel-dostat-syna-do-fotbalu-vyhrozoval-trenerum-v-brne-pise-policie-318773",
-      "published_utc": "2026-11-10T04:00:00Z",
-      "title_en": "Boss chtěl dostat syna do fotbalu, vyhrožoval trenérům v Brně, píše policie",
-      "lead_en": "Policie minulý týden přidala brněnskému bossovi Albinu Arifovičovi další stíhání. Pokus o kriminalizaci nepohodlné exmanželky popsaný v obvinění, zapadá do vzorce, podle kterého Arifovič řeší své potíže.",
-      "title_raw": "Boss chtěl dostat syna do fotbalu, vyhrožoval trenérům v Brně, píše policie",
-      "lead_raw": "Policie minulý týden přidala brněnskému bossovi Albinu Arifovičovi další stíhání. Pokus o kriminalizaci nepohodlné exmanželky popsaný v obvinění, zapadá do vzorce, podle kterého Arifovič řeší své potíže.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "92b1151bb9ffbc340a50e33478b4fb793ad12059",
-      "fingerprint": "8bb4468ed2200134164cb762cacbb824425651b0",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/olomouc/zpravy/bezrkarska-arena-petice-rejvic-sport-lyzovani.A261109_092333_olomouc-zpravy_hava",
-      "published_utc": "2026-11-10T04:00:00Z",
-      "title_en": "Spor o běžkařskou arénu na Rejvízu sílí. Petici proti projektu podepsaly tisíce lidí",
-      "lead_en": "Plánovaná běžkařská aréna s umělým zasněžováním na Rejvízu ve Zlatých Horách na Jesenicku dál budí rozruch a rozděluje místní. Proti projektu za zhruba 12 milionů korun vznikla petice, kterou už podepsaly tři tisíce lidí.",
-      "title_raw": "Spor o běžkařskou arénu na Rejvízu sílí. Petici proti projektu podepsaly tisíce lidí",
-      "lead_raw": "Plánovaná běžkařská aréna s umělým zasněžováním na Rejvízu ve Zlatých Horách na Jesenicku dál budí rozruch a rozděluje místní. Proti projektu za zhruba 12 milionů korun vznikla petice, kterou už podepsaly tři tisíce lidí.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "22967d6e75fbc716bee68af68c64df3e4332af05",
-      "fingerprint": "059ddc54c8289b0b4a3a94e70dcb156262a65c39",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/americky-soud-povolil-stavbu-trumpovy-hranicni-zdi-v-narodnim-parku-379456",
-      "published_utc": "2026-11-10T03:30:55Z",
-      "title_en": "Americký soud povolil stavbu Trumpovy hraniční zdi v národním parku",
-      "lead_en": "Nejvyšší soud Spojených států v&nbsp;pondělí povolil administrativě prezidenta Donalda Trumpa pokračovat ve stavbě zdi na hranicích s&nbsp;Mexikem i&nbsp;ve sporné oblasti v&nbsp;Texasu zahrnující národní park Big Bend. Soud vyšel vstříc stížnosti vlády ve sporu s&nbsp;ochránci přírody a&nbsp;dalšími odpůrci stavby bariéry, která byla ústředním bodem protiimigrační politiky již za Trumpova prvního prezidentského období.",
-      "title_raw": "Americký soud povolil stavbu Trumpovy hraniční zdi v národním parku",
-      "lead_raw": "Nejvyšší soud Spojených států v&nbsp;pondělí povolil administrativě prezidenta Donalda Trumpa pokračovat ve stavbě zdi na hranicích s&nbsp;Mexikem i&nbsp;ve sporné oblasti v&nbsp;Texasu zahrnující národní park Big Bend. Soud vyšel vstříc stížnosti vlády ve sporu s&nbsp;ochránci přírody a&nbsp;dalšími odpůrci stavby bariéry, která byla ústředním bodem protiimigrační politiky již za Trumpova prvního prezidentského období.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "f4b7e06c6e87f43d95c89552d5ddfda4262f5cd9",
-      "fingerprint": "b2a06a6cfa3d37e2d4e79a80b58897ecbbc5e24d",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/americke-pruzkumy-se-opet-spletly-tentokrat-podcenily-demokraty-379367",
-      "published_utc": "2026-11-10T03:00:00Z",
-      "title_en": "Americké průzkumy se opět spletly, tentokrát podcenily demokraty",
-      "lead_en": "Před volbami do Kongresu panovala otázka, zda americké předvolební průzkumy podcení republikány, podobně jako to udělaly ve volbách v&nbsp;roce 2016 nebo 2024. Výzkumní pracovníci se tomu snažili předejít, takže přidali váhu republikánským respondentům a&nbsp;snažili se oslovit přehlížené skupiny.",
-      "title_raw": "Americké průzkumy se opět spletly, tentokrát podcenily demokraty",
-      "lead_raw": "Před volbami do Kongresu panovala otázka, zda americké předvolební průzkumy podcení republikány, podobně jako to udělaly ve volbách v&nbsp;roce 2016 nebo 2024. Výzkumní pracovníci se tomu snažili předejít, takže přidali váhu republikánským respondentům a&nbsp;snažili se oslovit přehlížené skupiny.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [],
-      "primary_topic": null
-    },
-    {
-      "id": "6cf130df024d6b7583b09cc5f8f6b1847437fd79",
-      "fingerprint": "025385c8f099e83350433dca0263304305ab50a8",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/madarsky-prezident-baka-zahaji-navstevu-ceska-na-prazskem-hrade/2896038",
-      "published_utc": "2026-11-09T23:29:00Z",
-      "title_en": "Maďarský prezident Baka zahájí návštěvu Česka na Pražském hradě",
-      "lead_en": "Praha - Maďarský prezident András Baka dnes zahájí návštěvu Česka na Pražském hradě setkáním s českou hlavou státu Petrem Pavlem. Hovořit budou o energetice, koordinaci v evropských otázkách i o budoucnosti...",
-      "title_raw": "Maďarský prezident Baka zahájí návštěvu Česka na Pražském hradě",
-      "lead_raw": "Praha - Maďarský prezident András Baka dnes zahájí návštěvu Česka na Pražském hradě setkáním s českou hlavou státu Petrem Pavlem. Hovořit budou o energetice, koordinaci v evropských otázkách i o budoucnosti...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
