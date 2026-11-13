@@ -1,10 +1,54 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-13T10:12:00Z",
+  "updated_at_utc": "2026-11-13T18:12:34Z",
   "topic": "local_events",
-  "count": 20,
+  "count": 17,
   "articles": [
+    {
+      "id": "288f157708a27d8decb3bf082fe642c86eeafc3f",
+      "fingerprint": "878fa6f268bc57f19bfe71c89b21d2c17341428a",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-na-ulici-v-nemeckych-cachach-byl-zastrelen-muz-40608600",
+      "published_utc": "2026-11-13T17:09:26Z",
+      "title_en": "Na ulici v německých Cáchách byl zastřelen muž",
+      "lead_en": "Na ulici v německém městě Cáchy, které leží nedaleko hranic s Belgií a Nizozemskem, byl v pátek odpoledne postřelen muž. Na místo okamžitě dorazili záchranáři, muž ale nakonec zraněním na místě podlehl.",
+      "title_raw": "Na ulici v německých Cáchách byl zastřelen muž",
+      "lead_raw": "Na ulici v německém městě Cáchy, které leží nedaleko hranic s Belgií a Nizozemskem, byl v pátek odpoledne postřelen muž. Na místo okamžitě dorazili záchranáři, muž ale nakonec zraněním na místě podlehl.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "b435498e6627121cf580034f043c7175eea33e91",
+      "fingerprint": "76198efe09198df6c1ba1ac388acbf9d116d9c8b",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/praha/zpravy/nehoda-dvou-dodavek-uzavrela-dalnici-d8-zpusobila-silny-pozar.A261113_105105_praha-zpravy_tmps",
+      "published_utc": "2026-11-13T16:43:00Z",
+      "title_en": "Nehoda kamionu a dvou dodávek uzavřela D8 u Prahy. Při požáru zemřel řidič",
+      "lead_en": "Kamion a dvě dodávky v pátek dopoledne havarovaly na dálnici D8 na sedmém kilometru u Postřižína ve směru na Prahu. Při nehodě, kterou doprovázel silný požár, zemřel v hořící dodávce řidič.",
+      "title_raw": "Nehoda kamionu a dvou dodávek uzavřela D8 u Prahy. Při požáru zemřel řidič",
+      "lead_raw": "Kamion a dvě dodávky v pátek dopoledne havarovaly na dálnici D8 na sedmém kilometru u Postřižína ve směru na Prahu. Při nehodě, kterou doprovázel silný požár, zemřel v hořící dodávce řidič.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "0dbed35532ff7d3537ebaf4182270d8cbcb9e170",
       "fingerprint": "5fc533c56fd796ba32301fef24e42b77665218d6",
@@ -333,116 +377,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "2dd8936d976b11849b96e2ffd6df3e0b2d10b779",
-      "fingerprint": "e408bfe662d07054f69787786873af1e650c7923",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/madeira-boure-charles-zaplavy-nicivy-vitr.A261111_151526_zahranicni_jira/foto",
-      "published_utc": "2026-11-11T16:30:00Z",
-      "title_en": "Devastace a obří škody. Na Madeiru udeřila ničivá bouře Charles",
-      "lead_en": "Jindy idylický portugalský ostrov Madeira zasáhla z úterý na středu bouře Charles. Ta kromě škody vyvolaných vichřicí způsobila i rozsáhlé záplavy.",
-      "title_raw": "Devastace a obří škody. Na Madeiru udeřila ničivá bouře Charles",
-      "lead_raw": "Jindy idylický portugalský ostrov Madeira zasáhla z úterý na středu bouře Charles. Ta kromě škody vyvolaných vichřicí způsobila i rozsáhlé záplavy.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "ba2db37c37e4db00a75dd6d2c4423a09e66956de",
-      "fingerprint": "a69d430bd18dcef1986676a203021c484cdf3fe3",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/policie-uzavrela-dalnici-d8-u-hranic-s-nemeckem-prejezd-z-usteckeho-kraje_2611111653_med",
-      "published_utc": "2026-11-11T15:53:00Z",
-      "title_en": "Policie uzavřela dálnici D8 u hranic s Německem. Přejezd z Ústeckého kraje komplikují nehody",
-      "lead_en": "Na dálnici D8 se před hranicí s Německem střetlo v husté mlze nákladní auto a autobus. Záchranáři zasahují u zraněných.",
-      "title_raw": "Policie uzavřela dálnici D8 u hranic s Německem. Přejezd z Ústeckého kraje komplikují nehody",
-      "lead_raw": "Na dálnici D8 se před hranicí s Německem střetlo v husté mlze nákladní auto a autobus. Záchranáři zasahují u zraněných.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "0faea78af045ee25fb340a68395b77141f033237",
-      "fingerprint": "c5d15973272c6a6d79c0cd4949f740fdefeccbd0",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-tri-lide-zahynuli-pri-ruskem-utoku-na-cornomorsk-na-jihu-ukrajiny-uvedly-urady-320309",
-      "published_utc": "2026-11-11T15:49:44Z",
-      "title_en": "Tři lidé zahynuli při ruském útoku na Čornomorsk na jihu Ukrajiny, uvedly úřady",
-      "lead_en": "Při ruském útoku na přístavní město Čornomorsk zahynuli tři lidé a nejméně 11 dalších utrpělo zranění. Úder poškodil obytný dům i stánky na trhu, kde následně vypukl požár.",
-      "title_raw": "Tři lidé zahynuli při ruském útoku na Čornomorsk na jihu Ukrajiny, uvedly úřady",
-      "lead_raw": "Při ruském útoku na přístavní město Čornomorsk zahynuli tři lidé a nejméně 11 dalších utrpělo zranění. Úder poškodil obytný dům i stánky na trhu, kde následně vypukl požár.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 1,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "e6c76694a7a14de892f869a28242f86d42cfd6b8",
-      "fingerprint": "21a69e451c700f0c87c0a2aca35ac3599382d9d9",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-prejezd-do-nemecka-z-usteckeho-kraje-komplikuji-nehody-zavrena-je-d8-320313",
-      "published_utc": "2026-11-11T15:40:27Z",
-      "title_en": "Přejezd do Německa z Ústeckého kraje komplikují nehody, zavřena je D8",
-      "lead_en": "Provoz na dálnici D8 před hranicí s Německem zkomplikoval střet nákladního auta a autobusu, po nehodě je šest lidí zraněných. Čeští záchranáři požádali o pomoc německé kolegy.",
-      "title_raw": "Přejezd do Německa z Ústeckého kraje komplikují nehody, zavřena je D8",
-      "lead_raw": "Provoz na dálnici D8 před hranicí s Německem zkomplikoval střet nákladního auta a autobusu, po nehodě je šest lidí zraněných. Čeští záchranáři požádali o pomoc německé kolegy.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "da40cbd1bd263389c8587bd32089e02c8f8c57d0",
-      "fingerprint": "1127df78335a58f2025c55f0de0172779bccf667",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/regiony/kamion-a-autobus-se-srazily-na-d8-zachranari-hlasi-zranene-379522",
-      "published_utc": "2026-11-11T15:34:09Z",
-      "title_en": "Přejezd do Německa z Ústeckého kraje komplikují nehody, D8 je zavřena",
-      "lead_en": "Na dálnici D8 se ve středu odpoledne před hranicí s&nbsp;Německem střetla v&nbsp;husté mlze dvě nákladní auta a&nbsp;patrový autobus. Záchranáři zasahují u&nbsp;zraněných, podle prvotních informací je jich šest, řekl mluvčí krajské záchranné služby Patrik Christian Cmorej.",
-      "title_raw": "Přejezd do Německa z Ústeckého kraje komplikují nehody, D8 je zavřena",
-      "lead_raw": "Na dálnici D8 se ve středu odpoledne před hranicí s&nbsp;Německem střetla v&nbsp;husté mlze dvě nákladní auta a&nbsp;patrový autobus. Záchranáři zasahují u&nbsp;zraněných, podle prvotních informací je jich šest, řekl mluvčí krajské záchranné služby Patrik Christian Cmorej.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
       },
       "topics": [
         "local_events"

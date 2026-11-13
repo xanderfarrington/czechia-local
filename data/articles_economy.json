@@ -1,10 +1,77 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-13T10:12:00Z",
+  "updated_at_utc": "2026-11-13T18:12:34Z",
   "topic": "economy",
-  "count": 39,
+  "count": 40,
   "articles": [
+    {
+      "id": "3238eb2481ed92a7a5489c9f6f86a3252c5324b9",
+      "fingerprint": "ac15c074d54314a867f2f2deb37980abdf5c97de",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/v-usa-sili-ekonomika-marnivosti-obchody-ustupuji-posilovnam-ci-kosmetice.A261111_122330_eko-zahranicni_jla",
+      "published_utc": "2026-11-13T17:00:00Z",
+      "title_en": "V USA sílí „ekonomika marnivosti“. Obchody ustupují posilovnám či kosmetice",
+      "lead_en": "V amerických městech se postupně mění struktura nabídky obchodů a služeb. Místo prodejen s oblečením či elektronikou přibývají nehtová studia, kosmetické salony a fitness centra.",
+      "title_raw": "V USA sílí „ekonomika marnivosti“. Obchody ustupují posilovnám či kosmetice",
+      "lead_raw": "V amerických městech se postupně mění struktura nabídky obchodů a služeb. Místo prodejen s oblečením či elektronikou přibývají nehtová studia, kosmetické salony a fitness centra.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "f0eddb43fe0cb521ad294d15410ad30104561d04",
+      "fingerprint": "f2a84ca4a4f3919b50149259a41dbe7dfca3b2b0",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-babis-se-diva-i-na-zisky-zbrojaru-vyrobu-presuneme-jinam-varuji-320502",
+      "published_utc": "2026-11-13T15:00:00Z",
+      "title_en": "Babiš se dívá i na zisky zbrojařů. Výrobu přesuneme jinam, varují",
+      "lead_en": "Mimořádné zisky, mimořádné daně. Vláda Andreje Babiše zvažuje, že dodatečně zatíží banky a obranný průmysl.",
+      "title_raw": "Babiš se dívá i na zisky zbrojařů. Výrobu přesuneme jinam, varují",
+      "lead_raw": "Mimořádné zisky, mimořádné daně. Vláda Andreje Babiše zvažuje, že dodatečně zatíží banky a obranný průmysl.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "40b5c4f8d5dbb3f73d5e89157adf1da22f422097",
+      "fingerprint": "b1af85a8d9ebda28a2e8e3f517db95b439346a16",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/projekt-za-44-miliard-americka-spolecnost-zrusila-je-nenaplnena-prilezitost-rika_2611131248_aha",
+      "published_utc": "2026-11-13T11:48:00Z",
+      "title_en": "Projekt za 44 miliard americká společnost zrušila. Je to nenaplněná příležitost, říká starosta Rožnova",
+      "lead_en": "Rožnov pod Radhoštěm na Vsetínsku zastavil některé plánované investice na území města. Souvisí to se zrušením projektu americké společnosti ONSEMI za 44 miliard korun na rozšíření výroby čipů ve městě.",
+      "title_raw": "Projekt za 44 miliard americká společnost zrušila. Je to nenaplněná příležitost, říká starosta Rožnova",
+      "lead_raw": "Rožnov pod Radhoštěm na Vsetínsku zastavil některé plánované investice na území města. Souvisí to se zrušením projektu americké společnosti ONSEMI za 44 miliard korun na rozšíření výroby čipů ve městě.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "324263c5a0c4f4569f41e480bf47bcd699cb5cee",
       "fingerprint": "9260a9ab98973f5543a1b9f4be7d48039afbf416",
@@ -43,6 +110,29 @@
         "military": 0,
         "energy": 1,
         "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "5d81c9cc6db0d496389e4df734002d706cc27945",
+      "fingerprint": "4040845909a947298d474abde337983308342475",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/dan-pro-rafinerie-miri-ke-schvalovani-podle-orlenu-ohrozi-investice/2901415",
+      "published_utc": "2026-11-13T09:35:00Z",
+      "title_en": "Daň pro rafinerie míří ke schvalování, podle Orlenu ohrozí investice",
+      "lead_en": "Praha - Vládní návrh na zavedení mimořádné daně pro rafinerie míří po dnešku ve Sněmovně k závěrečnému schvalování. Mohlo by se odehrát na nejbližší řádné schůzi, která začne v úterý 24.",
+      "title_raw": "Daň pro rafinerie míří ke schvalování, podle Orlenu ohrozí investice",
+      "lead_raw": "Praha - Vládní návrh na zavedení mimořádné daně pro rafinerie míří po dnešku ve Sněmovně k závěrečnému schvalování. Mohlo by se odehrát na nejbližší řádné schůzi, která začne v úterý 24.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
         "local_events": 0
       },
       "topics": [
@@ -806,73 +896,6 @@
       "lead_en": "Letadla Skyfox české výroby by mohla zamířit na Ukrajinu. Ministr průmyslu Karel Havlíček (ANO) ve středu při návštěvě Kyjeva uvedl, že Česko by do země mohlo dodat 16 letounů.",
       "title_raw": "Havlíček: Česko by mohlo dodat Ukrajině 16 letounů Skyfox",
       "lead_raw": "Letadla Skyfox české výroby by mohla zamířit na Ukrajinu. Ministr průmyslu Karel Havlíček (ANO) ve středu při návštěvě Kyjeva uvedl, že Česko by do země mohlo dodat 16 letounů.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "3532d39281862f859ae85fbc8c742891ee4c4399",
-      "fingerprint": "82f45e8c8703754efb47c699d03b335798b8ae31",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/sklad-potravinove-banky-karlovarskeho-kraje-je-temer-prazdny-pripravuje-se-na_2611111721_vaa",
-      "published_utc": "2026-11-11T16:21:00Z",
-      "title_en": "Sklad Potravinové banky Karlovarského kraje je téměř prázdný. Připravuje se na sobotní národní sbírku",
-      "lead_en": "Při sobotním nákupu můžete v obchodech potkat dobrovolníky v zelených zástěrách. Od 8.00 do 18.00 hodin bude totiž probíhat Národní potravinová sbírka.",
-      "title_raw": "Sklad Potravinové banky Karlovarského kraje je téměř prázdný. Připravuje se na sobotní národní sbírku",
-      "lead_raw": "Při sobotním nákupu můžete v obchodech potkat dobrovolníky v zelených zástěrách. Od 8.00 do 18.00 hodin bude totiž probíhat Národní potravinová sbírka.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "f92313ecb7b2647aa34e7117251d10ee240bb066",
-      "fingerprint": "ec491dafb46b5aa1987e16cc5df1d73d53accf8c",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/ukrajina-havlicek-pivo-rafaj.A261111_160540_domaci_aoc",
-      "published_utc": "2026-11-11T15:22:00Z",
-      "title_en": "Milovník piva Havlíček ani na Ukrajině neodolal. Zastavil se pro jedno",
-      "lead_en": "Od našich zpravodajů na Ukrajině – Nejen o politických nebo byznysových jednáních je současná cesta vicepremiéra a ministra průmyslu a obchodu Karla Havlíčka (ANO) na Ukrajinu. Během krátké přestávky na tankování neodolal a nechal se od prezidenta Svazu průmyslu a obchodu Jana Rafaje pozvat na jedno ukrajinské pivo v plechovce.",
-      "title_raw": "Milovník piva Havlíček ani na Ukrajině neodolal. Zastavil se pro jedno",
-      "lead_raw": "Od našich zpravodajů na Ukrajině – Nejen o politických nebo byznysových jednáních je současná cesta vicepremiéra a ministra průmyslu a obchodu Karla Havlíčka (ANO) na Ukrajinu. Během krátké přestávky na tankování neodolal a nechal se od prezidenta Svazu průmyslu a obchodu Jana Rafaje pozvat na jedno ukrajinské pivo v plechovce.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "8cfe2555563a043b6262e12511dc05eec505d7b5",
-      "fingerprint": "96f7aafbda8a95fb44fdda208420d93be12a8bfe",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-do-konce-roku-chceme-mit-v-cesku-15-milionu-klientu-rika-sef-revolut-bank-320033",
-      "published_utc": "2026-11-11T15:15:00Z",
-      "title_en": "Do konce roku chceme mít v Česku 1,5 milionu klientů, říká šéf Revolut Bank",
-      "lead_en": "Evropský bankovní trh je pro Revolut stále klíčový, přestože expanduje po celém světě. „Většina současného růstu pochází z Evropy,“ říká Kuba Fast, šéf Revolut Bank.",
-      "title_raw": "Do konce roku chceme mít v Česku 1,5 milionu klientů, říká šéf Revolut Bank",
-      "lead_raw": "Evropský bankovní trh je pro Revolut stále klíčový, přestože expanduje po celém světě. „Většina současného růstu pochází z Evropy,“ říká Kuba Fast, šéf Revolut Bank.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
