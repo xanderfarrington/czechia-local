@@ -1,10 +1,326 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-13T02:12:40Z",
+  "updated_at_utc": "2026-11-13T10:12:00Z",
   "topic": "energy",
-  "count": 57,
+  "count": 64,
   "articles": [
+    {
+      "id": "5af2e674e9d196c3a8077ddc81cb1f6f564d2e0b",
+      "fingerprint": "7e76e1c407194dd9b7a6e5b8ca9a36f9c97f15a4",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-tarantule-uz-se-objevuji-i-v-cesku-a-podminky-jim-vyhovuji-stale-vic-320340",
+      "published_utc": "2026-11-13T10:00:00Z",
+      "title_en": "Tarantule už se objevují i v Česku a podmínky jim vyhovují stále víc",
+      "lead_en": "Tarantule, jejichž výskyt nyní hlásí Rakušané, se opakovaně objevují i na Moravě. Podle arachnologů je pro ně střední Evropa stále příhodnějším prostředím kvůli oteplení.",
+      "title_raw": "Tarantule už se objevují i v Česku a podmínky jim vyhovují stále víc",
+      "lead_raw": "Tarantule, jejichž výskyt nyní hlásí Rakušané, se opakovaně objevují i na Moravě. Podle arachnologů je pro ně střední Evropa stále příhodnějším prostředím kvůli oteplení.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "af2283f8aa8595f67367e7669e3b7500bf6cabc1",
+      "fingerprint": "233e3f5dd63d27cce40690bc194a98c27294754c",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-misto-dohodnutych-zakazek-domaci-luxus-na-ukrajine-vysetruji-moznou-zproneveru-u-staveb-proti-dronum-40608453",
+      "published_utc": "2026-11-13T09:57:38Z",
+      "title_en": "Superluxus místo dohodnutých zakázek. Na Ukrajině vyšetřují možnou zpronevěru u staveb proti dronům",
+      "lead_en": "Na Ukrajině vyšetřují možné rozkrádání peněz určených na ochranu energetických zařízení proti ruským vzdušným útokům. Při domovních prohlídkách u podezřelých objevili vyšetřovatelé okázalé pozlacené interiéry, terárium s živým krokodýlem i luxusní vůz značky Rolls-Royce, tvrdí aktivista Serhij Sternenko, který zveřejnil několik fotografií.",
+      "title_raw": "Superluxus místo dohodnutých zakázek. Na Ukrajině vyšetřují možnou zpronevěru u staveb proti dronům",
+      "lead_raw": "Na Ukrajině vyšetřují možné rozkrádání peněz určených na ochranu energetických zařízení proti ruským vzdušným útokům. Při domovních prohlídkách u podezřelých objevili vyšetřovatelé okázalé pozlacené interiéry, terárium s živým krokodýlem i luxusní vůz značky Rolls-Royce, tvrdí aktivista Serhij Sternenko, který zveřejnil několik fotografií.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "324263c5a0c4f4569f41e480bf47bcd699cb5cee",
+      "fingerprint": "9260a9ab98973f5543a1b9f4be7d48039afbf416",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-trump-pomohl-rusku-zdvojnasobit-export-nafty-usa-ale-zadnou-nedostaly-40608334",
+      "published_utc": "2026-11-13T09:55:41Z",
+      "title_en": "Trump pomohl Rusku zdvojnásobit export nafty. USA ale žádnou nedostaly",
+      "lead_en": "Americké snahy snížit cenu nafty umožnily Rusku minulý měsíc zdvojnásobit její vývoz, ačkoli žádná ze zásilek iniciovaných rozhodnutím Donalda Trumpa zrušit sankce na pohonné hmoty proti Moskvě do USA nedorazila, napsal server The Financial Times. Očekává, že zvýšení dodávek bude krátkodobé poté, co Ukrajina obnoví útoky na rafinerie.",
+      "title_raw": "Trump pomohl Rusku zdvojnásobit export nafty. USA ale žádnou nedostaly",
+      "lead_raw": "Americké snahy snížit cenu nafty umožnily Rusku minulý měsíc zdvojnásobit její vývoz, ačkoli žádná ze zásilek iniciovaných rozhodnutím Donalda Trumpa zrušit sankce na pohonné hmoty proti Moskvě do USA nedorazila, napsal server The Financial Times. Očekává, že zvýšení dodávek bude krátkodobé poté, co Ukrajina obnoví útoky na rafinerie.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "73eda3589508344163823660864581fd4778c39d",
+      "fingerprint": "3177b7402e15b1660ff0c2587646570e04459401",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/mimoradnou-dan-na-rafinerie-zaplati-lide-mini-opozice/2901415",
+      "published_utc": "2026-11-13T09:35:00Z",
+      "title_en": "Mimořádnou daň na rafinerie zaplatí lidé, míní opozice",
+      "lead_en": "Praha - Vláda zaváděním sektorových daní podle opozičních občanských demokratů vytváří nepředvídatelné prostředí pro budoucí investice a další rozvoj ekonomiky, tím poškozuje obraz fungující země. Na...",
+      "title_raw": "Mimořádnou daň na rafinerie zaplatí lidé, míní opozice",
+      "lead_raw": "Praha - Vláda zaváděním sektorových daní podle opozičních občanských demokratů vytváří nepředvídatelné prostředí pro budoucí investice a další rozvoj ekonomiky, tím poškozuje obraz fungující země. Na...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "90e734cdeee30f51cb2f3d2bb5358e71237e1257",
+      "fingerprint": "660f803c40ca76b5f1928ab78c31725f3b76eb60",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/schillerova-dan-pro-rafinerie-schuze-snemovny.A261112_205919_domaci_mul",
+      "published_utc": "2026-11-13T09:12:00Z",
+      "title_en": "Poslanci projednávají mimořádnou daň pro rafinerie. Lex Orlen, kritizuje opozice",
+      "lead_en": "V pátek se mimořádně sešla Poslanecká sněmovna. Na programu má jediný bod, a to druhé čtení vládního návrhu na zavedení speciální daně pro rafinerie.",
+      "title_raw": "Poslanci projednávají mimořádnou daň pro rafinerie. Lex Orlen, kritizuje opozice",
+      "lead_raw": "V pátek se mimořádně sešla Poslanecká sněmovna. Na programu má jediný bod, a to druhé čtení vládního návrhu na zavedení speciální daně pro rafinerie.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "14446e75b55f92aef5293fd0554bf09bf347c54a",
+      "fingerprint": "ad7f2bbf9d69b02443df443f1c82d793d4f073fd",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/volgograd-ukrajina-valka-rusko-dronovy-utok-rafinerie.A261113_090554_zahranicni_aya",
+      "published_utc": "2026-11-13T08:41:00Z",
+      "title_en": "Jeden z největších útoků. Ukrajinci zasáhli rafinerii ve Volgogradu, změnili taktiku",
+      "lead_en": "Při dronovém náletu na jihu Volgogradu zemřeli čtyři zaměstnanci průmyslové zóny a další dva utrpěli zranění. Podle neoficiálních informací se terčem stala tamní rafinerie.",
+      "title_raw": "Jeden z největších útoků. Ukrajinci zasáhli rafinerii ve Volgogradu, změnili taktiku",
+      "lead_raw": "Při dronovém náletu na jihu Volgogradu zemřeli čtyři zaměstnanci průmyslové zóny a další dva utrpěli zranění. Podle neoficiálních informací se terčem stala tamní rafinerie.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "economy",
+        "local_events"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "bfebf3a1c79cef94c870d6c6f028fdb3c6f23bea",
+      "fingerprint": "1362d42d668e8e20320b48485a336309fd75c5cb",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-a-ukrajina-hlasi-vzajemne-utoky-rafinerie-ve-volgogradu-hori-379579",
+      "published_utc": "2026-11-13T08:37:45Z",
+      "title_en": "Rusko a Ukrajina hlásí vzájemné útoky. Rafinerie ve Volgogradu hoří",
+      "lead_en": "Úřady v&nbsp;ruské Volgogradské oblasti tvrdí, že při dronovém náletu zemřeli čtyři zaměstnanci průmyslové zóny na jihu Volgogradu. Podle informací zpravodajského telegramového kanálu Exilenova+ byla cílem útoku tamní rafinerie.",
+      "title_raw": "Rusko a Ukrajina hlásí vzájemné útoky. Rafinerie ve Volgogradu hoří",
+      "lead_raw": "Úřady v&nbsp;ruské Volgogradské oblasti tvrdí, že při dronovém náletu zemřeli čtyři zaměstnanci průmyslové zóny na jihu Volgogradu. Podle informací zpravodajského telegramového kanálu Exilenova+ byla cílem útoku tamní rafinerie.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 1
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "993f54596a9ffd2034b7e4509a96b8066d47462c",
+      "fingerprint": "1f69a55081e25e96a332135e03d0ea79f7e57225",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-ochota-cechu-branit-vlast-zeslabla-slovensko-a-nemecko-jsou-na-tom-jeste-hur-320405",
+      "published_utc": "2026-11-13T08:35:00Z",
+      "title_en": "Ochota Čechů bránit vlast zeslábla. Slovensko a Německo jsou na tom ještě hůř",
+      "lead_en": "Evropa i USA se shodnou na hrozbě z Ruska i podpoře NATO a EU. Výrazné rozdíly ale panují v ochotě bránit vlastní stát – v Česku odhodlání spadlo na 55 procent.",
+      "title_raw": "Ochota Čechů bránit vlast zeslábla. Slovensko a Německo jsou na tom ještě hůř",
+      "lead_raw": "Evropa i USA se shodnou na hrozbě z Ruska i podpoře NATO a EU. Výrazné rozdíly ale panují v ochotě bránit vlastní stát – v Česku odhodlání spadlo na 55 procent.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "b80c2d0f935777fc803b0916c224569864a60f53",
+      "fingerprint": "db3e5eef95bcd5072e46362a9fbc9dd94da93552",
+      "source": "iROZHLAS - Economy",
+      "url": "https://www.irozhlas.cz/zpravy-domov/ceny-zemniho-plynu-zvysuji-vyrobni-naklady-na-stavebniho-sklo-zvysuje-se-cena-a_2611130833_vsn",
+      "published_utc": "2026-11-13T07:33:00Z",
+      "title_en": "Ceny zemního plynu zvyšují výrobní náklady na stavebního sklo, stává se tak neprodejným",
+      "lead_en": "Vysoké ceny zemního plynu zdražují taky stavební sklo. Potýká se s tím třeba řetenická sklárna v Teplicích, která patří do skupiny světového výrobce plochého skla AGC Flat Glass Czech.",
+      "title_raw": "Ceny zemního plynu zvyšují výrobní náklady na stavebního sklo, stává se tak neprodejným",
+      "lead_raw": "Vysoké ceny zemního plynu zdražují taky stavební sklo. Potýká se s tím třeba řetenická sklárna v Teplicích, která patří do skupiny světového výrobce plochého skla AGC Flat Glass Czech.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "faf19b7cd3ce921c0ead7c52a0b3a07690d0cbff",
+      "fingerprint": "0b0f9295b6713f4555c22f8d584f094137574482",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/zarizeni-je-od-lonska-mimo-provoz-obec-karle-prisla-kvuli-havarii-vetrne_2611130812_eml",
+      "published_utc": "2026-11-13T07:12:00Z",
+      "title_en": "Zařízení je od loňska mimo provoz, obec Karle přišla kvůli havárii větrné elektrárny o miliony korun",
+      "lead_en": "Obec Karle na Svitavsku přišla kvůli havárii větrné elektrárny, kterou vlastní, o několik milionů korun. Loni v srpnu se ulomila část lopatky a zařízení je od té doby mimo provoz.",
+      "title_raw": "Zařízení je od loňska mimo provoz, obec Karle přišla kvůli havárii větrné elektrárny o miliony korun",
+      "lead_raw": "Obec Karle na Svitavsku přišla kvůli havárii větrné elektrárny, kterou vlastní, o několik milionů korun. Loni v srpnu se ulomila část lopatky a zařízení je od té doby mimo provoz.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "2b9485008464ef5d58f21bbd0f05734250915f07",
+      "fingerprint": "18bc1345a0fd5cd1028ec866abd9184e8fcdcd0c",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/evropska-unie-lng-zkapalneny-plyn-rusko-dovoz-plynu.A261113_062227_eko-zahranicni_aya",
+      "published_utc": "2026-11-13T05:40:00Z",
+      "title_en": "EU letos zvýšila dovoz ruského plynu. Putinovi za něj poslala 8,7 miliardy eur",
+      "lead_en": "Evropská unie dovezla od ledna do října ruský zkapalněný plyn z Arktidy za 8,7 miliardy eur, což je o 21 procent více než za celý loňský rok. Vyplývá to z analýzy organizace Urgewald a dat společnosti Kpler.",
+      "title_raw": "EU letos zvýšila dovoz ruského plynu. Putinovi za něj poslala 8,7 miliardy eur",
+      "lead_raw": "Evropská unie dovezla od ledna do října ruský zkapalněný plyn z Arktidy za 8,7 miliardy eur, což je o 21 procent více než za celý loňský rok. Vyplývá to z analýzy organizace Urgewald a dat společnosti Kpler.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "aee8e7fd346c9e5faad1208f59ba422ee68e4fcb",
+      "fingerprint": "99a7d48bfd461377acb3dc2991aeec4437557aac",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/dovoz-ruskeho-lng-do-eu-roste-ukazuji-data-organizace-urgewald/2901437",
+      "published_utc": "2026-11-13T04:30:00Z",
+      "title_en": "Dovoz ruského LNG do EU roste, ukazují data organizace Urgewald",
+      "lead_en": "Berlín - Evropská unie od ledna do října dovezla ruský zkapalněný zemní plyn (LNG) z Arktidy za zhruba 8,7 miliardy eur (211 miliard korun), což je o 21 procent více než za celý loňský rok. Informace...",
+      "title_raw": "Dovoz ruského LNG do EU roste, ukazují data organizace Urgewald",
+      "lead_raw": "Berlín - Evropská unie od ledna do října dovezla ruský zkapalněný zemní plyn (LNG) z Arktidy za zhruba 8,7 miliardy eur (211 miliard korun), což je o 21 procent více než za celý loňský rok. Informace...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "c70b47e7e0d7ff393338358228b573f231b212cd",
+      "fingerprint": "7a236dff50aa3cf7e14f3bf7a782048c2380e0ac",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-nejbohatsi-lide-kretinsky-do-konce-roku-2030-chceme-mit-dvojnasobne-zisky-320416",
+      "published_utc": "2026-11-13T04:30:00Z",
+      "title_en": "Náš odchod z Ruska by byl ve skutečnosti proruským gestem, tvrdí Křetínský",
+      "lead_en": "Přechod od uhlí k plynu probíhá a proběhne, ale od plynu aktuálně není kam přecházet. Část politické reprezentace tuto objektivní ekonomickou a energetickou realitu ignorovala, říká šéf EP Group Daniel Křetínský.",
+      "title_raw": "Náš odchod z Ruska by byl ve skutečnosti proruským gestem, tvrdí Křetínský",
+      "lead_raw": "Přechod od uhlí k plynu probíhá a proběhne, ale od plynu aktuálně není kam přecházet. Část politické reprezentace tuto objektivní ekonomickou a energetickou realitu ignorovala, říká šéf EP Group Daniel Křetínský.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "54cfe7167ab2e2884f05f35278dc9cb99fc26c6d",
+      "fingerprint": "d415eedcc113e205df19dbd06fa0148a8baa1b55",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/poslanci-se-sejdou-k-navrhu-na-zavedeni-mimoradne-dane-na-rafinerie-379573",
+      "published_utc": "2026-11-13T03:42:00Z",
+      "title_en": "Poslanci mají na programu návrh na zavedení mimořádné daně na rafinerie",
+      "lead_en": "Poslanci se v&nbsp;pátek sešli ke druhému čtení vládního návrhu na zavedení mimořádné daně na rafinerie. Důvodem jejího uzákonění je podle vlády růst marží rafinerií v&nbsp;důsledku situace na světovém trhu s&nbsp;ropou.",
+      "title_raw": "Poslanci mají na programu návrh na zavedení mimořádné daně na rafinerie",
+      "lead_raw": "Poslanci se v&nbsp;pátek sešli ke druhému čtení vládního návrhu na zavedení mimořádné daně na rafinerie. Důvodem jejího uzákonění je podle vlády růst marží rafinerií v&nbsp;důsledku situace na světovém trhu s&nbsp;ropou.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "73b5817d793a1f0dd0712cd2df1d53a043020ed6",
       "fingerprint": "513f560946328a9925bc2e08a915977c66f26760",
@@ -1119,162 +1435,6 @@
       "lead_en": "Czech, Ukrainian ministers sign memoranda on energy cooperation in Kyiv",
       "title_raw": "Czech, Ukrainian ministers sign memoranda on energy cooperation in Kyiv",
       "lead_raw": "Czech, Ukrainian ministers sign memoranda on energy cooperation in Kyiv",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "89d40d09f495145e5f58e38987b9c1ada5b4295c",
-      "fingerprint": "23f3c2b21e150f7b97f45c31e71483c85e42760f",
-      "source": "Radio Prague International (EN)",
-      "url": "https://english.radio.cz/hlavacek-become-mayor-parties-present-coalition-deal-prague-8902323",
-      "published_utc": "2026-11-11T10:03:00Z",
-      "title_en": "Hlaváček to become mayor as parties present coalition deal for Prague",
-      "lead_en": "Hlaváček to become mayor as parties present coalition deal for Prague",
-      "title_raw": "Hlaváček to become mayor as parties present coalition deal for Prague",
-      "lead_raw": "Hlaváček to become mayor as parties present coalition deal for Prague",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "269b45d64b2262caff79dc5af1aee4fb4363964b",
-      "fingerprint": "03e453a4cf2f934bc9c4d458e81768ee383f20d5",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-za-utokem-na-britske-letiste-stali-iranci-plyne-z-americkeho-obvineni-40607969",
-      "published_utc": "2026-11-11T08:27:04Z",
-      "title_en": "Za útokem na britské letiště stáli Íránci, plyne z amerického obvinění",
-      "lead_en": "Americké ministerstvo spravedlnosti v úterý oznámilo, že vzneslo obvinění proti třem lidem z Íránu, kteří byli zapojeni do několika spiknutí ve Spojených státech a v Evropě. Stát měli i za pokusem o útok na britské letiště Fairford.",
-      "title_raw": "Za útokem na britské letiště stáli Íránci, plyne z amerického obvinění",
-      "lead_raw": "Americké ministerstvo spravedlnosti v úterý oznámilo, že vzneslo obvinění proti třem lidem z Íránu, kteří byli zapojeni do několika spiknutí ve Spojených státech a v Evropě. Stát měli i za pokusem o útok na britské letiště Fairford.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "6eed68b845910ef214544d985ddcdb56ecd73492",
-      "fingerprint": "77bb8aacdb34ff3d5024412c5edbbe510095a252",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/veda-skoly-cesko-etiopska-expedice-po-temer-sto-letech-znovuobjevila-vzacneho-vodniho-hlodavce-40607844",
-      "published_utc": "2026-11-11T07:00:00Z",
-      "title_en": "Česko-etiopská expedice po téměř sto letech znovuobjevila vzácného vodního hlodavce",
-      "lead_en": "Unikátní objev se podařil etiopsko-českému vědeckému týmu v biosférické rezervaci Yayu na jihozápadě Etiopie. Našli tam v uplynulých dnech mimořádně vzácného hlodavce rodu Nilopegamys z čeledi myšovitých (Muridae).",
-      "title_raw": "Česko-etiopská expedice po téměř sto letech znovuobjevila vzácného vodního hlodavce",
-      "lead_raw": "Unikátní objev se podařil etiopsko-českému vědeckému týmu v biosférické rezervaci Yayu na jihozápadě Etiopie. Našli tam v uplynulých dnech mimořádně vzácného hlodavce rodu Nilopegamys z čeledi myšovitých (Muridae).",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "32da2d0f22b40eba7dd84e3dcb7756b5d6d91bea",
-      "fingerprint": "68772e16d2d2720b8ea0e5af4a95444480fab37d",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/veda/vlny-veder-budou-mnohem-horsi-nez-to-co-zname-nyni-varuje-nemecka-studie-379472",
-      "published_utc": "2026-11-11T06:30:00Z",
-      "title_en": "Vlny veder budou mnohem horší než to, co známe nyní, varuje německá studie",
-      "lead_en": "Extrémní vlny veder, které Evropa letos i&nbsp;v&nbsp;předchozích letech zažila, jsou pouze předzvěstí toho, co lidstvo v&nbsp;důsledku klimatických změn čeká. Tvrdí to autoři nové studie, která vyšla v&nbsp;odborném časopise Nature Communications.",
-      "title_raw": "Vlny veder budou mnohem horší než to, co známe nyní, varuje německá studie",
-      "lead_raw": "Extrémní vlny veder, které Evropa letos i&nbsp;v&nbsp;předchozích letech zažila, jsou pouze předzvěstí toho, co lidstvo v&nbsp;důsledku klimatických změn čeká. Tvrdí to autoři nové studie, která vyšla v&nbsp;odborném časopise Nature Communications.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "bd0c110fe3361ebc5adad0542f8e1bfad0dfbd90",
-      "fingerprint": "d7bdf6fb5daf767f39830e448d7a7ea65292dcbf",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/evropa-celi-kyberutokum-na-chladici-zarizeni-nukib-doporucuje-preventivni-opatreni-379438",
-      "published_utc": "2026-11-11T06:00:00Z",
-      "title_en": "Evropa čelí kyberútokům na chladicí zařízení. NÚKIB doporučuje preventivní opatření",
-      "lead_en": "Chladicí zařízení napříč Evropou se už měsíc potýkají s&nbsp;kybernetickými útoky. Jejich terčem se staly supermarkety ve Francii, Belgii, Lucembursku, Švédsku, Irsku či Estonsku.",
-      "title_raw": "Evropa čelí kyberútokům na chladicí zařízení. NÚKIB doporučuje preventivní opatření",
-      "lead_raw": "Chladicí zařízení napříč Evropou se už měsíc potýkají s&nbsp;kybernetickými útoky. Jejich terčem se staly supermarkety ve Francii, Belgii, Lucembursku, Švédsku, Irsku či Estonsku.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "28f8e9e5db3bf25180105f1caed6236ceabfa03c",
-      "fingerprint": "dbcf99cd507ae72dd76efac0a58a415b042e7cdf",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-na-cvut-maji-simulator-reaktoru-budoucnosti-umi-udelat-i-cernobyl-320224",
-      "published_utc": "2026-11-11T06:00:00Z",
-      "title_en": "Na ČVUT mají simulátor reaktoru budoucnosti. Umí udělat i Černobyl",
-      "lead_en": "Korejský jaderný blok v Dukovanech ještě nestojí, na ČVUT se už ale učí jeho řízení. Simulátor reaktoru slouží zatím k výuce studentů či rozšíření znalostí operátorů jaderných elektráren.",
-      "title_raw": "Na ČVUT mají simulátor reaktoru budoucnosti. Umí udělat i Černobyl",
-      "lead_raw": "Korejský jaderný blok v Dukovanech ještě nestojí, na ČVUT se už ale učí jeho řízení. Simulátor reaktoru slouží zatím k výuce studentů či rozšíření znalostí operátorů jaderných elektráren.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "46def06f27f1f1cf2ab99866949729b8f6c30d98",
-      "fingerprint": "ae9671eb292ca32436c69c203f9c4728a2beeb49",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-iran-se-pripravuje-na-zkazu-teheran-rozdava-jodove-tablety-40607961",
-      "published_utc": "2026-11-11T05:23:04Z",
-      "title_en": "Írán se připravuje na zkázu. Teherán rozdává jódové tablety",
-      "lead_en": "Íránské úřady připravují obyvatelstvo na případné údery amerických sil na jaderné zařízení pod horou Pickaxe Mountain. Lidem v nejbližším okolí hory rozdávají jódové tablety, jak informoval deník The Times.",
-      "title_raw": "Írán se připravuje na zkázu. Teherán rozdává jódové tablety",
-      "lead_raw": "Íránské úřady připravují obyvatelstvo na případné údery amerických sil na jaderné zařízení pod horou Pickaxe Mountain. Lidem v nejbližším okolí hory rozdávají jódové tablety, jak informoval deník The Times.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,

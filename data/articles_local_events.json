@@ -1,10 +1,101 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-13T02:12:40Z",
+  "updated_at_utc": "2026-11-13T10:12:00Z",
   "topic": "local_events",
   "count": 20,
   "articles": [
+    {
+      "id": "0dbed35532ff7d3537ebaf4182270d8cbcb9e170",
+      "fingerprint": "5fc533c56fd796ba32301fef24e42b77665218d6",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-tragicka-dopravni-nehoda-na-dalnici-d8-40608479",
+      "published_utc": "2026-11-13T10:10:19Z",
+      "title_en": "Tragická dopravní nehoda na dálnici D8",
+      "lead_en": "Tragická dopravní nehoda s jednou obětí na životě přerušila v pátek dopoledne provoz na dálnici D8 ve směru na Prahu. Po srážce dvou dodávek vypukl na místě požár, který dostávali pod kontrolu hasiči.",
+      "title_raw": "Tragická dopravní nehoda na dálnici D8",
+      "lead_raw": "Tragická dopravní nehoda s jednou obětí na životě přerušila v pátek dopoledne provoz na dálnici D8 ve směru na Prahu. Po srážce dvou dodávek vypukl na místě požár, který dostávali pod kontrolu hasiči.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "e60b91f72f53d8d50ebecb0c619bdc3d848d16b5",
+      "fingerprint": "ec3ce57f758b492ab73759a3a1b5d52a6529e9a4",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/muz-spolkl-vybusnou-pastilku-na-hubeni-divocaku-po-explozi-zemrel.A261113_100743_zahranicni_bro",
+      "published_utc": "2026-11-13T09:11:00Z",
+      "title_en": "Muž spolkl výbušnou pastilku na hubení divočáků, po explozi zemřel",
+      "lead_en": "Indická policie zadržela dva muže obviněné ze zabití třetího tím, že mu dali jako bonbon výbušnou pastilku používanou k hubení divokých prasat. Dotyčný po spolknutí falešné sladkosti zemřel na následky zranění.",
+      "title_raw": "Muž spolkl výbušnou pastilku na hubení divočáků, po explozi zemřel",
+      "lead_raw": "Indická policie zadržela dva muže obviněné ze zabití třetího tím, že mu dali jako bonbon výbušnou pastilku používanou k hubení divokých prasat. Dotyčný po spolknutí falešné sladkosti zemřel na následky zranění.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "14446e75b55f92aef5293fd0554bf09bf347c54a",
+      "fingerprint": "ad7f2bbf9d69b02443df443f1c82d793d4f073fd",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/volgograd-ukrajina-valka-rusko-dronovy-utok-rafinerie.A261113_090554_zahranicni_aya",
+      "published_utc": "2026-11-13T08:41:00Z",
+      "title_en": "Jeden z největších útoků. Ukrajinci zasáhli rafinerii ve Volgogradu, změnili taktiku",
+      "lead_en": "Při dronovém náletu na jihu Volgogradu zemřeli čtyři zaměstnanci průmyslové zóny a další dva utrpěli zranění. Podle neoficiálních informací se terčem stala tamní rafinerie.",
+      "title_raw": "Jeden z největších útoků. Ukrajinci zasáhli rafinerii ve Volgogradu, změnili taktiku",
+      "lead_raw": "Při dronovém náletu na jihu Volgogradu zemřeli čtyři zaměstnanci průmyslové zóny a další dva utrpěli zranění. Podle neoficiálních informací se terčem stala tamní rafinerie.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "economy",
+        "local_events"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "013d0d9efcd5f4aa844cd1bfc8b440a1390589c5",
+      "fingerprint": "4f763c88f176b4f2a8cdaa7cc40d7843518206f9",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/po-zakazu-nelegalni-tezby-zlata-v-guineji-vypukly-strety-zemrelo-nejmene-deset-lidi-379575",
+      "published_utc": "2026-11-13T04:32:17Z",
+      "title_en": "Při zásahu proti nelegální těžbě zlata v Guineji vypukly střety, zemřelo nejméně deset lidí",
+      "lead_en": "Nejméně deset lidí včetně pěti cizinců zahynulo při střetech mezi bezpečnostními složkami a&nbsp;těžaři zlata na severovýchodě Guineje. Dalších třináct lidí utrpělo zranění, informovala agentura AFP s&nbsp;odvoláním na guinejskou vládu.",
+      "title_raw": "Při zásahu proti nelegální těžbě zlata v Guineji vypukly střety, zemřelo nejméně deset lidí",
+      "lead_raw": "Nejméně deset lidí včetně pěti cizinců zahynulo při střetech mezi bezpečnostními složkami a&nbsp;těžaři zlata na severovýchodě Guineje. Dalších třináct lidí utrpělo zranění, informovala agentura AFP s&nbsp;odvoláním na guinejskou vládu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "military",
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "7413e2874af9644c5b519b5752fcc2df0f531c9d",
       "fingerprint": "dfdd7122d1c1b9b13ff2c518a3157255b7df2464",
@@ -352,94 +443,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "78aefce36188472ba805783e8ffa51ab1f5bb462",
-      "fingerprint": "4284ec18af89947f0372b9f63ac4d122eda6a40d",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/prejezd-do-nemecka-z-usteckeho-kraje-komplikuji-nehody-zavrena-je-d8-/2899936",
-      "published_utc": "2026-11-11T05:39:00Z",
-      "title_en": "Přejezd do Německa z Ústeckého kraje komplikují nehody, zavřena je D8",
-      "lead_en": "Ústí nad Labem - Na dálnici D8 se dnes odpoledne před hranicí s Německem střetla v husté mlze dvě nákladní auta a patrový autobus. Záchranáři zasahují u zraněných.",
-      "title_raw": "Přejezd do Německa z Ústeckého kraje komplikují nehody, zavřena je D8",
-      "lead_raw": "Ústí nad Labem - Na dálnici D8 se dnes odpoledne před hranicí s Německem střetla v husté mlze dvě nákladní auta a patrový autobus. Záchranáři zasahují u zraněných.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "bba9e7df0380c6bcd555a68265498ff6ec7b479f",
-      "fingerprint": "51649f77f792e97f2230f606a8049307fff7a6a6",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-v-los-angeles-najelo-auto-do-chodcu-nejmene-tri-lide-zahynuli-40607962",
-      "published_utc": "2026-11-11T05:34:53Z",
-      "title_en": "V Los Angeles najelo auto do chodců, nejméně tři lidé zahynuli",
-      "lead_en": "Tři lidé zahynuli a nejméně další tři utrpěli zranění poté, co auto najelo do skupiny chodců ve čtvrti North Hollywood v americkém Los Angeles. Podle policie zatím není jasné, zda se jednalo o úmyslný čin nebo nehodu, jak informují americká média.",
-      "title_raw": "V Los Angeles najelo auto do chodců, nejméně tři lidé zahynuli",
-      "lead_raw": "Tři lidé zahynuli a nejméně další tři utrpěli zranění poté, co auto najelo do skupiny chodců ve čtvrti North Hollywood v americkém Los Angeles. Podle policie zatím není jasné, zda se jednalo o úmyslný čin nebo nehodu, jak informují americká média.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "8a762b787fc8b182e0c64a07b9cc962fb796e09d",
-      "fingerprint": "6761e7f73e9b98618f4d7fd1cca26166d8a4b5d7",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/los-angeles-ridic-vozidla-chodci-tri-obeti.A261111_060925_zahranicni_onbu",
-      "published_utc": "2026-11-11T05:28:00Z",
-      "title_en": "Panika v Los Angeles. Řidič najel do davu chodců, tři lidé zemřeli na místě",
-      "lead_en": "Nejméně tři lidé zahynuli a další tři byli vážně zraněni poté, co auto najelo do skupiny chodců ve čtvrti North Hollywood v americkém Los Angeles. Policie uvedla, že vyšetřovatelé dosud nezjistili, zda šlo o nehodu nebo úmyslný čin, informovala ve středu agentura Reuters.",
-      "title_raw": "Panika v Los Angeles. Řidič najel do davu chodců, tři lidé zemřeli na místě",
-      "lead_raw": "Nejméně tři lidé zahynuli a další tři byli vážně zraněni poté, co auto najelo do skupiny chodců ve čtvrti North Hollywood v americkém Los Angeles. Policie uvedla, že vyšetřovatelé dosud nezjistili, zda šlo o nehodu nebo úmyslný čin, informovala ve středu agentura Reuters.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "74a3c9d2bc3ae09a6bbaff19863e967886d3628f",
-      "fingerprint": "57544fd201dc37738ffc4d793d968c75852badb8",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/po-narazu-auta-do-chodcu-v-los-angeles-zemreli-nejmene-tri-lide-379499",
-      "published_utc": "2026-11-11T04:04:55Z",
-      "title_en": "Po nárazu auta do chodců v Los Angeles zemřeli nejméně tři lidé, další jsou zranění",
-      "lead_en": "V&nbsp;losangeleské čtvrti North Hollywood narazilo v&nbsp;úterý večer místního času auto do skupiny chodců poblíž vstupu do metra, píše web americké stanice CNN. Nejméně tři lidé zemřeli, další tři jsou v&nbsp;kritickém stavu.",
-      "title_raw": "Po nárazu auta do chodců v Los Angeles zemřeli nejméně tři lidé, další jsou zranění",
-      "lead_raw": "V&nbsp;losangeleské čtvrti North Hollywood narazilo v&nbsp;úterý večer místního času auto do skupiny chodců poblíž vstupu do metra, píše web americké stanice CNN. Nejméně tři lidé zemřeli, další tři jsou v&nbsp;kritickém stavu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
       },
       "topics": [
         "local_events"

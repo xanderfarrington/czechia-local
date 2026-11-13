@@ -1,10 +1,215 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-13T02:12:40Z",
+  "updated_at_utc": "2026-11-13T10:12:00Z",
   "topic": "economy",
-  "count": 31,
+  "count": 39,
   "articles": [
+    {
+      "id": "324263c5a0c4f4569f41e480bf47bcd699cb5cee",
+      "fingerprint": "9260a9ab98973f5543a1b9f4be7d48039afbf416",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-trump-pomohl-rusku-zdvojnasobit-export-nafty-usa-ale-zadnou-nedostaly-40608334",
+      "published_utc": "2026-11-13T09:55:41Z",
+      "title_en": "Trump pomohl Rusku zdvojnásobit export nafty. USA ale žádnou nedostaly",
+      "lead_en": "Americké snahy snížit cenu nafty umožnily Rusku minulý měsíc zdvojnásobit její vývoz, ačkoli žádná ze zásilek iniciovaných rozhodnutím Donalda Trumpa zrušit sankce na pohonné hmoty proti Moskvě do USA nedorazila, napsal server The Financial Times. Očekává, že zvýšení dodávek bude krátkodobé poté, co Ukrajina obnoví útoky na rafinerie.",
+      "title_raw": "Trump pomohl Rusku zdvojnásobit export nafty. USA ale žádnou nedostaly",
+      "lead_raw": "Americké snahy snížit cenu nafty umožnily Rusku minulý měsíc zdvojnásobit její vývoz, ačkoli žádná ze zásilek iniciovaných rozhodnutím Donalda Trumpa zrušit sankce na pohonné hmoty proti Moskvě do USA nedorazila, napsal server The Financial Times. Očekává, že zvýšení dodávek bude krátkodobé poté, co Ukrajina obnoví útoky na rafinerie.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "73eda3589508344163823660864581fd4778c39d",
+      "fingerprint": "3177b7402e15b1660ff0c2587646570e04459401",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/mimoradnou-dan-na-rafinerie-zaplati-lide-mini-opozice/2901415",
+      "published_utc": "2026-11-13T09:35:00Z",
+      "title_en": "Mimořádnou daň na rafinerie zaplatí lidé, míní opozice",
+      "lead_en": "Praha - Vláda zaváděním sektorových daní podle opozičních občanských demokratů vytváří nepředvídatelné prostředí pro budoucí investice a další rozvoj ekonomiky, tím poškozuje obraz fungující země. Na...",
+      "title_raw": "Mimořádnou daň na rafinerie zaplatí lidé, míní opozice",
+      "lead_raw": "Praha - Vláda zaváděním sektorových daní podle opozičních občanských demokratů vytváří nepředvídatelné prostředí pro budoucí investice a další rozvoj ekonomiky, tím poškozuje obraz fungující země. Na...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "bdae4eb7183dee2364fae83f01593fe44049eb18",
+      "fingerprint": "5fe1eaa72ff426ecad2cd3648ec5ab21d9eb1231",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-bratranec-chtel-mobil-za-39-tisic-a-byl-vyprodany-dokazoval-fico-zivotni-uroven-slovaku-40608261",
+      "published_utc": "2026-11-13T09:25:36Z",
+      "title_en": "Bratranec chtěl mobil za 39 tisíc a byl vyprodaný, dokazoval Fico životní úroveň Slováků",
+      "lead_en": "Slovenský premiér Robert Fico obhajoval životní úroveň v zemi příběhem svého bratrance, který si v obchodě nemohl koupit iPhone za 1600 eur (přibližně 39 tisíc korun), protože byl vyprodaný. Podle předsedy vlády je to důkaz prosperity občanů.",
+      "title_raw": "Bratranec chtěl mobil za 39 tisíc a byl vyprodaný, dokazoval Fico životní úroveň Slováků",
+      "lead_raw": "Slovenský premiér Robert Fico obhajoval životní úroveň v zemi příběhem svého bratrance, který si v obchodě nemohl koupit iPhone za 1600 eur (přibližně 39 tisíc korun), protože byl vyprodaný. Podle předsedy vlády je to důkaz prosperity občanů.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "169f2bb21528cd03b4e70b09643f7c5bb5b9c321",
+      "fingerprint": "900f0462d6fb81795f9bfb42226f712a8544d0b7",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/stoupenci-rustu-sazeb-v-cnb-argumentovali-dopady-cen-energii-na-ostatni-zbozi/2901500",
+      "published_utc": "2026-11-13T08:44:00Z",
+      "title_en": "Stoupenci růstu sazeb v ČNB argumentovali dopady cen energií na ostatní zboží",
+      "lead_en": "Praha - Stoupenci zvýšení úrokových sazeb v bankovní radě České národní banky (ČNB) na jednání minulý týden argumentovali setrvalostí inflace a očekávanými dopady zdražení energií na ceny dalších komodit....",
+      "title_raw": "Stoupenci růstu sazeb v ČNB argumentovali dopady cen energií na ostatní zboží",
+      "lead_raw": "Praha - Stoupenci zvýšení úrokových sazeb v bankovní radě České národní banky (ČNB) na jednání minulý týden argumentovali setrvalostí inflace a očekávanými dopady zdražení energií na ceny dalších komodit....",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 4,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "14446e75b55f92aef5293fd0554bf09bf347c54a",
+      "fingerprint": "ad7f2bbf9d69b02443df443f1c82d793d4f073fd",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/volgograd-ukrajina-valka-rusko-dronovy-utok-rafinerie.A261113_090554_zahranicni_aya",
+      "published_utc": "2026-11-13T08:41:00Z",
+      "title_en": "Jeden z největších útoků. Ukrajinci zasáhli rafinerii ve Volgogradu, změnili taktiku",
+      "lead_en": "Při dronovém náletu na jihu Volgogradu zemřeli čtyři zaměstnanci průmyslové zóny a další dva utrpěli zranění. Podle neoficiálních informací se terčem stala tamní rafinerie.",
+      "title_raw": "Jeden z největších útoků. Ukrajinci zasáhli rafinerii ve Volgogradu, změnili taktiku",
+      "lead_raw": "Při dronovém náletu na jihu Volgogradu zemřeli čtyři zaměstnanci průmyslové zóny a další dva utrpěli zranění. Podle neoficiálních informací se terčem stala tamní rafinerie.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "economy",
+        "local_events"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "bfebf3a1c79cef94c870d6c6f028fdb3c6f23bea",
+      "fingerprint": "1362d42d668e8e20320b48485a336309fd75c5cb",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-a-ukrajina-hlasi-vzajemne-utoky-rafinerie-ve-volgogradu-hori-379579",
+      "published_utc": "2026-11-13T08:37:45Z",
+      "title_en": "Rusko a Ukrajina hlásí vzájemné útoky. Rafinerie ve Volgogradu hoří",
+      "lead_en": "Úřady v&nbsp;ruské Volgogradské oblasti tvrdí, že při dronovém náletu zemřeli čtyři zaměstnanci průmyslové zóny na jihu Volgogradu. Podle informací zpravodajského telegramového kanálu Exilenova+ byla cílem útoku tamní rafinerie.",
+      "title_raw": "Rusko a Ukrajina hlásí vzájemné útoky. Rafinerie ve Volgogradu hoří",
+      "lead_raw": "Úřady v&nbsp;ruské Volgogradské oblasti tvrdí, že při dronovém náletu zemřeli čtyři zaměstnanci průmyslové zóny na jihu Volgogradu. Podle informací zpravodajského telegramového kanálu Exilenova+ byla cílem útoku tamní rafinerie.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 1
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "33e3be7d5d5fbd2925bcb1f25fff58be12d74dc6",
+      "fingerprint": "ba3e77f0c7e9d3225294a5cbf83f81879aac563e",
+      "source": "iROZHLAS - Economy",
+      "url": "https://www.irozhlas.cz/ekonomika/zdrazovani-se-promita-se-zpozdenim-banky-v-rijnu-poskytly-hypoteky-za-372_2611130735_raf",
+      "published_utc": "2026-11-13T06:35:00Z",
+      "title_en": "‚Zdražování se promítá se zpožděním.‘ Banky v říjnu poskytly hypotéky za 37,2 miliardy korun",
+      "lead_en": "Banky a stavební spořitelny poskytly v říjnu hypoteční úvěry za 37,2 miliardy korun, což bylo o pět procent více než v září. Ve srovnání s loňským říjnem jde o pokles o čtyři procenta.",
+      "title_raw": "‚Zdražování se promítá se zpožděním.‘ Banky v říjnu poskytly hypotéky za 37,2 miliardy korun",
+      "lead_raw": "Banky a stavební spořitelny poskytly v říjnu hypoteční úvěry za 37,2 miliardy korun, což bylo o pět procent více než v září. Ve srovnání s loňským říjnem jde o pokles o čtyři procenta.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "5da3f6c892bb6ae05c2b80e095f9b129af4baae6",
+      "fingerprint": "956550aa9793c5129a2121c580199d8356397a3b",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/banky-v-rijnu-poskytly-hypoteky-za-372-miliardy-kc-mezimesicne-vice/2901450",
+      "published_utc": "2026-11-13T05:01:00Z",
+      "title_en": "Banky v říjnu poskytly hypotéky za 37,2 miliardy Kč, meziměsíčně více",
+      "lead_en": "Praha - Banky a stavební spořitelny poskytly v říjnu hypoteční úvěry za 37,2 miliardy korun, což bylo o pět procent více než v září. Ve srovnání s loňským říjnem jde o pokles o čtyři procenta.",
+      "title_raw": "Banky v říjnu poskytly hypotéky za 37,2 miliardy Kč, meziměsíčně více",
+      "lead_raw": "Praha - Banky a stavební spořitelny poskytly v říjnu hypoteční úvěry za 37,2 miliardy korun, což bylo o pět procent více než v září. Ve srovnání s loňským říjnem jde o pokles o čtyři procenta.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "aee8e7fd346c9e5faad1208f59ba422ee68e4fcb",
+      "fingerprint": "99a7d48bfd461377acb3dc2991aeec4437557aac",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/dovoz-ruskeho-lng-do-eu-roste-ukazuji-data-organizace-urgewald/2901437",
+      "published_utc": "2026-11-13T04:30:00Z",
+      "title_en": "Dovoz ruského LNG do EU roste, ukazují data organizace Urgewald",
+      "lead_en": "Berlín - Evropská unie od ledna do října dovezla ruský zkapalněný zemní plyn (LNG) z Arktidy za zhruba 8,7 miliardy eur (211 miliard korun), což je o 21 procent více než za celý loňský rok. Informace...",
+      "title_raw": "Dovoz ruského LNG do EU roste, ukazují data organizace Urgewald",
+      "lead_raw": "Berlín - Evropská unie od ledna do října dovezla ruský zkapalněný zemní plyn (LNG) z Arktidy za zhruba 8,7 miliardy eur (211 miliard korun), což je o 21 procent více než za celý loňský rok. Informace...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "95d7f7d0e70959d1693fd35cedd7bac011cc2088",
       "fingerprint": "173d9db20d14bc2fb559df005f3e038a2904738e",
@@ -668,28 +873,6 @@
       "lead_en": "Evropský bankovní trh je pro Revolut stále klíčový, přestože expanduje po celém světě. „Většina současného růstu pochází z Evropy,“ říká Kuba Fast, šéf Revolut Bank.",
       "title_raw": "Do konce roku chceme mít v Česku 1,5 milionu klientů, říká šéf Revolut Bank",
       "lead_raw": "Evropský bankovní trh je pro Revolut stále klíčový, přestože expanduje po celém světě. „Většina současného růstu pochází z Evropy,“ říká Kuba Fast, šéf Revolut Bank.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "72993ffe7a4d9066fe7bf5713994846957338e53",
-      "fingerprint": "57c23d758b5543b00d6b3e929fe4d79751be7624",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-o-zavedeni-sektorovych-dani-ted-neuvazujeme-rekl-havlicek-320240",
-      "published_utc": "2026-11-11T05:45:10Z",
-      "title_en": "O zavedení sektorových daní teď neuvažujeme, řekl Havlíček",
-      "lead_en": "Sektorové daně podle ministra průmyslu a obchodu Karla Havlíčka nejsou na stole, přestože o nich ještě o víkendu mluvil. Opatření mezitím kritizoval Svaz průmyslu a dopravy.",
-      "title_raw": "O zavedení sektorových daní teď neuvažujeme, řekl Havlíček",
-      "lead_raw": "Sektorové daně podle ministra průmyslu a obchodu Karla Havlíčka nejsou na stole, přestože o nich ještě o víkendu mluvil. Opatření mezitím kritizoval Svaz průmyslu a dopravy.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
