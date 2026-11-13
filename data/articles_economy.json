@@ -1,10 +1,80 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-12T21:11:24Z",
+  "updated_at_utc": "2026-11-13T02:12:40Z",
   "topic": "economy",
-  "count": 32,
+  "count": 31,
   "articles": [
+    {
+      "id": "95d7f7d0e70959d1693fd35cedd7bac011cc2088",
+      "fingerprint": "173d9db20d14bc2fb559df005f3e038a2904738e",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/domaci/dovoz-ruskeho-plynu-bude-uz-brzy-zakazany-ve-smesi-ho-ale-odhalit-nelze.A261112_160443_ekonomika_hyk",
+      "published_utc": "2026-11-12T23:00:00Z",
+      "title_en": "Dovoz ruského plynu bude brzy zakázaný. Ve směsi ho ale lze odhalit jen stěží",
+      "lead_en": "Příští rok mají dodávky potrubního i zkapalněného ruského plynu do zemí Evropské unie definitivně skončit. Ruský plyn se však může smíchat s plynem z jiných zemí, přejít přes více obchodníků nebo změnit celní původ při zpracování mimo Rusko.",
+      "title_raw": "Dovoz ruského plynu bude brzy zakázaný. Ve směsi ho ale lze odhalit jen stěží",
+      "lead_raw": "Příští rok mají dodávky potrubního i zkapalněného ruského plynu do zemí Evropské unie definitivně skončit. Ruský plyn se však může smíchat s plynem z jiných zemí, přejít přes více obchodníků nebo změnit celní původ při zpracování mimo Rusko.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "a0623c4c021221446e41a7aa78440e997edcfc83",
+      "fingerprint": "19098748cec0a47953137f5b118fdaecb1aeb727",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/ukrajinci-jsou-vdecni-ale-vecni-nase-firmy-tam-maji-velkou-sanci-rika-karel-havlicek.A261112_181531_domaci_kton",
+      "published_utc": "2026-11-12T23:00:00Z",
+      "title_en": "Ukrajinci jsou vděční, ale věcní. Naše firmy tam mají velkou šanci, říká Karel Havlíček",
+      "lead_en": "Od naší zpravodajky na Ukrajině – Ministr průmyslu a obchodu, vicepremiér Karel Havlíček (ANO) v rozhovoru pro iDNES.cz o pracovní návštěvě Ukrajiny v doprovodu českých podnikatelů a jednání s tamním premiérem i ministrem energetiky.",
+      "title_raw": "Ukrajinci jsou vděční, ale věcní. Naše firmy tam mají velkou šanci, říká Karel Havlíček",
+      "lead_raw": "Od naší zpravodajky na Ukrajině – Ministr průmyslu a obchodu, vicepremiér Karel Havlíček (ANO) v rozhovoru pro iDNES.cz o pracovní návštěvě Ukrajiny v doprovodu českých podnikatelů a jednání s tamním premiérem i ministrem energetiky.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "5a6b45544d163822e47638d3be3a1f5b605ed767",
+      "fingerprint": "5d914f60d629f4c8b340e97d8bb9dcf2f68b6517",
+      "source": "iROZHLAS - Economy",
+      "url": "https://www.irozhlas.cz/ekonomika/ekonom-petr-barton-zastropovani-cen-elektriny-muze-byt-nesocialni-chudsi-mohou_2611122320_ntu",
+      "published_utc": "2026-11-12T22:20:00Z",
+      "title_en": "Ekonom Petr Bartoň: Zastropování cen elektřiny může být nesociální. Chudší mohou dotovat bohatší",
+      "lead_en": "Vláda schválila návrh novely energetického zákona, která by jí v případě dalšího prudkého zdražování umožnila regulovat ceny elektřiny a zastropovat nadměrné příjmy jejích výrobců. Podle ekonoma Petra Bartoně ale může takové opatření paradoxně zvýhodnit bohatší domácnosti.",
+      "title_raw": "Ekonom Petr Bartoň: Zastropování cen elektřiny může být nesociální. Chudší mohou dotovat bohatší",
+      "lead_raw": "Vláda schválila návrh novely energetického zákona, která by jí v případě dalšího prudkého zdražování umožnila regulovat ceny elektřiny a zastropovat nadměrné příjmy jejích výrobců. Podle ekonoma Petra Bartoně ale může takové opatření paradoxně zvýhodnit bohatší domácnosti.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "c207b0eebf32ef7107535a921f7d649bd5378ed4",
       "fingerprint": "25f0581274dc9c09c0fa9189151a5a3711a6f914",
@@ -620,96 +690,6 @@
       "lead_en": "Sektorové daně podle ministra průmyslu a obchodu Karla Havlíčka nejsou na stole, přestože o nich ještě o víkendu mluvil. Opatření mezitím kritizoval Svaz průmyslu a dopravy.",
       "title_raw": "O zavedení sektorových daní teď neuvažujeme, řekl Havlíček",
       "lead_raw": "Sektorové daně podle ministra průmyslu a obchodu Karla Havlíčka nejsou na stole, přestože o nich ještě o víkendu mluvil. Opatření mezitím kritizoval Svaz průmyslu a dopravy.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "a112a82471673987c9efb590f1dc815ffe5ed013",
-      "fingerprint": "2ad1e91bd7ce5fd63665eb2610bd23a2af00967c",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/havlicek-vlada-nyni-neuvazuje-o-zavedeni-sektorovych-dani/2900336",
-      "published_utc": "2026-11-11T00:37:00Z",
-      "title_en": "Havlíček: Vláda nyní neuvažuje o zavedení sektorových daní",
-      "lead_en": "Praha - Vláda nyní neuvažuje o zavedení sektorových daní, řekl novinářům ministr průmyslu a obchodu Karel Havlíček. O tomto opatření nejednala v pondělí ani koaliční rada, dodal.",
-      "title_raw": "Havlíček: Vláda nyní neuvažuje o zavedení sektorových daní",
-      "lead_raw": "Praha - Vláda nyní neuvažuje o zavedení sektorových daní, řekl novinářům ministr průmyslu a obchodu Karel Havlíček. O tomto opatření nejednala v pondělí ani koaliční rada, dodal.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "83fafbe1af72b7933ce4fd171f15a5d9d2f9a6da",
-      "fingerprint": "283e2e1c0565529719155bdbab9e8533cdca9edc",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/havlicek-jednal-se-sefem-lvovske-oblasti-o-tezbe-plynu-a-zdravotnictvi/2900335",
-      "published_utc": "2026-11-11T00:05:00Z",
-      "title_en": "Havlíček jednal se šéfem Lvovské oblasti o těžbě plynu a zdravotnictví",
-      "lead_en": "Praha - Český ministr průmyslu a obchodu Karel Havlíček jednal se šéfem vojenské správy Lvovské oblasti Maksymem Kozyckým o rozšíření těžby plynu ze strany českých firem na Ukrajině a možném zapojení...",
-      "title_raw": "Havlíček jednal se šéfem Lvovské oblasti o těžbě plynu a zdravotnictví",
-      "lead_raw": "Praha - Český ministr průmyslu a obchodu Karel Havlíček jednal se šéfem vojenské správy Lvovské oblasti Maksymem Kozyckým o rozšíření těžby plynu ze strany českých firem na Ukrajině a možném zapojení...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 1
-      },
-      "topics": [
-        "military",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "dd48111b8113118fd18e2aba4fb26d8cd8e03185",
-      "fingerprint": "3fcc14f56185b741177afad7700f8809967fdfd3",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/mediahub/singles-day-idnes-premium-darek-490.A261110_114239_mediahub_bhar",
-      "published_utc": "2026-11-10T23:00:00Z",
-      "title_en": "Dárek sobě na celý rok. iDNES Premium je na Singles’ Day za 490 Kč, levnější nebude",
-      "lead_en": "Jedenáctý listopad patří po celém světě oslavám Singles’ Day – svátku, který připomíná, že nejlepší investicí je odměnit čas od času sám sebe. iDNES.cz při této příležitosti spouští mimořádnou akci: pouze na 24 hodin nabízí roční předplatné iDNES Premium za 490 korun místo běžných 989 korun.",
-      "title_raw": "Dárek sobě na celý rok. iDNES Premium je na Singles’ Day za 490 Kč, levnější nebude",
-      "lead_raw": "Jedenáctý listopad patří po celém světě oslavám Singles’ Day – svátku, který připomíná, že nejlepší investicí je odměnit čas od času sám sebe. iDNES.cz při této příležitosti spouští mimořádnou akci: pouze na 24 hodin nabízí roční předplatné iDNES Premium za 490 korun místo běžných 989 korun.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "fb8dbd7e7e55f782d2ae208f91b977e4138165fe",
-      "fingerprint": "6b76b2fca5f1fb7287030b76170e859000bb5c33",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-kretinskeho-epg-ziskala-vetsinovy-podil-ve-francouzskem-retezci-fnac-darty-320236",
-      "published_utc": "2026-11-10T22:59:32Z",
-      "title_en": "Křetínského EPG získala většinový podíl ve francouzském řetězci Fnac Darty",
-      "lead_en": "Kontrolní podíl ve francouzském maloobchodním řetězci Fnac Darty nově připadá investiční skupině EP Group Daniela Křetínského. Ta chce podpořit další růst firmy a posílit její pozici na trhu.",
-      "title_raw": "Křetínského EPG získala většinový podíl ve francouzském řetězci Fnac Darty",
-      "lead_raw": "Kontrolní podíl ve francouzském maloobchodním řetězci Fnac Darty nově připadá investiční skupině EP Group Daniela Křetínského. Ta chce podpořit další růst firmy a posílit její pozici na trhu.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,

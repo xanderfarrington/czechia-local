@@ -1,10 +1,171 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-12T21:11:24Z",
+  "updated_at_utc": "2026-11-13T02:12:40Z",
   "topic": "energy",
-  "count": 53,
+  "count": 57,
   "articles": [
+    {
+      "id": "73b5817d793a1f0dd0712cd2df1d53a043020ed6",
+      "fingerprint": "513f560946328a9925bc2e08a915977c66f26760",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/poslanci-se-sejdou-k-navrhu-na-zavedeni-mimoradne-dane-na-rafinerie/2901415",
+      "published_utc": "2026-11-12T23:02:00Z",
+      "title_en": "Poslanci se sejdou k návrhu na zavedení mimořádné daně na rafinerie",
+      "lead_en": "Praha - Poslanci se dnes sejdou ke druhému čtení vládního návrhu na zavedení mimořádné daně na rafinerie. Důvodem jejího uzákonění je podle vlády růst marží rafinerií v důsledku situace na světovém trhu...",
+      "title_raw": "Poslanci se sejdou k návrhu na zavedení mimořádné daně na rafinerie",
+      "lead_raw": "Praha - Poslanci se dnes sejdou ke druhému čtení vládního návrhu na zavedení mimořádné daně na rafinerie. Důvodem jejího uzákonění je podle vlády růst marží rafinerií v důsledku situace na světovém trhu...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "95d7f7d0e70959d1693fd35cedd7bac011cc2088",
+      "fingerprint": "173d9db20d14bc2fb559df005f3e038a2904738e",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/domaci/dovoz-ruskeho-plynu-bude-uz-brzy-zakazany-ve-smesi-ho-ale-odhalit-nelze.A261112_160443_ekonomika_hyk",
+      "published_utc": "2026-11-12T23:00:00Z",
+      "title_en": "Dovoz ruského plynu bude brzy zakázaný. Ve směsi ho ale lze odhalit jen stěží",
+      "lead_en": "Příští rok mají dodávky potrubního i zkapalněného ruského plynu do zemí Evropské unie definitivně skončit. Ruský plyn se však může smíchat s plynem z jiných zemí, přejít přes více obchodníků nebo změnit celní původ při zpracování mimo Rusko.",
+      "title_raw": "Dovoz ruského plynu bude brzy zakázaný. Ve směsi ho ale lze odhalit jen stěží",
+      "lead_raw": "Příští rok mají dodávky potrubního i zkapalněného ruského plynu do zemí Evropské unie definitivně skončit. Ruský plyn se však může smíchat s plynem z jiných zemí, přejít přes více obchodníků nebo změnit celní původ při zpracování mimo Rusko.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "a0623c4c021221446e41a7aa78440e997edcfc83",
+      "fingerprint": "19098748cec0a47953137f5b118fdaecb1aeb727",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/ukrajinci-jsou-vdecni-ale-vecni-nase-firmy-tam-maji-velkou-sanci-rika-karel-havlicek.A261112_181531_domaci_kton",
+      "published_utc": "2026-11-12T23:00:00Z",
+      "title_en": "Ukrajinci jsou vděční, ale věcní. Naše firmy tam mají velkou šanci, říká Karel Havlíček",
+      "lead_en": "Od naší zpravodajky na Ukrajině – Ministr průmyslu a obchodu, vicepremiér Karel Havlíček (ANO) v rozhovoru pro iDNES.cz o pracovní návštěvě Ukrajiny v doprovodu českých podnikatelů a jednání s tamním premiérem i ministrem energetiky.",
+      "title_raw": "Ukrajinci jsou vděční, ale věcní. Naše firmy tam mají velkou šanci, říká Karel Havlíček",
+      "lead_raw": "Od naší zpravodajky na Ukrajině – Ministr průmyslu a obchodu, vicepremiér Karel Havlíček (ANO) v rozhovoru pro iDNES.cz o pracovní návštěvě Ukrajiny v doprovodu českých podnikatelů a jednání s tamním premiérem i ministrem energetiky.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "56b015e8365d9c1c0b915606eae38ca6e93ae52a",
+      "fingerprint": "71f814a9407f6a5d9696dad309115a3928fc3c40",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/kushner-se-zelenskym-evropane-budou-u-jednani-o-miru-s-ruskem.A261112_231539_zahranicni_air",
+      "published_utc": "2026-11-12T22:31:00Z",
+      "title_en": "Kushner se Zelenským: Evropané budou u jednání o míru s Ruskem",
+      "lead_en": "Evropští zástupci se zapojí do vyjednávání o míru mezi Ruskem a Ukrajinou, oznámili po dnešním setkání v Dublinu ukrajinský prezident Volodymyr Zelenskyj a zvláštní americký vyslanec Jared Kushner s tím, že další jednání budou pokračovat.",
+      "title_raw": "Kushner se Zelenským: Evropané budou u jednání o míru s Ruskem",
+      "lead_raw": "Evropští zástupci se zapojí do vyjednávání o míru mezi Ruskem a Ukrajinou, oznámili po dnešním setkání v Dublinu ukrajinský prezident Volodymyr Zelenskyj a zvláštní americký vyslanec Jared Kushner s tím, že další jednání budou pokračovat.",
+      "topic_scores": {
+        "diplomacy": 3,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "8bfca95d0fc88817505a6fd75de64af8ac279a0c",
+      "fingerprint": "31bb972e0a35a65e02c0bf59e58911b8864b28dd",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-zastupci-evropy-prizvani-40608401",
+      "published_utc": "2026-11-12T22:20:03Z",
+      "title_en": "Evropané budou u mírových jednání, řekli Kushner a Zelenskyj",
+      "lead_en": "Evropští zástupci budou u vyjednávání o míru mezi Ruskem a Ukrajinou. Po setkání v Dublinu to v noci na pátek uvedli ukrajinský prezident Volodymyr Zelenskyj a zvláštní americký vyslanec Jared Kushner, který spolu s kolegou Stevem Witkoffem do irské metropole dorazil z moskevského setkání s ruským prezidentem Vladimirem Putinem.",
+      "title_raw": "Evropané budou u mírových jednání, řekli Kushner a Zelenskyj",
+      "lead_raw": "Evropští zástupci budou u vyjednávání o míru mezi Ruskem a Ukrajinou. Po setkání v Dublinu to v noci na pátek uvedli ukrajinský prezident Volodymyr Zelenskyj a zvláštní americký vyslanec Jared Kushner, který spolu s kolegou Stevem Witkoffem do irské metropole dorazil z moskevského setkání s ruským prezidentem Vladimirem Putinem.",
+      "topic_scores": {
+        "diplomacy": 3,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "5a6b45544d163822e47638d3be3a1f5b605ed767",
+      "fingerprint": "5d914f60d629f4c8b340e97d8bb9dcf2f68b6517",
+      "source": "iROZHLAS - Economy",
+      "url": "https://www.irozhlas.cz/ekonomika/ekonom-petr-barton-zastropovani-cen-elektriny-muze-byt-nesocialni-chudsi-mohou_2611122320_ntu",
+      "published_utc": "2026-11-12T22:20:00Z",
+      "title_en": "Ekonom Petr Bartoň: Zastropování cen elektřiny může být nesociální. Chudší mohou dotovat bohatší",
+      "lead_en": "Vláda schválila návrh novely energetického zákona, která by jí v případě dalšího prudkého zdražování umožnila regulovat ceny elektřiny a zastropovat nadměrné příjmy jejích výrobců. Podle ekonoma Petra Bartoně ale může takové opatření paradoxně zvýhodnit bohatší domácnosti.",
+      "title_raw": "Ekonom Petr Bartoň: Zastropování cen elektřiny může být nesociální. Chudší mohou dotovat bohatší",
+      "lead_raw": "Vláda schválila návrh novely energetického zákona, která by jí v případě dalšího prudkého zdražování umožnila regulovat ceny elektřiny a zastropovat nadměrné příjmy jejích výrobců. Podle ekonoma Petra Bartoně ale může takové opatření paradoxně zvýhodnit bohatší domácnosti.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "105d044b5ec8a861e515f9c7ccf112d234a9af0d",
+      "fingerprint": "6a305c66bec089f7cc981fcdd4f948ec908b46d0",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-kushner-a-witkoff-jednaji-v-dublinu-se-zelenskym-prileteli-z-moskvy-320435",
+      "published_utc": "2026-11-12T21:50:49Z",
+      "title_en": "Evropané budou u mírových jednání, řekli Kushner a Zelenskyj",
+      "lead_en": "Američtí vyjednavači Jared Kushner a Steve Witkoff se v Dublinu sešli s ukrajinským prezidentem Volodymyrem Zelenským. Po schůzce oznámili, že u vyjednávání míru mezi Ruskem a Ukrajinou budou i evropští zástupci.",
+      "title_raw": "Evropané budou u mírových jednání, řekli Kushner a Zelenskyj",
+      "lead_raw": "Američtí vyjednavači Jared Kushner a Steve Witkoff se v Dublinu sešli s ukrajinským prezidentem Volodymyrem Zelenským. Po schůzce oznámili, že u vyjednávání míru mezi Ruskem a Ukrajinou budou i evropští zástupci.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "60a7a285b1b8754e59fd724527cb443d0563e070",
       "fingerprint": "8a47d82447ffe07ce5b6652985875202fb9898d7",
@@ -1125,75 +1286,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "83fafbe1af72b7933ce4fd171f15a5d9d2f9a6da",
-      "fingerprint": "283e2e1c0565529719155bdbab9e8533cdca9edc",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/havlicek-jednal-se-sefem-lvovske-oblasti-o-tezbe-plynu-a-zdravotnictvi/2900335",
-      "published_utc": "2026-11-11T00:05:00Z",
-      "title_en": "Havlíček jednal se šéfem Lvovské oblasti o těžbě plynu a zdravotnictví",
-      "lead_en": "Praha - Český ministr průmyslu a obchodu Karel Havlíček jednal se šéfem vojenské správy Lvovské oblasti Maksymem Kozyckým o rozšíření těžby plynu ze strany českých firem na Ukrajině a možném zapojení...",
-      "title_raw": "Havlíček jednal se šéfem Lvovské oblasti o těžbě plynu a zdravotnictví",
-      "lead_raw": "Praha - Český ministr průmyslu a obchodu Karel Havlíček jednal se šéfem vojenské správy Lvovské oblasti Maksymem Kozyckým o rozšíření těžby plynu ze strany českých firem na Ukrajině a možném zapojení...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 1
-      },
-      "topics": [
-        "military",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "471671ca03a1bb29a45e8eaa0b50183a60dfcb01",
-      "fingerprint": "cce99bbabf727b688a6319814ab7f18c21019d92",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/domaci/elektrina-v-prvnim-pololeti-zlevnovala-s-tim-je-vsak-konec-ceny-poleti-vzhuru.A261110_190319_ekonomika_jans",
-      "published_utc": "2026-11-10T23:00:00Z",
-      "title_en": "Elektřina v prvním pololetí zlevňovala, s tím je však konec. Ceny poletí vzhůru",
-      "lead_en": "V první polovině letošního roku se vývoj cen elektřiny pro domácnosti v České republice vyvíjel pozitivně. Ceny se snižovaly, a to zhruba o dvanáct procent ve srovnání se stejným obdobím předchozího roku.",
-      "title_raw": "Elektřina v prvním pololetí zlevňovala, s tím je však konec. Ceny poletí vzhůru",
-      "lead_raw": "V první polovině letošního roku se vývoj cen elektřiny pro domácnosti v České republice vyvíjel pozitivně. Ceny se snižovaly, a to zhruba o dvanáct procent ve srovnání se stejným obdobím předchozího roku.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "9e65c1e0355e7dd30bdca34a25ae971efb9dc888",
-      "fingerprint": "0918081e0e5ebab7ba467fb3c1511db593a9ca3c",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/evropane-jsou-na-vyjednavani-vitani-jejich-hlas-je-ale-fragmentovany-rika-o_2611102237_zko",
-      "published_utc": "2026-11-10T21:37:00Z",
-      "title_en": "Evropané jsou na vyjednávání vítáni, jejich hlas je ale fragmentovaný, říká o jednání v Abú Zabí analytik",
-      "lead_en": "Skončilo 1. kolo mírových jednání Ruska, Ukrajiny a USA.",
-      "title_raw": "Evropané jsou na vyjednávání vítáni, jejich hlas je ale fragmentovaný, říká o jednání v Abú Zabí analytik",
-      "lead_raw": "Skončilo 1. kolo mírových jednání Ruska, Ukrajiny a USA.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
