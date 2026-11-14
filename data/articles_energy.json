@@ -1,10 +1,77 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-14T17:23:30Z",
+  "updated_at_utc": "2026-11-14T21:44:09Z",
   "topic": "energy",
-  "count": 70,
+  "count": 63,
   "articles": [
+    {
+      "id": "17b29c5494c42c575df4e6168ab7d455aabccab9",
+      "fingerprint": "89c06962efcaae09580ccc4e0c423948af501f31",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-tyden-bez-dilku-trziste-lega-odstavila-neobvykla-aktivita-40608496",
+      "published_utc": "2026-11-14T21:11:00Z",
+      "title_en": "Týden bez dílků. Tržiště Lega odstavila „neobvyklá aktivita“",
+      "lead_en": "Online tržiště BrickLink, které slouží fanouškům Lego k nákupu a prodeji stavebnic, jednotlivých dílků i vzácných minifigurek, bylo uplynulých sedm dní mimo provoz. Společnost Lego platformu odstavila poté, co na ní zaznamenala „neobvyklou aktivitu“.",
+      "title_raw": "Týden bez dílků. Tržiště Lega odstavila „neobvyklá aktivita“",
+      "lead_raw": "Online tržiště BrickLink, které slouží fanouškům Lego k nákupu a prodeji stavebnic, jednotlivých dílků i vzácných minifigurek, bylo uplynulých sedm dní mimo provoz. Společnost Lego platformu odstavila poté, co na ní zaznamenala „neobvyklou aktivitu“.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "2b91ed4a59b2d04182d2932ebc028541beac9ca7",
+      "fingerprint": "25a7efb3179c07079c0e26adeaaf0b413f7b147d",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/antalya-klimaticka-konference-osn-demonstrace-ochrana.A261114_215023_zahranicni_votr",
+      "published_utc": "2026-11-14T20:50:00Z",
+      "title_en": "Před konáním klimatické konference v Antalyi demonstrovaly tisíce lidí",
+      "lead_en": "V tureckém letovisku Antalya, kde se od pondělí koná klimatická konference OSN, v sobotu tisíce lidí demonstrovaly za větší ochranu klimatu. Demonstranti mimo jiné kritizovali rozsáhlé používání fosilních paliv, jejichž emise přispívají k oteplování planety.",
+      "title_raw": "Před konáním klimatické konference v Antalyi demonstrovaly tisíce lidí",
+      "lead_raw": "V tureckém letovisku Antalya, kde se od pondělí koná klimatická konference OSN, v sobotu tisíce lidí demonstrovaly za větší ochranu klimatu. Demonstranti mimo jiné kritizovali rozsáhlé používání fosilních paliv, jejichž emise přispívají k oteplování planety.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "ca6de3a150f2ce6c605cbd94c353bb5a8757cb92",
+      "fingerprint": "f6db58adb0e761510e83d9215b918f0dd58c9a45",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-ani-nahodou-rika-analytik-k-novemu-jadernemu-pozadavku-ruska-vuci-zapadu-320548",
+      "published_utc": "2026-11-14T20:41:31Z",
+      "title_en": "„Ani náhodou,“ říká analytik k novému jadernému požadavku Ruska vůči Západu",
+      "lead_en": "„Rusko nikdy nebude spokojené s našimi ústupky, protože jeho cílem je zlikvidovat samostatnost Ukrajiny,“ upozorňuje v rozhovoru pro Seznam Zprávy zahraničněpolitický analytik a bývalý diplomat Vladimír Votápek.",
+      "title_raw": "„Ani náhodou,“ říká analytik k novému jadernému požadavku Ruska vůči Západu",
+      "lead_raw": "„Rusko nikdy nebude spokojené s našimi ústupky, protože jeho cílem je zlikvidovat samostatnost Ukrajiny,“ upozorňuje v rozhovoru pro Seznam Zprávy zahraničněpolitický analytik a bývalý diplomat Vladimír Votápek.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "9ee6ba0fbcff29858b6306179b4f892add0f10d8",
       "fingerprint": "d821e3aed85a34a0496e4062ebfa6d1a244dc0d9",
@@ -1358,231 +1425,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "60a7a285b1b8754e59fd724527cb443d0563e070",
-      "fingerprint": "8a47d82447ffe07ce5b6652985875202fb9898d7",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/evropsky-summit-v-dublinu-podporil-ukrajinu-rekl-irsky-premier.A261112_203834_zahranicni_sahu",
-      "published_utc": "2026-11-12T20:03:00Z",
-      "title_en": "Summit jasně podpořil Ukrajinu, řekl irský premiér. Evropa odhalila priority pro mír",
-      "lead_en": "Čtvrteční summit Evropského politického společenství (EPC) v Dublinu jasně podpořil Ruskem napadenou Ukrajinu a také ukázal zájem úzce spolupracovat při ochraně proti hybridním hrozbám a při obraně demokracie. Na večerní závěrečné tiskové konferenci to prohlásil irský premiér Micheál Martin, který zároveň upozornil, že Ukrajina čelí stále intenzivnějším útokům na civilisty a kritickou infrastrukturu.",
-      "title_raw": "Summit jasně podpořil Ukrajinu, řekl irský premiér. Evropa odhalila priority pro mír",
-      "lead_raw": "Čtvrteční summit Evropského politického společenství (EPC) v Dublinu jasně podpořil Ruskem napadenou Ukrajinu a také ukázal zájem úzce spolupracovat při ochraně proti hybridním hrozbám a při obraně demokracie. Na večerní závěrečné tiskové konferenci to prohlásil irský premiér Micheál Martin, který zároveň upozornil, že Ukrajina čelí stále intenzivnějším útokům na civilisty a kritickou infrastrukturu.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "d3e849125b36b8a39d1da8685ea12feda777855c",
-      "fingerprint": "534b385e3c118704a584c427076ae274a9803215",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/obrazem-podivejte-se-na-vyhlasovani-cen-ceska-elita-320430",
-      "published_utc": "2026-11-12T20:00:09Z",
-      "title_en": "Podívejte se na vyhlašování cen Česká elita",
-      "lead_en": "Seznam Zprávy vydaly nový žebříček největších českých firem Česká elita. Slavností předávání cen se konalo ve Španělském sále Pražského hradu a vítězem je energetický holding EPH.",
-      "title_raw": "Podívejte se na vyhlašování cen Česká elita",
-      "lead_raw": "Seznam Zprávy vydaly nový žebříček největších českých firem Česká elita. Slavností předávání cen se konalo ve Španělském sále Pražského hradu a vítězem je energetický holding EPH.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "9e4f842e900f6b135144d5f6a51be663e79138c4",
-      "fingerprint": "6425f75c9977d0ddd0c1f6ebfbc89569526747af",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/nejhodnotnejsi-soukrome-firmy-podle-zebricku-ceska-elita-jsou-eph-ppf-a-csg/2901370",
-      "published_utc": "2026-11-12T19:31:00Z",
-      "title_en": "Nejhodnotnější soukromé firmy podle žebříčku Česká elita jsou EPH, PPF a CSG",
-      "lead_en": "Praha - Nejhodnotnějšími soukromými firmami pod kontrolou českých vlastníků jsou v letošním žebříčku Energetický a průmyslový holding (EPH) podnikatele Daniela Křetínského, investiční skupina PPF Renáty...",
-      "title_raw": "Nejhodnotnější soukromé firmy podle žebříčku Česká elita jsou EPH, PPF a CSG",
-      "lead_raw": "Praha - Nejhodnotnějšími soukromými firmami pod kontrolou českých vlastníků jsou v letošním žebříčku Energetický a průmyslový holding (EPH) podnikatele Daniela Křetínského, investiční skupina PPF Renáty...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "22e73c3d61ddca910b076f7436621436585b9223",
-      "fingerprint": "4b480e3a9dd1a98f84a46ce2c623d17184156b16",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-nejhodnotnejsi-ceskou-firmou-je-kretinskeho-eph-40608319",
-      "published_utc": "2026-11-12T19:30:00Z",
-      "title_en": "Nejhodnotnější českou firmou je Křetínského EPH",
-      "lead_en": "Do čela žebříčku nejhodnotnějších českých firem se poprvé vyhoupl Energetický a průmyslový holding Daniela Křetínského. Druhou a třetí nejcennější firmou s domácími majiteli jsou skupiny PPF a CSG.",
-      "title_raw": "Nejhodnotnější českou firmou je Křetínského EPH",
-      "lead_raw": "Do čela žebříčku nejhodnotnějších českých firem se poprvé vyhoupl Energetický a průmyslový holding Daniela Křetínského. Druhou a třetí nejcennější firmou s domácími majiteli jsou skupiny PPF a CSG.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "8355a34c0aae3a0a32b925ca420a506d0fdbb651",
-      "fingerprint": "71ad5fdf5b433393115c82354d1768caa778e694",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/revue/spolecnost/uz-nejsem-holka-z-pelisku-boom-na-startu-kariery-me-mrzi-rika-badinkova-novakova.A261112_984897_lidicky_poch",
-      "published_utc": "2026-11-12T19:00:00Z",
-      "title_en": "Už nejsem holka z Pelíšků, boom na startu kariéry mě mrzí, říká Badinková Nováková",
-      "lead_en": "Přestože od premiéry Pelíšků uplynulo víc než čtvrt století, role Jindřišky ji provází dodnes. Teď konečně dostává prostor ukázat, jak rozmanité polohy umí zahrát.",
-      "title_raw": "Už nejsem holka z Pelíšků, boom na startu kariéry mě mrzí, říká Badinková Nováková",
-      "lead_raw": "Přestože od premiéry Pelíšků uplynulo víc než čtvrt století, role Jindřišky ji provází dodnes. Teď konečně dostává prostor ukázat, jak rozmanité polohy umí zahrát.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "8e473aa321d40666170564023193ffff7f18a296",
-      "fingerprint": "6afd927934baf236f457e7ad7f6a481d9ee75d0e",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-ceska-elita-2026-zebricek-nejhodnotnejsi-firmy-320222",
-      "published_utc": "2026-11-12T18:57:10Z",
-      "title_en": "Kdo je Česká elita 2026: Křetínský vyhrává, už je větší než PPF",
-      "lead_en": "Seznam Zprávy vydávají nový žebříček největších českých firem. Jejich hodnota neustále roste, vítězem je energetický holding EPH.",
-      "title_raw": "Kdo je Česká elita 2026: Křetínský vyhrává, už je větší než PPF",
-      "lead_raw": "Seznam Zprávy vydávají nový žebříček největších českých firem. Jejich hodnota neustále roste, vítězem je energetický holding EPH.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "339d4b81153b6f5fd02fe3d3fa30eb02e54ca1f3",
-      "fingerprint": "2449b57d603601d95d60a587f18e280b12530477",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/domaci/analytici-pohonne-hmoty-budou-dal-zlevnovat-tempo-ale-zpomali.A261112_180707_eko-zahranicni_sahu",
-      "published_utc": "2026-11-12T18:20:00Z",
-      "title_en": "Paliva dál zlevňují. Konec vládních opatření může rozdíl smazat, varuje expert",
-      "lead_en": "Pohonné hmoty by podle analytiků měly nadále zlevňovat. Tempo poklesu cen ale zřejmě zpomalí.",
-      "title_raw": "Paliva dál zlevňují. Konec vládních opatření může rozdíl smazat, varuje expert",
-      "lead_raw": "Pohonné hmoty by podle analytiků měly nadále zlevňovat. Tempo poklesu cen ale zřejmě zpomalí.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ee6814f40a7a94257662442499b831fec842de92",
-      "fingerprint": "2231999930c718d2f453b47ca3e82148355de211",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-francouzsky-krajne-levicovy-politik-melenchon-ma-zakaz-vstupu-do-izraele-320421",
-      "published_utc": "2026-11-12T18:19:41Z",
-      "title_en": "Francouzský krajně levicový politik Mélenchon má zákaz vstupu do Izraele",
-      "lead_en": "Izrael podle agentury AFP zakázal vstup na své území francouzskému krajně levicovému politikovi Jeanu-Lucu Mélenchonovi. Lídr strany Nepodrobená Francie a možný kandidát na prezidenta dlouhodobě zastává propalestinské postoje.",
-      "title_raw": "Francouzský krajně levicový politik Mélenchon má zákaz vstupu do Izraele",
-      "lead_raw": "Izrael podle agentury AFP zakázal vstup na své území francouzskému krajně levicovému politikovi Jeanu-Lucu Mélenchonovi. Lídr strany Nepodrobená Francie a možný kandidát na prezidenta dlouhodobě zastává propalestinské postoje.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "be4de7ad986955a9f22a6dd40d44bef8af719a75",
-      "fingerprint": "e5e4d8f3e5288fb0a34f02225ab84c4aebd9acab",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/karel-havlicek-vlada-ukrajina-delegace-vicepremier-podnikatele.A261112_164614_domaci_linh/foto",
-      "published_utc": "2026-11-12T18:06:00Z",
-      "title_en": "OBRAZEM: Podnikatelské fórum i jednání o obnově. Havlíček navštívil Ukrajinu",
-      "lead_en": "Vicepremiér Karel Havlíček (ANO) vyrazil na Ukrajinu s dosud největší podnikatelskou misí. Jednal o energetické spolupráci i o možných dodávkách českých letounů.",
-      "title_raw": "OBRAZEM: Podnikatelské fórum i jednání o obnově. Havlíček navštívil Ukrajinu",
-      "lead_raw": "Vicepremiér Karel Havlíček (ANO) vyrazil na Ukrajinu s dosud největší podnikatelskou misí. Jednal o energetické spolupráci i o možných dodávkách českých letounů.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "7b6eab4e32f1534a558e0a90c0cf7d5dc4bf0fcf",
-      "fingerprint": "187280e3e99edc10d5ee8958cabdd200541730cf",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-havlicek-cesi-by-mohli-dodavat-soucastky-pro-ukrajinske-jaderne-elektrarny-320422",
-      "published_utc": "2026-11-12T18:05:05Z",
-      "title_en": "Havlíček: Češi by mohli dodávat součástky pro ukrajinské jaderné elektrárny",
-      "lead_en": "České podniky by se mohly podílet na dodávkách součástek pro ukrajinské jaderné elektrárny i na obnově tamní přenosové soustavy. Po jednáních s ukrajinskou vládou v Kyjevě to řekl ministr průmyslu a obchodu Karel Havlíček.",
-      "title_raw": "Havlíček: Češi by mohli dodávat součástky pro ukrajinské jaderné elektrárny",
-      "lead_raw": "České podniky by se mohly podílet na dodávkách součástek pro ukrajinské jaderné elektrárny i na obnově tamní přenosové soustavy. Po jednáních s ukrajinskou vládou v Kyjevě to řekl ministr průmyslu a obchodu Karel Havlíček.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
