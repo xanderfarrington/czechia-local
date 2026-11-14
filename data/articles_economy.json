@@ -1,10 +1,55 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-14T11:49:53Z",
+  "updated_at_utc": "2026-11-14T17:23:30Z",
   "topic": "economy",
-  "count": 32,
+  "count": 29,
   "articles": [
+    {
+      "id": "1409644dbb9b08a7fa74b8e11f19a570f471829b",
+      "fingerprint": "04416762effd253c9fe633e06a3c5fcedf13fb4a",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/huang-nvidia-spacex-musk-obchod-x-usa-dohoda.A261114_172947_zahranicni_votr",
+      "published_utc": "2026-11-14T16:43:00Z",
+      "title_en": "Nvidia přijde kvůli rezignaci Huanga o klíčové obchody, tvrdí Musk",
+      "lead_en": "Americký výrobce čipů Nvidia bez svého bývalého ředitele Jensena Huanga přijde o některé klíčové obchody, uvedl v sobotu šéf společností Tesla a SpaceX Elon Musk. Podle něj se řada takových obchodů opírala o ústní dohodu, nikoli o písemnou smlouvu.",
+      "title_raw": "Nvidia přijde kvůli rezignaci Huanga o klíčové obchody, tvrdí Musk",
+      "lead_raw": "Americký výrobce čipů Nvidia bez svého bývalého ředitele Jensena Huanga přijde o některé klíčové obchody, uvedl v sobotu šéf společností Tesla a SpaceX Elon Musk. Podle něj se řada takových obchodů opírala o ústní dohodu, nikoli o písemnou smlouvu.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "c3881be6c54350c4da6d430f30f911ee7702eebd",
+      "fingerprint": "128d6545fecb5fb425033a50ea8619b47de738a1",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/rusky-sen-se-rozplyva-nahradit-americky-dolar-cinskym-juanem-se-nedari.A261111_160027_eko-zahranicni_jla",
+      "published_utc": "2026-11-14T14:00:00Z",
+      "title_en": "Ruský sen se rozplývá. Nahradit americký dolar čínským jüanem se nedaří",
+      "lead_en": "Rusko chtělo po útoku na Ukrajinu nahradit dolar čínským jüanem. Plán však narazil na americké sankce a obavy čínských bank.",
+      "title_raw": "Ruský sen se rozplývá. Nahradit americký dolar čínským jüanem se nedaří",
+      "lead_raw": "Rusko chtělo po útoku na Ukrajinu nahradit dolar čínským jüanem. Plán však narazil na americké sankce a obavy čínských bank.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "cd6f4823b8fb29002401f899bc022582bb75d62a",
       "fingerprint": "be49d89fedfedb828d6f83b5ca343053c9a1b5f4",
@@ -617,117 +662,6 @@
         "economy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "d0337ea6a8e7e002f15127c6099432b47142ea26",
-      "fingerprint": "20c7095f1506fbd3f92fbdc96d25d3b2d2402ffc",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/velke-farmaceuticke-spolecnosti-ztraceji-ze-zretele-nejchudsi-pacienty-sveta-379556",
-      "published_utc": "2026-11-12T14:55:38Z",
-      "title_en": "Velké farmaceutické společnosti ztrácejí ze zřetele nejchudší pacienty světa",
-      "lead_en": "Švýcarské farmaceutické společnosti Novartis a&nbsp;Roche patří k&nbsp;několika málo farmaceutickým gigantům, kteří stále investují do zajištění přístupu k&nbsp;lékům v&nbsp;chudších zemích. Geopolitické napětí, obchodní tlak ze strany USA a&nbsp;rostoucí zaměření na bohaté trhy však ohrožují dosažený pokrok.",
-      "title_raw": "Velké farmaceutické společnosti ztrácejí ze zřetele nejchudší pacienty světa",
-      "lead_raw": "Švýcarské farmaceutické společnosti Novartis a&nbsp;Roche patří k&nbsp;několika málo farmaceutickým gigantům, kteří stále investují do zajištění přístupu k&nbsp;lékům v&nbsp;chudších zemích. Geopolitické napětí, obchodní tlak ze strany USA a&nbsp;rostoucí zaměření na bohaté trhy však ohrožují dosažený pokrok.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "ea8885f0b82607351eec118afdc3955fabbd4d8b",
-      "fingerprint": "60127ac233074135ab075b6c8070bec98ab12b86",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/internet-a-pc-bezpecnost-utoku-kybersmejdu-pribyva-ochranit-penize-muze-nekolik-jednoduchych-pravidel-40608258",
-      "published_utc": "2026-11-12T13:10:00Z",
-      "title_en": "Útoků kyberšmejdů přibývá, ochránit peníze může několik jednoduchých pravidel",
-      "lead_en": "Kyberpodvodníci okradli v prvních třech čtvrtletích bankovní klienty o 2,2 miliardy korun. To je o 0,7 miliardy více než za stejné období loňského roku, a dokonce dvojnásobek toho, co předloni.",
-      "title_raw": "Útoků kyberšmejdů přibývá, ochránit peníze může několik jednoduchých pravidel",
-      "lead_raw": "Kyberpodvodníci okradli v prvních třech čtvrtletích bankovní klienty o 2,2 miliardy korun. To je o 0,7 miliardy více než za stejné období loňského roku, a dokonce dvojnásobek toho, co předloni.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "788de6a6f73b6894b6771fe6cc31c4fcac09dcae",
-      "fingerprint": "ee2f33ea2df32b4dd3afa9d0edcbfc0437ce93d0",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/cestovani-nejvetsi-postel-v-oblacich-singapurske-aerolinky-ukazaly-novou-prvni-tridu-40607791",
-      "published_utc": "2026-11-12T12:35:00Z",
-      "title_en": "Největší postel v oblacích. Singapurské aerolinky ukázaly novou první třídu",
-      "lead_en": "Dopravce Singapore Airlines plánuje rozsáhlou modernizaci interiérů letadel pro dálkové lety. Investice přesáhne dvě miliardy singapurských dolarů (zhruba 33 miliard korun) a dotkne se všech cestovních tříd.",
-      "title_raw": "Největší postel v oblacích. Singapurské aerolinky ukázaly novou první třídu",
-      "lead_raw": "Dopravce Singapore Airlines plánuje rozsáhlou modernizaci interiérů letadel pro dálkové lety. Investice přesáhne dvě miliardy singapurských dolarů (zhruba 33 miliard korun) a dotkne se všech cestovních tříd.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "d9c290dea46a087927a41d231adb7293a0c690dc",
-      "fingerprint": "0874a1549556f90597a3fdb01e34e9666cb2d5af",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/internet-a-pc-bezpecnost-zaplatil-za-drevo-na-zimu-dostal-sotva-ctvrtinu-prodejce-se-odmlcel-40608248",
-      "published_utc": "2026-11-12T12:02:00Z",
-      "title_en": "Zaplatil za dřevo na zimu, dostal sotva čtvrtinu. Prodejce se odmlčel",
-      "lead_en": "Výhodný nákup palivového dřeva skončil pro seniora z Přerovska ztrátou 33 tisíc korun. Prodejce na internetovém Marketplace ho nalákal i na množstevní slevu, místo zaplacených 33,5 kubíku dřeva mu ale dodal jen osm.",
-      "title_raw": "Zaplatil za dřevo na zimu, dostal sotva čtvrtinu. Prodejce se odmlčel",
-      "lead_raw": "Výhodný nákup palivového dřeva skončil pro seniora z Přerovska ztrátou 33 tisíc korun. Prodejce na internetovém Marketplace ho nalákal i na množstevní slevu, místo zaplacených 33,5 kubíku dřeva mu ale dodal jen osm.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "ed60128f08af6733857e6e5cdcf49ba51df69999",
-      "fingerprint": "9110b395e16f67a74eeed35050d0ab29279d9588",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-ukrajina-ma-zajem-o-ceske-skyfoxy-mohla-by-dostat-16-letounu-rekl-havlicek-320373",
-      "published_utc": "2026-11-12T12:00:31Z",
-      "title_en": "Ukrajina má zájem o české skyfoxy. Mohla by dostat 16 letounů, řekl Havlíček",
-      "lead_en": "Český ministr průmyslu a obchodu byl na podnikatelské misi na Ukrajině. S ukrajinským premiérem jednal o dodání dalších dvanácti letounů skyfox.",
-      "title_raw": "Ukrajina má zájem o české skyfoxy. Mohla by dostat 16 letounů, řekl Havlíček",
-      "lead_raw": "Český ministr průmyslu a obchodu byl na podnikatelské misi na Ukrajině. S ukrajinským premiérem jednal o dodání dalších dvanácti letounů skyfox.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }

@@ -1,10 +1,144 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-14T11:49:53Z",
+  "updated_at_utc": "2026-11-14T17:23:30Z",
   "topic": "energy",
-  "count": 72,
+  "count": 70,
   "articles": [
+    {
+      "id": "9ee6ba0fbcff29858b6306179b4f892add0f10d8",
+      "fingerprint": "d821e3aed85a34a0496e4062ebfa6d1a244dc0d9",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/pardubice/zpravy/muz-v-kukle-a-se-zbrani-v-hlinsku-tvrdil-ze-delal-znamemu-bodyguarda.A261114_152000_pardubice-zpravy_ichuc",
+      "published_utc": "2026-11-14T14:32:00Z",
+      "title_en": "Bral peníze v bance, chtěl jsem známému dělat ochranku, vysvětloval muž v kukle",
+      "lead_en": "Sedmašedesátiletý muž, který se v pátek v kukle a s plynovou zbraní pohyboval po Hlinsku na Chrudimsku, tvrdí, že chtěl dělat osobního strážce svému známému. Toho v bance spatřil při výběru peněz a nabídl mu ochranu, uvedl policejní mluvčí Tomáš Dub.",
+      "title_raw": "Bral peníze v bance, chtěl jsem známému dělat ochranku, vysvětloval muž v kukle",
+      "lead_raw": "Sedmašedesátiletý muž, který se v pátek v kukle a s plynovou zbraní pohyboval po Hlinsku na Chrudimsku, tvrdí, že chtěl dělat osobního strážce svému známému. Toho v bance spatřil při výběru peněz a nabídl mu ochranu, uvedl policejní mluvčí Tomáš Dub.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "95a6bf4c5657842ffb0a0c61452a2a3683b4098b",
+      "fingerprint": "7fc87051403d71e51a7511b6578378d143e3596c",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-rajchlovi-se-jako-vestci-moc-nedari-pad-vlady-ted-neocekava-40607630",
+      "published_utc": "2026-11-14T14:19:17Z",
+      "title_en": "Rajchlovi se jako věštci moc nedaří, pád vlády teď neočekává",
+      "lead_en": "Pád vlády během několika měsíců, sto tisíc lidí na demonstraci, pohonné hmoty za 150 korun za litr nebo konec českých jaderných elektráren bez spolupráce s Ruskem. Poslanec a předseda strany PRO Jindřich Rajchl v posledních letech zveřejnil řadu velmi konkrétních prognóz a varování, která se v podobě, v níž je formuloval, nenaplnila.",
+      "title_raw": "Rajchlovi se jako věštci moc nedaří, pád vlády teď neočekává",
+      "lead_raw": "Pád vlády během několika měsíců, sto tisíc lidí na demonstraci, pohonné hmoty za 150 korun za litr nebo konec českých jaderných elektráren bez spolupráce s Ruskem. Poslanec a předseda strany PRO Jindřich Rajchl v posledních letech zveřejnil řadu velmi konkrétních prognóz a varování, která se v podobě, v níž je formuloval, nenaplnila.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "529c574162cfbe6dad33794d65e23a9fcffadc82",
+      "fingerprint": "f407611281bf4d174d9ed79a2ecc6a23ebf51d35",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/eph-neuspel-v-soutezi-na-prodej-nemecke-statni-firmy-uniper-pisi-agentury/2902066",
+      "published_utc": "2026-11-14T13:29:00Z",
+      "title_en": "EPH neuspěl v soutěži na prodej německé státní firmy Uniper, píší agentury",
+      "lead_en": "Berlín - Skupina EPH českého miliardáře Daniela Křetínského neuspěla v soutěži na převzetí německé státní energetické firmy Uniper. S odkazem na své zdroje o tom dnes informují agentury Reuters a Bloomberg....",
+      "title_raw": "EPH neuspěl v soutěži na prodej německé státní firmy Uniper, píší agentury",
+      "lead_raw": "Berlín - Skupina EPH českého miliardáře Daniela Křetínského neuspěla v soutěži na převzetí německé státní energetické firmy Uniper. S odkazem na své zdroje o tom dnes informují agentury Reuters a Bloomberg....",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "8300a896041bee9bdfc5f163f53665b655def3a9",
+      "fingerprint": "72d6c92df189c2c8ed1bbcee2a96f56d17a927f2",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/kultura-filmy-serialy-reziser-bohdan-slama-dasa-havlova-a-zuza-kronerova-k-sobe-hezky-ladi-40607378",
+      "published_utc": "2026-11-14T13:11:00Z",
+      "title_en": "Režisér Bohdan Sláma: Dáša Havlová a Zuza Kronerová k sobě hezky ladí",
+      "lead_en": "Scházíme se v budově České televize. Do jejího pořadu Sám doma přišel režisér Bohdan Sláma propagovat svou novinku, film Houpačky.",
+      "title_raw": "Režisér Bohdan Sláma: Dáša Havlová a Zuza Kronerová k sobě hezky ladí",
+      "lead_raw": "Scházíme se v budově České televize. Do jejího pořadu Sám doma přišel režisér Bohdan Sláma propagovat svou novinku, film Houpačky.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "91b9d2ba0bf329ff419c147301fe219f5fe3ed51",
+      "fingerprint": "534d3f292070044ca49ed637e5309f5499a5acc5",
+      "source": "České noviny / ČTK - Czech Republic",
+      "url": "https://www.ceskenoviny.cz/zpravy/muz-v-kukle-a-se-zbrani-v-hlinsku-tvrdil-ze-delal-znamemu-bodyguarda/2902058",
+      "published_utc": "2026-11-14T12:56:00Z",
+      "title_en": "Muž v kukle a se zbraní v Hlinsku tvrdil, že dělal známému bodyguarda",
+      "lead_en": "Hlinsko (Chrudimsko) - Sedmašedesátiletý muž, který se v pátek v kukle a s plynovou zbraní pohyboval po Hlinsku na Chrudimsku, tvrdí, že chtěl dělat osobního strážce svému známému. Toho v bance spatřil...",
+      "title_raw": "Muž v kukle a se zbraní v Hlinsku tvrdil, že dělal známému bodyguarda",
+      "lead_raw": "Hlinsko (Chrudimsko) - Sedmašedesátiletý muž, který se v pátek v kukle a s plynovou zbraní pohyboval po Hlinsku na Chrudimsku, tvrdí, že chtěl dělat osobního strážce svému známému. Toho v bance spatřil...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "db347f03f39b09835cfea268d92096f667c433ed",
+      "fingerprint": "1df877e3d1e6badfec8382e1c687845c9d7e91b1",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-drahe-energie-ohrozuji-sedm-z-deseti-ceskych-firem-40607801",
+      "published_utc": "2026-11-14T12:03:08Z",
+      "title_en": "Drahé energie ohrožují sedm z deseti českých firem",
+      "lead_en": "Vysoké ceny energií a surovin považuje za jednu z největších hrozeb pro své podnikání 71 procent malých a středních firem a podnikatelů v Česku. Obávají se dopadů probíhajících válečných konfliktů, které ceny komodit ovlivňují.",
+      "title_raw": "Drahé energie ohrožují sedm z deseti českých firem",
+      "lead_raw": "Vysoké ceny energií a surovin považuje za jednu z největších hrozeb pro své podnikání 71 procent malých a středních firem a podnikatelů v Česku. Obávají se dopadů probíhajících válečných konfliktů, které ceny komodit ovlivňují.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "c62650335a4a1261d032f80c4790714ad3f6b77c",
       "fingerprint": "ace1090a75903ca54f23713c9baa4a4b8e6b2464",
@@ -1449,186 +1583,6 @@
         "economy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "a4a40ba5b75a5426544d681c13123bda646e9f9a",
-      "fingerprint": "47e8a37c1a7f7fecd207863d429fddd4e3fcde4b",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-v-krakove-se-opet-strilelo-strelce-zadrzela-policie-nikdo-nebyl-zranen-40608378",
-      "published_utc": "2026-11-12T17:08:26Z",
-      "title_en": "V Krakově se opět střílelo, útočníka zadržela policie",
-      "lead_en": "V polském Krakově 39letý muž vypálil dvě rány na policisty, kteří odpověděli výstražnými výstřely a pak muže zadrželi. Během incidentu se nikomu nic nestalo, protože muž střílel z plynové zbraně, informovala polská média.",
-      "title_raw": "V Krakově se opět střílelo, útočníka zadržela policie",
-      "lead_raw": "V polském Krakově 39letý muž vypálil dvě rány na policisty, kteří odpověděli výstražnými výstřely a pak muže zadrželi. Během incidentu se nikomu nic nestalo, protože muž střílel z plynové zbraně, informovala polská média.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "1a3a3f8da7b695d34e0b4d3ff7857be37783726b",
-      "fingerprint": "6de76c4237a454ae8e7cff30860acad012de8ccd",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-witkoff-evropane-se-zucastni-dalsiho-jednani-o-ukonceni-valky-na-ukrajine-40608371",
-      "published_utc": "2026-11-12T16:33:55Z",
-      "title_en": "Witkoff: Evropané se zúčastní dalšího jednání o ukončení války na Ukrajině",
-      "lead_en": "Evropské země se připojí k další schůzce o možnostech ukončení ruské války na Ukrajině, řekl po jednání v Kremlu americký zmocněnec Steve Witkoff. Ten za ruským prezidentem Vladimirem Putinem přiletěl po trojstranných jednáních mezi zástupci Ruska, Ukrajiny a USA v Abú Zabí.",
-      "title_raw": "Witkoff: Evropané se zúčastní dalšího jednání o ukončení války na Ukrajině",
-      "lead_raw": "Evropské země se připojí k další schůzce o možnostech ukončení ruské války na Ukrajině, řekl po jednání v Kremlu americký zmocněnec Steve Witkoff. Ten za ruským prezidentem Vladimirem Putinem přiletěl po trojstranných jednáních mezi zástupci Ruska, Ukrajiny a USA v Abú Zabí.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "4033427aa3ee1a8a13ee9d980bd5bcbd09a5c79e",
-      "fingerprint": "e7627ee2b87e494523c447f0920ea04dd6c74c60",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/pardubice/zpravy/vetrna-elektrarna-karle-svitavsko-oprava-nahradni-dily.A261112_161043_pardubice-zpravy_lank",
-      "published_utc": "2026-11-12T16:14:00Z",
-      "title_en": "Technici oživují poškozený větrník na Svitavsku. Nakonec musí vyměnit všechny lopatky",
-      "lead_en": "Náročnou opravou v těchto dnech prochází 17 let stará větrná elektrárna v Karli na Svitavsku, ze které se loni v létě ulomila jedna z lopatek rotoru. Poškozenou vrtuli již technici sundali na zem.",
-      "title_raw": "Technici oživují poškozený větrník na Svitavsku. Nakonec musí vyměnit všechny lopatky",
-      "lead_raw": "Náročnou opravou v těchto dnech prochází 17 let stará větrná elektrárna v Karli na Svitavsku, ze které se loni v létě ulomila jedna z lopatek rotoru. Poškozenou vrtuli již technici sundali na zem.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "746df3266cb7e233f5f1bdac24d898923f80f6f2",
-      "fingerprint": "d32169feebe14ce7f4ae338b5d959138733e3821",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/veda/zdravotnictvi-tvori-pet-procent-uhlikove-stopy-lidstva-rika-lekarka-zamerila-na-to-novy-projekt-379547",
-      "published_utc": "2026-11-12T14:24:00Z",
-      "title_en": "Zdravotnictví tvoří pět procent uhlíkové stopy lidstva, říká lékařka. Zaměřila na to nový projekt",
-      "lead_en": "Až doposud se v&nbsp;Česku lidské zdraví v&nbsp;kontextu klimatu a&nbsp;životního prostředí nestudovalo. Má to změnit nový kabinet, který vznikl na Univerzitě Karlově.",
-      "title_raw": "Zdravotnictví tvoří pět procent uhlíkové stopy lidstva, říká lékařka. Zaměřila na to nový projekt",
-      "lead_raw": "Až doposud se v&nbsp;Česku lidské zdraví v&nbsp;kontextu klimatu a&nbsp;životního prostředí nestudovalo. Má to změnit nový kabinet, který vznikl na Univerzitě Karlově.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ef5feae82f11716b42702e26c5615e9641818655",
-      "fingerprint": "4e5205fb9deef1a67daf2acc8acb33b3eb100610",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/paliva-v-cr-od-minuleho-tydne-zlevnila-o-vice-nez-dve-koruny-na-litru/2901193",
-      "published_utc": "2026-11-12T13:43:00Z",
-      "title_en": "Paliva v ČR od minulého týdne zlevnila o více než dvě koruny na litru",
-      "lead_en": "Praha - Pohonné hmoty v ČR v uplynulém týdnu výrazně zlevnily. Průměrná cena nejprodávanějšího benzinu Natural 95 od minulé středy klesla o 2,69 koruny na 39,70 koruny za litr.",
-      "title_raw": "Paliva v ČR od minulého týdne zlevnila o více než dvě koruny na litru",
-      "lead_raw": "Praha - Pohonné hmoty v ČR v uplynulém týdnu výrazně zlevnily. Průměrná cena nejprodávanějšího benzinu Natural 95 od minulé středy klesla o 2,69 koruny na 39,70 koruny za litr.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "4dfd06c82da2abeb391915bd249e1b8572585a96",
-      "fingerprint": "0d51dd3206af40ef6aa430fdbcc9017c6602f6f0",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-nove-cenove-stropy-pro-paliva-klesly-u-nafty-opet-vyrazneji-40608295",
-      "published_utc": "2026-11-12T13:07:49Z",
-      "title_en": "Nové cenové stropy pro paliva klesly. U nafty opět výrazněji",
-      "lead_en": "Ministerstvo financí ve čtvrtek zveřejnilo cenové stropy na pohonné hmoty, které budou v platnosti v pátek. Benzín se bude moci prodávat maximálně za 40,65 koruny za litr, nafta za 45,49 koruny za litr.",
-      "title_raw": "Nové cenové stropy pro paliva klesly. U nafty opět výrazněji",
-      "lead_raw": "Ministerstvo financí ve čtvrtek zveřejnilo cenové stropy na pohonné hmoty, které budou v platnosti v pátek. Benzín se bude moci prodávat maximálně za 40,65 koruny za litr, nafta za 45,49 koruny za litr.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "226b4c2d065dc0ac9299622bd0e890d14b5e677b",
-      "fingerprint": "6a746fcea55229f1fe716340b6e1009452ae2422",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-jedname-s-evropany-o-bezpecnostni-architekture-kontinentu-rekl-kushner-u-putina-40608300",
-      "published_utc": "2026-11-12T12:36:50Z",
-      "title_en": "Jednáme s Evropany o bezpečnostní architektuře kontinentu, řekl Kushner u Putina",
-      "lead_en": "Ruský prezident Vladimir Putin ve čtvrtek přijal americké vyjednavače Jareda Kusnera a Stevea Witkoffa. Šéfovi Kremlu řekli, že s Evropany začali jednat o „bezpečnostní architektuře“ na kontinentu.",
-      "title_raw": "Jednáme s Evropany o bezpečnostní architektuře kontinentu, řekl Kushner u Putina",
-      "lead_raw": "Ruský prezident Vladimir Putin ve čtvrtek přijal americké vyjednavače Jareda Kusnera a Stevea Witkoffa. Šéfovi Kremlu řekli, že s Evropany začali jednat o „bezpečnostní architektuře“ na kontinentu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "d9c290dea46a087927a41d231adb7293a0c690dc",
-      "fingerprint": "0874a1549556f90597a3fdb01e34e9666cb2d5af",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/internet-a-pc-bezpecnost-zaplatil-za-drevo-na-zimu-dostal-sotva-ctvrtinu-prodejce-se-odmlcel-40608248",
-      "published_utc": "2026-11-12T12:02:00Z",
-      "title_en": "Zaplatil za dřevo na zimu, dostal sotva čtvrtinu. Prodejce se odmlčel",
-      "lead_en": "Výhodný nákup palivového dřeva skončil pro seniora z Přerovska ztrátou 33 tisíc korun. Prodejce na internetovém Marketplace ho nalákal i na množstevní slevu, místo zaplacených 33,5 kubíku dřeva mu ale dodal jen osm.",
-      "title_raw": "Zaplatil za dřevo na zimu, dostal sotva čtvrtinu. Prodejce se odmlčel",
-      "lead_raw": "Výhodný nákup palivového dřeva skončil pro seniora z Přerovska ztrátou 33 tisíc korun. Prodejce na internetovém Marketplace ho nalákal i na množstevní slevu, místo zaplacených 33,5 kubíku dřeva mu ale dodal jen osm.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
