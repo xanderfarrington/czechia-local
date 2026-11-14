@@ -1,10 +1,77 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-14T04:49:12Z",
+  "updated_at_utc": "2026-11-14T11:49:53Z",
   "topic": "economy",
-  "count": 36,
+  "count": 32,
   "articles": [
+    {
+      "id": "cd6f4823b8fb29002401f899bc022582bb75d62a",
+      "fingerprint": "be49d89fedfedb828d6f83b5ca343053c9a1b5f4",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/podcasty-policheck-kratka-pamet-kupka-se-pohorsuje-nad-lex-orlen-sam-mimoradnou-dan-hajil-40608620",
+      "published_utc": "2026-11-14T11:44:28Z",
+      "title_en": "Krátká paměť? Kupka se pohoršuje nad lex Orlen, sám mimořádnou daň hájil",
+      "lead_en": "Předseda ODS Martin Kupka kritizuje chystané mimořádné zdanění rafinérií, tedy takzvanou windfall tax. Podle něj si vláda vybrala jednu firmu a ušila na ni daň.",
+      "title_raw": "Krátká paměť? Kupka se pohoršuje nad lex Orlen, sám mimořádnou daň hájil",
+      "lead_raw": "Předseda ODS Martin Kupka kritizuje chystané mimořádné zdanění rafinérií, tedy takzvanou windfall tax. Podle něj si vláda vybrala jednu firmu a ušila na ni daň.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "875ca97afced4905f44863e8d9fdd81097e2715d",
+      "fingerprint": "e16fcc903ef188a9298852f21b158bb4382e0f9a",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-rozhovory-financni-sef-cez-uhli-ma-pred-sebou-jeste-lepsi-rok-pak-se-vyhled-nemeni-320515",
+      "published_utc": "2026-11-14T10:05:56Z",
+      "title_en": "Finanční šéf ČEZ: Uhlí má před sebou ještě lepší rok. Pak se výhled nemění",
+      "lead_en": "ČEZ letos vyrobí více elektřiny z uhlí než loni. I přes vyšší výrobu a příznivou situaci na trhu zisk fosilních elektráren klesá.",
+      "title_raw": "Finanční šéf ČEZ: Uhlí má před sebou ještě lepší rok. Pak se výhled nemění",
+      "lead_raw": "ČEZ letos vyrobí více elektřiny z uhlí než loni. I přes vyšší výrobu a příznivou situaci na trhu zisk fosilních elektráren klesá.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "868d36d6a24fdba0b494ae36a4660036bc6694e3",
+      "fingerprint": "a370cb19a795090a0125ad5762ca00196da1e59d",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/potravinovym-bankam-dochazeji-zasoby-sobotni-sbirka-zapojuje-rekordni-pocet-obchodu-379491",
+      "published_utc": "2026-11-14T06:00:00Z",
+      "title_en": "Potravinovým bankám docházejí zásoby. Sobotní sbírka zapojuje rekordní počet obchodů",
+      "lead_en": "Lidé mohou opět darovat potraviny potřebným. Podzimní část Sbírky potravin se v&nbsp;sobotu 14.&nbsp;listopadu koná ve více než 3560 prodejnách, což je dosud nejvíce v&nbsp;historii podzimních sbírek.",
+      "title_raw": "Potravinovým bankám docházejí zásoby. Sobotní sbírka zapojuje rekordní počet obchodů",
+      "lead_raw": "Lidé mohou opět darovat potraviny potřebným. Podzimní část Sbírky potravin se v&nbsp;sobotu 14.&nbsp;listopadu koná ve více než 3560 prodejnách, což je dosud nejvíce v&nbsp;historii podzimních sbírek.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "dd8194b98a605b41c74e3316512a6a5db01c7f9d",
       "fingerprint": "1e067a310ce17067bce944aac7e1bffc6ef61f94",
@@ -661,163 +728,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "b3adb7faf2b494fa3265190db97c3ac581041bc2",
-      "fingerprint": "89d2bb69e4b8147b83eb3a5d4b0dac80efab7638",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-sesti-nejvetsim-bankam-v-cr-stoupl-cisty-zisk-o-osm-procent-na-744-miliard-320370",
-      "published_utc": "2026-11-12T11:19:27Z",
-      "title_en": "Šesti největším bankám v ČR stoupl čistý zisk o osm procent na 74,4 miliard",
-      "lead_en": "Šestici největších tuzemských bank stoupl v prvních třech čtvrtletích letošního roku čistý zisk o osm procent na 74,4 miliardy korun. Loni ve stejném období to bylo 68,8 miliardy Kč, předloni 63,3 miliardy korun.",
-      "title_raw": "Šesti největším bankám v ČR stoupl čistý zisk o osm procent na 74,4 miliard",
-      "lead_raw": "Šestici největších tuzemských bank stoupl v prvních třech čtvrtletích letošního roku čistý zisk o osm procent na 74,4 miliardy korun. Loni ve stejném období to bylo 68,8 miliardy Kč, předloni 63,3 miliardy korun.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "b95ec5193d8c9ab3dfab783b1295d14bf024cd33",
-      "fingerprint": "097eaa09e1115e803784b929eee70947edb96049",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/sesti-nejvetsim-bankam-v-cr-stoupl-cisty-zisk-na-744-mld-kc/2901069",
-      "published_utc": "2026-11-12T11:04:00Z",
-      "title_en": "Šesti největším bankám v ČR stoupl čistý zisk na 74,4 mld. Kč",
-      "lead_en": "Praha - Šestici největších tuzemských bank stoupl v prvních třech čtvrtletích letošního roku čistý zisk o osm procent na 74,4 miliardy korun. Loni ve stejném období to bylo 68,8 miliardy korun, předloni...",
-      "title_raw": "Šesti největším bankám v ČR stoupl čistý zisk na 74,4 mld. Kč",
-      "lead_raw": "Praha - Šestici největších tuzemských bank stoupl v prvních třech čtvrtletích letošního roku čistý zisk o osm procent na 74,4 miliardy korun. Loni ve stejném období to bylo 68,8 miliardy korun, předloni...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "50a1e6ebb0af1deda6a6ff15a1ed30c6e817c819",
-      "fingerprint": "4ef3fea8302f64ba79f490f35165afbfee6ede18",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/aero-potvrdilo-zajem-ukrajiny-o-skyfoxy-vyuzit-by-mohla-cvicnou-i-bojovou-verzi/2901060",
-      "published_utc": "2026-11-12T10:50:00Z",
-      "title_en": "Aero potvrdilo zájem Ukrajiny o skyfoxy, využít by mohla cvičnou i bojovou verzi",
-      "lead_en": "Odolena Voda (u Prahy) - Výrobce letadel Aero dnes potvrdil zájem Ukrajiny o skyfoxy, využít by mohla cvičnou i bojovou konfiguraci strojů, řekl ČTK mluvčí Aera Lukáš Hora. Český ministr průmyslu a obchodu...",
-      "title_raw": "Aero potvrdilo zájem Ukrajiny o skyfoxy, využít by mohla cvičnou i bojovou verzi",
-      "lead_raw": "Odolena Voda (u Prahy) - Výrobce letadel Aero dnes potvrdil zájem Ukrajiny o skyfoxy, využít by mohla cvičnou i bojovou konfiguraci strojů, řekl ČTK mluvčí Aera Lukáš Hora. Český ministr průmyslu a obchodu...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "964ebc7949cabbfa156401d6175072b8f42ff352",
-      "fingerprint": "3d0a7e57c1bb5725d04cb24b2fc0c08bbfdbdbbe",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-aero-potvrdilo-zajem-ukrajiny-o-skyfoxy-40608250",
-      "published_utc": "2026-11-12T10:34:39Z",
-      "title_en": "Aero potvrdilo zájem Ukrajiny o skyfoxy",
-      "lead_en": "Výrobce letadel Aero ve čtvrtek potvrdil zájem Ukrajiny o skyfoxy, využít by mohla cvičnou i bojovou konfiguraci strojů, řekl mluvčí Aera Lukáš Hora. Český ministr průmyslu a obchodu Karel Havlíček (ANO) ve středu při podnikatelské misi na Ukrajině oznámil možnost dodání 16 skyfoxů.",
-      "title_raw": "Aero potvrdilo zájem Ukrajiny o skyfoxy",
-      "lead_raw": "Výrobce letadel Aero ve čtvrtek potvrdil zájem Ukrajiny o skyfoxy, využít by mohla cvičnou i bojovou konfiguraci strojů, řekl mluvčí Aera Lukáš Hora. Český ministr průmyslu a obchodu Karel Havlíček (ANO) ve středu při podnikatelské misi na Ukrajině oznámil možnost dodání 16 skyfoxů.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "5e3dad98cf06662144df5ce38b4f1cb712cf76d8",
-      "fingerprint": "83293c9a8d9dde3238150e3c9fd191b9142df312",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/cisty-zisk-csob-za-tri-ctvrtleti-stoupl-mezirocne-o-osm-procent-na-159-mld-kc/2900899",
-      "published_utc": "2026-11-12T09:26:00Z",
-      "title_en": "Čistý zisk ČSOB za tři čtvrtletí stoupl meziročně o osm procent na 15,9 mld. Kč",
-      "lead_en": "Praha - Čistý zisk bankovní skupiny ČSOB za tři čtvrtletí letošního roku stoupl meziročně o osm procent na 15,9 miliardy korun. Objem úvěrů stoupl o devět procent na 1,133 bilionu.",
-      "title_raw": "Čistý zisk ČSOB za tři čtvrtletí stoupl meziročně o osm procent na 15,9 mld. Kč",
-      "lead_raw": "Praha - Čistý zisk bankovní skupiny ČSOB za tři čtvrtletí letošního roku stoupl meziročně o osm procent na 15,9 miliardy korun. Objem úvěrů stoupl o devět procent na 1,133 bilionu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "24ef4b11578801973fa5a7c17c242f7e920538bf",
-      "fingerprint": "5930e5f621d435ca895fbc77488ab2d2569978bc",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/skopecek-ma-sektorovou-dan-za-ekonomicke-zlo-paril-by-u-bank-hledal-jinou-cestu-379537",
-      "published_utc": "2026-11-12T09:22:51Z",
-      "title_en": "Skopeček má sektorovou daň za ekonomické zlo. Pařil by u bank hledal jinou cestu",
-      "lead_en": "Vláda vážně zvažuje zavedení sektorových daní pro banky nebo zbrojařské a&nbsp;energetické společnosti, potvrdil ve středu premiér Andrej Babiš (ANO). Vynést by to prý mělo nižší desítky miliard korun, kabinet by je rád využil hlavně v&nbsp;roce 2028.",
-      "title_raw": "Skopeček má sektorovou daň za ekonomické zlo. Pařil by u bank hledal jinou cestu",
-      "lead_raw": "Vláda vážně zvažuje zavedení sektorových daní pro banky nebo zbrojařské a&nbsp;energetické společnosti, potvrdil ve středu premiér Andrej Babiš (ANO). Vynést by to prý mělo nižší desítky miliard korun, kabinet by je rád využil hlavně v&nbsp;roce 2028.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 4,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "5d8cb17c39086604650b9cf99ffe639807470a83",
-      "fingerprint": "5c3507d7da272e8ca81e285e6ff5731167a49440",
-      "source": "iROZHLAS - Economy",
-      "url": "https://www.irozhlas.cz/ekonomika/cez-za-tri-ctvrtleti-navysil-cisty-zisk-vydelal-pres-26-miliard-napomohl-tomu_2611120752_bva",
-      "published_utc": "2026-11-12T06:52:00Z",
-      "title_en": "ČEZ za tři čtvrtletí navýšil čistý zisk, vydělal přes 26 miliard. Napomohl tomu konec výběru windfall tax",
-      "lead_en": "Energetická skupina ČEZ za tři čtvrtletí letošního roku vydělala 26,6 miliardy korun. Čistý zisk společnosti tak meziročně vzrostl o 24 procent.",
-      "title_raw": "ČEZ za tři čtvrtletí navýšil čistý zisk, vydělal přes 26 miliard. Napomohl tomu konec výběru windfall tax",
-      "lead_raw": "Energetická skupina ČEZ za tři čtvrtletí letošního roku vydělala 26,6 miliardy korun. Čistý zisk společnosti tak meziročně vzrostl o 24 procent.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
