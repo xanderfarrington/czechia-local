@@ -1,10 +1,34 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-13T23:58:41Z",
+  "updated_at_utc": "2026-11-14T04:49:12Z",
   "topic": "energy",
   "count": 76,
   "articles": [
+    {
+      "id": "af12a08c2fa0e65eb6b084e6fb4dd2a19ac88469",
+      "fingerprint": "98577b19ece1f00495b7ce0e9ee1aba2a750c018",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/trump-se-ve-ctvrtek-setka-se-si-tin-pchingem-a-putinem-tematem-budou-jaderne-zbrane.A261114_014836_zahranicni_air",
+      "published_utc": "2026-11-14T01:28:00Z",
+      "title_en": "Trump se ve čtvrtek setká se Si Ťin-pchingem a Putinem, tématem budou jaderné zbraně",
+      "lead_en": "Americký prezident Donald Trump se ve čtvrtek na okraj summitu APEC v jihočínském Šen-čenu setká s čínským prezidentem Si Ťin-pchingem a ruským prezidentem Vladimirem Putinem, přičemž trilaterální jednání se má zaměřit mimo jiné na omezení jaderných zbraní a situaci kolem Íránu.",
+      "title_raw": "Trump se ve čtvrtek setká se Si Ťin-pchingem a Putinem, tématem budou jaderné zbraně",
+      "lead_raw": "Americký prezident Donald Trump se ve čtvrtek na okraj summitu APEC v jihočínském Šen-čenu setká s čínským prezidentem Si Ťin-pchingem a ruským prezidentem Vladimirem Putinem, přičemž trilaterální jednání se má zaměřit mimo jiné na omezení jaderných zbraní a situaci kolem Íránu.",
+      "topic_scores": {
+        "diplomacy": 3,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "7184e1338a454566a3ca5dc147f8f0d1d34b47cd",
       "fingerprint": "ab70fcbb7c16851510f71116cf311fe7e3a4f2d9",
@@ -1686,28 +1710,6 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "1aedaa8d39b56993133fa159e102b1137f9048ea",
-      "fingerprint": "b1e4d66f283f2e04ce0bf9840cbe4d9cad869244",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-drive-usetrili-ted-plati-nejvic-lide-s-mesicni-fixaci-elektriny-krvaceji-320303",
-      "published_utc": "2026-11-12T04:30:00Z",
-      "title_en": "Dříve ušetřili, teď platí nejvíc. Lidé s měsíční fixací elektřiny krvácejí",
-      "lead_en": "Ceny energií rostou a nejvíce to pociťují zákazníci s cenou fixovanou jen na měsíc. Dříve sice z tohoto produktu profitovali a v levných měsících ušetřili.",
-      "title_raw": "Dříve ušetřili, teď platí nejvíc. Lidé s měsíční fixací elektřiny krvácejí",
-      "lead_raw": "Ceny energií rostou a nejvíce to pociťují zákazníci s cenou fixovanou jen na měsíc. Dříve sice z tohoto produktu profitovali a v levných měsících ušetřili.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
         "economy": 0,
         "local_events": 0
       },
