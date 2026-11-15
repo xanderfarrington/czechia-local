@@ -1,10 +1,54 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-15T01:23:53Z",
+  "updated_at_utc": "2026-11-15T08:31:35Z",
   "topic": "diplomacy",
   "count": 48,
   "articles": [
+    {
+      "id": "b70e417f77cb6fcceb58e9279922ba97377fcd75",
+      "fingerprint": "aa61a22322cfbf2e031295fce16063f277af49c3",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-demonstranti-v-san-francisku-zadali-dohodu-o-zastaveni-zavodu-ve-vyvoji-ai-320552",
+      "published_utc": "2026-11-15T07:56:54Z",
+      "title_en": "Demonstranti v San Francisku žádali dohodu o zastavení závodů ve vývoji AI",
+      "lead_en": "Zákaz vývoje superinteligence, která by mohla ohrozit budoucnost lidstva, požadovali demonstranti před sídlem firmy OpenAI. Hnutí Stop The AI Race vyzývá prezidenty USA a Číny před jejich nadcházejícím setkáním.",
+      "title_raw": "Demonstranti v San Francisku žádali dohodu o zastavení závodů ve vývoji AI",
+      "lead_raw": "Zákaz vývoje superinteligence, která by mohla ohrozit budoucnost lidstva, požadovali demonstranti před sídlem firmy OpenAI. Hnutí Stop The AI Race vyzývá prezidenty USA a Číny před jejich nadcházejícím setkáním.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "ca4ad17eabe788e5cbc792a8a81e1c47c16b3b16",
+      "fingerprint": "9a21e7c7669ab21d0a44974a2637965c9ec07967",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-trump-by-to-mel-jednodussi-kdyby-iran-ignoroval-soudi-rubio-40608658",
+      "published_utc": "2026-11-15T03:41:00Z",
+      "title_en": "Trump by to měl jednodušší, kdyby Írán ignoroval, soudí Rubio",
+      "lead_en": "Americký ministr zahraničí Marco Rubio je přesvědčen, že prezident Donald Trump by měl mnohem jednodušší situaci, kdyby Írán hned od začátku ignoroval. Šéf americké diplomacie se tak vyjádřil v projevu před členy The Federalist Society, vlivné americké konzervativní a libertariánské organizace sdružující právníky, akademiky, soudce a studenty práv.",
+      "title_raw": "Trump by to měl jednodušší, kdyby Írán ignoroval, soudí Rubio",
+      "lead_raw": "Americký ministr zahraničí Marco Rubio je přesvědčen, že prezident Donald Trump by měl mnohem jednodušší situaci, kdyby Írán hned od začátku ignoroval. Šéf americké diplomacie se tak vyjádřil v projevu před členy The Federalist Society, vlivné americké konzervativní a libertariánské organizace sdružující právníky, akademiky, soudce a studenty práv.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "ca6de3a150f2ce6c605cbd94c353bb5a8757cb92",
       "fingerprint": "f6db58adb0e761510e83d9215b918f0dd58c9a45",
@@ -1043,50 +1087,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "e2a96190697e35af7b40d5005287ee44e875b51a",
-      "fingerprint": "8f087b2050feb43194a59fcf37d84e923e212490",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/soudy-uz-pres-rok-mohou-naridit-vystehovani-najemniku-nekdy-se-tomu-vyhybaji-zni_2611130749_vsn",
-      "published_utc": "2026-11-13T07:00:00Z",
-      "title_en": "Soudy už přes rok mohou nařídit vystěhování nájemníků. ‚Někdy se tomu vyhýbají,‘ zní z Asociace",
-      "lead_en": "Soudy mohou už téměř rok nařídit nájemníkům bez platné smlouvy vystěhovat se z bytu díky novému nástroji. Takzvaný rozkaz k vyklizení měl celý proces zrychlit.",
-      "title_raw": "Soudy už přes rok mohou nařídit vystěhování nájemníků. ‚Někdy se tomu vyhýbají,‘ zní z Asociace",
-      "lead_raw": "Soudy mohou už téměř rok nařídit nájemníkům bez platné smlouvy vystěhovat se z bytu díky novému nástroji. Takzvaný rozkaz k vyklizení měl celý proces zrychlit.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "4c57520a4027d5ed47a68138d33ca8bec719b7a7",
-      "fingerprint": "c79f8b392dd81bcc9e3df22e645fabb7a8c7eb5d",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/-zelenskyj-v-dublinu-jednal-s-babisem-o-podpore-ukrajiny/2900531",
-      "published_utc": "2026-11-13T04:50:00Z",
-      "title_en": "Zelenskyj v Dublinu jednal s Babišem o podpoře Ukrajiny",
-      "lead_en": "Dublin - Ukrajinský prezident Volodymyr Zelenskyj se na summitu v Dublinu setkal s českým premiérem Andrejem Babišem. Jednali spolu o hospodářské spolupráci, evropské integraci Ukrajiny a možnostech další...",
-      "title_raw": "Zelenskyj v Dublinu jednal s Babišem o podpoře Ukrajiny",
-      "lead_raw": "Dublin - Ukrajinský prezident Volodymyr Zelenskyj se na summitu v Dublinu setkal s českým premiérem Andrejem Babišem. Jednali spolu o hospodářské spolupráci, evropské integraci Ukrajiny a možnostech další...",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }

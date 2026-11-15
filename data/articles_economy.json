@@ -1,10 +1,33 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-15T01:23:53Z",
+  "updated_at_utc": "2026-11-15T08:31:35Z",
   "topic": "economy",
-  "count": 22,
+  "count": 20,
   "articles": [
+    {
+      "id": "8f0c3f647039d12050316597206e7bc0d20ad3ff",
+      "fingerprint": "01dd71c04a1a05bd931112ca5b772e8886117760",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-zbrojari-uz-tvori-sestinu-nejhodnotnejsich-firem-v-ceske-elite-320510",
+      "published_utc": "2026-11-15T06:19:40Z",
+      "title_en": "Zbrojaři už tvoří šestinu nejhodnotnějších firem v České elitě",
+      "lead_en": "Prvenství mezi firmami obranného průmyslu obhájila v žebříčku Česká elita skupina CSG, která skončila na celkovém třetím místě. Hodnota zbrojařských firem dosáhla 629 miliard korun.",
+      "title_raw": "Zbrojaři už tvoří šestinu nejhodnotnějších firem v České elitě",
+      "lead_raw": "Prvenství mezi firmami obranného průmyslu obhájila v žebříčku Česká elita skupina CSG, která skončila na celkovém třetím místě. Hodnota zbrojařských firem dosáhla 629 miliard korun.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 1
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "0f69f0617382336fbd1fdc3a0d3ddb6537017bb3",
       "fingerprint": "4dcf625e40c1eac78820c2af4a52315797ab5e71",
@@ -433,73 +456,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "33e3be7d5d5fbd2925bcb1f25fff58be12d74dc6",
-      "fingerprint": "ba3e77f0c7e9d3225294a5cbf83f81879aac563e",
-      "source": "iROZHLAS - Economy",
-      "url": "https://www.irozhlas.cz/ekonomika/zdrazovani-se-promita-se-zpozdenim-banky-v-rijnu-poskytly-hypoteky-za-372_2611130735_raf",
-      "published_utc": "2026-11-13T06:35:00Z",
-      "title_en": "‚Zdražování se promítá se zpožděním.‘ Banky v říjnu poskytly hypotéky za 37,2 miliardy korun",
-      "lead_en": "Banky a stavební spořitelny poskytly v říjnu hypoteční úvěry za 37,2 miliardy korun, což bylo o pět procent více než v září. Ve srovnání s loňským říjnem jde o pokles o čtyři procenta.",
-      "title_raw": "‚Zdražování se promítá se zpožděním.‘ Banky v říjnu poskytly hypotéky za 37,2 miliardy korun",
-      "lead_raw": "Banky a stavební spořitelny poskytly v říjnu hypoteční úvěry za 37,2 miliardy korun, což bylo o pět procent více než v září. Ve srovnání s loňským říjnem jde o pokles o čtyři procenta.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "5da3f6c892bb6ae05c2b80e095f9b129af4baae6",
-      "fingerprint": "956550aa9793c5129a2121c580199d8356397a3b",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/banky-v-rijnu-poskytly-hypoteky-za-372-miliardy-kc-mezimesicne-vice/2901450",
-      "published_utc": "2026-11-13T05:01:00Z",
-      "title_en": "Banky v říjnu poskytly hypotéky za 37,2 miliardy Kč, meziměsíčně více",
-      "lead_en": "Praha - Banky a stavební spořitelny poskytly v říjnu hypoteční úvěry za 37,2 miliardy korun, což bylo o pět procent více než v září. Ve srovnání s loňským říjnem jde o pokles o čtyři procenta.",
-      "title_raw": "Banky v říjnu poskytly hypotéky za 37,2 miliardy Kč, meziměsíčně více",
-      "lead_raw": "Praha - Banky a stavební spořitelny poskytly v říjnu hypoteční úvěry za 37,2 miliardy korun, což bylo o pět procent více než v září. Ve srovnání s loňským říjnem jde o pokles o čtyři procenta.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "aee8e7fd346c9e5faad1208f59ba422ee68e4fcb",
-      "fingerprint": "99a7d48bfd461377acb3dc2991aeec4437557aac",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/dovoz-ruskeho-lng-do-eu-roste-ukazuji-data-organizace-urgewald/2901437",
-      "published_utc": "2026-11-13T04:30:00Z",
-      "title_en": "Dovoz ruského LNG do EU roste, ukazují data organizace Urgewald",
-      "lead_en": "Berlín - Evropská unie od ledna do října dovezla ruský zkapalněný zemní plyn (LNG) z Arktidy za zhruba 8,7 miliardy eur (211 miliard korun), což je o 21 procent více než za celý loňský rok. Informace...",
-      "title_raw": "Dovoz ruského LNG do EU roste, ukazují data organizace Urgewald",
-      "lead_raw": "Berlín - Evropská unie od ledna do října dovezla ruský zkapalněný zemní plyn (LNG) z Arktidy za zhruba 8,7 miliardy eur (211 miliard korun), což je o 21 procent více než za celý loňský rok. Informace...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
