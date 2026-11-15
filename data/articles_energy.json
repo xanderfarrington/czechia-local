@@ -1,10 +1,146 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-15T08:31:35Z",
+  "updated_at_utc": "2026-11-15T15:56:10Z",
   "topic": "energy",
-  "count": 55,
+  "count": 38,
   "articles": [
+    {
+      "id": "a89864251f534b60f9f631b063912033fad7f79c",
+      "fingerprint": "29f4f578cd6a01a90c42adf12febdf0a22b18739",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-ukrajinci-zasahli-tri-ruske-strategicke-tovarny-40608774",
+      "published_utc": "2026-11-15T15:40:41Z",
+      "title_en": "Ukrajinci zasáhli tři ruské strategické továrny",
+      "lead_en": "Ukrajinské síly v noci na neděli zaútočily na ropnou rafinerii TIF-NK a petrochemický komplex Nižněkamskněftěchim v Tatarstánu. Zároveň udeřily na podnik Monolit, který se specializuje na výrobu zbraňových systémů pro vrtulníky a náhradních dílů do nich v ruské Brjanské oblasti.",
+      "title_raw": "Ukrajinci zasáhli tři ruské strategické továrny",
+      "lead_raw": "Ukrajinské síly v noci na neděli zaútočily na ropnou rafinerii TIF-NK a petrochemický komplex Nižněkamskněftěchim v Tatarstánu. Zároveň udeřily na podnik Monolit, který se specializuje na výrobu zbraňových systémů pro vrtulníky a náhradních dílů do nich v ruské Brjanské oblasti.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "2673b845e2cd06bffca6b34f1674f96fb12bff6c",
+      "fingerprint": "04a1b7ee8efdb79a0dc87c38b0c3e5a891551cf2",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/zelenskyj-starshield-spacex-ukrajina-rusko-valka.A261115_140452_zahranicni_jhr",
+      "published_utc": "2026-11-15T14:32:00Z",
+      "title_en": "Omezení Starshieldu pomáhá Rusku zasahovat Ukrajinu, uvedl Zelenskyj",
+      "lead_en": "Ruská armáda v noci na neděli zaútočila na energetickou a železniční infrastrukturu v osmi ukrajinských regionech. Uvedl to ukrajinský prezident Volodymyr Zelenskyj.",
+      "title_raw": "Omezení Starshieldu pomáhá Rusku zasahovat Ukrajinu, uvedl Zelenskyj",
+      "lead_raw": "Ruská armáda v noci na neděli zaútočila na energetickou a železniční infrastrukturu v osmi ukrajinských regionech. Uvedl to ukrajinský prezident Volodymyr Zelenskyj.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "3d6d493c62a56746f0392b7ffa1d26e30ef75656",
+      "fingerprint": "98b2e91b2fbf165c26f202c01c2d6d12ddceb82e",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-vznikla-prvni-predvolebni-koalice-na-slovensku-simeckovo-ps-a-nadovi-demokrati-pujdou-spolecne-40608699",
+      "published_utc": "2026-11-15T13:48:42Z",
+      "title_en": "Vznikla první předvolební koalice na Slovensku. Šimečkovo PS a Naďovi Demokrati půjdou společně",
+      "lead_en": "Progresivní Slovensko a Demokrati vytvoří koalici pro slovenské parlamentní volby v roce 2027. Chtějí přesvědčivě zvítězit a zabránit propadnutí opozičních hlasů.",
+      "title_raw": "Vznikla první předvolební koalice na Slovensku. Šimečkovo PS a Naďovi Demokrati půjdou společně",
+      "lead_raw": "Progresivní Slovensko a Demokrati vytvoří koalici pro slovenské parlamentní volby v roce 2027. Chtějí přesvědčivě zvítězit a zabránit propadnutí opozičních hlasů.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "6d5fe673af2b91961adff9023a518449212f293b",
+      "fingerprint": "1be7ebfe24966e8876cbced894c6320e2d1c37fc",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-ruskym-utokum-pomaha-omezeni-provozu-starshieldu-uvedl-zelenskyj-40608732",
+      "published_utc": "2026-11-15T12:30:25Z",
+      "title_en": "Ruským útokům pomáhá omezení provozu Starshieldu, uvedl Zelenskyj",
+      "lead_en": "Ruská armáda v noci na neděli útočila na energetickou a železniční infrastrukturu v osmi ukrajinských regionech. Informoval o tom ukrajinský prezident Volodymyr Zelenskyj.",
+      "title_raw": "Ruským útokům pomáhá omezení provozu Starshieldu, uvedl Zelenskyj",
+      "lead_raw": "Ruská armáda v noci na neděli útočila na energetickou a železniční infrastrukturu v osmi ukrajinských regionech. Informoval o tom ukrajinský prezident Volodymyr Zelenskyj.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "0aa77ec326c2729668da1b862dcc401cff1eb58b",
+      "fingerprint": "f093631fe96c31d7a5f76bcaa27b3e8ff377a7a0",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/sektorove-dane-jsou-spatne-mini-skopecek-murova-argumentuje-nadziskem-rafinerii-379628",
+      "published_utc": "2026-11-15T12:16:49Z",
+      "title_en": "Sektorové daně jsou špatně, míní Skopeček. Murová argumentuje „nadziskem“ rafinerií",
+      "lead_en": "Vláda vážně zvažuje zavedení sektorových daní pro banky nebo zbrojařské a&nbsp;energetické firmy. Vynést to má nižší desítky miliard korun, kabinet by je rád využil zejména v&nbsp;roce 2028 ke snížení schodku veřejných financí.",
+      "title_raw": "Sektorové daně jsou špatně, míní Skopeček. Murová argumentuje „nadziskem“ rafinerií",
+      "lead_raw": "Vláda vážně zvažuje zavedení sektorových daní pro banky nebo zbrojařské a&nbsp;energetické firmy. Vynést to má nižší desítky miliard korun, kabinet by je rád využil zejména v&nbsp;roce 2028 ke snížení schodku veřejných financí.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "3e011a0d842169f95dcff20227d8fff99a405b22",
+      "fingerprint": "ac203d3ec24a84c2c298f1afa7984cbc52ea22dd",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/auto-letani-na-baterky-40608705",
+      "published_utc": "2026-11-15T09:30:10Z",
+      "title_en": "Auta byla jen začátek. Čína zkouší létání na baterky",
+      "lead_en": "Elektřina už dávno nepohání jen auta. Čína nyní posunula o krok dál také vývoj letadla na baterie, které má v budoucnu přepravovat 19 cestujících mezi městy.",
+      "title_raw": "Auta byla jen začátek. Čína zkouší létání na baterky",
+      "lead_raw": "Elektřina už dávno nepohání jen auta. Čína nyní posunula o krok dál také vývoj letadla na baterie, které má v budoucnu přepravovat 19 cestujících mezi městy.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "8225e232767cad2ec857822309c44fd8b793a5bf",
       "fingerprint": "80ac0adc5dc3ecb0c55229db0cf74092855a8ab1",
@@ -720,527 +856,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "9f1c9aad54548a52624a818e02171de8a76d4425",
-      "fingerprint": "bb07b2071450181516e11c18387f3db8f8278fa5",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-dodavatel-innogy-od-pristiho-roku-zdrazi-elektrinu-a-plyn-bez-fixace-320513",
-      "published_utc": "2026-11-13T15:22:30Z",
-      "title_en": "Dodavatel innogy od příštího roku zdraží elektřinu a plyn bez fixace",
-      "lead_en": "Innogy od začátku příštího roku zvýší cenu energií zákazníkům se smlouvou na dobu neurčitou. Z důvodu napjaté situace na trhu zdražují i další dodavatelé.",
-      "title_raw": "Dodavatel innogy od příštího roku zdraží elektřinu a plyn bez fixace",
-      "lead_raw": "Innogy od začátku příštího roku zvýší cenu energií zákazníkům se smlouvou na dobu neurčitou. Z důvodu napjaté situace na trhu zdražují i další dodavatelé.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "3dfe28a51ad0879bbf0e2b5f5d00492b0335e052",
-      "fingerprint": "4d902758b0b63e28cca7f2ed1c8071ca903f5347",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/innogy-zdrazi-energie-zakaznikum-bez-zavazku-379600",
-      "published_utc": "2026-11-13T15:15:57Z",
-      "title_en": "Innogy zdraží energie zákazníkům bez závazku",
-      "lead_en": "Energetická společnost innogy od příštího roku zdraží dodávky energií zákazníkům se smlouvou na dobu neurčitou. Cenu elektřiny bez fixace oproti letošku zvýší o&nbsp;150 korun bez DPH za spotřebovanou megawatthodinu (MWh).",
-      "title_raw": "Innogy zdraží energie zákazníkům bez závazku",
-      "lead_raw": "Energetická společnost innogy od příštího roku zdraží dodávky energií zákazníkům se smlouvou na dobu neurčitou. Cenu elektřiny bez fixace oproti letošku zvýší o&nbsp;150 korun bez DPH za spotřebovanou megawatthodinu (MWh).",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 3,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "acca23e68e41e8a27dd48bf62b36b39b65d23dba",
-      "fingerprint": "88044088a6350b4d53d12122cddb91324afb0305",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/domaci/innogy-zdrazeni-elektrina-plyn.A261113_155045_ekonomika_rie",
-      "published_utc": "2026-11-13T15:09:00Z",
-      "title_en": "Innogy mění ceníky. Zdraží plyn i elektřinu zákazníkům se smlouvou bez fixace",
-      "lead_en": "Energetická společnost innogy v příštím roce zdraží dodávky energií zákazníkům se smlouvou na dobu neurčitou. Cenu elektřiny bez fixace proti letošku zvýší o 150 korun bez DPH za spotřebovanou megawatthodinu (MWh).",
-      "title_raw": "Innogy mění ceníky. Zdraží plyn i elektřinu zákazníkům se smlouvou bez fixace",
-      "lead_raw": "Energetická společnost innogy v příštím roce zdraží dodávky energií zákazníkům se smlouvou na dobu neurčitou. Cenu elektřiny bez fixace proti letošku zvýší o 150 korun bez DPH za spotřebovanou megawatthodinu (MWh).",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 3,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "340b36c34fd29f4ffe125cbc1ff426ca5919a81c",
-      "fingerprint": "c50969cf84ad43ad662469346d66e648d82d1180",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-rusky-agent-vybudoval-pro-ceske-komunisty-propagandisticke-weby-40608555",
-      "published_utc": "2026-11-13T14:52:35Z",
-      "title_en": "Ruský agent vybudoval pro české komunisty propagandistické weby",
-      "lead_en": "Americký propagandista John Mark Dougan, který žije v Rusku a řídí jej tajné služby FSB a GRU, vybudoval pro české komunisty proruské a pročínské propagandistické weby. Odhalila to investigativa Seznam Zpráv, podle níž tím čeští komunisté mohli porušit sankce, které na Dougana uvalila EU.",
-      "title_raw": "Ruský agent vybudoval pro české komunisty propagandistické weby",
-      "lead_raw": "Americký propagandista John Mark Dougan, který žije v Rusku a řídí jej tajné služby FSB a GRU, vybudoval pro české komunisty proruské a pročínské propagandistické weby. Odhalila to investigativa Seznam Zpráv, podle níž tím čeští komunisté mohli porušit sankce, které na Dougana uvalila EU.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "4d1c70020461cea75d03102079f78a88bd500d5d",
-      "fingerprint": "4285d0c88bf8ceabd184ffa2bdc2f6ac28911881",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/dodavatel-innogy-zdrazi-elektrinu-a-plyn-bez-fixace/2901739",
-      "published_utc": "2026-11-13T14:47:00Z",
-      "title_en": "Dodavatel innogy zdraží elektřinu a plyn bez fixace",
-      "lead_en": "Praha - Energetická společnost innogy v příštím roce zdraží dodávky energií zákazníkům se smlouvou na dobu neurčitou. Cenu elektřiny bez fixace oproti letošku zvýší o 150 korun bez DPH za spotřebovanou...",
-      "title_raw": "Dodavatel innogy zdraží elektřinu a plyn bez fixace",
-      "lead_raw": "Praha - Energetická společnost innogy v příštím roce zdraží dodávky energií zákazníkům se smlouvou na dobu neurčitou. Cenu elektřiny bez fixace oproti letošku zvýší o 150 korun bez DPH za spotřebovanou...",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 3,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "75aef78e07029faf16d5266c22b12d4ea91dfc5f",
-      "fingerprint": "f63bb5accd931f4ffd96dd2eb513a94482814019",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-firma-innogy-od-ledna-zdrazi-energie-40608572",
-      "published_utc": "2026-11-13T14:44:55Z",
-      "title_en": "Innogy od ledna zdraží",
-      "lead_en": "Energetická společnost innogy od začátku příštího roku zdraží dodávky energií zákazníkům se smlouvou na dobu neurčitou. Cenu elektřiny bez fixace oproti letošku zvýší o 150 korun bez DPH za spotřebovanou megawatthodinu (MWh).",
-      "title_raw": "Innogy od ledna zdraží",
-      "lead_raw": "Energetická společnost innogy od začátku příštího roku zdraží dodávky energií zákazníkům se smlouvou na dobu neurčitou. Cenu elektřiny bez fixace oproti letošku zvýší o 150 korun bez DPH za spotřebovanou megawatthodinu (MWh).",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "3c282272607ba4059ec108505445c6d4c6182431",
-      "fingerprint": "154c4dadb967145c03472b45bfc3e89f6dae3c3a",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-evropa-ziskala-vytouzene-misto-v-jednani-o-miru-ale-nevi-kym-ho-obsadit-320456",
-      "published_utc": "2026-11-13T14:20:00Z",
-      "title_en": "Evropa získala vytoužené místo v jednání o míru. Ale neví, kým ho obsadit",
-      "lead_en": "Sedmadvacítka stále nenašla shodu ohledně toho, kdo ji bude zastupovat během ukrajinských mírových jednání. Jedni vhodného kandidáta vidí v neutrálním Costovi, jiní za nejpovolanější považují vůči Rusku neúprosnou Kallasovou.",
-      "title_raw": "Evropa získala vytoužené místo v jednání o míru. Ale neví, kým ho obsadit",
-      "lead_raw": "Sedmadvacítka stále nenašla shodu ohledně toho, kdo ji bude zastupovat během ukrajinských mírových jednání. Jedni vhodného kandidáta vidí v neutrálním Costovi, jiní za nejpovolanější považují vůči Rusku neúprosnou Kallasovou.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "29e860c6d451c278ac4985ee4b2a6d8ff926c30b",
-      "fingerprint": "8740491803ee92ea6be9ce917d1bfda392b6e025",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-takhle-to-tu-delaji-vsichni-ponor-do-sachty-ukazuje-co-sledovat-pod-povrchem-320442",
-      "published_utc": "2026-11-13T14:00:00Z",
-      "title_en": "Pod povrch. Kdybychom komentovali každou vládní urážku, neděláme nic jiného",
-      "lead_en": "V den, kdy se Petr Macinka omlouval za svůj odpudivý výrok na adresu hokejistek, vyšel první díl investigativní série SZ „Šachta“ o budování dobrých vztahů mezi politiky a firmou ČEZ. Lze na tom dobře ilustrovat, co je podstatné.",
-      "title_raw": "Pod povrch. Kdybychom komentovali každou vládní urážku, neděláme nic jiného",
-      "lead_raw": "V den, kdy se Petr Macinka omlouval za svůj odpudivý výrok na adresu hokejistek, vyšel první díl investigativní série SZ „Šachta“ o budování dobrých vztahů mezi politiky a firmou ČEZ. Lze na tom dobře ilustrovat, co je podstatné.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "89e18d0c6811bf1c646c1490cd760a26aaeb0534",
-      "fingerprint": "517a50f925c696d5ae21d9aab5e9423ba725041e",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-dan-pro-rafinerie-miri-ke-schvalovani-dalsi-odvetvi-jsou-zatim-usetrena-40608556",
-      "published_utc": "2026-11-13T13:53:38Z",
-      "title_en": "Daň pro rafinerie míří ke schvalování, další odvětví jsou zatím ušetřena",
-      "lead_en": "Vládní návrh na mimořádné zdanění rafinérií míří po pátečním druhém čtení ve Sněmovně k závěrečnému schvalování. Poslanci by o něm mohli rozhodnout už na schůzi, která začne 24.",
-      "title_raw": "Daň pro rafinerie míří ke schvalování, další odvětví jsou zatím ušetřena",
-      "lead_raw": "Vládní návrh na mimořádné zdanění rafinérií míří po pátečním druhém čtení ve Sněmovně k závěrečnému schvalování. Poslanci by o něm mohli rozhodnout už na schůzi, která začne 24.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "c71b970c2da5eaa1c5d7602577283544f2672638",
-      "fingerprint": "344156e3e469c9f69200394b3af8f4d9ea63a0ca",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/maximalni-ceny-paliv-o-vikendu-opet-klesnou-benzin-bude-nejvyse-za-4050-kcl-/2899499",
-      "published_utc": "2026-11-13T13:06:00Z",
-      "title_en": "Maximální ceny paliv o víkendu opět klesnou, benzin bude nejvýše za 40,50 Kč/l",
-      "lead_en": "Praha - Nejvyšší povolené ceny pohonných hmot, které denně stanovuje ministerstvo financí, o víkendu opět klesnou. U nafty se cenový strop oproti dnešku sníží o 11 haléřů na 45,38 koruny za litr, maximální...",
-      "title_raw": "Maximální ceny paliv o víkendu opět klesnou, benzin bude nejvýše za 40,50 Kč/l",
-      "lead_raw": "Praha - Nejvyšší povolené ceny pohonných hmot, které denně stanovuje ministerstvo financí, o víkendu opět klesnou. U nafty se cenový strop oproti dnešku sníží o 11 haléřů na 45,38 koruny za litr, maximální...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "25f397d01cb67826ff6de04a01bf4a27c3795d26",
-      "fingerprint": "63e48dbda77fa45c449d211d71de8b9ffe65138a",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/schillerova-vlada-musi-brzy-rozhodnout-zda-prodlouzi-opatreni-u-paliv/2901670",
-      "published_utc": "2026-11-13T12:53:00Z",
-      "title_en": "Schillerová: Vláda musí brzy rozhodnout, zda prodlouží opatření u paliv",
-      "lead_en": "Praha - Vláda by měla brzy rozhodnout, zda prodlouží opatření proti vyšším cenám pohonných hmot. Při dnešním druhém sněmovním čtení návrhu na zavedení mimořádné daně na rafinerie to uvedla ministryně...",
-      "title_raw": "Schillerová: Vláda musí brzy rozhodnout, zda prodlouží opatření u paliv",
-      "lead_raw": "Praha - Vláda by měla brzy rozhodnout, zda prodlouží opatření proti vyšším cenám pohonných hmot. Při dnešním druhém sněmovním čtení návrhu na zavedení mimořádné daně na rafinerie to uvedla ministryně...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "17e85cca84217459b1bbe20ab9dffd20547b147e",
-      "fingerprint": "48b5eba3bb18147f44141238f6bac98978d75730",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/cesko-v-zime-ceka-vice-srazek-s-vyssimi-teplotami-prijde-dest-hlasi-projekt_2611131324_bod",
-      "published_utc": "2026-11-13T12:24:00Z",
-      "title_en": "Česko v zimě čeká více srážek, s vyššími teplotami přijde déšť, hlásí projekt InterSucho",
-      "lead_en": "Česko a celá střední Evropa má podle aktuálního předpovědního modelu šanci, že zimní měsíce budou srážkově nadprůměrné proti průměru let 1993 až 2015. Srážek by mohlo být více až o 50 milimetrů, což, jak zdůrazňují tvůrci projektu InterSucho z ústavu CzechGlobe, není málo.",
-      "title_raw": "Česko v zimě čeká více srážek, s vyššími teplotami přijde déšť, hlásí projekt InterSucho",
-      "lead_raw": "Česko a celá střední Evropa má podle aktuálního předpovědního modelu šanci, že zimní měsíce budou srážkově nadprůměrné proti průměru let 1993 až 2015. Srážek by mohlo být více až o 50 milimetrů, což, jak zdůrazňují tvůrci projektu InterSucho z ústavu CzechGlobe, není málo.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "7137b41d3952b4e9d2b2f173129a74d04778efaf",
-      "fingerprint": "56a0843e4d1b679954de39f8c3d849153d0b33ea",
-      "source": "Radio Prague International (EN)",
-      "url": "https://english.radio.cz/babis-attend-meeting-ukraine-supporting-coalition-berlin-8902539",
-      "published_utc": "2026-11-13T11:02:00Z",
-      "title_en": "Babiš to attend meeting of Ukraine-supporting coalition in Berlin",
-      "lead_en": "Babiš to attend meeting of Ukraine-supporting coalition in Berlin",
-      "title_raw": "Babiš to attend meeting of Ukraine-supporting coalition in Berlin",
-      "lead_raw": "Babiš to attend meeting of Ukraine-supporting coalition in Berlin",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3f1e163487107b7a854c588c6766f2f40e1e9eb8",
-      "fingerprint": "970b11efc502c539cf65a054224765e29652419a",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/stredni-evropa-vcetne-cr-ma-sanci-na-nadprumerne-vlhkou-zimu/2901554",
-      "published_utc": "2026-11-13T10:12:00Z",
-      "title_en": "Střední Evropa včetně ČR má šanci na nadprůměrně vlhkou zimu",
-      "lead_en": "Brno - Česko a celá střední Evropa má podle aktuálního předpovědního modelu šanci, že zimní měsíce budou srážkově nadprůměrné proti průměru let 1993 až 2015. Srážek by mohlo být více až o 50 milimetrů,...",
-      "title_raw": "Střední Evropa včetně ČR má šanci na nadprůměrně vlhkou zimu",
-      "lead_raw": "Brno - Česko a celá střední Evropa má podle aktuálního předpovědního modelu šanci, že zimní měsíce budou srážkově nadprůměrné proti průměru let 1993 až 2015. Srážek by mohlo být více až o 50 milimetrů,...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "5af2e674e9d196c3a8077ddc81cb1f6f564d2e0b",
-      "fingerprint": "7e76e1c407194dd9b7a6e5b8ca9a36f9c97f15a4",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-tarantule-uz-se-objevuji-i-v-cesku-a-podminky-jim-vyhovuji-stale-vic-320340",
-      "published_utc": "2026-11-13T10:00:00Z",
-      "title_en": "Tarantule už se objevují i v Česku a podmínky jim vyhovují stále víc",
-      "lead_en": "Tarantule, jejichž výskyt nyní hlásí Rakušané, se opakovaně objevují i na Moravě. Podle arachnologů je pro ně střední Evropa stále příhodnějším prostředím kvůli oteplení.",
-      "title_raw": "Tarantule už se objevují i v Česku a podmínky jim vyhovují stále víc",
-      "lead_raw": "Tarantule, jejichž výskyt nyní hlásí Rakušané, se opakovaně objevují i na Moravě. Podle arachnologů je pro ně střední Evropa stále příhodnějším prostředím kvůli oteplení.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "af2283f8aa8595f67367e7669e3b7500bf6cabc1",
-      "fingerprint": "233e3f5dd63d27cce40690bc194a98c27294754c",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-misto-dohodnutych-zakazek-domaci-luxus-na-ukrajine-vysetruji-moznou-zproneveru-u-staveb-proti-dronum-40608453",
-      "published_utc": "2026-11-13T09:57:38Z",
-      "title_en": "Superluxus místo dohodnutých zakázek. Na Ukrajině vyšetřují možnou zpronevěru u staveb proti dronům",
-      "lead_en": "Na Ukrajině vyšetřují možné rozkrádání peněz určených na ochranu energetických zařízení proti ruským vzdušným útokům. Při domovních prohlídkách u podezřelých objevili vyšetřovatelé okázalé pozlacené interiéry, terárium s živým krokodýlem i luxusní vůz značky Rolls-Royce, tvrdí aktivista Serhij Sternenko, který zveřejnil několik fotografií.",
-      "title_raw": "Superluxus místo dohodnutých zakázek. Na Ukrajině vyšetřují možnou zpronevěru u staveb proti dronům",
-      "lead_raw": "Na Ukrajině vyšetřují možné rozkrádání peněz určených na ochranu energetických zařízení proti ruským vzdušným útokům. Při domovních prohlídkách u podezřelých objevili vyšetřovatelé okázalé pozlacené interiéry, terárium s živým krokodýlem i luxusní vůz značky Rolls-Royce, tvrdí aktivista Serhij Sternenko, který zveřejnil několik fotografií.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "324263c5a0c4f4569f41e480bf47bcd699cb5cee",
-      "fingerprint": "9260a9ab98973f5543a1b9f4be7d48039afbf416",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-trump-pomohl-rusku-zdvojnasobit-export-nafty-usa-ale-zadnou-nedostaly-40608334",
-      "published_utc": "2026-11-13T09:55:41Z",
-      "title_en": "Trump pomohl Rusku zdvojnásobit export nafty. USA ale žádnou nedostaly",
-      "lead_en": "Americké snahy snížit cenu nafty umožnily Rusku minulý měsíc zdvojnásobit její vývoz, ačkoli žádná ze zásilek iniciovaných rozhodnutím Donalda Trumpa zrušit sankce na pohonné hmoty proti Moskvě do USA nedorazila, napsal server The Financial Times. Očekává, že zvýšení dodávek bude krátkodobé poté, co Ukrajina obnoví útoky na rafinerie.",
-      "title_raw": "Trump pomohl Rusku zdvojnásobit export nafty. USA ale žádnou nedostaly",
-      "lead_raw": "Americké snahy snížit cenu nafty umožnily Rusku minulý měsíc zdvojnásobit její vývoz, ačkoli žádná ze zásilek iniciovaných rozhodnutím Donalda Trumpa zrušit sankce na pohonné hmoty proti Moskvě do USA nedorazila, napsal server The Financial Times. Očekává, že zvýšení dodávek bude krátkodobé poté, co Ukrajina obnoví útoky na rafinerie.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "73eda3589508344163823660864581fd4778c39d",
-      "fingerprint": "3177b7402e15b1660ff0c2587646570e04459401",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/mimoradnou-dan-na-rafinerie-zaplati-lide-mini-opozice/2901415",
-      "published_utc": "2026-11-13T09:35:00Z",
-      "title_en": "Mimořádnou daň na rafinerie zaplatí lidé, míní opozice",
-      "lead_en": "Praha - Vláda zaváděním sektorových daní podle opozičních občanských demokratů vytváří nepředvídatelné prostředí pro budoucí investice a další rozvoj ekonomiky, tím poškozuje obraz fungující země. Na...",
-      "title_raw": "Mimořádnou daň na rafinerie zaplatí lidé, míní opozice",
-      "lead_raw": "Praha - Vláda zaváděním sektorových daní podle opozičních občanských demokratů vytváří nepředvídatelné prostředí pro budoucí investice a další rozvoj ekonomiky, tím poškozuje obraz fungující země. Na...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "5d81c9cc6db0d496389e4df734002d706cc27945",
-      "fingerprint": "4040845909a947298d474abde337983308342475",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/dan-pro-rafinerie-miri-ke-schvalovani-podle-orlenu-ohrozi-investice/2901415",
-      "published_utc": "2026-11-13T09:35:00Z",
-      "title_en": "Daň pro rafinerie míří ke schvalování, podle Orlenu ohrozí investice",
-      "lead_en": "Praha - Vládní návrh na zavedení mimořádné daně pro rafinerie míří po dnešku ve Sněmovně k závěrečnému schvalování. Mohlo by se odehrát na nejbližší řádné schůzi, která začne v úterý 24.",
-      "title_raw": "Daň pro rafinerie míří ke schvalování, podle Orlenu ohrozí investice",
-      "lead_raw": "Praha - Vládní návrh na zavedení mimořádné daně pro rafinerie míří po dnešku ve Sněmovně k závěrečnému schvalování. Mohlo by se odehrát na nejbližší řádné schůzi, která začne v úterý 24.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "90e734cdeee30f51cb2f3d2bb5358e71237e1257",
-      "fingerprint": "660f803c40ca76b5f1928ab78c31725f3b76eb60",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/schillerova-dan-pro-rafinerie-schuze-snemovny.A261112_205919_domaci_mul",
-      "published_utc": "2026-11-13T09:12:00Z",
-      "title_en": "Poslanci projednávají mimořádnou daň pro rafinerie. Lex Orlen, kritizuje opozice",
-      "lead_en": "V pátek se mimořádně sešla Poslanecká sněmovna. Na programu má jediný bod, a to druhé čtení vládního návrhu na zavedení speciální daně pro rafinerie.",
-      "title_raw": "Poslanci projednávají mimořádnou daň pro rafinerie. Lex Orlen, kritizuje opozice",
-      "lead_raw": "V pátek se mimořádně sešla Poslanecká sněmovna. Na programu má jediný bod, a to druhé čtení vládního návrhu na zavedení speciální daně pro rafinerie.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "14446e75b55f92aef5293fd0554bf09bf347c54a",
-      "fingerprint": "ad7f2bbf9d69b02443df443f1c82d793d4f073fd",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/volgograd-ukrajina-valka-rusko-dronovy-utok-rafinerie.A261113_090554_zahranicni_aya",
-      "published_utc": "2026-11-13T08:41:00Z",
-      "title_en": "Jeden z největších útoků. Ukrajinci zasáhli rafinerii ve Volgogradu, změnili taktiku",
-      "lead_en": "Při dronovém náletu na jihu Volgogradu zemřeli čtyři zaměstnanci průmyslové zóny a další dva utrpěli zranění. Podle neoficiálních informací se terčem stala tamní rafinerie.",
-      "title_raw": "Jeden z největších útoků. Ukrajinci zasáhli rafinerii ve Volgogradu, změnili taktiku",
-      "lead_raw": "Při dronovém náletu na jihu Volgogradu zemřeli čtyři zaměstnanci průmyslové zóny a další dva utrpěli zranění. Podle neoficiálních informací se terčem stala tamní rafinerie.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 2
-      },
-      "topics": [
-        "energy",
-        "economy",
-        "local_events"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "bfebf3a1c79cef94c870d6c6f028fdb3c6f23bea",
-      "fingerprint": "1362d42d668e8e20320b48485a336309fd75c5cb",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-a-ukrajina-hlasi-vzajemne-utoky-rafinerie-ve-volgogradu-hori-379579",
-      "published_utc": "2026-11-13T08:37:45Z",
-      "title_en": "Rusko a Ukrajina hlásí vzájemné útoky. Rafinerie ve Volgogradu hoří",
-      "lead_en": "Úřady v&nbsp;ruské Volgogradské oblasti tvrdí, že při dronovém náletu zemřeli čtyři zaměstnanci průmyslové zóny na jihu Volgogradu. Podle informací zpravodajského telegramového kanálu Exilenova+ byla cílem útoku tamní rafinerie.",
-      "title_raw": "Rusko a Ukrajina hlásí vzájemné útoky. Rafinerie ve Volgogradu hoří",
-      "lead_raw": "Úřady v&nbsp;ruské Volgogradské oblasti tvrdí, že při dronovém náletu zemřeli čtyři zaměstnanci průmyslové zóny na jihu Volgogradu. Podle informací zpravodajského telegramového kanálu Exilenova+ byla cílem útoku tamní rafinerie.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 1
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "993f54596a9ffd2034b7e4509a96b8066d47462c",
-      "fingerprint": "1f69a55081e25e96a332135e03d0ea79f7e57225",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-ochota-cechu-branit-vlast-zeslabla-slovensko-a-nemecko-jsou-na-tom-jeste-hur-320405",
-      "published_utc": "2026-11-13T08:35:00Z",
-      "title_en": "Ochota Čechů bránit vlast zeslábla. Slovensko a Německo jsou na tom ještě hůř",
-      "lead_en": "Evropa i USA se shodnou na hrozbě z Ruska i podpoře NATO a EU. Výrazné rozdíly ale panují v ochotě bránit vlastní stát – v Česku odhodlání spadlo na 55 procent.",
-      "title_raw": "Ochota Čechů bránit vlast zeslábla. Slovensko a Německo jsou na tom ještě hůř",
-      "lead_raw": "Evropa i USA se shodnou na hrozbě z Ruska i podpoře NATO a EU. Výrazné rozdíly ale panují v ochotě bránit vlastní stát – v Česku odhodlání spadlo na 55 procent.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
     }
   ]
 }

@@ -1,10 +1,56 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-15T08:31:35Z",
+  "updated_at_utc": "2026-11-15T15:56:10Z",
   "topic": "economy",
-  "count": 20,
+  "count": 13,
   "articles": [
+    {
+      "id": "0aa77ec326c2729668da1b862dcc401cff1eb58b",
+      "fingerprint": "f093631fe96c31d7a5f76bcaa27b3e8ff377a7a0",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/sektorove-dane-jsou-spatne-mini-skopecek-murova-argumentuje-nadziskem-rafinerii-379628",
+      "published_utc": "2026-11-15T12:16:49Z",
+      "title_en": "Sektorové daně jsou špatně, míní Skopeček. Murová argumentuje „nadziskem“ rafinerií",
+      "lead_en": "Vláda vážně zvažuje zavedení sektorových daní pro banky nebo zbrojařské a&nbsp;energetické firmy. Vynést to má nižší desítky miliard korun, kabinet by je rád využil zejména v&nbsp;roce 2028 ke snížení schodku veřejných financí.",
+      "title_raw": "Sektorové daně jsou špatně, míní Skopeček. Murová argumentuje „nadziskem“ rafinerií",
+      "lead_raw": "Vláda vážně zvažuje zavedení sektorových daní pro banky nebo zbrojařské a&nbsp;energetické firmy. Vynést to má nižší desítky miliard korun, kabinet by je rád využil zejména v&nbsp;roce 2028 ke snížení schodku veřejných financí.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "87144eaf11428ba3f7873a023250f19276c309f4",
+      "fingerprint": "8bc6968d2290ab2ec7332bdea663baf1e9fadffe",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-ocima-byznysu-ocima-byznysu-lepsi-nez-zaplava-dat-je-sledovat-co-vozi-nakladaky-320056",
+      "published_utc": "2026-11-15T09:37:51Z",
+      "title_en": "Lepší než záplava dat je sledovat, co vozí náklaďáky",
+      "lead_en": "Co je na „tradičním“ českém průmyslu doopravdy tradičního? V současné době jen podíl na celkové ekonomice a zaměstnanost.",
+      "title_raw": "Lepší než záplava dat je sledovat, co vozí náklaďáky",
+      "lead_raw": "Co je na „tradičním“ českém průmyslu doopravdy tradičního? V současné době jen podíl na celkové ekonomice a zaměstnanost.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 1
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "8f0c3f647039d12050316597206e7bc0d20ad3ff",
       "fingerprint": "01dd71c04a1a05bd931112ca5b772e8886117760",
@@ -247,212 +293,6 @@
         "local_events": 0
       },
       "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "f0eddb43fe0cb521ad294d15410ad30104561d04",
-      "fingerprint": "f2a84ca4a4f3919b50149259a41dbe7dfca3b2b0",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-babis-se-diva-i-na-zisky-zbrojaru-vyrobu-presuneme-jinam-varuji-320502",
-      "published_utc": "2026-11-13T15:00:00Z",
-      "title_en": "Babiš se dívá i na zisky zbrojařů. Výrobu přesuneme jinam, varují",
-      "lead_en": "Mimořádné zisky, mimořádné daně. Vláda Andreje Babiše zvažuje, že dodatečně zatíží banky a obranný průmysl.",
-      "title_raw": "Babiš se dívá i na zisky zbrojařů. Výrobu přesuneme jinam, varují",
-      "lead_raw": "Mimořádné zisky, mimořádné daně. Vláda Andreje Babiše zvažuje, že dodatečně zatíží banky a obranný průmysl.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "40b5c4f8d5dbb3f73d5e89157adf1da22f422097",
-      "fingerprint": "b1af85a8d9ebda28a2e8e3f517db95b439346a16",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/projekt-za-44-miliard-americka-spolecnost-zrusila-je-nenaplnena-prilezitost-rika_2611131248_aha",
-      "published_utc": "2026-11-13T11:48:00Z",
-      "title_en": "Projekt za 44 miliard americká společnost zrušila. Je to nenaplněná příležitost, říká starosta Rožnova",
-      "lead_en": "Rožnov pod Radhoštěm na Vsetínsku zastavil některé plánované investice na území města. Souvisí to se zrušením projektu americké společnosti ONSEMI za 44 miliard korun na rozšíření výroby čipů ve městě.",
-      "title_raw": "Projekt za 44 miliard americká společnost zrušila. Je to nenaplněná příležitost, říká starosta Rožnova",
-      "lead_raw": "Rožnov pod Radhoštěm na Vsetínsku zastavil některé plánované investice na území města. Souvisí to se zrušením projektu americké společnosti ONSEMI za 44 miliard korun na rozšíření výroby čipů ve městě.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "324263c5a0c4f4569f41e480bf47bcd699cb5cee",
-      "fingerprint": "9260a9ab98973f5543a1b9f4be7d48039afbf416",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-trump-pomohl-rusku-zdvojnasobit-export-nafty-usa-ale-zadnou-nedostaly-40608334",
-      "published_utc": "2026-11-13T09:55:41Z",
-      "title_en": "Trump pomohl Rusku zdvojnásobit export nafty. USA ale žádnou nedostaly",
-      "lead_en": "Americké snahy snížit cenu nafty umožnily Rusku minulý měsíc zdvojnásobit její vývoz, ačkoli žádná ze zásilek iniciovaných rozhodnutím Donalda Trumpa zrušit sankce na pohonné hmoty proti Moskvě do USA nedorazila, napsal server The Financial Times. Očekává, že zvýšení dodávek bude krátkodobé poté, co Ukrajina obnoví útoky na rafinerie.",
-      "title_raw": "Trump pomohl Rusku zdvojnásobit export nafty. USA ale žádnou nedostaly",
-      "lead_raw": "Americké snahy snížit cenu nafty umožnily Rusku minulý měsíc zdvojnásobit její vývoz, ačkoli žádná ze zásilek iniciovaných rozhodnutím Donalda Trumpa zrušit sankce na pohonné hmoty proti Moskvě do USA nedorazila, napsal server The Financial Times. Očekává, že zvýšení dodávek bude krátkodobé poté, co Ukrajina obnoví útoky na rafinerie.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "73eda3589508344163823660864581fd4778c39d",
-      "fingerprint": "3177b7402e15b1660ff0c2587646570e04459401",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/mimoradnou-dan-na-rafinerie-zaplati-lide-mini-opozice/2901415",
-      "published_utc": "2026-11-13T09:35:00Z",
-      "title_en": "Mimořádnou daň na rafinerie zaplatí lidé, míní opozice",
-      "lead_en": "Praha - Vláda zaváděním sektorových daní podle opozičních občanských demokratů vytváří nepředvídatelné prostředí pro budoucí investice a další rozvoj ekonomiky, tím poškozuje obraz fungující země. Na...",
-      "title_raw": "Mimořádnou daň na rafinerie zaplatí lidé, míní opozice",
-      "lead_raw": "Praha - Vláda zaváděním sektorových daní podle opozičních občanských demokratů vytváří nepředvídatelné prostředí pro budoucí investice a další rozvoj ekonomiky, tím poškozuje obraz fungující země. Na...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "5d81c9cc6db0d496389e4df734002d706cc27945",
-      "fingerprint": "4040845909a947298d474abde337983308342475",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/dan-pro-rafinerie-miri-ke-schvalovani-podle-orlenu-ohrozi-investice/2901415",
-      "published_utc": "2026-11-13T09:35:00Z",
-      "title_en": "Daň pro rafinerie míří ke schvalování, podle Orlenu ohrozí investice",
-      "lead_en": "Praha - Vládní návrh na zavedení mimořádné daně pro rafinerie míří po dnešku ve Sněmovně k závěrečnému schvalování. Mohlo by se odehrát na nejbližší řádné schůzi, která začne v úterý 24.",
-      "title_raw": "Daň pro rafinerie míří ke schvalování, podle Orlenu ohrozí investice",
-      "lead_raw": "Praha - Vládní návrh na zavedení mimořádné daně pro rafinerie míří po dnešku ve Sněmovně k závěrečnému schvalování. Mohlo by se odehrát na nejbližší řádné schůzi, která začne v úterý 24.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "bdae4eb7183dee2364fae83f01593fe44049eb18",
-      "fingerprint": "5fe1eaa72ff426ecad2cd3648ec5ab21d9eb1231",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-bratranec-chtel-mobil-za-39-tisic-a-byl-vyprodany-dokazoval-fico-zivotni-uroven-slovaku-40608261",
-      "published_utc": "2026-11-13T09:25:36Z",
-      "title_en": "Bratranec chtěl mobil za 39 tisíc a byl vyprodaný, dokazoval Fico životní úroveň Slováků",
-      "lead_en": "Slovenský premiér Robert Fico obhajoval životní úroveň v zemi příběhem svého bratrance, který si v obchodě nemohl koupit iPhone za 1600 eur (přibližně 39 tisíc korun), protože byl vyprodaný. Podle předsedy vlády je to důkaz prosperity občanů.",
-      "title_raw": "Bratranec chtěl mobil za 39 tisíc a byl vyprodaný, dokazoval Fico životní úroveň Slováků",
-      "lead_raw": "Slovenský premiér Robert Fico obhajoval životní úroveň v zemi příběhem svého bratrance, který si v obchodě nemohl koupit iPhone za 1600 eur (přibližně 39 tisíc korun), protože byl vyprodaný. Podle předsedy vlády je to důkaz prosperity občanů.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "169f2bb21528cd03b4e70b09643f7c5bb5b9c321",
-      "fingerprint": "900f0462d6fb81795f9bfb42226f712a8544d0b7",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/stoupenci-rustu-sazeb-v-cnb-argumentovali-dopady-cen-energii-na-ostatni-zbozi/2901500",
-      "published_utc": "2026-11-13T08:44:00Z",
-      "title_en": "Stoupenci růstu sazeb v ČNB argumentovali dopady cen energií na ostatní zboží",
-      "lead_en": "Praha - Stoupenci zvýšení úrokových sazeb v bankovní radě České národní banky (ČNB) na jednání minulý týden argumentovali setrvalostí inflace a očekávanými dopady zdražení energií na ceny dalších komodit....",
-      "title_raw": "Stoupenci růstu sazeb v ČNB argumentovali dopady cen energií na ostatní zboží",
-      "lead_raw": "Praha - Stoupenci zvýšení úrokových sazeb v bankovní radě České národní banky (ČNB) na jednání minulý týden argumentovali setrvalostí inflace a očekávanými dopady zdražení energií na ceny dalších komodit....",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 4,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "14446e75b55f92aef5293fd0554bf09bf347c54a",
-      "fingerprint": "ad7f2bbf9d69b02443df443f1c82d793d4f073fd",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/volgograd-ukrajina-valka-rusko-dronovy-utok-rafinerie.A261113_090554_zahranicni_aya",
-      "published_utc": "2026-11-13T08:41:00Z",
-      "title_en": "Jeden z největších útoků. Ukrajinci zasáhli rafinerii ve Volgogradu, změnili taktiku",
-      "lead_en": "Při dronovém náletu na jihu Volgogradu zemřeli čtyři zaměstnanci průmyslové zóny a další dva utrpěli zranění. Podle neoficiálních informací se terčem stala tamní rafinerie.",
-      "title_raw": "Jeden z největších útoků. Ukrajinci zasáhli rafinerii ve Volgogradu, změnili taktiku",
-      "lead_raw": "Při dronovém náletu na jihu Volgogradu zemřeli čtyři zaměstnanci průmyslové zóny a další dva utrpěli zranění. Podle neoficiálních informací se terčem stala tamní rafinerie.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 2
-      },
-      "topics": [
-        "energy",
-        "economy",
-        "local_events"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "bfebf3a1c79cef94c870d6c6f028fdb3c6f23bea",
-      "fingerprint": "1362d42d668e8e20320b48485a336309fd75c5cb",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-a-ukrajina-hlasi-vzajemne-utoky-rafinerie-ve-volgogradu-hori-379579",
-      "published_utc": "2026-11-13T08:37:45Z",
-      "title_en": "Rusko a Ukrajina hlásí vzájemné útoky. Rafinerie ve Volgogradu hoří",
-      "lead_en": "Úřady v&nbsp;ruské Volgogradské oblasti tvrdí, že při dronovém náletu zemřeli čtyři zaměstnanci průmyslové zóny na jihu Volgogradu. Podle informací zpravodajského telegramového kanálu Exilenova+ byla cílem útoku tamní rafinerie.",
-      "title_raw": "Rusko a Ukrajina hlásí vzájemné útoky. Rafinerie ve Volgogradu hoří",
-      "lead_raw": "Úřady v&nbsp;ruské Volgogradské oblasti tvrdí, že při dronovém náletu zemřeli čtyři zaměstnanci průmyslové zóny na jihu Volgogradu. Podle informací zpravodajského telegramového kanálu Exilenova+ byla cílem útoku tamní rafinerie.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 1
-      },
-      "topics": [
-        "energy",
         "economy"
       ],
       "primary_topic": "economy"
