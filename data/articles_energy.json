@@ -1,10 +1,211 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-16T00:28:53Z",
+  "updated_at_utc": "2026-11-16T07:25:26Z",
   "topic": "energy",
-  "count": 29,
+  "count": 34,
   "articles": [
+    {
+      "id": "5d0ca70995e34894c5d52955ba2eb390ce9c546f",
+      "fingerprint": "222222dcd96ef862a4054db1cebb841ea14684ab",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/rusko-v-noci-zneskodnilo-1336-ukrajinskych-dronu-jde-zrejme-o-rekord.A261116_071752_zahranicni_sahu",
+      "published_utc": "2026-11-16T06:56:00Z",
+      "title_en": "Drony útočily na Moskvu i Krym. Rusko hlásí rekordních 1336 sestřelených strojů",
+      "lead_en": "Ruské ministerstvo obrany v pondělí oznámilo, že jeho protivzdušná obrana za uplynulou noc zneškodnila 1336 ukrajinských dronů. Jde zřejmě o nejvyšší počet od začátku ruské invaze na Ukrajinu v únoru 2022.",
+      "title_raw": "Drony útočily na Moskvu i Krym. Rusko hlásí rekordních 1336 sestřelených strojů",
+      "lead_raw": "Ruské ministerstvo obrany v pondělí oznámilo, že jeho protivzdušná obrana za uplynulou noc zneškodnila 1336 ukrajinských dronů. Jde zřejmě o nejvyšší počet od začátku ruské invaze na Ukrajinu v únoru 2022.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "788eb46cc59637790a2a40241c0b755f9088630d",
+      "fingerprint": "3d3a93eaecb487a5d866645e267e6550191ca9d4",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/domaci-od-flakance-k-menopauze-aneb-co-vsechno-uz-take-zaznelo-ve-snemovne-40608364",
+      "published_utc": "2026-11-16T06:49:16Z",
+      "title_en": "Od flákance k menopauze aneb Co všechno už také zaznělo ve Sněmovně",
+      "lead_en": "Mandátový a imunitní výbor v uplynulém týdnu zahájil disciplinární řízení s poslancem Miroslavem Ševčíkem (za SPD) kvůli jeho nevhodným poznámkám na plénu. Není to zdaleka poprvé, kdy se poslanci nechovají důstojně.",
+      "title_raw": "Od flákance k menopauze aneb Co všechno už také zaznělo ve Sněmovně",
+      "lead_raw": "Mandátový a imunitní výbor v uplynulém týdnu zahájil disciplinární řízení s poslancem Miroslavem Ševčíkem (za SPD) kvůli jeho nevhodným poznámkám na plénu. Není to zdaleka poprvé, kdy se poslanci nechovají důstojně.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "3bf0de590576689e3fea58a9b5bacd1c601ae2bf",
+      "fingerprint": "a0f68f3444834000c3d587c36606f85f33d4b1b6",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-masivni-utok-dronu-na-rusko-40608821",
+      "published_utc": "2026-11-16T06:10:22Z",
+      "title_en": "Masivní útok dronů na Rusko",
+      "lead_en": "Ruské ministerstvo obrany v pondělí ráno oznámilo, že jeho protivzdušná obrana za uplynulou noc zneškodnila 1336 ukrajinských dronů. Jde zřejmě o rekordní počet.",
+      "title_raw": "Masivní útok dronů na Rusko",
+      "lead_raw": "Ruské ministerstvo obrany v pondělí ráno oznámilo, že jeho protivzdušná obrana za uplynulou noc zneškodnila 1336 ukrajinských dronů. Jde zřejmě o rekordní počet.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "46bf5ca7a7139be3f877c50a2b47f7067bf3567e",
+      "fingerprint": "96e468bf4bd4c1804b4e4aeb0746479360fb8d80",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-pojistovny-uz-neresi-jen-nehody-a-zabouchnute-dvere-pomohou-i-s-rozbitym-spotrebicem-ci-fotovoltaikou-40608146",
+      "published_utc": "2026-11-16T06:00:00Z",
+      "title_en": "Pojišťovny už neřeší jen nehody a zabouchnuté dveře, pomohou i s rozbitým spotřebičem či fotovoltaikou",
+      "lead_en": "Asistenční služby pojišťoven se postupně rozšiřují za hranice odtahu nepojízdného auta nebo přivolání zámečníka. Klienti mohou získat pomoc také při poruše domácích spotřebičů, tepelného čerpadla či fotovoltaické elektrárny.",
+      "title_raw": "Pojišťovny už neřeší jen nehody a zabouchnuté dveře, pomohou i s rozbitým spotřebičem či fotovoltaikou",
+      "lead_raw": "Asistenční služby pojišťoven se postupně rozšiřují za hranice odtahu nepojízdného auta nebo přivolání zámečníka. Klienti mohou získat pomoc také při poruše domácích spotřebičů, tepelného čerpadla či fotovoltaické elektrárny.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "c8034ca2469241603561c30e3e2aaaab6570639b",
+      "fingerprint": "ffdf082d5b2f8ef822893131f87c5e05d333ca9f",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-megaspeed-tvrdi-ze-huangova-opustila-partnerskou-firmu-nvidie-loni-v-srpnu-320649",
+      "published_utc": "2026-11-16T05:18:05Z",
+      "title_en": "Megaspeed tvrdí, že Huangová opustila partnerskou firmu Nvidie loni v srpnu",
+      "lead_en": "Od aféry kolem bývalého šéfa Nvidie se distancuje singapurská firma Megaspeed. Podnikatelka Alice Huangová, podezřelá z čínské špionáže, společnost opustila už loni.",
+      "title_raw": "Megaspeed tvrdí, že Huangová opustila partnerskou firmu Nvidie loni v srpnu",
+      "lead_raw": "Od aféry kolem bývalého šéfa Nvidie se distancuje singapurská firma Megaspeed. Podnikatelka Alice Huangová, podezřelá z čínské špionáže, společnost opustila už loni.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "0fec20da30afd11c13788a49acde62dd96734789",
+      "fingerprint": "3418e6ee1ab80d6ad0417a1ec4bc6e48654a377a",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/cina-zelene-technologie-vyvazi-do-sveta-sama-mohutne-znecistuje-379636",
+      "published_utc": "2026-11-16T05:00:00Z",
+      "title_en": "Čína zelené technologie vyváží do světa. Sama mohutně znečišťuje",
+      "lead_en": "Jednání na klimatickém summitu v&nbsp;Turecku neprobíhají tak rychle, jak si OSN představuje. Indie a&nbsp;další státy zůstávají opatrné k&nbsp;odklonu od fosilních paliv.",
+      "title_raw": "Čína zelené technologie vyváží do světa. Sama mohutně znečišťuje",
+      "lead_raw": "Jednání na klimatickém summitu v&nbsp;Turecku neprobíhají tak rychle, jak si OSN představuje. Indie a&nbsp;další státy zůstávají opatrné k&nbsp;odklonu od fosilních paliv.",
+      "topic_scores": {
+        "diplomacy": 3,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "f97674874a401f8eaf0a6ae116477d10c43fe972",
+      "fingerprint": "cfc5a9fd36916082d8bd767e0e0cede7353f4310",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-nemecko-se-chysta-spustit-uhelne-elektrarny-40608487",
+      "published_utc": "2026-11-16T04:20:00Z",
+      "title_en": "Německo se chystá spustit uhelné elektrárny",
+      "lead_en": "Německo připravuje návrat uhelných elektráren a elektráren na topný olej, které by v případě nedostatku zemního plynu nahradily část výroby elektřiny z plynových zdrojů. Jejich provozovatelé by museli udržovat elektrárny v pohotovosti a předem si vytvořit zásoby paliva.",
+      "title_raw": "Německo se chystá spustit uhelné elektrárny",
+      "lead_raw": "Německo připravuje návrat uhelných elektráren a elektráren na topný olej, které by v případě nedostatku zemního plynu nahradily část výroby elektřiny z plynových zdrojů. Jejich provozovatelé by museli udržovat elektrárny v pohotovosti a předem si vytvořit zásoby paliva.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 4,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "4d114f0070c1b636cd0815d97f2669576c5c40c1",
+      "fingerprint": "91cb83a5f67c471d7186991a102f523e9496692f",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/koktejl-paraglidista-v-rakousku-odstrihl-nekolik-obci-od-elektriny-40605846",
+      "published_utc": "2026-11-16T04:00:00Z",
+      "title_en": "Paraglidista v Rakousku odstřihl několik obcí od elektřiny",
+      "lead_en": "Třiasedmdesátiletý paraglidista z Německa se při seskoku ve Štýrsku zapletl padákem do vedení vysokého napětí a zůstal na něm viset. Postaral se tak o to, že stovky domácností v oblasti zůstaly asi hodinu bez elektřiny.",
+      "title_raw": "Paraglidista v Rakousku odstřihl několik obcí od elektřiny",
+      "lead_raw": "Třiasedmdesátiletý paraglidista z Německa se při seskoku ve Štýrsku zapletl padákem do vedení vysokého napětí a zůstal na něm viset. Postaral se tak o to, že stovky domácností v oblasti zůstaly asi hodinu bez elektřiny.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "2914ab1598a5586f5469d138223302555f244df4",
+      "fingerprint": "759986e498aa68fd70e731ad47eac19c70de9cef",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-troska-dobreho-slova-a-penez-clovek-tezaru-z-cezu-mluvi-o-budovani-dobrych-vztahu-320432",
+      "published_utc": "2026-11-16T04:00:00Z",
+      "title_en": "Účel byl získat souhlas s těžbou. Člověk těžařů z ČEZu promluvil",
+      "lead_en": "Někdejší klíčový muž komunikace těžařů z ČEZu popisuje, jak firma budovala dobré vztahy s obcemi, od nichž potřebovala souhlas s vlastními zájmy. „Účel byl získat akceptaci těžby.",
+      "title_raw": "Účel byl získat souhlas s těžbou. Člověk těžařů z ČEZu promluvil",
+      "lead_raw": "Někdejší klíčový muž komunikace těžařů z ČEZu popisuje, jak firma budovala dobré vztahy s obcemi, od nichž potřebovala souhlas s vlastními zájmy. „Účel byl získat akceptaci těžby.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "abed6f0116142e8f9cd52d2cc5a04c61f71d1347",
       "fingerprint": "73541becb3f59cda9b5c72ccb4ac8aff0a5f15d4",
@@ -564,98 +765,6 @@
         "economy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "88ef96b7e634a2196bc57cf857fb78fcfc8770c8",
-      "fingerprint": "a41fbf15f7c4d25369378f317a205b007f7b48a5",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-bily-dum-trump-se-ve-ctvrtek-setka-s-prezidenty-ruska-a-ciny-320528",
-      "published_utc": "2026-11-14T06:25:33Z",
-      "title_en": "Bílý dům: Trump se ve čtvrtek setká s prezidenty Ruska a Číny",
-      "lead_en": "Tisková mluvčí Bílého domu uvedla, že se Donald Trump ve čtvrtek setká s prezidenty Číny a Ruska. Témata jednání budou omezení jaderných zbraní i válka v Íránu.",
-      "title_raw": "Bílý dům: Trump se ve čtvrtek setká s prezidenty Ruska a Číny",
-      "lead_raw": "Tisková mluvčí Bílého domu uvedla, že se Donald Trump ve čtvrtek setká s prezidenty Číny a Ruska. Témata jednání budou omezení jaderných zbraní i válka v Íránu.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "05c64f1332207ba21c9d2cfedaec5509fe7ad804",
-      "fingerprint": "d2316e49cf01dd9a721df946cd82437c3cc0a749",
-      "source": "iROZHLAS - Economy",
-      "url": "https://www.irozhlas.cz/ekonomika/dolar-muze-ustoupit-juanu-a-evropa-nebude-potreba-expert-nastinuje-kam-se-riti_2611140600_jkd",
-      "published_utc": "2026-11-14T05:00:00Z",
-      "title_en": "Dolar může ustoupit jüanu a Evropa nebude potřeba. Expert nastiňuje, kam se řítí světová ekonomika",
-      "lead_en": "Japonsko vs. Čína.",
-      "title_raw": "Dolar může ustoupit jüanu a Evropa nebude potřeba. Expert nastiňuje, kam se řítí světová ekonomika",
-      "lead_raw": "Japonsko vs. Čína.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "98271c80e36ed822ebb14df87c34a456e0e2f695",
-      "fingerprint": "ad004c61aeb4b2123cd0f723a40d502c13761858",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-inspirovala-jsem-se-pokladanim-kabelu-rika-starostka-k-ucelu-zajezdu-s-cez-319997",
-      "published_utc": "2026-11-14T05:00:00Z",
-      "title_en": "Ve Vatikánu mají lavičky, vysvětluje starostka, proč cestovala za peníze ČEZ",
-      "lead_en": "Starostka severočeských Hrobčic Jana Syslová se podle zjištění Seznam Zpráv účastnila šesti zahraničních pobytů hrazených společností ČEZ. Politička je hájí snahou o vzdělávání.",
-      "title_raw": "Ve Vatikánu mají lavičky, vysvětluje starostka, proč cestovala za peníze ČEZ",
-      "lead_raw": "Starostka severočeských Hrobčic Jana Syslová se podle zjištění Seznam Zpráv účastnila šesti zahraničních pobytů hrazených společností ČEZ. Politička je hájí snahou o vzdělávání.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "af12a08c2fa0e65eb6b084e6fb4dd2a19ac88469",
-      "fingerprint": "98577b19ece1f00495b7ce0e9ee1aba2a750c018",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/trump-se-ve-ctvrtek-setka-se-si-tin-pchingem-a-putinem-tematem-budou-jaderne-zbrane.A261114_014836_zahranicni_air",
-      "published_utc": "2026-11-14T01:28:00Z",
-      "title_en": "Trump se ve čtvrtek setká se Si Ťin-pchingem a Putinem, tématem budou jaderné zbraně",
-      "lead_en": "Americký prezident Donald Trump se ve čtvrtek na okraj summitu APEC v jihočínském Šen-čenu setká s čínským prezidentem Si Ťin-pchingem a ruským prezidentem Vladimirem Putinem, přičemž trilaterální jednání se má zaměřit mimo jiné na omezení jaderných zbraní a situaci kolem Íránu.",
-      "title_raw": "Trump se ve čtvrtek setká se Si Ťin-pchingem a Putinem, tématem budou jaderné zbraně",
-      "lead_raw": "Americký prezident Donald Trump se ve čtvrtek na okraj summitu APEC v jihočínském Šen-čenu setká s čínským prezidentem Si Ťin-pchingem a ruským prezidentem Vladimirem Putinem, přičemž trilaterální jednání se má zaměřit mimo jiné na omezení jaderných zbraní a situaci kolem Íránu.",
-      "topic_scores": {
-        "diplomacy": 3,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
