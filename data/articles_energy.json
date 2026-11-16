@@ -1,10 +1,257 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-16T07:25:26Z",
+  "updated_at_utc": "2026-11-16T17:35:03Z",
   "topic": "energy",
-  "count": 34,
+  "count": 35,
   "articles": [
+    {
+      "id": "183bd85a5d63fab6cff6bb92f2e948d11269d851",
+      "fingerprint": "7416e003eb9e0e122c84a028d18e26ff2b0bca71",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-riziko-jaderne-havarie-na-ukrajine-roste-40608986",
+      "published_utc": "2026-11-16T16:58:47Z",
+      "title_en": "Riziko jaderné havárie na Ukrajině roste",
+      "lead_en": "Dohledové orgány nad jadernou bezpečností ze 38 zemí varovaly, že na Ukrajině roste riziko jaderné havárie. Masivní ruské útoky na tamější energetickou infrastrukturu totiž ohrožují systémy, jež udržují v chodu bezpečnostní zařízení a chlazení.",
+      "title_raw": "Riziko jaderné havárie na Ukrajině roste",
+      "lead_raw": "Dohledové orgány nad jadernou bezpečností ze 38 zemí varovaly, že na Ukrajině roste riziko jaderné havárie. Masivní ruské útoky na tamější energetickou infrastrukturu totiž ohrožují systémy, jež udržují v chodu bezpečnostní zařízení a chlazení.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "7e9f48d8db765566a78ff8d6923370f1ddde2eb1",
+      "fingerprint": "4f525dd7356cfe4761eeb08274e58dc7cb06854f",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/ve-stade-u-hamburku-zahajil-provoz-paty-nemecky-plovouci-terminal-na-lng.A261116_164429_eko-zahranicni_jadv",
+      "published_utc": "2026-11-16T16:01:00Z",
+      "title_en": "Ve Stade u Hamburku zahájil provoz pátý německý plovoucí terminál na LNG",
+      "lead_en": "V přístavu Stade nedaleko Hamburku zahájil provoz pátý plovoucí terminál na zkapalněný zemní plyn (LNG) v Německu. Jde o čtvrtý státem provozovaný terminál, pátý je soukromý.",
+      "title_raw": "Ve Stade u Hamburku zahájil provoz pátý německý plovoucí terminál na LNG",
+      "lead_raw": "V přístavu Stade nedaleko Hamburku zahájil provoz pátý plovoucí terminál na zkapalněný zemní plyn (LNG) v Německu. Jde o čtvrtý státem provozovaný terminál, pátý je soukromý.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "dc38f24fc4896a896bd4d2eb412c8cd9ddb431a3",
+      "fingerprint": "339fbba2c7ca13a24a4a3a357f4a2457e61081af",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusky-vliv-na-madagaskaru-sili-hraje-se-i-o-klicovy-pruliv-379656",
+      "published_utc": "2026-11-16T14:40:00Z",
+      "title_en": "Ruský vliv na Madagaskaru sílí, hraje se i o klíčový průliv",
+      "lead_en": "Spojené státy varovaly Madagaskar před prohlubováním vazeb s&nbsp;Moskvou. Po loňském převzetí moci armádou Rusko dodává africké zemi zbraně a&nbsp;na ostrově působí jeho polovojenské Africké síly.",
+      "title_raw": "Ruský vliv na Madagaskaru sílí, hraje se i o klíčový průliv",
+      "lead_raw": "Spojené státy varovaly Madagaskar před prohlubováním vazeb s&nbsp;Moskvou. Po loňském převzetí moci armádou Rusko dodává africké zemi zbraně a&nbsp;na ostrově působí jeho polovojenské Africké síly.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "42052ad082c478728542256ce08e3b4db23dd7f6",
+      "fingerprint": "dfae0c63b876b2ec278ae8be02fd52032f080f3e",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/domaci/prazska-plynarenska-elektrina-plyn-zdrazeni.A261116_123702_ekonomika_rie",
+      "published_utc": "2026-11-16T14:11:00Z",
+      "title_en": "Domácnostem vzrostou účty za energie. Zdražení oznámily další společnosti",
+      "lead_en": "Dodavatelé energií Pražská plynárenská a E.ON od příštího roku zvýší ceny energií zákazníkům se smlouvami bez dlouhodobého závazku. Pražská plynárenská zdraží plyn o 8,7 procenta a elektřinu v průměru o 8,6 procenta.",
+      "title_raw": "Domácnostem vzrostou účty za energie. Zdražení oznámily další společnosti",
+      "lead_raw": "Dodavatelé energií Pražská plynárenská a E.ON od příštího roku zvýší ceny energií zákazníkům se smlouvami bez dlouhodobého závazku. Pražská plynárenská zdraží plyn o 8,7 procenta a elektřinu v průměru o 8,6 procenta.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "76089dd1bc939f4ddb057ce1bbdac08959c6ae17",
+      "fingerprint": "c92b255ba10383ea87c79f58ec1b60917afc8939",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-e-on-zdrazi-elektrinu-zakaznici-si-priplati-nekolik-stovek-320728",
+      "published_utc": "2026-11-16T13:58:32Z",
+      "title_en": "E.ON zdraží elektřinu. Zákazníci si připlatí několik stovek",
+      "lead_en": "Domácnostem bez závazku se u E.ON od začátku příštího roku zdraží elektřina. Oproti letošnímu roku si za spotřebovanou megawatthodinu připlatí i několik stovek.",
+      "title_raw": "E.ON zdraží elektřinu. Zákazníci si připlatí několik stovek",
+      "lead_raw": "Domácnostem bez závazku se u E.ON od začátku příštího roku zdraží elektřina. Oproti letošnímu roku si za spotřebovanou megawatthodinu připlatí i několik stovek.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "cb1e06322504d94a4b1a4794fad19f11ce0b4b8d",
+      "fingerprint": "446f4a6e5a9cc2be634160d8a9a23360d24342a5",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/eon-od-pristiho-roku-zdrazi-pul-milionu-zakaznikum-bez-zavazku-elektrinu/2902692",
+      "published_utc": "2026-11-16T13:28:00Z",
+      "title_en": "E.ON od příštího roku zdraží půl milionu zákazníkům bez závazku elektřinu",
+      "lead_en": "Praha - Dodavatel energií E.ON od ledna příštího roku zvýší zhruba půl milionu zákazníkům se smlouvou bez závazku ceny elektřiny. Domácnosti si oproti letošku připlatí několik stovek korun za spotřebovanou...",
+      "title_raw": "E.ON od příštího roku zdraží půl milionu zákazníkům bez závazku elektřinu",
+      "lead_raw": "Praha - Dodavatel energií E.ON od ledna příštího roku zvýší zhruba půl milionu zákazníkům se smlouvou bez závazku ceny elektřiny. Domácnosti si oproti letošku připlatí několik stovek korun za spotřebovanou...",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "b2037aae8743d6b1fe6c89a1aae9c0881a520fe6",
+      "fingerprint": "964f553deb3de476449656def8ee5d17c821209c",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/listopadovy-pokles-maximalnich-cen-paliv-skoncil-nafta-v-utery-zdrazi/2902681",
+      "published_utc": "2026-11-16T13:08:00Z",
+      "title_en": "Listopadový pokles maximálních cen paliv skončil, nafta v úterý zdraží",
+      "lead_en": "Praha - Více než dva týdny trvající pokles maximálních cen pohonných hmot, které denně stanovuje ministerstvo financí, skončil. Nejvyšší přípustná cena nafty se oproti dnešku zvýší o 35 haléřů na 45,73...",
+      "title_raw": "Listopadový pokles maximálních cen paliv skončil, nafta v úterý zdraží",
+      "lead_raw": "Praha - Více než dva týdny trvající pokles maximálních cen pohonných hmot, které denně stanovuje ministerstvo financí, skončil. Nejvyšší přípustná cena nafty se oproti dnešku zvýší o 35 haléřů na 45,73...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "0c1a643617f36453d68039040f152376436e1fcc",
+      "fingerprint": "f913e5c4f94a5e578fd3129894ee120e86052829",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/prazska-plynarenska-zdrazi-pristi-rok-energie-zakaznikum-bez-zavazku-379658",
+      "published_utc": "2026-11-16T12:14:15Z",
+      "title_en": "Pražská plynárenská i E.ON zdraží příští rok energie zákazníkům bez závazku",
+      "lead_en": "Pražská plynárenská zdraží od příštího roku zákazníkům se standardním ceníkem bez dlouhodobého závazku dodávky energií. Prodejní cena plynu stoupne oproti letošku o&nbsp;8,7 procenta, elektřina zdraží v&nbsp;průměru o&nbsp;8,6 procenta.",
+      "title_raw": "Pražská plynárenská i E.ON zdraží příští rok energie zákazníkům bez závazku",
+      "lead_raw": "Pražská plynárenská zdraží od příštího roku zákazníkům se standardním ceníkem bez dlouhodobého závazku dodávky energií. Prodejní cena plynu stoupne oproti letošku o&nbsp;8,7 procenta, elektřina zdraží v&nbsp;průměru o&nbsp;8,6 procenta.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "e94141aebfea38780c3453cf08caaffcd922ea9c",
+      "fingerprint": "bf8e5923ecb967de84eee571539ec181512a9a04",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/prazska-plynarenska-pristi-rok-zdrazi-elektrinu-a-plyn-bez-zavazku/2902640",
+      "published_utc": "2026-11-16T11:33:00Z",
+      "title_en": "Pražská plynárenská příští rok zdraží elektřinu a plyn bez závazku",
+      "lead_en": "Praha - Pražská plynárenská od příštího roku zdraží zákazníkům se standardním ceníkem bez dlouhodobého závazku dodávky energií. Prodejní cena plynu stoupne oproti letošku o 8,7 procenta, elektřina zdraží...",
+      "title_raw": "Pražská plynárenská příští rok zdraží elektřinu a plyn bez závazku",
+      "lead_raw": "Praha - Pražská plynárenská od příštího roku zdraží zákazníkům se standardním ceníkem bez dlouhodobého závazku dodávky energií. Prodejní cena plynu stoupne oproti letošku o 8,7 procenta, elektřina zdraží...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "d3ceadcbbe349af651c9f15d56350aece4c73b06",
+      "fingerprint": "f88aaf2e27f8a07b4431967874aa7deafcca96f2",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/hoste-udalosti-komentaru-tydne-debatovali-o-protestu-na-letne-i-situaci-v-ods-379645",
+      "published_utc": "2026-11-16T08:18:56Z",
+      "title_en": "Hosté Událostí, komentářů týdne debatovali o protestu na Letné i situaci v ODS",
+      "lead_en": "Hosté Událostí, komentářů týdne diskutovali o&nbsp;protestním shromáždění na Letné, kde stovky tisíc lidí vyjádřily podporu veřejnoprávním médiím. Věnovali se i&nbsp;situaci v&nbsp;ODS, kde někteří regionální členové kritizují vedení strany kvůli propadu preferencí, ztrátě primátorských postů či nejasnému programu.",
+      "title_raw": "Hosté Událostí, komentářů týdne debatovali o protestu na Letné i situaci v ODS",
+      "lead_raw": "Hosté Událostí, komentářů týdne diskutovali o&nbsp;protestním shromáždění na Letné, kde stovky tisíc lidí vyjádřily podporu veřejnoprávním médiím. Věnovali se i&nbsp;situaci v&nbsp;ODS, kde někteří regionální členové kritizují vedení strany kvůli propadu preferencí, ztrátě primátorských postů či nejasnému programu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "cab4daeeb366113e1c2b3ab8e61142367c1fda00",
+      "fingerprint": "48a7c991e9f86d456a3ef05a478d2272bf44cec2",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ukrajinci-zautocili-na-krymsky-most-doslo-k-omezeni-provozu-379651",
+      "published_utc": "2026-11-16T08:03:20Z",
+      "title_en": "Ukrajinci zasáhli Krymský most, provoz je omezen",
+      "lead_en": "Ruské ministerstvo obrany tvrdí, že jeho protivzdušná obrana za uplynulou noc zneškodnila 1336 ukrajinských dronů. Jde zřejmě o&nbsp;nejvyšší počet od začátku ruské invaze na Ukrajinu v&nbsp;únoru 2022.",
+      "title_raw": "Ukrajinci zasáhli Krymský most, provoz je omezen",
+      "lead_raw": "Ruské ministerstvo obrany tvrdí, že jeho protivzdušná obrana za uplynulou noc zneškodnila 1336 ukrajinských dronů. Jde zřejmě o&nbsp;nejvyšší počet od začátku ruské invaze na Ukrajinu v&nbsp;únoru 2022.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
     {
       "id": "5d0ca70995e34894c5d52955ba2eb390ce9c546f",
       "fingerprint": "222222dcd96ef862a4054db1cebb841ea14684ab",
@@ -540,231 +787,6 @@
         "energy"
       ],
       "primary_topic": "diplomacy"
-    },
-    {
-      "id": "9ee6ba0fbcff29858b6306179b4f892add0f10d8",
-      "fingerprint": "d821e3aed85a34a0496e4062ebfa6d1a244dc0d9",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/pardubice/zpravy/muz-v-kukle-a-se-zbrani-v-hlinsku-tvrdil-ze-delal-znamemu-bodyguarda.A261114_152000_pardubice-zpravy_ichuc",
-      "published_utc": "2026-11-14T14:32:00Z",
-      "title_en": "Bral peníze v bance, chtěl jsem známému dělat ochranku, vysvětloval muž v kukle",
-      "lead_en": "Sedmašedesátiletý muž, který se v pátek v kukle a s plynovou zbraní pohyboval po Hlinsku na Chrudimsku, tvrdí, že chtěl dělat osobního strážce svému známému. Toho v bance spatřil při výběru peněz a nabídl mu ochranu, uvedl policejní mluvčí Tomáš Dub.",
-      "title_raw": "Bral peníze v bance, chtěl jsem známému dělat ochranku, vysvětloval muž v kukle",
-      "lead_raw": "Sedmašedesátiletý muž, který se v pátek v kukle a s plynovou zbraní pohyboval po Hlinsku na Chrudimsku, tvrdí, že chtěl dělat osobního strážce svému známému. Toho v bance spatřil při výběru peněz a nabídl mu ochranu, uvedl policejní mluvčí Tomáš Dub.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "95a6bf4c5657842ffb0a0c61452a2a3683b4098b",
-      "fingerprint": "7fc87051403d71e51a7511b6578378d143e3596c",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-rajchlovi-se-jako-vestci-moc-nedari-pad-vlady-ted-neocekava-40607630",
-      "published_utc": "2026-11-14T14:19:17Z",
-      "title_en": "Rajchlovi se jako věštci moc nedaří, pád vlády teď neočekává",
-      "lead_en": "Pád vlády během několika měsíců, sto tisíc lidí na demonstraci, pohonné hmoty za 150 korun za litr nebo konec českých jaderných elektráren bez spolupráce s Ruskem. Poslanec a předseda strany PRO Jindřich Rajchl v posledních letech zveřejnil řadu velmi konkrétních prognóz a varování, která se v podobě, v níž je formuloval, nenaplnila.",
-      "title_raw": "Rajchlovi se jako věštci moc nedaří, pád vlády teď neočekává",
-      "lead_raw": "Pád vlády během několika měsíců, sto tisíc lidí na demonstraci, pohonné hmoty za 150 korun za litr nebo konec českých jaderných elektráren bez spolupráce s Ruskem. Poslanec a předseda strany PRO Jindřich Rajchl v posledních letech zveřejnil řadu velmi konkrétních prognóz a varování, která se v podobě, v níž je formuloval, nenaplnila.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "529c574162cfbe6dad33794d65e23a9fcffadc82",
-      "fingerprint": "f407611281bf4d174d9ed79a2ecc6a23ebf51d35",
-      "source": "České noviny / ČTK - Economy",
-      "url": "https://www.ceskenoviny.cz/zpravy/eph-neuspel-v-soutezi-na-prodej-nemecke-statni-firmy-uniper-pisi-agentury/2902066",
-      "published_utc": "2026-11-14T13:29:00Z",
-      "title_en": "EPH neuspěl v soutěži na prodej německé státní firmy Uniper, píší agentury",
-      "lead_en": "Berlín - Skupina EPH českého miliardáře Daniela Křetínského neuspěla v soutěži na převzetí německé státní energetické firmy Uniper. S odkazem na své zdroje o tom dnes informují agentury Reuters a Bloomberg....",
-      "title_raw": "EPH neuspěl v soutěži na prodej německé státní firmy Uniper, píší agentury",
-      "lead_raw": "Berlín - Skupina EPH českého miliardáře Daniela Křetínského neuspěla v soutěži na převzetí německé státní energetické firmy Uniper. S odkazem na své zdroje o tom dnes informují agentury Reuters a Bloomberg....",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "8300a896041bee9bdfc5f163f53665b655def3a9",
-      "fingerprint": "72d6c92df189c2c8ed1bbcee2a96f56d17a927f2",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/kultura-filmy-serialy-reziser-bohdan-slama-dasa-havlova-a-zuza-kronerova-k-sobe-hezky-ladi-40607378",
-      "published_utc": "2026-11-14T13:11:00Z",
-      "title_en": "Režisér Bohdan Sláma: Dáša Havlová a Zuza Kronerová k sobě hezky ladí",
-      "lead_en": "Scházíme se v budově České televize. Do jejího pořadu Sám doma přišel režisér Bohdan Sláma propagovat svou novinku, film Houpačky.",
-      "title_raw": "Režisér Bohdan Sláma: Dáša Havlová a Zuza Kronerová k sobě hezky ladí",
-      "lead_raw": "Scházíme se v budově České televize. Do jejího pořadu Sám doma přišel režisér Bohdan Sláma propagovat svou novinku, film Houpačky.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "91b9d2ba0bf329ff419c147301fe219f5fe3ed51",
-      "fingerprint": "534d3f292070044ca49ed637e5309f5499a5acc5",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/muz-v-kukle-a-se-zbrani-v-hlinsku-tvrdil-ze-delal-znamemu-bodyguarda/2902058",
-      "published_utc": "2026-11-14T12:56:00Z",
-      "title_en": "Muž v kukle a se zbraní v Hlinsku tvrdil, že dělal známému bodyguarda",
-      "lead_en": "Hlinsko (Chrudimsko) - Sedmašedesátiletý muž, který se v pátek v kukle a s plynovou zbraní pohyboval po Hlinsku na Chrudimsku, tvrdí, že chtěl dělat osobního strážce svému známému. Toho v bance spatřil...",
-      "title_raw": "Muž v kukle a se zbraní v Hlinsku tvrdil, že dělal známému bodyguarda",
-      "lead_raw": "Hlinsko (Chrudimsko) - Sedmašedesátiletý muž, který se v pátek v kukle a s plynovou zbraní pohyboval po Hlinsku na Chrudimsku, tvrdí, že chtěl dělat osobního strážce svému známému. Toho v bance spatřil...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "db347f03f39b09835cfea268d92096f667c433ed",
-      "fingerprint": "1df877e3d1e6badfec8382e1c687845c9d7e91b1",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-drahe-energie-ohrozuji-sedm-z-deseti-ceskych-firem-40607801",
-      "published_utc": "2026-11-14T12:03:08Z",
-      "title_en": "Drahé energie ohrožují sedm z deseti českých firem",
-      "lead_en": "Vysoké ceny energií a surovin považuje za jednu z největších hrozeb pro své podnikání 71 procent malých a středních firem a podnikatelů v Česku. Obávají se dopadů probíhajících válečných konfliktů, které ceny komodit ovlivňují.",
-      "title_raw": "Drahé energie ohrožují sedm z deseti českých firem",
-      "lead_raw": "Vysoké ceny energií a surovin považuje za jednu z největších hrozeb pro své podnikání 71 procent malých a středních firem a podnikatelů v Česku. Obávají se dopadů probíhajících válečných konfliktů, které ceny komodit ovlivňují.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "c62650335a4a1261d032f80c4790714ad3f6b77c",
-      "fingerprint": "ace1090a75903ca54f23713c9baa4a4b8e6b2464",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-misto-diplomacie-plati-urad-jaderna-bezpecnost-posle-na-cernobyl-20-tisic-eur-320534",
-      "published_utc": "2026-11-14T11:40:00Z",
-      "title_en": "Místo diplomacie platí úřad. Jaderná bezpečnost pošle na Černobyl 20 tisíc eur. Ostuda, zní z opozice",
-      "lead_en": "Státní úřad pro jadernou bezpečnost přispěje na opravu sarkofágu elektrárny 20 tisíc eur. Požádal ho o to resort zahraničí.",
-      "title_raw": "Místo diplomacie platí úřad. Jaderná bezpečnost pošle na Černobyl 20 tisíc eur. Ostuda, zní z opozice",
-      "lead_raw": "Státní úřad pro jadernou bezpečnost přispěje na opravu sarkofágu elektrárny 20 tisíc eur. Požádal ho o to resort zahraničí.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 1,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "0ea3a1e9d00f8cc4844059999a2d6368bae14094",
-      "fingerprint": "36e8b7ec08c96f40ccfaf9e37a8f1635237cbe1b",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/internet-a-pc-bezpecnost-na-internetovych-seznamkach-se-vydaval-za-zenu-z-muzu-vylakal-pet-milionu-40608633",
-      "published_utc": "2026-11-14T10:46:58Z",
-      "title_en": "Na internetových seznamkách se vydával za ženu, z nápadníků vylákal pět milionů",
-      "lead_en": "Až osm let vězení hrozí pětatřicetiletému muži z Třebíčska za to, že se na internetových seznamkách vydával za ženu a pod různými záminkami vylákal z mužů více než pět milionů korun. Policisté ze Žďáru nad Sázavou jej v uplynulých dnech obvinili z podvodu.",
-      "title_raw": "Na internetových seznamkách se vydával za ženu, z nápadníků vylákal pět milionů",
-      "lead_raw": "Až osm let vězení hrozí pětatřicetiletému muži z Třebíčska za to, že se na internetových seznamkách vydával za ženu a pod různými záminkami vylákal z mužů více než pět milionů korun. Policisté ze Žďáru nad Sázavou jej v uplynulých dnech obvinili z podvodu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "0b33e58c33165293706e0300d495a76cd479ac72",
-      "fingerprint": "92264b5e81997cab738ad5d3a7b2ae0754583b93",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-akcie-fondy-zbavit-se-dolaru-proc-je-sen-vsech-amerikobijcu-tak-vzdaleny-320531",
-      "published_utc": "2026-11-14T10:30:00Z",
-      "title_en": "Amerikobijci mají velký sen. Jeho splnění by úplně změnilo svět",
-      "lead_en": "Kdo spoří, potřebuje někoho, kdo si půjčí, a naopak. Právě tato symetrie ukazuje, proč Čína a Evropa nemají na USA takový vliv, jak se po zavedení cel spekulovalo, píše v komentáři analytik společnosti Patria.cz Jiří Soustružník.",
-      "title_raw": "Amerikobijci mají velký sen. Jeho splnění by úplně změnilo svět",
-      "lead_raw": "Kdo spoří, potřebuje někoho, kdo si půjčí, a naopak. Právě tato symetrie ukazuje, proč Čína a Evropa nemají na USA takový vliv, jak se po zavedení cel spekulovalo, píše v komentáři analytik společnosti Patria.cz Jiří Soustružník.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "875ca97afced4905f44863e8d9fdd81097e2715d",
-      "fingerprint": "e16fcc903ef188a9298852f21b158bb4382e0f9a",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-rozhovory-financni-sef-cez-uhli-ma-pred-sebou-jeste-lepsi-rok-pak-se-vyhled-nemeni-320515",
-      "published_utc": "2026-11-14T10:05:56Z",
-      "title_en": "Finanční šéf ČEZ: Uhlí má před sebou ještě lepší rok. Pak se výhled nemění",
-      "lead_en": "ČEZ letos vyrobí více elektřiny z uhlí než loni. I přes vyšší výrobu a příznivou situaci na trhu zisk fosilních elektráren klesá.",
-      "title_raw": "Finanční šéf ČEZ: Uhlí má před sebou ještě lepší rok. Pak se výhled nemění",
-      "lead_raw": "ČEZ letos vyrobí více elektřiny z uhlí než loni. I přes vyšší výrobu a příznivou situaci na trhu zisk fosilních elektráren klesá.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
