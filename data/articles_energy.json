@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-17T01:11:41Z",
+  "updated_at_utc": "2026-11-17T09:49:41Z",
   "topic": "energy",
-  "count": 35,
+  "count": 31,
   "articles": [
+    {
+      "id": "0ce9830b24fdc33d45a29fa4ab81556b48e1cc35",
+      "fingerprint": "83a5ae1c18e421d71186bea6109117ef4e9920d0",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-ukrajina-zakazala-pohadku-masa-a-medved-40608887",
+      "published_utc": "2026-11-17T04:31:12Z",
+      "title_en": "Ukrajina zakázala pohádku Máša a medvěd",
+      "lead_en": "Ukrajina zablokovala na svém území 16 ruských kanálů na video platformě YouTube, které podle Kyjeva šířily ruskou propagandu a podporovaly válku proti Ukrajině. Mezi zablokovanými účty se nacházejí také zahraniční kanály vysílající populární animovaný seriál Máša a medvěd.",
+      "title_raw": "Ukrajina zakázala pohádku Máša a medvěd",
+      "lead_raw": "Ukrajina zablokovala na svém území 16 ruských kanálů na video platformě YouTube, které podle Kyjeva šířily ruskou propagandu a podporovaly válku proti Ukrajině. Mezi zablokovanými účty se nacházejí také zahraniční kanály vysílající populární animovaný seriál Máša a medvěd.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "a5d73ea5fc11d203b28768df58c75f93a513e556",
       "fingerprint": "b3514ad0b93cb50c91f10d72854cd7d63b7cfd4c",
@@ -676,116 +698,6 @@
         "military",
         "energy",
         "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "3e011a0d842169f95dcff20227d8fff99a405b22",
-      "fingerprint": "ac203d3ec24a84c2c298f1afa7984cbc52ea22dd",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/auto-letani-na-baterky-40608705",
-      "published_utc": "2026-11-15T09:30:10Z",
-      "title_en": "Auta byla jen začátek. Čína zkouší létání na baterky",
-      "lead_en": "Elektřina už dávno nepohání jen auta. Čína nyní posunula o krok dál také vývoj letadla na baterie, které má v budoucnu přepravovat 19 cestujících mezi městy.",
-      "title_raw": "Auta byla jen začátek. Čína zkouší létání na baterky",
-      "lead_raw": "Elektřina už dávno nepohání jen auta. Čína nyní posunula o krok dál také vývoj letadla na baterie, které má v budoucnu přepravovat 19 cestujících mezi městy.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "8225e232767cad2ec857822309c44fd8b793a5bf",
-      "fingerprint": "80ac0adc5dc3ecb0c55229db0cf74092855a8ab1",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/nakoupit-ohrivace-baterky-vodu-kyjev-ceka-dalsi-tezka-zima-379620",
-      "published_utc": "2026-11-15T07:00:00Z",
-      "title_en": "Nakoupit ohřívače, baterky, vodu. Kyjev čeká další těžká zima",
-      "lead_en": "Kyjevané se chystají na další těžkou zimu. Elektřina, vytápění, plyn a&nbsp;voda: ve většině domácností hlavního města Ukrajiny alespoň něco z&nbsp;toho nefunguje.",
-      "title_raw": "Nakoupit ohřívače, baterky, vodu. Kyjev čeká další těžká zima",
-      "lead_raw": "Kyjevané se chystají na další těžkou zimu. Elektřina, vytápění, plyn a&nbsp;voda: ve většině domácností hlavního města Ukrajiny alespoň něco z&nbsp;toho nefunguje.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "00b0298c5faf6dba1df58ede541dfdbe87f60789",
-      "fingerprint": "79d3ad9f18309eeb2e2f859400c972d5bd2db5bb",
-      "source": "České noviny / ČTK - Czech Republic",
-      "url": "https://www.ceskenoviny.cz/zpravy/ukrajina-vyviji-protidronove-technologie-mnohem-rychleji-nez-evropa-mini-expert/2902228",
-      "published_utc": "2026-11-15T06:30:00Z",
-      "title_en": "Ukrajina vyvíjí protidronové technologie mnohem rychleji než Evropa, míní expert",
-      "lead_en": "Praha - Ukrajinské společnosti dokážou vyvíjet a modernizovat protidronové technologie během několika měsíců, zatímco evropským výrobcům může obdobný proces trvat i šest let. V rozhovoru s ČTK to uvedl...",
-      "title_raw": "Ukrajina vyvíjí protidronové technologie mnohem rychleji než Evropa, míní expert",
-      "lead_raw": "Praha - Ukrajinské společnosti dokážou vyvíjet a modernizovat protidronové technologie během několika měsíců, zatímco evropským výrobcům může obdobný proces trvat i šest let. V rozhovoru s ČTK to uvedl...",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "9775ce79f5452762528ee85db28a55d4ee89d215",
-      "fingerprint": "f52a6d9d99fa7cd797c11e7dd279f5cf2963d96e",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/porady-ve-stinu-udani-a-policie-nekolikrat-denne-stezovatelka-z-cicovic-jde-proti-vsem-320324",
-      "published_utc": "2026-11-15T06:30:00Z",
-      "title_en": "Udání a policie několikrát denně. Stěžovatelka jde proti všem",
-      "lead_en": "Jak se žije vedle sousedky, která je přesvědčená o své pravdě a chce, aby život v obci plynul podle jejích představ? Proč musejí ostatní stále dokola vyzvedávat obsílky a policejním hlídkám vysvětlovat, že nic neprovedli?",
-      "title_raw": "Udání a policie několikrát denně. Stěžovatelka jde proti všem",
-      "lead_raw": "Jak se žije vedle sousedky, která je přesvědčená o své pravdě a chce, aby život v obci plynul podle jejích představ? Proč musejí ostatní stále dokola vyzvedávat obsílky a policejním hlídkám vysvětlovat, že nic neprovedli?",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "c9197fcedf54843bf7f835cd6d8c260628667182",
-      "fingerprint": "be8d6150bfe00151918c191e374b9c43676d1030",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/cestovani-kviz-kambodza-neni-jen-angkor-co-vite-o-zemi-ostrovu-chramu-a-cesky-mluviciho-krale-40607776",
-      "published_utc": "2026-11-15T05:20:00Z",
-      "title_en": "KVÍZ: Kambodža není jen Angkor. Co víte o zemi ostrovů, chrámů a česky mluvícího krále?",
-      "lead_en": "Kambodža láká na podle mnohých nejkrásnější chrámy na světě, rajské pláže i chutnou gastronomii, která umí v lecčem překvapit. Její panovník by si navíc s českými turisty mohl popovídat bez tlumočníka.",
-      "title_raw": "KVÍZ: Kambodža není jen Angkor. Co víte o zemi ostrovů, chrámů a česky mluvícího krále?",
-      "lead_raw": "Kambodža láká na podle mnohých nejkrásnější chrámy na světě, rajské pláže i chutnou gastronomii, která umí v lecčem překvapit. Její panovník by si navíc s českými turisty mohl popovídat bez tlumočníka.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
       ],
       "primary_topic": "energy"
     }
