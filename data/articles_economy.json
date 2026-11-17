@@ -1,10 +1,54 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-17T09:49:41Z",
+  "updated_at_utc": "2026-11-17T18:49:30Z",
   "topic": "economy",
-  "count": 14,
+  "count": 15,
   "articles": [
+    {
+      "id": "7fc37c8380736a4c14f99fbc886d0d5b7faf5ee3",
+      "fingerprint": "64158a267a848e5000a98f0215934fc787e5f10e",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/huang-je-pripraven-se-vratit-do-cela-nvidie-bude-vypovidat-pred-kongresem.A261117_181940_eko-zahranicni_iluj",
+      "published_utc": "2026-11-17T18:07:00Z",
+      "title_en": "Nevěrný Huang je připraven vrátit se do čela Nvidie, vystoupí před Kongresem",
+      "lead_en": "Bývalý šéf amerického výrobce čipů Nvidia Jensen Huang je připraven vrátit se do čela firmy, pokud to bude v zájmu společnosti, jejích akcionářů a zaměstnanců. Huang to to podle agentury AFP uvedl v prohlášení pro americká média.",
+      "title_raw": "Nevěrný Huang je připraven vrátit se do čela Nvidie, vystoupí před Kongresem",
+      "lead_raw": "Bývalý šéf amerického výrobce čipů Nvidia Jensen Huang je připraven vrátit se do čela firmy, pokud to bude v zájmu společnosti, jejích akcionářů a zaměstnanců. Huang to to podle agentury AFP uvedl v prohlášení pro americká média.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "f036bfa9139e1977e6bd0d189bf2cc558a9973b8",
+      "fingerprint": "763e25965362ef082c50dcc9c9c1791a0661edc3",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-huang-je-pripraven-vratit-se-do-cela-nvidie-40609117",
+      "published_utc": "2026-11-17T17:38:44Z",
+      "title_en": "Huang je připraven vrátit se do čela Nvidie",
+      "lead_en": "Bývalý šéf amerického výrobce čipů Nvidia Jensen Huang je připraven vrátit se do čela této firmy, pokud to bude v zájmu společnosti, jejích akcionářů a zaměstnanců. Huang to podle agentury AFP uvedl v úterním prohlášení pro americká média.",
+      "title_raw": "Huang je připraven vrátit se do čela Nvidie",
+      "lead_raw": "Bývalý šéf amerického výrobce čipů Nvidia Jensen Huang je připraven vrátit se do čela této firmy, pokud to bude v zájmu společnosti, jejích akcionářů a zaměstnanců. Huang to podle agentury AFP uvedl v úterním prohlášení pro americká média.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "6400446b0be0c453d11ee27a5af39a604771987b",
       "fingerprint": "4b07da64956a8fd6dcc0758439eee13270bf0959",
@@ -292,30 +336,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "0aa77ec326c2729668da1b862dcc401cff1eb58b",
-      "fingerprint": "f093631fe96c31d7a5f76bcaa27b3e8ff377a7a0",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/sektorove-dane-jsou-spatne-mini-skopecek-murova-argumentuje-nadziskem-rafinerii-379628",
-      "published_utc": "2026-11-15T12:16:49Z",
-      "title_en": "Sektorové daně jsou špatně, míní Skopeček. Murová argumentuje „nadziskem“ rafinerií",
-      "lead_en": "Vláda vážně zvažuje zavedení sektorových daní pro banky nebo zbrojařské a&nbsp;energetické firmy. Vynést to má nižší desítky miliard korun, kabinet by je rád využil zejména v&nbsp;roce 2028 ke snížení schodku veřejných financí.",
-      "title_raw": "Sektorové daně jsou špatně, míní Skopeček. Murová argumentuje „nadziskem“ rafinerií",
-      "lead_raw": "Vláda vážně zvažuje zavedení sektorových daní pro banky nebo zbrojařské a&nbsp;energetické firmy. Vynést to má nižší desítky miliard korun, kabinet by je rád využil zejména v&nbsp;roce 2028 ke snížení schodku veřejných financí.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }

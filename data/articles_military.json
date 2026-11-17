@@ -1,10 +1,430 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-17T09:49:41Z",
+  "updated_at_utc": "2026-11-17T18:49:30Z",
   "topic": "military",
-  "count": 67,
+  "count": 72,
   "articles": [
+    {
+      "id": "026087c8a18b755f43db7cde012bc132b6f93a32",
+      "fingerprint": "2d86c04ead0df67cf8d37c0352969deb779c4dab",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-utajovana-sit-americke-spionaze-zkolabovala-40609115",
+      "published_utc": "2026-11-17T17:22:43Z",
+      "title_en": "Utajovaná síť americké špionáže zkolabovala",
+      "lead_en": "Vysoce utajovaná interní komunikační síť amerického Národního bezpečnostního úřadu (NSA), známá jako NSA Net, zaznamenala v úterý rozsáhlý výpadek. Incident zasáhl hlavní interní kanál, který zaměstnanci rozvědky využívají ke sdílení přísně tajných materiálů, píše web deníku The Independent.",
+      "title_raw": "Utajovaná síť americké špionáže zkolabovala",
+      "lead_raw": "Vysoce utajovaná interní komunikační síť amerického Národního bezpečnostního úřadu (NSA), známá jako NSA Net, zaznamenala v úterý rozsáhlý výpadek. Incident zasáhl hlavní interní kanál, který zaměstnanci rozvědky využívají ke sdílení přísně tajných materiálů, píše web deníku The Independent.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "58328e450b0cbca9cae03d57f62e20511651dc86",
+      "fingerprint": "413735e715bc3e22efb6f50226aa24fa07f845a6",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/zelenskyj-strely-patriot-ukrajina-nato-udsg-valka-na-ukrajine.A261117_173551_zahranicni_aya",
+      "published_utc": "2026-11-17T17:19:00Z",
+      "title_en": "Zelenskyj žádá spojence o střely Patriot. Američané kritizují údery v Rusku",
+      "lead_en": "Ukrajinský prezident Volodymyr Zelenskyj v úterý vyzval západní spojence, aby Ukrajině poskytli střely do protivzdušných systémů Patriot ze svých vlastních zásob. Tyto rakety by podle něj neměly zůstávat ležet ve skladech, ale měly by pomáhat chránit lidské životy na Ukrajině před ruskými vzdušnými útoky.",
+      "title_raw": "Zelenskyj žádá spojence o střely Patriot. Američané kritizují údery v Rusku",
+      "lead_raw": "Ukrajinský prezident Volodymyr Zelenskyj v úterý vyzval západní spojence, aby Ukrajině poskytli střely do protivzdušných systémů Patriot ze svých vlastních zásob. Tyto rakety by podle něj neměly zůstávat ležet ve skladech, ale měly by pomáhat chránit lidské životy na Ukrajině před ruskými vzdušnými útoky.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "b1dbb99e2dd162344ef399fc8e0100f8d4c5a3ee",
+      "fingerprint": "a95f40a70aead84047ac29749f2b15c4500c0312",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/zelenskyj-zada-spojence-o-strely-patriot-nemely-by-dle-nej-zustavat-ve-skladech-379695",
+      "published_utc": "2026-11-17T16:53:15Z",
+      "title_en": "Zelenskyj žádá spojence o střely Patriot, neměly by dle něj zůstávat ve skladech",
+      "lead_en": "Ukrajinský prezident Volodymyr Zelenskyj vyzval západní spojence, aby Ukrajině poskytli střely do protivzdušných systémů Patriot ze svých zásob. Tyto střely by podle něj neměly zůstávat ve skladech, ale měly by pomoci chránit životy Ukrajinců před ruskými vzdušnými útoky.",
+      "title_raw": "Zelenskyj žádá spojence o střely Patriot, neměly by dle něj zůstávat ve skladech",
+      "lead_raw": "Ukrajinský prezident Volodymyr Zelenskyj vyzval západní spojence, aby Ukrajině poskytli střely do protivzdušných systémů Patriot ze svých zásob. Tyto střely by podle něj neměly zůstávat ve skladech, ale měly by pomoci chránit životy Ukrajinců před ruskými vzdušnými útoky.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "e268bd2ab302659245e46d35dc297563ebaa07cb",
+      "fingerprint": "6fc5bfb53c77c65c724a92dcfe23dfb3f42a9822",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-v-rusku-se-zritil-vojensky-transportni-letoun-zahynulo-17-lidi-320816",
+      "published_utc": "2026-11-17T16:45:33Z",
+      "title_en": "V Rusku se zřítil vojenský transportní letoun, zahynulo 17 lidí",
+      "lead_en": "Pád vojenského transportního letounu An-12 na západní Sibiři si vyžádal smrt 17 lidí. O nehodě informují ruská média, její příčiny zatím nejsou jasné.",
+      "title_raw": "V Rusku se zřítil vojenský transportní letoun, zahynulo 17 lidí",
+      "lead_raw": "Pád vojenského transportního letounu An-12 na západní Sibiři si vyžádal smrt 17 lidí. O nehodě informují ruská média, její příčiny zatím nejsou jasné.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "1281cbea0a43365f877bed382062329d32ae2338",
+      "fingerprint": "bbde79132478f510c717c88c62f5399dff1b3a10",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/koktejl-zlodej-nedokazal-ukrast-bmw-protoze-si-neporadil-s-automatickou-prevodovkou-40608920",
+      "published_utc": "2026-11-17T16:35:00Z",
+      "title_en": "Zloděj nedokázal ukrást BMW, protože si neporadil s automatickou převodovkou",
+      "lead_en": "Nešikovný ozbrojený lupič v Argentině neuspěl při pokusu o krádež auta značky BMW, protože si nedokázal poradit s jeho automatickou převodovkou. Incident se odehrál na ulici za bílého dne a zachytila ho bezpečnostní kamera.",
+      "title_raw": "Zloděj nedokázal ukrást BMW, protože si neporadil s automatickou převodovkou",
+      "lead_raw": "Nešikovný ozbrojený lupič v Argentině neuspěl při pokusu o krádež auta značky BMW, protože si nedokázal poradit s jeho automatickou převodovkou. Incident se odehrál na ulici za bílého dne a zachytila ho bezpečnostní kamera.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "caef0d07e288baf57e7087cad101fe0e496aead7",
+      "fingerprint": "8d8e3a05d1b06cb6c00896b4261067f5b25553db",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/domaci/symbol-svobody-ci-ztrata-suverenity-na-narodni-tride-se-stretly-odlisne-nazory.A261117_122643_domaci_meli",
+      "published_utc": "2026-11-17T16:18:00Z",
+      "title_en": "Symbol svobody či ztráta suverenity. Na Národní třídě se střetly různorodé názory",
+      "lead_en": "Na Národní třídě v průběhu dne dochází k dílčím slovním potyčkám mezi lidmi. Předmětem poklidných i vyostřených debat jsou rozdílné názory na domácí politiku či členství Česka v NATO nebo Evropské unii.",
+      "title_raw": "Symbol svobody či ztráta suverenity. Na Národní třídě se střetly různorodé názory",
+      "lead_raw": "Na Národní třídě v průběhu dne dochází k dílčím slovním potyčkám mezi lidmi. Předmětem poklidných i vyostřených debat jsou rozdílné názory na domácí politiku či členství Česka v NATO nebo Evropské unii.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "c318c867bd922303e2a01852345797b8560fab5a",
+      "fingerprint": "1bee966e9fb2066fff4b5df2678033308edb9196",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/an-12-kemerovska-oblast-sibirletecka-katastrofa-pad-letadla.A261117_163914_zahranicni_aya",
+      "published_utc": "2026-11-17T16:04:00Z",
+      "title_en": "V Kemerovské oblasti na Sibiři se zřítilo vojenské letadlo, zahynulo 17 lidí",
+      "lead_en": "V ruské Kemerovské oblasti na Sibiři se zřítil vojenský transportní letoun An-12. Podle deníku Izvestija zahynulo všech 17 lidí na palubě.",
+      "title_raw": "V Kemerovské oblasti na Sibiři se zřítilo vojenské letadlo, zahynulo 17 lidí",
+      "lead_raw": "V ruské Kemerovské oblasti na Sibiři se zřítil vojenský transportní letoun An-12. Podle deníku Izvestija zahynulo všech 17 lidí na palubě.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "7e9d7d72f229691bb9577848b7a6a4a592b3677a",
+      "fingerprint": "d9afe9690a8fbdad7390c830a62b484092bd0199",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-rusove-zautocili-v-kyjeve-na-dva-mosty-ukrajinci-zverejnili-video-s-obrimi-kratery-40609095",
+      "published_utc": "2026-11-17T15:39:39Z",
+      "title_en": "Rusové zaútočili na dva mosty v Kyjevě. Ukrajinci zveřejnili video s obřími krátery",
+      "lead_en": "Ukrajinská armáda zveřejnila video, na němž jsou zachyceny poničené Jižní a Severní most v Kyjevě. Ruské síly na ně v noci na úterý vypálily sedm balistických raket.",
+      "title_raw": "Rusové zaútočili na dva mosty v Kyjevě. Ukrajinci zveřejnili video s obřími krátery",
+      "lead_raw": "Ukrajinská armáda zveřejnila video, na němž jsou zachyceny poničené Jižní a Severní most v Kyjevě. Ruské síly na ně v noci na úterý vypálily sedm balistických raket.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "c4f0c4be45f09b6ab63b9bf19024d08a30da9416",
+      "fingerprint": "9876db01cd282eab77fae7c9d3f183a024793e4d",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-na-sibiri-se-zritilo-vojenske-letadlo-40609103",
+      "published_utc": "2026-11-17T15:38:07Z",
+      "title_en": "Na Sibiři se zřítil ruský Antonov An-12. Všichni na palubě zemřeli",
+      "lead_en": "V ruské Kemerovské oblasti na Sibiři se zřítil vojenský transportní letoun An-12. Zahynulo všech 17 lidí na palubě, píše agentura TASS s odvoláním na tamějšího gubernátora Ilju Sereďuka.",
+      "title_raw": "Na Sibiři se zřítil ruský Antonov An-12. Všichni na palubě zemřeli",
+      "lead_raw": "V ruské Kemerovské oblasti na Sibiři se zřítil vojenský transportní letoun An-12. Zahynulo všech 17 lidí na palubě, píše agentura TASS s odvoláním na tamějšího gubernátora Ilju Sereďuka.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "f4c2bd2448df9e53c203f1ab5a8f0e38f6813f3f",
+      "fingerprint": "17791f66ac6acf5d41a3183831241361dc9adc6e",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/valka-na-ukrajine-starshield-ukrajina-zelenskyj.A261117_155204_zahranicni_aya",
+      "published_utc": "2026-11-17T15:29:00Z",
+      "title_en": "NATO chce obnovit systém Starshield, Ukrajina však stále bojuje s výpadky",
+      "lead_en": "Generální tajemník NATO Mark Rutte v úterý uvedl, že příslušné strany pracují na tom, aby byl satelitní systém Starshield, který Ukrajina využívá ke komunikaci na bojišti, co nejdříve opět plně funkční. Ukrajinský prezident Volodymyr Zelenskyj ve čtvrtek upozornil, že ukrajinská armáda zaznamenává již několik dní výrazné výpadky systému Starshield společnosti Elona Muska.",
+      "title_raw": "NATO chce obnovit systém Starshield, Ukrajina však stále bojuje s výpadky",
+      "lead_raw": "Generální tajemník NATO Mark Rutte v úterý uvedl, že příslušné strany pracují na tom, aby byl satelitní systém Starshield, který Ukrajina využívá ke komunikaci na bojišti, co nejdříve opět plně funkční. Ukrajinský prezident Volodymyr Zelenskyj ve čtvrtek upozornil, že ukrajinská armáda zaznamenává již několik dní výrazné výpadky systému Starshield společnosti Elona Muska.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "dfb54ebb2e7005f6cf2325119b6b1e0eb5839351",
+      "fingerprint": "a2d1a8f41caf2812ec55d5b62a3f5ddb3fa073de",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/rusko-vede-v-evrope-valku-v-cesku-nema-hrat-jeho-hymna-mini-macinka-vyjimku_2611171628_jho",
+      "published_utc": "2026-11-17T15:28:00Z",
+      "title_en": "Rusko vede v Evropě válku, v Česku nemá hrát jeho hymna, míní Macinka. Výjimku hokejistkám nedá",
+      "lead_en": "Ministr zahraničí Petr Macinka (Motoristé) je v těchto dnech spolu s premiérem Andrejem Babišem (ANO) a dalšími ministry na návštěvě Izraele. Jednají tam hlavně o posílení bezpečnosti České republiky.",
+      "title_raw": "Rusko vede v Evropě válku, v Česku nemá hrát jeho hymna, míní Macinka. Výjimku hokejistkám nedá",
+      "lead_raw": "Ministr zahraničí Petr Macinka (Motoristé) je v těchto dnech spolu s premiérem Andrejem Babišem (ANO) a dalšími ministry na návštěvě Izraele. Jednají tam hlavně o posílení bezpečnosti České republiky.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "5431181155a2b9f0687225ec17745e68d72d3760",
+      "fingerprint": "a6b47f31dea9762cc7850ab86e09bdd98aad38c4",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/municni-iniciativa-zajistuje-ukrajine-pres-60-procent-munice-uvedl-landovsky-379693",
+      "published_utc": "2026-11-17T15:19:49Z",
+      "title_en": "Muniční iniciativa zajišťuje Ukrajině přes 60 procent munice, uvedl Landovský",
+      "lead_en": "Muniční iniciativa zajišťuje více než 60 procent dělostřelecké munice pro Ukrajinu, uvedl po jednání ministrů obrany zemí Evropské unie (EU) v&nbsp;Bruselu Jakub Landovský z&nbsp;českého ministerstva obrany. V&nbsp;úterý odpoledne budou podle něj v&nbsp;NATO oznámeny nové příspěvky některých zemí.",
+      "title_raw": "Muniční iniciativa zajišťuje Ukrajině přes 60 procent munice, uvedl Landovský",
+      "lead_raw": "Muniční iniciativa zajišťuje více než 60 procent dělostřelecké munice pro Ukrajinu, uvedl po jednání ministrů obrany zemí Evropské unie (EU) v&nbsp;Bruselu Jakub Landovský z&nbsp;českého ministerstva obrany. V&nbsp;úterý odpoledne budou podle něj v&nbsp;NATO oznámeny nové příspěvky některých zemí.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "a1c4adacc388a5b9afe72a548cb242a9d32a862e",
+      "fingerprint": "eb14dc0e471f229b3506d701dab728280ec2a7cf",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-krymsky-most-znicila-kombinovana-operace-ze-vzduchu-a-more-rika-analytik-320794",
+      "published_utc": "2026-11-17T14:30:00Z",
+      "title_en": "Krymský most zničila kombinovaná operace ze vzduchu a moře, říká analytik",
+      "lead_en": "Ukrajinský vojenský analytik Oleksandr Kovalenko řekl Seznam Zprávám, že samotnému úderu předcházela postupná destrukce ruské protivzdušné obrany na Krymu.",
+      "title_raw": "Krymský most zničila kombinovaná operace ze vzduchu a moře, říká analytik",
+      "lead_raw": "Ukrajinský vojenský analytik Oleksandr Kovalenko řekl Seznam Zprávám, že samotnému úderu předcházela postupná destrukce ruské protivzdušné obrany na Krymu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "5865a11f2f3d5470b5e040b54609c1acb3777ee7",
+      "fingerprint": "f3098172a4a53ca4b6e8c8901780ad5ec2fd853c",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/severni-makedonie-recko-iran-atentat-bezpecnostni-sluzba-anb.A261117_144849_zahranicni_aya",
+      "published_utc": "2026-11-17T14:15:00Z",
+      "title_en": "Severní Makedonie tvrdí, že překazila atentát v Řecku. Rozbila síť napojenou na Írán",
+      "lead_en": "Úřady v Severní Makedonii v úterý uvedly, že překazily atentát na osobu v sousedním Řecku a rozbily rozsáhlou síť spojenou s Íránem. Severomakedonská Agentura pro národní bezpečnost (ANB) zadržela čtyři podezřelé, dalšího poslala do domácího vězení a po šestém úřady nadále pátrají.",
+      "title_raw": "Severní Makedonie tvrdí, že překazila atentát v Řecku. Rozbila síť napojenou na Írán",
+      "lead_raw": "Úřady v Severní Makedonii v úterý uvedly, že překazily atentát na osobu v sousedním Řecku a rozbily rozsáhlou síť spojenou s Íránem. Severomakedonská Agentura pro národní bezpečnost (ANB) zadržela čtyři podezřelé, dalšího poslala do domácího vězení a po šestém úřady nadále pátrají.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "789be8f11ce288b276839e0cdf94a70d053914a8",
+      "fingerprint": "c10e09e4b8cb7d33159cab07f4f149c16ab860fb",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/jak-putin-prebira-evropske-podniky-jejich-penize-i-vyrobky-miri-armade.A261113_150211_eko-zahranicni_jla",
+      "published_utc": "2026-11-17T14:00:00Z",
+      "title_en": "Jak Putin přebírá evropské podniky. Jejich peníze i výrobky míří armádě",
+      "lead_en": "Ruské pobočky evropských firem, nad nimiž převzal kontrolu Kreml, posílají miliardy rublů na podporu Putinovy armády. Peníze slouží k nákupu dronů a dalšího vybavení pro vojáky bojující na Ukrajině.",
+      "title_raw": "Jak Putin přebírá evropské podniky. Jejich peníze i výrobky míří armádě",
+      "lead_raw": "Ruské pobočky evropských firem, nad nimiž převzal kontrolu Kreml, posílají miliardy rublů na podporu Putinovy armády. Peníze slouží k nákupu dronů a dalšího vybavení pro vojáky bojující na Ukrajině.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "e432a349be2fabcd74fac139db320a38001b0e88",
+      "fingerprint": "bfd5f516e2ee56cdf403b2c6659fed27b581c6dc",
+      "source": "Radio Prague International (EN)",
+      "url": "https://english.radio.cz/spying-not-normal-interview-former-senior-cia-executive-mark-kelton-8902757",
+      "published_utc": "2026-11-17T11:47:00Z",
+      "title_en": "‘Spying is not normal.’ An interview with former senior CIA executive Mark Kelton",
+      "lead_en": "In early November, retired senior Central Intelligence Agency (CIA) executive Mark Kelton attended a conference organised by the Institute for the Study of Totalitarian Regimes at Prague’s Liechtenstein Palace. With 34 years of experience in intelligence operations, Kelton's first overseas assignment was in communist Prague.",
+      "title_raw": "‘Spying is not normal.’ An interview with former senior CIA executive Mark Kelton",
+      "lead_raw": "In early November, retired senior Central Intelligence Agency (CIA) executive Mark Kelton attended a conference organised by the Institute for the Study of Totalitarian Regimes at Prague’s Liechtenstein Palace. With 34 years of experience in intelligence operations, Kelton's first overseas assignment was in communist Prague.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "189888356aa993bf39ba7142d644b848d854d35c",
+      "fingerprint": "5672102d4d5dcc9a46e6028b0fe3e7e3f5b80a6d",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/kreml-chce-ukrajinu-zpet-do-sveho-imperia-mini-ukrajinsky-exministr-obrany-reznikov-379681",
+      "published_utc": "2026-11-17T10:36:52Z",
+      "title_en": "Kreml chce Ukrajinu zpět do svého impéria, míní ukrajinský exministr obrany Reznikov",
+      "lead_en": "Rusko se podle bývalého ukrajinského ministra obrany Oleksije Reznikova stále nesmířilo s&nbsp;nezávislostí Ukrajiny a&nbsp;usiluje o&nbsp;její návrat do své sféry vlivu. V&nbsp;rozhovoru pro Události, komentáře zdůraznil, že válka se netýká pouze Ukrajiny, ale také budoucnosti demokracie a&nbsp;bezpečnosti v&nbsp;Evropě.",
+      "title_raw": "Kreml chce Ukrajinu zpět do svého impéria, míní ukrajinský exministr obrany Reznikov",
+      "lead_raw": "Rusko se podle bývalého ukrajinského ministra obrany Oleksije Reznikova stále nesmířilo s&nbsp;nezávislostí Ukrajiny a&nbsp;usiluje o&nbsp;její návrat do své sféry vlivu. V&nbsp;rozhovoru pro Události, komentáře zdůraznil, že válka se netýká pouze Ukrajiny, ale také budoucnosti demokracie a&nbsp;bezpečnosti v&nbsp;Evropě.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "6e8dc8e52d7998506322f611317401565f7a5a11",
+      "fingerprint": "fc0edde5c17f00836e8e3381a6999b66ce735ab1",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-ukrajina-pripravovala-zasah-krymskeho-mostu-nekolik-tydnu-zelenskyj-odhalil-jeho-zakulisi-40609047",
+      "published_utc": "2026-11-17T10:23:23Z",
+      "title_en": "Sedm fází operace Krymský most. Ukrajinci prozradili detaily",
+      "lead_en": "Ukrajinský útok na Krymský most byl výsledkem několikatýdenní plánované operace, která měla celkem sedm fází. Uvedl to ukrajinský prezident Volodymyr Zelenskyj, podle něhož ukrajinské síly před samotným úderem postupně ničily ruské systémy protivzdušné obrany, radary a prostředky elektronického boje.",
+      "title_raw": "Sedm fází operace Krymský most. Ukrajinci prozradili detaily",
+      "lead_raw": "Ukrajinský útok na Krymský most byl výsledkem několikatýdenní plánované operace, která měla celkem sedm fází. Uvedl to ukrajinský prezident Volodymyr Zelenskyj, podle něhož ukrajinské síly před samotným úderem postupně ničily ruské systémy protivzdušné obrany, radary a prostředky elektronického boje.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "7450325843887b93221ce951ce827612d47ec515",
+      "fingerprint": "67a25fea820e62c9320c9a4fbcdc9edbe64e3939",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-na-setkani-koalice-ochotnych-do-berlina-prijede-35-predstavitelu-320774",
+      "published_utc": "2026-11-17T10:16:03Z",
+      "title_en": "Na setkání koalice ochotných do Berlína přijede 35 představitelů",
+      "lead_en": "Motto setkání se ponese v duchu „Společně za mír na Ukrajině a za evropskou bezpečnost“. Účast na jednání v Berlíně potvrdil také český premiér Andrej Babiš.",
+      "title_raw": "Na setkání koalice ochotných do Berlína přijede 35 představitelů",
+      "lead_raw": "Motto setkání se ponese v duchu „Společně za mír na Ukrajině a za evropskou bezpečnost“. Účast na jednání v Berlíně potvrdil také český premiér Andrej Babiš.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy"
+    },
     {
       "id": "9875ed2a0ae63162b7e09f33cbd14ed6ee65d2dc",
       "fingerprint": "b0e94e169be98d1391867dce076823c915cf5562",
@@ -1174,319 +1594,6 @@
       "lead_en": "Spojené státy přesouvají na Blízký východ stále více vojenských sil. Letadlová loď USS Theodore Roosevelt vplula o víkendu do Arabského moře.",
       "title_raw": "Americká letadlová loď Theodore Roosevelt vplula do Arabského moře",
       "lead_raw": "Spojené státy přesouvají na Blízký východ stále více vojenských sil. Letadlová loď USS Theodore Roosevelt vplula o víkendu do Arabského moře.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "ede11c7bfeefd961d1ac77ffcf40d85579962da1",
-      "fingerprint": "76beed2cb53fa6468e5855338d9c5ed231ad3fe0",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-estonsko-od-prosince-zavre-hranice-s-ruskem-320632",
-      "published_utc": "2026-11-15T17:29:19Z",
-      "title_en": "Estonsko od prosince zavře hranice s Ruskem",
-      "lead_en": "Kvůli údajným sabotážím proti tamním zbrojovkám ze strany ruské GRU uzavře Estonsko hraniční přechody s Ruskem. Moskva se k věci zatím nevyjádřila.",
-      "title_raw": "Estonsko od prosince zavře hranice s Ruskem",
-      "lead_raw": "Kvůli údajným sabotážím proti tamním zbrojovkám ze strany ruské GRU uzavře Estonsko hraniční přechody s Ruskem. Moskva se k věci zatím nevyjádřila.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "8d659bd0594ef5a23f86b4602fc760b85cda1209",
-      "fingerprint": "3e17b343fcbd608944e634a4a8f6f47530d8061d",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/estonsko-uzavre-od-1-prosince-hranicni-prechody-s-ruskem-kvuli-hrozbe-sabotaze-379640",
-      "published_utc": "2026-11-15T15:54:55Z",
-      "title_en": "Estonsko uzavře od 1. prosince hraniční přechody s Ruskem kvůli hrozbě sabotáže",
-      "lead_en": "Tallinn od 1.&nbsp;prosince uzavře všechny hraniční přechody s&nbsp;Ruskem, oznámil na síti X estonský ministr zahraničí Margus Tsahkna. Důvodem jsou podle něj jasné důkazy, že ruská vojenská rozvědka GRU nařídila sabotážní útok proti estonské zbrojařské společnosti.",
-      "title_raw": "Estonsko uzavře od 1. prosince hraniční přechody s Ruskem kvůli hrozbě sabotáže",
-      "lead_raw": "Tallinn od 1.&nbsp;prosince uzavře všechny hraniční přechody s&nbsp;Ruskem, oznámil na síti X estonský ministr zahraničí Margus Tsahkna. Důvodem jsou podle něj jasné důkazy, že ruská vojenská rozvědka GRU nařídila sabotážní útok proti estonské zbrojařské společnosti.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "95f7d9a07078cea6a39069713b52cddb69c2106c",
-      "fingerprint": "e03555f13bdc6ff73b7a6f9da9eaeb6d1915ef99",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/estonsko-uzavre-od-1-prosince-hranice-s-ruskem-uvedl-podle-reuters-ministr-zahranici-upozornil-na-hr.A261115_164217_zahranicni_remy",
-      "published_utc": "2026-11-15T15:45:00Z",
-      "title_en": "Estonsko zavře hranice s Ruskem. Poslední kapkou je pokus o sabotáž proti zbrojovce",
-      "lead_en": "Estonsko se rozhodlo s účinností od 1. prosince uzavřít všechny silniční hraniční přechody s Ruskem v reakci na zmařený pokus o sabotáž proti zbrojní společnosti Threod Systems.",
-      "title_raw": "Estonsko zavře hranice s Ruskem. Poslední kapkou je pokus o sabotáž proti zbrojovce",
-      "lead_raw": "Estonsko se rozhodlo s účinností od 1. prosince uzavřít všechny silniční hraniční přechody s Ruskem v reakci na zmařený pokus o sabotáž proti zbrojní společnosti Threod Systems.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "0071a04484d764a58f141c2063ed6f273ad4cb37",
-      "fingerprint": "cd63f5451919c342b63fc90c7ab073a3eedac094",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/letna-milion-chvilek-demonstrace-protesty-okamura-verejnopravni-media-mikulas-minar-vlada.A261112_123519_domaci_ikro",
-      "published_utc": "2026-11-15T15:41:00Z",
-      "title_en": "Na 400 tisíc lidí burcovalo na Letné. Žádají nový dialog i konec Okamury a Zůny",
-      "lead_en": "Na 400 tisíc lidí na pražské Letné protestovalo proti vládě a na obranu veřejnoprávních médií. Spolek Milion chvilek pro demokracii žádá vládní koalici, aby odvolala Tomia Okamuru z čela Sněmovny a sebrala hnutí SPD ministerstvo obrany.",
-      "title_raw": "Na 400 tisíc lidí burcovalo na Letné. Žádají nový dialog i konec Okamury a Zůny",
-      "lead_raw": "Na 400 tisíc lidí na pražské Letné protestovalo proti vládě a na obranu veřejnoprávních médií. Spolek Milion chvilek pro demokracii žádá vládní koalici, aby odvolala Tomia Okamuru z čela Sněmovny a sebrala hnutí SPD ministerstvo obrany.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "dd9c20b7de25d6cb70fb22aaa201a26b5c968b9c",
-      "fingerprint": "b64236d17e5034ce6619fa985c8e5e72afe3bd0c",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/tomio-okamura-milion-chvilek-pro-demokracii-odvolani-demonstrace-letna.A261115_155607_domaci_ikro",
-      "published_utc": "2026-11-15T15:26:00Z",
-      "title_en": "Navštěvují se s opozicí. Okamura odmítl výzvu Milionu chvilek k jeho odvolání",
-      "lead_en": "„Navštěvují se s opozicí,“ reagoval Tomio Okamura pro iDNES.cz na výzvu spolku Milion chvilek pro demokracii, aby odešel z čela Poslanecké sněmovny. Organizátoři nedělní demonstrace na pražské Letné zároveň požadují, aby hnutí SPD přišlo o ministerstvo obrany a vláda ustoupila od plánů na zrušení koncesionářských poplatků.",
-      "title_raw": "Navštěvují se s opozicí. Okamura odmítl výzvu Milionu chvilek k jeho odvolání",
-      "lead_raw": "„Navštěvují se s opozicí,“ reagoval Tomio Okamura pro iDNES.cz na výzvu spolku Milion chvilek pro demokracii, aby odešel z čela Poslanecké sněmovny. Organizátoři nedělní demonstrace na pražské Letné zároveň požadují, aby hnutí SPD přišlo o ministerstvo obrany a vláda ustoupila od plánů na zrušení koncesionářských poplatků.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "f681f7ba537de44046d1e2b368777b06e8da5991",
-      "fingerprint": "090ca0a8b064008901ebf5ea17be1e4f925f83c4",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-nenechme-se-pri-jednanich-lapit-do-ruske-pasti-varuje-kallasova-40608541",
-      "published_utc": "2026-11-15T15:13:16Z",
-      "title_en": "Nenechme se při jednáních lapit do ruské pasti, varuje Kallasová",
-      "lead_en": "Šéfka unijní diplomacie Kaja Kallasová se domnívá, že před jakýmikoli diskusemi o evropské bezpečnostní architektuře musí nejprve dojít k uzavření příměří v rusko-ukrajinské válce. Uvedla to v pátek na neformálním summitu EU v Dublinu.",
-      "title_raw": "Nenechme se při jednáních lapit do ruské pasti, varuje Kallasová",
-      "lead_raw": "Šéfka unijní diplomacie Kaja Kallasová se domnívá, že před jakýmikoli diskusemi o evropské bezpečnostní architektuře musí nejprve dojít k uzavření příměří v rusko-ukrajinské válce. Uvedla to v pátek na neformálním summitu EU v Dublinu.",
-      "topic_scores": {
-        "diplomacy": 4,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "2673b845e2cd06bffca6b34f1674f96fb12bff6c",
-      "fingerprint": "04a1b7ee8efdb79a0dc87c38b0c3e5a891551cf2",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/zelenskyj-starshield-spacex-ukrajina-rusko-valka.A261115_140452_zahranicni_jhr",
-      "published_utc": "2026-11-15T14:32:00Z",
-      "title_en": "Omezení Starshieldu pomáhá Rusku zasahovat Ukrajinu, uvedl Zelenskyj",
-      "lead_en": "Ruská armáda v noci na neděli zaútočila na energetickou a železniční infrastrukturu v osmi ukrajinských regionech. Uvedl to ukrajinský prezident Volodymyr Zelenskyj.",
-      "title_raw": "Omezení Starshieldu pomáhá Rusku zasahovat Ukrajinu, uvedl Zelenskyj",
-      "lead_raw": "Ruská armáda v noci na neděli zaútočila na energetickou a železniční infrastrukturu v osmi ukrajinských regionech. Uvedl to ukrajinský prezident Volodymyr Zelenskyj.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "4abba28b297facb1057286efc159c1271b5c7a21",
-      "fingerprint": "92112f1ae0855e6053c023664cde6f3700f18eec",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/iran-evropa-rusko-valka-britanie-usa-zakladny-sabotaz-terorismus.A261115_132426_zahranicni_jhr",
-      "published_utc": "2026-11-15T13:49:00Z",
-      "title_en": "Írán může údery raket vtáhnout do svého konfliktu Evropu. S ruskou pomocí",
-      "lead_en": "Teherán hrozí, že pokud USA znovu zaútočí na Írán, podnikne útoky i na vojenské základny v Evropě. Už nyní evropské činitele znepokojuje íránská hybridní kampaň.",
-      "title_raw": "Írán může údery raket vtáhnout do svého konfliktu Evropu. S ruskou pomocí",
-      "lead_raw": "Teherán hrozí, že pokud USA znovu zaútočí na Írán, podnikne útoky i na vojenské základny v Evropě. Už nyní evropské činitele znepokojuje íránská hybridní kampaň.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "3afb5192f322050bf3c9d21c5abb971c4ae0801e",
-      "fingerprint": "0790087096c582ccb2be8440742d55fa99f39ab0",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-jordansko-odsoudilo-tri-muze-k-obeseni-za-utok-na-kostel-pri-kterem-zemrelo-devet-lidi-40608701",
-      "published_utc": "2026-11-15T13:26:39Z",
-      "title_en": "Jordánsko odsoudilo tři muže k oběšení za útok na kostel, při kterém zemřelo devět lidí",
-      "lead_en": "Soud v Jordánsku odsoudil tři muže k trestu smrti oběšením za ozbrojený útok na kostel ve městě Karak na západě země. Útok se odehrál 23.",
-      "title_raw": "Jordánsko odsoudilo tři muže k oběšení za útok na kostel, při kterém zemřelo devět lidí",
-      "lead_raw": "Soud v Jordánsku odsoudil tři muže k trestu smrti oběšením za ozbrojený útok na kostel ve městě Karak na západě země. Útok se odehrál 23.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "da8f57cc10981aab11944e004fbc223614a66f45",
-      "fingerprint": "3f6a05ce95804157f97c43f2a897c45638ed1b3e",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/debata-vlada-ct-protest-letna-poplatky-macinka-fiala-okamura.A261115_102231_domaci_sahu",
-      "published_utc": "2026-11-15T12:52:00Z",
-      "title_en": "Minář distribuuje miliony bůhvíkam a pro lidi neudělají nic, řekl Macinka o spolku",
-      "lead_en": "Hlavními tématy Nedělní debaty na ČT se stala chystaná demonstrace na Letné a neúčast českých vojáků na cvičení v Polsku. Podle opozice jsou protesty vizitkou kabinetu kvůli noční mediální novele, vicepremiér Petr Macinka (Motoristé) je však označil za opoziční akci bez přínosu pro lidi.",
-      "title_raw": "Minář distribuuje miliony bůhvíkam a pro lidi neudělají nic, řekl Macinka o spolku",
-      "lead_raw": "Hlavními tématy Nedělní debaty na ČT se stala chystaná demonstrace na Letné a neúčast českých vojáků na cvičení v Polsku. Podle opozice jsou protesty vizitkou kabinetu kvůli noční mediální novele, vicepremiér Petr Macinka (Motoristé) je však označil za opoziční akci bez přínosu pro lidi.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "f889969377f225ec60f97590787f922488ceb261",
-      "fingerprint": "6a9968da9b04771463f8e2b20c4f046e32b9c09b",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/zive-na-prazske-letne-se-lide-schazeji-k-protestu-za-nezavislost-verejnopravnich_2611151349_vdv",
-      "published_utc": "2026-11-15T12:49:00Z",
-      "title_en": "Největší protest v dějinách samostatné republiky. Lidé demonstrovali nejen za veřejnoprávní média",
-      "lead_en": "Na pražské Letné v neděli v 16.45 skončila demonstrace proti navrhované změně financování veřejnoprávních médií a za jejich nezávislost. Kritiku chtěli organizátoři vyjádřit i vůči postupu vlády v oblasti kultury, justice nebo bezpečnosti, ekologie a zdraví.",
-      "title_raw": "Největší protest v dějinách samostatné republiky. Lidé demonstrovali nejen za veřejnoprávní média",
-      "lead_raw": "Na pražské Letné v neděli v 16.45 skončila demonstrace proti navrhované změně financování veřejnoprávních médií a za jejich nezávislost. Kritiku chtěli organizátoři vyjádřit i vůči postupu vlády v oblasti kultury, justice nebo bezpečnosti, ekologie a zdraví.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "6d5fe673af2b91961adff9023a518449212f293b",
-      "fingerprint": "1be7ebfe24966e8876cbced894c6320e2d1c37fc",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-ruskym-utokum-pomaha-omezeni-provozu-starshieldu-uvedl-zelenskyj-40608732",
-      "published_utc": "2026-11-15T12:30:25Z",
-      "title_en": "Ruským útokům pomáhá omezení provozu Starshieldu, uvedl Zelenskyj",
-      "lead_en": "Ruská armáda v noci na neděli útočila na energetickou a železniční infrastrukturu v osmi ukrajinských regionech. Informoval o tom ukrajinský prezident Volodymyr Zelenskyj.",
-      "title_raw": "Ruským útokům pomáhá omezení provozu Starshieldu, uvedl Zelenskyj",
-      "lead_raw": "Ruská armáda v noci na neděli útočila na energetickou a železniční infrastrukturu v osmi ukrajinských regionech. Informoval o tom ukrajinský prezident Volodymyr Zelenskyj.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "0aa77ec326c2729668da1b862dcc401cff1eb58b",
-      "fingerprint": "f093631fe96c31d7a5f76bcaa27b3e8ff377a7a0",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/sektorove-dane-jsou-spatne-mini-skopecek-murova-argumentuje-nadziskem-rafinerii-379628",
-      "published_utc": "2026-11-15T12:16:49Z",
-      "title_en": "Sektorové daně jsou špatně, míní Skopeček. Murová argumentuje „nadziskem“ rafinerií",
-      "lead_en": "Vláda vážně zvažuje zavedení sektorových daní pro banky nebo zbrojařské a&nbsp;energetické firmy. Vynést to má nižší desítky miliard korun, kabinet by je rád využil zejména v&nbsp;roce 2028 ke snížení schodku veřejných financí.",
-      "title_raw": "Sektorové daně jsou špatně, míní Skopeček. Murová argumentuje „nadziskem“ rafinerií",
-      "lead_raw": "Vláda vážně zvažuje zavedení sektorových daní pro banky nebo zbrojařské a&nbsp;energetické firmy. Vynést to má nižší desítky miliard korun, kabinet by je rád využil zejména v&nbsp;roce 2028 ke snížení schodku veřejných financí.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 2,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "1689bb97c6e1a617745ef6e1cdac96307f97a375",
-      "fingerprint": "81578c4db11c10178f43e8c9a7b95e69918a2cc5",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/liberec/zpravy/policie-zasah-nalez-munice-delostrelecka-strela-liberec-doprava-hasici.A261115_105252_liberec-zpravy_lav",
-      "published_utc": "2026-11-15T12:13:00Z",
-      "title_en": "Zastavené tramvaje, evakuovaní lidé. Ulici v Liberci ochromil nález munice",
-      "lead_en": "Čtrnáct lidí muselo v neděli ráno opustit svůj domov v ulici 1. máje v Liberci.",
-      "title_raw": "Zastavené tramvaje, evakuovaní lidé. Ulici v Liberci ochromil nález munice",
-      "lead_raw": "Čtrnáct lidí muselo v neděli ráno opustit svůj domov v ulici 1. máje v Liberci.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 1,
