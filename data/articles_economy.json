@@ -1,10 +1,33 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-16T17:35:03Z",
+  "updated_at_utc": "2026-11-17T01:11:41Z",
   "topic": "economy",
   "count": 16,
   "articles": [
+    {
+      "id": "6400446b0be0c453d11ee27a5af39a604771987b",
+      "fingerprint": "4b07da64956a8fd6dcc0758439eee13270bf0959",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/kanada-cinske-automobilky-pokud-selzou-usa-trump-carney.A261116_192902_eko-zahranicni_lupr",
+      "published_utc": "2026-11-16T18:51:00Z",
+      "title_en": "Upřednostníme čínské automobilky před americkými, varoval kanadský premiér",
+      "lead_en": "Kanada by mohla spolupracovat s čínskými automobilkami, pokud obchodní rozhovory s prezidentem Spojených států Donaldem Trumpem neumožní zachování integrovaného severoamerického automobilového průmyslu, řekl kanadský premiér Mark Carney. Podle něj je nezbytné, aby jakákoliv obchodní dohoda s Washingtonem zajišťovala životaschopnost automobilového průmyslu v Kanadě.",
+      "title_raw": "Upřednostníme čínské automobilky před americkými, varoval kanadský premiér",
+      "lead_raw": "Kanada by mohla spolupracovat s čínskými automobilkami, pokud obchodní rozhovory s prezidentem Spojených států Donaldem Trumpem neumožní zachování integrovaného severoamerického automobilového průmyslu, řekl kanadský premiér Mark Carney. Podle něj je nezbytné, aby jakákoliv obchodní dohoda s Washingtonem zajišťovala životaschopnost automobilového průmyslu v Kanadě.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "ed05c7344a405adbb623cd019c8ce9020ffd0659",
       "fingerprint": "82e2e44eff148af102e8b64bf18cd6159fb177da",
@@ -338,28 +361,6 @@
         "economy"
       ],
       "primary_topic": "military"
-    },
-    {
-      "id": "0f69f0617382336fbd1fdc3a0d3ddb6537017bb3",
-      "fingerprint": "4dcf625e40c1eac78820c2af4a52315797ab5e71",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/starsim-pracovnikum-se-na-trhu-dari-zkusenosti-jsou-v-ere-ai-vyhoda-rikaji-data.A261112_100116_eko-zahranicni_jadv",
-      "published_utc": "2026-11-14T23:00:00Z",
-      "title_en": "Starším pracovníkům se na trhu daří. Zkušenosti jsou v éře AI výhoda, říkají data",
-      "lead_en": "Zatímco trh práce je pro čerstvé absolventy vysokých škol, kteří se snaží prosadit v oborech jako technologie a finance, velmi náročný, zkušenější kancelářští pracovníci naopak zažívají příznivé období. Podle některých ukazatelů zaměstnanost lidí starších 35 let roste, generace mileniálů a generace X se tak ukazují jako velice cenné, neboť důkazy naznačují, že zkušenosti jsou v éře umělé inteligence výhodou.",
-      "title_raw": "Starším pracovníkům se na trhu daří. Zkušenosti jsou v éře AI výhoda, říkají data",
-      "lead_raw": "Zatímco trh práce je pro čerstvé absolventy vysokých škol, kteří se snaží prosadit v oborech jako technologie a finance, velmi náročný, zkušenější kancelářští pracovníci naopak zažívají příznivé období. Podle některých ukazatelů zaměstnanost lidí starších 35 let roste, generace mileniálů a generace X se tak ukazují jako velice cenné, neboť důkazy naznačují, že zkušenosti jsou v éře umělé inteligence výhodou.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
     }
   ]
 }
