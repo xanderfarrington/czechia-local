@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-18T09:21:27Z",
+  "updated_at_utc": "2026-11-18T18:28:54Z",
   "topic": "local_events",
   "count": 8,
   "articles": [
+    {
+      "id": "9048514d45ba4d98c4d6010dfc9357b59343c60f",
+      "fingerprint": "82bdf2b99c684d85a17b0235eaebf08bef3f12d0",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/praha/zpravy/po-srazce-vlaku-zustavaji-v-nemocnicich-nejmene-ctyri-lide-drahy-eviduji-zadosti-o-odskodneni.A261118_145032_praha-zpravy_bur",
+      "published_utc": "2026-11-18T14:03:00Z",
+      "title_en": "Po srážce vlaků zůstávají v nemocnicích nejméně čtyři lidé, dráhy evidují žádosti o odškodnění",
+      "lead_en": "V nemocnicích po úterní srážce dvou osobních vlaků u hlavního nádraží v Praze zůstávají nejméně čtyři zranění, další dva byli propuštěni ve středu ráno. Podle dřívějších vyjádření záchranářů bylo při nehodě zraněno 46 lidí, z toho čtyři těžce, 12 středně těžce a 30 lehce.",
+      "title_raw": "Po srážce vlaků zůstávají v nemocnicích nejméně čtyři lidé, dráhy evidují žádosti o odškodnění",
+      "lead_raw": "V nemocnicích po úterní srážce dvou osobních vlaků u hlavního nádraží v Praze zůstávají nejméně čtyři zranění, další dva byli propuštěni ve středu ráno. Podle dřívějších vyjádření záchranářů bylo při nehodě zraněno 46 lidí, z toho čtyři těžce, 12 středně těžce a 30 lehce.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "597d252eb4e9bec7faa575018ecc18daf274effb",
       "fingerprint": "8e46195c308f981bc4da13262edee304fcc472b8",
@@ -155,29 +177,6 @@
         "local_events": 2
       },
       "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "f57dd41c6476488d34196e9b1171c96f7276e8e9",
-      "fingerprint": "6e6611455a6b922b0a0b106476de7a8a0d707c2d",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-po-zemi-je-to-riskantni-kyjev-rozsiruje-evakuaci-zranenych-leteckymi-drony-320447",
-      "published_utc": "2026-11-16T17:55:00Z",
-      "title_en": "Po zemi to nejde, tak Ukrajinci zraněné z fronty evakuují leteckými drony",
-      "lead_en": "Armáda sice při evakuacích využívá bezpilotní pozemní vozidla, čímž snižuje závislost na lidských zdrojích, stroje jsou ale často pomalé a představují snadný cíl pro přítomné ruské drony.",
-      "title_raw": "Po zemi to nejde, tak Ukrajinci zraněné z fronty evakuují leteckými drony",
-      "lead_raw": "Armáda sice při evakuacích využívá bezpilotní pozemní vozidla, čímž snižuje závislost na lidských zdrojích, stroje jsou ale často pomalé a představují snadný cíl pro přítomné ruské drony.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
         "local_events"
       ],
       "primary_topic": "local_events"
