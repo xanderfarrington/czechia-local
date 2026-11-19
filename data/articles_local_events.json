@@ -1,10 +1,76 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-19T08:04:52Z",
+  "updated_at_utc": "2026-11-19T17:46:54Z",
   "topic": "local_events",
-  "count": 5,
+  "count": 6,
   "articles": [
+    {
+      "id": "30faeff0a4b21b17f93d566cb622ef7c594462de",
+      "fingerprint": "8f084ff1e89f5723d435bd1cb97fdf607a5206c8",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/plzen/zpravy/nehoda-autobus-auto-kaznejov-tremosna-zraneni.A261119_110903_plzen-zpravy_epkbn",
+      "published_utc": "2026-11-19T16:42:00Z",
+      "title_en": "Školní autobus se střetl s autem. Řidička je mrtvá, zraněné děti vytahovali okénkem",
+      "lead_en": "Tragicky skončila dopolední čelní srážka autobusu s předškolními dětmi, které jely z divadelního představení, a osobního auta na severním Plzeňsku mezi Třemošnou a Kaznějovem. Řidička osobního auta zemřela.",
+      "title_raw": "Školní autobus se střetl s autem. Řidička je mrtvá, zraněné děti vytahovali okénkem",
+      "lead_raw": "Tragicky skončila dopolední čelní srážka autobusu s předškolními dětmi, které jely z divadelního představení, a osobního auta na severním Plzeňsku mezi Třemošnou a Kaznějovem. Řidička osobního auta zemřela.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "ca1a1421a23aac10a5c36612dd19a2279692f9da",
+      "fingerprint": "50d0f21703121e13270935422146076d6c6e02ce",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/nehoda-autobus-auto-deti-plzensko-kaznejov-tremosna_2611191137_ako",
+      "published_utc": "2026-11-19T10:37:00Z",
+      "title_en": "Autobus s dětmi havaroval na Plzeňsku po kolizi s autem. Řidička vozu zemřela, zraněných je 13",
+      "lead_en": "Na Plzeňsku ve čtvrtek havaroval autobus, který převážel na čtyři desítky dětí. Po kolizi s osobním autem se ocitl částečně na boku, hasiči děti a pedagogy dostávali ven okénky.",
+      "title_raw": "Autobus s dětmi havaroval na Plzeňsku po kolizi s autem. Řidička vozu zemřela, zraněných je 13",
+      "lead_raw": "Na Plzeňsku ve čtvrtek havaroval autobus, který převážel na čtyři desítky dětí. Po kolizi s osobním autem se ocitl částečně na boku, hasiči děti a pedagogy dostávali ven okénky.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "4cdd6b9f4cafa2a8f80e925fcee08a48abac9ff4",
+      "fingerprint": "e5917b027651624e4c43698d25a7cc7c384042f9",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-u-plzne-se-celne-srazil-skolni-autobus-s-osobni-vozem-na-miste-jsou-zraneni-40609411",
+      "published_utc": "2026-11-19T10:03:46Z",
+      "title_en": "Čelní srážka u Plzně. Řidič auta zemřel, školní autobus s dětmi skončil na boku",
+      "lead_en": "Tragické následky má čtvrteční nehoda, která se stala mezi Kaznějovem a Třemošnou na severním Plzeňsku. Podle prvotních informací se čelně srazil automobil a školní autobus převážející 28 dětí.",
+      "title_raw": "Čelní srážka u Plzně. Řidič auta zemřel, školní autobus s dětmi skončil na boku",
+      "lead_raw": "Tragické následky má čtvrteční nehoda, která se stala mezi Kaznějovem a Třemošnou na severním Plzeňsku. Podle prvotních informací se čelně srazil automobil a školní autobus převážející 28 dětí.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "bd921e1e2357e225c4dfa7a6a1362843cb299f29",
       "fingerprint": "8c15ca441fb76d8134ec6aa3384a6b7a52b6121a",
@@ -65,50 +131,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "597d252eb4e9bec7faa575018ecc18daf274effb",
-      "fingerprint": "8e46195c308f981bc4da13262edee304fcc472b8",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-ve-stanici-metra-borislavka-skocil-muz-primo-pod-soupravu-nic-se-mu-nestalo-40609097",
-      "published_utc": "2026-11-17T15:22:52Z",
-      "title_en": "Muž skočil přímo pod soupravu metra",
-      "lead_en": "Ve stanici metra Bořislavka na lince A skočil v úterý cca v 15:45 muž přímo pod vlak a zůstal pod soupravou zaklíněn. Po vyproštění záchranáři na místě zjistili, že se pokusil o sebevraždu, ale při pádu neutrpěl žádné zranění, protože ho metro nesrazilo.",
-      "title_raw": "Muž skočil přímo pod soupravu metra",
-      "lead_raw": "Ve stanici metra Bořislavka na lince A skočil v úterý cca v 15:45 muž přímo pod vlak a zůstal pod soupravou zaklíněn. Po vyproštění záchranáři na místě zjistili, že se pokusil o sebevraždu, ale při pádu neutrpěl žádné zranění, protože ho metro nesrazilo.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "d1bfa6af4c28f6755465db42ac5cfe8a42b5559d",
-      "fingerprint": "9e118c7669b751999fcbfd6d7954f03967dea3ac",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/praha/zpravy/u-hlavniho-nadrazi-v-praze-se-srazily-dva-vlaky-na-miste-jsou-zraneni.A261117_074934_praha-zpravy_vank",
-      "published_utc": "2026-11-17T09:36:00Z",
-      "title_en": "U hlavního nádraží v Praze se srazily dva vlaky, záchranáři ošetřili i těžce zraněné",
-      "lead_en": "V úterý ráno se u hlavního nádraží v Praze na přemostění se Seifertovou ulicí v Praze 3 srazily dva vlaky. Na místě zasahovaly všechny složky integrovaného záchranného systému.",
-      "title_raw": "U hlavního nádraží v Praze se srazily dva vlaky, záchranáři ošetřili i těžce zraněné",
-      "lead_raw": "V úterý ráno se u hlavního nádraží v Praze na přemostění se Seifertovou ulicí v Praze 3 srazily dva vlaky. Na místě zasahovaly všechny složky integrovaného záchranného systému.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
       },
       "topics": [
         "local_events"
