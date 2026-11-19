@@ -1,10 +1,33 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-18T18:28:54Z",
+  "updated_at_utc": "2026-11-19T00:48:49Z",
   "topic": "economy",
   "count": 18,
   "articles": [
+    {
+      "id": "0c29cc051bc86c266ba17e4d7691e7ce29578201",
+      "fingerprint": "25ca32c5210ba17b05175a4fecbffdb4cb7519ef",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/nove-okruzni-krizovatky-restaurace-i-moderni-zimni-stadion-prerov-chysta-na_2611181941_tez",
+      "published_utc": "2026-11-18T18:41:00Z",
+      "title_en": "Nové okružní křižovatky, restaurace i moderní zimní stadion. Přerov chystá na příští rok vysoké investice",
+      "lead_en": "Investice za stovky milionů korun plánuje pro příští rok město Přerov. Patřit mezi ně bude vybudování dvou okružních křižovatek, přestavba bývalé hasičské zbrojnice na Šířavě, proměna vnitrobloku u Mervartovy ulice, modernizace zimního stadionu nebo přestavba restaurace Městského domu.",
+      "title_raw": "Nové okružní křižovatky, restaurace i moderní zimní stadion. Přerov chystá na příští rok vysoké investice",
+      "lead_raw": "Investice za stovky milionů korun plánuje pro příští rok město Přerov. Patřit mezi ně bude vybudování dvou okružních křižovatek, přestavba bývalé hasičské zbrojnice na Šířavě, proměna vnitrobloku u Mervartovy ulice, modernizace zimního stadionu nebo přestavba restaurace Městského domu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "f500373d0654a5b2e3e31961bfe01f23be690239",
       "fingerprint": "c4e3742a31d816433bce60c053486223a91787ff",
@@ -380,29 +403,6 @@
         "local_events": 0
       },
       "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "6400446b0be0c453d11ee27a5af39a604771987b",
-      "fingerprint": "4b07da64956a8fd6dcc0758439eee13270bf0959",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/kanada-cinske-automobilky-pokud-selzou-usa-trump-carney.A261116_192902_eko-zahranicni_lupr",
-      "published_utc": "2026-11-16T18:51:00Z",
-      "title_en": "Upřednostníme čínské automobilky před americkými, varoval kanadský premiér",
-      "lead_en": "Kanada by mohla spolupracovat s čínskými automobilkami, pokud obchodní rozhovory s prezidentem Spojených států Donaldem Trumpem neumožní zachování integrovaného severoamerického automobilového průmyslu, řekl kanadský premiér Mark Carney. Podle něj je nezbytné, aby jakákoliv obchodní dohoda s Washingtonem zajišťovala životaschopnost automobilového průmyslu v Kanadě.",
-      "title_raw": "Upřednostníme čínské automobilky před americkými, varoval kanadský premiér",
-      "lead_raw": "Kanada by mohla spolupracovat s čínskými automobilkami, pokud obchodní rozhovory s prezidentem Spojených států Donaldem Trumpem neumožní zachování integrovaného severoamerického automobilového průmyslu, řekl kanadský premiér Mark Carney. Podle něj je nezbytné, aby jakákoliv obchodní dohoda s Washingtonem zajišťovala životaschopnost automobilového průmyslu v Kanadě.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
         "economy"
       ],
       "primary_topic": "economy"
