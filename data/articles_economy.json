@@ -1,10 +1,77 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-20T14:28:42Z",
+  "updated_at_utc": "2026-11-20T22:00:25Z",
   "topic": "economy",
-  "count": 19,
+  "count": 20,
   "articles": [
+    {
+      "id": "cc47612f4bd0587489d8acbfda618759f4a0d7a1",
+      "fingerprint": "9f6e8dbd9804fbc695938dc503d3d45f548dd802",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-byznys-komodity-dluhopisy-padajici-ai-akcie-stahuji-i-med-321166",
+      "published_utc": "2026-11-20T17:30:00Z",
+      "title_en": "Padající AI akcie stahují i měď",
+      "lead_en": "Měď během týdne ztratila přes osm procent hodnoty. Výprodej souvisí s nejistotou kolem investic do AI, přestože fyzický trh s kovem zůstává v některých regionech napjatý.",
+      "title_raw": "Padající AI akcie stahují i měď",
+      "lead_raw": "Měď během týdne ztratila přes osm procent hodnoty. Výprodej souvisí s nejistotou kolem investic do AI, přestože fyzický trh s kovem zůstává v některých regionech napjatý.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "560a9cc5fbdb42002137ff852cb5d9a1deb5fbf0",
+      "fingerprint": "8a095cd70a05ab6a1ad553615012c4d68d0870a7",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/definitivni-konec-vyroby-tepla-z-cerneho-uhli-v-detmarovicich-nahradi-ho-biomasa_2611201747_aln",
+      "published_utc": "2026-11-20T17:15:00Z",
+      "title_en": "Definitivní konec výroby tepla z černého uhlí v Dětmarovicích. Nahradí ho biomasa a zemní plyn",
+      "lead_en": "V Dětmarovicích na Karvinsku definitivně skončila historie výroby tepla z černého uhlí. Společnost ČEZ naplno spustila novou teplárnu za více než dvě miliardy korun, která nahradila po padesáti letech největší černouhelnou elektrárnu v zemi.",
+      "title_raw": "Definitivní konec výroby tepla z černého uhlí v Dětmarovicích. Nahradí ho biomasa a zemní plyn",
+      "lead_raw": "V Dětmarovicích na Karvinsku definitivně skončila historie výroby tepla z černého uhlí. Společnost ČEZ naplno spustila novou teplárnu za více než dvě miliardy korun, která nahradila po padesáti letech největší černouhelnou elektrárnu v zemi.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 5,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "55394d7e56ae344fb4327ceb5af85554ee4bc275",
+      "fingerprint": "58b2547901c1181504eda9640b561264032847f0",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-gta-vi-prekonala-i-nejvetsi-filmove-trhaky-hra-za-jediny-den-vydelala-52-miliard-40609742",
+      "published_utc": "2026-11-20T15:10:38Z",
+      "title_en": "GTA VI překonala i největší filmové trháky, hra za jediný den vydělala desítky miliard",
+      "lead_en": "Více než dekádu na něj hráči netrpělivě čekali, a tak se čtvrteční vydání Grand Theft Auto VI proměnilo v nejúspěšnější premiéru v dějinách zábavního průmyslu. Novinka od studia Rockstar Games podle analytické společnosti Sensor Tower prodala během prvního dne více než 24,5 milionu kopií a utržila okolo 2,36 miliardy dolarů, tedy více než 52 miliard korun.",
+      "title_raw": "GTA VI překonala i největší filmové trháky, hra za jediný den vydělala desítky miliard",
+      "lead_raw": "Více než dekádu na něj hráči netrpělivě čekali, a tak se čtvrteční vydání Grand Theft Auto VI proměnilo v nejúspěšnější premiéru v dějinách zábavního průmyslu. Novinka od studia Rockstar Games podle analytické společnosti Sensor Tower prodala během prvního dne více než 24,5 milionu kopií a utržila okolo 2,36 miliardy dolarů, tedy více než 52 miliard korun.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "580fffbe56b9757786a0dae73c33e20fe49a7b1f",
       "fingerprint": "1a1c2123e2f2c704b5dc1e4c1a928a0352f36c3c",
@@ -376,51 +443,6 @@
         "military": 0,
         "energy": 0,
         "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "0c29cc051bc86c266ba17e4d7691e7ce29578201",
-      "fingerprint": "25ca32c5210ba17b05175a4fecbffdb4cb7519ef",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/nove-okruzni-krizovatky-restaurace-i-moderni-zimni-stadion-prerov-chysta-na_2611181941_tez",
-      "published_utc": "2026-11-18T18:41:00Z",
-      "title_en": "Nové okružní křižovatky, restaurace i moderní zimní stadion. Přerov chystá na příští rok vysoké investice",
-      "lead_en": "Investice za stovky milionů korun plánuje pro příští rok město Přerov. Patřit mezi ně bude vybudování dvou okružních křižovatek, přestavba bývalé hasičské zbrojnice na Šířavě, proměna vnitrobloku u Mervartovy ulice, modernizace zimního stadionu nebo přestavba restaurace Městského domu.",
-      "title_raw": "Nové okružní křižovatky, restaurace i moderní zimní stadion. Přerov chystá na příští rok vysoké investice",
-      "lead_raw": "Investice za stovky milionů korun plánuje pro příští rok město Přerov. Patřit mezi ně bude vybudování dvou okružních křižovatek, přestavba bývalé hasičské zbrojnice na Šířavě, proměna vnitrobloku u Mervartovy ulice, modernizace zimního stadionu nebo přestavba restaurace Městského domu.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "f500373d0654a5b2e3e31961bfe01f23be690239",
-      "fingerprint": "c4e3742a31d816433bce60c053486223a91787ff",
-      "source": "iROZHLAS - Economy",
-      "url": "https://www.irozhlas.cz/ekonomika/ceske-firmy-brzdi-ceny-energii-i-situace-nemecka-expert-spicar-umensuji-az_2611181909_jar",
-      "published_utc": "2026-11-18T18:09:00Z",
-      "title_en": "České firmy brzdí ceny energií i situace Německa. Expert Špicar: Umenšují až zastavují investice",
-      "lead_en": "Česká bankovní asociace zhoršila výhled vývoje ekonomiky. Letos očekává růst pouze o 1,7 procenta, v příštím roce by pak měl vývoj české ekonomiky mírně zrychlit.",
-      "title_raw": "České firmy brzdí ceny energií i situace Německa. Expert Špicar: Umenšují až zastavují investice",
-      "lead_raw": "Česká bankovní asociace zhoršila výhled vývoje ekonomiky. Letos očekává růst pouze o 1,7 procenta, v příštím roce by pak měl vývoj české ekonomiky mírně zrychlit.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
         "local_events": 0
       },
       "topics": [
