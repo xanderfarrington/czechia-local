@@ -1,10 +1,32 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-21T11:52:16Z",
+  "updated_at_utc": "2026-11-21T18:20:57Z",
   "topic": "local_events",
   "count": 20,
   "articles": [
+    {
+      "id": "219784add00e955fa0c0639c004c7341af6d54e2",
+      "fingerprint": "59da91edf34f3b62340c95f67476adaf7ec550c9",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-na-orlickoustecku-zemrel-v-noci-pri-stretu-s-autem-chodec-40609823",
+      "published_utc": "2026-11-21T12:07:16Z",
+      "title_en": "Na Orlickoústecku zemřel v noci při střetu s autem chodec",
+      "lead_en": "Při nehodě v Tisové na Orlickoústecku zemřel v noci na sobotu osmaosmdesátiletý chodec. Srazil ho osobní vůz.",
+      "title_raw": "Na Orlickoústecku zemřel v noci při střetu s autem chodec",
+      "lead_raw": "Při nehodě v Tisové na Orlickoústecku zemřel v noci na sobotu osmaosmdesátiletý chodec. Srazil ho osobní vůz.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "876f94a072e7b77cc26ed2606347b8b06b78f90b",
       "fingerprint": "8312b65eda290ab911c97b4963dbafec5c63d750",
@@ -421,28 +443,6 @@
         "energy": 0,
         "economy": 0,
         "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "30faeff0a4b21b17f93d566cb622ef7c594462de",
-      "fingerprint": "8f084ff1e89f5723d435bd1cb97fdf607a5206c8",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/plzen/zpravy/nehoda-autobus-auto-kaznejov-tremosna-zraneni.A261119_110903_plzen-zpravy_epkbn",
-      "published_utc": "2026-11-19T16:42:00Z",
-      "title_en": "Školní autobus se střetl s autem. Řidička je mrtvá, zraněné děti vytahovali okénkem",
-      "lead_en": "Tragicky skončila dopolední čelní srážka autobusu s předškolními dětmi, které jely z divadelního představení, a osobního auta na severním Plzeňsku mezi Třemošnou a Kaznějovem. Řidička osobního auta zemřela.",
-      "title_raw": "Školní autobus se střetl s autem. Řidička je mrtvá, zraněné děti vytahovali okénkem",
-      "lead_raw": "Tragicky skončila dopolední čelní srážka autobusu s předškolními dětmi, které jely z divadelního představení, a osobního auta na severním Plzeňsku mezi Třemošnou a Kaznějovem. Řidička osobního auta zemřela.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
       },
       "topics": [
         "local_events"

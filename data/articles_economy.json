@@ -1,10 +1,55 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-21T11:52:16Z",
+  "updated_at_utc": "2026-11-21T18:20:57Z",
   "topic": "economy",
-  "count": 28,
+  "count": 23,
   "articles": [
+    {
+      "id": "c34dfcef7b45172bd271bc590148605b3d9a35f4",
+      "fingerprint": "596714999c14c5bbc4a118be27a3f62d3d6ee3d8",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-trendy-analyzy-jako-protlacit-mic-zahradni-hadici-proc-vyrobce-patriotu-nestiha-320839",
+      "published_utc": "2026-11-21T18:13:46Z",
+      "title_en": "Jako protlačit míč zahradní hadicí. Proč výrobce Patriotů nestíhá",
+      "lead_en": "Deník Wall Street Journal v rozsáhlém textu zmapoval, jakým potížím čelí výroba strategických raket do systému Patriot. Navýšení výroby, které nyní žádá Pentagon, je nyní prakticky mimo možnosti obranného průmyslu.",
+      "title_raw": "Jako protlačit míč zahradní hadicí. Proč výrobce Patriotů nestíhá",
+      "lead_raw": "Deník Wall Street Journal v rozsáhlém textu zmapoval, jakým potížím čelí výroba strategických raket do systému Patriot. Navýšení výroby, které nyní žádá Pentagon, je nyní prakticky mimo možnosti obranného průmyslu.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "dc53753a07b998186820c25d41bd523f1e7339bd",
+      "fingerprint": "c814b931255ad9d8f6ff4ab9d5435dec2d8dd399",
+      "source": "iROZHLAS - Economy",
+      "url": "https://www.irozhlas.cz/ekonomika/turbulence-na-americke-burza-zpusobil-anthropic-i-centralni-banka-trhy-funguji_2611211736_mst",
+      "published_utc": "2026-11-21T16:36:00Z",
+      "title_en": "Turbulence na americké burze způsobil Anthropic i centrální banka. Trhy fungují, jak mají, říká bankéř",
+      "lead_en": "Na akciovém trhu ve Spojených státech zrychlil výprodej, který vyvolaly obavy o další vývoj v odvětví umělé inteligence. Nervy investorů neuklidnil ani příchod jednoho z lídrů v oboru, společnosti Anthropic.",
+      "title_raw": "Turbulence na americké burze způsobil Anthropic i centrální banka. Trhy fungují, jak mají, říká bankéř",
+      "lead_raw": "Na akciovém trhu ve Spojených státech zrychlil výprodej, který vyvolaly obavy o další vývoj v odvětví umělé inteligence. Nervy investorů neuklidnil ani příchod jednoho z lídrů v oboru, společnosti Anthropic.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
     {
       "id": "9210179901cfc61317a2ca74d4d94afbd5317128",
       "fingerprint": "b066f0c867e8e8166713e724a82ad81637965ca2",
@@ -466,161 +511,6 @@
         "military": 0,
         "energy": 0,
         "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "8a0beec14fe82f87d17b1166728e2e883b8d9b25",
-      "fingerprint": "6d080670dfc4ff7de196886394931e1aeadebc58",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-cina-omezila-vyvoz-soucastek-pro-ruske-drony-v-den-putinova-prijezdu-do-sen-cenu-40609533",
-      "published_utc": "2026-11-19T16:07:43Z",
-      "title_en": "Čína omezila vývoz součástek pro ruské drony. V den Putinova příjezdu do Šen-čenu",
-      "lead_en": "Čínské úřady zavedly omezení vývozu součástek do Ruska na výrobu dronů typu Šáhid. Nařízení čínského ministerstva obchodu vstoupilo v platnost 18.",
-      "title_raw": "Čína omezila vývoz součástek pro ruské drony. V den Putinova příjezdu do Šen-čenu",
-      "lead_raw": "Čínské úřady zavedly omezení vývozu součástek do Ruska na výrobu dronů typu Šáhid. Nařízení čínského ministerstva obchodu vstoupilo v platnost 18.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "778c420b1fde36aab5f312ba49d696d6f0878d06",
-      "fingerprint": "102e4e19636e672259f8ee67efd028df7ebf6f02",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-slzy-i-strach-zprava-o-prodeji-zaskocila-zamestnance-tesca-320920",
-      "published_utc": "2026-11-19T16:00:00Z",
-      "title_en": "Slzy i strach. Zpráva o prodeji zaskočila zaměstnance Tesca",
-      "lead_en": "Zaměstnanci Tesca kritizují, že se o prodeji českých obchodů doslechli z médií. „Někteří chodili s vlhkýma očima od pláče,“ popsal jeden z nich.",
-      "title_raw": "Slzy i strach. Zpráva o prodeji zaskočila zaměstnance Tesca",
-      "lead_raw": "Zaměstnanci Tesca kritizují, že se o prodeji českých obchodů doslechli z médií. „Někteří chodili s vlhkýma očima od pláče,“ popsal jeden z nich.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "d9d66b6b4823684b1a68fef2d3c1ef90451734fd",
-      "fingerprint": "613cf863a8e626299a806c09c81956db67c2af2a",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-nejvetsi-letosni-aukce-bankovek-v-cesku-nabidne-skvost-od-muchy-i-bony-320921",
-      "published_utc": "2026-11-19T15:00:00Z",
-      "title_en": "Největší letošní aukce bankovek v Česku nabídne skvost od Muchy i bony",
-      "lead_en": "Sběratelé peněz mají příležitost doplnit si sbírky o kusy, které dosud nebyly v Česku na trhu. Chystaná aukce bude kromě vzácné „muchovky“ dražit třeba i první české bankovky a bony, o kterých se jen vědělo, že existují.",
-      "title_raw": "Největší letošní aukce bankovek v Česku nabídne skvost od Muchy i bony",
-      "lead_raw": "Sběratelé peněz mají příležitost doplnit si sbírky o kusy, které dosud nebyly v Česku na trhu. Chystaná aukce bude kromě vzácné „muchovky“ dražit třeba i první české bankovky a bony, o kterých se jen vědělo, že existují.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "f3570e14e26e62c0071113e4327be661228cf7e1",
-      "fingerprint": "34760ffad38cba1b17c892b4d1f3e471c55aac3d",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/dospeli-hracky-hrackarstvi.A261119_101044_eko-zahranicni_rie",
-      "published_utc": "2026-11-19T14:38:00Z",
-      "title_en": "Výrobci hraček se zaměřili na dospělé. Kupují si zpátky své dětství",
-      "lead_en": "Dospělí se stávají stále důležitějšími zákazníky hračkářského průmyslu. Za plyšáky, stavebnice Lego nebo sběratelské figurky jsou ochotni utrácet nemalé částky a někteří kvůli své zálibě dokonce omezují jiné výdaje.",
-      "title_raw": "Výrobci hraček se zaměřili na dospělé. Kupují si zpátky své dětství",
-      "lead_raw": "Dospělí se stávají stále důležitějšími zákazníky hračkářského průmyslu. Za plyšáky, stavebnice Lego nebo sběratelské figurky jsou ochotni utrácet nemalé částky a někteří kvůli své zálibě dokonce omezují jiné výdaje.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "f7b27daa7c6ccf106a15e5d606f81df1c3f0b0bc",
-      "fingerprint": "d6d5afa05facda1cc19ec5198f0c424f489a993d",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/svycarsko-referendum-vyvoz-zbrani.A261119_144205_eko-zahranicni_rie",
-      "published_utc": "2026-11-19T14:34:00Z",
-      "title_en": "Švýcaři rozhodnou o uvolnění vývozu zbraní. Průzkumy ukazují těsný souboj",
-      "lead_en": "Ve Švýcarsku se bude v referendu rozhodovat o zmírnění přísných pravidel pro vývoz zbraní a munice do zahraničí. Reforma schválená parlamentem má usnadnit prodej zbraní a podpořit domácí zbrojovky, které kvůli tradiční politice neutrality přicházejí o zakázky a přesouvají výrobu za hranice.",
-      "title_raw": "Švýcaři rozhodnou o uvolnění vývozu zbraní. Průzkumy ukazují těsný souboj",
-      "lead_raw": "Ve Švýcarsku se bude v referendu rozhodovat o zmírnění přísných pravidel pro vývoz zbraní a munice do zahraničí. Reforma schválená parlamentem má usnadnit prodej zbraní a podpořit domácí zbrojovky, které kvůli tradiční politice neutrality přicházejí o zakázky a přesouvají výrobu za hranice.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 3,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "economy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "3b5eaf0b4f531a74603d922123f2895695d93e2e",
-      "fingerprint": "1fb1f295957d6ff3518dc4e01499a19f7a3af3c2",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-zpravy-liberecky-kraj-zakupy-se-razne-postavily-proti-ubytovne-nez-mit-ve-meste-neprizpusobive-radeji-se-vzdaji-na-cas-investic-40609491",
-      "published_utc": "2026-11-19T14:31:53Z",
-      "title_en": "Zákupy se rázně postavily proti ubytovně. Než mít ve městě nepřizpůsobivé, raději se vzdají na čas investic",
-      "lead_en": "Pozdrží plánovanou rekonstrukci historické budovy radnice, upraví připravený městský rozpočet na příští rok anebo změní územní plán. To všechno podnikají v Zákupech, malém městě na severu Čech se třemi tisíci obyvatel, jenom proto, aby zabránili vzniku ubytovny v jednom ze starších paneláků na okraji zdejšího sídliště Nové Zákupy.",
-      "title_raw": "Zákupy se rázně postavily proti ubytovně. Než mít ve městě nepřizpůsobivé, raději se vzdají na čas investic",
-      "lead_raw": "Pozdrží plánovanou rekonstrukci historické budovy radnice, upraví připravený městský rozpočet na příští rok anebo změní územní plán. To všechno podnikají v Zákupech, malém městě na severu Čech se třemi tisíci obyvatel, jenom proto, aby zabránili vzniku ubytovny v jednom ze starších paneláků na okraji zdejšího sídliště Nové Zákupy.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "72211065bb4aa03164858b77f3a1fe2dd09785f7",
-      "fingerprint": "80fb370ad246076ec74c8ddc5a33f5b513873347",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-wienerberger-ukonci-v-cervnu-2027-vyrobu-ve-stode-u-plzne-zavod-opusti-100-lidi-321041",
-      "published_utc": "2026-11-19T12:29:05Z",
-      "title_en": "Wienerberger ukončí v červnu 2027 výrobu ve Stodě u Plzně, závod opustí 100 lidí",
-      "lead_en": "Koncem června příštího roku ukončí největší výrobce cihel v Česku, Wienerberger, výrobu v závodě na Plzeňsku. Krok se dotkne asi stovky zaměstnanců.",
-      "title_raw": "Wienerberger ukončí v červnu 2027 výrobu ve Stodě u Plzně, závod opustí 100 lidí",
-      "lead_raw": "Koncem června příštího roku ukončí největší výrobce cihel v Česku, Wienerberger, výrobu v závodě na Plzeňsku. Krok se dotkne asi stovky zaměstnanců.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
         "local_events": 0
       },
       "topics": [

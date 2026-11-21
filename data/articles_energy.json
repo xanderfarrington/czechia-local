@@ -1,10 +1,77 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-21T11:52:16Z",
+  "updated_at_utc": "2026-11-21T18:20:57Z",
   "topic": "energy",
-  "count": 40,
+  "count": 32,
   "articles": [
+    {
+      "id": "b684aefb28bf2ddea54465ebb6a3a2f4bb731d92",
+      "fingerprint": "497ed3c89d21d1a065a853aab0fa68a8ce8cdc04",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-zelenskyj-trump-evropanum-rekl-ze-po-miru-mohou-penize-na-valku-utratit-doma-321212",
+      "published_utc": "2026-11-21T15:49:32Z",
+      "title_en": "Zelenskyj: Trump Evropanům řekl, že po míru mohou peníze na válku utratit doma",
+      "lead_en": "Trump po návratu do Washingtonu řekl, že Putin při jejich rozhovorech jasně vyjádřil přání ukončit válku na Ukrajině diplomatickou cestou. Peníze, které státy posílají Ukrajině, by podle něj mohly utratit doma.",
+      "title_raw": "Zelenskyj: Trump Evropanům řekl, že po míru mohou peníze na válku utratit doma",
+      "lead_raw": "Trump po návratu do Washingtonu řekl, že Putin při jejich rozhovorech jasně vyjádřil přání ukončit válku na Ukrajině diplomatickou cestou. Peníze, které státy posílají Ukrajině, by podle něj mohly utratit doma.",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "3b632b8852c15830b55fd8c020f4c4113645794e",
+      "fingerprint": "8cb3f9209d270d797b8da16e53dc9158f992804d",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/ekonomika-ceske-milionare-desi-slaba-evropa-40609473",
+      "published_utc": "2026-11-21T14:36:35Z",
+      "title_en": "České milionáře děsí slabá Evropa",
+      "lead_en": "Zatímco běžné Čechy nejvíc trápí drahé energie a inflace, dolaroví milionáři se o svůj majetek bojí z jiných důvodů. Nejvíc je znervózňuje špatné fungování státu a klesající konkurenceschopnost Evropy.",
+      "title_raw": "České milionáře děsí slabá Evropa",
+      "lead_raw": "Zatímco běžné Čechy nejvíc trápí drahé energie a inflace, dolaroví milionáři se o svůj majetek bojí z jiných důvodů. Nejvíc je znervózňuje špatné fungování státu a klesající konkurenceschopnost Evropy.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "5338f7b651678b010609c835eae47b837df10aea",
+      "fingerprint": "cbdc0b39cee70861d3fbae8333af46e39ec72b69",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/vapuje-uz-kazde-desate-dite-roste-i-obliba-energetickych-napoju-379813",
+      "published_utc": "2026-11-21T12:54:05Z",
+      "title_en": "Vapuje už každé desáté dítě. Roste i obliba energetických nápojů",
+      "lead_en": "Elektronické cigarety pravidelně užívá přibližně každý desátý školák ve věku mezi jedenácti a&nbsp;patnácti lety. Oproti roku 2022 téměř dvojnásobně vzrostl i&nbsp;počet mladých, který každodenně konzumuje energetické nápoje.",
+      "title_raw": "Vapuje už každé desáté dítě. Roste i obliba energetických nápojů",
+      "lead_raw": "Elektronické cigarety pravidelně užívá přibližně každý desátý školák ve věku mezi jedenácti a&nbsp;patnácti lety. Oproti roku 2022 téměř dvojnásobně vzrostl i&nbsp;počet mladých, který každodenně konzumuje energetické nápoje.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "c83d7941e31be90a76359f6c2f07c74e6e58c6c4",
       "fingerprint": "9af33783047c28c20a2589f646fa758e9c752911",
@@ -656,251 +723,6 @@
         "energy"
       ],
       "primary_topic": "energy"
-    },
-    {
-      "id": "6fb5f21f1c70bce28de786c741577ad83caff3e9",
-      "fingerprint": "ae8f43016079b30aba4f93498ccf203a65b92876",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-kdysi-ho-huang-zkousel-u-tabule-ted-muze-haas-vest-nvidii-321040",
-      "published_utc": "2026-11-19T17:00:00Z",
-      "title_en": "Kdysi ho Huang zkoušel u tabule. Teď může Haas vést Nvidii",
-      "lead_en": "Na poradě u Jensena Huanga kdysi propadl. Dnes se René Haas ocitl mezi možnými nástupci zakladatele Nvidie.",
-      "title_raw": "Kdysi ho Huang zkoušel u tabule. Teď může Haas vést Nvidii",
-      "lead_raw": "Na poradě u Jensena Huanga kdysi propadl. Dnes se René Haas ocitl mezi možnými nástupci zakladatele Nvidie.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "8b3d2ea8e4b92179d2683e3b2bfb15ebe8edfd3b",
-      "fingerprint": "4efbe2b8cdb3b4fa1925ec2b90e7ec5f04e98e31",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/hradec-kralove/zpravy/hudebni-klub-klondike-pec-pod-snezkou-protipozarni-upravy.A261119_113600_hradec-zpravy_tuu",
-      "published_utc": "2026-11-19T16:18:00Z",
-      "title_en": "Cíl sbírky nevyšel, i tak fandové pomohli klubu KlonDike statisíci. Balkony zůstanou",
-      "lead_en": "V uplynulých týdnech fanoušci posílali peníze hudebnímu klubu KlonDike v Peci pod Sněžkou, aby mohl pokračovat. Provozovatelka tam musí provést nákladná protipožární opatření odhadem asi za 1,5 milionu korun.",
-      "title_raw": "Cíl sbírky nevyšel, i tak fandové pomohli klubu KlonDike statisíci. Balkony zůstanou",
-      "lead_raw": "V uplynulých týdnech fanoušci posílali peníze hudebnímu klubu KlonDike v Peci pod Sněžkou, aby mohl pokračovat. Provozovatelka tam musí provést nákladná protipožární opatření odhadem asi za 1,5 milionu korun.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "af00b63157c12e89cc5ab045ccb6c81f2ab82403",
-      "fingerprint": "c42b1813889b5d99a2889c3f77a32b6825770201",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/kultura/hudba/james-blunt-zmena-jmena-airplane-mode-ryan-air.A261119_161258_hudba_aya",
-      "published_utc": "2026-11-19T15:40:00Z",
-      "title_en": "Ryan Bel Air. Kvůli sázce si James Blunt oficiálně mění jméno podle aerolinky",
-      "lead_en": "Britský zpěvák James Blunt dodržel svůj propagační slib a po úspěchu nového alba Airplane Mode v britském žebříčku podal žádost o úřední změnu jména. V pondělí zveřejnil na Instagramu snímek dokumentu, z něhož vyplývá, že chce své občanské jméno James Hillier Blount změnit na Ryan Bel Air.",
-      "title_raw": "Ryan Bel Air. Kvůli sázce si James Blunt oficiálně mění jméno podle aerolinky",
-      "lead_raw": "Britský zpěvák James Blunt dodržel svůj propagační slib a po úspěchu nového alba Airplane Mode v britském žebříčku podal žádost o úřední změnu jména. V pondělí zveřejnil na Instagramu snímek dokumentu, z něhož vyplývá, že chce své občanské jméno James Hillier Blount změnit na Ryan Bel Air.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e8d8231df9430a6b5d4d418f2f9a91581199f017",
-      "fingerprint": "f760e059ae627ad697d6f133530ce0e0a6d31c8e",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-putin-jako-svetovy-hrac-a-zdesena-evropa-jak-rusove-lici-deni-v-sen-cenu-321067",
-      "published_utc": "2026-11-19T15:30:00Z",
-      "title_en": "Putin jako světový hráč a zděšená Evropa. Jak Rusové líčí Šen-čen",
-      "lead_en": "Ruská média vykreslují Moskvu jako jednu z mocností, které rozhodují o budoucnosti světa, a zároveň jako garanta globální stability. V komentářích k summitu nechybí kritika Evropy ani opomíjení války proti Ukrajině.",
-      "title_raw": "Putin jako světový hráč a zděšená Evropa. Jak Rusové líčí Šen-čen",
-      "lead_raw": "Ruská média vykreslují Moskvu jako jednu z mocností, které rozhodují o budoucnosti světa, a zároveň jako garanta globální stability. V komentářích k summitu nechybí kritika Evropy ani opomíjení války proti Ukrajině.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "c510ced4153ed8c02276883dc29aa5b2ea05c545",
-      "fingerprint": "b4a7920a7c2f705ca5ee0e44f407980e8bcfe795",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/kultura-milan-cais-gask-vystava-321030",
-      "published_utc": "2026-11-19T15:21:00Z",
-      "title_en": "Co děláme, když se nám všechno sype pod rukama? Cais z Tata Bojs tvoří umění",
-      "lead_en": "S výtvarnou tvorbou šperkařky Ludmily Šikolové a Milana Caise, známého jako zpěváka a bubeníka kapely Tata Bojs, seznamují diváky aktuální výstavy Galerie Středočeského kraje (GASK) v Kutné Hoře.",
-      "title_raw": "Co děláme, když se nám všechno sype pod rukama? Cais z Tata Bojs tvoří umění",
-      "lead_raw": "S výtvarnou tvorbou šperkařky Ludmily Šikolové a Milana Caise, známého jako zpěváka a bubeníka kapely Tata Bojs, seznamují diváky aktuální výstavy Galerie Středočeského kraje (GASK) v Kutné Hoře.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e6c28ea7ddd79d008500603978955e15bf649e9c",
-      "fingerprint": "9cf2b97c34661c2e997859c82b33361ba2b835c1",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/elektrarnu-na-jizere-zprovozni-turnov-az-pristi-rok-zpozdeni-zpusobily-viceprace_2611191404_bva",
-      "published_utc": "2026-11-19T15:20:00Z",
-      "title_en": "Elektrárnu na Jizeře zprovozní Turnov až příští rok. Zpoždění způsobily vícepráce, náklady zůstávají stejné",
-      "lead_en": "Městská teplárenská Turnov rekonstruuje vodní elektrárnu, která by měla v budoucnu městu pomoct výrazně ušetřit na energiích. Stavba už ale nabrala zhruba půl roku zpoždění kvůli vícepracím.",
-      "title_raw": "Elektrárnu na Jizeře zprovozní Turnov až příští rok. Zpoždění způsobily vícepráce, náklady zůstávají stejné",
-      "lead_raw": "Městská teplárenská Turnov rekonstruuje vodní elektrárnu, která by měla v budoucnu městu pomoct výrazně ušetřit na energiích. Stavba už ale nabrala zhruba půl roku zpoždění kvůli vícepracím.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "e95ed552bb742a15b7b8b4d3f2bf51f22a50ca8e",
-      "fingerprint": "10e7d69db94cb5c437e7674cda9366ab26292b9b",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/domaci-vlada-vybrala-reditele-noveho-uradu-pro-uzemni-planovani-40609427",
-      "published_utc": "2026-11-19T15:13:05Z",
-      "title_en": "Vláda vybrala ředitele nového úřadu pro územní plánování",
-      "lead_en": "Ředitelem nového Úřadu rozvoje území se od ledna stane dosavadní ředitel Dopravního a energetického stavebního úřadu (DESÚ) Martin Kozák. O jeho jmenování na šestileté funkční období ve čtvrtek rozhodla vláda.",
-      "title_raw": "Vláda vybrala ředitele nového úřadu pro územní plánování",
-      "lead_raw": "Ředitelem nového Úřadu rozvoje území se od ledna stane dosavadní ředitel Dopravního a energetického stavebního úřadu (DESÚ) Martin Kozák. O jeho jmenování na šestileté funkční období ve čtvrtek rozhodla vláda.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "58682ca4c53b0cfd03730991bf7ab58550f7bdcb",
-      "fingerprint": "ac9f87b6a8e5cd6e3a9e09e69fb0a8a3f0b45754",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/v-ods-nezraje-silny-lidr-vsima-si-jelinek-balsinek-strana-si-musi-ujasnit-pro_2611191554_cen",
-      "published_utc": "2026-11-19T14:54:00Z",
-      "title_en": "V ODS nezraje silný lídr, všímá si Jelínek. Balšínek: Strana si musí ujasnit, pro jaké je voliče",
-      "lead_en": "Občanští demokraté analyzují, jak zastavit propad preferencí. Lídrem opozičních sil se dnes jeví být jednoznačně hnutí STAN.",
-      "title_raw": "V ODS nezraje silný lídr, všímá si Jelínek. Balšínek: Strana si musí ujasnit, pro jaké je voliče",
-      "lead_raw": "Občanští demokraté analyzují, jak zastavit propad preferencí. Lídrem opozičních sil se dnes jeví být jednoznačně hnutí STAN.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "ea0bb7f105d439c6998ab28f461f0064f4b59e53",
-      "fingerprint": "5cfc45513c03910ec8eaec223743ea6e37c5092e",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/slovensko-robert-fico-summit-cina-putin-trump-si-tin-pching.A261119_145041_zahranicni_kha",
-      "published_utc": "2026-11-19T14:49:00Z",
-      "title_en": "Žárlivá Evropa bude plakat, ta o míru nemluví. Fico chválí čínský summit",
-      "lead_en": "Slovenský premiér Robert Fico ve čtvrtek vyzdvihl závěry summitu prezidentů Číny, Spojených států a Ruska. Podle Fica na schůzce Si Ťin-pchinga, Donalda Trumpa a Vladimira Putina „zaznělo slovo mír stokrát víc než během čtyř let zasedání Evropské rady“.",
-      "title_raw": "Žárlivá Evropa bude plakat, ta o míru nemluví. Fico chválí čínský summit",
-      "lead_raw": "Slovenský premiér Robert Fico ve čtvrtek vyzdvihl závěry summitu prezidentů Číny, Spojených států a Ruska. Podle Fica na schůzce Si Ťin-pchinga, Donalda Trumpa a Vladimira Putina „zaznělo slovo mír stokrát víc než během čtyř let zasedání Evropské rady“.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "dc08c49b84394e913cb51c49229b961b51a6811a",
-      "fingerprint": "3bb64a34bdca87941fa8d21ff0eb41ec19db2e65",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/krym-most-starlink-drony.A261119_095839_zahranicni_aha",
-      "published_utc": "2026-11-19T14:49:00Z",
-      "title_en": "Létající modemy, smrtící roj. Demolice Krymského mostu přepsala dějiny válčení",
-      "lead_en": "Zničení Kerčského mostu není jen důležitým krokem v odříznutí Krymu a propagandistickým vítězstvím Kyjeva. Je to i důkaz ukrajinského technologického pokroku.",
-      "title_raw": "Létající modemy, smrtící roj. Demolice Krymského mostu přepsala dějiny válčení",
-      "lead_raw": "Zničení Kerčského mostu není jen důležitým krokem v odříznutí Krymu a propagandistickým vítězstvím Kyjeva. Je to i důkaz ukrajinského technologického pokroku.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "f90f6c64a1736ba173eaf918355c19bf9eeecf1a",
-      "fingerprint": "e0683e0f95a1ee615b5d80725939aa9109e71982",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/putin-moskva-ukrajina-eu-valka-vojenska-spoluprace.A261119_140427_zahranicni_dtt",
-      "published_utc": "2026-11-19T14:27:00Z",
-      "title_en": "Ať Evropané přijedou jednat do Moskvy, řekl Putin. Slíbil odvetu za Krymský most",
-      "lead_en": "Evropanům jsme doporučili, aby přijeli jednat o válce na Ukrajině do Moskvy, řekl po jednání v čínském Šen-čenu novinářům ruský prezident Vladimir Putin. Podle něj však evropské státy a Ukrajina nejsou připraveny na kompromis, který by vedl k zastavení konfliktu.",
-      "title_raw": "Ať Evropané přijedou jednat do Moskvy, řekl Putin. Slíbil odvetu za Krymský most",
-      "lead_raw": "Evropanům jsme doporučili, aby přijeli jednat o válce na Ukrajině do Moskvy, řekl po jednání v čínském Šen-čenu novinářům ruský prezident Vladimir Putin. Podle něj však evropské státy a Ukrajina nejsou připraveny na kompromis, který by vedl k zastavení konfliktu.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
     }
   ]
 }
