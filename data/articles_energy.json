@@ -1,10 +1,54 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-22T12:03:59Z",
+  "updated_at_utc": "2026-11-22T20:00:34Z",
   "topic": "energy",
-  "count": 33,
+  "count": 23,
   "articles": [
+    {
+      "id": "25a2560383c6b7b63e3469fdd6590c26302abe91",
+      "fingerprint": "074dfb04177c04e185bae6e9d1eaea9299b29648",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-sektorove-dane-poskodi-konkurenceschopnost-firem-varuje-europoslanec-321231",
+      "published_utc": "2026-11-22T13:37:08Z",
+      "title_en": "Daně na rafinerie mohou přinést více škody než užitku, varuje Niedermayer",
+      "lead_en": "Sektorové daně nejsou podle ekonoma Luďka Niedermayera řešením problémů veřejných financí a mohou omezit konkurenceschopnost firem. Vyšší zisky podle něj navíc mohou kompenzovat horší roky, uvedl v pořadu Poledne s Moravcem.",
+      "title_raw": "Daně na rafinerie mohou přinést více škody než užitku, varuje Niedermayer",
+      "lead_raw": "Sektorové daně nejsou podle ekonoma Luďka Niedermayera řešením problémů veřejných financí a mohou omezit konkurenceschopnost firem. Vyšší zisky podle něj navíc mohou kompenzovat horší roky, uvedl v pořadu Poledne s Moravcem.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "53299c9c8d3eb5d33fd6606b91aa48dfe016e81c",
+      "fingerprint": "6c98d849dcadae987a10a4bee76deb0a13f5b4f7",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-motoriste-podpori-dan-na-rafinerie-321234",
+      "published_utc": "2026-11-22T12:47:02Z",
+      "title_en": "Motoristé podpoří daň na rafinerie",
+      "lead_en": "Poslanci vládních Motoristů podpoří při nadcházejícím hlasování ve Sněmovně návrh na zavedení sektorové daně pro rafinerie. V nedělní debatě u Václava Moravce to potvrdil předseda strany Petr Macinka.",
+      "title_raw": "Motoristé podpoří daň na rafinerie",
+      "lead_raw": "Poslanci vládních Motoristů podpoří při nadcházejícím hlasování ve Sněmovně návrh na zavedení sektorové daně pro rafinerie. V nedělní debatě u Václava Moravce to potvrdil předseda strany Petr Macinka.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "33f215ffb9d5fc8672a7827c0e6310db3e81e668",
       "fingerprint": "97ebe2674a86780e5e0b7b2b240f35d7e455b888",
@@ -473,280 +517,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "e75c8af17874b29644c8f79d34eb4e98fe27ba5c",
-      "fingerprint": "37d0cd03ea4c2ce2ebd6c108e39ac6f3a088dc7b",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/praha/zpravy/praha-smart-city-chytre-mesto-pavel-dobes-firmy-mnichov-euspa.A261120_123035_domaci_sahu",
-      "published_utc": "2026-11-20T19:40:00Z",
-      "title_en": "Více solárů, vesmírný byznys i pomoc opozice. Kde radní Dobeš vidí Prahu",
-      "lead_en": "Nová pražská koalice ve středu podepsala smlouvu a den nato její vedení stvrdilo ustavující zastupitelstvo. Radní pro smart cities a energetiku Pavel Dobeš (STAN) v rozhovoru pro iDNES.cz popisuje, co se může Praha naučit od technologického Mnichova či proč rád využije pomoc opozice při jednáních s vládou.",
-      "title_raw": "Více solárů, vesmírný byznys i pomoc opozice. Kde radní Dobeš vidí Prahu",
-      "lead_raw": "Nová pražská koalice ve středu podepsala smlouvu a den nato její vedení stvrdilo ustavující zastupitelstvo. Radní pro smart cities a energetiku Pavel Dobeš (STAN) v rozhovoru pro iDNES.cz popisuje, co se může Praha naučit od technologického Mnichova či proč rád využije pomoc opozice při jednáních s vládou.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "560a9cc5fbdb42002137ff852cb5d9a1deb5fbf0",
-      "fingerprint": "8a095cd70a05ab6a1ad553615012c4d68d0870a7",
-      "source": "iROZHLAS - Domestic",
-      "url": "https://www.irozhlas.cz/zpravy-domov/definitivni-konec-vyroby-tepla-z-cerneho-uhli-v-detmarovicich-nahradi-ho-biomasa_2611201747_aln",
-      "published_utc": "2026-11-20T17:15:00Z",
-      "title_en": "Definitivní konec výroby tepla z černého uhlí v Dětmarovicích. Nahradí ho biomasa a zemní plyn",
-      "lead_en": "V Dětmarovicích na Karvinsku definitivně skončila historie výroby tepla z černého uhlí. Společnost ČEZ naplno spustila novou teplárnu za více než dvě miliardy korun, která nahradila po padesáti letech největší černouhelnou elektrárnu v zemi.",
-      "title_raw": "Definitivní konec výroby tepla z černého uhlí v Dětmarovicích. Nahradí ho biomasa a zemní plyn",
-      "lead_raw": "V Dětmarovicích na Karvinsku definitivně skončila historie výroby tepla z černého uhlí. Společnost ČEZ naplno spustila novou teplárnu za více než dvě miliardy korun, která nahradila po padesáti letech největší černouhelnou elektrárnu v zemi.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 5,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "a28c169c79ead163c9dea2ddd206362897c82420",
-      "fingerprint": "80537b9df4078013f7637034e7e19e4aac5cb8db",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-nedokaze-naborem-novych-vojaku-nahrazovat-ztraty-na-bojisti-tvrdi-estonska-rozvedka-379797",
-      "published_utc": "2026-11-20T16:19:58Z",
-      "title_en": "Rusko nedokáže náborem nových vojáků nahrazovat ztráty na bojišti, tvrdí estonská rozvědka",
-      "lead_en": "Rusko za posledních dvanáct týdnů přišlo o&nbsp;téměř 150 tisíc vojáků a&nbsp;rostoucí ztráty na bojišti nedokáže kompenzovat náborem nových sil, vyplývá z&nbsp;nejnovějšího hodnocení vývoje války na Ukrajině, které zveřejnilo zpravodajské centrum estonských ozbrojených sil. Podle něj intenzita bojů v&nbsp;uplynulém týdnu mírně vzrostla a&nbsp;ruské ztráty zůstávají vysoké.",
-      "title_raw": "Rusko nedokáže náborem nových vojáků nahrazovat ztráty na bojišti, tvrdí estonská rozvědka",
-      "lead_raw": "Rusko za posledních dvanáct týdnů přišlo o&nbsp;téměř 150 tisíc vojáků a&nbsp;rostoucí ztráty na bojišti nedokáže kompenzovat náborem nových sil, vyplývá z&nbsp;nejnovějšího hodnocení vývoje války na Ukrajině, které zveřejnilo zpravodajské centrum estonských ozbrojených sil. Podle něj intenzita bojů v&nbsp;uplynulém týdnu mírně vzrostla a&nbsp;ruské ztráty zůstávají vysoké.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "83e9badb1359972d8e461e0cacecf25d0b5b06c9",
-      "fingerprint": "5227e235f7ed771498b79deb9484e4c862c0df13",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/ceske-budejovice/zpravy/logisticke-centrum-odpady-hury-zevo-odpor-projednani-doprava.A261120_142757_budejovice-zpravy_khr",
-      "published_utc": "2026-11-20T15:27:00Z",
-      "title_en": "Plánované logistické centrum budí v obci emoce, ale na jednání nikdo nepřišel",
-      "lead_en": "Firma FCC chystá na okraji Hůr u Českých Budějovic centrum pro třídění odpadu, který bude končit v plánovaném zařízení pro energetické využívání odpadu (ZEVO) v nedalekém Vrátě. Místní proti záměru bojují, upozorňují na zvýšení hluku, prašnosti i dopravy.",
-      "title_raw": "Plánované logistické centrum budí v obci emoce, ale na jednání nikdo nepřišel",
-      "lead_raw": "Firma FCC chystá na okraji Hůr u Českých Budějovic centrum pro třídění odpadu, který bude končit v plánovaném zařízení pro energetické využívání odpadu (ZEVO) v nedalekém Vrátě. Místní proti záměru bojují, upozorňují na zvýšení hluku, prašnosti i dopravy.",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3a375fb1da14385e1b3022a6b48679301dc0a64a",
-      "fingerprint": "c42ec2073b8959fb2b5dfd5a8afb4fa5cd8944d3",
-      "source": "iROZHLAS - Economy",
-      "url": "https://www.irozhlas.cz/ekonomika/mimoradne-zdaneni-rafinerii-ochudi-obce-varuje-jakob-hrncir-budou-nizsi-stovky_2611201538_cen",
-      "published_utc": "2026-11-20T14:38:00Z",
-      "title_en": "Mimořádné zdanění rafinerií ochudí obce, varuje Jakob. Hrnčíř: Budou to nižší stovky milionů",
-      "lead_en": "Vláda chce mimořádně zdanit rafinerie. Podle ministryně financí Aleny Schillerové z hnutí ANO jsou zisky některých sektorů, třeba i bank nebo zbrojařů, nepřiměřeně vysoké.",
-      "title_raw": "Mimořádné zdanění rafinerií ochudí obce, varuje Jakob. Hrnčíř: Budou to nižší stovky milionů",
-      "lead_raw": "Vláda chce mimořádně zdanit rafinerie. Podle ministryně financí Aleny Schillerové z hnutí ANO jsou zisky některých sektorů, třeba i bank nebo zbrojařů, nepřiměřeně vysoké.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "3d2099f506247800d9244a63e92d99e79024ac7c",
-      "fingerprint": "32699f4f5022a6abaa7fc13a50858fa382495383",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/internet-a-pc-hry-a-herni-systemy-dovolena-kvuli-gta-vi-psychologove-vysvetluji-kdy-uz-je-hrani-problem-40609641",
-      "published_utc": "2026-11-20T14:00:15Z",
-      "title_en": "Dovolená kvůli GTA VI? Psychologové vysvětlují, kdy už je hraní problém",
-      "lead_en": "Ve čtvrtek vyšla hráči dlouho očekávaná akční adventura Grand Theft Auto VI nebo GTA 6, která může podle psychologů vyvolat u fanoušků nadšení jako vydání dalšího dílu Harryho Pottera nebo plné zpřístupnění všech dílů ikonického seriálu Stranger Things. Část z nich to přiláká k herním konzolím a propadnou herním maratonům.",
-      "title_raw": "Dovolená kvůli GTA VI? Psychologové vysvětlují, kdy už je hraní problém",
-      "lead_raw": "Ve čtvrtek vyšla hráči dlouho očekávaná akční adventura Grand Theft Auto VI nebo GTA 6, která může podle psychologů vyvolat u fanoušků nadšení jako vydání dalšího dílu Harryho Pottera nebo plné zpřístupnění všech dílů ikonického seriálu Stranger Things. Část z nich to přiláká k herním konzolím a propadnou herním maratonům.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "c0606034b3be22f49644d9afeac041fb167397b6",
-      "fingerprint": "5c45950407c5c21ab32b5562e978a9f2f834f476",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-misto-u-stolu-s-ruskem-evropa-ukazala-jak-se-zesmesnit-snadno-a-rychle-321158",
-      "published_utc": "2026-11-20T14:00:00Z",
-      "title_en": "Místo u stolu s Ruskem. Evropa ukázala, jak se zesměšnit snadno a rychle",
-      "lead_en": "Evropští politici by možná měli být pověrčiví. Kdyby totiž většina z nich byla, nikdy by si nenechali důležité rozhodnutí na pátek 13.",
-      "title_raw": "Místo u stolu s Ruskem. Evropa ukázala, jak se zesměšnit snadno a rychle",
-      "lead_raw": "Evropští politici by možná měli být pověrčiví. Kdyby totiž většina z nich byla, nikdy by si nenechali důležité rozhodnutí na pátek 13.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "09c45d639afc7b7dad73af79507f71ad0821d67d",
-      "fingerprint": "6dc9d869fe784792099e104759a471e90dc31dea",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-byznys-komodity-dluhopisy-evropske-dluhopisy-prolomily-rekord-dotlacily-je-k-nemu-ai-a-vlady-321165",
-      "published_utc": "2026-11-20T13:50:00Z",
-      "title_en": "Evropské dluhopisy prolomily rekord, dotlačily je k němu AI a vlády",
-      "lead_en": "Evropský dluhopisový trh letos poprvé překonal hranici dvou bilionů eurových emisí. Stojí za tím financování výstavby datových center i růst zadlužení vlád kvůli obranným, energetickým a infrastrukturním investicím.",
-      "title_raw": "Evropské dluhopisy prolomily rekord, dotlačily je k němu AI a vlády",
-      "lead_raw": "Evropský dluhopisový trh letos poprvé překonal hranici dvou bilionů eurových emisí. Stojí za tím financování výstavby datových center i růst zadlužení vlád kvůli obranným, energetickým a infrastrukturním investicím.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "c97064248acb34d65ae9f090fd4be867302cf6b3",
-      "fingerprint": "fb746daf5964df1f48763490bc63c53b91bf1913",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/musk-maga-trump-midterms-zelenskyj-ukrajina-rusko.A261120_111308_zahranicni_rtn",
-      "published_utc": "2026-11-20T13:45:00Z",
-      "title_en": "Musk couvá od Trumpa, MAGA už mu nic neříká. Pobouřil šířením ruské propagandy",
-      "lead_en": "Na inauguraci Donalda Trumpa seděl v první řadě a do kampaní republikánů před volbami do Kongresu nasypal stovky milionů dolarů. Po jejich debaklu ale Elon Musk obrací.",
-      "title_raw": "Musk couvá od Trumpa, MAGA už mu nic neříká. Pobouřil šířením ruské propagandy",
-      "lead_raw": "Na inauguraci Donalda Trumpa seděl v první řadě a do kampaní republikánů před volbami do Kongresu nasypal stovky milionů dolarů. Po jejich debaklu ale Elon Musk obrací.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "6292e729899bb5f402e7d7ed3b7f8b22e7fbf6b2",
-      "fingerprint": "dfb61acb60b85d59c51f2081cbffecf398275f17",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-ulozit-kdyz-je-proudu-hodne-a-naopak-cesko-tak-muze-usetrit-miliardy-321145",
-      "published_utc": "2026-11-20T13:10:00Z",
-      "title_en": "Uložit, když je proudu hodně a naopak. Česko tak může ušetřit miliardy",
-      "lead_en": "Spotřebitelé budou muset přizpůsobovat svou výrobu, ukládání nebo spotřebu elektřiny aktuálním potřebám trhu a sítě. A velké množství domácností dokáže svou spotřebu ovlivnit lépe než třeba datová centra.",
-      "title_raw": "Uložit, když je proudu hodně a naopak. Česko tak může ušetřit miliardy",
-      "lead_raw": "Spotřebitelé budou muset přizpůsobovat svou výrobu, ukládání nebo spotřebu elektřiny aktuálním potřebám trhu a sítě. A velké množství domácností dokáže svou spotřebu ovlivnit lépe než třeba datová centra.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 2,
-        "local_events": 0
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "primary_topic": "economy"
-    },
-    {
-      "id": "9879c64ae18254e5038299408c9d4ef9ffb32990",
-      "fingerprint": "ba31c872ce8a6ceec9e126ea995faa9e9d0bc257",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/domaci/aktivista-palestina-demonstrace-transparent-hesla-podnecovani-nenavist-soud.A261120_101524_domaci_iri",
-      "published_utc": "2026-11-20T12:41:00Z",
-      "title_en": "Sympatizant teroristů? Nenávist k Židům jsem nešířil, odmítl u soudu aktivista",
-      "lead_en": "Za zvýšených bezpečnostních opatření projednával Obvodní soud pro Prahu 1 případ propalestinského aktivisty, který podle obžaloby na demonstracích v Praze podněcoval k nenávisti vůči Izraeli a projevoval sympatie k teroristům. Cizinec vinu odmítá.",
-      "title_raw": "Sympatizant teroristů? Nenávist k Židům jsem nešířil, odmítl u soudu aktivista",
-      "lead_raw": "Za zvýšených bezpečnostních opatření projednával Obvodní soud pro Prahu 1 případ propalestinského aktivisty, který podle obžaloby na demonstracích v Praze podněcoval k nenávisti vůči Izraeli a projevoval sympatie k teroristům. Cizinec vinu odmítá.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "military",
-        "energy"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "123237d2b42e8303617ec5aef88e1b0c34c3f3e9",
-      "fingerprint": "6db304dc3919531e415982521f7fc0f9885ab0a8",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-roste-odber-energii-i-vyvoz-elektriny-40609697",
-      "published_utc": "2026-11-20T12:36:36Z",
-      "title_en": "Roste odběr energií i vývoz elektřiny",
-      "lead_en": "Spotřeba energií ve třetím čtvrtletí letošního roku vzrostla. Zatímco u elektřiny, jejíž spotřeba meziročně stoupla o 3,2 procenta, navýšily odběr všechny skupiny odběratelů včetně domácností, u plynu se na celkovém meziročním růstu o čtyři procenta podíleli výhradně velcí odběratelé.",
-      "title_raw": "Roste odběr energií i vývoz elektřiny",
-      "lead_raw": "Spotřeba energií ve třetím čtvrtletí letošního roku vzrostla. Zatímco u elektřiny, jejíž spotřeba meziročně stoupla o 3,2 procenta, navýšily odběr všechny skupiny odběratelů včetně domácností, u plynu se na celkovém meziročním růstu o čtyři procenta podíleli výhradně velcí odběratelé.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
