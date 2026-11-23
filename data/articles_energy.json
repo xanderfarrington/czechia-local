@@ -1,10 +1,344 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-23T09:54:37Z",
+  "updated_at_utc": "2026-11-23T21:46:46Z",
   "topic": "energy",
-  "count": 24,
+  "count": 34,
   "articles": [
+    {
+      "id": "1bdf7dd516886208ebe901bd789b6f4d76ac930c",
+      "fingerprint": "fa23cf6a67de914702891a89ea76a73b09ef8073",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-blokace-firem-cez-v-lucembursku-pokracuje-soud-ji-ve-zkracenem-rizeni-nezrusil-321343",
+      "published_utc": "2026-11-23T20:36:55Z",
+      "title_en": "Blokace firem ČEZ v Lucembursku pokračuje, soud ji ve zkráceném řízení nezrušil",
+      "lead_en": "Soud v Lucembursku zamítl návrh ve zkráceném řízení zrušit exekuci, kterou vůči české firmě zahájila společnost Diag Human.",
+      "title_raw": "Blokace firem ČEZ v Lucembursku pokračuje, soud ji ve zkráceném řízení nezrušil",
+      "lead_raw": "Soud v Lucembursku zamítl návrh ve zkráceném řízení zrušit exekuci, kterou vůči české firmě zahájila společnost Diag Human.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "888aafc5f7d0eb8143051c7452b49d8630de56ee",
+      "fingerprint": "ad38950f37b292ba2e1bbe7a124cce03e05c7664",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/premieri-zemi-v4-odmitli-novy-navrh-viceleteho-unijniho-rozpoctu-379881",
+      "published_utc": "2026-11-23T20:26:04Z",
+      "title_en": "Premiéři zemí V4 odmítli nový návrh víceletého unijního rozpočtu",
+      "lead_en": "Česko, Maďarsko, Polsko a&nbsp;Slovensko odmítají návrh příštího sedmiletého rozpočtu Evropské unie, jak ho o&nbsp;uplynulém víkendu předložil šéf Evropské rady António Costa, sdělil po schůzce s&nbsp;kolegy z&nbsp;uvedených zemí visegrádské čtyřky (V4) a&nbsp;Rakouska slovenský premiér Robert Fico (Smer). Rakouský kancléř Christian Stocker však poznamenal, že jeho země má k&nbsp;příštímu rozpočtu odlišný postoj než země V4.",
+      "title_raw": "Premiéři zemí V4 odmítli nový návrh víceletého unijního rozpočtu",
+      "lead_raw": "Česko, Maďarsko, Polsko a&nbsp;Slovensko odmítají návrh příštího sedmiletého rozpočtu Evropské unie, jak ho o&nbsp;uplynulém víkendu předložil šéf Evropské rady António Costa, sdělil po schůzce s&nbsp;kolegy z&nbsp;uvedených zemí visegrádské čtyřky (V4) a&nbsp;Rakouska slovenský premiér Robert Fico (Smer). Rakouský kancléř Christian Stocker však poznamenal, že jeho země má k&nbsp;příštímu rozpočtu odlišný postoj než země V4.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "986091c62b4825e74c8b1904dc850e0d15876042",
+      "fingerprint": "970901c679b47dc15e2c8f8db4ee66aee026af5c",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/blokace-firem-cez-v-lucembursku-pokracuje-soud-ji-nezrusil/2905697",
+      "published_utc": "2026-11-23T20:17:00Z",
+      "title_en": "Blokace firem ČEZ v Lucembursku pokračuje, soud ji nezrušil",
+      "lead_en": "Praha - Blokace firem energetické skupiny ČEZ v Lucembursku pokračuje. Tamní soud v pátek zamítl návrh ve zkráceném řízení zrušit exekuci, kterou vůči české firmě zahájila společnost Diag Human podnikatele...",
+      "title_raw": "Blokace firem ČEZ v Lucembursku pokračuje, soud ji nezrušil",
+      "lead_raw": "Praha - Blokace firem energetické skupiny ČEZ v Lucembursku pokračuje. Tamní soud v pátek zamítl návrh ve zkráceném řízení zrušit exekuci, kterou vůči české firmě zahájila společnost Diag Human podnikatele...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "064ca82e7921d40e68e3f557f1ac7016d75e5c87",
+      "fingerprint": "f55b8bb17950efefcc7796cc894afe29b4fbad4b",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-blokace-firem-cez-v-lucembursku-nekonci-40610123",
+      "published_utc": "2026-11-23T20:16:20Z",
+      "title_en": "Blokace firem ČEZ v Lucembursku nekončí",
+      "lead_en": "Blokace firem ČEZ v Lucembursku trvá dál. Tamní soud zamítl návrh ve zkráceném řízení zrušit exekuci, kterou zahájila Diag Human.",
+      "title_raw": "Blokace firem ČEZ v Lucembursku nekončí",
+      "lead_raw": "Blokace firem ČEZ v Lucembursku trvá dál. Tamní soud zamítl návrh ve zkráceném řízení zrušit exekuci, kterou zahájila Diag Human.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "a0ba4b3a2659de88be318950a73356dfe735edfa",
+      "fingerprint": "3c455f7c7cb0fc5eb35198239728fdb3a5735587",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-ceny-ropy-po-zprovozneni-libyjskeho-ropovodu-prudce-klesaji-321335",
+      "published_utc": "2026-11-23T17:21:35Z",
+      "title_en": "Ceny ropy po zprovoznění libyjského ropovodu prudce klesají",
+      "lead_en": "Díky zprovoznění libyjského ropovodu a nárůstu dodávek z Blízkého východu zaznamenaly ceny ropy strmý propad. V některých případech přes tři a půl procenta hodnoty za barel.",
+      "title_raw": "Ceny ropy po zprovoznění libyjského ropovodu prudce klesají",
+      "lead_raw": "Díky zprovoznění libyjského ropovodu a nárůstu dodávek z Blízkého východu zaznamenaly ceny ropy strmý propad. V některých případech přes tři a půl procenta hodnoty za barel.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "10167a2b82832d4d66f8668ef9d9091a9cd0132b",
+      "fingerprint": "96fb103ebc0a5d4061beda53d9b6572d8f0d3d6f",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/zahranicni-foto-vodni-dela-slzny-plyn-a-horici-auta-v-bruselu-40610101",
+      "published_utc": "2026-11-23T16:52:30Z",
+      "title_en": "FOTO: Vodní děla, slzný plyn a hořící auta v Bruselu",
+      "lead_en": "Vodní děla a slzný plyn použila v pondělí policie proti demonstrantům, kteří pochodovali centrem belgického Bruselu. Belgií otřásá celostátní stávka a v rámci masových protestů proti úsporným opatřením vlády vyšly do ulic hlavního města desítky tisíc lidí.",
+      "title_raw": "FOTO: Vodní děla, slzný plyn a hořící auta v Bruselu",
+      "lead_raw": "Vodní děla a slzný plyn použila v pondělí policie proti demonstrantům, kteří pochodovali centrem belgického Bruselu. Belgií otřásá celostátní stávka a v rámci masových protestů proti úsporným opatřením vlády vyšly do ulic hlavního města desítky tisíc lidí.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "62674e37a3bf99a1a6f4b009d5dcfb63de5fa14e",
+      "fingerprint": "e266be40532fb8141d1b91a1b5edbecb9a0f753f",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-ek-navrhla-novy-balik-sankci-proti-rusku-tyka-se-bank-lodi-i-ruskych-sportovcu-321334",
+      "published_utc": "2026-11-23T16:49:10Z",
+      "title_en": "EK navrhla nový balík sankcí proti Rusku. Týká se bank, lodí i ruských sportovců",
+      "lead_en": "Kromě desítek plavidel a bank má nový evropský balík sankcí proti Rusku zacílit také na sportovce a energetický sektor. Evropská komise se snaží, aby byla omezující opatření odsouhlasena do konce roku.",
+      "title_raw": "EK navrhla nový balík sankcí proti Rusku. Týká se bank, lodí i ruských sportovců",
+      "lead_raw": "Kromě desítek plavidel a bank má nový evropský balík sankcí proti Rusku zacílit také na sportovce a energetický sektor. Evropská komise se snaží, aby byla omezující opatření odsouhlasena do konce roku.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "78acd9937a3a6f11746688ab8050f185bfd7f579",
+      "fingerprint": "40fd8b194498e3305d50048c81356a409a9842b5",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/prazska-burza-posilila-px-stoupl-o-procento-nahoru-ho-tahly-vig-ci-erste/2905640",
+      "published_utc": "2026-11-23T16:35:00Z",
+      "title_en": "Pražská burza posílila, PX stoupl o procento, nahoru ho táhly VIG či Erste",
+      "lead_en": "Praha - Pražská burza v úvodu týdne posílila, index PX stoupl o 1,02 procenta na 2594,27 bodu. Nahoru ho táhly především rakouské tituly VIG a Erste, mírně si polepšily i akcie Komerční banky a energetické...",
+      "title_raw": "Pražská burza posílila, PX stoupl o procento, nahoru ho táhly VIG či Erste",
+      "lead_raw": "Praha - Pražská burza v úvodu týdne posílila, index PX stoupl o 1,02 procenta na 2594,27 bodu. Nahoru ho táhly především rakouské tituly VIG a Erste, mírně si polepšily i akcie Komerční banky a energetické...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "034fab915897b6d6cfedca9b4cb1a131a3d23cae",
+      "fingerprint": "55c34ad4b0e70885fc51a9690b9345982b1cf0b0",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/evropska-komise-navrhla-novy-balik-sankci-proti-rusku-tyka-se-bank-lodi-i-sportovcu-379876",
+      "published_utc": "2026-11-23T16:04:35Z",
+      "title_en": "Evropská komise navrhla nový balík sankcí proti Rusku, týká se i sportovců",
+      "lead_en": "Evropská komise (EK) navrhla nový, 22. balík sankcí proti Rusku, který se zaměřuje na bankovní sektor, energetiku, kryptoměny i&nbsp;ruské sportovce.",
+      "title_raw": "Evropská komise navrhla nový balík sankcí proti Rusku, týká se i sportovců",
+      "lead_raw": "Evropská komise (EK) navrhla nový, 22. balík sankcí proti Rusku, který se zaměřuje na bankovní sektor, energetiku, kryptoměny i&nbsp;ruské sportovce.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy"
+    },
+    {
+      "id": "45485a24936fa58705f5679534998529f42403b5",
+      "fingerprint": "e817871521030a8fa6a53d2c72802b60f63ca6bb",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/pokud-ucitite-zapach-plynu-okamzite-volejte-cesko-pred-zimou-kontroluje_2611231535_zko",
+      "published_utc": "2026-11-23T14:35:00Z",
+      "title_en": "‚Pokud ucítíte zápach plynu, okamžitě volejte.‘ Česko před zimou kontroluje plynovody, pomáhá smrad",
+      "lead_en": "Plynaři v Plzeňském kraji, stejně jako v celém Česku, zkontrolují před zimou těsnost rozvodů zesíleným zápachem. Od pondělí až do pátku 27.",
+      "title_raw": "‚Pokud ucítíte zápach plynu, okamžitě volejte.‘ Česko před zimou kontroluje plynovody, pomáhá smrad",
+      "lead_raw": "Plynaři v Plzeňském kraji, stejně jako v celém Česku, zkontrolují před zimou těsnost rozvodů zesíleným zápachem. Od pondělí až do pátku 27.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "f5963ad2d75023e1d2207fd23d90cdf4817b0d00",
+      "fingerprint": "ba6df8ab0ce77a6410ecb6a3997decb4eb44f4d9",
+      "source": "iROZHLAS - Domestic",
+      "url": "https://www.irozhlas.cz/zpravy-domov/uzavirka-v-rozporu-se-zakonem-mini-hejtmanstvi-oprava-pisareckeho-tunelu-v-brne_2611231445_zko",
+      "published_utc": "2026-11-23T13:45:00Z",
+      "title_en": "Pisárecký tunel v Brně zůstává až do 29. listopadu uzavřený. Auta jím měla projíždět od uplynulé soboty",
+      "lead_en": "Místo úlevy další týden dopravních komplikací. Dělníci a jejich zaměstnavatelé nestihli včas dokončit opravu Pisáreckého tunelu v Brně.",
+      "title_raw": "Pisárecký tunel v Brně zůstává až do 29. listopadu uzavřený. Auta jím měla projíždět od uplynulé soboty",
+      "lead_raw": "Místo úlevy další týden dopravních komplikací. Dělníci a jejich zaměstnavatelé nestihli včas dokončit opravu Pisáreckého tunelu v Brně.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "28c962694e11ba8ae18c9ceddaf5fbb42323ab2a",
+      "fingerprint": "4ec69134e2c882a2e275dc290392e7e959e8e5b8",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-ptam-se-ja-ods-hleda-cestu-z-krize-slouci-se-s-top-09-321275",
+      "published_utc": "2026-11-23T13:05:02Z",
+      "title_en": "Potřebujeme rafana, který bude trhat. Nevím, jestli to je Benda, říká poslanec ODS",
+      "lead_en": "Opoziční ODS hledá cesty, jak prolomit pokračující propad volebních preferencí. Dnes se proto schází republikový sněm strany.",
+      "title_raw": "Potřebujeme rafana, který bude trhat. Nevím, jestli to je Benda, říká poslanec ODS",
+      "lead_raw": "Opoziční ODS hledá cesty, jak prolomit pokračující propad volebních preferencí. Dnes se proto schází republikový sněm strany.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "0e409bf7437eb965a3ef8fcf3f08a50706426dc4",
+      "fingerprint": "c4e1283aef968f6b7d7e49f0f413781e09a8fe18",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-hodla-vynest-do-vesmiru-druzici-s-jadernou-zbrani-mini-zpravodajske-sluzby-379861",
+      "published_utc": "2026-11-23T12:32:08Z",
+      "title_en": "Rusko hodlá vynést do vesmíru družici s jadernou zbraní, míní zpravodajské služby",
+      "lead_en": "Rusko plánuje ještě letos vynést do vesmíru družici s&nbsp;jadernou zbraní, předpokládají zpravodajské služby západních zemí, píší německá veřejnoprávní média WDR a&nbsp;NDR a&nbsp;deník Süddeutsche Zeitung. Kreml dle agentury Reuters vzkázal, že takové zprávy „by neměly být brány vážně“.",
+      "title_raw": "Rusko hodlá vynést do vesmíru družici s jadernou zbraní, míní zpravodajské služby",
+      "lead_raw": "Rusko plánuje ještě letos vynést do vesmíru družici s&nbsp;jadernou zbraní, předpokládají zpravodajské služby západních zemí, píší německá veřejnoprávní média WDR a&nbsp;NDR a&nbsp;deník Süddeutsche Zeitung. Kreml dle agentury Reuters vzkázal, že takové zprávy „by neměly být brány vážně“.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "military"
+    },
+    {
+      "id": "f52b11cd48ccc0e2b92b47a2d87a3ea00991ce69",
+      "fingerprint": "cb8409d1a13c69811cea53a456119f8834b2e278",
+      "source": "ČT24",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-prodlouzila-regulaci-cen-paliv-do-konce-prosince-379852",
+      "published_utc": "2026-11-23T12:23:33Z",
+      "title_en": "Vláda prodloužila regulaci cen paliv do konce prosince",
+      "lead_en": "Kabinet na pondělní schůzi rozhodl o&nbsp;prodloužení opatření proti vyšším cenám pohonných hmot do konce prosince, oznámila ministryně financí Alena Schillerová (ANO) ještě před koncem jednání. Vláda také schválila návrh novely trestního zákoníku, která počítá s&nbsp;trestním postihem za vytlačování vozidel ze silnice, vybržďování, ujíždění před policisty či za účast v&nbsp;nelegálních závodech.",
+      "title_raw": "Vláda prodloužila regulaci cen paliv do konce prosince",
+      "lead_raw": "Kabinet na pondělní schůzi rozhodl o&nbsp;prodloužení opatření proti vyšším cenám pohonných hmot do konce prosince, oznámila ministryně financí Alena Schillerová (ANO) ještě před koncem jednání. Vláda také schválila návrh novely trestního zákoníku, která počítá s&nbsp;trestním postihem za vytlačování vozidel ze silnice, vybržďování, ujíždění před policisty či za účast v&nbsp;nelegálních závodech.",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "energy"
+      ],
+      "primary_topic": "diplomacy"
+    },
+    {
+      "id": "648eb5d397a9227bcde8fcf02ffca48dbcc7d093",
+      "fingerprint": "692fc9b555cf8e194629af37e66857831f1b3bcd",
+      "source": "České noviny / ČTK - Economy",
+      "url": "https://www.ceskenoviny.cz/zpravy/vlada-prodlouzila-opatreni-proti-vysokym-cenam-paliv-do-konce-roku-/2905385",
+      "published_utc": "2026-11-23T12:20:00Z",
+      "title_en": "Vláda prodloužila opatření proti vysokým cenám paliv do konce roku",
+      "lead_en": "Praha - Vláda dnes prodloužila opatření proti vysokým cenám pohonných hmot do konce letošního roku. Stát tak bude nadále denně stanovovat maximální ceny nafty i benzinu, v platnosti zůstává také snížená...",
+      "title_raw": "Vláda prodloužila opatření proti vysokým cenám paliv do konce roku",
+      "lead_raw": "Praha - Vláda dnes prodloužila opatření proti vysokým cenám pohonných hmot do konce letošního roku. Stát tak bude nadále denně stanovovat maximální ceny nafty i benzinu, v platnosti zůstává také snížená...",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "energy"
+      ],
+      "primary_topic": "energy"
+    },
     {
       "id": "9ac0639af29ef0b2e3ed990b71a6e692f2f62fdd",
       "fingerprint": "33b3a7c42430666e5793c94713955d0ee8e85446",
@@ -428,117 +762,6 @@
         "economy"
       ],
       "primary_topic": "economy"
-    },
-    {
-      "id": "0bec6d80a6d28b85d21c6d46e36b1366f074ff7d",
-      "fingerprint": "5d8d0446d6e2052ceaa25467b2c9e969e1a97d0c",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-francie-opet-v-oparu-slzneho-plynu-videa-ukazuji-kde-se-demonstranti-biji-s-policii-321219",
-      "published_utc": "2026-11-21T19:24:39Z",
-      "title_en": "Francie opět v oparu slzného plynu. Videa ukazují, kde se demonstranti bijí s policií",
-      "lead_en": "Ve Francii dnes proběhla řada celostátních demonstrací již šestý víkend po sobě, kdy protestující vyšli do ulic, aby požadovali lepší veřejné služby a vyjádřili hněv nad rostoucími životními náklady a nerovností.",
-      "title_raw": "Francie opět v oparu slzného plynu. Videa ukazují, kde se demonstranti bijí s policií",
-      "lead_raw": "Ve Francii dnes proběhla řada celostátních demonstrací již šestý víkend po sobě, kdy protestující vyšli do ulic, aby požadovali lepší veřejné služby a vyjádřili hněv nad rostoucími životními náklady a nerovností.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "b684aefb28bf2ddea54465ebb6a3a2f4bb731d92",
-      "fingerprint": "497ed3c89d21d1a065a853aab0fa68a8ce8cdc04",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-zelenskyj-trump-evropanum-rekl-ze-po-miru-mohou-penize-na-valku-utratit-doma-321212",
-      "published_utc": "2026-11-21T15:49:32Z",
-      "title_en": "Zelenskyj: Trump Evropanům řekl, že po míru mohou peníze na válku utratit doma",
-      "lead_en": "Trump po návratu do Washingtonu řekl, že Putin při jejich rozhovorech jasně vyjádřil přání ukončit válku na Ukrajině diplomatickou cestou. Peníze, které státy posílají Ukrajině, by podle něj mohly utratit doma.",
-      "title_raw": "Zelenskyj: Trump Evropanům řekl, že po míru mohou peníze na válku utratit doma",
-      "lead_raw": "Trump po návratu do Washingtonu řekl, že Putin při jejich rozhovorech jasně vyjádřil přání ukončit válku na Ukrajině diplomatickou cestou. Peníze, které státy posílají Ukrajině, by podle něj mohly utratit doma.",
-      "topic_scores": {
-        "diplomacy": 2,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "diplomacy",
-        "energy"
-      ],
-      "primary_topic": "diplomacy"
-    },
-    {
-      "id": "3b632b8852c15830b55fd8c020f4c4113645794e",
-      "fingerprint": "8cb3f9209d270d797b8da16e53dc9158f992804d",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/ekonomika-ceske-milionare-desi-slaba-evropa-40609473",
-      "published_utc": "2026-11-21T14:36:35Z",
-      "title_en": "České milionáře děsí slabá Evropa",
-      "lead_en": "Zatímco běžné Čechy nejvíc trápí drahé energie a inflace, dolaroví milionáři se o svůj majetek bojí z jiných důvodů. Nejvíc je znervózňuje špatné fungování státu a klesající konkurenceschopnost Evropy.",
-      "title_raw": "České milionáře děsí slabá Evropa",
-      "lead_raw": "Zatímco běžné Čechy nejvíc trápí drahé energie a inflace, dolaroví milionáři se o svůj majetek bojí z jiných důvodů. Nejvíc je znervózňuje špatné fungování státu a klesající konkurenceschopnost Evropy.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 1,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "5338f7b651678b010609c835eae47b837df10aea",
-      "fingerprint": "cbdc0b39cee70861d3fbae8333af46e39ec72b69",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/vapuje-uz-kazde-desate-dite-roste-i-obliba-energetickych-napoju-379813",
-      "published_utc": "2026-11-21T12:54:05Z",
-      "title_en": "Vapuje už každé desáté dítě. Roste i obliba energetických nápojů",
-      "lead_en": "Elektronické cigarety pravidelně užívá přibližně každý desátý školák ve věku mezi jedenácti a&nbsp;patnácti lety. Oproti roku 2022 téměř dvojnásobně vzrostl i&nbsp;počet mladých, který každodenně konzumuje energetické nápoje.",
-      "title_raw": "Vapuje už každé desáté dítě. Roste i obliba energetických nápojů",
-      "lead_raw": "Elektronické cigarety pravidelně užívá přibližně každý desátý školák ve věku mezi jedenácti a&nbsp;patnácti lety. Oproti roku 2022 téměř dvojnásobně vzrostl i&nbsp;počet mladých, který každodenně konzumuje energetické nápoje.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
-    },
-    {
-      "id": "c83d7941e31be90a76359f6c2f07c74e6e58c6c4",
-      "fingerprint": "9af33783047c28c20a2589f646fa758e9c752911",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-melenchon-planuje-revoluci-pro-francii-uz-pristi-rok-muze-zacit-321204",
-      "published_utc": "2026-11-21T11:30:00Z",
-      "title_en": "Mélenchon plánuje revoluci pro Francii. Už příští rok může začít",
-      "lead_en": "Zděděný majetek od určité částky a příliš mnoho bytů propadnou státu, bude se jíst méně masa a balíky přepraví vzducholodě. Jeden z favoritů prezidentských voleb Jean-Luc Mélenchon hodlá od základu překopat správu Francie.",
-      "title_raw": "Mélenchon plánuje revoluci pro Francii. Už příští rok může začít",
-      "lead_raw": "Zděděný majetek od určité částky a příliš mnoho bytů propadnou státu, bude se jíst méně masa a balíky přepraví vzducholodě. Jeden z favoritů prezidentských voleb Jean-Luc Mélenchon hodlá od základu překopat správu Francie.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 0
-      },
-      "topics": [
-        "energy"
-      ],
-      "primary_topic": "energy"
     }
   ]
 }
