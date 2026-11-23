@@ -1,10 +1,54 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-23T01:11:33Z",
+  "updated_at_utc": "2026-11-23T09:54:37Z",
   "topic": "local_events",
-  "count": 19,
+  "count": 13,
   "articles": [
+    {
+      "id": "39b65a10cbb6ed0ab2c38f6bbc1c75eca60f6a44",
+      "fingerprint": "a89e91b47b8a3bf026332fd6dd58dcd6162273f9",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-na-rakovnicku-se-prevratila-cisterna-s-nebezpecnou-latkou-40609963",
+      "published_utc": "2026-11-23T09:49:55Z",
+      "title_en": "Na Rakovnicku se převrátila cisterna s nebezpečnou látkou",
+      "lead_en": "U převrácené cisterny se silně zásaditou látkou zasahovali od pondělního rána hasiči, na pomoc povolali i ropný kontejner či dekontaminační přívěs. Nehoda se obešla bez zranění, silnice II/237 mezi Novým Strašecím a Lužnou je obousměrně uzavřená.",
+      "title_raw": "Na Rakovnicku se převrátila cisterna s nebezpečnou látkou",
+      "lead_raw": "U převrácené cisterny se silně zásaditou látkou zasahovali od pondělního rána hasiči, na pomoc povolali i ropný kontejner či dekontaminační přívěs. Nehoda se obešla bez zranění, silnice II/237 mezi Novým Strašecím a Lužnou je obousměrně uzavřená.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "318c508af97f0b31335f66f1f590ff2ac16e5e1a",
+      "fingerprint": "ca55cb47e0500fc26602f4d97e17be46fcb95ef5",
+      "source": "Seznam Zprávy",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-obeti-v-dymeru-u-kyjeva-je-jiz-devet-z-trosek-vyprostili-zivou-79letou-zenu-321256",
+      "published_utc": "2026-11-23T07:01:17Z",
+      "title_en": "Obětí v Dymeru u Kyjeva je již jedenáct, z trosek vyprostili živou 79letou ženu",
+      "lead_en": "Ruský dronový útok na obytný dům v Dymeru si vyžádal nejméně jedenáct obětí, je mezi nimi i osmnáctiletý mladík. Záchranáři z trosek vyprostili také živou 79letou ženu, další lidé utrpěli zranění.",
+      "title_raw": "Obětí v Dymeru u Kyjeva je již jedenáct, z trosek vyprostili živou 79letou ženu",
+      "lead_raw": "Ruský dronový útok na obytný dům v Dymeru si vyžádal nejméně jedenáct obětí, je mezi nimi i osmnáctiletý mladík. Záchranáři z trosek vyprostili také živou 79letou ženu, další lidé utrpěli zranění.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "1cd8dc2d158cac7f782e85c6fda85bb3bb1ecae7",
       "fingerprint": "9550dae2f4a33fc96344133867348377a8d4e9ba",
@@ -244,185 +288,6 @@
       },
       "topics": [
         "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "4dd29751b751c05ae6e637a160332c0aa50fe667",
-      "fingerprint": "56d559b9ed65ebb6995885d4dc345c410354b314",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-pri-dvou-nehodach-v-olomouckem-kraji-zemreli-behem-peti-hodin-dva-lide-40609806",
-      "published_utc": "2026-11-21T09:12:44Z",
-      "title_en": "Při dvou nehodách v Olomouckém kraji zemřeli během pěti hodin dva lidé",
-      "lead_en": "Dvě tragické dopravní nehody poznamenaly páteční provoz v Olomouckém kraji. Během pouhých pěti hodin přišli o život devadesátiletý senior na elektrickém skútru a sedmapadesátiletý chodec.",
-      "title_raw": "Při dvou nehodách v Olomouckém kraji zemřeli během pěti hodin dva lidé",
-      "lead_raw": "Dvě tragické dopravní nehody poznamenaly páteční provoz v Olomouckém kraji. Během pouhých pěti hodin přišli o život devadesátiletý senior na elektrickém skútru a sedmapadesátiletý chodec.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "79b6fbafb2c2fa4de52939956fa30511ecb3db12",
-      "fingerprint": "e2d33799774712f1d1abfb4f2a1ee0eab67a2ecb",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/pardubice/zpravy/nehoda-chodec-auto-umrti-tisova-orlickoustecko.A261121_095117_pardubice-zpravy_zdo",
-      "published_utc": "2026-11-21T09:04:00Z",
-      "title_en": "Dodávka srazila na Orlickoústecku chodce. Zraněný muž na místě zemřel",
-      "lead_en": "Při dopravní nehodě v Tisové na Orlickoústecku zemřel v noci na sobotu chodec narozený v roce 1939. Srazil ho osobní vůz Mercedes Vito.",
-      "title_raw": "Dodávka srazila na Orlickoústecku chodce. Zraněný muž na místě zemřel",
-      "lead_raw": "Při dopravní nehodě v Tisové na Orlickoústecku zemřel v noci na sobotu chodec narozený v roce 1939. Srazil ho osobní vůz Mercedes Vito.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "091e9a0498cbceb4c6102b51cc4e9484a5ea321a",
-      "fingerprint": "41a5be7991a25f8614752594e26363cdd613c39f",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/olomouc/zpravy/dopravni-nehoda-umrti-elektricky-skutr-hranice.A261121_092422_olomouc-zpravy_zdo",
-      "published_utc": "2026-11-21T08:38:00Z",
-      "title_en": "Kolize skútru s autem a sražený chodec v Olomouckém kraji. Zemřeli dva lidé",
-      "lead_en": "Dva lidé zemřeli v pátek při dvou dopravních nehodách v Olomouckém kraji. Devadesátiletý muž nepřežil střet elektrického tříkolového skútru s osobním autem mezi Hranicemi a Lipníkem nad Bečvou na Přerovsku, v Mostkovicích na Prostějovsku zemřel po srážce s autem sedmapadesátiletý chodec.",
-      "title_raw": "Kolize skútru s autem a sražený chodec v Olomouckém kraji. Zemřeli dva lidé",
-      "lead_raw": "Dva lidé zemřeli v pátek při dvou dopravních nehodách v Olomouckém kraji. Devadesátiletý muž nepřežil střet elektrického tříkolového skútru s osobním autem mezi Hranicemi a Lipníkem nad Bečvou na Přerovsku, v Mostkovicích na Prostějovsku zemřel po srážce s autem sedmapadesátiletý chodec.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "12007f81af42f6f8bc4e3ac1d44c0a355621915f",
-      "fingerprint": "f271622e4dd44e457966c9938c063b21568664f9",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusky-utok-na-kryvyj-rih-zabil-dite-a-zdravotnici-zranenych-jsou-desitky-379810",
-      "published_utc": "2026-11-21T07:38:48Z",
-      "title_en": "Ruský útok na Kryvyj Rih zabil dítě a zdravotnici, zraněných jsou desítky",
-      "lead_en": "Ruská armáda podnikla v&nbsp;pátek večer raketový a&nbsp;dronový útok na Kryvyj Rih na jihovýchodě Ukrajiny. Zemřela dvacetiletá zdravotnická záchranářka a&nbsp;sedmileté dítě.",
-      "title_raw": "Ruský útok na Kryvyj Rih zabil dítě a zdravotnici, zraněných jsou desítky",
-      "lead_raw": "Ruská armáda podnikla v&nbsp;pátek večer raketový a&nbsp;dronový útok na Kryvyj Rih na jihovýchodě Ukrajiny. Zemřela dvacetiletá zdravotnická záchranářka a&nbsp;sedmileté dítě.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 3
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "121c5cc6714c451d041db710f78c798ac9f6cfe5",
-      "fingerprint": "945135a9aa2b276a456c54daf404b68e31017335",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-ruske-rakety-a-drony-zasahly-kryvyj-rih-zemreli-dva-lide-vcetne-ditete-321200",
-      "published_utc": "2026-11-21T07:26:35Z",
-      "title_en": "Ruské rakety a drony zasáhly Kryvyj Rih. Zemřeli dva lidé, včetně dítěte",
-      "lead_en": "Ukrajina hlásí rozsáhlé škody a desítky zraněných po nočních ruských útocích. Rusové cílili raketami a drony mimo jiné na Kryvyj Rih.",
-      "title_raw": "Ruské rakety a drony zasáhly Kryvyj Rih. Zemřeli dva lidé, včetně dítěte",
-      "lead_raw": "Ukrajina hlásí rozsáhlé škody a desítky zraněných po nočních ruských útocích. Rusové cílili raketami a drony mimo jiné na Kryvyj Rih.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "789f26a35df10f85f3ffb94f02c8f05822d9aa2d",
-      "fingerprint": "44be065899b6f2fe4d211cd19823ffc989a5d9a9",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-pri-ruskem-utoku-zahynulo-sedmilete-dite-40609801",
-      "published_utc": "2026-11-21T06:34:33Z",
-      "title_en": "Ruské rakety a drony zasáhly Kryvyj Rih, zabily sedmileté dítě a mladou záchranářku",
-      "lead_en": "Ruská armáda podnikla v pátek večer raketový a dronový útok na Kryvyj Rih na jihovýchodě Ukrajiny. Zemřela 20letá zdravotnická záchranářka a sedmileté dítě.",
-      "title_raw": "Ruské rakety a drony zasáhly Kryvyj Rih, zabily sedmileté dítě a mladou záchranářku",
-      "lead_raw": "Ruská armáda podnikla v pátek večer raketový a dronový útok na Kryvyj Rih na jihovýchodě Ukrajiny. Zemřela 20letá zdravotnická záchranářka a sedmileté dítě.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 2,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "military",
-        "local_events"
-      ],
-      "primary_topic": "military"
-    },
-    {
-      "id": "6925df1eef5cbc3781d2eb9c07a1fc7f935f6f61",
-      "fingerprint": "950394c6bfc5b5c2c564add5e983403e6a7d5f9f",
-      "source": "iDNES.cz",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/porota-shledala-vinnym-muze-podezreleho-z-pozaru-v-los-angeles-hrozi-mu-20-let.A261121_070357_zahranicni_tty",
-      "published_utc": "2026-11-21T06:03:00Z",
-      "title_en": "Porota shledala vinným muže podezřelého z požáru v Los Angeles, hrozí mu 20 let",
-      "lead_en": "Americká porota shledala vinným třicetiletého muže podezřelého z úmyslného založení požáru, který se rozrostl v jednu z největších katastrof v historii Los Angeles. Informovaly o tom agentury.",
-      "title_raw": "Porota shledala vinným muže podezřelého z požáru v Los Angeles, hrozí mu 20 let",
-      "lead_raw": "Americká porota shledala vinným třicetiletého muže podezřelého z úmyslného založení požáru, který se rozrostl v jednu z největších katastrof v historii Los Angeles. Informovaly o tom agentury.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "1c48959caac5447101b0cde36029d28dfeb7cc2b",
-      "fingerprint": "9c44f3975223a9b09abeff400bf0e95a54484b08",
-      "source": "ČT24",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/porota-v-usa-shledala-vinnym-muze-podezreleho-ze-zalozeni-pozaru-v-los-angeles-379808",
-      "published_utc": "2026-11-21T03:31:10Z",
-      "title_en": "Porota v USA shledala vinným muže podezřelého ze založení požáru v Los Angeles",
-      "lead_en": "Americká porota shledala vinným třicetiletého muže podezřelého z&nbsp;úmyslného založení požáru, který se rozrostl v&nbsp;„jednu z&nbsp;největších katastrof v&nbsp;historii Los Angeles“. Informovaly o&nbsp;tom zpravodajské agentury.",
-      "title_raw": "Porota v USA shledala vinným muže podezřelého ze založení požáru v Los Angeles",
-      "lead_raw": "Americká porota shledala vinným třicetiletého muže podezřelého z&nbsp;úmyslného založení požáru, který se rozrostl v&nbsp;„jednu z&nbsp;největších katastrof v&nbsp;historii Los Angeles“. Informovaly o&nbsp;tom zpravodajské agentury.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
         "local_events"
       ],
       "primary_topic": "local_events"
