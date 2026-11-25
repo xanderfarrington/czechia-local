@@ -657,8 +657,8 @@ TOPIC_RULES = {
 
         "war": (
             3,
-            r"\bválk\w*|\bváleč\w*",
-            r"\bwar\b|\bwarfare\b",
+            r"\bválk\w*|\bválce\b|\bváleč\w*",
+            r"\bwars?\b|\bwarfare\b",
         ),
 
         "weapons": (
@@ -730,8 +730,9 @@ TOPIC_RULES = {
 
         "hybrid_warfare": (
             3,
-            r"\bhybridní (?:válk|hrozb)\w*",
+            r"\bhybridn\w*\s+(?:válk|válc|hrozb|hrozeb)\w*",
             r"\bhybrid warfare\b|"
+            r"\bhybrid wars?\b|"
             r"\bhybrid threats?\b",
         ),
 
