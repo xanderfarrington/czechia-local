@@ -1,8 +1,836 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T11:59:42Z",
+  "updated_at_utc": "2026-11-25T12:24:37Z",
   "topic": "economy",
-  "count": 0,
-  "articles": []
+  "count": 27,
+  "articles": [
+    {
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/babis-priznal-chyby-u-navrhu-zmen-podpor-v-nezamestnanosti-379936",
+      "published_utc": "2026-11-25T11:45:23Z",
+      "title_raw": "Babiš přiznal chyby u návrhu změn podpor v nezaměstnanosti",
+      "lead_raw": "Premiér Andrej Babiš (ANO) přiznal chyby v návrzích na změny podpor v nezaměstnanosti a zákonu o platformové práci. S ministrem práce a sociálních věcí Alešem Juchelkou (ANO) to probral v pondělí, řekl serveru deník.cz.",
+      "id": "74bc114be78a9e604b62dd9ddc3346330925958e",
+      "fingerprint": "bb14ae90c2c32096044902e049a54e8ab715c4b3",
+      "title_en": "Grandma admitted mistakes in her proposal for unemployment benefits.",
+      "lead_en": "Prime Minister Andrej Babiš (ANO) admitted mistakes in proposals for changes to unemployment benefits and the law on platform work.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:13:04Z",
+      "collected_at_utc": "2026-11-25T12:08:55Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 4,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/ekonomika-mzdy-maji-rust-i-pristi-rok-pridavat-chce-pres-dve-tretiny-firem-40610414",
+      "published_utc": "2026-11-25T11:03:30Z",
+      "title_raw": "Mzdy mají růst i příští rok. Přidávat chce přes dvě třetiny firem",
+      "lead_raw": "Přes 68 procent českých firem plánuje v roce 2027 zvýšit svým zaměstnancům mzdy. Nejčastěji podniky očekávají růst do čtyř procent, více než čtvrtina počítá se zvýšením o čtyři až osm procent.",
+      "id": "413db75418056dfd400b0f9fc2784b9db61e0c10",
+      "fingerprint": "27d9c2a609c7f6c3f2b13ed26677d5da0428a9ff",
+      "title_en": "Wages are expected to rise again next year.",
+      "lead_en": "More than 68 percent of Czech companies plan to increase their employees' wages in 2027, most often up to four percent, with more than a quarter expecting an increase of four to eight percent.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:13:55Z",
+      "collected_at_utc": "2026-11-25T12:08:56Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 1
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/babis-priznal-chyby-v-navrzich-mpsv-s-juchelkou-to-probral-rekl-deniku/2906456",
+      "published_utc": "2026-11-25T11:02:00Z",
+      "title_raw": "Babiš přiznal chyby v návrzích MPSV, s Juchelkou to probral, řekl Deníku",
+      "lead_raw": "Praha - Premiér Andrej Babiš (ANO) přiznal chyby v návrzích na změny podpor v nezaměstnanosti a zákonu o platformové práci. S ministrem práce a sociálních věcí Alešem Juchelkou (ANO) to probral v pondělí....",
+      "id": "917f2300045e8a2a1c89e98fdbd07e93fe12aea8",
+      "fingerprint": "b52f5693e88eef459ca167ff86d065d603b9c73d",
+      "title_en": "Babiš admitted mistakes in the proposals of the MPSV, discussed it with Juchelka, he told Deník",
+      "lead_en": "Prague - Prime Minister Andrej Babiš (ANO) admitted mistakes in proposals for changes to unemployment benefits and the law on platform work.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:13:55Z",
+      "collected_at_utc": "2026-11-25T12:08:53Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 4,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-huawei-je-vinen-dopustil-se-spiknuti-a-bankovniho-podvodu-rozhodl-americky-soud-40610366",
+      "published_utc": "2026-11-25T10:57:58Z",
+      "title_raw": "Huawei je vinen, dopustil se spiknutí a bankovního podvodu, rozhodl americký soud",
+      "lead_raw": "Čínská technologická a telekomunikační společnost Huawei byla v úterý americkým soudem shledána vinnou ze spiknutí za účelem krádeže obchodních tajemství a bankovního podvodu. Naopak byla zproštěna obvinění ze závažnějšího zločinu organizované trestné činnosti.",
+      "id": "f1ccd5d296ddb9aa2c9f36543d93c1aaf5bfe0c5",
+      "fingerprint": "6559df370fbe8b868460ca9cf0be72772a90014a",
+      "title_en": "Huawei is guilty of conspiracy and bank fraud, U.S. court rules",
+      "lead_en": "Chinese technology and telecommunications company Huawei was found guilty by a US court on Tuesday of conspiracy to steal trade secrets and bank fraud, but acquitted of the more serious charge of organized crime.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:13:55Z",
+      "collected_at_utc": "2026-11-25T12:08:56Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-vetsina-teplaren-v-cesku-pristi-rok-zvysi-ceny-tepla-nejvice-zdrazi-teplo-z-plynu-321485",
+      "published_utc": "2026-11-25T10:51:27Z",
+      "title_raw": "Většina tepláren v Česku příští rok zvýší ceny tepla, nejvíce zdraží teplo z plynu",
+      "lead_raw": "Podle Teplárenského sdružení v 2027 zdraží většina českých tepláren. Cena tepla z plynu stoupne o 15 až 20 procent, z lesní štěpky o více než desetinu a z uhlí zhruba o inflaci.",
+      "id": "eeea87905f89582b126fd1d5b0b698a2d2279650",
+      "fingerprint": "f8eb838922bf6363ba94a6334bf4d56a21ab8468",
+      "title_en": "Most thermal plants in the Czech Republic will raise heating prices next year, the most expensive heat from gas",
+      "lead_en": "According to the Greenhouse Association, in 2027 most of the Czech greenhouses will be overpriced. The price of heat from gas will rise by 15 to 20 percent, from forestry by more than a tenth and from coal by about inflation.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:14:44Z",
+      "collected_at_utc": "2026-11-25T12:08:57Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 5,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy",
+      "relevant": true
+    },
+    {
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-moravskoslezsky-kraj-novy-most-v-novem-jicine-ma-zpozdeni-a-bude-drazsi-40610376",
+      "published_utc": "2026-11-25T10:46:46Z",
+      "title_raw": "Nový most v Novém Jičíně má zpoždění a bude dražší",
+      "lead_raw": "Třetí nejvyšší městská investice tohoto roku, stavba nového mostu přes říčku Grasmanku v Novém Jičíně, má zpoždění. Dílo za zhruba 22 miliónů korun mělo být původně hotovo v polovině listopadu, poté na konci stejného měsíce, ani tento termín se firmě ale nepodaří dodržet.",
+      "id": "769494446e69701139109c3525c3a73b8d8f782f",
+      "fingerprint": "d43cfa652fc661561e922a08db68be690614968f",
+      "title_en": "The new bridge in New Yichin is delayed and will be more expensive",
+      "lead_en": "The city's third-biggest investment this year, the construction of a new bridge over the Grasmanka River in New Yichin, has been delayed.The work, estimated to cost about 22 million crowns, was originally scheduled to be completed in mid-November, then at the end of the same month, but the company has failed to meet this deadline.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:15:53Z",
+      "collected_at_utc": "2026-11-25T12:08:56Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/ekonomika-trump-chysta-novou-vlnu-cel-pujdou-proti-evrope-i-cine-40610387",
+      "published_utc": "2026-11-25T10:37:35Z",
+      "title_raw": "Trump chystá novou vlnu cel. Půjdou proti Evropě i Číně",
+      "lead_raw": "Administrativa prezidenta Donalda Trumpa se podle středečních zpráv amerických médií chystá představit novou vlnu dovozních cel, která by mohla zasáhnout 16 významných obchodních partnerů Spojených států, včetně Číny, Evropské unie, Japonska či Indie.",
+      "id": "1a93f030a32bfccb4f2003ab81c65999633a6cea",
+      "fingerprint": "219b700ebc44571846be503ebb9cc436dd8d028c",
+      "title_en": "Trump is planning a new wave of tariffs against Europe and China.",
+      "lead_en": "President Donald Trump's administration is reportedly preparing to introduce a new wave of import tariffs Wednesday that could hit 16 major U.S. trading partners, including China, the European Union, Japan and India.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:15:53Z",
+      "collected_at_utc": "2026-11-25T12:08:56Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/vanocni-strom-v-praze-se-bude-rozsvecet-na-hudbu-z-tri-orisku-pro-popelku/2906406",
+      "published_utc": "2026-11-25T09:46:00Z",
+      "title_raw": "Vánoční strom v Praze se bude rozsvěcet na hudbu z Tří oříšků pro Popelku",
+      "lead_raw": "Praha - V sobotu dopoledne začnou na Staroměstském a Václavském náměstí v Praze vánoční trhy. Z bezpečnostních důvodů se ani letos nebude konat slavnostní rozsvícení vánočního stromu na Staroměstském...",
+      "id": "ad55716c3990bd6a52bfabd0e5c2f8e56475c7be",
+      "fingerprint": "4ac1785cc7e4420df7487fc369030519a4998904",
+      "title_en": "The Christmas tree in Prague will light up to the music of Three Nuts for Cinderella .",
+      "lead_en": "Prague - Christmas markets will start on the Old Town Square and Wenceslas Square in Prague on Saturday morning.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:17:44Z",
+      "collected_at_utc": "2026-11-25T12:08:53Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-usa-odlozily-plany-na-obchodni-dohody-s-ruskem-vymenou-za-ukonceni-valky-321466",
+      "published_utc": "2026-11-25T09:43:28Z",
+      "title_raw": "USA odložily plány na obchodní dohody s Ruskem výměnou za ukončení války",
+      "lead_raw": "Trumpova administrativa odložila plány lákat Rusko k míru na Ukrajině obchodními dohodami. Moskva o projekty v energetice či letectví prý neprojevila velký zájem a dál trvá na územních ústupcích Kyjeva.",
+      "id": "5f3d4ae76650dd7f38b10b103c4272a191df0214",
+      "fingerprint": "4989cd3a8527f356aa2c2fe9701fd282b7df019c",
+      "title_en": "The U.S. postponed plans for a trade deal with Russia in exchange for ending the war.",
+      "lead_en": "The Trump administration has postponed plans to lure Russia to peace in Ukraine with trade deals, saying Moscow has shown little interest in energy or aerospace projects and continues to insist on territorial concessions from Kiev.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:17:44Z",
+      "collected_at_utc": "2026-11-25T12:08:57Z",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy",
+      "relevant": true
+    },
+    {
+      "source": "iROZHLAS - Economy",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/ekonomika/fiskalni-politika-se-vyrazne-rozvolnuje-v-dobe-kdy-ceska-ekonomika-nepotrebuje_2611251029_mst",
+      "published_utc": "2026-11-25T09:29:00Z",
+      "title_raw": "Fiskální politika se výrazně rozvolňuje v době, kdy to česká ekonomika nepotřebuje, říká expert k rozpočtu",
+      "lead_raw": "Česko má příští rok hospodařit s jedním z největších deficitů v samostatných dějinách. Poslanci ve středu probírají ve druhém čtení státní rozpočet.",
+      "id": "89e53b90fce319831b47e607bb95de688dbb4dc2",
+      "fingerprint": "234d27a3ab3504cb9e008001c3fd7ab30274a937",
+      "title_en": "Fiscal policy is being significantly loosened at a time when the Czech economy doesn't need it, says budget expert",
+      "lead_en": "The Czech Republic is set to run one of the biggest deficits in its independent history next year as lawmakers debate the second reading of the state budget on Wednesday.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:18:31Z",
+      "collected_at_utc": "2026-11-25T12:08:52Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 5,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/dary-na-vojenskou-pomoc-ukrajine-od-ledna-nepujde-odecist-z-dani-nektere-sbirky_2611250923_jho",
+      "published_utc": "2026-11-25T08:23:00Z",
+      "title_raw": "Dary na vojenskou pomoc Ukrajině od ledna nepůjde odečíst z daní. Některé sbírky čekají pokles zájmu",
+      "lead_raw": "Lidé ani firmy si od příštího roku nebudou moci odečíst od základu daně dary na vojenskou pomoc Ukrajině. Na konci letošního roku totiž vyprší platnost zvláštních daňových pravidel, která Česko zavedlo po zahájení ruské invaze v roce 2022.",
+      "id": "4015be3c6d2d962f45ef6888875811ae4be166e1",
+      "fingerprint": "8c39e06f8fcf2bbfe3f40e1c69f79717f0c171ae",
+      "title_en": "Donations for military aid to Ukraine will not be deducted from taxes as of January.",
+      "lead_en": "Starting next year, people and companies will not be able to deduct donations for military aid to Ukraine from their tax base, as special tax rules introduced by the Czech Republic after the Russian invasion in 2022 expire at the end of this year.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:18:31Z",
+      "collected_at_utc": "2026-11-25T12:08:52Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "military",
+      "relevant": true
+    },
+    {
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/policie-zajistila-55-automatu-s-cbd-vyrobky-muz-je-ve-vazbe/2906331",
+      "published_utc": "2026-11-25T07:40:00Z",
+      "title_raw": "Policie zajistila 55 automatů s CBD výrobky, muž je ve vazbě",
+      "lead_raw": "Ostrava - Policisté na území téměř celé republiky zajistili 55 automatů s konopnými produkty. Jde o pokračování akce Korund zaměřené na omezení dostupnosti výrobků obsahujících syntetické a polosyntetické...",
+      "id": "992e52df5a6180d6796dec52b0b77f934a02715f",
+      "fingerprint": "24961d759abaacdd90bf992463bbad1a3c0315b4",
+      "title_en": "Police have seized 55 vending machines with CBD products, man is in custody",
+      "lead_en": "Police officers across most of the country have seized 55 vending machines with cannabis products, a continuation of Operation Korund aimed at limiting the availability of products containing synthetic and semi-synthetic...",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:19:16Z",
+      "collected_at_utc": "2026-11-25T12:08:53Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-byznys-trendy-analyzy-cina-pada-do-vlastni-dluhove-pasti-321406",
+      "published_utc": "2026-11-25T07:40:00Z",
+      "title_raw": "Čína padá do vlastní dluhové pasti",
+      "lead_raw": "Celkový dluh čínské ekonomiky dosahuje podle Mezinárodního měnového fondu zhruba 313 % HDP a velká část toho vládního leží na místních samosprávách a jejich firmách. Jak z toho ven?",
+      "id": "bf362cb7d930a67a7de52510f16f9bbb6f4d129f",
+      "fingerprint": "870484b08820ea3c96b20e47217c37319a376ece",
+      "title_en": "China is falling into its own debt trap",
+      "lead_en": "The total debt of the Chinese economy, according to the International Monetary Fund, is about 313% of GDP, and much of that government debt lies with local governments and their companies.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:20:00Z",
+      "collected_at_utc": "2026-11-25T12:08:57Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 4,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-ptam-se-ja-vlada-se-chysta-zvysit-dane-komu-a-jak-moc-havlicek-odpovida-321449",
+      "published_utc": "2026-11-25T07:00:17Z",
+      "title_raw": "Energetická krize se nám v příštím roce nevyhne, říká Havlíček",
+      "lead_raw": "Koalice ANO, Motoristů a SPD za první rok vlády už stihla válku s Hradem, čelila několika protivládním demonstracím, na kontě má i rekordní schodek. Jak se kabinetu daří a kdy splní své sliby voličům?",
+      "id": "562f3860267831d5e09e01de5914b2bbb29a7a95",
+      "fingerprint": "a03dce5e0c7d1cd049cac44b2e7b5633db2cda5b",
+      "title_en": "The energy crisis will not escape us next year, says Havlíček",
+      "lead_en": "The coalition of the ANO, the Motorists and the SPD in the first year of government has already made war on the Castle, faced several anti-government demonstrations, and has a record deficit.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:20:00Z",
+      "collected_at_utc": "2026-11-25T12:08:57Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy",
+      "relevant": true
+    },
+    {
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/porota-v-usa-shledala-huawei-vinnou-z-kradeze-obchodnich-tajemstvi-379924",
+      "published_utc": "2026-11-24T23:57:44Z",
+      "title_raw": "Porota v USA shledala Huawei vinnou z krádeže obchodních tajemství",
+      "lead_raw": "Porota u amerického soudu shledala čínskou technologickou firmu Huawei vinnou ze spiknutí za účelem krádeže obchodních tajemství a bankovního podvodu. Závažnějšího obvinění ze spiknutí za účelem vydírání, které se obvykle používá v případech organizovaného zločinu, ale porota firmu zprostila.",
+      "id": "bd497000ff6362ba8adc08c97ee1bf2354f291be",
+      "fingerprint": "a7e5f7aaaee8d3e2287d80ef2365e93751d90917",
+      "title_en": "U.S. jury finds Huawei guilty of stealing trade secrets",
+      "lead_en": "A jury in a U.S. court found Chinese technology company Huawei guilty of conspiracy to steal trade secrets and bank fraud, a more serious charge of conspiracy to commit extortion commonly used in organized crime cases, but the jury acquitted the company.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:20:49Z",
+      "collected_at_utc": "2026-11-25T12:08:55Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/cnb-projedna-limity-pro-hypoteky-nastavi-rezervu-na-ochranu-uveroveho-trhu/2905835",
+      "published_utc": "2026-11-24T23:29:00Z",
+      "title_raw": "ČNB projedná limity pro hypotéky, nastaví rezervu na ochranu úvěrového trhu",
+      "lead_raw": "Praha - Bankovní rada České národní banky (ČNB) dnes projedná nastavení pravidel pro poskytování hypoték a posoudí odolnost českého finančního sektoru. Rozhodne také o stanovení sazby takzvané proticyklické...",
+      "id": "e5b13a499c08cfde7c20e51fcfa48c774d65fcb9",
+      "fingerprint": "cc6b642376ba4edecba99201ff3d68de394cc540",
+      "title_en": "CNB discusses mortgage limits, sets up a reserve to protect the credit market",
+      "lead_en": "Prague - The Banking Council of the Czech National Bank (ČNB) is today discussing the setting of mortgage lending rules and assessing the resilience of the Czech financial sector.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:20:49Z",
+      "collected_at_utc": "2026-11-25T12:08:54Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 5,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/odbory-volkswagenu-odmitaji-vice-prace-za-mene-penez-hrozi-stavkami-379920",
+      "published_utc": "2026-11-24T19:05:00Z",
+      "title_raw": "Odbory Volkswagenu odmítají více práce za méně peněz, hrozí stávkami",
+      "lead_raw": "V automobilce Volkswagen začala ostře sledovaná vyjednávání o platech sto dvaceti tisíc zaměstnanců v Německu. Pod tlakem katastrofálních hospodářských výsledků chce vedení šetřit a plánuje další rozsáhlé propouštění.",
+      "id": "eaf556a08bb16e7f9478acc5ebfccb370540dab8",
+      "fingerprint": "4ceb96daa438578be746b34a4456983e587d03d1",
+      "title_en": "Volkswagen unions refuse to work more for less, threaten strike action",
+      "lead_en": "Volkswagen has begun a highly-watched negotiation on the salaries of its 120,000 employees in Germany, and under pressure from disastrous economic results, the management wants to save and is planning further large-scale layoffs.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:21:35Z",
+      "collected_at_utc": "2026-11-25T12:08:55Z",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "iROZHLAS - Economy",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/ekonomika/spojene-staty-chystaji-dalsi-cla-dotknout-se-maji-ciny-evropske-unie-nebo-indie_2611241958_dci",
+      "published_utc": "2026-11-24T18:58:00Z",
+      "title_raw": "Spojené státy chystají další cla. Dotknout se mají Číny, Evropské unie nebo Indie",
+      "lead_raw": "Spojené státy se chystají zvýšit cla na dovoz z Číny, Evropské unie a dalších 14 zemí, o nichž Bílý dům tvrdí, že poškozují americké společnosti podporou vlastní domácí průmyslové výroby. Uvedl to list The Wall Street Journal (WSJ).",
+      "id": "39a59d9f2f8b1a48162cdd997419cb37e814d45d",
+      "fingerprint": "c425fd9be9cc4fb151f4fd02c30cda3641bebe7f",
+      "title_en": "The United States is going to impose more tariffs on China, the European Union or India.",
+      "lead_en": "The United States is about to increase tariffs on imports from China, the European Union, and 14 other countries that the White House says are hurting American companies by supporting domestic manufacturing, reports The Wall Street Journal (WSJ).",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:21:35Z",
+      "collected_at_utc": "2026-11-25T12:08:52Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 6,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/wsj-usa-chystaji-dalsi-cla-na-dovoz-z-eu-ciny-a-dalsich-zemi/2906167",
+      "published_utc": "2026-11-24T18:41:00Z",
+      "title_raw": "WSJ: USA chystají další cla na dovoz z EU, Číny a dalších zemí",
+      "lead_raw": "Washington - Spojené státy se chystají zvýšit cla na dovoz z Číny, Evropské unie a dalších 14 zemí, o nichž Bílý dům tvrdí, že poškozují americké společnosti podporou vlastní domácí průmyslové výroby....",
+      "id": "b6e80f09754ed2941d912eed07c202238f9f1230",
+      "fingerprint": "d0d7dd116d71e7cfa4d0b1dc7eb58eb22791d848",
+      "title_en": "WSJ: US to impose new tariffs on imports from EU, China and other countries",
+      "lead_en": "WASHINGTON - The United States is about to raise tariffs on imports from China, the European Union and 14 other countries that the White House says are hurting American companies by encouraging domestic manufacturing....",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:22:26Z",
+      "collected_at_utc": "2026-11-25T12:08:54Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 6,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/prazska-burza-nepatrne-posilila-darilo-se-ceskym-bankam/2906098",
+      "published_utc": "2026-11-24T16:38:00Z",
+      "title_raw": "Pražská burza nepatrně posílila, dařilo se českým bankám",
+      "lead_raw": "Praha - Pražská burza dnes nepatrně posílila, index PX stoupl o 0,12 procenta na 2597,40 bodu. Zpevnila většina titulů, zdražily například akcie Komerční banky, zbrojovky Colt a Monety Money Bank.",
+      "id": "8d400290765b4248150ee392b5ce3aba06763e7a",
+      "fingerprint": "d310576ac6f1e38f7b36624633409750cc35b5a1",
+      "title_en": "The Prague stock market has strengthened slightly, Czech banks are doing well",
+      "lead_en": "The PX index rose 0.12 percent to 2597.40 points, strengthening most stocks, including Komerční banka, Colt and Monety Money Bank.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:22:26Z",
+      "collected_at_utc": "2026-11-25T12:08:54Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/odbory-odmitaji-jakekoli-upravy-ktere-snizi-podpory-v-nezamestnanosti-rekl-stredula/2906055",
+      "published_utc": "2026-11-24T15:09:00Z",
+      "title_raw": "Odbory odmítají jakékoli úpravy, které sníží podpory v nezaměstnanosti, řekl Středula",
+      "lead_raw": "Praha - Českomoravská konfederace odborových svazů (ČMKOS) odmítá jakékoli úpravy, které sníží podpory v nezaměstnanosti. Ve Sněmovně to dnes řekl předseda ČMKOS Josef Středula.",
+      "id": "c2c6f145425d443f6748d33d3759f8807a56add1",
+      "fingerprint": "70aaaa0af98f85494086403e6534e01d1f89e19a",
+      "title_en": "Trade unions reject any adjustment that reduces unemployment benefits, said Středula",
+      "lead_en": "Prague - The Czechoslovak Confederation of Trade Unions (ČMKOS) rejects any amendment that would reduce unemployment benefits.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:23:07Z",
+      "collected_at_utc": "2026-11-25T12:08:53Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 5,
+        "local_events": 0
+      },
+      "topics": [
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/zive-tk-k-upravam-vladniho-navrhu-zmen-podpory-v-nezamestnanost/2905763",
+      "published_utc": "2026-11-24T09:16:00Z",
+      "title_raw": "ŽIVĚ: TK k úpravám vládního návrhu změn podpory v nezaměstnanost",
+      "lead_raw": "Praha - ANO, SPD a Motoristé směřují k dohodě na úpravách změn v podpoře v nezaměstnanosti, jak o nich jednali na žádost hnutí SPD. Jeho předseda Tomio Okamura novinářům při odchodu z dnešního jednání...",
+      "id": "ae291a1fcb99416f493fa9fa4ddedef84f1fc46a",
+      "fingerprint": "d6794261f335718f8b79426fd195fc247b0e58a1",
+      "title_en": "TK to amend the government's proposal for changes to unemployment benefits",
+      "lead_en": "Yes, the SPD and the Motorists are on track to reach an agreement on changes to unemployment benefits, as negotiated at the request of the SPD.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:23:07Z",
+      "collected_at_utc": "2026-11-25T12:08:53Z",
+      "topic_scores": {
+        "diplomacy": 3,
+        "military": 0,
+        "energy": 0,
+        "economy": 4,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "iROZHLAS - Economy",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/ekonomika/eu-uvali-limity-na-dovoz-hybridnich-aut-z-ciny-opatreni-ma-chranit-evropske_2611241014_vdv",
+      "published_utc": "2026-11-24T09:14:00Z",
+      "title_raw": "EU uvalí limity na dovoz hybridních aut z Číny. Opatření má chránit evropské automobilky",
+      "lead_raw": "Evropská unie stanovila dočasné limity na dovoz nových hybridních automobilů z Číny a několika dalších zemí. Opatření má chránit evropské automobilky před rostoucím dovozem ze zahraničí.",
+      "id": "6f50300151a36d7976e39c6ecb729bab346c03d2",
+      "fingerprint": "ce7b3c2c262fe94af0d1fae62174065b8c1b17f6",
+      "title_en": "EU to impose limits on imports of hybrid cars from China to protect European carmakers",
+      "lead_en": "The European Union has imposed temporary limits on imports of new hybrid cars from China and several other countries to protect European carmakers from rising imports from abroad.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:23:46Z",
+      "collected_at_utc": "2026-11-25T12:08:52Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/eu-stanovila-limity-na-dovoz-hybridnich-aut-z-ciny-a-dalsich-zemi/2905807",
+      "published_utc": "2026-11-24T09:00:00Z",
+      "title_raw": "EU stanovila limity na dovoz hybridních aut z Číny a dalších zemí",
+      "lead_raw": "Brusel - Evropská unie stanovila dočasné limity na dovoz nových hybridních automobilů z Číny a několika dalších zemí. Opatření má chránit evropské automobilky před rostoucím dovozem ze zahraničí.",
+      "id": "73c75cfd873805d2a7381ee1b01120d84babe92e",
+      "fingerprint": "9c9fcf4f81805a2e52cc187abd6fc3b9b7de3b64",
+      "title_en": "EU sets limits on imports of hybrid cars from China and other countries",
+      "lead_en": "BRUSSELS - The European Union has imposed temporary limits on imports of new hybrid cars from China and several other countries to protect European automakers from rising imports from abroad.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:23:46Z",
+      "collected_at_utc": "2026-11-25T12:08:54Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/armada-bude-pri-rozpoctu-2-hdp-stezi-rozvijet-nove-projekty-rekl-hlavac/2905715",
+      "published_utc": "2026-11-24T08:20:00Z",
+      "title_raw": "Armáda bude při rozpočtu 2 % HDP stěží rozvíjet nové projekty, řekl Hlaváč",
+      "lead_raw": "Praha - Při obranných výdajích ve výši dvou procent hrubého domácího produktu (HDP) armáda naráží na své limity. Dokáže udržet své schopnosti a plnit úkoly, obtížně ale bude rozvíjet nové projekty a zpomalí...",
+      "id": "159a7c79eddb847547f7b68be88072e389d98c1d",
+      "fingerprint": "b79aaec994b38d0b0bb277728545cf2450e68e81",
+      "title_en": "The army will hardly develop new projects with a budget of 2% of GDP, said Hlaváč",
+      "lead_en": "Prague - With defense spending at 2% of GDP, the army is reaching its limits, able to maintain its capabilities and fulfill its tasks, but will find it difficult to develop new projects and slow down...",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:23:46Z",
+      "collected_at_utc": "2026-11-25T12:08:53Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/pavel-resil-s-hejtmany-rozpoctove-urceni-dani-i-pripravenost-na-mimoradne-stavy/2905573",
+      "published_utc": "2026-11-23T17:28:00Z",
+      "title_raw": "Pavel řešil s hejtmany rozpočtové určení daní i připravenost na mimořádné stavy",
+      "lead_raw": "Praha - Rozpočtové určení daní a jeho případné změny byly hlavním tématem dnešního jednání prezidenta Petra Pavla se členy Rady Asociace krajů. Kraje představily své návrhy, v nichž žádají vládu o přenastavení...",
+      "id": "17d15c8bfd1ac244f5294a4017043fe28041987e",
+      "fingerprint": "c95dabc57d6b0ad48332aab638e1fa0f747214d5",
+      "title_en": "Paul discussed budgeting, taxation, and emergency preparedness with the chieftains",
+      "lead_en": "Prague - Budgetary taxation and its possible changes were the main topic of today's meeting between President Petr Pavel and members of the Council of the Association of Regions.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:24:37Z",
+      "collected_at_utc": "2026-11-25T12:08:53Z",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 1
+      },
+      "topics": [
+        "diplomacy",
+        "economy"
+      ],
+      "primary_topic": "diplomacy",
+      "relevant": true
+    },
+    {
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/prazska-burza-posilila-px-stoupl-o-procento-nahoru-ho-tahly-vig-ci-erste/2905640",
+      "published_utc": "2026-11-23T16:35:00Z",
+      "title_raw": "Pražská burza posílila, PX stoupl o procento, nahoru ho táhly VIG či Erste",
+      "lead_raw": "Praha - Pražská burza v úvodu týdne posílila, index PX stoupl o 1,02 procenta na 2594,27 bodu. Nahoru ho táhly především rakouské tituly VIG a Erste, mírně si polepšily i akcie Komerční banky a energetické...",
+      "id": "78acd9937a3a6f11746688ab8050f185bfd7f579",
+      "fingerprint": "40fd8b194498e3305d50048c81356a409a9842b5",
+      "title_en": "The Prague stock market has strengthened, the PX has risen by one percent, dragged up by VIG or Erste",
+      "lead_en": "Prague - The Prague Stock Exchange strengthened at the beginning of the week, the PX index rose by 1.02 percent to 2594.27 points.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:24:37Z",
+      "collected_at_utc": "2026-11-25T12:08:54Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    }
+  ]
 }

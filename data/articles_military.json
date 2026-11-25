@@ -1,8 +1,834 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T11:59:42Z",
+  "updated_at_utc": "2026-11-25T12:24:37Z",
   "topic": "military",
-  "count": 0,
-  "articles": []
+  "count": 27,
+  "articles": [
+    {
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-padlych-rusu-muze-byt-az-pul-milionu-rozsah-ztrat-odhaluji-unikla-data-321477",
+      "published_utc": "2026-11-25T11:40:00Z",
+      "title_raw": "Padlých Rusů může být až půl milionu, rozsah ztrát odhalují uniklá data",
+      "lead_raw": "Ruské úřady údaje o počtu padlých vojáků nezveřejňují. Analýza uniklých statistik, kterou provedla BBC, však ukazuje, že válka na Ukrajině si mohla vyžádat životy téměř půl milionu mužů bojujících za Rusko.",
+      "id": "757ce69c759e36cf6949db520d71ed89a881b37a",
+      "fingerprint": "fd526b760aef10eb7abb49fb481f3594e7422620",
+      "title_en": "Russian casualties may be as high as half a million, the extent of losses revealed by leaked data",
+      "lead_en": "Russian authorities do not release casualty figures, but an analysis of leaked statistics by the BBC suggests that the war in Ukraine may have claimed the lives of nearly half a million men fighting for Russia.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:13:04Z",
+      "collected_at_utc": "2026-11-25T12:08:57Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military",
+      "relevant": true
+    },
+    {
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/nato/simulator-strelba-armada-obrana-vr-group-laser.A261125_115540_zpr_nato_inc",
+      "published_utc": "2026-11-25T11:14:00Z",
+      "title_raw": "Virtuální město, poušť i prales. Čeští vojáci mají nový bojový simulátor",
+      "lead_raw": "Až tucet zbraní najednou, ale bez skutečné munice. Jakékoliv prostředí, jakákoliv bojová situace, přesto doslova v jedné místnosti.",
+      "id": "fcd1dab586ce8efe57360b19c768a7b2ca0c65e1",
+      "fingerprint": "198ed0cda4a16cd36bc26b0fe61c95481cd201b1",
+      "title_en": "The Czech soldiers have a new combat simulator",
+      "lead_en": "Up to a dozen guns at once, but no real ammunition, any environment, any combat situation, yet literally in one room.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:13:04Z",
+      "collected_at_utc": "2026-11-25T12:08:58Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military",
+      "relevant": true
+    },
+    {
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/ekonomika/domaci/prodlouzeni-zivotnosti-temelina-a-dukovan-se-vyplati-shoduji-se-experti.A261125_105200_ekonomika_hyk",
+      "published_utc": "2026-11-25T11:00:00Z",
+      "title_raw": "Prodloužení životnosti Temelína a Dukovan se vyplatí, shodují se experti",
+      "lead_raw": "Jaderné elektrárny Temelín a Dukovany jsou páteří české elektroenergetiky a hlavním pilířem energetické bezpečnosti země. Jejich význam vzrostl s postupným útlumem uhelných zdrojů i v souvislosti s geopolitickými otřesy na trzích s palivy.",
+      "id": "0d61f375c74cb69ba9a1a87d38fc0c55593bf015",
+      "fingerprint": "858d928a8929baa19da8bbe51d4ab0e71123341f",
+      "title_en": "Extending the lifespan of Temelin and Dukovan pays off, experts agree",
+      "lead_en": "The Temelín and Dukovany nuclear power plants are the backbone of the Czech electricity industry and the main pillar of the country's energy security.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:13:55Z",
+      "collected_at_utc": "2026-11-25T12:08:58Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 12,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "primary_topic": "energy",
+      "relevant": true
+    },
+    {
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-huawei-je-vinen-dopustil-se-spiknuti-a-bankovniho-podvodu-rozhodl-americky-soud-40610366",
+      "published_utc": "2026-11-25T10:57:58Z",
+      "title_raw": "Huawei je vinen, dopustil se spiknutí a bankovního podvodu, rozhodl americký soud",
+      "lead_raw": "Čínská technologická a telekomunikační společnost Huawei byla v úterý americkým soudem shledána vinnou ze spiknutí za účelem krádeže obchodních tajemství a bankovního podvodu. Naopak byla zproštěna obvinění ze závažnějšího zločinu organizované trestné činnosti.",
+      "id": "f1ccd5d296ddb9aa2c9f36543d93c1aaf5bfe0c5",
+      "fingerprint": "6559df370fbe8b868460ca9cf0be72772a90014a",
+      "title_en": "Huawei is guilty of conspiracy and bank fraud, U.S. court rules",
+      "lead_en": "Chinese technology and telecommunications company Huawei was found guilty by a US court on Tuesday of conspiracy to steal trade secrets and bank fraud, but acquitted of the more serious charge of organized crime.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:13:55Z",
+      "collected_at_utc": "2026-11-25T12:08:56Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-sikorski-zvazuje-vyhosteni-ruskeho-velvyslance-vola-po-sestrelovani-raket-nad-ukrajinou-40610423",
+      "published_utc": "2026-11-25T10:54:31Z",
+      "title_raw": "Sikorski zvažuje vyhoštění ruského velvyslance. Volá po sestřelování raket nad Ukrajinou",
+      "lead_raw": "Polský ministr zahraničí Radosław Sikorski zvažuje vyhoštění ruského velvyslance v Polsku Georgije Michna. Řekl to v rozhovoru pro polskou stanici Polskie Radio v reakci na tři ruské střely Ch-101, které dopadly a explodovaly na polském území.",
+      "id": "09bb7d9c13fe76c782a88f3f0e12f0f2609579a1",
+      "fingerprint": "02047692b77977d745f2aeaeb858f80de658ae67",
+      "title_en": "Sikorski is considering expelling the Russian ambassador, calling for the shooting down of missiles over Ukraine.",
+      "lead_en": "Polish Foreign Minister Radosław Sikorski is considering expelling Russian Ambassador to Poland Georgy Michn, he said in an interview with Polskie Radio in response to three Russian Ch-101 missiles that landed and exploded on Polish territory.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:14:44Z",
+      "collected_at_utc": "2026-11-25T12:08:56Z",
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "primary_topic": "diplomacy",
+      "relevant": true
+    },
+    {
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/prezil-pobodani-ted-ruskeho-gubernatora-poslali-do-vazby-za-zproneveru-milionu.A261125_115017_zahranicni_bro",
+      "published_utc": "2026-11-25T10:54:00Z",
+      "title_raw": "Přežil pobodání, teď ruského gubernátora poslali do vazby za obří zpronevěru",
+      "lead_raw": "Soud v Moskvě poslal do vazby gubernátora Murmanské oblasti Andreje Čibise, který byl zadržen v pondělí v souvislosti s podezřením ze zpronevěry.",
+      "id": "6f95097af72283ae64bf5f626e7a2512735d9c38",
+      "fingerprint": "718d85bb933b384d3db75d035083df371f1da298",
+      "title_en": "He survived a stabbing, now the Russian governor's been jailed for massive embezzlement.",
+      "lead_en": "A court in Moscow has taken into custody the governor of the Murmansk region, Andrei Chibis, who was arrested on Monday on suspicion of embezzlement.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:14:44Z",
+      "collected_at_utc": "2026-11-25T12:08:58Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military",
+      "relevant": true
+    },
+    {
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-izraelci-behem-dvou-dnu-zlikvidovali-dva-predni-predstavitele-hamasu-40610408",
+      "published_utc": "2026-11-25T10:53:23Z",
+      "title_raw": "Izraelci během dvou dnů zlikvidovali dva přední představitele Hamásu",
+      "lead_raw": "Izraelská armáda během dvou dnů zlikvidovala dva přední představitele vnitřní bezpečnostní služby teroristického hnutí Hamás. Ve středu při izraelském náletu zemřel plukovník této služby Muhammad Abú al-Auf.",
+      "id": "56dfe0b07396e3280d5c6dec11cbfea60c4c0814",
+      "fingerprint": "ce6ed67748f24b044dcf4be8fd21d10598a70c22",
+      "title_en": "The Israelis eliminated two prominent Hamas leaders in two days.",
+      "lead_en": "The Israeli army has eliminated two top officials of Hamas's internal security service in two days, killing its colonel Muhammad Abu al-Auf in an Israeli airstrike on Wednesday.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:14:44Z",
+      "collected_at_utc": "2026-11-25T12:08:56Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military",
+      "relevant": true
+    },
+    {
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/ekonomika-slovenska-vlada-schvalila-nakup-utocnych-pusek-a-samopalu-40610415",
+      "published_utc": "2026-11-25T10:37:08Z",
+      "title_raw": "Slovensko nakoupí zbraně od Itálie",
+      "lead_raw": "Slovenská vláda dnes schválila nákup 3300 útočných pušek, 2100 samopalů a příslušného vybavení pro policii od italské firmy Beretta. Hodnota zakázky činí 16,77 milionu eur (410 milionů korun) bez daně z přidané hodnoty.",
+      "id": "9e4514596904431750e981cb57b1662862dc7e23",
+      "fingerprint": "742fdb347cb25c4d476c520d1549bc6cd6f534fd",
+      "title_en": "Slovakia will buy weapons from Italy",
+      "lead_en": "The Slovak government today approved the purchase of 3,300 assault rifles, 2,100 submachine guns and related equipment for the police from the Italian company Beretta.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:15:53Z",
+      "collected_at_utc": "2026-11-25T12:08:56Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military",
+      "relevant": true
+    },
+    {
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/veda-skoly-pratelstvi-pakistanu-a-ciny-prekonava-vysky-himalaje-nebesky-palac-ma-mezinarodni-posadku-40610392",
+      "published_utc": "2026-11-25T10:34:17Z",
+      "title_raw": "„Přátelství Pákistánu a Číny překonává výšky Himálaje.“ Nebeský palác má mezinárodní posádku",
+      "lead_raw": "Kosmická loď Šen-čou 24 se třemi astronauty, která ve středu v 1:18 SEČ odstartovala z kosmodromu Ťiou-čchüan v severozápadní Číně, se podle agentury Kjódó asi 10 minut poté zdárně oddělila od nosné rakety a po zhruba 3,5 hodinách se připojila k čínské orbitální stanici. Mise se kromě Číňanů poprvé účastní i cizinec, a to z Pákistánu, který bude ve vesmíru několik dní.",
+      "id": "c72eff7d78121e2393f7230619618002442c5978",
+      "fingerprint": "641f69720bff1b99a17a47ff66189fb2aa4537ee",
+      "title_en": "Pakistan-China friendship transcends the heights of the Himalayas. Heavenly Palace has an international crew",
+      "lead_en": "The Shenzhou 24 spacecraft, carrying three astronauts, took off at 1:18 a.m. on Wednesday from the Jiachuan Cosmodrome in northwestern China, separated from the launch vehicle about 10 minutes later and rejoined the Chinese space station after about 3.5 hours, according to Kyodo.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:15:53Z",
+      "collected_at_utc": "2026-11-25T12:08:56Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military",
+      "relevant": true
+    },
+    {
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/kultura-reziser-antonin-baudry-povazuje-de-gaulla-za-rytire-moderni-doby-40609992",
+      "published_utc": "2026-11-25T10:12:00Z",
+      "title_raw": "Režisér Antonin Baudry považuje de Gaulla za rytíře moderní doby",
+      "lead_raw": "Francouzský režisér Antonin Baudry uvedl nedávno na Festivalu francouzského filmu v Praze dvojdílný film De Gaulle. Soustředí se v něm na tu část de Gaullova života, v níž se stal z neznámého vojáka nejvýznamnější osobností francouzského odboje za druhé světové války.",
+      "id": "89896fdf0e1669e3ce8a3466e134fda609be08ca",
+      "fingerprint": "be2a966cf18fd2073a7a61dd18b0917fa4f52aa5",
+      "title_en": "Director Antonin Baudry considers de Gaulle a knight of the modern age .",
+      "lead_en": "French director Antonin Baudry recently premiered a two-part film, De Gaulle, at the Prague Film Festival, focusing on the period in de Gaulle's life when he went from an unknown soldier to the most prominent figure in the French Resistance during World War II.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:16:50Z",
+      "collected_at_utc": "2026-11-25T12:08:56Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military",
+      "relevant": true
+    },
+    {
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/ve-dne-natocit-v-noci-priprava-na-dalsi-dil-praci-na-vinohradske-12-ale-mame_2611251059_mst",
+      "published_utc": "2026-11-25T09:59:00Z",
+      "title_raw": "Ve dne natočit, v noci příprava na další díl. Práci na Vinohradské 12 ale máme rádi, říká po výhře Skalický",
+      "lead_raw": "Zpravodajský podcast Českého rozhlasu Vinohradská 12 zvítězil v anketě Křišťálová lupa v kategorii podcast roku. Tým Matěje Skalického získal od posluchačů nejvíc hlasů.",
+      "id": "004c8d848e6905a69c16d9058b78ef2ddacd15a6",
+      "fingerprint": "950f2fab4354701c31113ce05bc029f48c5b425b",
+      "title_en": "We're filming during the day, preparing for the next part at night, working on Vinohradská 12, but we like it, says Skalický after winning",
+      "lead_en": "Czech Radio's news podcast Vinohradská 12 won the poll Křišťálová lupa in the podcast of the year category.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:16:50Z",
+      "collected_at_utc": "2026-11-25T12:08:52Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military",
+      "relevant": true
+    },
+    {
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/vanocni-strom-v-praze-se-bude-rozsvecet-na-hudbu-z-tri-orisku-pro-popelku/2906406",
+      "published_utc": "2026-11-25T09:46:00Z",
+      "title_raw": "Vánoční strom v Praze se bude rozsvěcet na hudbu z Tří oříšků pro Popelku",
+      "lead_raw": "Praha - V sobotu dopoledne začnou na Staroměstském a Václavském náměstí v Praze vánoční trhy. Z bezpečnostních důvodů se ani letos nebude konat slavnostní rozsvícení vánočního stromu na Staroměstském...",
+      "id": "ad55716c3990bd6a52bfabd0e5c2f8e56475c7be",
+      "fingerprint": "4ac1785cc7e4420df7487fc369030519a4998904",
+      "title_en": "The Christmas tree in Prague will light up to the music of Three Nuts for Cinderella .",
+      "lead_en": "Prague - Christmas markets will start on the Old Town Square and Wenceslas Square in Prague on Saturday morning.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:17:44Z",
+      "collected_at_utc": "2026-11-25T12:08:53Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-usa-odlozily-plany-na-obchodni-dohody-s-ruskem-vymenou-za-ukonceni-valky-321466",
+      "published_utc": "2026-11-25T09:43:28Z",
+      "title_raw": "USA odložily plány na obchodní dohody s Ruskem výměnou za ukončení války",
+      "lead_raw": "Trumpova administrativa odložila plány lákat Rusko k míru na Ukrajině obchodními dohodami. Moskva o projekty v energetice či letectví prý neprojevila velký zájem a dál trvá na územních ústupcích Kyjeva.",
+      "id": "5f3d4ae76650dd7f38b10b103c4272a191df0214",
+      "fingerprint": "4989cd3a8527f356aa2c2fe9701fd282b7df019c",
+      "title_en": "The U.S. postponed plans for a trade deal with Russia in exchange for ending the war.",
+      "lead_en": "The Trump administration has postponed plans to lure Russia to peace in Ukraine with trade deals, saying Moscow has shown little interest in energy or aerospace projects and continues to insist on territorial concessions from Kiev.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:17:44Z",
+      "collected_at_utc": "2026-11-25T12:08:57Z",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 1,
+        "energy": 2,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "energy",
+        "economy"
+      ],
+      "primary_topic": "energy",
+      "relevant": true
+    },
+    {
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/dary-na-vojenskou-pomoc-ukrajine-od-ledna-nepujde-odecist-z-dani-nektere-sbirky_2611250923_jho",
+      "published_utc": "2026-11-25T08:23:00Z",
+      "title_raw": "Dary na vojenskou pomoc Ukrajině od ledna nepůjde odečíst z daní. Některé sbírky čekají pokles zájmu",
+      "lead_raw": "Lidé ani firmy si od příštího roku nebudou moci odečíst od základu daně dary na vojenskou pomoc Ukrajině. Na konci letošního roku totiž vyprší platnost zvláštních daňových pravidel, která Česko zavedlo po zahájení ruské invaze v roce 2022.",
+      "id": "4015be3c6d2d962f45ef6888875811ae4be166e1",
+      "fingerprint": "8c39e06f8fcf2bbfe3f40e1c69f79717f0c171ae",
+      "title_en": "Donations for military aid to Ukraine will not be deducted from taxes as of January.",
+      "lead_en": "Starting next year, people and companies will not be able to deduct donations for military aid to Ukraine from their tax base, as special tax rules introduced by the Czech Republic after the Russian invasion in 2022 expire at the end of this year.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:18:31Z",
+      "collected_at_utc": "2026-11-25T12:08:52Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "military",
+      "relevant": true
+    },
+    {
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/opozice-chce-setrit-u-provozu-statu-ci-dotaci-pridat-na-obranu-ci-bezpecnost/2904989",
+      "published_utc": "2026-11-25T08:03:00Z",
+      "title_raw": "Opozice chce šetřit u provozu státu či dotací, přidat na obranu či bezpečnost",
+      "lead_raw": "Praha - Opoziční strany budou ve státním rozpočtu na příští rok navrhovat úspory u provozu státu či dotací, přidat chtějí u obrany, bezpečnosti, bydlení či školství. Jejich představitelé to oznámili před...",
+      "id": "abd38f1e25e2cdee7ea7484d5aba731aa4cf3870",
+      "fingerprint": "4567efb14ae3a509bf5241c9fcfdea40c3b6106e",
+      "title_en": "The opposition wants to save on state operations or subsidies, add on defense or security",
+      "lead_en": "Prague - Opposition parties will propose in the state budget for next year savings in state operations or subsidies, they want to increase in defense, security, housing or education.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:19:16Z",
+      "collected_at_utc": "2026-11-25T12:08:53Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military",
+      "relevant": true
+    },
+    {
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/policie-zajistila-55-automatu-s-cbd-vyrobky-muz-je-ve-vazbe/2906331",
+      "published_utc": "2026-11-25T07:40:00Z",
+      "title_raw": "Policie zajistila 55 automatů s CBD výrobky, muž je ve vazbě",
+      "lead_raw": "Ostrava - Policisté na území téměř celé republiky zajistili 55 automatů s konopnými produkty. Jde o pokračování akce Korund zaměřené na omezení dostupnosti výrobků obsahujících syntetické a polosyntetické...",
+      "id": "992e52df5a6180d6796dec52b0b77f934a02715f",
+      "fingerprint": "24961d759abaacdd90bf992463bbad1a3c0315b4",
+      "title_en": "Police have seized 55 vending machines with CBD products, man is in custody",
+      "lead_en": "Police officers across most of the country have seized 55 vending machines with cannabis products, a continuation of Operation Korund aimed at limiting the availability of products containing synthetic and semi-synthetic...",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:19:16Z",
+      "collected_at_utc": "2026-11-25T12:08:53Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/pri-ruskem-utoku-v-kyjevske-oblasti-zahynul-muz-v-rusku-hori-rafinerie-379928",
+      "published_utc": "2026-11-25T06:49:48Z",
+      "title_raw": "Při ruském útoku v Kyjevské oblasti zahynul muž, v Rusku hoří rafinerie",
+      "lead_raw": "Při ruském útoku zahynul ve městě Bila Cerkva jižně od Kyjeva jeden muž, oznámil náčelník oblastní vojenské správy Tymur Tkačenko s tím, že byla poškozena i budova sloužící komerčním účelům. V ruské Samarské oblasti byl podle tamního gubernátora Vjačeslava Fedoriščeva při dronovém úderu zabit jeden člověk, přičemž útok způsobil výpadek elektrického proudu, píše agentura Reuters s odvoláním na ruská média.",
+      "id": "036d003cc6a7b4c6128e9f56032cc41dcdb47472",
+      "fingerprint": "e8600c3d4102657b8dadde79d067f4331aec85cd",
+      "title_en": "A man was killed in a Russian attack in the Kiev region, a refinery is on fire in Russia.",
+      "lead_en": "A man was killed in a Russian drone strike in the town of Bila Churchva, south of Kiev, the head of the regional military administration, Tymur Tkachenko, said, adding that a commercial building was also damaged.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:20:00Z",
+      "collected_at_utc": "2026-11-25T12:08:55Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "military",
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "local_events",
+      "relevant": true
+    },
+    {
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-nova-auta-mohou-zatim-jen-na-vystavy-armada-je-musi-vybavit-za-stamiliony-321044",
+      "published_utc": "2026-11-25T06:45:45Z",
+      "title_raw": "Armáda má nová auta od Američanů. Vojáci je ale vidí jen na výstavách",
+      "lead_raw": "Armáda si postupně přebírá vozy, které Česko dostalo od USA za pomoc Ukrajině. Jejich dovybavení potrvá ještě další měsíce až roky.",
+      "id": "6dc978dabc9cc2036b313d439ef08ef2139da6f7",
+      "fingerprint": "359a49de68353813df679729a0cb87094799ba88",
+      "title_en": "The army has new cars from the Americans, but the soldiers only see them at exhibitions.",
+      "lead_en": "The army is gradually taking over the vehicles that the Czech Republic received from the United States to help Ukraine.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:20:00Z",
+      "collected_at_utc": "2026-11-25T12:08:57Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military",
+      "relevant": true
+    },
+    {
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-v-kolumbijske-cartagene-ozbrojenci-prepadli-supermarket-a-vzali-30-rukojmich-321448",
+      "published_utc": "2026-11-24T20:02:07Z",
+      "title_raw": "Všichni rukojmí ze supermarketu v Kolumbii byli osvobozeni, jeden z únosců zemřel",
+      "lead_raw": "Kolumbijské bezpečnostní složky osvobodily všechny rukojmí, kterých se v úterý zmocnili ozbrojenci v supermarketu ve městě Cartagena. Podle prezidenta byl jeden z únosců zabit, další byli zadrženi.",
+      "id": "eb3d29ae7183d71e2366768c675061e8e5665896",
+      "fingerprint": "3e586f0e3be8a09d97f1938b2d3c8c2f9083d4c8",
+      "title_en": "All the hostages from the Colombian supermarket have been freed, one of the kidnappers is dead.",
+      "lead_en": "Colombian security forces have freed all hostages taken by gunmen at a supermarket in the city of Cartagena on Tuesday.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:21:35Z",
+      "collected_at_utc": "2026-11-25T12:08:57Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 1
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military",
+      "relevant": true
+    },
+    {
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/prazska-burza-nepatrne-posilila-darilo-se-ceskym-bankam/2906098",
+      "published_utc": "2026-11-24T16:38:00Z",
+      "title_raw": "Pražská burza nepatrně posílila, dařilo se českým bankám",
+      "lead_raw": "Praha - Pražská burza dnes nepatrně posílila, index PX stoupl o 0,12 procenta na 2597,40 bodu. Zpevnila většina titulů, zdražily například akcie Komerční banky, zbrojovky Colt a Monety Money Bank.",
+      "id": "8d400290765b4248150ee392b5ce3aba06763e7a",
+      "fingerprint": "d310576ac6f1e38f7b36624633409750cc35b5a1",
+      "title_en": "The Prague stock market has strengthened slightly, Czech banks are doing well",
+      "lead_en": "The PX index rose 0.12 percent to 2597.40 points, strengthening most stocks, including Komerční banka, Colt and Monety Money Bank.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:22:26Z",
+      "collected_at_utc": "2026-11-25T12:08:54Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/napeti-kvuli-valce-mezi-ruskem-a-ukrajinou-se-siri-od-libye-po-polsko-379908",
+      "published_utc": "2026-11-24T16:00:00Z",
+      "title_raw": "Napětí kvůli válce mezi Ruskem a Ukrajinou se šíří od Libye po Polsko",
+      "lead_raw": "Obavy z přelévání rusko-ukrajinské války sílí. Nové bezpečnostní incidenty jsou hlášeny od Finského zálivu až po pobřeží Libye.",
+      "id": "a3afee163a97d231c3b3688b557d65d33d0817c8",
+      "fingerprint": "074890272b371d7a564dc2b9224fc49e8a68be3a",
+      "title_en": "Tensions over the war between Russia and Ukraine spread from Libya to Poland",
+      "lead_en": "Fears of an escalation of the Russian-Ukrainian war are mounting as new security incidents are being reported from the Gulf of Finland to the coast of Libya.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:23:07Z",
+      "collected_at_utc": "2026-11-25T12:08:55Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military",
+      "relevant": true
+    },
+    {
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/armada-testuje-na-prerovsku-pozemni-roboty-bude-tam-cvicit-operatory/2905945",
+      "published_utc": "2026-11-24T12:14:00Z",
+      "title_raw": "Armáda testuje na Přerovsku pozemní roboty, bude tam cvičit operátory",
+      "lead_raw": "Lipník nad Bečvou (Přerovsko) - Kolové a pásové roboty či čtyřnohé stroje připomínající psy testuje armáda na polygonu u Lipníka nad Bečvou na Přerovsku. Areál slouží k ověřování schopností pozemních...",
+      "id": "49f4ada9e17275fe51703a86517f2462527c10a9",
+      "fingerprint": "be04477edba21d465fb16c5821a58246620f8d05",
+      "title_en": "The army is testing ground robots in Prerovsk, where they will train operators.",
+      "lead_en": "Lipník nad Bečvou (Přerovsko) - Wheel and belt robots or four-legged machines resembling dogs are being tested by the army at a test site near Lipník nad Bečvou in Přerovsko.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:23:07Z",
+      "collected_at_utc": "2026-11-25T12:08:53Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military",
+      "relevant": true
+    },
+    {
+      "source": "Radio Prague International (EN)",
+      "source_language": "en",
+      "url": "https://english.radio.cz/czechia-must-prepare-host-allied-troops-experts-warn-8903451",
+      "published_utc": "2026-11-24T12:04:00Z",
+      "title_raw": "Czechia must prepare to host allied troops, experts warn",
+      "lead_raw": "Czechia must prepare to host allied troops, experts warn",
+      "id": "d5227fcfb24064711dda087cb818eb3716813a3e",
+      "fingerprint": "58dbade5e153d436239b1013b28485e61c0de04d",
+      "title_en": "Czechia must prepare to host allied troops, experts warn",
+      "lead_en": "Czechia must prepare to host allied troops, experts warn",
+      "translation_status": "not_required",
+      "translation_attempts": 0,
+      "translation_provider": "original_english",
+      "translation_error": null,
+      "translated_at_utc": null,
+      "collected_at_utc": "2026-11-25T12:08:59Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military",
+      "relevant": true
+    },
+    {
+      "source": "iROZHLAS - Economy",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/ekonomika/eu-uvali-limity-na-dovoz-hybridnich-aut-z-ciny-opatreni-ma-chranit-evropske_2611241014_vdv",
+      "published_utc": "2026-11-24T09:14:00Z",
+      "title_raw": "EU uvalí limity na dovoz hybridních aut z Číny. Opatření má chránit evropské automobilky",
+      "lead_raw": "Evropská unie stanovila dočasné limity na dovoz nových hybridních automobilů z Číny a několika dalších zemí. Opatření má chránit evropské automobilky před rostoucím dovozem ze zahraničí.",
+      "id": "6f50300151a36d7976e39c6ecb729bab346c03d2",
+      "fingerprint": "ce7b3c2c262fe94af0d1fae62174065b8c1b17f6",
+      "title_en": "EU to impose limits on imports of hybrid cars from China to protect European carmakers",
+      "lead_en": "The European Union has imposed temporary limits on imports of new hybrid cars from China and several other countries to protect European carmakers from rising imports from abroad.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:23:46Z",
+      "collected_at_utc": "2026-11-25T12:08:52Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/ceska-zbrojovka-zahajila-dodavky-novych-sluzebnich-pistoli-pro-nemeckou-armadu/2905812",
+      "published_utc": "2026-11-24T09:08:00Z",
+      "title_raw": "Česká zbrojovka zahájila dodávky nových služebních pistolí pro německou armádu",
+      "lead_raw": "Uherský Brod (Uherskohradišťsko) - Společnost Česká zbrojovka z Uherského Brodu na Uherskohradišťsku zahájila dodávky nových služebních pistolí pro německou armádu. První pistole CZ P13 již Bundeswehr...",
+      "id": "a3b8a4264fe181a596f84d326f17e8887670fcaa",
+      "fingerprint": "73c32318d444b67b80c7407d1c3ebdcc06808e71",
+      "title_en": "The Czech armaments company has begun supplying new service pistols to the German army",
+      "lead_en": "Czech Armament Company from Uherský Brod in Uhersk began supplying new service pistols for the German Army.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:23:46Z",
+      "collected_at_utc": "2026-11-25T12:08:54Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0
+      },
+      "topics": [
+        "military"
+      ],
+      "primary_topic": "military",
+      "relevant": true
+    },
+    {
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/eu-stanovila-limity-na-dovoz-hybridnich-aut-z-ciny-a-dalsich-zemi/2905807",
+      "published_utc": "2026-11-24T09:00:00Z",
+      "title_raw": "EU stanovila limity na dovoz hybridních aut z Číny a dalších zemí",
+      "lead_raw": "Brusel - Evropská unie stanovila dočasné limity na dovoz nových hybridních automobilů z Číny a několika dalších zemí. Opatření má chránit evropské automobilky před rostoucím dovozem ze zahraničí.",
+      "id": "73c75cfd873805d2a7381ee1b01120d84babe92e",
+      "fingerprint": "9c9fcf4f81805a2e52cc187abd6fc3b9b7de3b64",
+      "title_en": "EU sets limits on imports of hybrid cars from China and other countries",
+      "lead_en": "BRUSSELS - The European Union has imposed temporary limits on imports of new hybrid cars from China and several other countries to protect European automakers from rising imports from abroad.",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:23:46Z",
+      "collected_at_utc": "2026-11-25T12:08:54Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    },
+    {
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/armada-bude-pri-rozpoctu-2-hdp-stezi-rozvijet-nove-projekty-rekl-hlavac/2905715",
+      "published_utc": "2026-11-24T08:20:00Z",
+      "title_raw": "Armáda bude při rozpočtu 2 % HDP stěží rozvíjet nové projekty, řekl Hlaváč",
+      "lead_raw": "Praha - Při obranných výdajích ve výši dvou procent hrubého domácího produktu (HDP) armáda naráží na své limity. Dokáže udržet své schopnosti a plnit úkoly, obtížně ale bude rozvíjet nové projekty a zpomalí...",
+      "id": "159a7c79eddb847547f7b68be88072e389d98c1d",
+      "fingerprint": "b79aaec994b38d0b0bb277728545cf2450e68e81",
+      "title_en": "The army will hardly develop new projects with a budget of 2% of GDP, said Hlaváč",
+      "lead_en": "Prague - With defense spending at 2% of GDP, the army is reaching its limits, able to maintain its capabilities and fulfill its tasks, but will find it difficult to develop new projects and slow down...",
+      "translation_status": "completed",
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_error": null,
+      "translated_at_utc": "2026-11-25T12:23:46Z",
+      "collected_at_utc": "2026-11-25T12:08:53Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "primary_topic": "economy",
+      "relevant": true
+    }
+  ]
 }
