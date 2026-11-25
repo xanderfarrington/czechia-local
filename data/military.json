@@ -1,25 +1,358 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T14:59:14Z",
-  "count": 10,
+  "updated_at_utc": "2026-11-25T23:29:51Z",
+  "count": 15,
   "articles": [
     {
-      "id": "2682207d94531af1d1a27d620aaafd3d4be25d84",
-      "fingerprint": "74ad417644a679872963ef28a7a164f444d5d0a8",
-      "source": "ČT24",
+      "id": "6215da2feb4f6bc2687443fb189923a9ce6c2232",
+      "fingerprint": "cb3915866bed2ed0b65ad18d0007dd7c57a69294",
+      "source": "Novinky",
       "source_language": "cs",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/vzorky-pudy-a-zalepit-okna-v-iowe-odpali-jedovate-chemikalie-379940",
-      "published_utc": "2026-11-25T13:21:24Z",
-      "collected_at_utc": "2026-11-25T14:33:37Z",
-      "title_raw": "Vzorky půdy a zalepit okna. V Iowě odpálí jedovaté chemikálie",
-      "lead_raw": "Americká armáda plánuje ve středu v 16 hodin SEČ ve státě Iowa odpálit víc než čtyři tuny chemikálií, které se používaly k výrobě výbušnin. Soud akci nejprve zablokoval, federální odvolací soud ji ale později povolil. Místní obyvatelé zalepují svá okna a sbírají vzorky půdy, aby mohli doložit případné dopady na jejich zdraví a životní prostředí způsobené rozptýlením toxických látek v ovzduší.",
-      "title_en": "Soil samples and tape windows. In Iowa, toxic chemicals are detonated",
-      "lead_en": "The U.S. military plans to detonate more than four tons of chemicals used to make explosives in the state of Iowa on Wednesday at 4 p.m. CET. The court initially blocked the operation, but the federal appeals court later allowed it. Local residents are taping their windows and collecting soil samples to document any potential impacts on their health and the environment caused by the dispersion of toxic substances into the air.",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-ukrajinske-drony-zasahly-pet-ruskych-letounu-na-vysoce-strezenem-letisti-40610555",
+      "published_utc": "2026-11-25T18:51:44Z",
+      "collected_at_utc": "2026-11-25T23:29:46Z",
+      "title_raw": "Ukrajinské drony zasáhly pět ruských letounů na vysoce střeženém letišti",
+      "lead_raw": "Drony ukrajinských operátorů v noci na středu zasáhly pět ruských stíhaček na letišti Savaslejka v Nižném Novgorodu. O útoku informovalo ukrajinské ministerstvo obrany.",
+      "title_en": "Ukrainian drones hit five Russian aircraft at a highly guarded airport",
+      "lead_en": "Drones from Ukrainian operators struck five Russian fighter jets at Savasleyka airfield in Nizhny Novgorod on Wednesday night. The Ukrainian Ministry of Defense reported the attack.",
       "translation_status": "completed",
       "translation_version": 5,
       "validation_version": 5,
-      "translation_attempts": 2,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 9,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "defense_ministry",
+          "generic_drones"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "defense_ministry",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "generic_drones",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:50Z"
+    },
+    {
+      "id": "c81f75bde4d5187cf7bab308cdc53691ac68c45b",
+      "fingerprint": "3f271a356f7144e673ab74a3cfc99d547ed7cbbe",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajinsky-laser-sestrelil-dron-s-proudovym-pohonem-zelensky.A261125_183811_zahranicni_balu",
+      "published_utc": "2026-11-25T18:14:00Z",
+      "collected_at_utc": "2026-11-25T23:29:48Z",
+      "title_raw": "Ukrajinský laser jako první na světě zničil ruský dron. Je účinnější než kulomet",
+      "lead_raw": "Bojový laser Blysk od společnosti Carmine Sky poprvé zničil nepřátelský dron s proudovým pohonem. Systém byl nasazen v rámci protivzdušné obrany strategického objektu kritické infrastruktury, uvedl poradce ukrajinského prezidenta pro vojenské technologie Serhij Beskrestnov, známý pod přezdívkou Fleš.",
+      "title_en": "A Ukrainian laser was the first in the world to destroy a Russian drone. It is more effective than a machine gun",
+      "lead_en": "The Blysk combat laser from Carmine Sky destroyed an enemy jet-powered drone for the first time. The system was deployed as part of the air defense of a strategic critical infrastructure facility, said Serhiy Beskrestnov, an advisor to the Ukrainian president for military technology, known by the nickname Flesh.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 15,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "military_activity",
+          "air_defense",
+          "generic_drones"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "air_defense",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "generic_drones",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:50Z"
+    },
+    {
+      "id": "db98036939f51874ddfa4420ea4b4368b1430a19",
+      "fingerprint": "e0097f898d481a7a9c3e19283f05f6567e319927",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-unikatni-zasah-nad-kyjevem-ukrajinci-ukazali-jak-laserem-sestrelili-rusky-proudovy-dron-40610545",
+      "published_utc": "2026-11-25T17:40:52Z",
+      "collected_at_utc": "2026-11-25T23:29:46Z",
+      "title_raw": "Unikátní zásah nad Kyjevem: Ukrajinci ukázali, jak laserem sestřelili ruský proudový dron",
+      "lead_raw": "Laserový systém Blysk ukrajinské protivzdušné obrany poprvé sestřelil ruský proudový dron. Oznámil to v středu poradce ukrajinského prezidenta Volodymyra Zelenského Serhij Beskrestnov.",
+      "title_en": "Unique strike over Kyiv: Ukrainians showed how they shot down a Russian jet drone with a laser",
+      "lead_en": "The Blesk laser system of Ukrainian air defense shot down a Russian jet drone for the first time. This was announced on Wednesday by Serhiy Beskrestnov, advisor to Ukrainian President Volodymyr Zelensky.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 9,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "air_defense",
+          "generic_drones"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "air_defense",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "generic_drones",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:51Z"
+    },
+    {
+      "id": "649032f58a18860ec5a68b7a61c5809d3b14750f",
+      "fingerprint": "dd58716c617aad614aa813b73225786ddfb5369b",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/armada-usa-odpalila-pet-tun-toxickych-chemikalii.A261125_180846_zahranicni_meli",
+      "published_utc": "2026-11-25T17:31:00Z",
+      "collected_at_utc": "2026-11-25T23:29:48Z",
+      "title_raw": "Armáda USA odpálila pět tun toxických chemikálií. Experti monitorují oblak jedu",
+      "lead_raw": "Americká armáda ve středu ve státě Iowa odpálila zhruba pět tun nestabilních toxických chemikálií využívaných k výrobě zbraní, a to navzdory obavám ze zdravotních dopadů mraku s olovem na místní obyvatele, uvedla agentura AP.",
+      "title_en": "The US military detonated five tons of toxic chemicals. Experts monitor the poison cloud",
+      "lead_en": "The U.S. military detonated about five tons of unstable toxic chemicals used in weapons production on Wednesday in the state of Iowa, despite concerns about the health impact of the lead cloud on local residents, the AP agency reported.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 13,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces",
+          "weapons"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "weapons",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:51Z"
+    },
+    {
+      "id": "6f8f178785a7209e5e918ee07e6198e07c39537d",
+      "fingerprint": "bd33a2bca7951d8d18ddd3362a3638e989156962",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-rusko-prestavuje-dulezitou-zakladnu-u-finskych-hranic-321523",
+      "published_utc": "2026-11-25T16:30:00Z",
+      "collected_at_utc": "2026-11-25T23:29:47Z",
+      "title_raw": "Rusko přestavuje důležitou základnu u finských hranic",
+      "lead_raw": "Rozšiřování vojenských zařízení podél hranice s Finskem probíhá i v souvislosti s reorganizací Západního vojenského okruhu.",
+      "title_en": "Russia is establishing an important base near the Finnish border",
+      "lead_en": "The expansion of military facilities along the border with Finland is also underway in connection with the reorganization of the Western Military District.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
       "translation_error": null,
@@ -27,6 +360,81 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "military_activity"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": true,
+            "lead": false,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:51Z"
+    },
+    {
+      "id": "2682207d94531af1d1a27d620aaafd3d4be25d84",
+      "fingerprint": "98b07a58cb6a569b70f89b0abe91cfef4c3b5b7a",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/vzorky-pudy-a-zalepit-okna-v-iowe-odpali-jedovate-chemikalie-379940",
+      "published_utc": "2026-11-25T13:21:24Z",
+      "collected_at_utc": "2026-11-25T23:29:45Z",
+      "title_raw": "Americká armáda v Iowě detonovala tuny chemikálií, místní zalepovali okna",
+      "lead_raw": "Americká armáda ve středu ve státě Iowa odpálila víc než čtyři tuny chemikálií, které se používaly k výrobě výbušnin, napsal server The New York Times. Místní obyvatelé si zalepili okna a posbírali vzorky půdy, aby mohli doložit případné dopady na jejich zdraví a životní prostředí způsobené rozptýlením toxických látek v ovzduší. Podle prvotních ohlasů opatření ke zmírnění následků výbuchu „předčila očekávání“, sdělil šéf vládní agentury EPA.",
+      "title_en": "The U.S. Army in Iowa detonated tons of chemicals, locals sealed windows.",
+      "lead_en": "The U.S. military detonated more than four tons of chemicals used to make explosives in the state of Iowa on Wednesday, reported The New York Times. Local residents taped their windows shut and collected soil samples to document any potential impacts on their health and the environment caused by the dispersion of toxic substances into the air. According to initial feedback, the measures to mitigate the explosion's consequences \"exceeded expectations,\" said the head of the EPA government agency.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 9,
         "energy": 0,
         "economy": 0,
         "domestic_politics": 0,
@@ -50,9 +458,9 @@
           {
             "concept": "armed_forces",
             "strength": 3,
-            "headline": false,
+            "headline": true,
             "lead": true,
-            "points": 6
+            "points": 9
           }
         ],
         "energy": [],
@@ -67,7 +475,7 @@
       "relevant": true,
       "primary_topic": "military",
       "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:40:42Z"
+      "translated_at_utc": "2026-11-25T23:29:51Z"
     },
     {
       "id": "1bd0cf80160bbbaf4b865ab01c3b52e34e7ce7f1",
@@ -330,16 +738,16 @@
     },
     {
       "id": "d4f339495c4aa9b27e4eb5597be306920b29ffc5",
-      "fingerprint": "6543b3a8f99c87066b3bfe76a9bc2fbf0c4c2343",
+      "fingerprint": "ce61922e7454ac589896ec352ca0a49e3a4a639e",
       "source": "ČT24",
       "source_language": "cs",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/pri-ruskem-utoku-v-kyjevske-oblasti-zahynul-muz-v-rusku-hori-rafinerie-379928",
       "published_utc": "2026-11-25T06:49:48Z",
-      "collected_at_utc": "2026-11-25T14:33:37Z",
+      "collected_at_utc": "2026-11-25T23:29:45Z",
       "title_raw": "Ukrajina hlásí zničení pěti ruských letadel a zásah dvou rafinerií. Kyjev a Charkov čelily ostřelování",
-      "lead_raw": "Ruské útoky v Kyjevské a Charkovské oblasti si vyžádaly dva mrtvé, oznámili tamní představitelé. Pět oblastí Ukrajiny se potýká s výpadky dodávek elektrické energie, informovaly úřady. Ukrajinská armáda uvedla, že v Rusku zasáhla dvě rafinerie a také leteckou základnu, kde poškodila pět letounů. Gubernátor ruské Samarské oblasti Vjačeslav Fedoriščev tvrdí, že tam byl při dronovém úderu zabit jeden člověk.",
+      "lead_raw": "Ruské útoky v Kyjevské a Charkovské oblasti si vyžádaly dva mrtvé, oznámili tamní představitelé. Další člověk byl zabit při ruském bombardování Slovjansku. Pět oblastí Ukrajiny se potýká s výpadky dodávek elektrické energie, informovaly úřady. Ukrajinská armáda uvedla, že v Rusku zasáhla dvě rafinerie a také leteckou základnu, kde poškodila pět letounů. Gubernátor ruské Samarské oblasti Vjačeslav Fedoriščev tvrdí, že tam byl při dronovém úderu zabit jeden člověk.",
       "title_en": "Ukraine reports the destruction of five Russian aircraft and the strike of two refineries. Kyiv and Kharkiv faced shelling",
-      "lead_en": "Russian attacks in the Kyiv and Kharkiv regions have claimed two lives, local officials reported. Five regions of Ukraine are facing power outages, authorities reported. The Ukrainian army said it struck two refineries and an airbase in Russia, damaging five aircraft. Vyacheslav Fedorishchev, governor of Russia's Samara region, claims that one person was killed in a drone strike there.",
+      "lead_en": "Russian attacks in the Kyiv and Kharkiv regions have claimed two lives, local officials reported. Another person was killed during Russian bombing of Sloviansk. Five regions of Ukraine are facing power outages, authorities reported. The Ukrainian army said it hit two refineries and an airbase in Russia, damaging five aircraft. Vyacheslav Fedorishchev, governor of Russia's Samara region, claims that one person was killed in a drone strike there.",
       "translation_status": "completed",
       "translation_version": 5,
       "validation_version": 5,
@@ -429,7 +837,7 @@
       "relevant": true,
       "primary_topic": "military",
       "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:40:42Z"
+      "translated_at_utc": "2026-11-25T23:29:51Z"
     },
     {
       "id": "4c39a47e37b64b23cdfc982b9ce8f9ca95dc70f5",

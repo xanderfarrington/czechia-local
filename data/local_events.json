@@ -1,9 +1,193 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T14:59:14Z",
-  "count": 9,
+  "updated_at_utc": "2026-11-25T23:29:51Z",
+  "count": 11,
   "articles": [
+    {
+      "id": "996130180875dc011fa560ce00669901b04ee801",
+      "fingerprint": "e6a173a2c549aff66c6bfcadcbe469390f3fe558",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/domaci/pocasi-snih-vystraha-zima-cesky-hydrometeorologicky-ustav.A261125_120646_domaci_ikro",
+      "published_utc": "2026-11-25T18:20:00Z",
+      "collected_at_utc": "2026-11-25T23:29:48Z",
+      "title_raw": "Sníh má zpoždění. Až 20 centimetrů zasype Česko v jiný čas, než se čekalo",
+      "lead_raw": "Český hydrometeorologický ústav (ČHMÚ) ve středu zpřísnil výstrahu před sněžením, které má ve čtvrtek zasáhnout většinu Česka. Na jihu a jihovýchodě země může během dne napadnout až 20 centimetrů bílé pokrývky. Meteorologové varují před komplikacemi v dopravě, zhoršenou viditelností i zpožděním spojů. V noci na pátek bude sněžení pozvolna slábnout.",
+      "title_en": "Snow is delayed. Up to 20 centimeters will cover the Czech Republic at a different time than expected",
+      "lead_en": "The Czech Hydrometeorological Institute (ČHMÚ) tightened the snowfall warning on Wednesday, which is expected to affect most of the Czech Republic on Thursday. In the south and southeast of the country, up to 20 centimeters of white cover may fall during the day. Meteorologists warn of traffic complications, reduced visibility, and delayed connections. Snowfall will gradually weaken overnight into Friday.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 6
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          "emergency_warning"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "emergency_warning",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ]
+      },
+      "topics": [
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "local_events",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:50Z"
+    },
+    {
+      "id": "96ac95e2d8a21dc6bc1e833706c58b2e1968caa5",
+      "fingerprint": "2a8dbba05af3e7da51616f6d919ea16d58cb666e",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/babis-chce-dat-16-miliardy-korun-na-vetsi-slevy-na-jizdnem-sumu-hodla-vzit-z_2611251556_kvr",
+      "published_utc": "2026-11-25T14:56:00Z",
+      "collected_at_utc": "2026-11-25T23:29:42Z",
+      "title_raw": "Babiš chce dát 1,6 miliardy korun na větší slevy na jízdném. Sumu hodlá vzít z peněz na důchody",
+      "lead_raw": "Na zvýšení slev pro seniory a studenty na jízdném ve veřejné dopravě chce premiér Andrej Babiš (ANO) poslat příští rok 1,6 miliardy korun. Částku chce vzít z peněz na důchody, vyplývá z jeho podané úpravy návrhu státního rozpočtu na příští rok. Babiš v úterním pořadu Press klub Frekvence 1 ohlásil, že slevy se od července zvýší z nynějších 50 procent na 75 procent.",
+      "title_en": "Babiš wants to allocate 1.6 billion crowns for larger discounts on fares. He intends to take the amount from pension funds",
+      "lead_en": "Prime Minister Andrej Babiš (ANO) wants to allocate 1.6 billion crowns next year to increase discounts for seniors and students on public transport fares. He intends to take this amount from pension funds, according to his submitted amendment to the state budget proposal for next year. Babiš announced in Tuesday's Press Club program Frekvence 1 that discounts will increase from the current 50 percent to 75 percent starting in July.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 11,
+        "domestic_politics": 17,
+        "foreign_affairs": 0,
+        "local_events": 6
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "government_budget",
+          "currency",
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "political_parties",
+          "czech_leaders",
+          "leadership"
+        ],
+        "foreign_affairs": [],
+        "local_events": [
+          "public_transport"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "government_budget",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "public_transport",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ]
+      },
+      "topics": [
+        "economy",
+        "domestic_politics",
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:51Z"
+    },
     {
       "id": "945f2b87c2f321a97017d5bedc55216e7ee97b2d",
       "fingerprint": "568afadf4278dd2a76eb8b52aac25d21b0e59af8",
@@ -569,17 +753,17 @@
       "translated_at_utc": "2026-11-25T14:59:14Z"
     },
     {
-      "id": "996130180875dc011fa560ce00669901b04ee801",
-      "fingerprint": "8de3a66b204234a27e9e40acff8ac4ae51dff0ef",
-      "source": "iDNES.cz",
+      "id": "e585de6a59dd39f585bce57bcbfebfa688144c0d",
+      "fingerprint": "98d055e86b1d17a46585d30c05d0e7aafb362485",
+      "source": "Novinky",
       "source_language": "cs",
-      "url": "https://www.idnes.cz/zpravy/domaci/pocasi-snih-vystraha-zima-cesky-hydrometeorologicky-ustav.A261125_120646_domaci_ikro",
-      "published_utc": "2026-11-25T11:35:00Z",
-      "collected_at_utc": "2026-11-25T14:33:41Z",
-      "title_raw": "Meteorologové zpřísnili výstrahu před sněhem. Někde napadne až 20 centimetrů",
-      "lead_raw": "Český hydrometeorologický ústav (ČHMÚ) ve středu zpřísnil výstrahu před sněžením, které má ve čtvrtek zasáhnout většinu Česka. Na jihu a jihovýchodě země může během dne napadnout až 20 centimetrů bílé pokrývky. Meteorologové varují před komplikacemi v dopravě, zhoršenou viditelností i zpožděním spojů. V noci na pátek bude sněžení pozvolna slábnout.",
-      "title_en": "Meteorologists have tightened the snow warning. In some places, up to 20 centimeters of snow will fall",
-      "lead_en": "The Czech Hydrometeorological Institute (ČHMÚ) tightened the snowfall warning on Wednesday, which is expected to affect most of the Czech Republic on Thursday. In the south and southeast of the country, up to 20 centimeters of white cover may fall during the day. Meteorologists warn of traffic complications, reduced visibility, and delayed connections. Snowfall will gradually weaken overnight into Friday.",
+      "url": "https://www.novinky.cz/clanek/pocasi-meteorologove-rozsirili-vystrahu-pred-vydatnym-snezenim-40610425",
+      "published_utc": "2026-11-25T11:00:53Z",
+      "collected_at_utc": "2026-11-25T23:29:46Z",
+      "title_raw": "Meteorologové rozšířili výstrahu před vydatným sněžením",
+      "lead_raw": "Český hydrometeorologický ústav (ČHMÚ) rozšířil a prodloužil čtvrteční výstrahu před sněžením. Nově platí vyšší stupeň nebezpečí kromě jihu Moravy také pro jihovýchod Moravy, Slezsko a jižní Čechy.",
+      "title_en": "Meteorologists have extended a warning for heavy snowfall",
+      "lead_en": "The Czech Hydrometeorological Institute (ČHMÚ) has extended and extended Thursday's snow warning. A higher level of danger now applies not only to South Moravia but also to southeastern Moravia, Silesia, and South Bohemia.",
       "translation_status": "completed",
       "translation_version": 5,
       "validation_version": 5,
@@ -595,7 +779,7 @@
         "economy": 0,
         "domestic_politics": 0,
         "foreign_affairs": 0,
-        "local_events": 9
+        "local_events": 6
       },
       "matched_keywords": {
         "diplomacy": [],
@@ -619,9 +803,9 @@
           {
             "concept": "emergency_warning",
             "strength": 3,
-            "headline": true,
+            "headline": false,
             "lead": true,
-            "points": 9
+            "points": 6
           }
         ]
       },
@@ -631,7 +815,7 @@
       "relevant": true,
       "primary_topic": "local_events",
       "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:59:14Z"
+      "translated_at_utc": "2026-11-25T23:29:51Z"
     },
     {
       "id": "781cbe38a00e58894bef213065e41786662ed8fe",

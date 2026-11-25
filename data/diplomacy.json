@@ -1,9 +1,300 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T14:59:14Z",
-  "count": 6,
+  "updated_at_utc": "2026-11-25T23:29:51Z",
+  "count": 9,
   "articles": [
+    {
+      "id": "3ec16bb5f9911108621acd7de364bdab0cc5b895",
+      "fingerprint": "1fdfc3ab954fcf1dc39c41665c3e7ce4add5e6cd",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/fico-si-ukousl-velky-kus-kolace-zruseni-volby-postou-nas-jen-vyprovokuje-rika-slovak.A261125_184218_zahranicni_kha",
+      "published_utc": "2026-11-25T20:47:00Z",
+      "collected_at_utc": "2026-11-25T23:29:48Z",
+      "title_raw": "Fico si ukousl velký kus koláče. Zrušení volby poštou nás jen vyprovokuje, říká Slovák",
+      "lead_raw": "„Ve vládě velmi podcenili angažovanost Slováků žijících v zahraničí,“ říká Samuel Zubo z organizace Srdcom doma k zákonu, který Slovákům příští rok vezme možnost volit poštou. Zbudou jim jen ambasády, mnozí se proto mobilizují už nyní a nabízejí ostatním odvoz i peníze. Lidé přitom mohou narazit také v případě, že se na volby vrátí domů. Bez trvalého pobytu na Slovensku je totiž za plentu nepustí ani tam. Zubo proto věří, že zákon ještě zruší slovenský Ústavní soud.",
+      "title_en": "Fico took a big slice of the pie. Canceling postal voting will only provoke us, says a Slovak",
+      "lead_en": "\"The government has greatly underestimated the engagement of Slovaks living abroad,\" says Samuel Zubo from the organization Srdcom doma about the law that will take away Slovaks' ability to vote by mail next year. They will be left with only embassies, so many are already mobilizing and offering others transportation and money. People may also face problems if they return home for the elections. Without permanent residence in Slovakia, they will not be allowed behind the curtain even there. Zubo therefore believes that the Slovak Constitutional Court will annul the law.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "embassies"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "embassies",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "relevant": true,
+      "primary_topic": "diplomacy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:50Z"
+    },
+    {
+      "id": "882dd2216687ed72269c7d47329c1753b10a9203",
+      "fingerprint": "feb7f0b50602af180900ec066d0c38d8784f9c1c",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/domaci/babis-odletel-do-bruselu-jednat-o-rozpoctu-neceka-dohodu-vadi-penize-pro-ukrajinu.A261125_185121_domaci_meli",
+      "published_utc": "2026-11-25T18:01:00Z",
+      "collected_at_utc": "2026-11-25T23:29:48Z",
+      "title_raw": "Babiš odletěl do Bruselu jednat o rozpočtu. Nečeká dohodu, vadí peníze pro Ukrajinu",
+      "lead_raw": "Premiér Andrej Babiš neočekává od mimořádného summitu Evropské unie dohodu na víceletém finančním rámci. Přepracovaný návrh budoucího sedmiletého rozpočtu, který v sobotu představil předseda Evropské rady António Costa, se podle něj Česku vůbec nelíbí. Za svůj úkol považuje vybojovat pro Českou republiku co nejvíce peněz, zdůraznil ve středu před odletem do Bruselu.",
+      "title_en": "Babiš flew to Brussels to negotiate the budget. He does not expect an agreement, money for Ukraine is a problem",
+      "lead_en": "Prime Minister Andrej Babiš does not expect an agreement on the multiannual financial framework from the extraordinary European Union summit. According to him, the revised proposal for the future seven-year budget, presented on Saturday by European Council President António Costa, is not liked by the Czech Republic at all. He emphasized on Wednesday before flying to Brussels his task to secure as much money as possible for the Czech Republic.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "domestic_politics": 11,
+        "foreign_affairs": 15,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "czech_leaders",
+          "leadership"
+        ],
+        "foreign_affairs": [
+          "eu_policy",
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:50Z"
+    },
+    {
+      "id": "8dcba6a88222c0745b22848094ef84e5b95e2247",
+      "fingerprint": "6e3a2361d8d3f5621a49f5cd1c8a8a2b4e56f379",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/babis-neocekava-od-mimoradneho-summitu-eu-dohodu-na-budoucim-rozpoctu/2906281",
+      "published_utc": "2026-11-25T17:35:00Z",
+      "collected_at_utc": "2026-11-25T23:29:43Z",
+      "title_raw": "Babiš neočekává od mimořádného summitu EU dohodu na budoucím rozpočtu",
+      "lead_raw": "Praha - Premiér Andrej Babiš (ANO) neočekává od mimořádného summitu Evropské unie dohodu na víceletém finančním rámci. Přepracovaný návrh budoucího sedmiletého rozpočtu, který v sobotu představil předseda...",
+      "title_en": "Babiš does not expect an agreement on the future budget from the extraordinary EU summit",
+      "lead_en": "Prague - Prime Minister Andrej Babiš (ANO) does not expect an agreement on the multiannual financial framework from the extraordinary European Union summit. The revised draft of the future seven-year budget, which was presented on Saturday by the chairman...",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 9,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "domestic_politics": 17,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "political_parties",
+          "czech_leaders",
+          "leadership"
+        ],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:51Z"
+    },
     {
       "id": "249f0d5db485de057504e10096760b8075ac68a8",
       "fingerprint": "58c723f30e338c5b5c91df742118885aae71f213",
@@ -174,16 +465,16 @@
     },
     {
       "id": "a9879ea911e87e61dc65ad2184e477a37f3637c1",
-      "fingerprint": "d2914815b63f0a2c676f723f97e743fe458822ff",
+      "fingerprint": "a5f4627417edc0947dda06b244a7e70b0f22935b",
       "source": "ČT24",
       "source_language": "cs",
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/senat-bude-schvalovat-novelu-proti-lakovani-zbozi-nazeleno-379929",
       "published_utc": "2026-11-25T09:12:02Z",
-      "collected_at_utc": "2026-11-25T14:33:37Z",
-      "title_raw": "Senát schválil novelu, která má zamezit lakování zboží nazeleno",
-      "lead_raw": "Senát schválil bez úprav novelu, která má zabránit klamavému informování o dopadech výrobků na životní prostředí, takzvanému lakování nazeleno. Výrobci do budoucna nebudou moci odmítnout opravu svého produktu pouze kvůli tomu, že jej dříve opravoval někdo jiný, odsouhlasili dále senátoři. Horní komora také vyzvala vládu, aby na nadcházejícím summitu Evropské unie podpořila unijní půjčku na podporu Ukrajiny.",
-      "title_en": "The Senate approved an amendment aimed at preventing goods from being painted green.",
-      "lead_en": "The Senate approved an amendment without amendments aimed at preventing misleading information about the environmental impacts of products, so-called green lacquering. In the future, manufacturers will no longer be able to refuse to repair their product solely because someone else previously repaired it, senators further agreed. The upper chamber also called on the government to support the EU loan to support Ukraine at the upcoming European Union summit.",
+      "collected_at_utc": "2026-11-25T23:29:45Z",
+      "title_raw": "Senát schválil růst plateb do zdravotnictví za státní pojištěnce",
+      "lead_raw": "Senát ve středu večer schválil novelu, která počítá s tím, že státní platby do zdravotnictví za důchodce, děti, studenty nebo nezaměstnané vzrostou příští rok asi o 13 miliard korun. Rovněž schválil bez úprav novelu, jež má zabránit klamavému informování o dopadech výrobků na životní prostředí, takzvanému lakování nazeleno. Horní komora také vyzvala vládu, aby na nadcházejícím summitu Evropské unie podpořila unijní půjčku na podporu Ukrajiny.",
+      "title_en": "The Senate approved an increase in healthcare payments for state-insured persons",
+      "lead_en": "On Wednesday evening, the Senate approved an amendment that anticipates that state payments to healthcare for pensioners, children, students, or the unemployed will increase by about 13 billion crowns next year. It also approved an amendment without amendments aimed at preventing misleading information about the environmental impacts of products, so-called green lacquering. The upper chamber also called on the government to support the EU loan to support Ukraine at the upcoming European Union summit.",
       "translation_status": "completed",
       "translation_version": 5,
       "validation_version": 5,
@@ -196,7 +487,7 @@
         "diplomacy": 6,
         "military": 0,
         "energy": 0,
-        "economy": 0,
+        "economy": 8,
         "domestic_politics": 13,
         "foreign_affairs": 12,
         "local_events": 0
@@ -207,7 +498,10 @@
         ],
         "military": [],
         "energy": [],
-        "economy": [],
+        "economy": [
+          "unemployment",
+          "currency"
+        ],
         "domestic_politics": [
           "parliament",
           "government"
@@ -230,7 +524,22 @@
         ],
         "military": [],
         "energy": [],
-        "economy": [],
+        "economy": [
+          {
+            "concept": "unemployment",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
         "domestic_politics": [
           {
             "concept": "parliament",
@@ -267,13 +576,14 @@
       },
       "topics": [
         "diplomacy",
+        "economy",
         "domestic_politics",
         "foreign_affairs"
       ],
       "relevant": true,
       "primary_topic": "domestic_politics",
       "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:40:42Z"
+      "translated_at_utc": "2026-11-25T23:29:51Z"
     },
     {
       "id": "a27f6affd03e63dc93d7596e9fb8d34d2411d37f",

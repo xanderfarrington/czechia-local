@@ -1,9 +1,84 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T14:59:14Z",
-  "count": 9,
+  "updated_at_utc": "2026-11-25T23:29:51Z",
+  "count": 10,
   "articles": [
+    {
+      "id": "087d210a084081db66528edb5ee48236cc0b0e88",
+      "fingerprint": "b731671e17e3cef2846e3c43638a19a99012e484",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-kofole-stouply-za-tri-ctvrtleti-trzby-mezirocne-o-121-procenta-321539",
+      "published_utc": "2026-11-25T17:25:40Z",
+      "collected_at_utc": "2026-11-25T23:29:47Z",
+      "title_raw": "Kofole stouply za tři čtvrtletí tržby meziročně o 12,1 procenta",
+      "lead_raw": "Kofola oznámila, že meziročně jí stouply tržby o 12,1 procenta, konkrétně o 986 milionů korun. Firma splnila své cíle i přes rostoucí ceny ropy a energií.",
+      "title_en": "Kofola's revenues rose by 12.1 percent year-on-year over the first three quarters",
+      "lead_en": "Kofola announced that its revenues increased year-on-year by 12.1 percent, specifically by 986 million CZK. The company met its targets despite rising oil and energy prices.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 6,
+        "economy": 2,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "oil"
+        ],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "oil",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:51Z"
+    },
     {
       "id": "e4b7d54f2296c29e5d1487b0897fd08e83533d41",
       "fingerprint": "c88214b78da4a11d2c50ac4c70fdad1a7396bae3",
@@ -463,16 +538,16 @@
     },
     {
       "id": "d4f339495c4aa9b27e4eb5597be306920b29ffc5",
-      "fingerprint": "6543b3a8f99c87066b3bfe76a9bc2fbf0c4c2343",
+      "fingerprint": "ce61922e7454ac589896ec352ca0a49e3a4a639e",
       "source": "ČT24",
       "source_language": "cs",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/pri-ruskem-utoku-v-kyjevske-oblasti-zahynul-muz-v-rusku-hori-rafinerie-379928",
       "published_utc": "2026-11-25T06:49:48Z",
-      "collected_at_utc": "2026-11-25T14:33:37Z",
+      "collected_at_utc": "2026-11-25T23:29:45Z",
       "title_raw": "Ukrajina hlásí zničení pěti ruských letadel a zásah dvou rafinerií. Kyjev a Charkov čelily ostřelování",
-      "lead_raw": "Ruské útoky v Kyjevské a Charkovské oblasti si vyžádaly dva mrtvé, oznámili tamní představitelé. Pět oblastí Ukrajiny se potýká s výpadky dodávek elektrické energie, informovaly úřady. Ukrajinská armáda uvedla, že v Rusku zasáhla dvě rafinerie a také leteckou základnu, kde poškodila pět letounů. Gubernátor ruské Samarské oblasti Vjačeslav Fedoriščev tvrdí, že tam byl při dronovém úderu zabit jeden člověk.",
+      "lead_raw": "Ruské útoky v Kyjevské a Charkovské oblasti si vyžádaly dva mrtvé, oznámili tamní představitelé. Další člověk byl zabit při ruském bombardování Slovjansku. Pět oblastí Ukrajiny se potýká s výpadky dodávek elektrické energie, informovaly úřady. Ukrajinská armáda uvedla, že v Rusku zasáhla dvě rafinerie a také leteckou základnu, kde poškodila pět letounů. Gubernátor ruské Samarské oblasti Vjačeslav Fedoriščev tvrdí, že tam byl při dronovém úderu zabit jeden člověk.",
       "title_en": "Ukraine reports the destruction of five Russian aircraft and the strike of two refineries. Kyiv and Kharkiv faced shelling",
-      "lead_en": "Russian attacks in the Kyiv and Kharkiv regions have claimed two lives, local officials reported. Five regions of Ukraine are facing power outages, authorities reported. The Ukrainian army said it struck two refineries and an airbase in Russia, damaging five aircraft. Vyacheslav Fedorishchev, governor of Russia's Samara region, claims that one person was killed in a drone strike there.",
+      "lead_en": "Russian attacks in the Kyiv and Kharkiv regions have claimed two lives, local officials reported. Another person was killed during Russian bombing of Sloviansk. Five regions of Ukraine are facing power outages, authorities reported. The Ukrainian army said it hit two refineries and an airbase in Russia, damaging five aircraft. Vyacheslav Fedorishchev, governor of Russia's Samara region, claims that one person was killed in a drone strike there.",
       "translation_status": "completed",
       "translation_version": 5,
       "validation_version": 5,
@@ -562,7 +637,7 @@
       "relevant": true,
       "primary_topic": "military",
       "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:40:42Z"
+      "translated_at_utc": "2026-11-25T23:29:51Z"
     },
     {
       "id": "d938e97ee5043ddc9b375fb45cc4438c82b127ad",

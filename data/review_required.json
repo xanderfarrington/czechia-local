@@ -1,21 +1,21 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T14:59:14Z",
-  "count": 3,
+  "updated_at_utc": "2026-11-25T23:29:51Z",
+  "count": 6,
   "articles": [
     {
-      "id": "cbea2e2dba4338df60f5f774036cd0b93d1c98ba",
-      "fingerprint": "26b4a87bb5c052209a3e2ae3c27635160999ff7c",
-      "source": "iDNES.cz",
+      "id": "8e44e312455e70dc7dac810bcfab5738de7ba5dc",
+      "fingerprint": "b2aee1b013e8b5cc8ed196dba07f200e3acece4a",
+      "source": "Seznam Zprávy",
       "source_language": "cs",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/washington-nova-cla-eu-sazba-15-procent-ekonomika-trump.A261125_151951_eko-zahranicni_mikp",
-      "published_utc": "2026-11-25T14:40:00Z",
-      "collected_at_utc": "2026-11-25T14:59:11Z",
-      "title_raw": "USA chystají nová cla. Na dovoz z EU se má vrátit patnáctiprocentní sazba",
-      "lead_raw": "Spojené státy navrhují uvalit nová cla na 14 obchodních partnerů, včetně Evropské unie a Číny, uvedl Úřad amerického obchodního zmocněnce (USTR). Celní sazba na dovoz z EU bude do 15 procent v souladu s dřívější dohodou, kterou sedmadvacítka uzavřela s Washingtonem.",
-      "title_en": "The USA is preparing new tariffs. A 15 percent rate is to be reinstated on imports from the EU",
-      "lead_en": "The United States is proposing to impose new tariffs on 14 trading partners, including the European Union and China, according to the Office of the United States Trade Representative (USTR). The tariff on imports from the EU will be up to 15 percent, in line with an earlier agreement made by the twenty-seven with Washington.",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-armada-usa-odpalila-v-obydlene-oblasti-pet-tun-toxickych-chemikalii-321544",
+      "published_utc": "2026-11-25T18:33:31Z",
+      "collected_at_utc": "2026-11-25T23:29:47Z",
+      "title_raw": "Armáda USA odpálila v obydlené oblasti pět tun toxických chemikálií",
+      "lead_raw": "Americká armáda nechala v Iowě i přes obavy o zdraví obyvatel odpálit pět tun nestabilních chemikálií. Úřady oblast evakuovali, toxický prach z exploze se však může dostat až sto šedesát kilometrů od místa výbuchu.",
+      "title_en": "The US military detonated five tons of toxic chemicals in a populated area",
+      "lead_en": "Despite concerns about the health of residents, the U.S. military detonated five tons of unstable chemicals in Iowa. Authorities evacuated the area, but toxic dust from the explosion can travel up to 160 kilometers from the explosion site.",
       "translation_status": "review_required",
       "translation_version": 5,
       "validation_version": 5,
@@ -24,7 +24,150 @@
       "translation_method": "whole_headline_and_lead",
       "translation_error": null,
       "translation_warnings": [
-        "title:unexpected_numeric_values"
+        "lead:unexpected_numeric_values"
+      ],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 9,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:50Z"
+    },
+    {
+      "id": "f59527823b6b065023117de896aca8b7aa65b38b",
+      "fingerprint": "aa7a428d0e41072aca4eb50585f62f205cf7308a",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/koktejl-francouz-si-vezl-ze-sardinie-plazovy-pisek-v-plastovych-lahvich-ceka-ho-tucna-pokuta-40610483",
+      "published_utc": "2026-11-25T18:08:03Z",
+      "collected_at_utc": "2026-11-25T23:29:46Z",
+      "title_raw": "Francouz si vezl ze Sardinie plážový písek v plastových lahvích. Čeká ho tučná pokuta",
+      "lead_raw": "Při pokusu o vývoz asi deseti kilogramů písku z pláží na Sardinii přistihli italští celníci 74letého francouzského turistu. Jelikož něco takového regionální zákony přísně zakazují, hrozí provinilci pokuta až ve výši tří tisíc eur (přes 73 tisíc Kč).",
+      "title_en": "A Frenchman was bringing beach sand from Sardinia in plastic bottles. He faces a hefty fine",
+      "lead_en": "While attempting to export about ten kilograms of sand from beaches in Sardinia, Italian customs caught a 74-year-old French tourist. Since regional laws strictly prohibit such actions, the offender faces a fine of up to three thousand euros (over 73,000 CZK).",
+      "translation_status": "review_required",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [
+        "lead:unexpected_numeric_values"
+      ],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 8,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "imports_exports",
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "imports_exports",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:50Z"
+    },
+    {
+      "id": "cbea2e2dba4338df60f5f774036cd0b93d1c98ba",
+      "fingerprint": "77f57d7c2a2470e3ad11497759857673d4a114c0",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/washington-nova-cla-eu-sazba-15-procent-ekonomika-trump.A261125_151951_eko-zahranicni_mikp",
+      "published_utc": "2026-11-25T15:23:00Z",
+      "collected_at_utc": "2026-11-25T23:29:48Z",
+      "title_raw": "USA chystají nová cla. Na dovoz z EU se má vrátit patnáctiprocentní sazba",
+      "lead_raw": "Spojené státy navrhují uvalit nová cla na 14 obchodních partnerů, včetně Evropské unie a Číny, uvedl Úřad amerického obchodního zmocněnce (USTR). Celní sazba na dovoz z EU bude do 15 procent v souladu s dřívější dohodou, kterou sedmadvacítka uzavřela s Washingtonem. Evropská komise (EK) očekává, že jakákoli opatření uvalená Spojenými státy budou respektovat 15procentní celní strop pro dovoz zboží z EU.",
+      "title_en": "The USA is preparing new tariffs. A 15 percent rate is to be reinstated on imports from the EU",
+      "lead_en": "The United States is proposing to impose new tariffs on 14 trading partners, including the European Union and China, according to the Office of the United States Trade Commissioner (USTR). The tariff on imports from the EU will be up to 15 percent, in line with an earlier agreement the twenty-seven made with Washington. The European Commission (EC) expects that any measures imposed by the United States will respect the 15 percent tariff cap on imports from the EU.",
+      "translation_status": "review_required",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [
+        "title:unexpected_numeric_values",
+        "lead:unexpected_numeric_values"
       ],
       "topic_scores": {
         "diplomacy": 0,
@@ -88,7 +231,112 @@
       "relevant": true,
       "primary_topic": "economy",
       "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:59:14Z"
+      "translated_at_utc": "2026-11-25T23:29:51Z"
+    },
+    {
+      "id": "f76c74c239edf331c118c717daf312dc11db950b",
+      "fingerprint": "8e365f06b505fb710be865d72341bfe56f9f5e95",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/domaci/rezoluce-ct-cro-cesti-europoslanci-pro-devet-proti-jedenact.A261125_144730_domaci_ikul",
+      "published_utc": "2026-11-25T15:16:00Z",
+      "collected_at_utc": "2026-11-25T23:29:48Z",
+      "title_raw": "„Aktivistická rezoluce.“ Proti usnesení k ČT a rozhlasu bylo 11 českých europoslanců",
+      "lead_raw": "Devět z 21 českých europoslanců ve středu hlasovalo pro rezoluci Evropského parlamentu o změně financování veřejnoprávních médií v České republice. Jde o europoslance zvolené za ODS, STAN, TOP 09, KDU-ČSL a Piráty. Proti hlasovalo 11 českých europoslanců, europoslankyně Nikola Bartůšek se zdržela.",
+      "title_en": "\"Activist resolution.\" Eleven Czech MEPs opposed the resolution on Czech Television and radio",
+      "lead_en": "Nine out of 21 Czech MEPs voted on Wednesday in favor of the European Parliament resolution on changing the financing of public media in the Czech Republic. These are MEPs elected for ODS, STAN, TOP 09, KDU-ČSL, and the Pirates. Eleven Czech MEPs voted against, while MEP Nikola Bartůšek abstained.",
+      "translation_status": "review_required",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [
+        "title:missing_numeric_values",
+        "lead:missing_numeric_values"
+      ],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "domestic_politics": 18,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "political_parties",
+          "public_broadcasting_policy"
+        ],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "public_broadcasting_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:51Z"
     },
     {
       "id": "57fcd9876d5b5031999296abf8fa8076de66c8ab",

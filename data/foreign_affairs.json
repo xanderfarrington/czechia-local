@@ -1,9 +1,1224 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T14:59:14Z",
-  "count": 42,
+  "updated_at_utc": "2026-11-25T23:29:51Z",
+  "count": 57,
   "articles": [
+    {
+      "id": "d60cdf8994a603d0196d504560fde6fb3bca0d0e",
+      "fingerprint": "c2f917d29179dfec74fc18e1d86d05ba9380e38b",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/na-ukrajine-uz-padlo-temer-pul-milionu-rusu-pise-bbc-zjistila-to-z-udaju-rosstatu-379955",
+      "published_utc": "2026-11-25T19:06:08Z",
+      "collected_at_utc": "2026-11-25T23:29:45Z",
+      "title_raw": "Na Ukrajině už padlo téměř půl milionu Rusů, píše BBC. Zjistila to z údajů Rosstatu",
+      "lead_raw": "Britská BBC vydala podrobnou analýzu ruských ztrát na Ukrajině. Ukazuje, že od února 2022, kdy Moskva zahájila plnohodnotnou invazi do sousední země, v ní padlo nejméně 490 tisíc ruských občanů. Při započtení všech pohřešovaných naroste bilance na bezmála tři čtvrtě milionu. K číslu dospěla veřejnoprávní stanice rozborem dat, která unikla z ruského statistického úřadu Rosstat. Ukázalo se, že původní odhady analytiků byly konzervativnější než státem utajovaná realita.",
+      "title_en": "Nearly half a million Russians have already died in Ukraine, reports the BBC. This was determined by Rosstat data",
+      "lead_en": "The British BBC published a detailed analysis of Russian losses in Ukraine. It shows that since February 2022, when Moscow launched a full-scale invasion of the neighboring country, at least 490,000 Russian citizens have died there. Including all the missing, the total rises to nearly three-quarters of a million. The public broadcaster arrived at this number by analyzing data leaked from the Russian statistical office Rosstat. It turned out that the original estimates of analysts were more conservative than the state-hidden reality.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 15,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "international_conflict"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "international_conflict",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:50Z"
+    },
+    {
+      "id": "6215da2feb4f6bc2687443fb189923a9ce6c2232",
+      "fingerprint": "cb3915866bed2ed0b65ad18d0007dd7c57a69294",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-ukrajinske-drony-zasahly-pet-ruskych-letounu-na-vysoce-strezenem-letisti-40610555",
+      "published_utc": "2026-11-25T18:51:44Z",
+      "collected_at_utc": "2026-11-25T23:29:46Z",
+      "title_raw": "Ukrajinské drony zasáhly pět ruských letounů na vysoce střeženém letišti",
+      "lead_raw": "Drony ukrajinských operátorů v noci na středu zasáhly pět ruských stíhaček na letišti Savaslejka v Nižném Novgorodu. O útoku informovalo ukrajinské ministerstvo obrany.",
+      "title_en": "Ukrainian drones hit five Russian aircraft at a highly guarded airport",
+      "lead_en": "Drones from Ukrainian operators struck five Russian fighter jets at Savasleyka airfield in Nizhny Novgorod on Wednesday night. The Ukrainian Ministry of Defense reported the attack.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 9,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "defense_ministry",
+          "generic_drones"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "defense_ministry",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "generic_drones",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:50Z"
+    },
+    {
+      "id": "c81f75bde4d5187cf7bab308cdc53691ac68c45b",
+      "fingerprint": "3f271a356f7144e673ab74a3cfc99d547ed7cbbe",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajinsky-laser-sestrelil-dron-s-proudovym-pohonem-zelensky.A261125_183811_zahranicni_balu",
+      "published_utc": "2026-11-25T18:14:00Z",
+      "collected_at_utc": "2026-11-25T23:29:48Z",
+      "title_raw": "Ukrajinský laser jako první na světě zničil ruský dron. Je účinnější než kulomet",
+      "lead_raw": "Bojový laser Blysk od společnosti Carmine Sky poprvé zničil nepřátelský dron s proudovým pohonem. Systém byl nasazen v rámci protivzdušné obrany strategického objektu kritické infrastruktury, uvedl poradce ukrajinského prezidenta pro vojenské technologie Serhij Beskrestnov, známý pod přezdívkou Fleš.",
+      "title_en": "A Ukrainian laser was the first in the world to destroy a Russian drone. It is more effective than a machine gun",
+      "lead_en": "The Blysk combat laser from Carmine Sky destroyed an enemy jet-powered drone for the first time. The system was deployed as part of the air defense of a strategic critical infrastructure facility, said Serhiy Beskrestnov, an advisor to the Ukrainian president for military technology, known by the nickname Flesh.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 15,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "military_activity",
+          "air_defense",
+          "generic_drones"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "air_defense",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "generic_drones",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:50Z"
+    },
+    {
+      "id": "882dd2216687ed72269c7d47329c1753b10a9203",
+      "fingerprint": "feb7f0b50602af180900ec066d0c38d8784f9c1c",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/domaci/babis-odletel-do-bruselu-jednat-o-rozpoctu-neceka-dohodu-vadi-penize-pro-ukrajinu.A261125_185121_domaci_meli",
+      "published_utc": "2026-11-25T18:01:00Z",
+      "collected_at_utc": "2026-11-25T23:29:48Z",
+      "title_raw": "Babiš odletěl do Bruselu jednat o rozpočtu. Nečeká dohodu, vadí peníze pro Ukrajinu",
+      "lead_raw": "Premiér Andrej Babiš neočekává od mimořádného summitu Evropské unie dohodu na víceletém finančním rámci. Přepracovaný návrh budoucího sedmiletého rozpočtu, který v sobotu představil předseda Evropské rady António Costa, se podle něj Česku vůbec nelíbí. Za svůj úkol považuje vybojovat pro Českou republiku co nejvíce peněz, zdůraznil ve středu před odletem do Bruselu.",
+      "title_en": "Babiš flew to Brussels to negotiate the budget. He does not expect an agreement, money for Ukraine is a problem",
+      "lead_en": "Prime Minister Andrej Babiš does not expect an agreement on the multiannual financial framework from the extraordinary European Union summit. According to him, the revised proposal for the future seven-year budget, presented on Saturday by European Council President António Costa, is not liked by the Czech Republic at all. He emphasized on Wednesday before flying to Brussels his task to secure as much money as possible for the Czech Republic.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "domestic_politics": 11,
+        "foreign_affairs": 15,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "czech_leaders",
+          "leadership"
+        ],
+        "foreign_affairs": [
+          "eu_policy",
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:50Z"
+    },
+    {
+      "id": "db98036939f51874ddfa4420ea4b4368b1430a19",
+      "fingerprint": "e0097f898d481a7a9c3e19283f05f6567e319927",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-unikatni-zasah-nad-kyjevem-ukrajinci-ukazali-jak-laserem-sestrelili-rusky-proudovy-dron-40610545",
+      "published_utc": "2026-11-25T17:40:52Z",
+      "collected_at_utc": "2026-11-25T23:29:46Z",
+      "title_raw": "Unikátní zásah nad Kyjevem: Ukrajinci ukázali, jak laserem sestřelili ruský proudový dron",
+      "lead_raw": "Laserový systém Blysk ukrajinské protivzdušné obrany poprvé sestřelil ruský proudový dron. Oznámil to v středu poradce ukrajinského prezidenta Volodymyra Zelenského Serhij Beskrestnov.",
+      "title_en": "Unique strike over Kyiv: Ukrainians showed how they shot down a Russian jet drone with a laser",
+      "lead_en": "The Blesk laser system of Ukrainian air defense shot down a Russian jet drone for the first time. This was announced on Wednesday by Serhiy Beskrestnov, advisor to Ukrainian President Volodymyr Zelensky.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 9,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "air_defense",
+          "generic_drones"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "air_defense",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "generic_drones",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:51Z"
+    },
+    {
+      "id": "a90c78bf54164485372d3ffd04cd143072a28e17",
+      "fingerprint": "16cdc14e9d7a9fbb81fb12f6108c1461140f6ee9",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/slovensko-korespondencni-volby-robert-fico-slovaci-zahranici.A261125_143025_zahranicni_kha",
+      "published_utc": "2026-11-25T17:40:00Z",
+      "collected_at_utc": "2026-11-25T23:29:48Z",
+      "title_raw": "Slováky pobouřilo zrušení voleb poštou. Nabízejí si odvoz a slibují, že k urnám dorazí",
+      "lead_raw": "Slibují pomoc včetně finanční, nabízejí odvoz či ubytování a sami si berou dovolenou. Slováky žijící v zahraničí vytočilo oznámené zrušení možnosti volit poštou natolik, že se mobilizují už nyní. Na sítích se hromadí diskuze, kdo co zařídí, aby parlamentní volby plánované na příští podzim stihli. Slovenští voliči ve světě obecně hlasují spíše pro strany dnešní opozice, mnozí z nich proto konec korespondenční volby považují za útok na jejich právo volit.",
+      "title_en": "Slovaks were outraged by the cancellation of postal voting. They offer rides and promise to come to the polls",
+      "lead_en": "They promise help including financial assistance, offer transportation or accommodation, and take vacations themselves. Slovaks living abroad were so upset by the announced cancellation of the option to vote by mail that they are already mobilizing. Discussions are mounting on social media about who will arrange what to ensure they can make it to the parliamentary elections planned for next autumn. Slovak voters worldwide generally tend to vote for the parties of today's opposition, and many therefore see the end of postal voting as an attack on their right to vote.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "foreign_elections"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "foreign_elections",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:51Z"
+    },
+    {
+      "id": "8dcba6a88222c0745b22848094ef84e5b95e2247",
+      "fingerprint": "6e3a2361d8d3f5621a49f5cd1c8a8a2b4e56f379",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/babis-neocekava-od-mimoradneho-summitu-eu-dohodu-na-budoucim-rozpoctu/2906281",
+      "published_utc": "2026-11-25T17:35:00Z",
+      "collected_at_utc": "2026-11-25T23:29:43Z",
+      "title_raw": "Babiš neočekává od mimořádného summitu EU dohodu na budoucím rozpočtu",
+      "lead_raw": "Praha - Premiér Andrej Babiš (ANO) neočekává od mimořádného summitu Evropské unie dohodu na víceletém finančním rámci. Přepracovaný návrh budoucího sedmiletého rozpočtu, který v sobotu představil předseda...",
+      "title_en": "Babiš does not expect an agreement on the future budget from the extraordinary EU summit",
+      "lead_en": "Prague - Prime Minister Andrej Babiš (ANO) does not expect an agreement on the multiannual financial framework from the extraordinary European Union summit. The revised draft of the future seven-year budget, which was presented on Saturday by the chairman...",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 9,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "domestic_politics": 17,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "political_parties",
+          "czech_leaders",
+          "leadership"
+        ],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:51Z"
+    },
+    {
+      "id": "83741ca95e21bcf48cfbad615601578d09de1bef",
+      "fingerprint": "da0cd3b8fa426e036aae8f376041b9c264a1f60b",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/zahranicni-uspesnejsi-nez-prezident-trumpova-zajistila-navrat-dalsich-ukrajinskych-a-ruskych-deti-k-rodinam-40610486",
+      "published_utc": "2026-11-25T16:48:07Z",
+      "collected_at_utc": "2026-11-25T23:29:46Z",
+      "title_raw": "Úspěšnější než prezident. Trumpová zajistila návrat dalších ukrajinských a ruských dětí k rodinám",
+      "lead_raw": "Americká první dáma Melania Trumpová pomohla zajistit návrat sedmé skupiny ukrajinských a ruských dětí k jejich rodinám. Bylo jich devět a celkový počet dětí, které se v době války vrátily ke svým blízkým, tak dosáhl 43, oznámil ve středu Bílý dům.",
+      "title_en": "More successful than the president. Trump ensured the return of more Ukrainian and Russian children to their families",
+      "lead_en": "American First Lady Melania Trump helped secure the return of the seventh group of Ukrainian and Russian children to their families. There were nine of them, bringing the total number of children who returned to their loved ones during the war reaching 43, the White House announced on Wednesday.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:51Z"
+    },
+    {
+      "id": "c497eedfea2e3d934ac23a4964bd5e215ac4f562",
+      "fingerprint": "a2c2737c3dcf48df915b82f3216ebbc00d142c0a",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/izraelsky-parlament-podporil-nezavisle-vysetrovani-selhani-pred-utokem-hamasu-379953",
+      "published_utc": "2026-11-25T16:36:33Z",
+      "collected_at_utc": "2026-11-25T23:29:45Z",
+      "title_raw": "Izraelský parlament podpořil nezávislé vyšetřování selhání před útokem Hamásu",
+      "lead_raw": "Izraelský parlament ve středu v prvním čtení podpořil návrh zákona na zřízení nezávislé vyšetřovací komise k objasnění bezpečnostních selhání před útokem palestinského teroristického hnutí Hamás ze 7. října 2023. Premiér Benjamin Netanjahu vznik komise dále odmítá a prosazuje vyšetřování pod kontrolou vlády. Návrh podpořilo 65 poslanců, proti jich bylo 50, informovala agentura Reuters.",
+      "title_en": "The Israeli parliament supported an independent investigation into the failure before Hamas's attack",
+      "lead_en": "On Wednesday, the Israeli parliament supported in the first reading a bill to establish an independent investigative commission to clarify security failures prior to the attack by the Palestinian terrorist movement Hamas on October 7, 2023. Prime Minister Benjamin Netanyahu continues to reject the creation of the commission and advocates for an investigation under government control. The proposal was supported by 65 lawmakers, while 50 were against, Reuters reported.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "terrorism"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "terrorism",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:51Z"
+    },
+    {
+      "id": "8fa1d9c586a0308f67e5d0a08e9896ea8468931c",
+      "fingerprint": "cf89f332d05c753effba7b4003443682d5b27a71",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/zahranicni-sedm-zemi-eu-zada-omezeni-cestovani-rusu-zejmena-sportovcu-40610536",
+      "published_utc": "2026-11-25T16:32:16Z",
+      "collected_at_utc": "2026-11-25T23:29:46Z",
+      "title_raw": "Sedm zemí EU žádá omezení cestování Rusů, zejména sportovců",
+      "lead_raw": "Sedm zemí Evropské unie žádá omezení cestování ruských občanů do EU, zejména na sportovní akce. Vyplývá to z dopisu šéfce Evropské komise Ursule von der Leyenové a předsedovi Evropské rady Antóniu Costovi, který podepsalo šest premiérů a premiérek z Dánska, Estonska, Finska, Lotyšska, Polska a Švédska a rovněž litevský prezident.",
+      "title_en": "Seven EU countries are calling for restrictions on Russian travel, especially for athletes",
+      "lead_en": "Seven European Union countries are calling for restrictions on travel by Russian citizens to the EU, especially for sporting events. This is according to a letter to European Commission President Ursula von der Leyen and European Council President António Costa, signed by six prime ministers from Denmark, Estonia, Finland, Latvia, Poland, and Sweden, as well as the Lithuanian president.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:51Z"
+    },
+    {
+      "id": "3d79ebbc2bf8db9fa3b0f6e2449897cb063e03a8",
+      "fingerprint": "64ee2c64bfcca5e7bee896063be452cff1a703fa",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-ukrajinske-drony-vyradily-unikatni-rusky-pruzkumny-komplex-ve-smolenske-oblasti-40610467",
+      "published_utc": "2026-11-25T16:29:42Z",
+      "collected_at_utc": "2026-11-25T23:29:46Z",
+      "title_raw": "Ukrajinské drony vyřadily unikátní ruský průzkumný komplex ve Smolenské oblasti",
+      "lead_raw": "Drony ukrajinských operátorů vyřadily ruský komplex leteckého a kosmického průzkumu ve Smolenské oblasti. Ukrajinské speciální síly HUR to ve středu oznámily na Telegramu.",
+      "title_en": "Ukrainian drones disabled a unique Russian reconnaissance complex in the Smolensk region",
+      "lead_en": "Drones from Ukrainian operators disabled the Russian aerial and space reconnaissance complex in the Smolensk region. Ukrainian special forces HUR announced this on Telegram on Wednesday.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "generic_drones"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "generic_drones",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:51Z"
+    },
+    {
+      "id": "56426096d8f8fffe58858ba329ef79ea953837d8",
+      "fingerprint": "c57eea3813cce403c075fef0200d3327228fc259",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/pravo-byt-po-boku-proc-si-vysidleni-ukrajinci-nemohou-pravne-zvolit-sve-nejblizsi-379943",
+      "published_utc": "2026-11-25T16:03:15Z",
+      "collected_at_utc": "2026-11-25T23:29:45Z",
+      "title_raw": "Právo být po boku. Proč si vysídlení Ukrajinci nemohou právně zvolit své nejbližší",
+      "lead_raw": "Ukrajinci, kteří opustili okupovaná území, si často musejí zcela nově vybudovat okruh blízkých lidí. Rodinné vazby slábnou nebo se zcela přerušují, zejména pokud se názory na válku liší. Jejich místo zaujímají noví známí, které spojují společné zkušenosti, často další vysídlené osoby nebo společný cíl.",
+      "title_en": "The right to stand by your side. Why displaced Ukrainians cannot legally choose their loved ones",
+      "lead_en": "Ukrainians who have left occupied territories often have to completely rebuild their circle of close people. Family ties weaken or break completely, especially if opinions on the war differ. They are replaced by new acquaintances who share common experiences, often other displaced persons or a common goal.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:51Z"
+    },
+    {
+      "id": "c8a306aa4f4fd49a498c20bea9eb3c72341375f9",
+      "fingerprint": "19a61e30ca99f45f9f367a00b01ef305b5d014d0",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/kldr-vyhostila-svycarskeho-diplomata-a-zada-uzavreni-celeho-uradu.A261125_080322_zahranicni_iluj",
+      "published_utc": "2026-11-25T15:41:00Z",
+      "collected_at_utc": "2026-11-25T23:29:48Z",
+      "title_raw": "KLDR vyhostila švýcarského diplomata a žádá uzavření nedávno otevřeného úřadu",
+      "lead_raw": "Severní Korea dnes vyhostila vedoucího diplomatického zastoupení Švýcarska v zemi a požaduje uzavření nedávno znovu otevřeného úřadu. Pchjongjang tak učinil v reakci na švýcarské uvalení sankcí na mezinárodní dětský tábor KLDR kvůli tomu, že spolupracuje s ruskými skupinami organizujícími přesuny dětí z Ruskem okupovaných ukrajinských regionů.",
+      "title_en": "North Korea expelled a Swiss diplomat and demands the closure of a recently opened office",
+      "lead_en": "North Korea today expelled the head of Switzerland's diplomatic mission in the country and demands the closure of the recently reopened office. Pyongyang did so in response to Switzerland's imposition of sanctions on the DPRK's international children's camp for cooperating with Russian groups organizing the relocation of children from Russian-occupied Ukrainian regions.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 12,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "sanctions"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "sanctions",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:51Z"
+    },
+    {
+      "id": "3332402a7f296f463bd5fc40d9b2358edb1b265a",
+      "fingerprint": "b4a020e9b6269ddae2e1fdb96130bc8c31fde996",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/klempir-jenom-pr-nerudove-a-zdechovskeho-vlada-se-usnesenim-europoslancu-o-ct-a_2611251616_jar",
+      "published_utc": "2026-11-25T15:16:00Z",
+      "collected_at_utc": "2026-11-25T23:29:42Z",
+      "title_raw": "Klempíř: Jenom PR Nerudové a Zdechovského. Vláda se usnesením europoslanců o ČT a ČRo řídit nemusí",
+      "lead_raw": "Usnesení Evropského parlamentu ke změnám ve financování českých veřejnoprávních médií nevytváří podle ministra kultury Oty Klempíře (za Motoristy) pro vládu žádnou povinnost. Jde pouze o skandální PR aktivitu europoslanců Danuše Nerudové (STAN) a Tomáše Zdechovského (KDU-ČSL), řekl ve středu Klempíř novinářům ve Sněmovně.",
+      "title_en": "Klempíř: Only PR from Nerudová and Zdechovský. The government does not have to follow the resolution of MEPs on Czech Television and Czech Radio",
+      "lead_en": "According to Culture Minister Ota Klempíř (for Motoristy), the European Parliament resolution on changes in the financing of Czech public media does not create any obligation for the government. It is merely a scandalous PR activity by MEPs Danuše Nerudová (STAN) and Tomáš Zdechovský (KDU-ČSL), Klempíř told reporters in the Chamber of Deputies on Wednesday.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "domestic_politics": 26,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "government",
+          "political_parties",
+          "leadership",
+          "public_broadcasting_policy"
+        ],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "public_broadcasting_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:51Z"
+    },
+    {
+      "id": "a4faf04f355ca94db85598e9bb464668ad63850d",
+      "fingerprint": "d58115a2a07cdaa7229ff79ff4d86ec42ca15217",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-ukrajina-si-utokem-ve-stredomori-zahrava-s-trpelivosti-duleziteho-spojence-321468",
+      "published_utc": "2026-11-25T15:00:00Z",
+      "collected_at_utc": "2026-11-25T23:29:47Z",
+      "title_raw": "Ukrajina si útokem ve Středomoří zahrává s trpělivostí důležitého spojence",
+      "lead_raw": "Itálie má obavy, že ukrajinský útok by mohl destabilizovat situaci v Libyi, která je pro Řím důležitá kvůli energetickým dodávkám i kontrole migrace.",
+      "title_en": "Ukraine is playing with the patience of an important ally by attacking the Mediterranean",
+      "lead_en": "Italy is concerned that a Ukrainian attack could destabilize the situation in Libya, which is important for Rome due to energy supplies and migration control.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T23:29:51Z"
+    },
     {
       "id": "c4fe9f720b122037f42f07fd94c8fab26176c8c8",
       "fingerprint": "6ae4e7f2a5291afd8acce032929dbccc270fa299",
@@ -273,16 +1488,16 @@
     },
     {
       "id": "ac3eef3047334401f348d4e01f4af3f5e1140ec5",
-      "fingerprint": "9548fff274b2d58b72a4e4e1c94be0c18a7db7be",
+      "fingerprint": "2964ccc12d24ac71e14a2ad4271739e435332231",
       "source": "ČT24",
       "source_language": "cs",
       "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/usa-navrhly-nova-cla-u-eu-se-ma-vratit-sazba-15-procent-379944",
       "published_utc": "2026-11-25T14:14:48Z",
-      "collected_at_utc": "2026-11-25T14:33:37Z",
+      "collected_at_utc": "2026-11-25T23:29:45Z",
       "title_raw": "USA navrhly nová cla, u EU se má vrátit sazba 15 procent",
-      "lead_raw": "Spojené státy navrhují uvalení nových cel na 14 obchodních partnerů, včetně Evropské unie a Číny. S odvoláním na Úřad amerického obchodního zmocněnce (USTR) o tom ve středu informovala agentura Reuters. Celní sazba na dovoz z EU bude do 15 procent v souladu s dřívější dohodou, kterou sedmadvacítka uzavřela s Washingtonem.",
+      "lead_raw": "Spojené státy navrhují uvalit nová cla na 14 obchodních partnerů, včetně Evropské unie a Číny, oznámil ve středu Úřad amerického obchodního zmocněnce (USTR). Celní sazba na dovoz z EU bude do 15 procent v souladu s dřívější dohodou, kterou sedmadvacítka uzavřela s Washingtonem. Brusel očekává, že cla tento limit nepřesáhnou.",
       "title_en": "The USA proposed new tariffs, and the EU is to return the 15 percent rate",
-      "lead_en": "The United States proposes imposing new tariffs on 14 trading partners, including the European Union and China. Reuters reported this on Wednesday, citing the Office of the United States Trade Representative (USTR). The tariff on imports from the EU will be up to 15 percent, in line with an earlier agreement reached by the twenty-seven with Washington.",
+      "lead_en": "The United States is proposing to impose new tariffs on 14 trading partners, including the European Union and China, the Office of the United States Trade Representative (USTR) announced on Wednesday. The tariff rate on imports from the EU will be up to 15 percent, in line with a previous agreement the twenty-seven signed with Washington. Brussels expects that tariffs will not exceed this limit.",
       "translation_status": "completed",
       "translation_version": 5,
       "validation_version": 5,
@@ -353,7 +1568,7 @@
       "relevant": true,
       "primary_topic": "economy",
       "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:33:43Z"
+      "translated_at_utc": "2026-11-25T23:29:51Z"
     },
     {
       "id": "fd9cb9535cb683cd46f5b09295b3a44ef4f13429",
@@ -561,16 +1776,16 @@
     },
     {
       "id": "267137f5d54ab4dc885fc7ac4b4424d028aac2cc",
-      "fingerprint": "3298ea6540fbe028704b3524e13207fe953a4ca5",
+      "fingerprint": "4a29f2880651241e3dfe006f88ce441c744d9941",
       "source": "České noviny / ČTK - Economy",
       "source_language": "cs",
       "url": "https://www.ceskenoviny.cz/zpravy/washington-navrhuje-nova-cla-v-pripade-eu-se-ma-vratit-sazba-15-/2906573",
       "published_utc": "2026-11-25T13:57:00Z",
-      "collected_at_utc": "2026-11-25T14:33:36Z",
+      "collected_at_utc": "2026-11-25T23:29:44Z",
       "title_raw": "Washington navrhuje nová cla, v případě EU se má vrátit sazba 15 %",
-      "lead_raw": "Washington - Spojené státy navrhují uvalení nových cel na 14 obchodních partnerů, včetně Evropské unie a Číny. S odvoláním na Úřad amerického obchodního zmocněnce (USTR) o tom informovala agentura Reuters....",
+      "lead_raw": "Washington - Spojené státy navrhují uvalit nová cla na 14 obchodních partnerů, včetně Evropské unie a Číny. Dnes to oznámil Úřad amerického obchodního zmocněnce (USTR). Celní sazba na dovoz z EU bude...",
       "title_en": "Washington proposes new tariffs; the EU is expected to return the 15% rate",
-      "lead_en": "Washington - The United States is proposing to impose new tariffs on 14 trading partners, including the European Union and China. This was reported by Reuters, citing the Office of the United States Trade Representative (USTR)....",
+      "lead_en": "Washington - The United States proposes to impose new tariffs on 14 trading partners, including the European Union and China. This was announced today by the Office of the United States Trade Representative (USTR). The tariff rate on imports from the EU will...",
       "translation_status": "completed",
       "translation_version": 5,
       "validation_version": 5,
@@ -583,7 +1798,7 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 0,
-        "economy": 9,
+        "economy": 15,
         "domestic_politics": 0,
         "foreign_affairs": 9,
         "local_events": 0
@@ -593,7 +1808,8 @@
         "military": [],
         "energy": [],
         "economy": [
-          "tariffs"
+          "tariffs",
+          "imports_exports"
         ],
         "domestic_politics": [],
         "foreign_affairs": [
@@ -612,6 +1828,13 @@
             "headline": true,
             "lead": true,
             "points": 9
+          },
+          {
+            "concept": "imports_exports",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
           }
         ],
         "domestic_politics": [],
@@ -633,7 +1856,7 @@
       "relevant": true,
       "primary_topic": "economy",
       "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:33:43Z"
+      "translated_at_utc": "2026-11-25T23:29:51Z"
     },
     {
       "id": "6a984a0e9e920673e8565c8f330ecbe7d8fe49b4",
@@ -2264,16 +3487,16 @@
     },
     {
       "id": "a9879ea911e87e61dc65ad2184e477a37f3637c1",
-      "fingerprint": "d2914815b63f0a2c676f723f97e743fe458822ff",
+      "fingerprint": "a5f4627417edc0947dda06b244a7e70b0f22935b",
       "source": "ČT24",
       "source_language": "cs",
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/senat-bude-schvalovat-novelu-proti-lakovani-zbozi-nazeleno-379929",
       "published_utc": "2026-11-25T09:12:02Z",
-      "collected_at_utc": "2026-11-25T14:33:37Z",
-      "title_raw": "Senát schválil novelu, která má zamezit lakování zboží nazeleno",
-      "lead_raw": "Senát schválil bez úprav novelu, která má zabránit klamavému informování o dopadech výrobků na životní prostředí, takzvanému lakování nazeleno. Výrobci do budoucna nebudou moci odmítnout opravu svého produktu pouze kvůli tomu, že jej dříve opravoval někdo jiný, odsouhlasili dále senátoři. Horní komora také vyzvala vládu, aby na nadcházejícím summitu Evropské unie podpořila unijní půjčku na podporu Ukrajiny.",
-      "title_en": "The Senate approved an amendment aimed at preventing goods from being painted green.",
-      "lead_en": "The Senate approved an amendment without amendments aimed at preventing misleading information about the environmental impacts of products, so-called green lacquering. In the future, manufacturers will no longer be able to refuse to repair their product solely because someone else previously repaired it, senators further agreed. The upper chamber also called on the government to support the EU loan to support Ukraine at the upcoming European Union summit.",
+      "collected_at_utc": "2026-11-25T23:29:45Z",
+      "title_raw": "Senát schválil růst plateb do zdravotnictví za státní pojištěnce",
+      "lead_raw": "Senát ve středu večer schválil novelu, která počítá s tím, že státní platby do zdravotnictví za důchodce, děti, studenty nebo nezaměstnané vzrostou příští rok asi o 13 miliard korun. Rovněž schválil bez úprav novelu, jež má zabránit klamavému informování o dopadech výrobků na životní prostředí, takzvanému lakování nazeleno. Horní komora také vyzvala vládu, aby na nadcházejícím summitu Evropské unie podpořila unijní půjčku na podporu Ukrajiny.",
+      "title_en": "The Senate approved an increase in healthcare payments for state-insured persons",
+      "lead_en": "On Wednesday evening, the Senate approved an amendment that anticipates that state payments to healthcare for pensioners, children, students, or the unemployed will increase by about 13 billion crowns next year. It also approved an amendment without amendments aimed at preventing misleading information about the environmental impacts of products, so-called green lacquering. The upper chamber also called on the government to support the EU loan to support Ukraine at the upcoming European Union summit.",
       "translation_status": "completed",
       "translation_version": 5,
       "validation_version": 5,
@@ -2286,7 +3509,7 @@
         "diplomacy": 6,
         "military": 0,
         "energy": 0,
-        "economy": 0,
+        "economy": 8,
         "domestic_politics": 13,
         "foreign_affairs": 12,
         "local_events": 0
@@ -2297,7 +3520,10 @@
         ],
         "military": [],
         "energy": [],
-        "economy": [],
+        "economy": [
+          "unemployment",
+          "currency"
+        ],
         "domestic_politics": [
           "parliament",
           "government"
@@ -2320,7 +3546,22 @@
         ],
         "military": [],
         "energy": [],
-        "economy": [],
+        "economy": [
+          {
+            "concept": "unemployment",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
         "domestic_politics": [
           {
             "concept": "parliament",
@@ -2357,13 +3598,14 @@
       },
       "topics": [
         "diplomacy",
+        "economy",
         "domestic_politics",
         "foreign_affairs"
       ],
       "relevant": true,
       "primary_topic": "domestic_politics",
       "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:40:42Z"
+      "translated_at_utc": "2026-11-25T23:29:51Z"
     },
     {
       "id": "a27f6affd03e63dc93d7596e9fb8d34d2411d37f",
@@ -2478,16 +3720,16 @@
     },
     {
       "id": "d4f339495c4aa9b27e4eb5597be306920b29ffc5",
-      "fingerprint": "6543b3a8f99c87066b3bfe76a9bc2fbf0c4c2343",
+      "fingerprint": "ce61922e7454ac589896ec352ca0a49e3a4a639e",
       "source": "ČT24",
       "source_language": "cs",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/pri-ruskem-utoku-v-kyjevske-oblasti-zahynul-muz-v-rusku-hori-rafinerie-379928",
       "published_utc": "2026-11-25T06:49:48Z",
-      "collected_at_utc": "2026-11-25T14:33:37Z",
+      "collected_at_utc": "2026-11-25T23:29:45Z",
       "title_raw": "Ukrajina hlásí zničení pěti ruských letadel a zásah dvou rafinerií. Kyjev a Charkov čelily ostřelování",
-      "lead_raw": "Ruské útoky v Kyjevské a Charkovské oblasti si vyžádaly dva mrtvé, oznámili tamní představitelé. Pět oblastí Ukrajiny se potýká s výpadky dodávek elektrické energie, informovaly úřady. Ukrajinská armáda uvedla, že v Rusku zasáhla dvě rafinerie a také leteckou základnu, kde poškodila pět letounů. Gubernátor ruské Samarské oblasti Vjačeslav Fedoriščev tvrdí, že tam byl při dronovém úderu zabit jeden člověk.",
+      "lead_raw": "Ruské útoky v Kyjevské a Charkovské oblasti si vyžádaly dva mrtvé, oznámili tamní představitelé. Další člověk byl zabit při ruském bombardování Slovjansku. Pět oblastí Ukrajiny se potýká s výpadky dodávek elektrické energie, informovaly úřady. Ukrajinská armáda uvedla, že v Rusku zasáhla dvě rafinerie a také leteckou základnu, kde poškodila pět letounů. Gubernátor ruské Samarské oblasti Vjačeslav Fedoriščev tvrdí, že tam byl při dronovém úderu zabit jeden člověk.",
       "title_en": "Ukraine reports the destruction of five Russian aircraft and the strike of two refineries. Kyiv and Kharkiv faced shelling",
-      "lead_en": "Russian attacks in the Kyiv and Kharkiv regions have claimed two lives, local officials reported. Five regions of Ukraine are facing power outages, authorities reported. The Ukrainian army said it struck two refineries and an airbase in Russia, damaging five aircraft. Vyacheslav Fedorishchev, governor of Russia's Samara region, claims that one person was killed in a drone strike there.",
+      "lead_en": "Russian attacks in the Kyiv and Kharkiv regions have claimed two lives, local officials reported. Another person was killed during Russian bombing of Sloviansk. Five regions of Ukraine are facing power outages, authorities reported. The Ukrainian army said it hit two refineries and an airbase in Russia, damaging five aircraft. Vyacheslav Fedorishchev, governor of Russia's Samara region, claims that one person was killed in a drone strike there.",
       "translation_status": "completed",
       "translation_version": 5,
       "validation_version": 5,
@@ -2577,7 +3819,7 @@
       "relevant": true,
       "primary_topic": "military",
       "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:40:42Z"
+      "translated_at_utc": "2026-11-25T23:29:51Z"
     },
     {
       "id": "7f609aa5982aefc464a51ebce90b267718d4e1c9",
