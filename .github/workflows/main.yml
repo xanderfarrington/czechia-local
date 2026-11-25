@@ -25,7 +25,8 @@ jobs:
       PYTHONFAULTHANDLER: "1"
 
     steps:
-      - name: Checkout repo
+
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -36,31 +37,44 @@ jobs:
           python-version: "3.11"
           cache: "pip"
 
-      - name: Cache Hugging Face model
+      - name: Cache translation and NER models
         uses: actions/cache@v4
         with:
           path: .hf-cache
-          key: nllb-200-distilled-1.3b-v1
+          key: nllb-1.3b-robeczech-ner-v1
+          restore-keys: |
+            nllb-200-distilled-1.3b-v1
 
       - name: Install CPU-only PyTorch
         run: |
           python -m pip install --upgrade pip
-          pip install "torch>=2.6,<3" --index-url https://download.pytorch.org/whl/cpu
+
+          pip install "torch>=2.6,<3" \
+            --index-url https://download.pytorch.org/whl/cpu
 
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
 
+      - name: Run regression tests
+        run: |
+          python -m pytest tests/ -q
+
       - name: Run collector
         env:
-          KEEP_HOURS: "48"
 
           MODEL_NAME: "facebook/nllb-200-distilled-1.3B"
 
+          NER_MODEL_NAME: "popelucha/robeczech-NER"
+
+          KEEP_HOURS: "48"
+
           TRANSLATE_LIMIT: "60"
-          REPAIR_LIMIT: "20"
+          UPGRADE_LIMIT: "30"
+          RETRY_LIMIT: "10"
 
           BATCH_SIZE: "8"
+          NER_BATCH_SIZE: "16"
           ARTICLE_GROUP_SIZE: "8"
 
           NUM_BEAMS: "4"
@@ -68,22 +82,27 @@ jobs:
 
           MAX_RUNTIME_MINUTES: "40"
 
-          TRANSLATE_ALL: "0"
-          RETRANSLATE_INCOMPLETE: "1"
+          NER_MIN_CONFIDENCE: "0.85"
 
-          OUT_JSON: "data/articles_latest.json"
-          ARCHIVE_JSON: "data/articles_archive.json"
-          SENTENCE_CACHE_JSON: "data/sentence_translation_cache.json"
+          ENABLE_NER: "1"
+
+          TRANSLATE_ALL: "0"
+
+          UPGRADE_ACTIVE_ARTICLES: "1"
+          UPGRADE_HISTORICAL_ARTICLES: "0"
 
         run: |
           python -X faulthandler -u collector.py
           ls -lah data
 
-      - name: Commit updated JSON
+      - name: Commit updated data
         if: ${{ !cancelled() }}
         run: |
+
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git config user.email \
+            "github-actions[bot]@users.noreply.github.com"
 
           if [ ! -d data ]; then
             echo "No data directory found"
@@ -93,9 +112,15 @@ jobs:
           git add data/*.json
 
           if git diff --cached --quiet; then
+
             echo "No changes to commit"
+
           else
-            git commit -m "Auto-update article JSON files"
+
+            git commit -m "Auto-update Czech media data"
+
             git pull --rebase origin main
+
             git push origin main
+
           fi
