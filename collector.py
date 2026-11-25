@@ -1307,9 +1307,14 @@ def azure_translate(texts, usage):
             except ValueError:
                 delay = 2 ** attempt
 
-            time.sleep(
-                min(delay, 60)
-            )
+            if response.status_code == 429:
+                delay = max(delay, 65)
+
+            print(f"[AZURE] Rate limit or temporary error. Retrying in {delay:.0f}s")
+
+            time.sleep(min(delay, 120))
+
+            continue
 
             continue
 
