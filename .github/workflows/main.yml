@@ -15,26 +15,48 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 55
+
+    env:
+      HF_HOME: ${{ github.workspace }}/.hf-cache
+      HF_HUB_DISABLE_TELEMETRY: "1"
+      TOKENIZERS_PARALLELISM: "false"
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
+      - name: Cache Hugging Face model
+        uses: actions/cache@v4
+        with:
+          path: .hf-cache
+          key: nllb-200-distilled-1.3b-v1
+
+      - name: Install CPU-only PyTorch
         run: |
           python -m pip install --upgrade pip
+          pip install "torch>=2.6,<3" --index-url https://download.pytorch.org/whl/cpu
+
+      - name: Install dependencies
+        run: |
           pip install -r requirements.txt
 
       - name: Run collector
         env:
           KEEP_HOURS: "48"
-          TRANSLATION_DELAY: "5"
+          MODEL_NAME: "facebook/nllb-200-distilled-1.3B"
+          TRANSLATE_LIMIT: "60"
+          BATCH_SIZE: "4"
+          NUM_BEAMS: "4"
+          CPU_THREADS: "4"
+          TRANSLATE_ALL: "0"
           OUT_JSON: "data/articles_latest.json"
           ARCHIVE_JSON: "data/articles_archive.json"
           PYTHONUNBUFFERED: "1"
@@ -44,9 +66,15 @@ jobs:
           ls -lah data
 
       - name: Commit updated JSON
+        if: ${{ !cancelled() }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if [ ! -d data ]; then
+            echo "No data directory found"
+            exit 0
+          fi
 
           git add data/*.json
 
@@ -54,5 +82,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Auto-update article JSON files"
-            git push
+            git pull --rebase origin main
+            git push origin main
           fi
