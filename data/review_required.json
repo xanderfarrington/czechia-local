@@ -1,0 +1,441 @@
+{
+  "country": "Czech Republic",
+  "country_code": "CZ",
+  "updated_at_utc": "2026-11-25T14:33:49Z",
+  "count": 5,
+  "articles": [
+    {
+      "id": "eab0ee31d409be042662b9cf4f2a3753298ae261",
+      "fingerprint": "b9d6ccda0961ee84de5f1e5048bedb02def253d6",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/domaci/zamestnanci-ceskeho-rozhlasu-dostanou-od-ledna-pridano-plosne-2000-kc.A261125_143415_domaci_aoc",
+      "published_utc": "2026-11-25T13:42:00Z",
+      "collected_at_utc": "2026-11-25T14:33:41Z",
+      "title_raw": "Zaměstnanci Českého rozhlasu dostanou plošně přidáno",
+      "lead_raw": "Český rozhlas v příštím roce zvýší plošně mzdy všem zaměstnancům o 2000 korun měsíčně. Průměrná mzda by tak měla v roce 2027 vzrůst na 57 300 korun. Vyplývá to z uzavřeného kolektivního vyjednávání s odbory Českého rozhlasu. Radu Českého rozhlasu o tom dnes informoval ekonomický ředitel Martin Vojslavský.",
+      "title_en": "Employees of Czech Radio will receive a blanket increase",
+      "lead_en": "Next year, Czech Radio will raise all employees' wages across the board by 2,000 crowns per month. The average wage is expected to rise to 57,300 crowns by 2027. This follows from a closed collective bargaining with the Czech Radio unions. The Czech Radio Council was informed about this today by the economic director Martin Vojslavský.",
+      "translation_status": "review_required",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [
+        "lead:missing_numeric_values",
+        "lead:unexpected_numeric_values"
+      ],
+      "topic_scores": {
+        "diplomacy": 4,
+        "military": 0,
+        "energy": 0,
+        "economy": 8,
+        "domestic_politics": 9,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "negotiations"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "wages",
+          "currency"
+        ],
+        "domestic_politics": [
+          "public_broadcasting"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "negotiations",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "wages",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "public_broadcasting",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:43Z"
+    },
+    {
+      "id": "85018e800f365cebea25a6669ce4d40f96390742",
+      "fingerprint": "cc8271324a89344be29f6d3f12888639d9fd611a",
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/zamestnanci-ceskeho-rozhlasu-dostanou-od-ledna-pridano-plosne-2000-kc/2906553",
+      "published_utc": "2026-11-25T13:32:00Z",
+      "collected_at_utc": "2026-11-25T14:33:36Z",
+      "title_raw": "Zaměstnanci Českého rozhlasu dostanou od ledna přidáno plošně 2000 Kč",
+      "lead_raw": "Praha - Český rozhlas (ČRo) v příštím roce zvýší plošně mzdy všem zaměstnancům o 2000 Kč měsíčně. Průměrná mzda by tak měla v roce 2027 vzrůst na 57.300 Kč. Vyplývá to z uzavřeného kolektivního vyjednávání...",
+      "title_en": "Employees of Czech Radio will receive a flat increase of 2000 CZK starting in January",
+      "lead_en": "Prague - Czech Radio (ČRo) will increase all employees' wages across the board by 2,000 CZK per month next year. The average wage is expected to rise to 57,300 CZK by 2027. This is according to the concluded collective bargaining...",
+      "translation_status": "review_required",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [
+        "lead:missing_numeric_values",
+        "lead:unexpected_numeric_values"
+      ],
+      "topic_scores": {
+        "diplomacy": 4,
+        "military": 0,
+        "energy": 0,
+        "economy": 9,
+        "domestic_politics": 9,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "negotiations"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "wages",
+          "currency"
+        ],
+        "domestic_politics": [
+          "public_broadcasting"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "negotiations",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "wages",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "public_broadcasting",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:43Z"
+    },
+    {
+      "id": "7051a8bdd1570ce9c98b0b96dffd9e72d97ff7cb",
+      "fingerprint": "dc8df851908ecbfe6b94c5f6ce37cfe225a58b62",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/ekonomika-cena-zlata-pada-40610466",
+      "published_utc": "2026-11-25T13:27:31Z",
+      "collected_at_utc": "2026-11-25T14:33:38Z",
+      "title_raw": "Cena zlata padá",
+      "lead_raw": "Cena zlata ve středu poprvé od loňského září sestoupila pod hranici 3500 dolarů (zhruba 78 tisíc korun) za troyskou unci, tradiční váhovou jednotku pro drahé kovy odpovídající 31,1 gramu. Dolů ji tlačí vyhlídky na další zvyšování úrokových sazeb ve Spojených státech a rostoucí kurz amerického dolaru. Od začátku letošního roku žlutý kov ztratil téměř pětinu hodnoty.",
+      "title_en": "The price of gold is falling",
+      "lead_en": "On Wednesday, the price of gold fell below 3,500 dollars (approximately 78,000 CZK) per troy ounce for the first time since last September, the traditional unit of weight for precious metals equivalent to 31.1 grams. It is being pushed down by prospects of further interest rate hikes in the United States and a rising US dollar exchange rate. Since the beginning of this year, the yellow metal has lost nearly one-fifth of its value.",
+      "translation_status": "review_required",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [
+        "lead:missing_numeric_values",
+        "lead:unexpected_numeric_values"
+      ],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 14,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "commodity_markets",
+          "currency",
+          "prices"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "commodity_markets",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "prices",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:43Z"
+    },
+    {
+      "id": "2682207d94531af1d1a27d620aaafd3d4be25d84",
+      "fingerprint": "74ad417644a679872963ef28a7a164f444d5d0a8",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/vzorky-pudy-a-zalepit-okna-v-iowe-odpali-jedovate-chemikalie-379940",
+      "published_utc": "2026-11-25T13:21:24Z",
+      "collected_at_utc": "2026-11-25T14:33:37Z",
+      "title_raw": "Vzorky půdy a zalepit okna. V Iowě odpálí jedovaté chemikálie",
+      "lead_raw": "Americká armáda plánuje ve středu v 16 hodin SEČ ve státě Iowa odpálit víc než čtyři tuny chemikálií, které se používaly k výrobě výbušnin. Soud akci nejprve zablokoval, federální odvolací soud ji ale později povolil. Místní obyvatelé zalepují svá okna a sbírají vzorky půdy, aby mohli doložit případné dopady na jejich zdraví a životní prostředí způsobené rozptýlením toxických látek v ovzduší.",
+      "title_en": "Soil samples and tape windows. In Iowa, toxic chemicals are detonated",
+      "lead_en": "The U.S. military plans to detonate more than four tons of chemicals used to make explosives in the state of Iowa on Wednesday at 4 p.m. CET. The court initially blocked the operation, but the federal appeals court later allowed it. Local residents are taping their windows and collecting soil samples to document any potential impacts on their health and the environment caused by the dispersion of toxic substances into the air.",
+      "translation_status": "review_required",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [
+        "lead:missing_numeric_values",
+        "lead:unexpected_numeric_values"
+      ],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:43Z"
+    },
+    {
+      "id": "205e7ff4ff2cd8d876fb2a7043f24875b30b6f64",
+      "fingerprint": "6caee8fedd42ebe1c8924d585d39d0f363ec8411",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-zemedelci-obdrzi-na-zaklade-jednotnych-zadosti-o-penize-z-eu-vic-nez-31-miliard-korun-321505",
+      "published_utc": "2026-11-25T12:30:17Z",
+      "collected_at_utc": "2026-11-25T14:33:40Z",
+      "title_raw": "Zemědělci obdrží na základě jednotných žádostí o peníze z EU víc než 31 miliard korun",
+      "lead_raw": "Téměř 30 tisíc českých zemědělců a farmářů si rozdělí více než 31 miliard korun z evropských dotací. Podpora je určena na plochu na obhospodařování půdy, chov hospodářských zvířat či rozvoj venkova.",
+      "title_en": "Farmers will receive more than 31 billion CZK from EU funds based on unified applications",
+      "lead_en": "Nearly 30,000 Czech farmers and farmers will share more than 31 billion CZK from European subsidies. The support is intended for land use for land cultivation, livestock breeding, or rural development.",
+      "translation_status": "review_required",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [
+        "lead:missing_numeric_values",
+        "lead:unexpected_numeric_values"
+      ],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 9,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "subsidies",
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "subsidies",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:44Z"
+    }
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "country": "Czech Republic",
+  "country_code": "CZ",
+  "updated_at_utc": "2026-11-25T14:33:49Z",
+  "topic": "local_events",
+  "count": 6,
+  "articles": [
+    {
+      "id": "945f2b87c2f321a97017d5bedc55216e7ee97b2d",
+      "fingerprint": "90902580aab0334ae03ca24c6c8f3bc5ccdb6a64",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/domaci/na-zvyseni-slev-na-jizdne-chce-babis-poslat-1-6-miliardy-kc-z-penez-na-duchody.A261125_150801_domaci_aoc",
+      "published_utc": "2026-11-25T14:20:00Z",
+      "collected_at_utc": "2026-11-25T14:33:41Z",
+      "title_raw": "Babiš chce levnější jízdné, peníze vezme z důchodů",
+      "lead_raw": "Na zvýšení slev pro seniory a studenty na jízdném ve veřejné dopravě chce premiér Andrej Babiš (ANO) poslat příští rok 1,6 miliardy korun. Částku chce vzít z peněz na důchody, vyplývá z jeho podané úpravy návrhu státního rozpočtu na příští rok. Babiš v úterním pořadu Press klub Frekvence 1 ohlásil, že slevy se od července zvýší z nynějších 50 procent na 75 procent.",
+      "title_en": "Babiš wants cheaper fares, he will take money from pensions",
+      "lead_en": "Prime Minister Andrej Babiš (ANO) wants to allocate 1.6 billion crowns next year to increase discounts for seniors and students on public transport fares. He intends to take this amount from pension funds, according to his submitted amendment to the state budget proposal for next year. Babiš announced in Tuesday's Press Club program Frekvence 1 that discounts will increase from the current 50 percent to 75 percent starting in July.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 10,
+        "domestic_politics": 17,
+        "foreign_affairs": 0,
+        "local_events": 6
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "government_budget",
+          "currency",
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "political_parties",
+          "leadership",
+          "czech_leaders"
+        ],
+        "foreign_affairs": [],
+        "local_events": [
+          "public_transport"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "government_budget",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "public_transport",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ]
+      },
+      "topics": [
+        "economy",
+        "domestic_politics",
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:43Z"
+    },
+    {
+      "id": "5717c9419673e209b638929720dc61dd2f01fe26",
+      "fingerprint": "8bccf23dec7aa023c925cacda5cd2bc73735c1c7",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/domaci-slevy-z-penez-na-duchody-40610497",
+      "published_utc": "2026-11-25T14:07:56Z",
+      "collected_at_utc": "2026-11-25T14:33:38Z",
+      "title_raw": "Slevy na jízdné chce vzít Babiš z peněz na důchody",
+      "lead_raw": "Na zvýšení slev pro seniory a studenty na jízdném ve veřejné dopravě chce premiér Andrej Babiš (ANO) poslat příští rok 1,6 miliardy korun z peněz na důchody. Vyplývá to z jím podané úpravy návrhu státního rozpočtu na příští rok. Babiš v úterním pořadu Press klub Frekvence 1 ohlásil, že slevy se od července zvýší z nynějších 50 procent na 75 procent.",
+      "title_en": "Babiš wants to take travel discounts from pension funds",
+      "lead_en": "Prime Minister Andrej Babiš (ANO) wants to allocate 1.6 billion CZK from pension funds next year to increase discounts for seniors and students on public transport fares. This follows from his proposed amendment to the state budget proposal for next year. Babiš announced in Tuesday's Press Club program Frekvence 1 that discounts will increase from the current 50 percent to 75 percent starting in July.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 10,
+        "domestic_politics": 17,
+        "foreign_affairs": 0,
+        "local_events": 6
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "government_budget",
+          "currency",
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "political_parties",
+          "leadership",
+          "czech_leaders"
+        ],
+        "foreign_affairs": [],
+        "local_events": [
+          "public_transport"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "government_budget",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "public_transport",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ]
+      },
+      "topics": [
+        "economy",
+        "domestic_politics",
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:43Z"
+    },
+    {
+      "id": "dd7d1e2cb4c889091f07f19b079b2582a01b32cb",
+      "fingerprint": "62534dff497f8224cc210f9a87bec280335a76a8",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/na-zvyseni-slev-na-jizdne-chce-babis-poslat-16-mld-kc-z-penez-na-duchody/2906132",
+      "published_utc": "2026-11-25T14:07:00Z",
+      "collected_at_utc": "2026-11-25T14:33:35Z",
+      "title_raw": "Na zvýšení slev na jízdné chce Babiš poslat 1,6 mld. Kč z peněz na důchody",
+      "lead_raw": "Praha - Na zvýšení slev pro seniory a studenty na jízdném ve veřejné dopravě chce premiér Andrej Babiš (ANO) poslat příští rok 1,6 miliardy korun. Částku chce vzít z peněz na důchody, vyplývá z jeho podané...",
+      "title_en": "Babiš wants to allocate 1.6 billion CZK of pension funds to increase fare discounts",
+      "lead_en": "Prague - Prime Minister Andrej Babiš (ANO) plans to allocate 1.6 billion crowns next year to increase discounts for seniors and students on public transport fares. He intends to take the amount from pension funds, according to his submission...",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "domestic_politics": 17,
+        "foreign_affairs": 0,
+        "local_events": 6
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [
+          "political_parties",
+          "leadership",
+          "czech_leaders"
+        ],
+        "foreign_affairs": [],
+        "local_events": [
+          "public_transport"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "public_transport",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ]
+      },
+      "topics": [
+        "domestic_politics",
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:43Z"
+    },
+    {
+      "id": "cbdc73d21f150879231c0cc775c83d37450d0e23",
+      "fingerprint": "4e63dee0e9c4b10c9341e925d8cdffd712448f93",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/povede-pres-vltavu-nova-lavka-povoleni-stavby-mezi-roztoky-a-klecany-ma-byt_2611251420_zko",
+      "published_utc": "2026-11-25T13:20:00Z",
+      "collected_at_utc": "2026-11-25T14:33:34Z",
+      "title_raw": "Povede přes Vltavu nová lávka? Povolení stavby mezi Roztoky a Klecany má být počátkem příštího roku",
+      "lead_raw": "Stavební povolení pro novou lávku přes Vltavu mezi Roztoky a Klecany u Prahy má být vydané v prvních měsících příštího roku. Nyní končí příprava projektu a radnice projednávají s veřejností podobu přiléhajícího nábřeží. Cílem je to, aby plochy u lávky sloužily i k rekreaci v přírodě, byl u nich přístup do řeky a naopak parkovací místa nebyla přímo u nábřeží, řekla v úterý starostka Roztok Marie Dvořáková (Společně pro Roztoky a Žalov).",
+      "title_en": "Will a new footbridge lead over the Vltava? The construction permit between Roztoky and Klecany is expected early next year",
+      "lead_en": "The building permit for the new footbridge over the Vltava between Roztoky and Klecany near Prague is expected to be issued in the first months of next year. The project preparation is now finalized, and the town hall is discussing the design of the adjacent embankment with the public. The goal is for the areas near the footbridge to also serve for outdoor recreation, with access to the river, and conversely, parking spaces are not directly at the embankment, said Roztoky's mayor Marie Dvořáková (Together for Roztoky and Žalov) on Tuesday.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 6,
+        "foreign_affairs": 0,
+        "local_events": 9
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "municipal_government"
+        ],
+        "foreign_affairs": [],
+        "local_events": [
+          "infrastructure"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "municipal_government",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "infrastructure",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ]
+      },
+      "topics": [
+        "domestic_politics",
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "local_events",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:44Z"
+    },
+    {
+      "id": "e85fb6b8c0cda66d13023cda6b380f60f614661f",
+      "fingerprint": "b0241b58499f26783e7e992cce2557e93d7c187b",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/nemocnice-na-pokraji-bankrotu-novi-zastupitele-boskovic-vycleni-40-milionu-z_2611251345_lbl",
+      "published_utc": "2026-11-25T12:45:00Z",
+      "collected_at_utc": "2026-11-25T14:33:34Z",
+      "title_raw": "Nemocnice na pokraji bankrotu. Noví zastupitelé Boskovic vyčlení 40 milionů z rozpočtu na záchranu",
+      "lead_raw": "Zhruba 40 milionů korun chybí městské nemocnici v Boskovicích. Kdyby peníze nesehnala, hrozil by jí bankrot. Nové vedení radnice jí peníze v rozpočtu na příští rok najde. Chybět ale budou a ovlivní to jiné chystané investice. Nemocnice schodek vysvětluje vysokými náklady, investovala třeba do kyberbezpečnosti nebo do nového informačního systému.",
+      "title_en": "Hospital on the brink of bankruptcy. New Boskovice councilors will allocate 40 million from the budget for rescue",
+      "lead_en": "The municipal hospital in Boskovice is missing about 40 million crowns. If it fails to raise the funds, it would face bankruptcy. The new city council leadership will find the money in next year's budget. However, there will be shortages, which will affect other planned investments. The hospital explains the deficit by high costs; it invested, for example, in cybersecurity and a new information system.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 9,
+        "domestic_politics": 9,
+        "foreign_affairs": 0,
+        "local_events": 6
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "investment",
+          "currency",
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "municipal_government"
+        ],
+        "foreign_affairs": [],
+        "local_events": [
+          "local_services"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "investment",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "municipal_government",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "local_services",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ]
+      },
+      "topics": [
+        "domestic_politics",
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:44Z"
+    },
+    {
+      "id": "8353f052422a96f1bdcdb34432f8648b1c8b6b8b",
+      "fingerprint": "9680571b931f8f83681ec7fa96e30648b0828ec5",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/oprava-tramvajove-trate-k-nadrazi-v-liberci-bude-asi-vyrazne-levnejsi-prace_2611251115_med",
+      "published_utc": "2026-11-25T10:15:00Z",
+      "collected_at_utc": "2026-11-25T14:33:34Z",
+      "title_raw": "Oprava tramvajové tratě k nádraží v Liberci bude asi výrazně levnější, práce začnou po zimě",
+      "lead_raw": "Oprava tramvajové tratě z dolního centra k vlakovému nádraží v Liberci bude asi výrazně levnější, než městský dopravní podnik (DPMLJ) očekával. Práce nejspíš začnou příští rok po zimě. O zakázku v soutěži usilovalo osm firem a konsorcií, s nejnižší cenou 208,5 milionu korun bez daně vyhrála společnost Colas CZ. Dopravce předpokládal, že za opravu tratě zaplatí 289 milionů korun bez DPH.",
+      "title_en": "Repairing the tram track to the station in Liberec will probably be significantly cheaper; work will start after winter",
+      "lead_en": "The repair of the tram track from the lower center to the train station in Liberec will likely be significantly cheaper than the municipal transport company (DPMLJ) expected. Work will likely begin next year after winter. Eight companies and consortia competed for the contract in the competition, with the lowest price of 208.5 million CZK excluding tax won by Colas CZ. The carrier expected to pay 289 million CZK excluding VAT for the track repair.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 9
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          "public_transport"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "public_transport",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ]
+      },
+      "topics": [
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "local_events",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:45Z"
+    }
+  ]
+}

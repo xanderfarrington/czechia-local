@@ -1,0 +1,309 @@
+{
+  "country": "Czech Republic",
+  "country_code": "CZ",
+  "updated_at_utc": "2026-11-25T14:33:49Z",
+  "topic": "diplomacy",
+  "count": 3,
+  "articles": [
+    {
+      "id": "249f0d5db485de057504e10096760b8075ac68a8",
+      "fingerprint": "58c723f30e338c5b5c91df742118885aae71f213",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/internet-a-pc-ai-technologicke-veletrhy-se-predhaneji-v-novinkach-humanoidi-bavi-deti-i-dospele-40609251",
+      "published_utc": "2026-11-25T13:11:00Z",
+      "collected_at_utc": "2026-11-25T14:33:38Z",
+      "title_raw": "Technologické veletrhy se předhánějí v novinkách, humanoidi baví děti i dospělé",
+      "lead_raw": "Firmy zabývající se výrobou humanoidních robotů a jejich součástí se předhánějí ve vylepšování a inovacích už dlouhou dobu. Zatím to nevypadá, že by narazili na nějaké limity. Naopak, veletrhů, kde stále propracovanější humanoidi hrají velkou roli, neustále přibývá. Jedním z nich byl i summit APEC, který se konal 18. a 19. listopadu v čínském Šen-čenu.",
+      "title_en": "Technology fairs compete with innovations, humanoids entertain both children and adults",
+      "lead_en": "Companies producing humanoid robots and their components have been competing in improvements and innovations for a long time. So far, it does not seem like they have hit any limits. On the contrary, fairs where increasingly sophisticated humanoids play a major role are constantly increasing. One of these was the APEC summit, held on November 18 and 19 in Shenzhen, China.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "summit"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "summit",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "relevant": true,
+      "primary_topic": "diplomacy",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:44Z"
+    },
+    {
+      "id": "2c7f4f048fd420f5fd018b5be0ce979f106a6f20",
+      "fingerprint": "07ae1ff3ad93b64716c45d8006c3d353ffc29fa2",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/zahranicni-nejsem-kufr-reagoval-zelenskyj-na-lukasenkuv-navrh-spolecne-cesty-do-moskvy-40610471",
+      "published_utc": "2026-11-25T13:04:19Z",
+      "collected_at_utc": "2026-11-25T14:33:38Z",
+      "title_raw": "Nejsem kufr, reagoval Zelenskyj na Lukašenkův návrh společné cesty do Moskvy",
+      "lead_raw": "Ukrajinský prezident Volodymyr Zelenskyj odmítl návrh běloruského vůdce Alexandra Lukašenko, že by mohli společně letět do Moskvy na jednání o ukončení války na Ukrajině. Lukašenko zároveň nabízel, že se stane garantem Zelenského bezpečnosti při této cestě.",
+      "title_en": "\"I'm not a suitcase,\" Zelensky responded to Lukashenko's proposal for a joint trip to Moscow",
+      "lead_en": "Ukrainian President Volodymyr Zelensky rejected the proposal of Belarusian leader Alexander Lukashenko that they could fly together to Moscow for talks to end the war in Ukraine. At the same time, Lukashenko offered to become Zelensky's security guarantor during this trip.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 10,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 2,
+        "foreign_affairs": 16,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "peace_negotiations",
+          "negotiations"
+        ],
+        "military": [
+          "war"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "leadership"
+        ],
+        "foreign_affairs": [
+          "ukraine_conflict",
+          "foreign_government",
+          "international_negotiations"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "peace_negotiations",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "negotiations",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          }
+        ],
+        "military": [
+          {
+            "concept": "war",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine_conflict",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "foreign_government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "international_negotiations",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:44Z"
+    },
+    {
+      "id": "b86b9921ad261db0d96629dccf0d3f31d800f4e5",
+      "fingerprint": "f576e2e679bf43f772d126261be419f0461dd9ce",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/senat-vyzval-vladu-aby-na-summitu-eu-podporila-jeji-pujcku-ukrajine/2906514",
+      "published_utc": "2026-11-25T12:24:00Z",
+      "collected_at_utc": "2026-11-25T14:33:35Z",
+      "title_raw": "Senát vyzval vládu, aby na summitu EU podpořila její půjčku Ukrajině",
+      "lead_raw": "Praha - Vláda by měla podle Senátu na nadcházejícím summitu Evropské unie podpořit unijní půjčku na podporu Ukrajiny, která se pátým rokem brání ruské agresi. Horní parlamentní komora k tomu dnes kabinet...",
+      "title_en": "The Senate called on the government to support its loan to Ukraine at the EU summit",
+      "lead_en": "Prague - According to the Senate, the government should support the EU loan to support Ukraine at the upcoming European Union summit, as Ukraine has been defending itself against Russian aggression for five consecutive years. The upper parliamentary chamber today discussed the cabinet...",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 9,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 15,
+        "foreign_affairs": 15,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "summit"
+        ],
+        "military": [
+          "military_aggression"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "government",
+          "parliament"
+        ],
+        "foreign_affairs": [
+          "eu_policy",
+          "ukraine_conflict"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "summit",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "military": [
+          {
+            "concept": "military_aggression",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "ukraine_conflict",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:44Z"
+    }
+  ]
+}

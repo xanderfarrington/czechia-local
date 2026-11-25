@@ -1,0 +1,1614 @@
+{
+  "country": "Czech Republic",
+  "country_code": "CZ",
+  "updated_at_utc": "2026-11-25T14:33:49Z",
+  "topic": "foreign_affairs",
+  "count": 19,
+  "articles": [
+    {
+      "id": "78d3d19e61e4907c6a0b9e7a1c46717b336d89a0",
+      "fingerprint": "1eed182ffe40c47ccc675fd8da2362b337fc8021",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-eu-muze-v-pristim-roce-utratit-200-miliard-eur-vydaje-klesnou-321527",
+      "published_utc": "2026-11-25T14:30:46Z",
+      "collected_at_utc": "2026-11-25T14:33:40Z",
+      "title_raw": "EU může v příštím roce utratit 200 miliard eur, výdaje klesnou",
+      "lead_raw": "EU bude moct příští rok utratit 200 miliard eur, tedy asi dvojnásobek českých státních výdajů. Oproti původnímu návrhu lehce vzrostou třeba prostředky na výzkum, školství a civilní ochranu. Celkově se ale unijní výdaje snižují.",
+      "title_en": "The EU can spend 200 billion euros next year, expenditures will decrease",
+      "lead_en": "The EU will be able to spend 200 billion euros next year, roughly twice the Czech state expenditure. Compared to the original proposal, funds for research, education, and civil protection will slightly increase. Overall, however, EU spending is decreasing.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:43Z"
+    },
+    {
+      "id": "ac3eef3047334401f348d4e01f4af3f5e1140ec5",
+      "fingerprint": "9548fff274b2d58b72a4e4e1c94be0c18a7db7be",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/usa-navrhly-nova-cla-u-eu-se-ma-vratit-sazba-15-procent-379944",
+      "published_utc": "2026-11-25T14:14:48Z",
+      "collected_at_utc": "2026-11-25T14:33:37Z",
+      "title_raw": "USA navrhly nová cla, u EU se má vrátit sazba 15 procent",
+      "lead_raw": "Spojené státy navrhují uvalení nových cel na 14 obchodních partnerů, včetně Evropské unie a Číny. S odvoláním na Úřad amerického obchodního zmocněnce (USTR) o tom ve středu informovala agentura Reuters. Celní sazba na dovoz z EU bude do 15 procent v souladu s dřívější dohodou, kterou sedmadvacítka uzavřela s Washingtonem.",
+      "title_en": "The USA proposed new tariffs, and the EU is to return the 15 percent rate",
+      "lead_en": "The United States proposes imposing new tariffs on 14 trading partners, including the European Union and China. Reuters reported this on Wednesday, citing the Office of the United States Trade Representative (USTR). The tariff on imports from the EU will be up to 15 percent, in line with an earlier agreement reached by the twenty-seven with Washington.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 6,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "trade"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "trade",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:43Z"
+    },
+    {
+      "id": "fd9cb9535cb683cd46f5b09295b3a44ef4f13429",
+      "fingerprint": "9b264a84826b0aa8601f9fc31ba8351dcc61acb3",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/domaci-klempir-reaguje-na-usneseni-ep-k-financovani-verejnopravnich-medii-40610498",
+      "published_utc": "2026-11-25T14:09:22Z",
+      "collected_at_utc": "2026-11-25T14:33:38Z",
+      "title_raw": "Jen PR českých europoslanců, k ničemu nás to nezavazuje, reaguje Klempíř na usnesení EP",
+      "lead_raw": "Středeční usnesení Evropského parlamentu (EP) ke změnám ve financování veřejnoprávních médií v Česku nevytváří podle ministra kultury Oto Klempíře (za Motoristy) pro vládu žádnou povinnost. Jde podle něj pouze o skandální PR aktivitu českých europoslanců Danuše Nerudové a Tomáše Zdechovského. Klempíř to řekl ve středu novinářům v Praze ve Sněmovně.",
+      "title_en": "Just PR from Czech MEPs, it doesn't obligate us to anything, Klempíř responds to the EP resolution",
+      "lead_en": "According to Culture Minister Oto Klempíř (for Motoristy), Wednesday's European Parliament resolution on changes in the financing of public media in the Czech Republic does not create any obligation for the government. According to him, it is merely a scandalous PR activity by Czech MEPs Danuše Nerudová and Tomáš Zdechovský. Klempíř said this to journalists in Prague at the Chamber of Deputies on Wednesday.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "domestic_politics": 12,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [
+          "government",
+          "parliament",
+          "leadership"
+        ],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:43Z"
+    },
+    {
+      "id": "adccb1d1abc2d2ff89f3a717f688225a25bcb97e",
+      "fingerprint": "9918593454603e5a5f968190b8952904109f57b6",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/domaci/europoslanci-eu-schvaleni-rezoluce-ct-a-cro-zruseni-poplatku.A261125_131806_domaci_ikul",
+      "published_utc": "2026-11-25T14:05:00Z",
+      "collected_at_utc": "2026-11-25T14:33:41Z",
+      "title_raw": "Ať je financování ČT a rozhlasu udržitelné a předvídatelné, vyzvali europoslanci vládu",
+      "lead_raw": "Europoslanci ve středu v rezoluci vyzvali českou vládu, aby zajistila, že systém financování České televize a Českého rozhlasu bude v souladu s právem EU, zaručí udržitelné a předvídatelné financování obou veřejnoprávních médií a bude obsahovat pojistky proti politickým zásahům do jejich práce. Pro rezoluci hlasovalo 442 z 647 přítomných europoslanců. Proti jich bylo 158 a 47 se zdrželo.",
+      "title_en": "MEPs called on the government to ensure that the financing of Czech Television and radio is sustainable and predictable.",
+      "lead_en": "On Wednesday, MEPs called on the Czech government in a resolution to ensure that the financing system for Czech Television and Czech Radio complies with EU law, guarantees sustainable and predictable funding for both public service media, and includes safeguards against political interference in their work. 442 out of 647 MEPs present voted in favor of the resolution. 158 voted against and 47 abstained.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "domestic_politics": 15,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [
+          "government",
+          "public_broadcasting"
+        ],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "public_broadcasting",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:43Z"
+    },
+    {
+      "id": "267137f5d54ab4dc885fc7ac4b4424d028aac2cc",
+      "fingerprint": "3298ea6540fbe028704b3524e13207fe953a4ca5",
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/washington-navrhuje-nova-cla-v-pripade-eu-se-ma-vratit-sazba-15-/2906573",
+      "published_utc": "2026-11-25T13:57:00Z",
+      "collected_at_utc": "2026-11-25T14:33:36Z",
+      "title_raw": "Washington navrhuje nová cla, v případě EU se má vrátit sazba 15 %",
+      "lead_raw": "Washington - Spojené státy navrhují uvalení nových cel na 14 obchodních partnerů, včetně Evropské unie a Číny. S odvoláním na Úřad amerického obchodního zmocněnce (USTR) o tom informovala agentura Reuters....",
+      "title_en": "Washington proposes new tariffs; the EU is expected to return the 15% rate",
+      "lead_en": "Washington - The United States is proposing to impose new tariffs on 14 trading partners, including the European Union and China. This was reported by Reuters, citing the Office of the United States Trade Representative (USTR)....",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:43Z"
+    },
+    {
+      "id": "6a984a0e9e920673e8565c8f330ecbe7d8fe49b4",
+      "fingerprint": "0a9fcc5984bdf60c6b5fa34221bd20a67fdf5058",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/ekonomika-trump-upresnil-novou-vlnu-cel-na-dovoz-z-eu-navrhuje-15-procent-40610491",
+      "published_utc": "2026-11-25T13:55:25Z",
+      "collected_at_utc": "2026-11-25T14:33:38Z",
+      "title_raw": "Trump upřesnil novou vlnu cel. Na dovoz z EU navrhuje 15 procent",
+      "lead_raw": "Spojené státy navrhují uvalení nových cel na 14 obchodních partnerů, včetně Evropské unie a Číny. S odvoláním na Úřad amerického obchodního zmocněnce (USTR) o tom ve středu informovala agentura Reuters. Celní sazba na dovoz z EU bude do 15 procent v souladu s dřívější dohodou, kterou sedmadvacítka uzavřela s Washingtonem.",
+      "title_en": "Trump specified a new wave of tariffs. He proposes 15 percent on imports from the EU",
+      "lead_en": "The United States proposes imposing new tariffs on 14 trading partners, including the European Union and China. Reuters reported this on Wednesday, citing the Office of the United States Trade Representative (USTR). The tariff on imports from the EU will be up to 15 percent, in line with an earlier agreement reached by the twenty-seven with Washington.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 6,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "trade"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "trade",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:43Z"
+    },
+    {
+      "id": "afbf05690876ff2a27c5954bdd10f1861360f203",
+      "fingerprint": "b4e210dc27b9f1134a43890ce375745302c92751",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-trump-chysta-novou-vlnu-cel-miri-hlavne-na-cinu-321519",
+      "published_utc": "2026-11-25T13:53:24Z",
+      "collected_at_utc": "2026-11-25T14:33:40Z",
+      "title_raw": "Trump chystá novou vlnu cel, u EU se mají vrátit na 15 procent",
+      "lead_raw": "Spojené státy navrhují uvalení nových cel na 14 obchodních partnerů, včetně Evropské unie a Číny. S odvoláním na Úřad amerického obchodního zmocněnce (USTR) o tom dnes informovala agentura Reuters.",
+      "title_en": "Trump is preparing a new wave of tariffs, with the EU expected to return to 15 percent",
+      "lead_en": "The United States is proposing to impose new tariffs on 14 trading partners, including the European Union and China. Reuters reported this today, citing the Office of the United States Trade Representative (USTR).",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:43Z"
+    },
+    {
+      "id": "9f0ad4a587c2d8f45efa0c420181e09870f6fbda",
+      "fingerprint": "48a9444ec1f99137014d9439fabd106e92790b3d",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-s-rodinami-se-diky-trumpove-shledalo-dalsich-devet-ukrajinskych-a-ruskych-deti-321513",
+      "published_utc": "2026-11-25T13:14:41Z",
+      "collected_at_utc": "2026-11-25T14:33:40Z",
+      "title_raw": "S rodinami se díky Trumpové shledalo dalších devět ukrajinských a ruských dětí",
+      "lead_raw": "Díky iniciativě americké první dámy Melanie Trumpové se se svými rodinami dosud shledalo 43 dětí odloučených v důsledku války na Ukrajině. Bílý dům nyní oznámil návrat dalších devíti dětí.",
+      "title_en": "Thanks to Trump, nine more Ukrainian and Russian children have been reunited with their families",
+      "lead_en": "Thanks to the initiative of American First Lady Melania Trump, 43 children separated due to the war in Ukraine have so far been reunited with their families. The White House has now announced the return of nine more children.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "war"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine_conflict"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "war",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine_conflict",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:44Z"
+    },
+    {
+      "id": "2c7f4f048fd420f5fd018b5be0ce979f106a6f20",
+      "fingerprint": "07ae1ff3ad93b64716c45d8006c3d353ffc29fa2",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/zahranicni-nejsem-kufr-reagoval-zelenskyj-na-lukasenkuv-navrh-spolecne-cesty-do-moskvy-40610471",
+      "published_utc": "2026-11-25T13:04:19Z",
+      "collected_at_utc": "2026-11-25T14:33:38Z",
+      "title_raw": "Nejsem kufr, reagoval Zelenskyj na Lukašenkův návrh společné cesty do Moskvy",
+      "lead_raw": "Ukrajinský prezident Volodymyr Zelenskyj odmítl návrh běloruského vůdce Alexandra Lukašenko, že by mohli společně letět do Moskvy na jednání o ukončení války na Ukrajině. Lukašenko zároveň nabízel, že se stane garantem Zelenského bezpečnosti při této cestě.",
+      "title_en": "\"I'm not a suitcase,\" Zelensky responded to Lukashenko's proposal for a joint trip to Moscow",
+      "lead_en": "Ukrainian President Volodymyr Zelensky rejected the proposal of Belarusian leader Alexander Lukashenko that they could fly together to Moscow for talks to end the war in Ukraine. At the same time, Lukashenko offered to become Zelensky's security guarantor during this trip.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 10,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 2,
+        "foreign_affairs": 16,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "peace_negotiations",
+          "negotiations"
+        ],
+        "military": [
+          "war"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "leadership"
+        ],
+        "foreign_affairs": [
+          "ukraine_conflict",
+          "foreign_government",
+          "international_negotiations"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "peace_negotiations",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "negotiations",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          }
+        ],
+        "military": [
+          {
+            "concept": "war",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine_conflict",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "foreign_government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "international_negotiations",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:44Z"
+    },
+    {
+      "id": "00bc4ec6fe3b77a35c27ca70151ba69861ce2129",
+      "fingerprint": "c5dc0489de77ec4e387d8fc21f09840087702ed8",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-europoslanci-schvalili-rezoluci-k-ct-a-cro-chteji-predvidatelne-finance-321507",
+      "published_utc": "2026-11-25T12:25:02Z",
+      "collected_at_utc": "2026-11-25T14:33:40Z",
+      "title_raw": "Europoslanci schválili rezoluci k ČT a ČRo, Babiš má také vyřešit střet zájmů",
+      "lead_raw": "Nový systém financování České televize a Českého rozhlasu by podle europoslanců měl respektovat právo EU. Rezoluce přijatá europoslanci zároveň vyzývá českého premiéra Andreje Babiše (ANO), aby plně vyřešil svůj střet zájmů.",
+      "title_en": "MEPs approved a resolution regarding Czech Television and Czech Radio, and Babiš also has to resolve conflicts of interest.",
+      "lead_en": "According to MEPs, the new financing system for Czech Television and Czech Radio should respect EU law. The resolution adopted by MEPs also calls on Czech Prime Minister Andrej Babiš (ANO) to fully resolve his conflict of interest.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "domestic_politics": 35,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [
+          "political_parties",
+          "public_broadcasting",
+          "political_corruption",
+          "leadership",
+          "czech_leaders"
+        ],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "public_broadcasting",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "political_corruption",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:44Z"
+    },
+    {
+      "id": "b86b9921ad261db0d96629dccf0d3f31d800f4e5",
+      "fingerprint": "f576e2e679bf43f772d126261be419f0461dd9ce",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/senat-vyzval-vladu-aby-na-summitu-eu-podporila-jeji-pujcku-ukrajine/2906514",
+      "published_utc": "2026-11-25T12:24:00Z",
+      "collected_at_utc": "2026-11-25T14:33:35Z",
+      "title_raw": "Senát vyzval vládu, aby na summitu EU podpořila její půjčku Ukrajině",
+      "lead_raw": "Praha - Vláda by měla podle Senátu na nadcházejícím summitu Evropské unie podpořit unijní půjčku na podporu Ukrajiny, která se pátým rokem brání ruské agresi. Horní parlamentní komora k tomu dnes kabinet...",
+      "title_en": "The Senate called on the government to support its loan to Ukraine at the EU summit",
+      "lead_en": "Prague - According to the Senate, the government should support the EU loan to support Ukraine at the upcoming European Union summit, as Ukraine has been defending itself against Russian aggression for five consecutive years. The upper parliamentary chamber today discussed the cabinet...",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 9,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 15,
+        "foreign_affairs": 15,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "summit"
+        ],
+        "military": [
+          "military_aggression"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "government",
+          "parliament"
+        ],
+        "foreign_affairs": [
+          "eu_policy",
+          "ukraine_conflict"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "summit",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "military": [
+          {
+            "concept": "military_aggression",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "ukraine_conflict",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:44Z"
+    },
+    {
+      "id": "5b43b8daec78e8bd2e77ae844687517c5b70c269",
+      "fingerprint": "17c0bf6ac2b3152d266c782614af6db50ea81d62",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/domaci-europoslanci-schvalili-rezoluci-k-ct-a-rozhlasu-chteji-predvidatelne-finance-40610450",
+      "published_utc": "2026-11-25T12:22:38Z",
+      "collected_at_utc": "2026-11-25T14:33:38Z",
+      "title_raw": "Europoslanci schválili rezoluci k ČT a rozhlasu, chtějí předvídatelné finance",
+      "lead_raw": "Europoslanci dnes v rezoluci vyzvali českou vládu, aby nový systém financování České televize a Českého rozhlasu byl v souladu s právem EU, zajišťoval udržitelné a předvídatelné financování obou veřejnoprávních médií a obsahoval pojistky proti politickým zásahům do jejich práce. Pro rezoluci týkající se změny financování veřejnoprávních médií v Česku hlasovalo 442 z 647 přítomných europoslanců.",
+      "title_en": "MEPs approved a resolution on Czech Television and radio, wanting predictable funding",
+      "lead_en": "Today, MEPs called on the Czech government in a resolution to ensure that the new financing system for Czech Television and Czech Radio complies with EU law, ensures sustainable and predictable financing of both public service media, and includes safeguards against political interference in their work. 442 out of 647 MEPs present voted in favor of the resolution concerning the change in funding for public media in the Czech Republic.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "domestic_politics": 13,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [
+          "government",
+          "public_broadcasting"
+        ],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "public_broadcasting",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:44Z"
+    },
+    {
+      "id": "7d7e84f7110ed5f009422ee7ce90393d48a662b1",
+      "fingerprint": "8e0da2a343934f6e59c8e471df98f760a8832bea",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/snemovna-schvalila-zdrazeni-odberu-podzemni-vody-a-vetsi-rovnost-ve-firmach-379938",
+      "published_utc": "2026-11-25T11:53:13Z",
+      "collected_at_utc": "2026-11-25T14:33:37Z",
+      "title_raw": "Sněmovna schválila zdražení odběru podzemní vody a větší rovnost ve firmách",
+      "lead_raw": "Dolní komora ve třetím čtení schválila novelu zákona o rostlinolékařské péči, kterou předřadila před naplánované body. Předloha mimo jiné skrze pozměňovací návrh poslance ANO Karla Turečka razantně zvýší poplatky za odběr podzemní vody a odebere krajům podíl na takto vybraných financích. Sněmovna poté schválila i předlohu o vyváženějším zastoupení žen nebo mužů ve vedení velkých akciových firem. Obě zákonné změny vychází z legislativy EU.",
+      "title_en": "The Chamber of Deputies approved an increase in groundwater prices and greater equality among companies",
+      "lead_en": "The lower chamber approved an amendment to the Plant Health Care Act in the third reading, prioritizing it over the planned items. Among other things, the bill will drastically increase groundwater fees through an amendment by ANO MP Karel Tureček and take away the region's share of such collected funds. The Chamber then also approved a bill on a more balanced representation of women or men in the management of large joint-stock companies. Both legal changes are based on EU legislation.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 9,
+        "domestic_politics": 21,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "stock_market",
+          "prices"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "legislation",
+          "political_parties"
+        ],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "stock_market",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "prices",
+            "strength": 1,
+            "headline": true,
+            "lead": false,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "legislation",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:45Z"
+    },
+    {
+      "id": "43632407f1aafa8c72561a1f47fd04eb00ca317c",
+      "fingerprint": "b29e5f1398b83a783158b85964d49762c06627d6",
+      "source": "Radio Prague International (EN)",
+      "source_language": "en",
+      "url": "https://english.radio.cz/v4-prime-ministers-call-delay-eu-emissions-trading-scheme-8903563",
+      "published_utc": "2026-11-25T11:49:00Z",
+      "collected_at_utc": "2026-11-25T14:33:43Z",
+      "title_raw": "V4 prime ministers call for delay to EU emissions trading scheme",
+      "lead_raw": "V4 prime ministers call for delay to EU emissions trading scheme",
+      "title_en": "V4 prime ministers call for delay to EU emissions trading scheme",
+      "lead_en": "V4 prime ministers call for delay to EU emissions trading scheme",
+      "translation_status": "not_required",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": "original_english",
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 4
+    },
+    {
+      "id": "1bd0cf80160bbbaf4b865ab01c3b52e34e7ce7f1",
+      "fingerprint": "1778c3f3d2ebddc53798a4b22dd75f5d7e40e515",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-padlych-rusu-muze-byt-az-pul-milionu-rozsah-ztrat-odhaluji-unikla-data-321477",
+      "published_utc": "2026-11-25T11:40:00Z",
+      "collected_at_utc": "2026-11-25T14:33:40Z",
+      "title_raw": "Padlých Rusů může být až půl milionu, rozsah ztrát odhalují uniklá data",
+      "lead_raw": "Ruské úřady údaje o počtu padlých vojáků nezveřejňují. Analýza uniklých statistik, kterou provedla BBC, však ukazuje, že válka na Ukrajině si mohla vyžádat životy téměř půl milionu mužů bojujících za Rusko.",
+      "title_en": "There may be up to half a million fallen Russians, the extent of losses revealed by leaked data",
+      "lead_en": "Russian authorities do not publish data on the number of fallen soldiers. However, an analysis of leaked statistics conducted by the BBC shows that the war in Ukraine may have claimed the lives of nearly half a million men fighting for Russia.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "war"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine_conflict"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "war",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine_conflict",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:45Z"
+    },
+    {
+      "id": "7abf922d1ebc97b3ecbdaf6d72f83e8350bdd41b",
+      "fingerprint": "db79e76225b6dfbdb7b8e3619aaf418210de4b52",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-stredni-evropa-magyar-vyrazil-na-ukrajinu-vztahy-s-kyjevem-restartoval-i-v-telocvicne-321480",
+      "published_utc": "2026-11-25T10:50:00Z",
+      "collected_at_utc": "2026-11-25T14:33:40Z",
+      "title_raw": "Magyar vyrazil na Ukrajinu, vztahy s Kyjevem restartoval i v tělocvičně",
+      "lead_raw": "Maďarský premiér přijel do Zakarpatí s generátory a léky. S prezidentem Zelenským mluvil o právech místních Maďarů i o cestě Ukrajiny do EU. Tu chce Kyjev zvládnout rychleji, než si představuje Budapešť.",
+      "title_en": "Magyar traveled to Ukraine, reviving relations with Kyiv even in the gym",
+      "lead_en": "The Hungarian Prime Minister arrived in Transcarpathia with generators and medicines. He spoke with President Zelensky about the rights of local Hungarians and Ukraine's path to the EU. Kyiv wants to complete it faster than Budapest imagines.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 2,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "leadership"
+        ],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:33:45Z"
+    },
+    {
+      "id": "7f609aa5982aefc464a51ebce90b267718d4e1c9",
+      "fingerprint": "642a823caa17f62197ecf0104ca0b7756c521f8c",
+      "source": "Radio Prague International (EN)",
+      "source_language": "en",
+      "url": "https://english.radio.cz/european-commission-warns-czechia-may-breach-eu-fiscal-rules-next-year-8903511",
+      "published_utc": "2026-11-25T05:59:00Z",
+      "collected_at_utc": "2026-11-25T14:33:43Z",
+      "title_raw": "European Commission warns Czechia may breach EU fiscal rules next year",
+      "lead_raw": "European Commission warns Czechia may breach EU fiscal rules next year",
+      "title_en": "European Commission warns Czechia may breach EU fiscal rules next year",
+      "lead_en": "European Commission warns Czechia may breach EU fiscal rules next year",
+      "translation_status": "not_required",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": "original_english",
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 4
+    },
+    {
+      "id": "4e9cbfd85cf9e941a2c7a5edda78ffd39f00f86f",
+      "fingerprint": "401ab3f32bdb86cf2b49b433fc8eeedb85da7061",
+      "source": "Radio Prague International (EN)",
+      "source_language": "en",
+      "url": "https://english.radio.cz/new-eu-digital-identity-wallet-be-introduced-czechia-late-2027-8903444",
+      "published_utc": "2026-11-24T11:14:00Z",
+      "collected_at_utc": "2026-11-25T14:33:43Z",
+      "title_raw": "New EU digital identity wallet to be introduced in Czechia by late 2027",
+      "lead_raw": "New EU digital identity wallet to be introduced in Czechia by late 2027",
+      "title_en": "New EU digital identity wallet to be introduced in Czechia by late 2027",
+      "lead_en": "New EU digital identity wallet to be introduced in Czechia by late 2027",
+      "translation_status": "not_required",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": "original_english",
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 4
+    },
+    {
+      "id": "8ccf24d8a8104b4cf7192056cf0e3a417fdd4713",
+      "fingerprint": "9278f42a2437736109139982d14d2fa4feeea2c6",
+      "source": "Radio Prague International (EN)",
+      "source_language": "en",
+      "url": "https://english.radio.cz/czechia-join-second-phase-eu-defence-loan-program-8903442",
+      "published_utc": "2026-11-24T11:13:00Z",
+      "collected_at_utc": "2026-11-25T14:33:43Z",
+      "title_raw": "Czechia to join second phase of EU defence loan program",
+      "lead_raw": "Czechia to join second phase of EU defence loan program",
+      "title_en": "Czechia to join second phase of EU defence loan program",
+      "lead_en": "Czechia to join second phase of EU defence loan program",
+      "translation_status": "not_required",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": "original_english",
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 9,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "defense"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "defense",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 4
+    }
+  ]
+}
