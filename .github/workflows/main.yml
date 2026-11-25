@@ -21,6 +21,8 @@ jobs:
       HF_HOME: ${{ github.workspace }}/.hf-cache
       HF_HUB_DISABLE_TELEMETRY: "1"
       TOKENIZERS_PARALLELISM: "false"
+      PYTHONUNBUFFERED: "1"
+      PYTHONFAULTHANDLER: "1"
 
     steps:
       - name: Checkout repo
@@ -32,6 +34,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: "pip"
 
       - name: Cache Hugging Face model
         uses: actions/cache@v4
@@ -51,16 +54,27 @@ jobs:
       - name: Run collector
         env:
           KEEP_HOURS: "48"
+
           MODEL_NAME: "facebook/nllb-200-distilled-1.3B"
+
           TRANSLATE_LIMIT: "60"
-          BATCH_SIZE: "4"
+          REPAIR_LIMIT: "20"
+
+          BATCH_SIZE: "8"
+          ARTICLE_GROUP_SIZE: "8"
+
           NUM_BEAMS: "4"
           CPU_THREADS: "4"
+
+          MAX_RUNTIME_MINUTES: "40"
+
           TRANSLATE_ALL: "0"
+          RETRANSLATE_INCOMPLETE: "1"
+
           OUT_JSON: "data/articles_latest.json"
           ARCHIVE_JSON: "data/articles_archive.json"
-          PYTHONUNBUFFERED: "1"
-          PYTHONFAULTHANDLER: "1"
+          SENTENCE_CACHE_JSON: "data/sentence_translation_cache.json"
+
         run: |
           python -X faulthandler -u collector.py
           ls -lah data
