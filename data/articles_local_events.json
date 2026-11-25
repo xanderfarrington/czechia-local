@@ -1,118 +1,10 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T12:46:18Z",
+  "updated_at_utc": "2026-11-25T13:47:36Z",
   "topic": "local_events",
-  "count": 4,
+  "count": 1,
   "articles": [
-    {
-      "source": "iDNES.cz",
-      "source_language": "cs",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/pri-ruskem-utoku-v-kyjevske-oblasti-zahynul-muz-v-rusku-hori-rafinerie.A261125_070149_zahranicni_tmps",
-      "published_utc": "2026-11-25T12:31:00Z",
-      "title_raw": "Ukrajinci zaútočili na dvě rafinerie v Samarské oblasti, vypukly velké požáry",
-      "lead_raw": "Ruské útoky ve městě Bila Cerkva a v Charkovské oblasti si vyžádaly dva mrtvé. Pět oblastí Ukrajiny se potýká s výpadky dodávek elektrické energie, uvedly ukrajinské úřady.",
-      "id": "b8a1e02452b48b0c43dc30c410ca61dc65b5c7d4",
-      "fingerprint": "5392be5ecf9e6803f1d272c44f1c6d10d721b0a1",
-      "title_en": "Ukrainians attacked two refineries in the Samara region, large fires broke out",
-      "lead_en": "Russian attacks in the town of Bila Churchva and the Kharkiv region claimed two lives. Five regions of Ukraine are experiencing power outages, according to Ukrainian authorities.",
-      "translation_status": "completed",
-      "translation_version": 2,
-      "translation_attempts": 1,
-      "translation_provider": "facebook/nllb-200-distilled-1.3B",
-      "translation_method": "sentence_by_sentence",
-      "translation_error": null,
-      "translation_warnings": [],
-      "translated_at_utc": "2026-11-25T12:36:02Z",
-      "collected_at_utc": "2026-11-25T12:34:20Z",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
-        "economy": 0,
-        "local_events": 2,
-        "domestic_politics": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          "energi*",
-          "rafineri*",
-          "refineries"
-        ],
-        "economy": [],
-        "local_events": [
-          "fires",
-          "požár*"
-        ],
-        "domestic_politics": []
-      },
-      "topics": [
-        "energy",
-        "local_events"
-      ],
-      "relevant": true,
-      "primary_topic": "energy",
-      "classification_version": 2,
-      "sentence_counts": {
-        "title": 1,
-        "lead": 2
-      }
-    },
-    {
-      "source": "iDNES.cz",
-      "source_language": "cs",
-      "url": "https://www.idnes.cz/ceske-budejovice/zpravy/pozar-byt-seniorka-nadychala-kour-cecova-hasici-zachranari.A261125_123208_budejovice-zpravy_khr",
-      "published_utc": "2026-11-25T12:11:00Z",
-      "title_raw": "Od sporáku chytila kuchyň. Seniorka se nadýchala kouře, skončila v nemocnici",
-      "lead_raw": "Ve středu dopoledne zasahovali hasiči, záchranáři i policisté u požáru bytu v jednom z domů na Pražském sídlišti v Českých Budějovicích. Jeho obyvatelka se z něj dokázala dostat sama, ale nadýchala se kouře, tak ji záchranáři odvezli do nemocnice.",
-      "id": "9565dcb30244426a4e9d28907936409071c0bf33",
-      "fingerprint": "90dabf58e95980c78c43571114e141d5bb7befaa",
-      "title_en": "She grabbed the kitchen from the stove. Senior woman inhaled smoke, ended up in hospital",
-      "lead_en": "On Wednesday morning, firefighters, rescuers and police officers responded to a fire in an apartment in one of the houses in Prague's Czech Budějovice neighborhood. His occupant managed to get out on her own, but she was breathing in smoke, so paramedics took her to the hospital.",
-      "translation_status": "completed",
-      "translation_version": 2,
-      "translation_attempts": 1,
-      "translation_provider": "facebook/nllb-200-distilled-1.3B",
-      "translation_method": "sentence_by_sentence",
-      "translation_error": null,
-      "translation_warnings": [],
-      "translated_at_utc": "2026-11-25T12:37:49Z",
-      "collected_at_utc": "2026-11-25T12:34:20Z",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 5,
-        "domestic_politics": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "local_events": [
-          "fire",
-          "firefighters",
-          "hasič*",
-          "požár*",
-          "záchran*"
-        ],
-        "domestic_politics": []
-      },
-      "topics": [
-        "local_events"
-      ],
-      "relevant": true,
-      "primary_topic": "local_events",
-      "classification_version": 2,
-      "sentence_counts": {
-        "title": 2,
-        "lead": 2
-      }
-    },
     {
       "source": "Novinky",
       "source_language": "cs",
@@ -122,24 +14,25 @@
       "lead_raw": "K požáru bytu v bytovém domě vyjížděli jihočeští hasiči ve středu dopoledne do českobudějovické Čéčovy ulice. Hořel sporák a další vybavení kuchyně.",
       "id": "fae6277bcb7578b8aeb2dc723791c560d353d865",
       "fingerprint": "f784afe2c26211d270bdb293593acf0b1f18db11",
-      "title_en": "In a fire in an apartment in České Budějovice, a senior woman was injured.",
+      "title_en": "In an apartment fire in České Budějovice, a senior was injured.",
       "lead_en": "South Bohemian firefighters were on their way to the apartment fire in an apartment building on Wednesday morning in České Budějovice's Cechova Street. There was a fire in the stove and other kitchen equipment.",
       "translation_status": "completed",
-      "translation_version": 2,
-      "translation_attempts": 1,
+      "translation_version": 3,
+      "translation_attempts": 2,
       "translation_provider": "facebook/nllb-200-distilled-1.3B",
-      "translation_method": "sentence_by_sentence",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
       "translation_error": null,
       "translation_warnings": [],
-      "translated_at_utc": "2026-11-25T12:43:46Z",
+      "translated_at_utc": "2026-11-25T13:47:19Z",
       "collected_at_utc": "2026-11-25T12:34:18Z",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
         "energy": 0,
         "economy": 0,
-        "local_events": 5,
-        "domestic_politics": 0
+        "local_events": 9,
+        "domestic_politics": 0,
+        "foreign_affairs": 0
       },
       "matched_keywords": {
         "diplomacy": [],
@@ -147,79 +40,48 @@
         "energy": [],
         "economy": [],
         "local_events": [
-          "fire",
-          "firefighters",
-          "hasič*",
-          "injured",
-          "požár*"
+          "fire"
         ],
-        "domestic_politics": []
+        "domestic_politics": [],
+        "foreign_affairs": []
       },
       "topics": [
         "local_events"
       ],
       "relevant": true,
       "primary_topic": "local_events",
-      "classification_version": 2,
+      "classification_version": 3,
       "sentence_counts": {
         "title": 1,
         "lead": 2
-      }
-    },
-    {
-      "source": "ČT24",
-      "source_language": "cs",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/konference-osn-ztroskotala-akteri-hledaji-jinou-cestu-jak-pomoci-klimatu-379894",
-      "published_utc": "2026-11-25T09:37:48Z",
-      "title_raw": "Po krachu klimatické konference roste tlak na konec jednomyslnosti",
-      "lead_raw": "Letošní klimatická konference OSN COP31 v turecké Antalyi, dosud nejdelší v historii, skončila krachem. Některé státy v návrhu deklarace odmítly byť obecný závazek k omezování fosilních paliv, jiné odmítly podepsat verzi, která hlavní příčinu klimatické změny vůbec nezmiňuje.",
-      "id": "470d356ec0811a73c35be17a69471d1083cb1d19",
-      "fingerprint": "99d614b0302148aeedc883073719dc4fb5c0ffae",
-      "title_en": "After the collapse of the climate conference, pressure is mounting to end the consensus.",
-      "lead_en": "This year's UN climate conference COP31 in Antalya, Turkey, the longest ever in history, ended in failure. While some countries rejected a general commitment to reduce fossil fuels in the draft declaration, others refused to sign a version that did not mention the root cause of climate change at all.",
-      "translation_status": "completed",
-      "translation_version": 2,
-      "translation_attempts": 1,
-      "translation_provider": "facebook/nllb-200-distilled-1.3B",
-      "translation_method": "sentence_by_sentence",
-      "translation_error": null,
-      "translation_warnings": [],
-      "translated_at_utc": "2026-11-25T12:45:13Z",
-      "collected_at_utc": "2026-11-25T12:34:17Z",
-      "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
-        "economy": 0,
-        "local_events": 1,
-        "domestic_politics": 0
       },
-      "matched_keywords": {
-        "diplomacy": [
-          "OSN"
-        ],
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
         "military": [],
-        "energy": [
-          "paliv*"
-        ],
+        "energy": [],
         "economy": [],
         "local_events": [
-          "collapse"
+          {
+            "concept": "fire",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
         ],
-        "domestic_politics": []
+        "domestic_politics": [],
+        "foreign_affairs": []
       },
-      "topics": [
-        "diplomacy",
-        "energy",
-        "local_events"
-      ],
-      "relevant": true,
-      "primary_topic": "diplomacy",
-      "classification_version": 2,
-      "sentence_counts": {
-        "title": 1,
-        "lead": 2
-      }
+      "previous_translation": {
+        "title_en": "In a fire in an apartment in České Budějovice, a senior woman was injured.",
+        "lead_en": "South Bohemian firefighters were on their way to the apartment fire in an apartment building on Wednesday morning in České Budějovice's Cechova Street. There was a fire in the stove and other kitchen equipment.",
+        "translation_version": 2
+      },
+      "named_entities": []
     }
   ]
 }

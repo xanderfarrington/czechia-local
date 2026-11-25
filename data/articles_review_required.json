@@ -1,0 +1,868 @@
+{
+  "country": "Czech Republic",
+  "country_code": "CZ",
+  "updated_at_utc": "2026-11-25T13:47:36Z",
+  "count": 9,
+  "articles": [
+    {
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/domaci/druhe-cteni-rozpoctu-na-2027-navrhy-poslancu-na-presuny-penez.A261125_042858_domaci_kop",
+      "published_utc": "2026-11-25T11:49:00Z",
+      "title_raw": "Poslanci jednají o návrhu rozpočtu. Šlo by ušetřit 100 miliard, říká opozice",
+      "lead_raw": "Poslanci jednají o návrhu státního rozpočtu. Poslanci mohou ve středu navrhovat přesuny peněz mezi jednotlivými kapitolami.",
+      "id": "e3c0dd631e919445d50e2894c520e6d04ca3d3dc",
+      "fingerprint": "41692dbedb8087dfd340f4827229556b3333ad23",
+      "title_en": "MEPs are debating the draft budget. It would save 100 billion, says the opposition",
+      "lead_en": "The deputies are discussing the draft state budget. On Wednesday, MEPs can propose transfers of funds between chapters.",
+      "translation_status": "review_required",
+      "translation_version": 3,
+      "translation_attempts": 2,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
+      "translation_error": null,
+      "translation_warnings": [
+        "lead_2:possible_parliament_error",
+        "title_1:possible_parliament_error"
+      ],
+      "translated_at_utc": "2026-11-25T13:44:41Z",
+      "collected_at_utc": "2026-11-25T12:34:20Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 6,
+        "local_events": 0,
+        "domestic_politics": 18,
+        "foreign_affairs": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "government_budget",
+          "generic_budget"
+        ],
+        "local_events": [],
+        "domestic_politics": [
+          "parliament",
+          "coalition"
+        ],
+        "foreign_affairs": []
+      },
+      "topics": [
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 3,
+      "sentence_counts": {
+        "title": 2,
+        "lead": 2
+      },
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "government_budget",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 3
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "local_events": [],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "coalition",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": []
+      },
+      "previous_translation": {
+        "title_en": "MEPs are debating the draft budget. It would save 100 billion, says the opposition",
+        "lead_en": "The deputies are discussing the draft state budget. On Wednesday, MEPs can propose transfers of funds between chapters.",
+        "translation_version": 2
+      },
+      "named_entities": []
+    },
+    {
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-padlych-rusu-muze-byt-az-pul-milionu-rozsah-ztrat-odhaluji-unikla-data-321477",
+      "published_utc": "2026-11-25T11:40:00Z",
+      "title_raw": "Padlých Rusů může být až půl milionu, rozsah ztrát odhalují uniklá data",
+      "lead_raw": "Ruské úřady údaje o počtu padlých vojáků nezveřejňují. Analýza uniklých statistik, kterou provedla BBC, však ukazuje, že válka na Ukrajině si mohla vyžádat životy téměř půl milionu mužů bojujících za Rusko.",
+      "id": "757ce69c759e36cf6949db520d71ed89a881b37a",
+      "fingerprint": "fd526b760aef10eb7abb49fb481f3594e7422620",
+      "title_en": "Russian casualties may be as high as half a million, the extent of losses revealed by leaked data",
+      "lead_en": "The Russian authorities do not disclose the number of soldiers killed. However, a BBC analysis of leaked statistics shows that the war in Ukraine may have claimed the lives of nearly half a million men fighting for Russia.",
+      "translation_status": "review_required",
+      "translation_version": 3,
+      "translation_attempts": 2,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
+      "translation_error": null,
+      "translation_warnings": [
+        "title_1:fatalities_translated_as_casualties"
+      ],
+      "translated_at_utc": "2026-11-25T13:44:41Z",
+      "collected_at_utc": "2026-11-25T12:34:19Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces",
+          "war"
+        ],
+        "energy": [],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 3,
+      "sentence_counts": {
+        "title": 1,
+        "lead": 2
+      },
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 3
+          },
+          {
+            "concept": "war",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "previous_translation": {
+        "title_en": "Russian casualties may be as high as half a million, the extent of losses revealed by leaked data",
+        "lead_en": "The Russian authorities do not disclose the number of soldiers killed. However, a BBC analysis of leaked statistics shows that the war in Ukraine may have claimed the lives of nearly half a million men fighting for Russia.",
+        "translation_version": 2
+      },
+      "named_entities": []
+    },
+    {
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/domaci/jana-cernochova-kopecny-ukrajina-ministerstvo-obrany-agenda-spor.A261125_110037_domaci_ikro",
+      "published_utc": "2026-11-25T11:25:00Z",
+      "title_raw": "Kopečný? Nejslabší manažer, jeho úkoly museli plnit jiní, vrací úder Černochová",
+      "lead_raw": "Bývalá ministryně obrany Jana Černochová (ODS) se ostře ohradila proti kritice někdejšího náměstka Tomáše Kopečného. Označila ho za nejslabšího z vrcholných manažerů, které na ministerstvu „zdědila“.",
+      "id": "f82d902ba14e6879229f821d347d9d3ac3e77d3d",
+      "fingerprint": "c448c4af9dedf525e48b7d7be2384175fca06b99",
+      "title_en": "What's that? The weakest manager, his duties had to be performed by others, returns the blow Černochová",
+      "lead_en": "Former Minister of Defence Jana Černochová (ODS) took a strong stand against the criticism of former deputy Tomáš Kopečný. She called him the weakest of the top managers she'd inherited from the department.",
+      "translation_status": "review_required",
+      "translation_version": 3,
+      "translation_attempts": 2,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
+      "translation_error": null,
+      "translation_warnings": [
+        "title_1:missing_entity_or_term:Kopečný",
+        "title_1:missing_protected_placeholders"
+      ],
+      "translated_at_utc": "2026-11-25T13:44:41Z",
+      "collected_at_utc": "2026-11-25T12:34:20Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0,
+        "domestic_politics": 6,
+        "foreign_affairs": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [
+          "government",
+          "political_parties",
+          "leadership"
+        ],
+        "foreign_affairs": []
+      },
+      "topics": [
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 3,
+      "sentence_counts": {
+        "title": 2,
+        "lead": 2
+      },
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 3
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 1
+          }
+        ],
+        "foreign_affairs": []
+      },
+      "previous_translation": {
+        "title_en": "Hiccuped? The weakest manager, his duties had to be performed by others, returns the blow Blackhead",
+        "lead_en": "Former Minister of Defence Jana Černochová (ODS) sharply opposed the criticism of former deputy Tomáš Kopecký. She called him the weakest of the top managers she'd inherited from the department.",
+        "translation_version": 2
+      },
+      "named_entities": []
+    },
+    {
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/schvalovani-genocidy-nema-byt-podle-rajchla-trestne-okamura-tvrdi-ze-navrh-ma_2611251220_mst",
+      "published_utc": "2026-11-25T11:20:00Z",
+      "title_raw": "Schvalování genocidy nemá být podle Rajchla trestné. Okamura tvrdí, že návrh má podporu v koalici",
+      "lead_raw": "Poslanec Jindřich Rajchl (PRO, zvolen za SPD) chystá novelizaci paragrafu trestního zákoníku, který zakazuje schvalování či zlehčování genocidy. Za tento trestný čin momentálně hrozí až tři roky vězení.",
+      "id": "b6a8d0dc25f7c17a55335d3a26714b808d75560b",
+      "fingerprint": "67ab033d2c6bb2f4c2ee5a0c45c8f8a256677bb1",
+      "title_en": "In Reichl's opinion, approval of genocide should not be a crime. Okamura claims that the proposal has support in the coalition",
+      "lead_en": "MEP Jindřich Rajchl (PRO, elected for SPD) is preparing to amend a section of the criminal code that prohibits the approval or mitigation of genocide. This offense currently carries a prison sentence of up to three years.",
+      "translation_status": "review_required",
+      "translation_version": 3,
+      "translation_attempts": 2,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
+      "translation_error": null,
+      "translation_warnings": [
+        "lead_1:possible_parliament_error"
+      ],
+      "translated_at_utc": "2026-11-25T13:46:11Z",
+      "collected_at_utc": "2026-11-25T12:34:15Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0,
+        "domestic_politics": 15,
+        "foreign_affairs": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [
+          "parliament",
+          "coalition",
+          "political_parties"
+        ],
+        "foreign_affairs": []
+      },
+      "topics": [
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 3,
+      "sentence_counts": {
+        "title": 2,
+        "lead": 2
+      },
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 3
+          },
+          {
+            "concept": "coalition",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          },
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "foreign_affairs": []
+      },
+      "previous_translation": {
+        "title_en": "In Reichl's opinion, approval of genocide should not be a crime. Okamura claims that the proposal has support in the coalition",
+        "lead_en": "MEP Jindřich Rajchl (PRO, elected for SPD) is preparing to amend a section of the criminal code that prohibits the approval or mitigation of genocide. This offense currently carries a prison sentence of up to three years.",
+        "translation_version": 2
+      },
+      "named_entities": []
+    },
+    {
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/domaci/zdrazeni-vody-zvyseni-poplatku-za-cerpani-podzemni-vody.A261125_095321_domaci_kop",
+      "published_utc": "2026-11-25T10:41:00Z",
+      "title_raw": "Poslanci schválili změnu zákona, který zdraží poplatky za vodu",
+      "lead_raw": "Poslanci schválili novelu zákona o rostlinolékařské péči, která bude v důsledku znamenat zdražení vody. Prošel totiž pozměňovací návrh poslance za ANO Karla Turečka, který zvyšuje poplatky za čerpání podzemní vody.",
+      "id": "a5248e1df63064f2b10611d358a8c26a1565b543",
+      "fingerprint": "c7b3b7247c3e28c80169064a79d043bc2b5f66af",
+      "title_en": "MEPs approved an amendment to the law raising water bills",
+      "lead_en": "MEPs approved an amendment to the Plant Health Act, which will result in higher water prices. It passed an amendment by ANO MP Karel Tureczek, which increases groundwater charges.",
+      "translation_status": "review_required",
+      "translation_version": 3,
+      "translation_attempts": 2,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
+      "translation_error": null,
+      "translation_warnings": [
+        "lead_1:possible_parliament_error",
+        "title_1:possible_parliament_error"
+      ],
+      "translated_at_utc": "2026-11-25T13:47:19Z",
+      "collected_at_utc": "2026-11-25T12:34:20Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0,
+        "domestic_politics": 15,
+        "foreign_affairs": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [
+          "parliament",
+          "political_parties",
+          "legislation"
+        ],
+        "foreign_affairs": []
+      },
+      "topics": [
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 3,
+      "sentence_counts": {
+        "title": 1,
+        "lead": 2
+      },
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 3
+          },
+          {
+            "concept": "legislation",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "foreign_affairs": []
+      },
+      "previous_translation": {
+        "title_en": "MEPs approved an amendment to the law raising water bills",
+        "lead_en": "MEPs approved an amendment to the Plant Health Act, which will result in higher water prices. It passed an amendment by ANO MP Karel Tureczek, which increases groundwater charges.",
+        "translation_version": 2
+      },
+      "named_entities": []
+    },
+    {
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/vetsina-teplaren-pristi-rok-zvysi-ceny-nejvice-zdrazi-teplo-z-plynu/2906358",
+      "published_utc": "2026-11-25T08:37:00Z",
+      "title_raw": "Většina tepláren příští rok zvýší ceny, nejvíce zdraží teplo z plynu",
+      "lead_raw": "Praha - Většina tepláren v Česku v příštím roce zvýší ceny dodávaného tepla. Nejvíce zdraží teplo produkované z plynu, oproti letošku to bude o 15 až 20 procent.",
+      "id": "c2bb08614896e3f33a635f9957392ea043b794b7",
+      "fingerprint": "d00dab5ad51f77b4efc523d1062bccf74d3d5ed3",
+      "title_en": "Most boilers will raise prices next year, most will raise gas heating.",
+      "lead_en": "Prague - Most thermal power stations in the Czech Republic will raise the price of supplied heat next year. The most expensive heat produced from gas will be 15 to 20 percent higher than this year.",
+      "translation_status": "review_required",
+      "translation_version": 3,
+      "translation_attempts": 2,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
+      "translation_error": null,
+      "translation_warnings": [
+        "title_1:incorrect_energy_term"
+      ],
+      "translated_at_utc": "2026-11-25T13:47:36Z",
+      "collected_at_utc": "2026-11-25T12:34:16Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 3,
+        "local_events": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "district_heating"
+        ],
+        "economy": [
+          "prices"
+        ],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 3,
+      "sentence_counts": {
+        "title": 1,
+        "lead": 2
+      },
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "district_heating",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [
+          {
+            "concept": "prices",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "previous_translation": {
+        "title_en": "Most boilers will raise prices next year, most will raise gas heating.",
+        "lead_en": "Prague - Most thermal power stations in the Czech Republic will raise the price of supplied heat next year. The most expensive heat produced from gas will be 15 to 20 percent higher than this year.",
+        "translation_version": 2
+      },
+      "named_entities": []
+    },
+    {
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/poslanci-zacali-druhe-cteni-rozpoctu-predlozili-uz-asi-130-navrhu-zmen/2904989",
+      "published_utc": "2026-11-25T08:03:00Z",
+      "title_raw": "Poslanci začali druhé čtení rozpočtu, předložili už asi 130 návrhů změn",
+      "lead_raw": "Praha - Poslanci začali dnes krátce po poledni ve druhém čtení probírat návrh rozpočtu na příští rok. Mohou přednášet své návrhy na přesuny peněz uvnitř rozpočtu, protože po prvním čtení už základní údaje...",
+      "id": "91c2d53beeec64699e72049d2f94300fde1e3b60",
+      "fingerprint": "18d59504cbfc2909b612a79d044e6d4cd7263a0a",
+      "title_en": "MEPs have started the second reading of the budget, and have already tabled some 130 amendments.",
+      "lead_en": "MEPs voted in favour of the Commission's proposal for a directive on the protection of workers from the risks related to exposure to ionising radiation. They can put forward their proposals for the transfer of money within the budget, because after the first reading, the basic data...",
+      "translation_status": "review_required",
+      "translation_version": 3,
+      "classification_version": 3,
+      "validation_version": 3,
+      "ner_version": 0,
+      "translation_attempts": 1,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
+      "translation_error": null,
+      "translation_warnings": [
+        "lead_1:possible_parliament_error",
+        "title_1:possible_parliament_error"
+      ],
+      "named_entities": [],
+      "collected_at_utc": "2026-11-25T13:31:51Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "local_events": 0,
+        "domestic_politics": 9,
+        "foreign_affairs": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "generic_budget"
+        ],
+        "local_events": [],
+        "domestic_politics": [
+          "parliament"
+        ],
+        "foreign_affairs": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "local_events": [],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": []
+      },
+      "topics": [
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "translated_at_utc": "2026-11-25T13:35:33Z",
+      "sentence_counts": {
+        "title": 1,
+        "lead": 2
+      }
+    },
+    {
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/poslance-ceka-dalsi-debata-o-navrhu-rozpoctu-budou-navrhovat-presuny-penez-379923",
+      "published_utc": "2026-11-25T02:25:00Z",
+      "title_raw": "Sněmovna jedná o státním rozpočtu",
+      "lead_raw": "Poslanci projednávají ve druhém čtení státní rozpočet na příští rok, v němž mohou přednášet návrhy na přesuny peněz uvnitř rozpočtu. Ve 13:00 jednání na hodinu přerušili.",
+      "id": "823a8b55de3c7151c34ad2704fbf6afc1fdb6dd7",
+      "fingerprint": "749397f103e573b112395e985662b1919f78d72f",
+      "title_en": "The Chamber of Deputies deals with the state budget",
+      "lead_en": "MEPs debate the state budget for the following year at second reading, during which they can make proposals for transfers of money within the budget. At 1:00 p.m., the meeting was adjourned for an hour.",
+      "translation_status": "review_required",
+      "translation_version": 3,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
+      "translation_error": null,
+      "translation_warnings": [
+        "lead_1:possible_parliament_error",
+        "lead_2:missing_numbers:13",
+        "lead_2:unexpected_numbers:1"
+      ],
+      "translated_at_utc": "2026-11-25T13:37:23Z",
+      "collected_at_utc": "2026-11-25T12:34:17Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 12,
+        "local_events": 0,
+        "domestic_politics": 9,
+        "foreign_affairs": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "government_budget",
+          "generic_budget"
+        ],
+        "local_events": [],
+        "domestic_politics": [
+          "parliament"
+        ],
+        "foreign_affairs": []
+      },
+      "topics": [
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 3,
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "government_budget",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "local_events": [],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": []
+      },
+      "named_entities": [],
+      "sentence_counts": {
+        "title": 1,
+        "lead": 2
+      }
+    },
+    {
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/zive-tk-babise-pred-odletem-do-bruselu-na-summit-eu/2906281",
+      "published_utc": "2026-11-24T23:59:00Z",
+      "title_raw": "ŽIVĚ: TK Babiše před odletem do Bruselu na summit EU",
+      "lead_raw": "Praha - ČTK bude od 17:30 vysílat komentář předsedy vlády Andreje Babiše (ANO) před odletem do Bruselu na dvoudenní mimořádný summit EU, který se bude věnovat budoucímu dlouholetému rozpočtu Evropské...",
+      "id": "d38d83fd539b8af03a508b17ca7c81ad764bdfa1",
+      "fingerprint": "a491c4389f087f7e2589873abcd0eb8c281ecdd8",
+      "title_en": "press conference Babiš before flying to Brussels for the EU summit",
+      "lead_en": "Prague - The Czech News Agency will broadcast Prime Minister Andrej Babiš' (ANO) remarks before he leaves for Brussels for a two-day extraordinary EU summit on the future long-term budget of the European Union.",
+      "translation_status": "review_required",
+      "translation_version": 3,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
+      "translation_error": null,
+      "translation_warnings": [
+        "lead_1:missing_numbers:17,3E+1"
+      ],
+      "translated_at_utc": "2026-11-25T13:37:23Z",
+      "collected_at_utc": "2026-11-25T12:34:16Z",
+      "topic_scores": {
+        "diplomacy": 9,
+        "military": 0,
+        "energy": 0,
+        "economy": 1,
+        "local_events": 0,
+        "domestic_politics": 5,
+        "foreign_affairs": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "summit"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "generic_budget"
+        ],
+        "local_events": [],
+        "domestic_politics": [
+          "government",
+          "political_parties"
+        ],
+        "foreign_affairs": []
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "relevant": true,
+      "primary_topic": "diplomacy",
+      "classification_version": 3,
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "summit",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 1
+          }
+        ],
+        "local_events": [],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "foreign_affairs": []
+      },
+      "named_entities": [],
+      "sentence_counts": {
+        "title": 1,
+        "lead": 1
+      }
+    }
+  ]
+}

@@ -1,10 +1,117 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T12:46:18Z",
+  "updated_at_utc": "2026-11-25T13:47:36Z",
   "topic": "military",
-  "count": 12,
+  "count": 14,
   "articles": [
+    {
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/pri-ruskem-utoku-v-kyjevske-oblasti-zahynul-muz-v-rusku-hori-rafinerie.A261125_070149_zahranicni_tmps",
+      "published_utc": "2026-11-25T12:31:00Z",
+      "title_raw": "Ukrajinci zaútočili na dvě rafinerie v Samarské oblasti, vypukly velké požáry",
+      "lead_raw": "Ruské útoky ve městě Bila Cerkva a v Charkovské oblasti si vyžádaly dva mrtvé. Pět oblastí Ukrajiny se potýká s výpadky dodávek elektrické energie, uvedly ukrajinské úřady.",
+      "id": "b8a1e02452b48b0c43dc30c410ca61dc65b5c7d4",
+      "fingerprint": "5392be5ecf9e6803f1d272c44f1c6d10d721b0a1",
+      "title_en": "Ukrainians attacked two refineries in the Samara region, large fires broke out",
+      "lead_en": "Russian attacks in the city of Bila Tserkva and the Kharkiv region claimed two lives. Five regions of Ukraine are experiencing power outages, according to Ukrainian authorities.",
+      "translation_status": "completed",
+      "translation_version": 3,
+      "translation_attempts": 2,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T13:42:54Z",
+      "collected_at_utc": "2026-11-25T12:34:20Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 9,
+        "energy": 10,
+        "economy": 0,
+        "local_events": 9,
+        "domestic_politics": 0,
+        "foreign_affairs": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "conflict_attacks"
+        ],
+        "energy": [
+          "oil_gas",
+          "generic_energy"
+        ],
+        "economy": [],
+        "local_events": [
+          "fire"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 3,
+      "sentence_counts": {
+        "title": 1,
+        "lead": 2
+      },
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "conflict_attacks",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [
+          {
+            "concept": "oil_gas",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          },
+          {
+            "concept": "generic_energy",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 1
+          }
+        ],
+        "economy": [],
+        "local_events": [
+          {
+            "concept": "fire",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "previous_translation": {
+        "title_en": "Ukrainians attacked two refineries in the Samara region, large fires broke out",
+        "lead_en": "Russian attacks in the town of Bila Churchva and the Kharkiv region claimed two lives. Five regions of Ukraine are experiencing power outages, according to Ukrainian authorities.",
+        "translation_version": 2
+      },
+      "named_entities": []
+    },
     {
       "source": "Seznam Zprávy",
       "source_language": "cs",
@@ -17,43 +124,71 @@
       "title_en": "Slovakia to buy weapons from Italy, offers from Colt CZ Group failed",
       "lead_en": "The Italian company Beretta will supply the Slovak police with thousands of assault rifles and submachine guns for almost 17 million euros excluding VAT. Two companies from the Czech Colt CZ Group were unsuccessful in the tendering procedure.",
       "translation_status": "completed",
-      "translation_version": 2,
-      "translation_attempts": 1,
+      "translation_version": 3,
+      "translation_attempts": 2,
       "translation_provider": "facebook/nllb-200-distilled-1.3B",
-      "translation_method": "sentence_by_sentence",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
       "translation_error": null,
       "translation_warnings": [],
-      "translated_at_utc": "2026-11-25T12:36:02Z",
+      "translated_at_utc": "2026-11-25T13:42:54Z",
       "collected_at_utc": "2026-11-25T12:34:19Z",
       "topic_scores": {
         "diplomacy": 0,
-        "military": 2,
+        "military": 9,
         "energy": 0,
         "economy": 0,
         "local_events": 0,
-        "domestic_politics": 0
+        "domestic_politics": 0,
+        "foreign_affairs": 0
       },
       "matched_keywords": {
         "diplomacy": [],
         "military": [
-          "weapons",
-          "zbran*"
+          "weapons"
         ],
         "energy": [],
         "economy": [],
         "local_events": [],
-        "domestic_politics": []
+        "domestic_politics": [],
+        "foreign_affairs": []
       },
       "topics": [
         "military"
       ],
       "relevant": true,
       "primary_topic": "military",
-      "classification_version": 2,
+      "classification_version": 3,
       "sentence_counts": {
         "title": 1,
         "lead": 2
-      }
+      },
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "weapons",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "previous_translation": {
+        "title_en": "Slovakia to buy weapons from Italy, offers from Colt CZ Group failed",
+        "lead_en": "The Italian company Beretta will supply the Slovak police with thousands of assault rifles and submachine guns for almost 17 million euros excluding VAT. Two companies from the Czech Colt CZ Group were unsuccessful in the tendering procedure.",
+        "translation_version": 2
+      },
+      "named_entities": []
     },
     {
       "source": "iDNES.cz",
@@ -67,102 +202,101 @@
       "title_en": "There is no war in Lviv, said Fico. Five days ago, the Russians were killing",
       "lead_en": "Slovak Prime Minister Robert Fico has stated that there is no war in Lviv in western Ukraine. He said this in Parliament during the European Affairs Committee meeting on Wednesday ahead of an extraordinary European Council meeting.",
       "translation_status": "completed",
-      "translation_version": 2,
-      "translation_attempts": 1,
+      "translation_version": 3,
+      "translation_attempts": 2,
       "translation_provider": "facebook/nllb-200-distilled-1.3B",
-      "translation_method": "sentence_by_sentence",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
       "translation_error": null,
       "translation_warnings": [],
-      "translated_at_utc": "2026-11-25T12:37:49Z",
+      "translated_at_utc": "2026-11-25T13:42:54Z",
       "collected_at_utc": "2026-11-25T12:34:20Z",
       "topic_scores": {
-        "diplomacy": 1,
-        "military": 2,
+        "diplomacy": 2,
+        "military": 9,
         "energy": 0,
         "economy": 0,
         "local_events": 0,
-        "domestic_politics": 2
+        "domestic_politics": 1,
+        "foreign_affairs": 2
       },
       "matched_keywords": {
         "diplomacy": [
-          "European Council"
+          "international_institutions"
         ],
         "military": [
-          "válk*",
           "war"
         ],
         "energy": [],
         "economy": [],
         "local_events": [],
         "domestic_politics": [
-          "parlament*",
-          "premiér*"
-        ]
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "domestic_politics"
-      ],
-      "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 2,
-      "sentence_counts": {
-        "title": 2,
-        "lead": 2
-      }
-    },
-    {
-      "source": "Seznam Zprávy",
-      "source_language": "cs",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-padlych-rusu-muze-byt-az-pul-milionu-rozsah-ztrat-odhaluji-unikla-data-321477",
-      "published_utc": "2026-11-25T11:40:00Z",
-      "title_raw": "Padlých Rusů může být až půl milionu, rozsah ztrát odhalují uniklá data",
-      "lead_raw": "Ruské úřady údaje o počtu padlých vojáků nezveřejňují. Analýza uniklých statistik, kterou provedla BBC, však ukazuje, že válka na Ukrajině si mohla vyžádat životy téměř půl milionu mužů bojujících za Rusko.",
-      "id": "757ce69c759e36cf6949db520d71ed89a881b37a",
-      "fingerprint": "fd526b760aef10eb7abb49fb481f3594e7422620",
-      "title_en": "Russian casualties may be as high as half a million, the extent of losses revealed by leaked data",
-      "lead_en": "The Russian authorities do not disclose the number of soldiers killed. However, a BBC analysis of leaked statistics shows that the war in Ukraine may have claimed the lives of nearly half a million men fighting for Russia.",
-      "translation_status": "completed",
-      "translation_version": 2,
-      "translation_attempts": 1,
-      "translation_provider": "facebook/nllb-200-distilled-1.3B",
-      "translation_method": "sentence_by_sentence",
-      "translation_error": null,
-      "translation_warnings": [],
-      "translated_at_utc": "2026-11-25T12:39:13Z",
-      "collected_at_utc": "2026-11-25T12:34:19Z",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 4,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0,
-        "domestic_politics": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "soldiers",
-          "voják*",
-          "válk*",
-          "war"
+          "leadership"
         ],
-        "energy": [],
-        "economy": [],
-        "local_events": [],
-        "domestic_politics": []
+        "foreign_affairs": [
+          "foreign_government"
+        ]
       },
       "topics": [
         "military"
       ],
       "relevant": true,
       "primary_topic": "military",
-      "classification_version": 2,
+      "classification_version": 3,
       "sentence_counts": {
-        "title": 1,
+        "title": 2,
         "lead": 2
-      }
+      },
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_institutions",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "military": [
+          {
+            "concept": "war",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 1
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "foreign_government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ]
+      },
+      "previous_translation": {
+        "title_en": "There is no war in Lviv, said Fico. Five days ago, the Russians were killing",
+        "lead_en": "Slovak Prime Minister Robert Fico has stated that there is no war in Lviv in western Ukraine. He said this in Parliament during the European Affairs Committee meeting on Wednesday ahead of an extraordinary European Council meeting.",
+        "translation_version": 2
+      },
+      "named_entities": []
     },
     {
       "source": "iDNES.cz",
@@ -176,47 +310,87 @@
       "title_en": "Virtual city, desert and forest. Czech soldiers have a new combat simulator",
       "lead_en": "Up to a dozen guns at a time, but no real ammo. Any environment, any combat situation, still literally in the same room.",
       "translation_status": "completed",
-      "translation_version": 2,
-      "translation_attempts": 1,
+      "translation_version": 3,
+      "translation_attempts": 2,
       "translation_provider": "facebook/nllb-200-distilled-1.3B",
-      "translation_method": "sentence_by_sentence",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
       "translation_error": null,
       "translation_warnings": [],
-      "translated_at_utc": "2026-11-25T12:40:46Z",
+      "translated_at_utc": "2026-11-25T13:46:11Z",
       "collected_at_utc": "2026-11-25T12:34:20Z",
       "topic_scores": {
         "diplomacy": 0,
-        "military": 6,
+        "military": 21,
         "energy": 0,
         "economy": 0,
         "local_events": 0,
-        "domestic_politics": 0
+        "domestic_politics": 0,
+        "foreign_affairs": 0
       },
       "matched_keywords": {
         "diplomacy": [],
         "military": [
-          "bojov*",
-          "combat",
-          "munic*",
-          "soldiers",
-          "vojác*",
-          "zbran*"
+          "armed_forces",
+          "weapons",
+          "combat"
         ],
         "energy": [],
         "economy": [],
         "local_events": [],
-        "domestic_politics": []
+        "domestic_politics": [],
+        "foreign_affairs": []
       },
       "topics": [
         "military"
       ],
       "relevant": true,
       "primary_topic": "military",
-      "classification_version": 2,
+      "classification_version": 3,
       "sentence_counts": {
         "title": 2,
         "lead": 2
-      }
+      },
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          },
+          {
+            "concept": "weapons",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 3
+          },
+          {
+            "concept": "combat",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "previous_translation": {
+        "title_en": "Virtual city, desert and forest. Czech soldiers have a new combat simulator",
+        "lead_en": "Up to a dozen guns at a time, but no real ammo. Any environment, any combat situation, still literally in the same room.",
+        "translation_version": 2
+      },
+      "named_entities": []
     },
     {
       "source": "Novinky",
@@ -227,103 +401,103 @@
       "lead_raw": "Polský ministr zahraničí Radosław Sikorski zvažuje vyhoštění ruského velvyslance v Polsku Georgije Michna. Řekl to v rozhovoru pro polskou stanici Polskie Radio v reakci na tři ruské střely Ch-101, které dopadly a explodovaly na polském území.",
       "id": "09bb7d9c13fe76c782a88f3f0e12f0f2609579a1",
       "fingerprint": "02047692b77977d745f2aeaeb858f80de658ae67",
-      "title_en": "Sikorski is considering expelling the Russian ambassador. Calls for a missile strike over Ukraine",
+      "title_en": "Sikorski is considering expelling the Russian ambassador. This is shooting down missiles over Ukraine.",
       "lead_en": "Polish Foreign Minister Radosław Sikorski is considering the expulsion of Russian Ambassador to Poland Georgi Michn. He said this in an interview with Polskie Radio in response to three Russian Ch-101 missiles that landed and exploded on Polish territory.",
       "translation_status": "completed",
-      "translation_version": 2,
-      "translation_attempts": 1,
+      "translation_version": 3,
+      "translation_attempts": 2,
       "translation_provider": "facebook/nllb-200-distilled-1.3B",
-      "translation_method": "sentence_by_sentence",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
       "translation_error": null,
       "translation_warnings": [],
-      "translated_at_utc": "2026-11-25T12:42:05Z",
+      "translated_at_utc": "2026-11-25T13:46:11Z",
       "collected_at_utc": "2026-11-25T12:34:18Z",
       "topic_scores": {
-        "diplomacy": 3,
-        "military": 3,
+        "diplomacy": 9,
+        "military": 18,
         "energy": 0,
         "economy": 0,
         "local_events": 0,
-        "domestic_politics": 1
+        "domestic_politics": 1,
+        "foreign_affairs": 0
       },
       "matched_keywords": {
         "diplomacy": [
-          "ambassador",
-          "foreign minister",
-          "velvyslan*"
+          "ambassador"
         ],
         "military": [
-          "missile",
           "missiles",
-          "raket*"
+          "air_defense"
         ],
         "energy": [],
         "economy": [],
         "local_events": [],
         "domestic_politics": [
-          "ministr*"
-        ]
+          "leadership"
+        ],
+        "foreign_affairs": []
       },
       "topics": [
         "diplomacy",
         "military"
       ],
       "relevant": true,
-      "primary_topic": "diplomacy",
-      "classification_version": 2,
+      "primary_topic": "military",
+      "classification_version": 3,
       "sentence_counts": {
         "title": 2,
         "lead": 2
-      }
-    },
-    {
-      "source": "Novinky",
-      "source_language": "cs",
-      "url": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-izraelci-behem-dvou-dnu-zlikvidovali-dva-predni-predstavitele-hamasu-40610408",
-      "published_utc": "2026-11-25T10:53:23Z",
-      "title_raw": "Izraelci během dvou dnů zlikvidovali dva přední představitele Hamásu",
-      "lead_raw": "Izraelská armáda během dvou dnů zlikvidovala dva přední představitele vnitřní bezpečnostní služby teroristického hnutí Hamás. Ve středu při izraelském náletu zemřel plukovník této služby Muhammad Abú al-Auf.",
-      "id": "56dfe0b07396e3280d5c6dec11cbfea60c4c0814",
-      "fingerprint": "ce6ed67748f24b044dcf4be8fd21d10598a70c22",
-      "title_en": "The Israelis eliminated two prominent Hamas leaders in two days.",
-      "lead_en": "In two days, the Israeli army eliminated two top officials of the internal security service of the Hamas terrorist movement. Colonel Muhammad Abu al-Auf was killed in an Israeli airstrike on Wednesday.",
-      "translation_status": "completed",
-      "translation_version": 2,
-      "translation_attempts": 1,
-      "translation_provider": "facebook/nllb-200-distilled-1.3B",
-      "translation_method": "sentence_by_sentence",
-      "translation_error": null,
-      "translation_warnings": [],
-      "translated_at_utc": "2026-11-25T12:42:05Z",
-      "collected_at_utc": "2026-11-25T12:34:18Z",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0,
-        "domestic_politics": 0
       },
-      "matched_keywords": {
-        "diplomacy": [],
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "ambassador",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
         "military": [
-          "armád*"
+          {
+            "concept": "missiles",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          },
+          {
+            "concept": "air_defense",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
         ],
         "energy": [],
         "economy": [],
         "local_events": [],
-        "domestic_politics": []
+        "domestic_politics": [
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 1
+          }
+        ],
+        "foreign_affairs": []
       },
-      "topics": [
-        "military"
-      ],
-      "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 2,
-      "sentence_counts": {
-        "title": 1,
-        "lead": 2
-      }
+      "previous_translation": {
+        "title_en": "Sikorski is considering expelling the Russian ambassador. Calls for a missile strike over Ukraine",
+        "lead_en": "Polish Foreign Minister Radosław Sikorski is considering the expulsion of Russian Ambassador to Poland Georgi Michn. He said this in an interview with Polskie Radio in response to three Russian Ch-101 missiles that landed and exploded on Polish territory.",
+        "translation_version": 2
+      },
+      "named_entities": []
     },
     {
       "source": "Novinky",
@@ -337,98 +511,101 @@
       "title_en": "Slovakia will buy weapons from Italy",
       "lead_en": "The Slovak government today approved the purchase of 3,300 assault rifles, 2,100 submachine guns and related police equipment from the Italian company Beretta. The value of the contract is EUR 16,77 million (CZK 410 million) excluding value added tax.",
       "translation_status": "completed",
-      "translation_version": 2,
-      "translation_attempts": 1,
+      "translation_version": 3,
+      "translation_attempts": 2,
       "translation_provider": "facebook/nllb-200-distilled-1.3B",
-      "translation_method": "sentence_by_sentence",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
       "translation_error": null,
       "translation_warnings": [],
-      "translated_at_utc": "2026-11-25T12:43:46Z",
+      "translated_at_utc": "2026-11-25T13:47:19Z",
       "collected_at_utc": "2026-11-25T12:34:18Z",
       "topic_scores": {
         "diplomacy": 0,
-        "military": 2,
+        "military": 9,
         "energy": 0,
-        "economy": 2,
+        "economy": 1,
         "local_events": 0,
-        "domestic_politics": 1
+        "domestic_politics": 2,
+        "foreign_affairs": 2
       },
       "matched_keywords": {
         "diplomacy": [],
         "military": [
-          "weapons",
-          "zbran*"
+          "weapons"
         ],
         "energy": [],
         "economy": [
-          "korun*",
-          "tax"
+          "currency"
         ],
         "local_events": [],
         "domestic_politics": [
-          "vlád*"
-        ]
-      },
-      "topics": [
-        "military",
-        "economy"
-      ],
-      "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 2,
-      "sentence_counts": {
-        "title": 1,
-        "lead": 2
-      }
-    },
-    {
-      "source": "Novinky",
-      "source_language": "cs",
-      "url": "https://www.novinky.cz/clanek/veda-skoly-pratelstvi-pakistanu-a-ciny-prekonava-vysky-himalaje-nebesky-palac-ma-mezinarodni-posadku-40610392",
-      "published_utc": "2026-11-25T10:34:17Z",
-      "title_raw": "„Přátelství Pákistánu a Číny překonává výšky Himálaje.“ Nebeský palác má mezinárodní posádku",
-      "lead_raw": "Kosmická loď Šen-čou 24 se třemi astronauty, která ve středu v 1:18 SEČ odstartovala z kosmodromu Ťiou-čchüan v severozápadní Číně, se podle agentury Kjódó asi 10 minut poté zdárně oddělila od nosné rakety a po zhruba 3,5 hodinách se připojila k čínské orbitální stanici. Mise se kromě Číňanů poprvé účastní i cizinec, a to z Pákistánu, který bude ve vesmíru několik dní.",
-      "id": "c72eff7d78121e2393f7230619618002442c5978",
-      "fingerprint": "641f69720bff1b99a17a47ff66189fb2aa4537ee",
-      "title_en": "Pakistan-China friendship transcends the heights of the Himalayas. Heavenly Palace has an international crew",
-      "lead_en": "The Shenzhou 24 spacecraft, carrying three astronauts, took off at 1:18 a.m. on Wednesday from the Jiachuan Cosmodrome in northwestern China, separated successfully from the launch vehicle about 10 minutes later, according to the Kyodo news agency, and re-joined the Chinese space station about 3.5 hours later. In addition to the Chinese, this is the first time a foreigner from Pakistan will be in space for several days.",
-      "translation_status": "completed",
-      "translation_version": 2,
-      "translation_attempts": 1,
-      "translation_provider": "facebook/nllb-200-distilled-1.3B",
-      "translation_method": "sentence_by_sentence",
-      "translation_error": null,
-      "translation_warnings": [],
-      "translated_at_utc": "2026-11-25T12:43:46Z",
-      "collected_at_utc": "2026-11-25T12:34:18Z",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 1,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 0,
-        "domestic_politics": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "raket*"
+          "government"
         ],
-        "energy": [],
-        "economy": [],
-        "local_events": [],
-        "domestic_politics": []
+        "foreign_affairs": [
+          "foreign_government"
+        ]
       },
       "topics": [
         "military"
       ],
       "relevant": true,
       "primary_topic": "military",
-      "classification_version": 2,
+      "classification_version": 3,
       "sentence_counts": {
         "title": 1,
         "lead": 2
-      }
+      },
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "weapons",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 1
+          }
+        ],
+        "local_events": [],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "foreign_government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ]
+      },
+      "previous_translation": {
+        "title_en": "Slovakia will buy weapons from Italy",
+        "lead_en": "The Slovak government today approved the purchase of 3,300 assault rifles, 2,100 submachine guns and related police equipment from the Italian company Beretta. The value of the contract is EUR 16,77 million (CZK 410 million) excluding value added tax.",
+        "translation_version": 2
+      },
+      "named_entities": []
     },
     {
       "source": "Seznam Zprávy",
@@ -442,54 +619,81 @@
       "title_en": "The U.S. postponed plans for a trade deal with Russia in exchange for ending the war.",
       "lead_en": "The Trump administration has postponed plans to lure Russia to peace in Ukraine with trade deals. Moscow has reportedly shown little interest in energy or aviation projects and continues to insist on territorial concessions from Kiev.",
       "translation_status": "completed",
-      "translation_version": 2,
-      "translation_attempts": 1,
+      "translation_version": 3,
+      "translation_attempts": 2,
       "translation_provider": "facebook/nllb-200-distilled-1.3B",
-      "translation_method": "sentence_by_sentence",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
       "translation_error": null,
       "translation_warnings": [],
-      "translated_at_utc": "2026-11-25T12:45:13Z",
+      "translated_at_utc": "2026-11-25T13:47:19Z",
       "collected_at_utc": "2026-11-25T12:34:19Z",
       "topic_scores": {
         "diplomacy": 0,
-        "military": 3,
-        "energy": 2,
-        "economy": 4,
+        "military": 9,
+        "energy": 1,
+        "economy": 0,
         "local_events": 0,
-        "domestic_politics": 0
+        "domestic_politics": 0,
+        "foreign_affairs": 0
       },
       "matched_keywords": {
         "diplomacy": [],
         "military": [
-          "letectv*",
-          "válk*",
           "war"
         ],
         "energy": [
-          "energet*",
-          "energy"
+          "generic_energy"
         ],
-        "economy": [
-          "obchod*",
-          "trade",
-          "trade deal",
-          "trade deals"
-        ],
+        "economy": [],
         "local_events": [],
-        "domestic_politics": []
+        "domestic_politics": [],
+        "foreign_affairs": []
       },
       "topics": [
-        "military",
-        "energy",
-        "economy"
+        "military"
       ],
       "relevant": true,
-      "primary_topic": "economy",
-      "classification_version": 2,
+      "primary_topic": "military",
+      "classification_version": 3,
       "sentence_counts": {
         "title": 1,
         "lead": 2
-      }
+      },
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "war",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "energy": [
+          {
+            "concept": "generic_energy",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 1
+          }
+        ],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "previous_translation": {
+        "title_en": "The U.S. postponed plans for a trade deal with Russia in exchange for ending the war.",
+        "lead_en": "The Trump administration has postponed plans to lure Russia to peace in Ukraine with trade deals. Moscow has reportedly shown little interest in energy or aviation projects and continues to insist on territorial concessions from Kiev.",
+        "translation_version": 2
+      },
+      "named_entities": []
     },
     {
       "source": "iROZHLAS - Domestic",
@@ -513,38 +717,229 @@
       "collected_at_utc": "2026-11-25T12:34:15Z",
       "topic_scores": {
         "diplomacy": 0,
-        "military": 3,
+        "military": 9,
         "energy": 0,
-        "economy": 4,
+        "economy": 9,
         "local_events": 0,
-        "domestic_politics": 0
+        "domestic_politics": 0,
+        "foreign_affairs": 0
       },
       "matched_keywords": {
         "diplomacy": [],
         "military": [
-          "military",
-          "military aid",
-          "vojensk*"
+          "armed_forces"
         ],
         "energy": [],
         "economy": [
-          "daní*",
-          "daň*",
-          "daňov*",
-          "tax"
+          "taxes"
         ],
         "local_events": [],
-        "domestic_politics": []
+        "domestic_politics": [],
+        "foreign_affairs": []
       },
       "topics": [
         "military",
         "economy"
       ],
       "relevant": true,
-      "primary_topic": "economy",
-      "classification_version": 2,
+      "primary_topic": "military",
+      "classification_version": 3,
       "sentence_counts": {
         "title": 2,
+        "lead": 2
+      },
+      "validation_version": 0,
+      "ner_version": 0,
+      "version_attempts": 0,
+      "attempt_version": 0,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "taxes",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      }
+    },
+    {
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/pri-ruskem-utoku-v-kyjevske-oblasti-zahynul-muz-v-rusku-hori-rafinerie-379928",
+      "published_utc": "2026-11-25T06:49:48Z",
+      "title_raw": "Při ruském útoku v Kyjevské oblasti zahynul muž, v Rusku hoří rafinerie",
+      "lead_raw": "Při ruském útoku zahynul ve městě Bila Cerkva jižně od Kyjeva jeden muž, oznámil náčelník oblastní vojenské správy Tymur Tkačenko s tím, že byla poškozena i budova sloužící komerčním účelům. V ruské Samarské oblasti byl podle tamního gubernátora Vjačeslava Fedoriščeva při dronovém úderu zabit jeden člověk, přičemž útok způsobil výpadek elektrického proudu, píše agentura Reuters s odvoláním na ruská média.",
+      "id": "036d003cc6a7b4c6128e9f56032cc41dcdb47472",
+      "fingerprint": "e8600c3d4102657b8dadde79d067f4331aec85cd",
+      "title_en": "A man was killed in a Russian attack in the Kiev region, a refinery is on fire in Russia.",
+      "lead_en": "A man was killed in a Russian attack in the town of Bila Tserkva south of Kiev, regional military administration chief Tymur Tkachenko said, adding that a commercial building was also damaged. In Russia's Samara region, governor Vyacheslav Fedorishchev said a drone strike killed one person and caused a power outage, Reuters reported, citing Russian media.",
+      "translation_status": "completed",
+      "translation_version": 3,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T13:35:33Z",
+      "collected_at_utc": "2026-11-25T12:34:17Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 12,
+        "energy": 9,
+        "economy": 0,
+        "local_events": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces",
+          "conflict_attacks"
+        ],
+        "energy": [
+          "oil_gas"
+        ],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 3,
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 3
+          },
+          {
+            "concept": "conflict_attacks",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [
+          {
+            "concept": "oil_gas",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "named_entities": [],
+      "sentence_counts": {
+        "title": 1,
+        "lead": 2
+      }
+    },
+    {
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/armada-testuje-na-prerovsku-pozemni-roboty-bude-tam-cvicit-operatory/2905945",
+      "published_utc": "2026-11-24T12:14:00Z",
+      "title_raw": "Armáda testuje na Přerovsku pozemní roboty, bude tam cvičit operátory",
+      "lead_raw": "Lipník nad Bečvou (Přerovsko) - Kolové a pásové roboty či čtyřnohé stroje připomínající psy testuje armáda na polygonu u Lipníka nad Bečvou na Přerovsku. Areál slouží k ověřování schopností pozemních...",
+      "id": "49f4ada9e17275fe51703a86517f2462527c10a9",
+      "fingerprint": "be04477edba21d465fb16c5821a58246620f8d05",
+      "title_en": "The army is testing ground robots on Přerov region, where they will train operators.",
+      "lead_en": "Lipník nad Bečvou (Přerov region) - Wheeled and belted robots or four-legged machines resembling dogs are being tested by the army on the Přerov region at the Lipník nad Bečvou test range. The facility is used to test the capabilities of ground...",
+      "translation_status": "completed",
+      "translation_version": 3,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T13:40:13Z",
+      "collected_at_utc": "2026-11-25T12:34:16Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 9,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces"
+        ],
+        "energy": [],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 3,
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "named_entities": [],
+      "sentence_counts": {
+        "title": 1,
         "lead": 2
       }
     },
@@ -570,28 +965,51 @@
       "collected_at_utc": "2026-11-25T12:34:21Z",
       "topic_scores": {
         "diplomacy": 0,
-        "military": 1,
+        "military": 9,
         "energy": 0,
         "economy": 0,
         "local_events": 0,
-        "domestic_politics": 0
+        "domestic_politics": 0,
+        "foreign_affairs": 0
       },
       "matched_keywords": {
         "diplomacy": [],
         "military": [
-          "troops"
+          "armed_forces"
         ],
         "energy": [],
         "economy": [],
         "local_events": [],
-        "domestic_politics": []
+        "domestic_politics": [],
+        "foreign_affairs": []
       },
       "topics": [
         "military"
       ],
       "relevant": true,
       "primary_topic": "military",
-      "classification_version": 2
+      "classification_version": 3,
+      "validation_version": 0,
+      "ner_version": 0,
+      "version_attempts": 0,
+      "attempt_version": 0,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      }
     },
     {
       "source": "Radio Prague International (EN)",
@@ -615,28 +1033,224 @@
       "collected_at_utc": "2026-11-25T12:34:21Z",
       "topic_scores": {
         "diplomacy": 0,
-        "military": 1,
+        "military": 9,
         "energy": 0,
         "economy": 0,
         "local_events": 0,
-        "domestic_politics": 0
+        "domestic_politics": 0,
+        "foreign_affairs": 0
       },
       "matched_keywords": {
         "diplomacy": [],
         "military": [
-          "defence spending"
+          "defense_spending"
         ],
         "energy": [],
         "economy": [],
         "local_events": [],
-        "domestic_politics": []
+        "domestic_politics": [],
+        "foreign_affairs": []
       },
       "topics": [
         "military"
       ],
       "relevant": true,
       "primary_topic": "military",
-      "classification_version": 2
+      "classification_version": 3,
+      "validation_version": 0,
+      "ner_version": 0,
+      "version_attempts": 0,
+      "attempt_version": 0,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "defense_spending",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      }
+    },
+    {
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/ceska-zbrojovka-zahajila-dodavky-novych-sluzebnich-pistoli-pro-nemeckou-armadu/2905812",
+      "published_utc": "2026-11-24T09:08:00Z",
+      "title_raw": "Česká zbrojovka zahájila dodávky nových služebních pistolí pro německou armádu",
+      "lead_raw": "Uherský Brod (Uherskohradišťsko) - Společnost Česká zbrojovka z Uherského Brodu na Uherskohradišťsku zahájila dodávky nových služebních pistolí pro německou armádu. První pistole CZ P13 již Bundeswehr...",
+      "id": "a3b8a4264fe181a596f84d326f17e8887670fcaa",
+      "fingerprint": "73c32318d444b67b80c7407d1c3ebdcc06808e71",
+      "title_en": "The Czech armaments company has begun supplying new service pistols to the German army",
+      "lead_en": "Uherský Brod (Uherskohradiště) - The company Česká zbrojovka from Uherský Brod in Uherskohradiště has started the supply of new service pistols for the German army. The first pistol CZ P13 already Bundeswehr...",
+      "translation_status": "completed",
+      "translation_version": 3,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T13:40:13Z",
+      "collected_at_utc": "2026-11-25T12:34:16Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 18,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces",
+          "defense_industry"
+        ],
+        "energy": [],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 3,
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "defense_industry",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "named_entities": [],
+      "sentence_counts": {
+        "title": 1,
+        "lead": 2
+      }
+    },
+    {
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/armada-bude-pri-rozpoctu-2-hdp-stezi-rozvijet-nove-projekty-rekl-hlavac/2905715",
+      "published_utc": "2026-11-24T08:20:00Z",
+      "title_raw": "Armáda bude při rozpočtu 2 % HDP stěží rozvíjet nové projekty, řekl Hlaváč",
+      "lead_raw": "Praha - Při obranných výdajích ve výši dvou procent hrubého domácího produktu (HDP) armáda naráží na své limity. Dokáže udržet své schopnosti a plnit úkoly, obtížně ale bude rozvíjet nové projekty a zpomalí...",
+      "id": "159a7c79eddb847547f7b68be88072e389d98c1d",
+      "fingerprint": "b79aaec994b38d0b0bb277728545cf2450e68e81",
+      "title_en": "The army will hardly develop new projects with a budget of 2% of GDP, said Hlaváč",
+      "lead_en": "Prague - With defense spending at two percent of gross domestic product (GDP), the military is reaching its limits. He'll be able to maintain his abilities and accomplish tasks, but he'll have a hard time developing new projects and slowing down...",
+      "translation_status": "completed",
+      "translation_version": 3,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T13:40:13Z",
+      "collected_at_utc": "2026-11-25T12:34:16Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 9,
+        "energy": 0,
+        "economy": 12,
+        "local_events": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces"
+        ],
+        "energy": [],
+        "economy": [
+          "gdp",
+          "generic_budget"
+        ],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 3,
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "gdp",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": false,
+            "points": 3
+          }
+        ],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "named_entities": [],
+      "sentence_counts": {
+        "title": 1,
+        "lead": 2
+      }
     }
   ]
 }

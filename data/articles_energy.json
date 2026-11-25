@@ -1,10 +1,91 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T12:46:18Z",
+  "updated_at_utc": "2026-11-25T13:47:36Z",
   "topic": "energy",
-  "count": 8,
+  "count": 11,
   "articles": [
+    {
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-olomoucky-kraj-dlouhe-strane-budou-vyrabet-elektrinu-i-ze-slunce-dokoncuji-novou-fotovoltaiku-40610354",
+      "published_utc": "2026-11-25T12:52:26Z",
+      "title_raw": "Dlouhé stráně budou vyrábět elektřinu i ze slunce, dokončují novou fotovoltaiku",
+      "lead_raw": "Novou fotovoltaickou elektrárnu instalovanou na střeše své správní budovy rozšiřuje portfolio obnovitelných zdrojů přečerpávací vodní elektrárna Dlouhé stráně v Jeseníkách. Skládá se ze 345 fotovoltaických panelů a bude mít výkon 153 kWp.",
+      "id": "5fee94628dcf14afbf280bcc5157f3ff34c8af93",
+      "fingerprint": "ad581a6ea190d7ee1822204792d38801b2a2cfff",
+      "title_en": "The long side will also generate electricity from the sun, completing a new photovoltaic",
+      "lead_en": "The new photovoltaic power plant installed on the roof of its administration building is an extension of the renewable energy portfolio of the Dlouhé stránka overpumping hydroelectric power plant in Jeseníky. It will consist of 345 photovoltaic panels and will have an output of 153 kWp.",
+      "translation_status": "completed",
+      "translation_version": 3,
+      "classification_version": 3,
+      "validation_version": 3,
+      "ner_version": 0,
+      "translation_attempts": 1,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
+      "translation_error": null,
+      "translation_warnings": [],
+      "named_entities": [],
+      "collected_at_utc": "2026-11-25T13:31:54Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 18,
+        "economy": 0,
+        "local_events": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "electricity",
+          "renewables"
+        ],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "electricity",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "renewables",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "translated_at_utc": "2026-11-25T13:33:39Z",
+      "sentence_counts": {
+        "title": 1,
+        "lead": 2
+      }
+    },
     {
       "source": "iDNES.cz",
       "source_language": "cs",
@@ -15,50 +96,102 @@
       "id": "b8a1e02452b48b0c43dc30c410ca61dc65b5c7d4",
       "fingerprint": "5392be5ecf9e6803f1d272c44f1c6d10d721b0a1",
       "title_en": "Ukrainians attacked two refineries in the Samara region, large fires broke out",
-      "lead_en": "Russian attacks in the town of Bila Churchva and the Kharkiv region claimed two lives. Five regions of Ukraine are experiencing power outages, according to Ukrainian authorities.",
+      "lead_en": "Russian attacks in the city of Bila Tserkva and the Kharkiv region claimed two lives. Five regions of Ukraine are experiencing power outages, according to Ukrainian authorities.",
       "translation_status": "completed",
-      "translation_version": 2,
-      "translation_attempts": 1,
+      "translation_version": 3,
+      "translation_attempts": 2,
       "translation_provider": "facebook/nllb-200-distilled-1.3B",
-      "translation_method": "sentence_by_sentence",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
       "translation_error": null,
       "translation_warnings": [],
-      "translated_at_utc": "2026-11-25T12:36:02Z",
+      "translated_at_utc": "2026-11-25T13:42:54Z",
       "collected_at_utc": "2026-11-25T12:34:20Z",
       "topic_scores": {
         "diplomacy": 0,
-        "military": 0,
-        "energy": 3,
+        "military": 9,
+        "energy": 10,
         "economy": 0,
-        "local_events": 2,
-        "domestic_politics": 0
+        "local_events": 9,
+        "domestic_politics": 0,
+        "foreign_affairs": 0
       },
       "matched_keywords": {
         "diplomacy": [],
-        "military": [],
+        "military": [
+          "conflict_attacks"
+        ],
         "energy": [
-          "energi*",
-          "rafineri*",
-          "refineries"
+          "oil_gas",
+          "generic_energy"
         ],
         "economy": [],
         "local_events": [
-          "fires",
-          "požár*"
+          "fire"
         ],
-        "domestic_politics": []
+        "domestic_politics": [],
+        "foreign_affairs": []
       },
       "topics": [
-        "energy",
-        "local_events"
+        "military",
+        "energy"
       ],
       "relevant": true,
       "primary_topic": "energy",
-      "classification_version": 2,
+      "classification_version": 3,
       "sentence_counts": {
         "title": 1,
         "lead": 2
-      }
+      },
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "conflict_attacks",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [
+          {
+            "concept": "oil_gas",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          },
+          {
+            "concept": "generic_energy",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 1
+          }
+        ],
+        "economy": [],
+        "local_events": [
+          {
+            "concept": "fire",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "previous_translation": {
+        "title_en": "Ukrainians attacked two refineries in the Samara region, large fires broke out",
+        "lead_en": "Russian attacks in the town of Bila Churchva and the Kharkiv region claimed two lives. Five regions of Ukraine are experiencing power outages, according to Ukrainian authorities.",
+        "translation_version": 2
+      },
+      "named_entities": []
     },
     {
       "source": "iROZHLAS - Domestic",
@@ -69,98 +202,92 @@
       "lead_raw": "Radost z výsledku referenda vystřídaly v Břidličné na Bruntálsku starosti. Obyvatelé v něm drtivou většinou odmítli stavbu větrných elektráren.",
       "id": "e7c0fc0bb649c495ff47e43b128680958f8e451b",
       "fingerprint": "79719002000dfa3d0f5c6b9b9d5ed7437007d37b",
-      "title_en": "I just don't want to. The people of Břidličné have rejected the wind farms, the city council is trying to figure out how to get out of the contract.",
-      "lead_en": "The joy of the result of the referendum was replaced in Bruntalsk by worries in Břidličná. The inhabitants overwhelmingly opposed the construction of wind farms.",
+      "title_en": "I just don't want to. The residents of Břidličné rejected the wind power plants, the city council is working on how to get out of the contract",
+      "lead_en": "The joy of the result of the referendum has been replaced in Břidličná by Bruntál region worries. The inhabitants overwhelmingly opposed the construction of wind farms.",
       "translation_status": "completed",
-      "translation_version": 2,
-      "translation_attempts": 1,
+      "translation_version": 3,
+      "translation_attempts": 2,
       "translation_provider": "facebook/nllb-200-distilled-1.3B",
-      "translation_method": "sentence_by_sentence",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
       "translation_error": null,
       "translation_warnings": [],
-      "translated_at_utc": "2026-11-25T12:36:02Z",
+      "translated_at_utc": "2026-11-25T13:42:54Z",
       "collected_at_utc": "2026-11-25T12:34:15Z",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
-        "energy": 1,
+        "energy": 18,
         "economy": 0,
         "local_events": 0,
-        "domestic_politics": 1
+        "domestic_politics": 3,
+        "foreign_affairs": 0
       },
       "matched_keywords": {
         "diplomacy": [],
         "military": [],
         "energy": [
-          "elektrárn*"
+          "electricity",
+          "renewables"
         ],
         "economy": [],
         "local_events": [],
         "domestic_politics": [
-          "referend*"
-        ]
-      },
-      "topics": [
-        "energy",
-        "domestic_politics"
-      ],
-      "relevant": true,
-      "primary_topic": "energy",
-      "classification_version": 2,
-      "sentence_counts": {
-        "title": 1,
-        "lead": 2
-      }
-    },
-    {
-      "source": "Novinky",
-      "source_language": "cs",
-      "url": "https://www.novinky.cz/clanek/internet-a-pc-ai-ai-pomocnik-pracuje-i-kdyz-spite-meta-ho-ale-cechum-zatim-nenabidne-40610261",
-      "published_utc": "2026-11-25T11:35:00Z",
-      "title_raw": "AI pomocník pracuje, i když spíte. Meta ho ale Čechům zatím nenabídne",
-      "lead_raw": "Nakoupí vánoční dárky, najde výhodnější nabídku energií, naplánuje dovolenou nebo pomůže s reklamací. Pracovat přitom může i ve chvíli, kdy vypnete počítač a jdete spát.",
-      "id": "3c50c7c178da80491c98eeb74b2092713a4eadb3",
-      "fingerprint": "6ce26aee5b2ccc3e79f21f8935b6a4e2787b7c39",
-      "title_en": "The AI assistant works even when you sleep. But Meta won't offer it to the Czechs yet.",
-      "lead_en": "He buys Christmas presents, finds a better energy deal, plans a vacation, or helps with a claim. It can work even when you turn off your computer and go to sleep.",
-      "translation_status": "completed",
-      "translation_version": 2,
-      "translation_attempts": 1,
-      "translation_provider": "facebook/nllb-200-distilled-1.3B",
-      "translation_method": "sentence_by_sentence",
-      "translation_error": null,
-      "translation_warnings": [],
-      "translated_at_utc": "2026-11-25T12:39:13Z",
-      "collected_at_utc": "2026-11-25T12:34:18Z",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0,
-        "domestic_politics": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          "energi*",
-          "energy"
+          "municipal_government"
         ],
-        "economy": [],
-        "local_events": [],
-        "domestic_politics": []
+        "foreign_affairs": []
       },
       "topics": [
         "energy"
       ],
       "relevant": true,
       "primary_topic": "energy",
-      "classification_version": 2,
+      "classification_version": 3,
       "sentence_counts": {
         "title": 2,
         "lead": 2
-      }
+      },
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "electricity",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          },
+          {
+            "concept": "renewables",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [
+          {
+            "concept": "municipal_government",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "foreign_affairs": []
+      },
+      "previous_translation": {
+        "title_en": "I just don't want to. The people of Břidličné have rejected the wind farms, the city council is trying to figure out how to get out of the contract.",
+        "lead_en": "The joy of the result of the referendum was replaced in Bruntalsk by worries in Břidličná. The inhabitants overwhelmingly opposed the construction of wind farms.",
+        "translation_version": 2
+      },
+      "named_entities": []
     },
     {
       "source": "iDNES.cz",
@@ -174,57 +301,113 @@
       "title_en": "Extending the life of Temelín and Dukovany pays off, experts agree",
       "lead_en": "The nuclear power plants Temelín and Dukovany are the backbone of the Czech electric power industry and the main pillar of the country's energy security. Their importance has increased with the gradual decline in coal resources and in the context of geopolitical shocks in fuel markets.",
       "translation_status": "completed",
-      "translation_version": 2,
-      "translation_attempts": 1,
+      "translation_version": 3,
+      "translation_attempts": 2,
       "translation_provider": "facebook/nllb-200-distilled-1.3B",
-      "translation_method": "sentence_by_sentence",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
       "translation_error": null,
       "translation_warnings": [],
-      "translated_at_utc": "2026-11-25T12:42:05Z",
+      "translated_at_utc": "2026-11-25T13:46:11Z",
       "collected_at_utc": "2026-11-25T12:34:20Z",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
-        "energy": 14,
-        "economy": 1,
+        "energy": 18,
+        "economy": 0,
         "local_events": 0,
-        "domestic_politics": 0
+        "domestic_politics": 0,
+        "foreign_affairs": 3
       },
       "matched_keywords": {
         "diplomacy": [],
         "military": [],
         "energy": [
-          "Dukovany",
-          "Temelín",
-          "coal",
-          "dukovan*",
-          "elektrárn*",
-          "energet*",
-          "energy",
-          "energy security",
-          "fuel",
-          "jadern*",
-          "nuclear power",
-          "paliv*",
-          "power plants",
-          "temelín*"
+          "nuclear",
+          "electricity",
+          "energy_policy",
+          "generic_energy",
+          "fuel"
         ],
-        "economy": [
-          "industry"
-        ],
+        "economy": [],
         "local_events": [],
-        "domestic_politics": []
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "international_conflict"
+        ]
       },
       "topics": [
         "energy"
       ],
       "relevant": true,
       "primary_topic": "energy",
-      "classification_version": 2,
+      "classification_version": 3,
       "sentence_counts": {
         "title": 1,
         "lead": 2
-      }
+      },
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "nuclear",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "electricity",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 3
+          },
+          {
+            "concept": "energy_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 3
+          },
+          {
+            "concept": "generic_energy",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 1
+          },
+          {
+            "concept": "fuel",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "international_conflict",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 3
+          }
+        ]
+      },
+      "previous_translation": {
+        "title_en": "Extending the life of Temelín and Dukovany pays off, experts agree",
+        "lead_en": "The nuclear power plants Temelín and Dukovany are the backbone of the Czech electric power industry and the main pillar of the country's energy security. Their importance has increased with the gradual decline in coal resources and in the context of geopolitical shocks in fuel markets.",
+        "translation_version": 2
+      },
+      "named_entities": []
     },
     {
       "source": "Seznam Zprávy",
@@ -236,98 +419,176 @@
       "id": "eeea87905f89582b126fd1d5b0b698a2d2279650",
       "fingerprint": "f8eb838922bf6363ba94a6334bf4d56a21ab8468",
       "title_en": "Most thermal plants in the Czech Republic will raise heating prices next year, the most expensive heat from gas",
-      "lead_en": "According to the Greenhouse Association, in 2027 most of the Czech greenhouses will be overpriced. The price of heat from gas will rise by 15 to 20 percent, of logging by more than a tenth, and of coal by about inflation.",
+      "lead_en": "According to District Heating Association, in 2027 most Czech thermal plants will be overpriced. The price of heat from gas will rise by 15 to 20 percent, of logging by more than a tenth, and of coal by about inflation.",
       "translation_status": "completed",
-      "translation_version": 2,
-      "translation_attempts": 1,
+      "translation_version": 3,
+      "translation_attempts": 2,
       "translation_provider": "facebook/nllb-200-distilled-1.3B",
-      "translation_method": "sentence_by_sentence",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
       "translation_error": null,
       "translation_warnings": [],
-      "translated_at_utc": "2026-11-25T12:42:05Z",
+      "translated_at_utc": "2026-11-25T13:46:11Z",
       "collected_at_utc": "2026-11-25T12:34:19Z",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
-        "energy": 5,
-        "economy": 2,
+        "energy": 11,
+        "economy": 6,
         "local_events": 0,
-        "domestic_politics": 0
+        "domestic_politics": 0,
+        "foreign_affairs": 0
       },
       "matched_keywords": {
         "diplomacy": [],
         "military": [],
         "energy": [
-          "coal",
-          "gas",
-          "teplár*",
-          "uhl*",
-          "uhlí"
+          "district_heating",
+          "fuel"
         ],
         "economy": [
-          "inflac*",
-          "inflation"
+          "inflation",
+          "prices"
         ],
         "local_events": [],
-        "domestic_politics": []
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "relevant": true,
-      "primary_topic": "energy",
-      "classification_version": 2,
-      "sentence_counts": {
-        "title": 1,
-        "lead": 2
-      }
-    },
-    {
-      "source": "iDNES.cz",
-      "source_language": "cs",
-      "url": "https://www.idnes.cz/karlovy-vary/zpravy/rekonstrukce-strecha-alzbetiny-lazne-drevomorka-izolace.A261125_110126_vary-zpravy_pkz",
-      "published_utc": "2026-11-25T10:29:00Z",
-      "title_raw": "Izolace střechy Alžbětiných lázní musela předčasně pryč. Napadla ji dřevomorka",
-      "lead_raw": "Pouhé tři roky vydržela termoizolace střechy Alžbětiných lázní v Karlových Varech. Původně měla zajišťovat energetické úspory objektu po celou dobu rekonstrukce střechy.",
-      "id": "8d8dd3d148fbffe8295185d675260fd066a9b07e",
-      "fingerprint": "9678c2618b3a31d470a897f8d7b5c5b319518ad5",
-      "title_en": "The insulation on the roof of Alžbětiny Lázně must have gone off prematurely. She was attacked by a woodpecker.",
-      "lead_en": "The thermal insulation of the Alžbětiny Lázně roof in Karlovy Vary lasted only three years. It was originally intended to ensure energy savings for the building throughout the reconstruction of the roof.",
-      "translation_status": "completed",
-      "translation_version": 2,
-      "translation_attempts": 1,
-      "translation_provider": "facebook/nllb-200-distilled-1.3B",
-      "translation_method": "sentence_by_sentence",
-      "translation_error": null,
-      "translation_warnings": [],
-      "translated_at_utc": "2026-11-25T12:43:46Z",
-      "collected_at_utc": "2026-11-25T12:34:20Z",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 2,
-        "economy": 0,
-        "local_events": 0,
-        "domestic_politics": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          "energet*",
-          "energy"
-        ],
-        "economy": [],
-        "local_events": [],
-        "domestic_politics": []
+        "domestic_politics": [],
+        "foreign_affairs": []
       },
       "topics": [
         "energy"
       ],
       "relevant": true,
       "primary_topic": "energy",
-      "classification_version": 2,
+      "classification_version": 3,
+      "sentence_counts": {
+        "title": 1,
+        "lead": 2
+      },
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "district_heating",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "fuel",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "economy": [
+          {
+            "concept": "inflation",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 3
+          },
+          {
+            "concept": "prices",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "previous_translation": {
+        "title_en": "Most thermal plants in the Czech Republic will raise heating prices next year, the most expensive heat from gas",
+        "lead_en": "According to the Greenhouse Association, in 2027 most of the Czech greenhouses will be overpriced. The price of heat from gas will rise by 15 to 20 percent, of logging by more than a tenth, and of coal by about inflation.",
+        "translation_version": 2
+      },
+      "named_entities": []
+    },
+    {
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/demolice-stometroveho-komina-zacala-ve-dvore-kralove-nad-labem-cez-ho-odstavil_2611250738_vaa",
+      "published_utc": "2026-11-25T08:04:00Z",
+      "title_raw": "Demolice stometrového komína začala ve Dvoře Králové nad Labem. ČEZ ho odstavil před třemi lety",
+      "lead_raw": "Ve Dvoře Králové nad Labem na Trutnovsku začala demolice 100 metrů vysokého komína místní teplárny firmy ČEZ. Komín, který v minulosti odváděl spaliny z uhelných kotlů, už není potřeba.",
+      "id": "bc88bf1443881cbf52ca1449008a8c6eb020747c",
+      "fingerprint": "27e88465b3cfb9b1a9f3a0db113a08bc6f802410",
+      "title_en": "Demolition of the 100-meter chimney has begun in Dvůr Králové nad Labem. ČEZ shut him down three years ago.",
+      "lead_en": "In Dvůr Králové nad Labem in Trutnovsk, the demolition of the 100-meter-high chimney of the local district heating plants company ČEZ has begun. The chimney that once carried the exhaust from coal-fired boilers is no longer needed.",
+      "translation_status": "completed",
+      "translation_version": 3,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T13:35:33Z",
+      "collected_at_utc": "2026-11-25T12:34:15Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 12,
+        "economy": 0,
+        "local_events": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "district_heating",
+          "cez"
+        ],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 3,
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "district_heating",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 3
+          },
+          {
+            "concept": "cez",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "named_entities": [],
       "sentence_counts": {
         "title": 2,
         "lead": 2
@@ -336,59 +597,124 @@
     {
       "source": "Seznam Zprávy",
       "source_language": "cs",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-usa-odlozily-plany-na-obchodni-dohody-s-ruskem-vymenou-za-ukonceni-valky-321466",
-      "published_utc": "2026-11-25T09:43:28Z",
-      "title_raw": "USA odložily plány na obchodní dohody s Ruskem výměnou za ukončení války",
-      "lead_raw": "Trumpova administrativa odložila plány lákat Rusko k míru na Ukrajině obchodními dohodami. Moskva o projekty v energetice či letectví prý neprojevila velký zájem a dál trvá na územních ústupcích Kyjeva.",
-      "id": "5f3d4ae76650dd7f38b10b103c4272a191df0214",
-      "fingerprint": "4989cd3a8527f356aa2c2fe9701fd282b7df019c",
-      "title_en": "The U.S. postponed plans for a trade deal with Russia in exchange for ending the war.",
-      "lead_en": "The Trump administration has postponed plans to lure Russia to peace in Ukraine with trade deals. Moscow has reportedly shown little interest in energy or aviation projects and continues to insist on territorial concessions from Kiev.",
+      "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-ptam-se-ja-vlada-se-chysta-zvysit-dane-komu-a-jak-moc-havlicek-odpovida-321449",
+      "published_utc": "2026-11-25T07:00:17Z",
+      "title_raw": "Energetická krize se nám v příštím roce nevyhne, říká Havlíček",
+      "lead_raw": "Koalice ANO, Motoristů a SPD za první rok vlády už stihla válku s Hradem, čelila několika protivládním demonstracím, na kontě má i rekordní schodek. Jak se kabinetu daří a kdy splní své sliby voličům?",
+      "id": "562f3860267831d5e09e01de5914b2bbb29a7a95",
+      "fingerprint": "a03dce5e0c7d1cd049cac44b2e7b5633db2cda5b",
+      "title_en": "The energy crisis will not escape us next year, says Havlíček",
+      "lead_en": "The coalition of ANO, Motorists and SPD in the first year of government has already caught the war with the Castle, faced several anti-government demonstrations, and has a record deficit. How is the cabinet doing and when will it deliver on its promises to the electorate?",
       "translation_status": "completed",
-      "translation_version": 2,
+      "translation_version": 3,
       "translation_attempts": 1,
       "translation_provider": "facebook/nllb-200-distilled-1.3B",
-      "translation_method": "sentence_by_sentence",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
       "translation_error": null,
       "translation_warnings": [],
-      "translated_at_utc": "2026-11-25T12:45:13Z",
+      "translated_at_utc": "2026-11-25T13:35:33Z",
       "collected_at_utc": "2026-11-25T12:34:19Z",
       "topic_scores": {
         "diplomacy": 0,
         "military": 3,
-        "energy": 2,
-        "economy": 4,
+        "energy": 12,
+        "economy": 0,
         "local_events": 0,
-        "domestic_politics": 0
+        "domestic_politics": 11,
+        "foreign_affairs": 0
       },
       "matched_keywords": {
         "diplomacy": [],
         "military": [
-          "letectv*",
-          "válk*",
           "war"
         ],
         "energy": [
-          "energet*",
-          "energy"
+          "energy_policy",
+          "generic_energy"
         ],
-        "economy": [
-          "obchod*",
-          "trade",
-          "trade deal",
-          "trade deals"
-        ],
+        "economy": [],
         "local_events": [],
-        "domestic_politics": []
+        "domestic_politics": [
+          "government",
+          "elections",
+          "coalition",
+          "political_parties"
+        ],
+        "foreign_affairs": []
       },
       "topics": [
-        "military",
         "energy",
-        "economy"
+        "domestic_politics"
       ],
       "relevant": true,
-      "primary_topic": "economy",
-      "classification_version": 2,
+      "primary_topic": "energy",
+      "classification_version": 3,
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "war",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "energy": [
+          {
+            "concept": "energy_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          },
+          {
+            "concept": "generic_energy",
+            "strength": 1,
+            "headline": true,
+            "lead": false,
+            "points": 3
+          }
+        ],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "elections",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 3
+          },
+          {
+            "concept": "coalition",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 3
+          },
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "foreign_affairs": []
+      },
+      "named_entities": [],
       "sentence_counts": {
         "title": 1,
         "lead": 2
@@ -397,53 +723,364 @@
     {
       "source": "ČT24",
       "source_language": "cs",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/konference-osn-ztroskotala-akteri-hledaji-jinou-cestu-jak-pomoci-klimatu-379894",
-      "published_utc": "2026-11-25T09:37:48Z",
-      "title_raw": "Po krachu klimatické konference roste tlak na konec jednomyslnosti",
-      "lead_raw": "Letošní klimatická konference OSN COP31 v turecké Antalyi, dosud nejdelší v historii, skončila krachem. Některé státy v návrhu deklarace odmítly byť obecný závazek k omezování fosilních paliv, jiné odmítly podepsat verzi, která hlavní příčinu klimatické změny vůbec nezmiňuje.",
-      "id": "470d356ec0811a73c35be17a69471d1083cb1d19",
-      "fingerprint": "99d614b0302148aeedc883073719dc4fb5c0ffae",
-      "title_en": "After the collapse of the climate conference, pressure is mounting to end the consensus.",
-      "lead_en": "This year's UN climate conference COP31 in Antalya, Turkey, the longest ever in history, ended in failure. While some countries rejected a general commitment to reduce fossil fuels in the draft declaration, others refused to sign a version that did not mention the root cause of climate change at all.",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/pri-ruskem-utoku-v-kyjevske-oblasti-zahynul-muz-v-rusku-hori-rafinerie-379928",
+      "published_utc": "2026-11-25T06:49:48Z",
+      "title_raw": "Při ruském útoku v Kyjevské oblasti zahynul muž, v Rusku hoří rafinerie",
+      "lead_raw": "Při ruském útoku zahynul ve městě Bila Cerkva jižně od Kyjeva jeden muž, oznámil náčelník oblastní vojenské správy Tymur Tkačenko s tím, že byla poškozena i budova sloužící komerčním účelům. V ruské Samarské oblasti byl podle tamního gubernátora Vjačeslava Fedoriščeva při dronovém úderu zabit jeden člověk, přičemž útok způsobil výpadek elektrického proudu, píše agentura Reuters s odvoláním na ruská média.",
+      "id": "036d003cc6a7b4c6128e9f56032cc41dcdb47472",
+      "fingerprint": "e8600c3d4102657b8dadde79d067f4331aec85cd",
+      "title_en": "A man was killed in a Russian attack in the Kiev region, a refinery is on fire in Russia.",
+      "lead_en": "A man was killed in a Russian attack in the town of Bila Tserkva south of Kiev, regional military administration chief Tymur Tkachenko said, adding that a commercial building was also damaged. In Russia's Samara region, governor Vyacheslav Fedorishchev said a drone strike killed one person and caused a power outage, Reuters reported, citing Russian media.",
       "translation_status": "completed",
-      "translation_version": 2,
+      "translation_version": 3,
       "translation_attempts": 1,
       "translation_provider": "facebook/nllb-200-distilled-1.3B",
-      "translation_method": "sentence_by_sentence",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
       "translation_error": null,
       "translation_warnings": [],
-      "translated_at_utc": "2026-11-25T12:45:13Z",
+      "translated_at_utc": "2026-11-25T13:35:33Z",
       "collected_at_utc": "2026-11-25T12:34:17Z",
       "topic_scores": {
-        "diplomacy": 1,
-        "military": 0,
-        "energy": 1,
+        "diplomacy": 0,
+        "military": 12,
+        "energy": 9,
         "economy": 0,
-        "local_events": 1,
-        "domestic_politics": 0
+        "local_events": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0
       },
       "matched_keywords": {
-        "diplomacy": [
-          "OSN"
+        "diplomacy": [],
+        "military": [
+          "armed_forces",
+          "conflict_attacks"
         ],
-        "military": [],
         "energy": [
-          "paliv*"
+          "oil_gas"
         ],
         "economy": [],
-        "local_events": [
-          "collapse"
-        ],
-        "domestic_politics": []
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
       },
       "topics": [
-        "diplomacy",
-        "energy",
-        "local_events"
+        "military",
+        "energy"
       ],
       "relevant": true,
-      "primary_topic": "diplomacy",
-      "classification_version": 2,
+      "primary_topic": "military",
+      "classification_version": 3,
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 3
+          },
+          {
+            "concept": "conflict_attacks",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [
+          {
+            "concept": "oil_gas",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "named_entities": [],
+      "sentence_counts": {
+        "title": 1,
+        "lead": 2
+      }
+    },
+    {
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/vlada-by-mohla-regulovat-ceny-elektriny-i-prijmy-vyrobcu-podporila-to-snemovna/2906263",
+      "published_utc": "2026-11-24T22:08:00Z",
+      "title_raw": "Vláda by mohla regulovat ceny elektřiny i příjmy výrobců, podpořila to Sněmovna",
+      "lead_raw": "Praha - Vláda bude zřejmě moci v případě dalšího prudkého zdražování elektřiny regulovat její ceny pro odběratele a případně stanovit horní hranici příjmů jejích výrobců. Počítá s tím novela energetického...",
+      "id": "c47c55d6bc737b769728d9c2da12272f461ea1a7",
+      "fingerprint": "e822354df1e6fad1b7008f95d83fefad0fffe75a",
+      "title_en": "The government could regulate electricity prices and generators' incomes, Chamber of Deputies supported this",
+      "lead_en": "Prague - The government will likely be able to regulate electricity prices for customers in the event of further sharp increases in electricity prices and, if necessary, set an upper limit on the incomes of its producers. It's a renewal of the energy...",
+      "translation_status": "completed",
+      "translation_version": 3,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T13:37:23Z",
+      "collected_at_utc": "2026-11-25T12:34:16Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 10,
+        "economy": 3,
+        "local_events": 0,
+        "domestic_politics": 15,
+        "foreign_affairs": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "electricity",
+          "generic_energy"
+        ],
+        "economy": [
+          "prices"
+        ],
+        "local_events": [],
+        "domestic_politics": [
+          "parliament",
+          "government"
+        ],
+        "foreign_affairs": []
+      },
+      "topics": [
+        "energy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 3,
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "electricity",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "generic_energy",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 1
+          }
+        ],
+        "economy": [
+          {
+            "concept": "prices",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "local_events": [],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          },
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": []
+      },
+      "named_entities": [],
+      "sentence_counts": {
+        "title": 1,
+        "lead": 2
+      }
+    },
+    {
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/plzenska-teplarenska-zvysi-od-ledna-cenu-tepla-v-plzni-o-35-procenta/2906086",
+      "published_utc": "2026-11-24T16:19:00Z",
+      "title_raw": "Plzeňská teplárenská zvýší od ledna cenu tepla v Plzni o 3,5 procenta",
+      "lead_raw": "Plzeň - Společnost Plzeňská teplárenská, největší dodavatel tepla na západě Čech, zdraží od 1. ledna příštího roku teplo v Plzni průměrně o 3,5 procenta na 936,99 koruny za gigajoule (GJ) s DPH. Schválilo...",
+      "id": "d735ec2e910901abe0e49915d81573b531f70f9c",
+      "fingerprint": "0eed7eb2c45aa5ba32b64d8c791276f5aeb19860",
+      "title_en": "Plzeň's district heating company will increase the price of heat in Plzeň by 3.5 percent from January",
+      "lead_en": "Plzeň - The company Plzeňská teplárenská, the largest supplier of heat in the western Czech Republic, will raise the price of heat in Plzeň by an average of 3.5 percent to 936.99 crowns per gigajoule (GJ) with VAT from 1 January next year. It was approved...",
+      "translation_status": "completed",
+      "translation_version": 3,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T13:38:52Z",
+      "collected_at_utc": "2026-11-25T12:34:16Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 1,
+        "local_events": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "district_heating"
+        ],
+        "economy": [
+          "currency"
+        ],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 3,
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "district_heating",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 1
+          }
+        ],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "named_entities": [],
+      "sentence_counts": {
+        "title": 1,
+        "lead": 2
+      }
+    },
+    {
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/blokace-firem-cez-v-lucembursku-pokracuje-soud-ji-nezrusil/2905697",
+      "published_utc": "2026-11-23T20:17:00Z",
+      "title_raw": "Blokace firem ČEZ v Lucembursku pokračuje, soud ji nezrušil",
+      "lead_raw": "Praha - Blokace firem energetické skupiny ČEZ v Lucembursku pokračuje. Tamní soud v pátek zamítl návrh ve zkráceném řízení zrušit exekuci, kterou vůči české firmě zahájila společnost Diag Human podnikatele...",
+      "id": "986091c62b4825e74c8b1904dc850e0d15876042",
+      "fingerprint": "970901c679b47dc15e2c8f8db4ee66aee026af5c",
+      "title_en": "The blockade of ČEZ in Luxembourg continues, the court has not lifted it",
+      "lead_en": "Prague - The blockade of the ČEZ energy group in Luxembourg continues. A court there on Friday rejected a motion in summary proceedings to overturn an enforcement action brought against a Czech company by businessman Diag Human...",
+      "translation_status": "completed",
+      "translation_version": 3,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence_with_entity_protection",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T13:40:13Z",
+      "collected_at_utc": "2026-11-25T12:34:16Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 10,
+        "economy": 0,
+        "local_events": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "cez",
+          "generic_energy"
+        ],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 3,
+      "validation_version": 3,
+      "ner_version": 0,
+      "version_attempts": 1,
+      "attempt_version": 3,
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "cez",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "generic_energy",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 1
+          }
+        ],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [],
+        "foreign_affairs": []
+      },
+      "named_entities": [],
       "sentence_counts": {
         "title": 1,
         "lead": 2
