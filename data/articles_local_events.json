@@ -1,10 +1,99 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T01:09:41Z",
+  "updated_at_utc": "2026-11-25T10:36:15Z",
   "topic": "local_events",
-  "count": 7,
+  "count": 9,
   "articles": [
+    {
+      "id": "daccf786f1807aff7c4fb49b9f5af816ff663108",
+      "fingerprint": "1d2f5f729d0cb08f372254208a277d852220cd15",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/jihlava/zpravy/nehoda-umrti-chodkyne-prechod-velke-mezirici-policie-zachranka.A261125_082604_jihlava-zpravy_mv",
+      "published_utc": "2026-11-25T09:52:00Z",
+      "title_en": "Auto na přechodu ve Velkém Meziříčí srazilo ženu, na místě zemřela",
+      "lead_en": "Tragická nehoda se ve středu ráno stala na okraji Velkého Meziříčí. Auto tam na přechodu pro chodce srazilo ženu, která i přes okamžitou resuscitaci svým zraněním na místě podlehla.",
+      "title_raw": "Auto na přechodu ve Velkém Meziříčí srazilo ženu, na místě zemřela",
+      "lead_raw": "Tragická nehoda se ve středu ráno stala na okraji Velkého Meziříčí. Auto tam na přechodu pro chodce srazilo ženu, která i přes okamžitou resuscitaci svým zraněním na místě podlehla.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 3
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "831b832d3d5bfd263ca67fa729f28953d2d3cd52",
+      "fingerprint": "5392be5ecf9e6803f1d272c44f1c6d10d721b0a1",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/pri-ruskem-utoku-v-kyjevske-oblasti-zahynul-muz-v-rusku-hori-rafinerie.A261125_070149_zahranicni_tmps",
+      "published_utc": "2026-11-25T09:25:00Z",
+      "title_en": "Ukrajinci zaútočili na dvě rafinerie v Samarské oblasti, vypukly velké požáry",
+      "lead_en": "Ruské útoky ve městě Bila Cerkva a v Charkovské oblasti si vyžádaly dva mrtvé. Pět oblastí Ukrajiny se potýká s výpadky dodávek elektrické energie, uvedly ukrajinské úřady.",
+      "title_raw": "Ukrajinci zaútočili na dvě rafinerie v Samarské oblasti, vypukly velké požáry",
+      "lead_raw": "Ruské útoky ve městě Bila Cerkva a v Charkovské oblasti si vyžádaly dva mrtvé. Pět oblastí Ukrajiny se potýká s výpadky dodávek elektrické energie, uvedly ukrajinské úřady.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "primary_topic": "energy"
+    },
+    {
+      "id": "37d74aa89b4098065a1fba12b0556ee7172fe095",
+      "fingerprint": "1a833e15df15cc15636a4b3c54658dc0708819fc",
+      "source": "Novinky",
+      "url": "https://www.novinky.cz/clanek/krimi-po-pozaru-chatky-u-klasterce-nad-ohri-nasli-hasici-mrtvolu-40610363",
+      "published_utc": "2026-11-25T08:43:01Z",
+      "title_en": "Po požáru chatky u Klášterce nad Ohří našli hasiči mrtvolu",
+      "lead_en": "Mrtvé tělo našli hasiči po požáru zahradní chatky u Klášterce nad Ohří na Chomutovsku. Objekt shořel v úterý nad ránem.",
+      "title_raw": "Po požáru chatky u Klášterce nad Ohří našli hasiči mrtvolu",
+      "lead_raw": "Mrtvé tělo našli hasiči po požáru zahradní chatky u Klášterce nad Ohří na Chomutovsku. Objekt shořel v úterý nad ránem.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
+    {
+      "id": "6003edd5593a4c70ef22c9137c6487424030b4c1",
+      "fingerprint": "4ddf3933a5f264f1869236d3efe90989e876e134",
+      "source": "iDNES.cz",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/mexicky-zaliv-mississippi-male-letadlo-cessna-210-obeti.A261125_072749_zahranicni_tmps",
+      "published_utc": "2026-11-25T07:01:00Z",
+      "title_en": "V Mexickém zálivu se zřítilo malé letadlo. Zemřeli dospělí i děti",
+      "lead_en": "V Mexickém zálivu se v úterý ve vodách státu Mississippi zřítil letoun Cessna 210 se čtyřmi dospělými a dvěma dětmi na palubě. Nehodu nikdo nepřežil, uvedla tamní pobřežní stráž po několikahodinovém pátrání.",
+      "title_raw": "V Mexickém zálivu se zřítilo malé letadlo. Zemřeli dospělí i děti",
+      "lead_raw": "V Mexickém zálivu se v úterý ve vodách státu Mississippi zřítil letoun Cessna 210 se čtyřmi dospělými a dvěma dětmi na palubě. Nehodu nikdo nepřežil, uvedla tamní pobřežní stráž po několikahodinovém pátrání.",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 2
+      },
+      "topics": [
+        "local_events"
+      ],
+      "primary_topic": "local_events"
+    },
     {
       "id": "e81126026973b3018cf3172fe165fd9a115276fc",
       "fingerprint": "11a2b24c4e92f84c69f174aa4a56ecb3db306774",
@@ -104,50 +193,6 @@
       "lead_en": "Technik a manažer Ludvík Kalma, který zahynul 24. listopadu 1996 při dopravní nehodě ve věku 55 let, měl velkou zásluhu na úspěšném začlenění mladoboleslavské automobilky do německého koncernu Volkswagen.",
       "title_raw": "Před 30 lety tragicky zemřel Ludvík Kalma. Muž, který pomohl proměnit Škodu ve světovou automobilku",
       "lead_raw": "Technik a manažer Ludvík Kalma, který zahynul 24. listopadu 1996 při dopravní nehodě ve věku 55 let, měl velkou zásluhu na úspěšném začlenění mladoboleslavské automobilky do německého koncernu Volkswagen.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "39b65a10cbb6ed0ab2c38f6bbc1c75eca60f6a44",
-      "fingerprint": "a89e91b47b8a3bf026332fd6dd58dcd6162273f9",
-      "source": "Novinky",
-      "url": "https://www.novinky.cz/clanek/krimi-na-rakovnicku-se-prevratila-cisterna-s-nebezpecnou-latkou-40609963",
-      "published_utc": "2026-11-23T09:49:55Z",
-      "title_en": "Na Rakovnicku se převrátila cisterna s nebezpečnou látkou",
-      "lead_en": "U převrácené cisterny se silně zásaditou látkou zasahovali od pondělního rána hasiči, na pomoc povolali i ropný kontejner či dekontaminační přívěs. Nehoda se obešla bez zranění, silnice II/237 mezi Novým Strašecím a Lužnou je obousměrně uzavřená.",
-      "title_raw": "Na Rakovnicku se převrátila cisterna s nebezpečnou látkou",
-      "lead_raw": "U převrácené cisterny se silně zásaditou látkou zasahovali od pondělního rána hasiči, na pomoc povolali i ropný kontejner či dekontaminační přívěs. Nehoda se obešla bez zranění, silnice II/237 mezi Novým Strašecím a Lužnou je obousměrně uzavřená.",
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "local_events": 2
-      },
-      "topics": [
-        "local_events"
-      ],
-      "primary_topic": "local_events"
-    },
-    {
-      "id": "318c508af97f0b31335f66f1f590ff2ac16e5e1a",
-      "fingerprint": "ca55cb47e0500fc26602f4d97e17be46fcb95ef5",
-      "source": "Seznam Zprávy",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-obeti-v-dymeru-u-kyjeva-je-jiz-devet-z-trosek-vyprostili-zivou-79letou-zenu-321256",
-      "published_utc": "2026-11-23T07:01:17Z",
-      "title_en": "Obětí v Dymeru u Kyjeva je již jedenáct, z trosek vyprostili živou 79letou ženu",
-      "lead_en": "Ruský dronový útok na obytný dům v Dymeru si vyžádal nejméně jedenáct obětí, je mezi nimi i osmnáctiletý mladík. Záchranáři z trosek vyprostili také živou 79letou ženu, další lidé utrpěli zranění.",
-      "title_raw": "Obětí v Dymeru u Kyjeva je již jedenáct, z trosek vyprostili živou 79letou ženu",
-      "lead_raw": "Ruský dronový útok na obytný dům v Dymeru si vyžádal nejméně jedenáct obětí, je mezi nimi i osmnáctiletý mladík. Záchranáři z trosek vyprostili také živou 79letou ženu, další lidé utrpěli zranění.",
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
