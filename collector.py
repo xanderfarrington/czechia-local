@@ -1,13 +1,18 @@
 # -*- coding: utf-8 -*-
 """
-Czech Media Tracker — Collector + Translator + Topic Splitter
+Czech Media Tracker
 
-- Collects Czech news from RSS feeds
-- Translates new articles using GoogleTranslator
-- Never retranslates successfully archived articles
-- Maintains a persistent archive
-- Generates a rolling 48-hour news feed
-- Generates individual topic files
+RSS collection, topic classification, and Czech-to-English
+translation using NLLB-200 distilled 1.3B.
+
+Features:
+- Persistent article archive
+- Rolling 48-hour news window
+- Pre-translation topic classification
+- Batched local translation
+- Pending translation queue
+- No retranslations of completed articles
+- Independent processing of English-language sources
 """
 
 from __future__ import annotations
@@ -16,21 +21,74 @@ import os
 import re
 import json
 import time
+import html
 import hashlib
 
-from typing import Dict, List, Optional
 from pathlib import Path
 from datetime import datetime, timedelta, timezone
+from typing import Dict, List, Optional
 
 import requests
 import feedparser
 import pandas as pd
 
-from deep_translator import GoogleTranslator
-from deep_translator.exceptions import TooManyRequests
 
+# ============================================================
+# CONFIGURATION
+# ============================================================
 
-# ================= CONFIG =================
+KEEP_HOURS = int(
+    os.getenv("KEEP_HOURS", "48")
+)
+
+TRANSLATE_LIMIT = int(
+    os.getenv("TRANSLATE_LIMIT", "60")
+)
+
+BATCH_SIZE = int(
+    os.getenv("BATCH_SIZE", "4")
+)
+
+NUM_BEAMS = int(
+    os.getenv("NUM_BEAMS", "4")
+)
+
+CPU_THREADS = int(
+    os.getenv("CPU_THREADS", "4")
+)
+
+MODEL_NAME = os.getenv(
+    "MODEL_NAME",
+    "facebook/nllb-200-distilled-1.3B"
+)
+
+TRANSLATE_ALL = (
+    os.getenv("TRANSLATE_ALL", "0") == "1"
+)
+
+SOURCE_LANGUAGE = "ces_Latn"
+TARGET_LANGUAGE = "eng_Latn"
+
+TIMEOUT = 20
+MAX_RETRIES = 3
+RETRY_SLEEP = 2
+
+MAX_INPUT_TOKENS = 512
+MAX_NEW_TOKENS = 256
+
+OUT_JSON = Path(
+    os.getenv(
+        "OUT_JSON",
+        "data/articles_latest.json"
+    )
+)
+
+ARCHIVE_JSON = Path(
+    os.getenv(
+        "ARCHIVE_JSON",
+        "data/articles_archive.json"
+    )
+)
 
 HEADERS = {
     "User-Agent": (
@@ -38,96 +96,95 @@ HEADERS = {
         "AppleWebKit/537.36 (KHTML, like Gecko) "
         "Chrome/122.0.0.0 Safari/537.36"
     ),
-    "Accept": "application/rss+xml, application/xml, text/xml, */*;q=0.8",
+    "Accept": (
+        "application/rss+xml, application/xml, "
+        "text/xml, */*;q=0.8"
+    ),
     "Accept-Language": "en-US,en;q=0.9,cs;q=0.8",
     "Connection": "keep-alive",
 }
 
-TIMEOUT = 20
-MAX_RETRIES = 3
-RETRY_SLEEP = 2.0
+# Translation model is loaded only when needed.
 
-KEEP_HOURS = int(os.getenv("KEEP_HOURS", "48"))
-
-TRANSLATION_DELAY = float(
-    os.getenv("TRANSLATION_DELAY", "1.5")
-)
-
-OUT_JSON = Path(
-    os.getenv("OUT_JSON", "data/articles_latest.json")
-)
-
-ARCHIVE_JSON = Path(
-    os.getenv("ARCHIVE_JSON", "data/articles_archive.json")
-)
-
-translator = GoogleTranslator(
-    source="cs",
-    target="en"
-)
+TOKENIZER = None
+MODEL = None
+TORCH = None
 
 
-# ================= SOURCES =================
+# ============================================================
+# RSS SOURCES
+# ============================================================
 
-SOURCES: Dict[str, Dict] = {
+SOURCES = {
 
     "iROZHLAS - Domestic": {
+        "language": "cs",
         "feeds": [
-            "https://www.irozhlas.cz/rss/irozhlas/section/zpravy-domov",
+            "https://www.irozhlas.cz/rss/irozhlas/section/zpravy-domov"
         ],
     },
 
     "iROZHLAS - Economy": {
+        "language": "cs",
         "feeds": [
-            "https://www.irozhlas.cz/rss/irozhlas/section/ekonomika",
+            "https://www.irozhlas.cz/rss/irozhlas/section/ekonomika"
         ],
     },
 
     "České noviny / ČTK - Czech Republic": {
+        "language": "cs",
         "feeds": [
-            "https://www.ceskenoviny.cz/sluzby/rss/cr.php",
+            "https://www.ceskenoviny.cz/sluzby/rss/cr.php"
         ],
     },
 
     "České noviny / ČTK - Economy": {
+        "language": "cs",
         "feeds": [
-            "https://www.ceskenoviny.cz/sluzby/rss/ekonomika.php",
+            "https://www.ceskenoviny.cz/sluzby/rss/ekonomika.php"
         ],
     },
 
     "ČT24": {
+        "language": "cs",
         "feeds": [
-            "https://ct24.ceskatelevize.cz/rss",
+            "https://ct24.ceskatelevize.cz/rss"
         ],
     },
 
     "Novinky": {
+        "language": "cs",
         "feeds": [
-            "https://www.novinky.cz/rss",
+            "https://www.novinky.cz/rss"
         ],
     },
 
     "Seznam Zprávy": {
+        "language": "cs",
         "feeds": [
-            "https://www.seznamzpravy.cz/rss",
+            "https://www.seznamzpravy.cz/rss"
         ],
     },
 
     "iDNES.cz": {
+        "language": "cs",
         "feeds": [
-            "https://servis.idnes.cz/rss.aspx?c=zpravodaj",
+            "https://servis.idnes.cz/rss.aspx?c=zpravodaj"
         ],
     },
 
     "Radio Prague International (EN)": {
+        "language": "en",
         "feeds": [
-            "https://english.radio.cz/rcz-rss/en",
+            "https://english.radio.cz/rcz-rss/en"
         ],
     },
 }
 
 
-# ================= TOPIC KEYWORDS =================
+# ============================================================
+# TOPIC KEYWORDS
+# ============================================================
 
 TOPIC_KEYWORDS = {
 
@@ -350,7 +407,7 @@ TOPIC_KEYWORDS = {
         "požár",
         "povodeň",
         "záplav",
-        "zemětřesení",
+        "zemětřesen",
         "bouř",
         "vichřic",
         "výbuch",
@@ -370,45 +427,80 @@ TOPIC_KEYWORDS = {
 }
 
 
-# ================= GENERAL HELPERS =================
+TOPIC_THRESHOLDS = {
+    "diplomacy": 1,
+    "military": 1,
+    "energy": 1,
+    "economy": 2,
+    "local_events": 2,
+}
 
-def _utcnow() -> datetime:
+
+# ============================================================
+# GENERAL HELPERS
+# ============================================================
+
+def utcnow() -> datetime:
     return datetime.now(timezone.utc)
 
 
-def normalize_space(s: str) -> str:
-    return " ".join((s or "").split()).strip()
+def utc_string(dt: datetime) -> str:
+    return dt.astimezone(timezone.utc).strftime(
+        "%Y-%m-%dT%H:%M:%SZ"
+    )
+
+
+def normalize_space(text: str) -> str:
+
+    return " ".join(
+        (text or "").split()
+    ).strip()
+
+
+def clean_text(text: str) -> str:
+
+    text = html.unescape(text or "")
+
+    text = re.sub(
+        r"<[^>]+>",
+        " ",
+        text
+    )
+
+    return normalize_space(text)
 
 
 def normalize_url(url: str) -> str:
 
     url = normalize_space(url)
 
-    # Remove URL fragments and tracking parameters
     url = re.sub(r"#.*$", "", url)
     url = re.sub(r"\?.*$", "", url)
 
     return url.rstrip("/")
 
 
-def normalize_title(s: str) -> str:
+def normalize_title(text: str) -> str:
 
-    s = normalize_space((s or "").lower())
-    s = re.sub(r"[^\w\s]", "", s)
+    text = normalize_space(
+        (text or "").lower()
+    )
 
-    return s
+    return re.sub(
+        r"[^\w\s]",
+        "",
+        text
+    )
 
 
 def hash_key(*parts: str) -> str:
 
     h = hashlib.sha1()
 
-    for p in parts:
+    for part in parts:
+
         h.update(
-            (p or "").encode(
-                "utf-8",
-                errors="ignore"
-            )
+            (part or "").encode("utf-8")
         )
 
         h.update(b"|")
@@ -417,12 +509,6 @@ def hash_key(*parts: str) -> str:
 
 
 def article_fingerprint(article: dict) -> str:
-    """
-    Generate a stable identifier for an article.
-
-    Prefer the source and normalized URL.
-    If no URL exists, use source, title, and date.
-    """
 
     source = article.get("source", "")
 
@@ -434,7 +520,10 @@ def article_fingerprint(article: dict) -> str:
         article.get("title_raw", "")
     )
 
-    published = article.get("published_utc", "")
+    published = article.get(
+        "published_utc",
+        ""
+    )
 
     if url:
         return hash_key(source, url)
@@ -446,55 +535,107 @@ def article_fingerprint(article: dict) -> str:
     )
 
 
-def within_hours(
-    dt_utc: datetime,
-    now_utc: datetime,
-    keep_hours: int
+def within_window(
+    article: dict,
+    now: datetime
 ) -> bool:
 
-    return dt_utc >= (
-        now_utc - timedelta(hours=keep_hours)
+    try:
+
+        published = datetime.fromisoformat(
+            article["published_utc"].replace(
+                "Z",
+                "+00:00"
+            )
+        )
+
+        return (
+            now - timedelta(hours=KEEP_HOURS)
+            <= published
+            <= now + timedelta(minutes=10)
+        )
+
+    except (ValueError, KeyError, TypeError):
+
+        return False
+
+
+def two_sentence_lead(text: str) -> str:
+
+    text = clean_text(text)
+
+    if not text:
+        return ""
+
+    sentences = re.split(
+        r"(?<=[.!?])\s+",
+        text
     )
 
+    sentences = [
+        sentence.strip()
+        for sentence in sentences
+        if sentence.strip()
+    ]
 
-# ================= RSS FETCHING =================
+    if len(sentences) >= 2:
+
+        return " ".join(
+            sentences[:2]
+        )
+
+    return text[:280].rstrip()
+
+
+# ============================================================
+# RSS COLLECTION
+# ============================================================
 
 def fetch_text(url: str) -> Optional[str]:
 
-    sess = requests.Session()
-    sess.headers.update(HEADERS)
-
-    for attempt in range(1, MAX_RETRIES + 1):
+    for attempt in range(
+        1,
+        MAX_RETRIES + 1
+    ):
 
         try:
 
-            r = sess.get(
+            response = requests.get(
                 url,
+                headers=HEADERS,
                 timeout=TIMEOUT,
                 allow_redirects=True
             )
 
-            if r.status_code == 200 and r.text:
-                return r.text
+            if (
+                response.status_code == 200
+                and response.text
+            ):
+
+                return response.text
 
             print(
-                f"[WARN] HTTP {r.status_code} from {url}"
+                f"[WARN] HTTP "
+                f"{response.status_code}: {url}"
             )
 
-        except requests.RequestException as e:
+        except requests.RequestException as exc:
 
             print(
-                f"[WARN] Fetch error "
-                f"({attempt}/{MAX_RETRIES}) "
-                f"for {url}: {e}"
+                f"[WARN] Fetch attempt "
+                f"{attempt}/{MAX_RETRIES}: {exc}"
             )
 
-        time.sleep(RETRY_SLEEP * attempt)
+        if attempt < MAX_RETRIES:
+
+            time.sleep(
+                RETRY_SLEEP * attempt
+            )
 
     return None
 
 
-def _parse_entry_datetime(
+def parse_entry_datetime(
     entry: dict
 ) -> Optional[datetime]:
 
@@ -504,18 +645,19 @@ def _parse_entry_datetime(
         "created_parsed"
     ):
 
-        st = entry.get(key)
+        value = entry.get(key)
 
-        if st:
+        if value:
 
             try:
 
                 return datetime(
-                    *st[:6],
+                    *value[:6],
                     tzinfo=timezone.utc
                 )
 
             except Exception:
+
                 pass
 
     for key in (
@@ -525,107 +667,90 @@ def _parse_entry_datetime(
         "pubDate"
     ):
 
-        val = entry.get(key)
+        value = entry.get(key)
 
-        if val:
+        if value:
 
             try:
 
                 return pd.to_datetime(
-                    val,
+                    value,
                     utc=True,
                     errors="raise"
                 ).to_pydatetime()
 
             except Exception:
-                continue
+
+                pass
 
     return None
 
 
-def two_sentence_lead(text: str) -> str:
-    """
-    Remove HTML and retain the first two sentences.
-
-    If sentence boundaries cannot be identified,
-    retain up to 280 characters.
-    """
-
-    t = normalize_space(
-        re.sub(
-            r"<[^>]+>",
-            " ",
-            text or ""
-        )
-    )
-
-    if not t:
-        return ""
-
-    parts = re.split(
-        r"(?<=[.!?])\s+",
-        t
-    )
-
-    parts = [
-        p.strip()
-        for p in parts
-        if p.strip()
-    ]
-
-    if len(parts) >= 2:
-        return f"{parts[0]} {parts[1]}".strip()
-
-    return t[:280].rstrip()
-
-
 def collect_from_rss(
     source_name: str,
-    feeds: List[str]
+    config: dict,
+    now: datetime
 ) -> List[dict]:
 
-    rows: List[dict] = []
+    rows = []
 
-    for feed_url in feeds:
+    for feed_url in config["feeds"]:
 
-        txt = fetch_text(feed_url)
+        raw_feed = fetch_text(feed_url)
 
-        if not txt:
+        if not raw_feed:
             continue
 
-        d = feedparser.parse(txt)
+        feed = feedparser.parse(raw_feed)
 
-        for e in d.entries:
+        print(
+            f"[INFO] {source_name}: "
+            f"{len(feed.entries)} RSS entries"
+        )
 
-            title = normalize_space(
-                e.get("title", "")
+        for entry in feed.entries:
+
+            title = clean_text(
+                entry.get("title", "")
             )
 
+            if not title:
+                continue
+
+            published = parse_entry_datetime(
+                entry
+            )
+
+            if published is None:
+                continue
+
+            if not (
+                now - timedelta(hours=KEEP_HOURS)
+                <= published
+                <= now + timedelta(minutes=10)
+            ):
+                continue
+
             url = normalize_url(
-                e.get("link", "")
+                entry.get("link", "")
             )
 
             summary = (
-                e.get("summary", "")
-                or e.get("description", "")
+                entry.get("summary", "")
+                or entry.get("description", "")
                 or ""
             )
 
-            dt = _parse_entry_datetime(e)
-
-            if not dt:
-                continue
-
-            rows.append({
+            row = {
 
                 "source": source_name,
 
+                "source_language": config["language"],
+
                 "url": url,
 
-                "published_utc": dt.astimezone(
-                    timezone.utc
-                ).strftime(
-                    "%Y-%m-%dT%H:%M:%SZ"
+                "published_utc": utc_string(
+                    published
                 ),
 
                 "title_raw": title,
@@ -633,7 +758,9 @@ def collect_from_rss(
                 "lead_raw": two_sentence_lead(
                     summary
                 ),
-            })
+            }
+
+            rows.append(row)
 
         if rows:
             break
@@ -641,239 +768,543 @@ def collect_from_rss(
     return rows
 
 
-# ================= TRANSLATION =================
+# ============================================================
+# TOPIC CLASSIFICATION
+# ============================================================
 
-def translate_text(text: str) -> str:
-    """
-    Translate Czech text into English.
+def classify_topics(
+    article: dict,
+    include_translation: bool = True
+) -> dict:
 
-    Includes request spacing and retries.
+    text = (
+        f"{article.get('title_raw') or ''} "
+        f"{article.get('lead_raw') or ''}"
+    )
 
-    Translation failures are not silently saved
-    as successful English translations.
-    """
+    if include_translation:
 
-    if not text:
-        return ""
+        text += (
+            f" {article.get('title_en') or ''}"
+            f" {article.get('lead_en') or ''}"
+        )
 
-    for attempt in range(MAX_RETRIES):
-
-        # Space requests to reduce rate limiting
-        time.sleep(TRANSLATION_DELAY)
-
-        try:
-
-            result = translator.translate(text)
-
-            if not result or not result.strip():
-                raise ValueError("Empty translation")
-
-            result = result.strip()
-
-            print(
-                f"[TRANSLATE] "
-                f"{text[:60]} -> {result[:60]}"
-            )
-
-            return result
-
-        except TooManyRequests:
-
-            # Stop the current run rather than repeatedly
-            # hitting Google's rate-limited endpoint.
-            raise
-
-        except Exception as exc:
-
-            print(
-                f"[WARN] Translation attempt "
-                f"{attempt + 1}/{MAX_RETRIES}: {exc}"
-            )
-
-            if attempt == MAX_RETRIES - 1:
-                raise
-
-            # Increasing retry delay
-            time.sleep(5 * (attempt + 1))
-
-
-# ================= TOPIC CLASSIFICATION =================
-
-def classify_topics(article: dict) -> dict:
-
-    # Search original Czech and translated English text
-    txt = (
-        f"{article.get('title_raw', '')} "
-        f"{article.get('lead_raw', '')} "
-        f"{article.get('title_en', '')} "
-        f"{article.get('lead_en', '')}"
-    ).lower()
+    text = text.lower()
 
     scores = {}
 
     for topic, keywords in TOPIC_KEYWORDS.items():
 
+        # Avoid counting identical keywords twice.
+        unique_keywords = set(
+            keyword.lower()
+            for keyword in keywords
+        )
+
         scores[topic] = sum(
+
             1
-            for kw in keywords
-            if kw.lower() in txt
+
+            for keyword in unique_keywords
+
+            if keyword in text
         )
 
-    labels = []
+    labels = [
 
-    if scores["diplomacy"] >= 1:
-        labels.append("diplomacy")
+        topic
 
-    if scores["military"] >= 1:
-        labels.append("military")
+        for topic, score in scores.items()
 
-    if scores["energy"] >= 1:
-        labels.append("energy")
+        if score >= TOPIC_THRESHOLDS[topic]
+    ]
 
-    if scores["economy"] >= 2:
-        labels.append("economy")
+    primary_topic = (
 
-    if scores["local_events"] >= 2:
-        labels.append("local_events")
-
-    primary = None
-
-    if any(v > 0 for v in scores.values()):
-
-        primary = max(
-            scores,
-            key=scores.get
+        max(
+            labels,
+            key=lambda topic: scores[topic]
         )
+
+        if labels
+
+        else None
+    )
 
     article["topic_scores"] = scores
     article["topics"] = labels
-    article["primary_topic"] = primary
+    article["primary_topic"] = primary_topic
+    article["relevant"] = bool(labels)
 
     return article
 
 
-# ================= ARTICLE ENRICHMENT =================
+# ============================================================
+# NLLB TRANSLATION MODEL
+# ============================================================
 
-def enrich_article(row: dict) -> dict:
-    """
-    Translate and classify one new article.
+def load_translator() -> None:
 
-    Articles from Radio Prague International
-    are already in English and bypass translation.
-    """
+    global TOKENIZER
+    global MODEL
+    global TORCH
 
-    english = (
-        row["source"] == "Radio Prague International (EN)"
+    if MODEL is not None:
+        return
+
+    print(
+        f"[MODEL] Loading {MODEL_NAME}"
     )
 
-    title = row["title_raw"]
-    lead = row["lead_raw"]
+    start = time.monotonic()
 
-    if english:
+    import torch
 
-        title_en = title
-        lead_en = lead
+    from transformers import (
+        AutoTokenizer,
+        AutoModelForSeq2SeqLM
+    )
 
-    else:
+    TORCH = torch
 
-        title_en = translate_text(title)
-        lead_en = translate_text(lead)
+    torch.set_num_threads(CPU_THREADS)
+
+    TOKENIZER = AutoTokenizer.from_pretrained(
+
+        MODEL_NAME,
+
+        src_lang=SOURCE_LANGUAGE,
+
+        tgt_lang=TARGET_LANGUAGE,
+    )
+
+    MODEL = AutoModelForSeq2SeqLM.from_pretrained(
+
+        MODEL_NAME,
+
+        torch_dtype=torch.float32,
+
+        low_cpu_mem_usage=True,
+    )
+
+    MODEL.to("cpu")
+    MODEL.eval()
+
+    elapsed = time.monotonic() - start
+
+    print(
+        f"[MODEL] Loaded in {elapsed:.1f}s"
+    )
+
+    print(
+        f"[MODEL] Source language: "
+        f"{SOURCE_LANGUAGE}"
+    )
+
+    print(
+        f"[MODEL] Target language: "
+        f"{TARGET_LANGUAGE}"
+    )
+
+    print(
+        f"[MODEL] CPU threads: {CPU_THREADS}"
+    )
+
+    print(
+        f"[MODEL] Beam search: {NUM_BEAMS}"
+    )
+
+
+def translate_batch(
+    texts: List[str]
+) -> List[str]:
+
+    if not texts:
+        return []
+
+    load_translator()
+
+    texts = [
+        normalize_space(text)
+        for text in texts
+    ]
+
+    results = [""] * len(texts)
+
+    # Empty summaries should not consume inference time.
+
+    nonempty = [
+
+        (index, text)
+
+        for index, text in enumerate(texts)
+
+        if text
+    ]
+
+    if not nonempty:
+        return results
+
+    input_texts = [
+
+        text
+
+        for _, text in nonempty
+    ]
+
+    inputs = TOKENIZER(
+
+        input_texts,
+
+        return_tensors="pt",
+
+        padding=True,
+
+        truncation=True,
+
+        max_length=MAX_INPUT_TOKENS,
+    )
+
+    target_token = TOKENIZER.convert_tokens_to_ids(
+        TARGET_LANGUAGE
+    )
+
+    if (
+        target_token is None
+        or target_token == TOKENIZER.unk_token_id
+    ):
+        raise ValueError(
+            "Invalid NLLB target language token"
+        )
+
+    with TORCH.inference_mode():
+
+        outputs = MODEL.generate(
+
+            **inputs,
+
+            forced_bos_token_id=target_token,
+
+            max_new_tokens=MAX_NEW_TOKENS,
+
+            num_beams=NUM_BEAMS,
+
+            do_sample=False,
+
+            early_stopping=(NUM_BEAMS > 1),
+        )
+
+    decoded = TOKENIZER.batch_decode(
+
+        outputs,
+
+        skip_special_tokens=True,
+    )
+
+    if len(decoded) != len(nonempty):
+
+        raise ValueError(
+            "Unexpected number of translations"
+        )
+
+    for (index, original), translated in zip(
+        nonempty,
+        decoded
+    ):
+
+        translated = normalize_space(
+            translated
+        )
+
+        if not translated:
+
+            raise ValueError(
+                f"Empty translation: {original[:80]}"
+            )
+
+        results[index] = translated
+
+    return results
+
+
+# ============================================================
+# ARTICLE PREPARATION
+# ============================================================
+
+def prepare_article(
+    row: dict
+) -> dict:
+
+    key = article_fingerprint(row)
 
     item = {
 
         **row,
 
         "id": hash_key(
-            row["source"],
-            normalize_url(row["url"]),
-            row["published_utc"],
-            normalize_title(title)
+
+            row.get("source", ""),
+
+            row.get("url", ""),
+
+            row.get("published_utc", ""),
+
+            normalize_title(
+                row.get("title_raw", "")
+            )
         ),
 
-        "fingerprint": article_fingerprint(row),
+        "fingerprint": key,
 
-        "title_en": title_en,
+        "title_en": None,
 
-        "lead_en": lead_en,
+        "lead_en": None,
+
+        "translation_status": "pending",
+
+        "translation_attempts": 0,
+
+        "translation_provider": None,
+
+        "translation_error": None,
+
+        "translated_at_utc": None,
+
+        "collected_at_utc": utc_string(
+            utcnow()
+        ),
     }
 
-    return classify_topics(item)
+    # English sources never enter the translation queue.
+
+    if row["source_language"] == "en":
+
+        item["title_en"] = row["title_raw"]
+        item["lead_en"] = row["lead_raw"]
+
+        item["translation_status"] = (
+            "not_required"
+        )
+
+        item["translation_provider"] = (
+            "original_english"
+        )
+
+    # Classify before translation.
+
+    classify_topics(
+        item,
+        include_translation=False
+    )
+
+    if (
+        item["source_language"] == "cs"
+        and not item["relevant"]
+        and not TRANSLATE_ALL
+    ):
+
+        item["translation_status"] = (
+            "not_relevant"
+        )
+
+    return item
 
 
-# ================= ARCHIVE MANAGEMENT =================
+def needs_translation(
+    article: dict
+) -> bool:
 
-def load_archive() -> dict:
-    """
-    Load the persistent archive as a dictionary.
+    return (
 
-    The archive is the permanent translation cache.
-    Any article already present is skipped.
-    """
+        article.get("source_language") == "cs"
+
+        and article.get("translation_status") in (
+            "pending",
+            "failed"
+        )
+    )
+
+
+# ============================================================
+# ARCHIVE MANAGEMENT
+# ============================================================
+
+def load_archive() -> Dict[str, dict]:
 
     if not ARCHIVE_JSON.exists():
+
+        print(
+            "[INFO] No existing archive found."
+        )
+
         return {}
 
-    # Fail explicitly if the archive is corrupted.
-    # This prevents accidental loss of translation history.
-
     data = json.loads(
+
         ARCHIVE_JSON.read_text(
             encoding="utf-8"
         )
     )
 
-    rows = data["articles"]
+    if isinstance(data, list):
+
+        rows = data
+
+    elif isinstance(data, dict):
+
+        rows = data.get("articles")
+
+    else:
+
+        raise ValueError(
+            "Unrecognized archive structure"
+        )
 
     if not isinstance(rows, list):
-        raise ValueError("Invalid archive format")
 
-    return {
-        article_fingerprint(a): a
-        for a in rows
-    }
+        raise ValueError(
+            "Archive articles must be a list"
+        )
+
+    archive = {}
+
+    for row in rows:
+
+        key = article_fingerprint(row)
+
+        # Compatibility with older archive formats.
+
+        if "source_language" not in row:
+
+            row["source_language"] = SOURCES.get(
+
+                row.get("source", ""),
+
+                {}
+
+            ).get(
+
+                "language",
+
+                "cs"
+            )
+
+        if "translation_status" not in row:
+
+            if row["source_language"] == "en":
+
+                row["translation_status"] = (
+                    "not_required"
+                )
+
+                row["title_en"] = row.get(
+                    "title_raw", ""
+                )
+
+                row["lead_en"] = row.get(
+                    "lead_raw", ""
+                )
+
+            elif (
+                row.get("title_en")
+                and (
+                    not row.get("lead_raw")
+                    or row.get("lead_en")
+                )
+            ):
+
+                row["translation_status"] = (
+                    "completed"
+                )
+
+            else:
+
+                row["translation_status"] = (
+                    "pending"
+                )
+
+        row.setdefault(
+            "translation_attempts",
+            0
+        )
+
+        row.setdefault(
+            "translation_provider",
+            None
+        )
+
+        row.setdefault(
+            "translation_error",
+            None
+        )
+
+        row.setdefault(
+            "translated_at_utc",
+            None
+        )
+
+        row["fingerprint"] = key
+
+        archive[key] = row
+
+    return archive
 
 
-def sorted_articles(archive: dict) -> list:
+def sorted_articles(
+    archive: Dict[str, dict]
+) -> List[dict]:
 
     return sorted(
+
         archive.values(),
-        key=lambda a: a["published_utc"],
+
+        key=lambda article: article.get(
+            "published_utc", ""
+        ),
+
         reverse=True
     )
 
 
-# ================= JSON OUTPUT =================
+# ============================================================
+# JSON OUTPUT
+# ============================================================
 
 def atomic_write_json(
     path: Path,
     payload: dict
 ) -> None:
-    """
-    Write JSON through a temporary file to reduce
-    the risk of corruption during interrupted writes.
-    """
 
     path.parent.mkdir(
+
         parents=True,
+
         exist_ok=True
     )
 
-    tmp = path.with_suffix(".tmp")
+    temp_path = path.with_suffix(
+        ".tmp"
+    )
 
-    tmp.write_text(
+    temp_path.write_text(
+
         json.dumps(
+
             payload,
+
             ensure_ascii=False,
-            indent=2
+
+            indent=2,
         ),
+
         encoding="utf-8"
     )
 
-    tmp.replace(path)
+    temp_path.replace(path)
 
 
-def payload(
-    rows: list,
+def build_payload(
+    articles: List[dict],
     now: datetime,
     **extra
 ) -> dict:
@@ -884,214 +1315,103 @@ def payload(
 
         "country_code": "CZ",
 
-        "updated_at_utc": now.strftime(
-            "%Y-%m-%dT%H:%M:%SZ"
-        ),
+        "updated_at_utc": utc_string(now),
 
         **extra,
 
-        "count": len(rows),
+        "count": len(articles),
 
-        "articles": rows,
+        "articles": articles,
     }
 
 
-# ================= MAIN =================
-
-def main() -> int:
-
-    now = _utcnow()
-
-    print("=" * 60)
-    print("[INFO] Czech Media Tracker")
-    print(f"[INFO] Run time: {now.isoformat()}")
-    print(f"[INFO] Rolling window: {KEEP_HOURS} hours")
-    print(f"[INFO] Translation delay: {TRANSLATION_DELAY}s")
-    print("=" * 60)
-
-    # ---------------------------------------------
-    # 1. Load existing translation archive
-    # ---------------------------------------------
-
-    archive = load_archive()
-
-    print(
-        f"[INFO] {len(archive)} previously translated articles"
-    )
-
-    candidates = {}
-
-    # ---------------------------------------------
-    # 2. Collect RSS articles
-    # ---------------------------------------------
-
-    for name, cfg in SOURCES.items():
-
-        rows = collect_from_rss(
-            name,
-            cfg["feeds"]
-        )
-
-        print(
-            f"[INFO] {name}: {len(rows)} RSS entries"
-        )
-
-        for row in rows:
-
-            dt = datetime.fromisoformat(
-                row["published_utc"].replace(
-                    "Z",
-                    "+00:00"
-                )
-            )
-
-            # Ignore articles without titles
-            if not row["title_raw"]:
-                continue
-
-            # Ignore articles outside rolling window
-            if not within_hours(
-                dt,
-                now,
-                KEEP_HOURS
-            ):
-                continue
-
-            key = article_fingerprint(row)
-
-            # Only retain articles not already archived
-            if key not in archive:
-
-                candidates.setdefault(
-                    key,
-                    row
-                )
-
-    print(
-        f"[INFO] {len(candidates)} new articles to process"
-    )
-
-    # ---------------------------------------------
-    # 3. Translate only previously unseen articles
-    # ---------------------------------------------
-
-    added = 0
-    failed = 0
-
-    for key, row in candidates.items():
-
-        try:
-
-            item = enrich_article(row)
-
-        except TooManyRequests:
-
-            print(
-                "[WARN] Google rate limit reached."
-            )
-
-            print(
-                "[WARN] Stopping translations for this run."
-            )
-
-            print(
-                "[WARN] Successfully translated articles "
-                "will still be saved."
-            )
-
-            failed += 1
-
-            break
-
-        except Exception as exc:
-
-            print(
-                f"[WARN] Skipping untranslated article "
-                f"{row['url']}: {exc}"
-            )
-
-            failed += 1
-
-            continue
-
-        # Add successfully processed article to archive
-        archive[key] = item
-
-        added += 1
-
-        print(
-            f"[INFO] Added article "
-            f"{added}/{len(candidates)}"
-        )
-
-        # Save progress after every successful article
-        atomic_write_json(
-            ARCHIVE_JSON,
-            payload(
-                sorted_articles(archive),
-                now
-            )
-        )
-
-    # ---------------------------------------------
-    # 4. Generate persistent archive
-    # ---------------------------------------------
-
-    all_articles = sorted_articles(archive)
+def save_archive(
+    archive: Dict[str, dict],
+    now: datetime
+) -> None:
 
     atomic_write_json(
+
         ARCHIVE_JSON,
-        payload(
-            all_articles,
+
+        build_payload(
+
+            sorted_articles(archive),
+
             now
         )
     )
 
-    # ---------------------------------------------
-    # 5. Generate rolling 48-hour feed
-    # ---------------------------------------------
+
+def is_publishable(
+    article: dict
+) -> bool:
+
+    return article.get(
+
+        "translation_status"
+
+    ) in (
+
+        "completed",
+
+        "not_required"
+    )
+
+
+def write_output_files(
+    archive: Dict[str, dict],
+    now: datetime
+) -> None:
+
+    all_articles = sorted_articles(
+        archive
+    )
+
+    save_archive(
+        archive,
+        now
+    )
+
+    # Latest and topic feeds only contain articles
+    # that are ready to display in English.
 
     latest = [
 
-        a for a in all_articles
+        article
 
-        if within_hours(
+        for article in all_articles
 
-            datetime.fromisoformat(
-                a["published_utc"].replace(
-                    "Z",
-                    "+00:00"
-                )
-            ),
+        if within_window(article, now)
 
-            now,
-
-            KEEP_HOURS
-        )
+        and is_publishable(article)
     ]
 
     atomic_write_json(
 
         OUT_JSON,
 
-        payload(
+        build_payload(
+
             latest,
+
             now,
+
             keep_hours=KEEP_HOURS
         )
     )
-
-    # ---------------------------------------------
-    # 6. Generate individual topic files
-    # ---------------------------------------------
 
     for topic in TOPIC_KEYWORDS:
 
         subset = [
 
-            a for a in latest
+            article
 
-            if topic in a.get("topics", [])
+            for article in latest
+
+            if topic in article.get(
+                "topics", []
+            )
         ]
 
         atomic_write_json(
@@ -1100,58 +1420,610 @@ def main() -> int:
                 f"data/articles_{topic}.json"
             ),
 
-            payload(
+            build_payload(
+
                 subset,
+
                 now,
+
                 topic=topic
             )
         )
 
         print(
-            f"[OK] {topic}: {len(subset)} articles"
+            f"[OK] {topic}: "
+            f"{len(subset)} articles"
         )
-
-    # ---------------------------------------------
-    # 7. Print execution summary
-    # ---------------------------------------------
-
-    print("=" * 60)
-
-    print("[OK] Czech Media Tracker completed")
-
-    print(
-        f"[OK] New articles added: {added}"
-    )
-
-    print(
-        f"[INFO] New articles not added: "
-        f"{len(candidates) - added}"
-    )
-
-    print(
-        f"[INFO] Translation failures: {failed}"
-    )
 
     print(
         f"[OK] Latest articles: {len(latest)}"
     )
 
     print(
-        f"[OK] Total archived articles: {len(all_articles)}"
+        f"[OK] Archive articles: "
+        f"{len(all_articles)}"
+    )
+
+
+# ============================================================
+# TRANSLATION QUEUE
+# ============================================================
+
+def translate_pending_articles(
+
+    archive: Dict[str, dict],
+
+    now: datetime
+
+) -> int:
+
+    pending = [
+
+        article
+
+        for article in archive.values()
+
+        if needs_translation(article)
+    ]
+
+    # Prioritize recent news, followed by the older backlog.
+
+    pending.sort(
+
+        key=lambda article: (
+
+            within_window(article, now),
+
+            article.get("published_utc", "")
+        ),
+
+        reverse=True
     )
 
     print(
-        f"[OK] Latest file: {OUT_JSON}"
+        f"[INFO] Total pending translations: "
+        f"{len(pending)}"
+    )
+
+    selected = pending[:TRANSLATE_LIMIT]
+
+    print(
+        f"[INFO] Selected for this run: "
+        f"{len(selected)}"
+    )
+
+    if not selected:
+
+        print(
+            "[INFO] No translations required."
+        )
+
+        return 0
+
+    load_translator()
+
+    completed = 0
+
+    for start in range(
+
+        0,
+
+        len(selected),
+
+        BATCH_SIZE
+    ):
+
+        batch = selected[
+
+            start:start + BATCH_SIZE
+        ]
+
+        batch_number = (
+
+            start // BATCH_SIZE + 1
+        )
+
+        batch_start = time.monotonic()
+
+        print(
+            f"[BATCH] {batch_number}: "
+            f"{len(batch)} articles"
+        )
+
+        for article in batch:
+
+            article["translation_attempts"] += 1
+
+        try:
+
+            titles = [
+
+                article.get("title_raw", "")
+
+                for article in batch
+            ]
+
+            leads = [
+
+                article.get("lead_raw", "")
+
+                for article in batch
+            ]
+
+            translated_titles = translate_batch(
+                titles
+            )
+
+            translated_leads = translate_batch(
+                leads
+            )
+
+            for article, title_en, lead_en in zip(
+
+                batch,
+
+                translated_titles,
+
+                translated_leads
+            ):
+
+                article["title_en"] = title_en
+
+                article["lead_en"] = lead_en
+
+                article["translation_status"] = (
+                    "completed"
+                )
+
+                article["translation_provider"] = (
+                    MODEL_NAME
+                )
+
+                article["translated_at_utc"] = (
+                    utc_string(utcnow())
+                )
+
+                article["translation_error"] = None
+
+                # Reclassify using both Czech and English.
+
+                classify_topics(
+
+                    article,
+
+                    include_translation=True
+                )
+
+                completed += 1
+
+                print(
+                    f"[TRANSLATED] "
+                    f"{article['title_raw']}"
+                )
+
+                print(
+                    f"          -> {title_en}"
+                )
+
+                print(
+                    f"[TOPICS] "
+                    f"{article['topics']}"
+                )
+
+        except Exception as exc:
+
+            print(
+                f"[ERROR] Batch translation failed: "
+                f"{type(exc).__name__}: {exc}"
+            )
+
+            for article in batch:
+
+                article["translation_status"] = (
+                    "failed"
+                )
+
+                article["translation_error"] = str(
+                    exc
+                )
+
+            save_archive(
+                archive,
+                now
+            )
+
+            # Stop to avoid repeatedly failing
+            # with an unavailable or broken model.
+
+            break
+
+        # Save completed translations immediately.
+
+        save_archive(
+
+            archive,
+
+            now
+        )
+
+        elapsed = (
+
+            time.monotonic() - batch_start
+        )
+
+        print(
+            f"[BATCH] Completed in "
+            f"{elapsed:.1f}s"
+        )
+
+        print(
+            f"[PROGRESS] "
+            f"{completed}/{len(selected)} "
+            f"articles translated"
+        )
+
+    return completed
+
+
+# ============================================================
+# MAIN
+# ============================================================
+
+def main() -> int:
+
+    now = utcnow()
+
+    start_time = time.monotonic()
+
+    print("=" * 65)
+
+    print(
+        "[INFO] Czech Media Tracker"
     )
 
     print(
-        f"[OK] Archive file: {ARCHIVE_JSON}"
+        f"[INFO] Run time: {utc_string(now)}"
     )
 
-    print("=" * 60)
+    print(
+        f"[INFO] Model: {MODEL_NAME}"
+    )
+
+    print(
+        f"[INFO] Rolling window: "
+        f"{KEEP_HOURS} hours"
+    )
+
+    print(
+        f"[INFO] Translation limit: "
+        f"{TRANSLATE_LIMIT} articles"
+    )
+
+    print(
+        f"[INFO] Batch size: {BATCH_SIZE}"
+    )
+
+    print(
+        f"[INFO] Translate all: {TRANSLATE_ALL}"
+    )
+
+    print("=" * 65)
+
+    # --------------------------------------------------------
+    # 1. Load persistent archive.
+    # --------------------------------------------------------
+
+    archive = load_archive()
+
+    existing_count = len(archive)
+
+    completed_before = sum(
+
+        1
+
+        for article in archive.values()
+
+        if article.get("translation_status")
+        == "completed"
+    )
+
+    print(
+        f"[INFO] Existing archive: "
+        f"{existing_count} articles"
+    )
+
+    print(
+        f"[INFO] Previously translated: "
+        f"{completed_before} articles"
+    )
+
+    # --------------------------------------------------------
+    # 2. Collect new RSS articles.
+    # --------------------------------------------------------
+
+    new_count = 0
+    duplicate_count = 0
+    new_english_count = 0
+    new_pending_count = 0
+    new_irrelevant_count = 0
+
+    successful_sources = 0
+
+    for source_name, config in SOURCES.items():
+
+        print(
+            f"[RSS] Fetching {source_name}"
+        )
+
+        try:
+
+            rows = collect_from_rss(
+
+                source_name,
+
+                config,
+
+                now
+            )
+
+        except Exception as exc:
+
+            print(
+                f"[ERROR] RSS source failed: "
+                f"{source_name}: {exc}"
+            )
+
+            continue
+
+        successful_sources += 1
+
+        print(
+            f"[RSS] {source_name}: "
+            f"{len(rows)} recent articles"
+        )
+
+        for row in rows:
+
+            key = article_fingerprint(
+                row
+            )
+
+            # Never reprocess an article already stored.
+
+            if key in archive:
+
+                duplicate_count += 1
+
+                continue
+
+            article = prepare_article(
+                row
+            )
+
+            archive[key] = article
+
+            new_count += 1
+
+            status = article[
+                "translation_status"
+            ]
+
+            if status == "not_required":
+
+                new_english_count += 1
+
+            elif status == "pending":
+
+                new_pending_count += 1
+
+            elif status == "not_relevant":
+
+                new_irrelevant_count += 1
+
+    print("=" * 65)
+
+    print(
+        f"[INFO] New articles: {new_count}"
+    )
+
+    print(
+        f"[INFO] Duplicates skipped: "
+        f"{duplicate_count}"
+    )
+
+    print(
+        f"[INFO] New English articles: "
+        f"{new_english_count}"
+    )
+
+    print(
+        f"[INFO] New Czech translation candidates: "
+        f"{new_pending_count}"
+    )
+
+    print(
+        f"[INFO] New irrelevant Czech articles: "
+        f"{new_irrelevant_count}"
+    )
+
+    # --------------------------------------------------------
+    # 3. Save collection before loading the model.
+    # --------------------------------------------------------
+
+    save_archive(
+        archive,
+        now
+    )
+
+    write_output_files(
+        archive,
+        now
+    )
+
+    print(
+        "[OK] Original articles saved."
+    )
+
+    # --------------------------------------------------------
+    # 4. Reconsider untranslated articles if settings
+    #    or keywords have changed.
+    # --------------------------------------------------------
+
+    for article in archive.values():
+
+        if article.get("translation_status") == (
+            "not_relevant"
+        ):
+
+            classify_topics(
+
+                article,
+
+                include_translation=False
+            )
+
+            if (
+                TRANSLATE_ALL
+                or article["relevant"]
+            ):
+
+                article["translation_status"] = (
+                    "pending"
+                )
+
+    save_archive(
+        archive,
+        now
+    )
+
+    # --------------------------------------------------------
+    # 5. Translate pending articles.
+    # --------------------------------------------------------
+
+    translated_count = 0
+
+    try:
+
+        translated_count = translate_pending_articles(
+
+            archive,
+
+            now
+        )
+
+    except Exception as exc:
+
+        print(
+            f"[ERROR] Translation stage failed: "
+            f"{type(exc).__name__}: {exc}"
+        )
+
+        print(
+            "[WARN] Articles remain saved "
+            "for future translation."
+        )
+
+    # --------------------------------------------------------
+    # 6. Generate all final output files.
+    # --------------------------------------------------------
+
+    write_output_files(
+
+        archive,
+
+        utcnow()
+    )
+
+    # --------------------------------------------------------
+    # 7. Final statistics.
+    # --------------------------------------------------------
+
+    statuses = {
+
+        "completed": 0,
+
+        "pending": 0,
+
+        "failed": 0,
+
+        "not_required": 0,
+
+        "not_relevant": 0,
+    }
+
+    for article in archive.values():
+
+        status = article.get(
+            "translation_status",
+            "pending"
+        )
+
+        statuses[status] = (
+
+            statuses.get(status, 0) + 1
+        )
+
+    elapsed = (
+
+        time.monotonic() - start_time
+    )
+
+    print("=" * 65)
+
+    print(
+        "[OK] Czech Media Tracker completed"
+    )
+
+    print(
+        f"[OK] New articles collected: "
+        f"{new_count}"
+    )
+
+    print(
+        f"[OK] Newly translated articles: "
+        f"{translated_count}"
+    )
+
+    print(
+        f"[OK] Total translated articles: "
+        f"{statuses['completed']}"
+    )
+
+    print(
+        f"[OK] Original English articles: "
+        f"{statuses['not_required']}"
+    )
+
+    print(
+        f"[INFO] Pending translations: "
+        f"{statuses['pending']}"
+    )
+
+    print(
+        f"[INFO] Failed translations: "
+        f"{statuses['failed']}"
+    )
+
+    print(
+        f"[INFO] Irrelevant articles archived: "
+        f"{statuses['not_relevant']}"
+    )
+
+    print(
+        f"[OK] Total archived articles: "
+        f"{len(archive)}"
+    )
+
+    print(
+        f"[INFO] Runtime: "
+        f"{elapsed:.1f} seconds"
+    )
+
+    print("=" * 65)
 
     return 0
 
 
 if __name__ == "__main__":
+
     raise SystemExit(main())
