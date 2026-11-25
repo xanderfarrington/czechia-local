@@ -1,11 +1,9 @@
 {
-  "provider": "Microsoft Azure Translator",
-  "months": {
-    "2026-11": {
-      "characters": 74013,
-      "requests": 9
-    }
-  },
-  "updated_at_utc": "2026-11-25T14:40:43Z",
-  "monthly_safety_limit": 1800000
+  "month": "2026-11",
+  "characters_used": 10264,
+  "successful_requests": 2,
+  "rejected_requests": 0,
+  "rejected_characters": 0,
+  "uncertain_requests": 0,
+  "updated_at_utc": "2026-11-25T14:59:14Z"
 }

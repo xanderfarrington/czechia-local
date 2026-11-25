@@ -1,112 +1,9 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T14:40:44Z",
-  "topic": "energy",
-  "count": 11,
+  "updated_at_utc": "2026-11-25T14:59:14Z",
+  "count": 9,
   "articles": [
-    {
-      "id": "ea3c93c04b044771d2699ba34c5fea1b9ad820f8",
-      "fingerprint": "74ac39ffcbe0fb0010779f16e06bcad49d4bc1ad",
-      "source": "Novinky",
-      "source_language": "cs",
-      "url": "https://www.novinky.cz/clanek/ekonomika-cenove-stropy-pohonne-hmoty-zlevni-o-desitky-haleru-40610397",
-      "published_utc": "2026-11-25T13:07:08Z",
-      "collected_at_utc": "2026-11-25T14:33:38Z",
-      "title_raw": "Cenové stropy: Pohonné hmoty zlevní o desítky haléřů",
-      "lead_raw": "Ministerstvo financí ve středu zveřejnilo cenové stropy na pohonné hmoty, které budou v platnosti ve čtvrtek. Benzín se bude moci prodávat maximálně za 38,80 koruny za litr, nafta za 43,07 koruny za litr. Nejvyšší ceny paliv stanovené státem na středu činily 39,11 koruny za litr benzínu a 43,54 koruny za litr nafty.",
-      "title_en": "Price caps: Fuel prices will drop by tens of haléřů",
-      "lead_en": "The Ministry of Finance published price caps on fuels on Wednesday, which will be in effect on Thursday. Gasoline will be sold for a maximum of 38.80 crowns per liter, diesel for 43.07 crowns per liter. The highest fuel prices set by the state on Wednesday were 39.11 crowns per liter of gasoline and 43.54 crowns per liter of diesel.",
-      "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 9,
-        "economy": 14,
-        "domestic_politics": 4,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          "fuel_prices"
-        ],
-        "economy": [
-          "price_caps",
-          "currency",
-          "prices"
-        ],
-        "domestic_politics": [
-          "government"
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          {
-            "concept": "fuel_prices",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "economy": [
-          {
-            "concept": "price_caps",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "currency",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          },
-          {
-            "concept": "prices",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
-          }
-        ],
-        "domestic_politics": [
-          {
-            "concept": "government",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "relevant": true,
-      "primary_topic": "economy",
-      "classification_version": 4,
-      "translated_at_utc": "2026-11-25T14:33:44Z"
-    },
     {
       "id": "e4b7d54f2296c29e5d1487b0897fd08e83533d41",
       "fingerprint": "c88214b78da4a11d2c50ac4c70fdad1a7396bae3",
@@ -120,8 +17,8 @@
       "title_en": "The price cap for gasoline will drop below 39 crowns, diesel will drop to 43 CZK",
       "lead_en": "Prague - The highest permitted fuel prices, set daily by the state, will continue to fall. The price cap on gasoline will drop below 39 crowns for the first time in a long while; compared to today, gasoline will be cheaper by...",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -130,8 +27,8 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
-        "energy": 9,
-        "economy": 15,
+        "energy": 6,
+        "economy": 3,
         "domestic_politics": 0,
         "foreign_affairs": 0,
         "local_events": 0
@@ -143,9 +40,7 @@
           "fuel_prices"
         ],
         "economy": [
-          "price_caps",
-          "currency",
-          "prices"
+          "currency"
         ],
         "domestic_politics": [],
         "foreign_affairs": [],
@@ -158,28 +53,14 @@
           {
             "concept": "fuel_prices",
             "strength": 3,
-            "headline": true,
+            "headline": false,
             "lead": true,
-            "points": 9
+            "points": 6
           }
         ],
         "economy": [
           {
-            "concept": "price_caps",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
             "concept": "currency",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
-          },
-          {
-            "concept": "prices",
             "strength": 1,
             "headline": true,
             "lead": true,
@@ -191,12 +72,11 @@
         "local_events": []
       },
       "topics": [
-        "energy",
-        "economy"
+        "energy"
       ],
       "relevant": true,
-      "primary_topic": "economy",
-      "classification_version": 4,
+      "primary_topic": "energy",
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:33:44Z"
     },
     {
@@ -212,8 +92,8 @@
       "title_en": "Dlouhé stráně will also produce electricity from the sun, completing a new photovoltaic system",
       "lead_en": "The new photovoltaic power plant installed on the roof of its administrative building is expanding the portfolio of renewable sources by the Dlouhé stráně pumped-storage hydroelectric power plant in the Jeseníky Mountains. It consists of 345 photovoltaic panels and will have a capacity of 153 kWp.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -222,7 +102,7 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
-        "energy": 18,
+        "energy": 21,
         "economy": 0,
         "domestic_politics": 0,
         "foreign_affairs": 0,
@@ -233,7 +113,8 @@
         "military": [],
         "energy": [
           "electricity",
-          "renewables"
+          "renewable_energy",
+          "hydropower"
         ],
         "economy": [],
         "domestic_politics": [],
@@ -252,72 +133,14 @@
             "points": 9
           },
           {
-            "concept": "renewables",
+            "concept": "renewable_energy",
             "strength": 3,
-            "headline": true,
+            "headline": false,
             "lead": true,
-            "points": 9
-          }
-        ],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "energy"
-      ],
-      "relevant": true,
-      "primary_topic": "energy",
-      "classification_version": 4,
-      "translated_at_utc": "2026-11-25T14:33:44Z"
-    },
-    {
-      "id": "109f13c844859bee0da06f65f2f120bc33839be3",
-      "fingerprint": "03808764dc2110e1c1361bccdeaacfc453c5b2e2",
-      "source": "Novinky",
-      "source_language": "cs",
-      "url": "https://www.novinky.cz/clanek/lifestyle-osobnosti-od-obriho-tenisaku-po-repliku-synagogy-jeho-remeslny-um-ocenuji-i-svetove-znacky-40609888",
-      "published_utc": "2026-11-25T12:31:00Z",
-      "collected_at_utc": "2026-11-25T14:33:38Z",
-      "title_raw": "Od obřího tenisáku po repliku synagogy. Jeho řemeslný um oceňují i světové značky",
-      "lead_raw": "Obří gumu s tužkou a tubou barvy pro Koh-i-noor, více než metrový tenisák jako dekorace na slavný Roland Garros, maketu pantofle dvakrát vyšší než člověk na festival Colours of Ostrava, ale i všechny planety Sluneční soustavy či maketu dobové benzinové pumpy pro muzikál Bonnie a Clyde ze dřeva. Stovky dalších předmětů vytvořil ve své dílně Jan Bašta z Mníšku u Liberce.",
-      "title_en": "From a giant tennis ball to a synagogue replica. His craftsmanship is also appreciated by global brands",
-      "lead_en": "A giant eraser with a pencil and a tube of paint for Koh-i-noor, a tennis ball over a meter long as a decoration for the famous Roland Garros, a model of a slipper twice as tall as a person for the Colours of Ostrava festival, as well as all the planets of the Solar System, and a model of a period gas station for the musical Bonnie and Clyde made of wood. Hundreds of other items were created in the workshop of Jan Bašta from Mníšek near Liberec.",
-      "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 6,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          "fuel_prices"
-        ],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
+            "points": 6
+          },
           {
-            "concept": "fuel_prices",
+            "concept": "hydropower",
             "strength": 3,
             "headline": false,
             "lead": true,
@@ -334,8 +157,84 @@
       ],
       "relevant": true,
       "primary_topic": "energy",
-      "classification_version": 4,
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:33:44Z"
+    },
+    {
+      "id": "5f5979854be35a1924646888ad6076cc829ffd38",
+      "fingerprint": "e8e62076d17a9820134cb08f759896a0bbffb7f5",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/pri-ruskem-utoku-v-kyjevske-oblasti-zahynul-muz-v-rusku-hori-rafinerie.A261125_070149_zahranicni_tmps",
+      "published_utc": "2026-11-25T12:31:00Z",
+      "collected_at_utc": "2026-11-25T14:33:41Z",
+      "title_raw": "Ukrajinci zaútočili na dvě rafinerie v Samarské oblasti, vypukly velké požáry",
+      "lead_raw": "Ruské útoky ve městě Bila Cerkva a v Charkovské oblasti si vyžádaly dva mrtvé. Pět oblastí Ukrajiny se potýká s výpadky dodávek elektrické energie, uvedly ukrajinské úřady. V Rusku podle médií opět čelily útokům rafinerie a také letecká základna, kde bylo poškozeno pět letounů.",
+      "title_en": "Ukrainians attacked two refineries in the Samara region, causing large fires",
+      "lead_en": "Russian attacks in the city of Bila Tserkva and the Kharkiv region have claimed two lives. Five regions of Ukraine are facing power outages, Ukrainian authorities said. According to media reports, refineries and an airbase in Russia have again faced attacks, where five aircraft were damaged.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "refining"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "refining",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "energy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T14:59:14Z"
     },
     {
       "id": "001aff1bf8179986f645b3709bd2dac10927a50c",
@@ -348,10 +247,10 @@
       "title_raw": "Horolezci bourali část komína 100 metrů nad zemí, se zbytkem pomohou jeřáby",
       "lead_raw": "V areálu teplárny ve Dvoře Králové nad Labem na Trutnovsku skončila první část demolice 100 metrů vysokého komína. Čtyři horolezci ručně rozebírali několik vrchních metrů cihlové stavby. Přes zimu budou práce pokračovat demontáží vnitřních technologií. Ke kompletní demolici dojde na jaře, kdy s rozebráním pomůže těžká technika.",
       "title_en": "Climbers demolished part of the chimney 100 meters above the ground; cranes will help with the rest.",
-      "lead_en": "The first phase of the demolition of a 100-meter-high chimney has been completed at the heating plant site in Dvůr Králové nad Labem in the Trutnov district. Four climbers manually dismantled several of the top meters of the brick structure. Work will continue over the winter with the dismantling of internal technologies. Complete demolition will take place in spring, with heavy machinery assisting with the dismantling.",
+      "lead_en": "The first phase of the demolition of a 100-meter-high chimney has been completed at the district heating plant site in Dvůr Králové nad Labem in the Trutnov district. Four climbers manually dismantled several of the top meters of the brick structure. Work will continue over the winter with the dismantling of internal technologies. Complete demolition will take place in spring, with heavy machinery assisting with the dismantling.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -370,7 +269,7 @@
         "diplomacy": [],
         "military": [],
         "energy": [
-          "heating"
+          "district_heating"
         ],
         "economy": [],
         "domestic_politics": [],
@@ -382,7 +281,7 @@
         "military": [],
         "energy": [
           {
-            "concept": "heating",
+            "concept": "district_heating",
             "strength": 3,
             "headline": false,
             "lead": true,
@@ -399,7 +298,7 @@
       ],
       "relevant": true,
       "primary_topic": "energy",
-      "classification_version": 4,
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:33:44Z"
     },
     {
@@ -415,8 +314,8 @@
       "title_en": "'I just don't want to.' Residents of Břidličná rejected wind turbines, the town hall is dealing with how to get out of the contract",
       "lead_en": "Joy over the referendum result has been replaced by worries in Břidličná in the Bruntál district. The residents overwhelmingly rejected the construction of wind turbines. The new city council leadership is now dealing with how to safely break free from contracts their predecessors signed with investors. Břidličná has already received a ten-million-euro advance from them. Therefore, the town hall wants to hire a law firm, and the councilors will discuss this on Wednesday.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -425,9 +324,9 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
-        "energy": 9,
-        "economy": 4,
-        "domestic_politics": 6,
+        "energy": 18,
+        "economy": 0,
+        "domestic_politics": 9,
         "foreign_affairs": 0,
         "local_events": 0
       },
@@ -435,11 +334,10 @@
         "diplomacy": [],
         "military": [],
         "energy": [
-          "electricity"
+          "electricity",
+          "wind_energy"
         ],
-        "economy": [
-          "investment"
-        ],
+        "economy": [],
         "domestic_politics": [
           "municipal_government"
         ],
@@ -454,26 +352,25 @@
             "concept": "electricity",
             "strength": 3,
             "headline": true,
+            "lead": false,
+            "points": 9
+          },
+          {
+            "concept": "wind_energy",
+            "strength": 3,
+            "headline": true,
             "lead": true,
             "points": 9
           }
         ],
-        "economy": [
-          {
-            "concept": "investment",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          }
-        ],
+        "economy": [],
         "domestic_politics": [
           {
             "concept": "municipal_government",
             "strength": 3,
-            "headline": false,
+            "headline": true,
             "lead": true,
-            "points": 6
+            "points": 9
           }
         ],
         "foreign_affairs": [],
@@ -485,7 +382,7 @@
       ],
       "relevant": true,
       "primary_topic": "energy",
-      "classification_version": 4,
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:33:45Z"
     },
     {
@@ -501,8 +398,8 @@
       "title_en": "Most heating plants in the Czech Republic will raise heat prices next year, with gas heating rising the most",
       "lead_en": "According to the Heating Association, most Czech heating plants will become more expensive in 2027. The price of heat from gas will rise by 15 to 20 percent, from forest chips by more than a tenth, and from coal roughly by inflation. This is due to higher fuel prices and tax changes.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -511,8 +408,8 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
-        "energy": 15,
-        "economy": 15,
+        "energy": 6,
+        "economy": 6,
         "domestic_politics": 0,
         "foreign_affairs": 0,
         "local_events": 0
@@ -521,13 +418,10 @@
         "diplomacy": [],
         "military": [],
         "energy": [
-          "heating",
           "coal"
         ],
         "economy": [
-          "inflation",
-          "taxation",
-          "prices"
+          "inflation"
         ],
         "domestic_politics": [],
         "foreign_affairs": [],
@@ -537,13 +431,6 @@
         "diplomacy": [],
         "military": [],
         "energy": [
-          {
-            "concept": "heating",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
           {
             "concept": "coal",
             "strength": 3,
@@ -559,20 +446,6 @@
             "headline": false,
             "lead": true,
             "points": 6
-          },
-          {
-            "concept": "taxation",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "prices",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
           }
         ],
         "domestic_politics": [],
@@ -585,24 +458,24 @@
       ],
       "relevant": true,
       "primary_topic": "energy",
-      "classification_version": 4,
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:33:45Z"
     },
     {
-      "id": "3edfc592c90d266e93806f5326a0be97e854f15e",
-      "fingerprint": "bfbcb1d69ff85b0c2b234a1d60ad0f6d6e0ac19e",
-      "source": "České noviny / ČTK - Economy",
+      "id": "d4f339495c4aa9b27e4eb5597be306920b29ffc5",
+      "fingerprint": "6543b3a8f99c87066b3bfe76a9bc2fbf0c4c2343",
+      "source": "ČT24",
       "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/vetsina-teplaren-pristi-rok-zvysi-ceny-nejvice-zdrazi-teplo-z-plynu/2906358",
-      "published_utc": "2026-11-25T08:37:00Z",
-      "collected_at_utc": "2026-11-25T14:33:36Z",
-      "title_raw": "Většina tepláren příští rok zvýší ceny, nejvíce zdraží teplo z plynu",
-      "lead_raw": "Praha - Většina tepláren v Česku v příštím roce zvýší ceny dodávaného tepla. Nejvíce zdraží teplo produkované z plynu, oproti letošku to bude o 15 až 20 procent. Důvodem je letošní prudký růst cen zemního...",
-      "title_en": "Most heating plants will raise prices next year, with gas heating rising the most",
-      "lead_en": "Prague - Most heating plants in the Czech Republic will increase the prices of supplied heat next year. The biggest price increase will be for heat produced from gas, which will be 15 to 20 percent higher compared to this year. The reason is this year's sharp rise in natural fuel prices...",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/pri-ruskem-utoku-v-kyjevske-oblasti-zahynul-muz-v-rusku-hori-rafinerie-379928",
+      "published_utc": "2026-11-25T06:49:48Z",
+      "collected_at_utc": "2026-11-25T14:33:37Z",
+      "title_raw": "Ukrajina hlásí zničení pěti ruských letadel a zásah dvou rafinerií. Kyjev a Charkov čelily ostřelování",
+      "lead_raw": "Ruské útoky v Kyjevské a Charkovské oblasti si vyžádaly dva mrtvé, oznámili tamní představitelé. Pět oblastí Ukrajiny se potýká s výpadky dodávek elektrické energie, informovaly úřady. Ukrajinská armáda uvedla, že v Rusku zasáhla dvě rafinerie a také leteckou základnu, kde poškodila pět letounů. Gubernátor ruské Samarské oblasti Vjačeslav Fedoriščev tvrdí, že tam byl při dronovém úderu zabit jeden člověk.",
+      "title_en": "Ukraine reports the destruction of five Russian aircraft and the strike of two refineries. Kyiv and Kharkiv faced shelling",
+      "lead_en": "Russian attacks in the Kyiv and Kharkiv regions have claimed two lives, local officials reported. Five regions of Ukraine are facing power outages, authorities reported. The Ukrainian army said it struck two refineries and an airbase in Russia, damaging five aircraft. Vyacheslav Fedorishchev, governor of Russia's Samara region, claims that one person was killed in a drone strike there.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -610,57 +483,85 @@
       "translation_warnings": [],
       "topic_scores": {
         "diplomacy": 0,
-        "military": 0,
+        "military": 17,
         "energy": 9,
-        "economy": 3,
+        "economy": 0,
         "domestic_politics": 0,
-        "foreign_affairs": 0,
+        "foreign_affairs": 9,
         "local_events": 0
       },
       "matched_keywords": {
         "diplomacy": [],
-        "military": [],
+        "military": [
+          "armed_forces",
+          "generic_drones",
+          "military_operations"
+        ],
         "energy": [
-          "heating"
+          "refining"
         ],
-        "economy": [
-          "prices"
-        ],
+        "economy": [],
         "domestic_politics": [],
-        "foreign_affairs": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
         "local_events": []
       },
       "classification_details": {
         "diplomacy": [],
-        "military": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "generic_drones",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "military_operations",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
         "energy": [
           {
-            "concept": "heating",
+            "concept": "refining",
             "strength": 3,
             "headline": true,
             "lead": true,
             "points": 9
           }
         ],
-        "economy": [
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
           {
-            "concept": "prices",
-            "strength": 1,
+            "concept": "ukraine",
+            "strength": 3,
             "headline": true,
             "lead": true,
-            "points": 3
+            "points": 9
           }
         ],
-        "domestic_politics": [],
-        "foreign_affairs": [],
         "local_events": []
       },
       "topics": [
-        "energy"
+        "military",
+        "energy",
+        "foreign_affairs"
       ],
       "relevant": true,
-      "primary_topic": "energy",
-      "classification_version": 4,
+      "primary_topic": "military",
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:40:42Z"
     },
     {
@@ -676,8 +577,8 @@
       "title_en": "The government could regulate electricity prices and producers' incomes, supported by the Chamber of Deputies",
       "lead_en": "Prague - The government will likely be able to regulate electricity prices for consumers in the event of further sharp price increases and possibly set an upper limit on the income of electricity producers. This is anticipated by the amendment to the Energy Code...",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -686,9 +587,9 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
-        "energy": 9,
-        "economy": 3,
-        "domestic_politics": 21,
+        "energy": 18,
+        "economy": 0,
+        "domestic_politics": 15,
         "foreign_affairs": 0,
         "local_events": 0
       },
@@ -696,15 +597,13 @@
         "diplomacy": [],
         "military": [],
         "energy": [
-          "electricity"
+          "electricity",
+          "energy_prices"
         ],
-        "economy": [
-          "prices"
-        ],
+        "economy": [],
         "domestic_politics": [
-          "government",
           "parliament",
-          "legislation"
+          "government"
         ],
         "foreign_affairs": [],
         "local_events": []
@@ -719,25 +618,17 @@
             "headline": true,
             "lead": true,
             "points": 9
-          }
-        ],
-        "economy": [
-          {
-            "concept": "prices",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
-          }
-        ],
-        "domestic_politics": [
-          {
-            "concept": "government",
-            "strength": 2,
-            "headline": true,
-            "lead": true,
-            "points": 6
           },
+          {
+            "concept": "energy_prices",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [
           {
             "concept": "parliament",
             "strength": 3,
@@ -746,9 +637,9 @@
             "points": 9
           },
           {
-            "concept": "legislation",
-            "strength": 3,
-            "headline": false,
+            "concept": "government",
+            "strength": 2,
+            "headline": true,
             "lead": true,
             "points": 6
           }
@@ -761,91 +652,8 @@
         "domestic_politics"
       ],
       "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 4,
-      "translated_at_utc": "2026-11-25T14:40:43Z"
-    },
-    {
-      "id": "7314995f19d20ee48043edd2ce305c8e7a3855f8",
-      "fingerprint": "bc835c72e548a90d3b91faed45a636e6bd94cc95",
-      "source": "České noviny / ČTK - Economy",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/plzenska-teplarenska-zvysi-od-ledna-cenu-tepla-v-plzni-o-35-procenta/2906086",
-      "published_utc": "2026-11-24T16:19:00Z",
-      "collected_at_utc": "2026-11-25T14:33:36Z",
-      "title_raw": "Plzeňská teplárenská zvýší od ledna cenu tepla v Plzni o 3,5 procenta",
-      "lead_raw": "Plzeň - Společnost Plzeňská teplárenská, největší dodavatel tepla na západě Čech, zdraží od 1. ledna příštího roku teplo v Plzni průměrně o 3,5 procenta na 936,99 koruny za gigajoule (GJ) s DPH. Schválilo...",
-      "title_en": "Plzeňská teplárenská will increase the heat price in Plzeň by 3.5 percent starting in January",
-      "lead_en": "Plzeň - Plzeňská teplárenská, the largest heat supplier in western Bohemia, will increase heating prices in Plzeň by an average of 3.5 percent to 936.99 crowns per gigajoule (GJ) including VAT starting January 1 next year. It approved...",
-      "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 9,
-        "economy": 5,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          "heating"
-        ],
-        "economy": [
-          "currency",
-          "prices"
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          {
-            "concept": "heating",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "economy": [
-          {
-            "concept": "currency",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          },
-          {
-            "concept": "prices",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
-          }
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "energy"
-      ],
-      "relevant": true,
       "primary_topic": "energy",
-      "classification_version": 4,
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:40:43Z"
     },
     {
@@ -861,8 +669,8 @@
       "title_en": "The price cap on diesel will drop below 44 crowns per liter after a long time. Gasoline is also set to become cheaper",
       "lead_en": "The maximum fuel prices set daily by the state will again drop by tens of haléřů on Wednesday. The price cap on diesel will drop below 44 crowns after a long time, and compared to Tuesday, diesel will drop by 47 haléřů to 43.54 crowns per liter. Drivers can fill up with gasoline for a maximum of 39.11 crowns. This is according to the price bulletin published by the Ministry of Finance on Tuesday. On Monday, the government extended measures against high fuel prices until the end of the year.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -871,9 +679,9 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 0,
-        "energy": 9,
-        "economy": 15,
-        "domestic_politics": 4,
+        "energy": 6,
+        "economy": 3,
+        "domestic_politics": 0,
         "foreign_affairs": 0,
         "local_events": 0
       },
@@ -884,13 +692,9 @@
           "fuel_prices"
         ],
         "economy": [
-          "price_caps",
-          "currency",
-          "prices"
+          "currency"
         ],
-        "domestic_politics": [
-          "government"
-        ],
+        "domestic_politics": [],
         "foreign_affairs": [],
         "local_events": []
       },
@@ -901,54 +705,32 @@
           {
             "concept": "fuel_prices",
             "strength": 3,
-            "headline": true,
+            "headline": false,
             "lead": true,
-            "points": 9
+            "points": 6
           }
         ],
         "economy": [
-          {
-            "concept": "price_caps",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
           {
             "concept": "currency",
             "strength": 1,
             "headline": true,
             "lead": true,
             "points": 3
-          },
-          {
-            "concept": "prices",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
           }
         ],
-        "domestic_politics": [
-          {
-            "concept": "government",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          }
-        ],
+        "domestic_politics": [],
         "foreign_affairs": [],
         "local_events": []
       },
       "topics": [
-        "energy",
-        "economy"
+        "energy"
       ],
       "relevant": true,
-      "primary_topic": "economy",
-      "classification_version": 4,
+      "primary_topic": "energy",
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:40:43Z"
     }
-  ]
+  ],
+  "topic": "energy"
 }

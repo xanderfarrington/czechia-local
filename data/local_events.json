@@ -1,25 +1,24 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T14:40:44Z",
-  "topic": "local_events",
-  "count": 6,
+  "updated_at_utc": "2026-11-25T14:59:14Z",
+  "count": 9,
   "articles": [
     {
       "id": "945f2b87c2f321a97017d5bedc55216e7ee97b2d",
-      "fingerprint": "90902580aab0334ae03ca24c6c8f3bc5ccdb6a64",
+      "fingerprint": "568afadf4278dd2a76eb8b52aac25d21b0e59af8",
       "source": "iDNES.cz",
       "source_language": "cs",
       "url": "https://www.idnes.cz/zpravy/domaci/na-zvyseni-slev-na-jizdne-chce-babis-poslat-1-6-miliardy-kc-z-penez-na-duchody.A261125_150801_domaci_aoc",
       "published_utc": "2026-11-25T14:20:00Z",
-      "collected_at_utc": "2026-11-25T14:33:41Z",
-      "title_raw": "Babiš chce levnější jízdné, peníze vezme z důchodů",
-      "lead_raw": "Na zvýšení slev pro seniory a studenty na jízdném ve veřejné dopravě chce premiér Andrej Babiš (ANO) poslat příští rok 1,6 miliardy korun. Částku chce vzít z peněz na důchody, vyplývá z jeho podané úpravy návrhu státního rozpočtu na příští rok. Babiš v úterním pořadu Press klub Frekvence 1 ohlásil, že slevy se od července zvýší z nynějších 50 procent na 75 procent.",
-      "title_en": "Babiš wants cheaper fares, he will take money from pensions",
-      "lead_en": "Prime Minister Andrej Babiš (ANO) wants to allocate 1.6 billion crowns next year to increase discounts for seniors and students on public transport fares. He intends to take this amount from pension funds, according to his submitted amendment to the state budget proposal for next year. Babiš announced in Tuesday's Press Club program Frekvence 1 that discounts will increase from the current 50 percent to 75 percent starting in July.",
+      "collected_at_utc": "2026-11-25T14:59:11Z",
+      "title_raw": "Babiš chce levnější jízdné, peníze vezme z rozpočtu ministerstva práce",
+      "lead_raw": "Na zvýšení slev pro seniory a studenty na jízdném ve veřejné dopravě chce premiér Andrej Babiš (ANO) poslat příští rok 1,6 miliardy korun. Částku chce vzít z rozpočtu ministerstva práce, vyplývá z jeho podané úpravy návrhu státního rozpočtu na příští rok. Babiš v úterním pořadu Press klub Frekvence 1 ohlásil, že slevy se od července zvýší z nynějších 50 procent na 75 procent.",
+      "title_en": "Babiš wants cheaper fares, will take money from the Ministry of Labor budget",
+      "lead_en": "Prime Minister Andrej Babiš (ANO) plans to allocate 1.6 billion crowns next year to increase discounts for seniors and students on public transport fares. He plans to take the amount from the Ministry of Labor's budget, according to his submitted amendment to the state budget proposal for next year. Babiš announced in Tuesday's Press Club program Frekvence 1 that discounts will increase from the current 50 percent to 75 percent starting in July.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -29,8 +28,8 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 0,
-        "economy": 10,
-        "domestic_politics": 17,
+        "economy": 11,
+        "domestic_politics": 23,
         "foreign_affairs": 0,
         "local_events": 6
       },
@@ -44,9 +43,10 @@
           "generic_budget"
         ],
         "domestic_politics": [
+          "government",
           "political_parties",
-          "leadership",
-          "czech_leaders"
+          "czech_leaders",
+          "leadership"
         ],
         "foreign_affairs": [],
         "local_events": [
@@ -75,12 +75,19 @@
           {
             "concept": "generic_budget",
             "strength": 1,
-            "headline": false,
+            "headline": true,
             "lead": true,
-            "points": 2
+            "points": 3
           }
         ],
         "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          },
           {
             "concept": "political_parties",
             "strength": 3,
@@ -89,18 +96,18 @@
             "points": 6
           },
           {
-            "concept": "leadership",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          },
-          {
             "concept": "czech_leaders",
             "strength": 3,
             "headline": true,
             "lead": true,
             "points": 9
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
           }
         ],
         "foreign_affairs": [],
@@ -121,8 +128,73 @@
       ],
       "relevant": true,
       "primary_topic": "domestic_politics",
-      "classification_version": 4,
-      "translated_at_utc": "2026-11-25T14:33:43Z"
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T14:59:14Z"
+    },
+    {
+      "id": "6438b40d4b331d487c1412e502b2c6c4d0935c05",
+      "fingerprint": "12e6f82c6a4ba9100b4f0e54505e8242fe977df3",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/domaci/pocasi-snih-predpoved-meteorolozka.A261125_142723_domaci_meli",
+      "published_utc": "2026-11-25T14:19:00Z",
+      "collected_at_utc": "2026-11-25T14:33:41Z",
+      "title_raw": "Čeká nás pořádná sněhová nadílka, varuje meteoroložka. Promluvila i o Vánocích",
+      "lead_raw": "Českou republiku čeká v nadcházejících dnech pořádná sněhová nadílka. Podle výstrahy Českého hydrometeorologického ústavu může ve čtvrtek na jihu, severu a severovýchodě republiky napadnout až 20 centimetrů sněhu. O Vánocích by však situace mohla vypadat jinak, upozornila meteoroložka Dagmar Honsová ve vysílání Rádia Impuls.",
+      "title_en": "We are expecting a heavy snowfall, warns the meteorologist. She also spoke about Christmas",
+      "lead_en": "The Czech Republic is expecting a heavy snowfall in the coming days. According to the warning from the Czech Hydrometeorological Institute, up to 20 centimeters of snow may fall on Thursday in the south, north, and northeast of the country. However, the situation could look different over Christmas, meteorologist Dagmar Honsová warned in a broadcast on Radio Impuls.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 9
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          "severe_weather"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "severe_weather",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ]
+      },
+      "topics": [
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "local_events",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T14:59:14Z"
     },
     {
       "id": "5717c9419673e209b638929720dc61dd2f01fe26",
@@ -137,8 +209,8 @@
       "title_en": "Babiš wants to take travel discounts from pension funds",
       "lead_en": "Prime Minister Andrej Babiš (ANO) wants to allocate 1.6 billion CZK from pension funds next year to increase discounts for seniors and students on public transport fares. This follows from his proposed amendment to the state budget proposal for next year. Babiš announced in Tuesday's Press Club program Frekvence 1 that discounts will increase from the current 50 percent to 75 percent starting in July.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -164,8 +236,8 @@
         ],
         "domestic_politics": [
           "political_parties",
-          "leadership",
-          "czech_leaders"
+          "czech_leaders",
+          "leadership"
         ],
         "foreign_affairs": [],
         "local_events": [
@@ -208,18 +280,18 @@
             "points": 6
           },
           {
-            "concept": "leadership",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          },
-          {
             "concept": "czech_leaders",
             "strength": 3,
             "headline": true,
             "lead": true,
             "points": 9
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
           }
         ],
         "foreign_affairs": [],
@@ -240,7 +312,7 @@
       ],
       "relevant": true,
       "primary_topic": "domestic_politics",
-      "classification_version": 4,
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:33:43Z"
     },
     {
@@ -256,8 +328,8 @@
       "title_en": "Babiš wants to allocate 1.6 billion CZK of pension funds to increase fare discounts",
       "lead_en": "Prague - Prime Minister Andrej Babiš (ANO) plans to allocate 1.6 billion crowns next year to increase discounts for seniors and students on public transport fares. He intends to take the amount from pension funds, according to his submission...",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -281,8 +353,8 @@
         ],
         "domestic_politics": [
           "political_parties",
-          "leadership",
-          "czech_leaders"
+          "czech_leaders",
+          "leadership"
         ],
         "foreign_affairs": [],
         "local_events": [
@@ -311,18 +383,18 @@
             "points": 6
           },
           {
-            "concept": "leadership",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          },
-          {
             "concept": "czech_leaders",
             "strength": 3,
             "headline": true,
             "lead": true,
             "points": 9
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
           }
         ],
         "foreign_affairs": [],
@@ -342,7 +414,7 @@
       ],
       "relevant": true,
       "primary_topic": "domestic_politics",
-      "classification_version": 4,
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:33:43Z"
     },
     {
@@ -358,8 +430,8 @@
       "title_en": "Will a new footbridge lead over the Vltava? The construction permit between Roztoky and Klecany is expected early next year",
       "lead_en": "The building permit for the new footbridge over the Vltava between Roztoky and Klecany near Prague is expected to be issued in the first months of next year. The project preparation is now finalized, and the town hall is discussing the design of the adjacent embankment with the public. The goal is for the areas near the footbridge to also serve for outdoor recreation, with access to the river, and conversely, parking spaces are not directly at the embankment, said Roztoky's mayor Marie Dvořáková (Together for Roztoky and Žalov) on Tuesday.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -418,126 +490,24 @@
       ],
       "relevant": true,
       "primary_topic": "local_events",
-      "classification_version": 4,
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:33:44Z"
     },
     {
-      "id": "e85fb6b8c0cda66d13023cda6b380f60f614661f",
-      "fingerprint": "b0241b58499f26783e7e992cce2557e93d7c187b",
-      "source": "iROZHLAS - Domestic",
+      "id": "768f179f2caac223683330b526559fe6da2caa03",
+      "fingerprint": "6262e8756204d28ac7b180c00f8676806a7abdbe",
+      "source": "Seznam Zprávy",
       "source_language": "cs",
-      "url": "https://www.irozhlas.cz/zpravy-domov/nemocnice-na-pokraji-bankrotu-novi-zastupitele-boskovic-vycleni-40-milionu-z_2611251345_lbl",
-      "published_utc": "2026-11-25T12:45:00Z",
-      "collected_at_utc": "2026-11-25T14:33:34Z",
-      "title_raw": "Nemocnice na pokraji bankrotu. Noví zastupitelé Boskovic vyčlení 40 milionů z rozpočtu na záchranu",
-      "lead_raw": "Zhruba 40 milionů korun chybí městské nemocnici v Boskovicích. Kdyby peníze nesehnala, hrozil by jí bankrot. Nové vedení radnice jí peníze v rozpočtu na příští rok najde. Chybět ale budou a ovlivní to jiné chystané investice. Nemocnice schodek vysvětluje vysokými náklady, investovala třeba do kyberbezpečnosti nebo do nového informačního systému.",
-      "title_en": "Hospital on the brink of bankruptcy. New Boskovice councilors will allocate 40 million from the budget for rescue",
-      "lead_en": "The municipal hospital in Boskovice is missing about 40 million crowns. If it fails to raise the funds, it would face bankruptcy. The new city council leadership will find the money in next year's budget. However, there will be shortages, which will affect other planned investments. The hospital explains the deficit by high costs; it invested, for example, in cybersecurity and a new information system.",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-brnenske-tunely-zustavaji-nelegalne-zavrene-hrozi-pokuta-pul-milionu-321364",
+      "published_utc": "2026-11-25T12:40:00Z",
+      "collected_at_utc": "2026-11-25T14:33:40Z",
+      "title_raw": "Brněnské tunely zůstávají nelegálně zavřené. Hrozí pokuta půl milionu",
+      "lead_raw": "Pisárecké tunely v Brně zůstávají zavřené bez platného povolení. Za nelegální uzavírku hrozí pokuta až půl milionu korun. Úřady nyní řeší, jak postupovat dál a kdo ponese odpovědnost.",
+      "title_en": "Brno's tunnels remain illegally closed. A fine of half a million is threatened",
+      "lead_en": "The Pisárecké tunnels in Brno remain closed without a valid permit. Illegal closures can result in fines of up to half a million crowns. Authorities are now dealing with how to proceed and who will bear responsibility.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 9,
-        "domestic_politics": 9,
-        "foreign_affairs": 0,
-        "local_events": 6
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "investment",
-          "currency",
-          "generic_budget"
-        ],
-        "domestic_politics": [
-          "municipal_government"
-        ],
-        "foreign_affairs": [],
-        "local_events": [
-          "local_services"
-        ]
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "investment",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          },
-          {
-            "concept": "currency",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          },
-          {
-            "concept": "generic_budget",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
-          }
-        ],
-        "domestic_politics": [
-          {
-            "concept": "municipal_government",
-            "strength": 3,
-            "headline": true,
-            "lead": false,
-            "points": 9
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": [
-          {
-            "concept": "local_services",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ]
-      },
-      "topics": [
-        "domestic_politics",
-        "local_events"
-      ],
-      "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 4,
-      "translated_at_utc": "2026-11-25T14:33:44Z"
-    },
-    {
-      "id": "8353f052422a96f1bdcdb34432f8648b1c8b6b8b",
-      "fingerprint": "9680571b931f8f83681ec7fa96e30648b0828ec5",
-      "source": "iROZHLAS - Domestic",
-      "source_language": "cs",
-      "url": "https://www.irozhlas.cz/zpravy-domov/oprava-tramvajove-trate-k-nadrazi-v-liberci-bude-asi-vyrazne-levnejsi-prace_2611251115_med",
-      "published_utc": "2026-11-25T10:15:00Z",
-      "collected_at_utc": "2026-11-25T14:33:34Z",
-      "title_raw": "Oprava tramvajové tratě k nádraží v Liberci bude asi výrazně levnější, práce začnou po zimě",
-      "lead_raw": "Oprava tramvajové tratě z dolního centra k vlakovému nádraží v Liberci bude asi výrazně levnější, než městský dopravní podnik (DPMLJ) očekával. Práce nejspíš začnou příští rok po zimě. O zakázku v soutěži usilovalo osm firem a konsorcií, s nejnižší cenou 208,5 milionu korun bez daně vyhrála společnost Colas CZ. Dopravce předpokládal, že za opravu tratě zaplatí 289 milionů korun bez DPH.",
-      "title_en": "Repairing the tram track to the station in Liberec will probably be significantly cheaper; work will start after winter",
-      "lead_en": "The repair of the tram track from the lower center to the train station in Liberec will likely be significantly cheaper than the municipal transport company (DPMLJ) expected. Work will likely begin next year after winter. Eight companies and consortia competed for the contract in the competition, with the lowest price of 208.5 million CZK excluding tax won by Colas CZ. The carrier expected to pay 289 million CZK excluding VAT for the track repair.",
-      "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -550,7 +520,7 @@
         "economy": 2,
         "domestic_politics": 0,
         "foreign_affairs": 0,
-        "local_events": 9
+        "local_events": 6
       },
       "matched_keywords": {
         "diplomacy": [],
@@ -562,7 +532,7 @@
         "domestic_politics": [],
         "foreign_affairs": [],
         "local_events": [
-          "public_transport"
+          "transport_disruption"
         ]
       },
       "classification_details": {
@@ -582,7 +552,72 @@
         "foreign_affairs": [],
         "local_events": [
           {
-            "concept": "public_transport",
+            "concept": "transport_disruption",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ]
+      },
+      "topics": [
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "local_events",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T14:59:14Z"
+    },
+    {
+      "id": "996130180875dc011fa560ce00669901b04ee801",
+      "fingerprint": "8de3a66b204234a27e9e40acff8ac4ae51dff0ef",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/domaci/pocasi-snih-vystraha-zima-cesky-hydrometeorologicky-ustav.A261125_120646_domaci_ikro",
+      "published_utc": "2026-11-25T11:35:00Z",
+      "collected_at_utc": "2026-11-25T14:33:41Z",
+      "title_raw": "Meteorologové zpřísnili výstrahu před sněhem. Někde napadne až 20 centimetrů",
+      "lead_raw": "Český hydrometeorologický ústav (ČHMÚ) ve středu zpřísnil výstrahu před sněžením, které má ve čtvrtek zasáhnout většinu Česka. Na jihu a jihovýchodě země může během dne napadnout až 20 centimetrů bílé pokrývky. Meteorologové varují před komplikacemi v dopravě, zhoršenou viditelností i zpožděním spojů. V noci na pátek bude sněžení pozvolna slábnout.",
+      "title_en": "Meteorologists have tightened the snow warning. In some places, up to 20 centimeters of snow will fall",
+      "lead_en": "The Czech Hydrometeorological Institute (ČHMÚ) tightened the snowfall warning on Wednesday, which is expected to affect most of the Czech Republic on Thursday. In the south and southeast of the country, up to 20 centimeters of white cover may fall during the day. Meteorologists warn of traffic complications, reduced visibility, and delayed connections. Snowfall will gradually weaken overnight into Friday.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 9
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          "emergency_warning"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "emergency_warning",
             "strength": 3,
             "headline": true,
             "lead": true,
@@ -595,8 +630,146 @@
       ],
       "relevant": true,
       "primary_topic": "local_events",
-      "classification_version": 4,
-      "translated_at_utc": "2026-11-25T14:33:45Z"
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T14:59:14Z"
+    },
+    {
+      "id": "781cbe38a00e58894bef213065e41786662ed8fe",
+      "fingerprint": "ea0ba6444fce61fba7fba90d6246ff8629e6348f",
+      "source": "Radio Prague International (EN)",
+      "source_language": "en",
+      "url": "https://english.radio.cz/heavy-snowfall-expected-across-czechia-including-lowlands-8903514",
+      "published_utc": "2026-11-25T06:04:00Z",
+      "collected_at_utc": "2026-11-25T14:33:43Z",
+      "title_raw": "Heavy snowfall expected across Czechia, including lowlands",
+      "lead_raw": "Heavy snowfall expected across Czechia, including lowlands",
+      "title_en": "Heavy snowfall expected across Czechia, including lowlands",
+      "lead_en": "Heavy snowfall expected across Czechia, including lowlands",
+      "translation_status": "not_required",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": "original_english",
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 9
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          "severe_weather"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "severe_weather",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ]
+      },
+      "topics": [
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "local_events",
+      "classification_version": 5
+    },
+    {
+      "id": "64c3e410a3f952e50560e6dcede4268b7418469a",
+      "fingerprint": "15d6050f5fed0340bebeada3f8a04e45a837f25e",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/jihovychodni-cast-ceska-zasahne-ve-ctvrtek-silne-snezeni/2905913",
+      "published_utc": "2026-11-24T11:32:00Z",
+      "collected_at_utc": "2026-11-25T14:33:35Z",
+      "title_raw": "Jihovýchodní část Česka zasáhne ve čtvrtek silné sněžení",
+      "lead_raw": "Praha - Jihovýchodní část Česka zasáhne od čtvrtečního rána silné sněžení. Do pátku tam může napadnout až 15 centimetrů sněhu. Výstraha , kterou dnes vydal Český hydrometeorologický ústav (ČHMÚ), varuje...",
+      "title_en": "Heavy snowfall will hit the southeastern part of the Czech Republic on Thursday",
+      "lead_en": "Prague - The southeastern part of the Czech Republic will be hit by heavy snowfall from Thursday morning. Up to 15 centimeters of snow may fall there by Friday. The warning issued today by the Czech Hydrometeorological Institute (ČHMÚ) warns...",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 15
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          "severe_weather",
+          "emergency_warning"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "severe_weather",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "emergency_warning",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ]
+      },
+      "topics": [
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "local_events",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T14:59:14Z"
     }
-  ]
+  ],
+  "topic": "local_events"
 }

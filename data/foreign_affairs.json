@@ -1,10 +1,192 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T14:40:44Z",
-  "topic": "foreign_affairs",
-  "count": 31,
+  "updated_at_utc": "2026-11-25T14:59:14Z",
+  "count": 42,
   "articles": [
+    {
+      "id": "c4fe9f720b122037f42f07fd94c8fab26176c8c8",
+      "fingerprint": "6ae4e7f2a5291afd8acce032929dbccc270fa299",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/lukasenko-zelenskyj-ukrajina-rusko-putin-valka-jednani.A261125_151950_zahranicni_jhr",
+      "published_utc": "2026-11-25T14:51:00Z",
+      "collected_at_utc": "2026-11-25T14:59:11Z",
+      "title_raw": "Lukašenko naťukl návrat Ruska Mongolům. Zelenskyj s ním za Putinem nechce",
+      "lead_raw": "Běloruský diktátor Alexandr Lukašenko navrhl ukrajinskému prezidentu Volodymyru Zelenskému, ať s ním letí za šéfem Kremlu Vladimirem Putinem do Moskvy s tím, že jeho přítomnost mu zajistí bezpečnost. Zelenskyj se jeho slovům vysmál a uvedl, zda si myslí, že je kufr. Lukašenko též zpochybnil ruské historické nároky na Ukrajinu s tím, že podle této logiky by ruská území měla připadnout Mongolsku.",
+      "title_en": "Lukashenko hinted at Russia's return to the Mongols. Zelensky does not want to join Putin with him",
+      "lead_en": "Belarusian dictator Alexander Lukashenko proposed to Ukrainian President Volodymyr Zelensky that he fly with him to Moscow to see Kremlin chief Vladimir Putin, saying his presence would ensure his safety. Zelensky mocked his words and asked if he thought he was a suitcase. Lukashenko also questioned Russia's historical claims to Ukraine, arguing that according to this logic, Russian territories should belong to Mongolia.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 12,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T14:59:14Z"
+    },
+    {
+      "id": "d39dd89be7ff9c5206eaba1c029147a0b8332935",
+      "fingerprint": "637e7c47cb9c6d322cf5fe19893cccf25c619681",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/domaci/oto-klempir-vyzva-evropsky-parlament-verejnopravni-media-financovani.A261125_152220_domaci_ikro",
+      "published_utc": "2026-11-25T14:46:00Z",
+      "collected_at_utc": "2026-11-25T14:59:11Z",
+      "title_raw": "Skandální PR Nerudové a Zdechovského, reagoval Klempíř na výzvu europoslanců",
+      "lead_raw": "Usnesení Evropského parlamentu ke změnám ve financování českých veřejnoprávních médií nevytváří podle ministra kultury Oty Klempíře (za Motoristy) pro vládu žádnou povinnost. „Jde o pouze skandální PR aktivitu europoslanců Danuše Nerudové a Tomáše Zdechovského,“ řekl ve středu novinářům ve Sněmovně.",
+      "title_en": "Scandalous PR by Nerudová and Zdechovský, Klempíř responded to MEPs' call",
+      "lead_en": "According to Culture Minister Oto Klempíř (for Motoristy), the European Parliament resolution on changes in the financing of Czech public service media does not create any obligation for the government. \"This is merely a scandalous PR activity by MEPs Danuše Nerudová and Tomáš Zdechovský,\" he told reporters in the Chamber of Deputies on Wednesday.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "domestic_politics": 18,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "government",
+          "leadership",
+          "public_broadcasting_policy"
+        ],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "public_broadcasting_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T14:59:14Z"
+    },
     {
       "id": "78d3d19e61e4907c6a0b9e7a1c46717b336d89a0",
       "fingerprint": "1eed182ffe40c47ccc675fd8da2362b337fc8021",
@@ -18,8 +200,8 @@
       "title_en": "The EU can spend 200 billion euros next year, expenditures will decrease",
       "lead_en": "The EU will be able to spend 200 billion euros next year, roughly twice the Czech state expenditure. Compared to the original proposal, funds for research, education, and civil protection will slightly increase. Overall, however, EU spending is decreasing.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -29,7 +211,7 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 0,
-        "economy": 3,
+        "economy": 12,
         "domestic_politics": 0,
         "foreign_affairs": 9,
         "local_events": 0
@@ -39,6 +221,7 @@
         "military": [],
         "energy": [],
         "economy": [
+          "eu_budget",
           "currency"
         ],
         "domestic_politics": [],
@@ -52,6 +235,13 @@
         "military": [],
         "energy": [],
         "economy": [
+          {
+            "concept": "eu_budget",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
           {
             "concept": "currency",
             "strength": 1,
@@ -73,11 +263,12 @@
         "local_events": []
       },
       "topics": [
+        "economy",
         "foreign_affairs"
       ],
       "relevant": true,
-      "primary_topic": "foreign_affairs",
-      "classification_version": 4,
+      "primary_topic": "economy",
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:33:43Z"
     },
     {
@@ -93,8 +284,8 @@
       "title_en": "The USA proposed new tariffs, and the EU is to return the 15 percent rate",
       "lead_en": "The United States proposes imposing new tariffs on 14 trading partners, including the European Union and China. Reuters reported this on Wednesday, citing the Office of the United States Trade Representative (USTR). The tariff on imports from the EU will be up to 15 percent, in line with an earlier agreement reached by the twenty-seven with Washington.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -104,7 +295,7 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 0,
-        "economy": 6,
+        "economy": 15,
         "domestic_politics": 0,
         "foreign_affairs": 9,
         "local_events": 0
@@ -114,7 +305,8 @@
         "military": [],
         "energy": [],
         "economy": [
-          "trade"
+          "tariffs",
+          "imports_exports"
         ],
         "domestic_politics": [],
         "foreign_affairs": [
@@ -128,7 +320,14 @@
         "energy": [],
         "economy": [
           {
-            "concept": "trade",
+            "concept": "tariffs",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "imports_exports",
             "strength": 3,
             "headline": false,
             "lead": true,
@@ -152,8 +351,8 @@
         "foreign_affairs"
       ],
       "relevant": true,
-      "primary_topic": "foreign_affairs",
-      "classification_version": 4,
+      "primary_topic": "economy",
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:33:43Z"
     },
     {
@@ -169,8 +368,8 @@
       "title_en": "Just PR from Czech MEPs, it doesn't obligate us to anything, Klempíř responds to the EP resolution",
       "lead_en": "According to Culture Minister Oto Klempíř (for Motoristy), Wednesday's European Parliament resolution on changes in the financing of public media in the Czech Republic does not create any obligation for the government. According to him, it is merely a scandalous PR activity by Czech MEPs Danuše Nerudová and Tomáš Zdechovský. Klempíř said this to journalists in Prague at the Chamber of Deputies on Wednesday.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -181,8 +380,8 @@
         "military": 0,
         "energy": 0,
         "economy": 3,
-        "domestic_politics": 12,
-        "foreign_affairs": 9,
+        "domestic_politics": 18,
+        "foreign_affairs": 6,
         "local_events": 0
       },
       "matched_keywords": {
@@ -193,9 +392,10 @@
           "currency"
         ],
         "domestic_politics": [
-          "government",
           "parliament",
-          "leadership"
+          "government",
+          "leadership",
+          "public_broadcasting_policy"
         ],
         "foreign_affairs": [
           "eu_policy"
@@ -217,13 +417,6 @@
         ],
         "domestic_politics": [
           {
-            "concept": "government",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          },
-          {
             "concept": "parliament",
             "strength": 3,
             "headline": false,
@@ -231,20 +424,34 @@
             "points": 6
           },
           {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
             "concept": "leadership",
             "strength": 1,
             "headline": false,
             "lead": true,
             "points": 2
+          },
+          {
+            "concept": "public_broadcasting_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
           }
         ],
         "foreign_affairs": [
           {
             "concept": "eu_policy",
             "strength": 3,
-            "headline": true,
+            "headline": false,
             "lead": true,
-            "points": 9
+            "points": 6
           }
         ],
         "local_events": []
@@ -255,7 +462,7 @@
       ],
       "relevant": true,
       "primary_topic": "domestic_politics",
-      "classification_version": 4,
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:33:43Z"
     },
     {
@@ -271,8 +478,8 @@
       "title_en": "MEPs called on the government to ensure that the financing of Czech Television and radio is sustainable and predictable.",
       "lead_en": "On Wednesday, MEPs called on the Czech government in a resolution to ensure that the financing system for Czech Television and Czech Radio complies with EU law, guarantees sustainable and predictable funding for both public service media, and includes safeguards against political interference in their work. 442 out of 647 MEPs present voted in favor of the resolution. 158 voted against and 47 abstained.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -283,8 +490,8 @@
         "military": 0,
         "energy": 0,
         "economy": 3,
-        "domestic_politics": 15,
-        "foreign_affairs": 9,
+        "domestic_politics": 12,
+        "foreign_affairs": 6,
         "local_events": 0
       },
       "matched_keywords": {
@@ -296,7 +503,7 @@
         ],
         "domestic_politics": [
           "government",
-          "public_broadcasting"
+          "public_broadcasting_policy"
         ],
         "foreign_affairs": [
           "eu_policy"
@@ -325,20 +532,20 @@
             "points": 6
           },
           {
-            "concept": "public_broadcasting",
+            "concept": "public_broadcasting_policy",
             "strength": 3,
-            "headline": true,
+            "headline": false,
             "lead": true,
-            "points": 9
+            "points": 6
           }
         ],
         "foreign_affairs": [
           {
             "concept": "eu_policy",
             "strength": 3,
-            "headline": true,
+            "headline": false,
             "lead": true,
-            "points": 9
+            "points": 6
           }
         ],
         "local_events": []
@@ -349,7 +556,7 @@
       ],
       "relevant": true,
       "primary_topic": "domestic_politics",
-      "classification_version": 4,
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:33:43Z"
     },
     {
@@ -365,8 +572,8 @@
       "title_en": "Washington proposes new tariffs; the EU is expected to return the 15% rate",
       "lead_en": "Washington - The United States is proposing to impose new tariffs on 14 trading partners, including the European Union and China. This was reported by Reuters, citing the Office of the United States Trade Representative (USTR)....",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -376,7 +583,7 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 0,
-        "economy": 0,
+        "economy": 9,
         "domestic_politics": 0,
         "foreign_affairs": 9,
         "local_events": 0
@@ -385,7 +592,9 @@
         "diplomacy": [],
         "military": [],
         "energy": [],
-        "economy": [],
+        "economy": [
+          "tariffs"
+        ],
         "domestic_politics": [],
         "foreign_affairs": [
           "eu_policy"
@@ -396,80 +605,13 @@
         "diplomacy": [],
         "military": [],
         "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
+        "economy": [
           {
-            "concept": "eu_policy",
+            "concept": "tariffs",
             "strength": 3,
             "headline": true,
             "lead": true,
             "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "foreign_affairs",
-      "classification_version": 4,
-      "translated_at_utc": "2026-11-25T14:33:43Z"
-    },
-    {
-      "id": "6a984a0e9e920673e8565c8f330ecbe7d8fe49b4",
-      "fingerprint": "0a9fcc5984bdf60c6b5fa34221bd20a67fdf5058",
-      "source": "Novinky",
-      "source_language": "cs",
-      "url": "https://www.novinky.cz/clanek/ekonomika-trump-upresnil-novou-vlnu-cel-na-dovoz-z-eu-navrhuje-15-procent-40610491",
-      "published_utc": "2026-11-25T13:55:25Z",
-      "collected_at_utc": "2026-11-25T14:33:38Z",
-      "title_raw": "Trump upřesnil novou vlnu cel. Na dovoz z EU navrhuje 15 procent",
-      "lead_raw": "Spojené státy navrhují uvalení nových cel na 14 obchodních partnerů, včetně Evropské unie a Číny. S odvoláním na Úřad amerického obchodního zmocněnce (USTR) o tom ve středu informovala agentura Reuters. Celní sazba na dovoz z EU bude do 15 procent v souladu s dřívější dohodou, kterou sedmadvacítka uzavřela s Washingtonem.",
-      "title_en": "Trump specified a new wave of tariffs. He proposes 15 percent on imports from the EU",
-      "lead_en": "The United States proposes imposing new tariffs on 14 trading partners, including the European Union and China. Reuters reported this on Wednesday, citing the Office of the United States Trade Representative (USTR). The tariff on imports from the EU will be up to 15 percent, in line with an earlier agreement reached by the twenty-seven with Washington.",
-      "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 6,
-        "domestic_politics": 0,
-        "foreign_affairs": 9,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "trade"
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          "eu_policy"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "trade",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
           }
         ],
         "domestic_politics": [],
@@ -489,8 +631,92 @@
         "foreign_affairs"
       ],
       "relevant": true,
-      "primary_topic": "foreign_affairs",
-      "classification_version": 4,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T14:33:43Z"
+    },
+    {
+      "id": "6a984a0e9e920673e8565c8f330ecbe7d8fe49b4",
+      "fingerprint": "0a9fcc5984bdf60c6b5fa34221bd20a67fdf5058",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/ekonomika-trump-upresnil-novou-vlnu-cel-na-dovoz-z-eu-navrhuje-15-procent-40610491",
+      "published_utc": "2026-11-25T13:55:25Z",
+      "collected_at_utc": "2026-11-25T14:33:38Z",
+      "title_raw": "Trump upřesnil novou vlnu cel. Na dovoz z EU navrhuje 15 procent",
+      "lead_raw": "Spojené státy navrhují uvalení nových cel na 14 obchodních partnerů, včetně Evropské unie a Číny. S odvoláním na Úřad amerického obchodního zmocněnce (USTR) o tom ve středu informovala agentura Reuters. Celní sazba na dovoz z EU bude do 15 procent v souladu s dřívější dohodou, kterou sedmadvacítka uzavřela s Washingtonem.",
+      "title_en": "Trump specified a new wave of tariffs. He proposes 15 percent on imports from the EU",
+      "lead_en": "The United States proposes imposing new tariffs on 14 trading partners, including the European Union and China. Reuters reported this on Wednesday, citing the Office of the United States Trade Representative (USTR). The tariff on imports from the EU will be up to 15 percent, in line with an earlier agreement reached by the twenty-seven with Washington.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 18,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "tariffs",
+          "imports_exports"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "tariffs",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "imports_exports",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:33:43Z"
     },
     {
@@ -506,8 +732,84 @@
       "title_en": "Trump is preparing a new wave of tariffs, with the EU expected to return to 15 percent",
       "lead_en": "The United States is proposing to impose new tariffs on 14 trading partners, including the European Union and China. Reuters reported this today, citing the Office of the United States Trade Representative (USTR).",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 9,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "tariffs"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "tariffs",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T14:33:43Z"
+    },
+    {
+      "id": "9eba22bd3f23abe0b92a52851964d8769db92cfe",
+      "fingerprint": "0facd9f94f8cfa7dbb831429aba93eb5fed5d40b",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/stredomori-jako-nova-fronta-ukrajinske-udery-v-libyi-znepokojuji-jizni-evropu.A261125_123207_zahranicni_jhr",
+      "published_utc": "2026-11-25T13:45:00Z",
+      "collected_at_utc": "2026-11-25T14:33:41Z",
+      "title_raw": "Středomoří jako nová fronta. Ukrajinské údery v Libyi znepokojují jižní Evropu",
+      "lead_raw": "Úspěšné ukrajinské údery na ruské lodě u libyjského Benghází vyvolaly znepokojení v některých evropských státech. Itálie i Řecko se obávají, že by ruská odveta a další eskalace mohly vést k obnovení libyjského konfliktu, destabilizaci země a zesílení migračních toků. Další útoky by též mohly ze Středozemí učinit další bojiště války.",
+      "title_en": "The Mediterranean as a new front. Ukrainian strikes in Libya worry southern Europe",
+      "lead_en": "Successful Ukrainian strikes on Russian ships near Benghazi, Libya, have caused concern in some European countries. Italy and Greece fear that Russian retaliation and further escalation could lead to a renewal of the Libyan conflict, destabilization of the country, and increased migration flows. Further attacks could also turn the Mediterranean into another battlefield of war.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -529,7 +831,7 @@
         "economy": [],
         "domestic_politics": [],
         "foreign_affairs": [
-          "eu_policy"
+          "ukraine"
         ],
         "local_events": []
       },
@@ -541,7 +843,7 @@
         "domestic_politics": [],
         "foreign_affairs": [
           {
-            "concept": "eu_policy",
+            "concept": "ukraine",
             "strength": 3,
             "headline": true,
             "lead": true,
@@ -555,7 +857,7 @@
       ],
       "relevant": true,
       "primary_topic": "foreign_affairs",
-      "classification_version": 4,
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:33:43Z"
     },
     {
@@ -571,8 +873,8 @@
       "title_en": "Thanks to Trump, nine more Ukrainian and Russian children have been reunited with their families",
       "lead_en": "Thanks to the initiative of American First Lady Melania Trump, 43 children separated due to the war in Ukraine have so far been reunited with their families. The White House has now announced the return of nine more children.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -580,58 +882,47 @@
       "translation_warnings": [],
       "topic_scores": {
         "diplomacy": 0,
-        "military": 6,
+        "military": 0,
         "energy": 0,
         "economy": 0,
         "domestic_politics": 0,
-        "foreign_affairs": 6,
+        "foreign_affairs": 9,
         "local_events": 0
       },
       "matched_keywords": {
         "diplomacy": [],
-        "military": [
-          "war"
-        ],
+        "military": [],
         "energy": [],
         "economy": [],
         "domestic_politics": [],
         "foreign_affairs": [
-          "ukraine_conflict"
+          "ukraine"
         ],
         "local_events": []
       },
       "classification_details": {
         "diplomacy": [],
-        "military": [
-          {
-            "concept": "war",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
+        "military": [],
         "energy": [],
         "economy": [],
         "domestic_politics": [],
         "foreign_affairs": [
           {
-            "concept": "ukraine_conflict",
+            "concept": "ukraine",
             "strength": 3,
-            "headline": false,
+            "headline": true,
             "lead": true,
-            "points": 6
+            "points": 9
           }
         ],
         "local_events": []
       },
       "topics": [
-        "military",
         "foreign_affairs"
       ],
       "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 4,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:33:44Z"
     },
     {
@@ -647,96 +938,42 @@
       "title_en": "\"I'm not a suitcase,\" Zelensky responded to Lukashenko's proposal for a joint trip to Moscow",
       "lead_en": "Ukrainian President Volodymyr Zelensky rejected the proposal of Belarusian leader Alexander Lukashenko that they could fly together to Moscow for talks to end the war in Ukraine. At the same time, Lukashenko offered to become Zelensky's security guarantor during this trip.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
       "translation_error": null,
       "translation_warnings": [],
       "topic_scores": {
-        "diplomacy": 10,
-        "military": 6,
+        "diplomacy": 0,
+        "military": 0,
         "energy": 0,
         "economy": 0,
-        "domestic_politics": 2,
-        "foreign_affairs": 16,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
         "local_events": 0
       },
       "matched_keywords": {
-        "diplomacy": [
-          "peace_negotiations",
-          "negotiations"
-        ],
-        "military": [
-          "war"
-        ],
+        "diplomacy": [],
+        "military": [],
         "energy": [],
         "economy": [],
-        "domestic_politics": [
-          "leadership"
-        ],
+        "domestic_politics": [],
         "foreign_affairs": [
-          "ukraine_conflict",
-          "foreign_government",
-          "international_negotiations"
+          "ukraine"
         ],
         "local_events": []
       },
       "classification_details": {
-        "diplomacy": [
-          {
-            "concept": "peace_negotiations",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "negotiations",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          }
-        ],
-        "military": [
-          {
-            "concept": "war",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
+        "diplomacy": [],
+        "military": [],
         "energy": [],
         "economy": [],
-        "domestic_politics": [
-          {
-            "concept": "leadership",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
+        "domestic_politics": [],
         "foreign_affairs": [
           {
-            "concept": "ukraine_conflict",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "foreign_government",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          },
-          {
-            "concept": "international_negotiations",
+            "concept": "ukraine",
             "strength": 3,
             "headline": false,
             "lead": true,
@@ -746,14 +983,237 @@
         "local_events": []
       },
       "topics": [
-        "diplomacy",
-        "military",
         "foreign_affairs"
       ],
       "relevant": true,
       "primary_topic": "foreign_affairs",
-      "classification_version": 4,
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:33:44Z"
+    },
+    {
+      "id": "8702a0fd702ab9bede053c3603dafeba1cbaef51",
+      "fingerprint": "10d72845ffaa264e18c9948d5583cec59cce9fc9",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/cina-politbyro-cistka-si-tin-pching-cchen-tin-ning-komunisticka-strana.A261125_112011_zahranicni_dtt",
+      "published_utc": "2026-11-25T12:45:00Z",
+      "collected_at_utc": "2026-11-25T14:33:41Z",
+      "title_raw": "Siova permanentní čistka. Padl člen politbyra z vlivné šanghajské buňky",
+      "lead_raw": "Čínským politickým vedením otřásá další čistka. Jejím terčem se stal tajemník šanghajského výboru komunistické strany Čchen Ťin-ning, který ještě nedávno patřil k favoritům na postup do nejužšího vedení země. Za necelé dva roky jde už o čtvrtého člena politbyra, který padl v rámci tažení prezidenta Si Ťin-pchinga proti korupci a neloajalitě.",
+      "title_en": "Xi's permanent purge. A member of the Politburo from an influential Shanghai cell fell",
+      "lead_en": "Another purge is shaking China's political leadership. Its target was Chen Jinning, secretary of the Shanghai Communist Party committee, who until recently was among the favorites to enter the country's top leadership. In less than two years, he is already the fourth Politburo member to fall during President Xi Jinping's campaign against corruption and disloyalty.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "political_purges"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "political_purges",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T14:59:14Z"
+    },
+    {
+      "id": "5f5979854be35a1924646888ad6076cc829ffd38",
+      "fingerprint": "e8e62076d17a9820134cb08f759896a0bbffb7f5",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/pri-ruskem-utoku-v-kyjevske-oblasti-zahynul-muz-v-rusku-hori-rafinerie.A261125_070149_zahranicni_tmps",
+      "published_utc": "2026-11-25T12:31:00Z",
+      "collected_at_utc": "2026-11-25T14:33:41Z",
+      "title_raw": "Ukrajinci zaútočili na dvě rafinerie v Samarské oblasti, vypukly velké požáry",
+      "lead_raw": "Ruské útoky ve městě Bila Cerkva a v Charkovské oblasti si vyžádaly dva mrtvé. Pět oblastí Ukrajiny se potýká s výpadky dodávek elektrické energie, uvedly ukrajinské úřady. V Rusku podle médií opět čelily útokům rafinerie a také letecká základna, kde bylo poškozeno pět letounů.",
+      "title_en": "Ukrainians attacked two refineries in the Samara region, causing large fires",
+      "lead_en": "Russian attacks in the city of Bila Tserkva and the Kharkiv region have claimed two lives. Five regions of Ukraine are facing power outages, Ukrainian authorities said. According to media reports, refineries and an airbase in Russia have again faced attacks, where five aircraft were damaged.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "refining"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "refining",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "energy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T14:59:14Z"
+    },
+    {
+      "id": "205e7ff4ff2cd8d876fb2a7043f24875b30b6f64",
+      "fingerprint": "6caee8fedd42ebe1c8924d585d39d0f363ec8411",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-zemedelci-obdrzi-na-zaklade-jednotnych-zadosti-o-penize-z-eu-vic-nez-31-miliard-korun-321505",
+      "published_utc": "2026-11-25T12:30:17Z",
+      "collected_at_utc": "2026-11-25T14:33:40Z",
+      "title_raw": "Zemědělci obdrží na základě jednotných žádostí o peníze z EU víc než 31 miliard korun",
+      "lead_raw": "Téměř 30 tisíc českých zemědělců a farmářů si rozdělí více než 31 miliard korun z evropských dotací. Podpora je určena na plochu na obhospodařování půdy, chov hospodářských zvířat či rozvoj venkova.",
+      "title_en": "Farmers will receive more than 31 billion CZK from EU funds based on unified applications",
+      "lead_en": "Nearly 30,000 Czech farmers and farmers will share more than 31 billion CZK from European subsidies. The support is intended for land use for land cultivation, livestock breeding, or rural development.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 2,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 9,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "agricultural_subsidies",
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "agricultural_subsidies",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T14:40:42Z"
     },
     {
       "id": "00bc4ec6fe3b77a35c27ca70151ba69861ce2129",
@@ -768,8 +1228,8 @@
       "title_en": "MEPs approved a resolution regarding Czech Television and Czech Radio, and Babiš also has to resolve conflicts of interest.",
       "lead_en": "According to MEPs, the new financing system for Czech Television and Czech Radio should respect EU law. The resolution adopted by MEPs also calls on Czech Prime Minister Andrej Babiš (ANO) to fully resolve his conflict of interest.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -780,8 +1240,8 @@
         "military": 0,
         "energy": 0,
         "economy": 3,
-        "domestic_politics": 35,
-        "foreign_affairs": 9,
+        "domestic_politics": 17,
+        "foreign_affairs": 6,
         "local_events": 0
       },
       "matched_keywords": {
@@ -793,10 +1253,8 @@
         ],
         "domestic_politics": [
           "political_parties",
-          "public_broadcasting",
-          "political_corruption",
-          "leadership",
-          "czech_leaders"
+          "czech_leaders",
+          "leadership"
         ],
         "foreign_affairs": [
           "eu_policy"
@@ -825,14 +1283,7 @@
             "points": 6
           },
           {
-            "concept": "public_broadcasting",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "political_corruption",
+            "concept": "czech_leaders",
             "strength": 3,
             "headline": true,
             "lead": true,
@@ -844,22 +1295,15 @@
             "headline": false,
             "lead": true,
             "points": 2
-          },
-          {
-            "concept": "czech_leaders",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
           }
         ],
         "foreign_affairs": [
           {
             "concept": "eu_policy",
             "strength": 3,
-            "headline": true,
+            "headline": false,
             "lead": true,
-            "points": 9
+            "points": 6
           }
         ],
         "local_events": []
@@ -870,7 +1314,7 @@
       ],
       "relevant": true,
       "primary_topic": "domestic_politics",
-      "classification_version": 4,
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:33:44Z"
     },
     {
@@ -886,8 +1330,8 @@
       "title_en": "The Senate called on the government to support its loan to Ukraine at the EU summit",
       "lead_en": "Prague - According to the Senate, the government should support the EU loan to support Ukraine at the upcoming European Union summit, as Ukraine has been defending itself against Russian aggression for five consecutive years. The upper parliamentary chamber today discussed the cabinet...",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -895,67 +1339,57 @@
       "translation_warnings": [],
       "topic_scores": {
         "diplomacy": 9,
-        "military": 6,
+        "military": 0,
         "energy": 0,
         "economy": 0,
         "domestic_politics": 15,
-        "foreign_affairs": 15,
+        "foreign_affairs": 18,
         "local_events": 0
       },
       "matched_keywords": {
         "diplomacy": [
-          "summit"
+          "international_summits"
         ],
-        "military": [
-          "military_aggression"
-        ],
+        "military": [],
         "energy": [],
         "economy": [],
         "domestic_politics": [
-          "government",
-          "parliament"
+          "parliament",
+          "government"
         ],
         "foreign_affairs": [
           "eu_policy",
-          "ukraine_conflict"
+          "ukraine"
         ],
         "local_events": []
       },
       "classification_details": {
         "diplomacy": [
           {
-            "concept": "summit",
+            "concept": "international_summits",
             "strength": 3,
             "headline": true,
             "lead": true,
             "points": 9
           }
         ],
-        "military": [
-          {
-            "concept": "military_aggression",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
+        "military": [],
         "energy": [],
         "economy": [],
         "domestic_politics": [
-          {
-            "concept": "government",
-            "strength": 2,
-            "headline": true,
-            "lead": true,
-            "points": 6
-          },
           {
             "concept": "parliament",
             "strength": 3,
             "headline": true,
             "lead": true,
             "points": 9
+          },
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
           }
         ],
         "foreign_affairs": [
@@ -967,24 +1401,23 @@
             "points": 9
           },
           {
-            "concept": "ukraine_conflict",
+            "concept": "ukraine",
             "strength": 3,
-            "headline": false,
+            "headline": true,
             "lead": true,
-            "points": 6
+            "points": 9
           }
         ],
         "local_events": []
       },
       "topics": [
         "diplomacy",
-        "military",
         "domestic_politics",
         "foreign_affairs"
       ],
       "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 4,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:33:44Z"
     },
     {
@@ -1000,8 +1433,8 @@
       "title_en": "MEPs approved a resolution on Czech Television and radio, wanting predictable funding",
       "lead_en": "On Wednesday, MEPs called on the Czech government in a resolution to ensure that the new financing system for Czech Television and Czech Radio complies with EU law, ensures sustainable and predictable funding for both public service media, and includes safeguards against political interference in their work. 442 out of 647 MEPs present voted in favor of the resolution concerning changes to the financing of public media in the Czech Republic.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -1012,8 +1445,8 @@
         "military": 0,
         "energy": 0,
         "economy": 3,
-        "domestic_politics": 13,
-        "foreign_affairs": 9,
+        "domestic_politics": 10,
+        "foreign_affairs": 6,
         "local_events": 0
       },
       "matched_keywords": {
@@ -1025,7 +1458,7 @@
         ],
         "domestic_politics": [
           "government",
-          "public_broadcasting"
+          "public_broadcasting_policy"
         ],
         "foreign_affairs": [
           "eu_policy"
@@ -1054,20 +1487,20 @@
             "points": 4
           },
           {
-            "concept": "public_broadcasting",
+            "concept": "public_broadcasting_policy",
             "strength": 3,
-            "headline": true,
+            "headline": false,
             "lead": true,
-            "points": 9
+            "points": 6
           }
         ],
         "foreign_affairs": [
           {
             "concept": "eu_policy",
             "strength": 3,
-            "headline": true,
+            "headline": false,
             "lead": true,
-            "points": 9
+            "points": 6
           }
         ],
         "local_events": []
@@ -1078,8 +1511,138 @@
       ],
       "relevant": true,
       "primary_topic": "domestic_politics",
-      "classification_version": 4,
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:40:42Z"
+    },
+    {
+      "id": "4dfec99c7e1f339d171675981f7d460e633dd25e",
+      "fingerprint": "4e8389ce8b21979a9a3ced884e78371ab63ca048",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/krimi-ukrajinec-zabil-kvuli-mobilu-v-kaznici-pak-znasilnil-spoluvezne-vrchni-soud-mu-zprisnil-trest-40610428",
+      "published_utc": "2026-11-25T12:05:40Z",
+      "collected_at_utc": "2026-11-25T14:33:38Z",
+      "title_raw": "Ukrajinec zabil kvůli mobilu, v káznici pak znásilnil spoluvězně. Vrchní soud mu zpřísnil trest",
+      "lead_raw": "Na 14 let za mříže poslal ve středu Vrchní soud v Olomouci třicetiletého Ukrajince Valentyna Vasiloviče Dziubenka za to, že zabil muže před jedním z brněnských barů a poté ve vazební věznici šikanoval spoluvězně, jehož také donutil, aby ho orálně uspokojoval. O dva roky mu tak zpřísnil trest, který mu letošního 5. srpna uložil Krajský soud v Brně. Za těžké ublížení na zdraví s následkem smrti a znásilnění mu hrozilo až 16 let za mřížemi.",
+      "title_en": "A Ukrainian killed him over a mobile phone and then raped a fellow inmate in the prison. The High Court has increased his sentence",
+      "lead_en": "On Wednesday, the High Court in Olomouc sentenced thirty-year-old Ukrainian Valentin Vasilovich Dziubenko to 14 years behind bars for killing a man in front of a bar in Brno and then bullying a fellow inmate in the remand prison, forcing him to perform oral pleasure. His sentence was thus increased by two years, which the Regional Court in Brno imposed on him on August 5 of this year. He faced up to 16 years behind bars for grievous bodily harm resulting in death and rape.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T14:59:14Z"
+    },
+    {
+      "id": "bfaed9fb17d0365f4d2b3b76d1beba948f143c0b",
+      "fingerprint": "36b627dca5f195f0028811525b07e18bb7524766",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-robert-fico-lvov-neni-valka-prohlaseni-utok-nadrazi.A261125_112215_zahranicni_ikul",
+      "published_utc": "2026-11-25T11:54:00Z",
+      "collected_at_utc": "2026-11-25T14:33:41Z",
+      "title_raw": "Ve Lvově žádná válka není, prohlásil Fico. Před pěti dny tam Rusové zabíjeli",
+      "lead_raw": "Slovenský premiér Robert Fico uvedl, že ve Lvově na západě Ukrajiny není válka. Prohlásil to v parlamentu během středečního zasedání výboru pro evropské záležitosti před mimořádnou schůzí Evropské rady. Ve zmíněném městě přitom ještě minulý týden při ruském útoku na tamní nádraží zemřeli dva lidé, dalších sedm bylo zraněno.",
+      "title_en": "There is no war in Lviv, Fico declared. Five days ago, Russians were killing there",
+      "lead_en": "Slovak Prime Minister Robert Fico stated that there is no war in Lviv in western Ukraine. He stated this in parliament during Wednesday's meeting of the Committee on European Affairs ahead of the extraordinary European Council meeting. In the mentioned city, just last week, two people died and seven others were injured in a Russian attack on the local station.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T14:33:45Z"
     },
     {
       "id": "7d7e84f7110ed5f009422ee7ce90393d48a662b1",
@@ -1094,8 +1657,8 @@
       "title_en": "The Chamber of Deputies approved an increase in groundwater prices and greater equality among companies",
       "lead_en": "The lower chamber approved an amendment to the Plant Health Care Act in the third reading, prioritizing it over the planned items. Among other things, the bill will drastically increase groundwater fees through an amendment by ANO MP Karel Tureček and take away the region's share of such collected funds. The Chamber then also approved a bill on a more balanced representation of women or men in the management of large joint-stock companies. Both legal changes are based on EU legislation.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -1105,7 +1668,7 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 0,
-        "economy": 9,
+        "economy": 0,
         "domestic_politics": 21,
         "foreign_affairs": 6,
         "local_events": 0
@@ -1114,10 +1677,7 @@
         "diplomacy": [],
         "military": [],
         "energy": [],
-        "economy": [
-          "stock_market",
-          "prices"
-        ],
+        "economy": [],
         "domestic_politics": [
           "parliament",
           "legislation",
@@ -1132,22 +1692,7 @@
         "diplomacy": [],
         "military": [],
         "energy": [],
-        "economy": [
-          {
-            "concept": "stock_market",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "prices",
-            "strength": 1,
-            "headline": true,
-            "lead": false,
-            "points": 3
-          }
-        ],
+        "economy": [],
         "domestic_politics": [
           {
             "concept": "parliament",
@@ -1183,13 +1728,12 @@
         "local_events": []
       },
       "topics": [
-        "economy",
         "domestic_politics",
         "foreign_affairs"
       ],
       "relevant": true,
       "primary_topic": "domestic_politics",
-      "classification_version": 4,
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:33:45Z"
     },
     {
@@ -1254,7 +1798,7 @@
       ],
       "relevant": true,
       "primary_topic": "foreign_affairs",
-      "classification_version": 4
+      "classification_version": 5
     },
     {
       "id": "1bd0cf80160bbbaf4b865ab01c3b52e34e7ce7f1",
@@ -1269,8 +1813,8 @@
       "title_en": "There may be up to half a million fallen Russians, the extent of losses revealed by leaked data",
       "lead_en": "Russian authorities do not publish data on the number of fallen soldiers. However, an analysis of leaked statistics conducted by the BBC shows that the war in Ukraine may have claimed the lives of nearly half a million men fighting for Russia.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -1282,19 +1826,20 @@
         "energy": 0,
         "economy": 0,
         "domestic_politics": 0,
-        "foreign_affairs": 6,
+        "foreign_affairs": 10,
         "local_events": 0
       },
       "matched_keywords": {
         "diplomacy": [],
         "military": [
-          "war"
+          "military_activity"
         ],
         "energy": [],
         "economy": [],
         "domestic_politics": [],
         "foreign_affairs": [
-          "ukraine_conflict"
+          "ukraine",
+          "russia"
         ],
         "local_events": []
       },
@@ -1302,7 +1847,7 @@
         "diplomacy": [],
         "military": [
           {
-            "concept": "war",
+            "concept": "military_activity",
             "strength": 3,
             "headline": false,
             "lead": true,
@@ -1314,11 +1859,18 @@
         "domestic_politics": [],
         "foreign_affairs": [
           {
-            "concept": "ukraine_conflict",
+            "concept": "ukraine",
             "strength": 3,
             "headline": false,
             "lead": true,
             "points": 6
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
           }
         ],
         "local_events": []
@@ -1328,8 +1880,8 @@
         "foreign_affairs"
       ],
       "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 4,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:33:45Z"
     },
     {
@@ -1345,8 +1897,8 @@
       "title_en": "Magyar traveled to Ukraine, reviving relations with Kyiv even in the gym",
       "lead_en": "The Hungarian Prime Minister arrived in Transcarpathia with generators and medicines. He spoke with President Zelensky about the rights of local Hungarians and Ukraine's path to the EU. Kyiv wants to complete it faster than Budapest imagines.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -1357,8 +1909,8 @@
         "military": 0,
         "energy": 0,
         "economy": 0,
-        "domestic_politics": 2,
-        "foreign_affairs": 6,
+        "domestic_politics": 0,
+        "foreign_affairs": 15,
         "local_events": 0
       },
       "matched_keywords": {
@@ -1366,11 +1918,10 @@
         "military": [],
         "energy": [],
         "economy": [],
-        "domestic_politics": [
-          "leadership"
-        ],
+        "domestic_politics": [],
         "foreign_affairs": [
-          "eu_policy"
+          "eu_policy",
+          "ukraine"
         ],
         "local_events": []
       },
@@ -1379,18 +1930,82 @@
         "military": [],
         "energy": [],
         "economy": [],
-        "domestic_politics": [
-          {
-            "concept": "leadership",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
+        "domestic_politics": [],
         "foreign_affairs": [
           {
             "concept": "eu_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T14:33:45Z"
+    },
+    {
+      "id": "7f5d00b37aa0a8250bd33000a6b16177301ff25a",
+      "fingerprint": "b08566ad4af5ab6d72518ce81a89a7663462ffe8",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-nemecka-policie-zadrzela-mlade-pravicove-extremisty-podezrele-z-planovani-utoku-321484",
+      "published_utc": "2026-11-25T10:43:38Z",
+      "collected_at_utc": "2026-11-25T14:33:40Z",
+      "title_raw": "Německá policie zadržela mladé pravicové extremisty podezřelé z plánování útoků",
+      "lead_raw": "Německé úřady podezírají tři chlapce ve věku 14 a 15 let z členství v krajně pravicové teroristické organizaci. Podle vyšetřovatelů plánovali útoky na cizince a politické odpůrce.",
+      "title_en": "German police detained young right-wing extremists suspected of planning attacks",
+      "lead_en": "German authorities suspect three boys aged 14 and 15 of membership in a far-right terrorist organization. According to investigators, they planned attacks on foreigners and political opponents.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "terrorism"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "terrorism",
             "strength": 3,
             "headline": false,
             "lead": true,
@@ -1404,8 +2019,8 @@
       ],
       "relevant": true,
       "primary_topic": "foreign_affairs",
-      "classification_version": 4,
-      "translated_at_utc": "2026-11-25T14:33:45Z"
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T14:59:14Z"
     },
     {
       "id": "f0f29bba4974ac44b4e385ac246539d94af38799",
@@ -1420,8 +2035,8 @@
       "title_en": "After the collapse of the climate conference, pressure is mounting to end unanimity",
       "lead_en": "This year's UN climate conference COP31 in Antalya, Turkey, the longest in history to date, ended in failure. Some countries rejected even a general commitment to reducing fossil fuels in the draft declaration, while others refused to sign a version that does not mention the main cause of climate change at all. Key global players were absent. Politicians, experts, and the media are reflecting after the bitter failure on whether humanity is capable of agreeing on climate in the current conference format.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -1469,7 +2084,7 @@
       ],
       "relevant": true,
       "primary_topic": "foreign_affairs",
-      "classification_version": 4,
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:40:42Z"
     },
     {
@@ -1485,8 +2100,8 @@
       "title_en": "MEPs approved a resolution on Czech Television and Czech Radio, wanting predictable funding",
       "lead_en": "On Wednesday, MEPs approved a resolution calling on the Czech government to revise the draft law on changing the financing of Czech Television and Czech Radio, which is being pushed by Andrej Babiš's (ANO) cabinet. The European Parliament calls on the government to ensure sufficient and predictable funding for both media, ensure transparent legislative discussion of the changes, and safeguards against political interference in the work of Czech Television and Czech Radio. The proposal also criticizes Babiš's conflict of interest. The European Commission is closely monitoring developments in the Czech Republic, its spokesperson said.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -1497,8 +2112,8 @@
         "military": 0,
         "energy": 0,
         "economy": 3,
-        "domestic_politics": 37,
-        "foreign_affairs": 9,
+        "domestic_politics": 22,
+        "foreign_affairs": 6,
         "local_events": 0
       },
       "matched_keywords": {
@@ -1512,8 +2127,6 @@
           "government",
           "legislation",
           "political_parties",
-          "public_broadcasting",
-          "political_corruption",
           "czech_leaders"
         ],
         "foreign_affairs": [
@@ -1557,20 +2170,6 @@
             "points": 6
           },
           {
-            "concept": "public_broadcasting",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "political_corruption",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
             "concept": "czech_leaders",
             "strength": 3,
             "headline": false,
@@ -1582,9 +2181,9 @@
           {
             "concept": "eu_policy",
             "strength": 3,
-            "headline": true,
+            "headline": false,
             "lead": true,
-            "points": 9
+            "points": 6
           }
         ],
         "local_events": []
@@ -1595,7 +2194,7 @@
       ],
       "relevant": true,
       "primary_topic": "domestic_politics",
-      "classification_version": 4,
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:40:42Z"
     },
     {
@@ -1611,8 +2210,8 @@
       "title_en": "The Czech Republic lags behind the EU by five years in electromobility",
       "lead_en": "Compared to last year, the number of electric car registrations in the Czech Republic increased by more than 36 percent from January to October this year, according to statistics. This is a solid result, but in the EU, the year-on-year increase is straight...",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -1660,7 +2259,7 @@
       ],
       "relevant": true,
       "primary_topic": "foreign_affairs",
-      "classification_version": 4,
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:40:42Z"
     },
     {
@@ -1676,8 +2275,8 @@
       "title_en": "The Senate approved an amendment aimed at preventing goods from being painted green.",
       "lead_en": "The Senate approved an amendment without amendments aimed at preventing misleading information about the environmental impacts of products, so-called green lacquering. In the future, manufacturers will no longer be able to refuse to repair their product solely because someone else previously repaired it, senators further agreed. The upper chamber also called on the government to support the EU loan to support Ukraine at the upcoming European Union summit.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -1688,31 +2287,31 @@
         "military": 0,
         "energy": 0,
         "economy": 0,
-        "domestic_politics": 22,
-        "foreign_affairs": 6,
+        "domestic_politics": 13,
+        "foreign_affairs": 12,
         "local_events": 0
       },
       "matched_keywords": {
         "diplomacy": [
-          "summit"
+          "international_summits"
         ],
         "military": [],
         "energy": [],
         "economy": [],
         "domestic_politics": [
-          "government",
           "parliament",
-          "legislation"
+          "government"
         ],
         "foreign_affairs": [
-          "eu_policy"
+          "eu_policy",
+          "ukraine"
         ],
         "local_events": []
       },
       "classification_details": {
         "diplomacy": [
           {
-            "concept": "summit",
+            "concept": "international_summits",
             "strength": 3,
             "headline": false,
             "lead": true,
@@ -1724,13 +2323,6 @@
         "economy": [],
         "domestic_politics": [
           {
-            "concept": "government",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          },
-          {
             "concept": "parliament",
             "strength": 3,
             "headline": true,
@@ -1738,16 +2330,23 @@
             "points": 9
           },
           {
-            "concept": "legislation",
-            "strength": 3,
-            "headline": true,
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
             "lead": true,
-            "points": 9
+            "points": 4
           }
         ],
         "foreign_affairs": [
           {
             "concept": "eu_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "ukraine",
             "strength": 3,
             "headline": false,
             "lead": true,
@@ -1763,7 +2362,7 @@
       ],
       "relevant": true,
       "primary_topic": "domestic_politics",
-      "classification_version": 4,
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:40:42Z"
     },
     {
@@ -1779,42 +2378,44 @@
       "title_en": "Tensions are rising due to disagreements over the shape of the future EU budget, with the Czech Republic also criticizing it",
       "lead_en": "An extraordinary European Union summit in Brussels is expected to approve the key outlines of the multiannual budget at the end of the workweek. According to European Council President António Costa, \"the time for an agreement has come,\" as he stated in a letter addressed to the leaders of member states. However, the agreement could be complicated by a dispute over financial support for Ukraine. The Czech Republic and three other countries have indicated that they do not want to participate. Germany, however, insists on a unified engagement of the entire twenty-seven and threatens to block the negotiations.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
       "translation_error": null,
       "translation_warnings": [],
       "topic_scores": {
-        "diplomacy": 10,
+        "diplomacy": 8,
         "military": 0,
         "energy": 0,
-        "economy": 3,
+        "economy": 12,
         "domestic_politics": 0,
-        "foreign_affairs": 9,
+        "foreign_affairs": 15,
         "local_events": 0
       },
       "matched_keywords": {
         "diplomacy": [
-          "summit",
+          "international_summits",
           "negotiations"
         ],
         "military": [],
         "energy": [],
         "economy": [
+          "eu_budget",
           "generic_budget"
         ],
         "domestic_politics": [],
         "foreign_affairs": [
-          "eu_policy"
+          "eu_policy",
+          "ukraine"
         ],
         "local_events": []
       },
       "classification_details": {
         "diplomacy": [
           {
-            "concept": "summit",
+            "concept": "international_summits",
             "strength": 3,
             "headline": false,
             "lead": true,
@@ -1822,15 +2423,22 @@
           },
           {
             "concept": "negotiations",
-            "strength": 2,
+            "strength": 1,
             "headline": false,
             "lead": true,
-            "points": 4
+            "points": 2
           }
         ],
         "military": [],
         "energy": [],
         "economy": [
+          {
+            "concept": "eu_budget",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          },
           {
             "concept": "generic_budget",
             "strength": 1,
@@ -1847,17 +2455,128 @@
             "headline": true,
             "lead": true,
             "points": 9
+          },
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
           }
         ],
         "local_events": []
       },
       "topics": [
         "diplomacy",
+        "economy",
         "foreign_affairs"
       ],
       "relevant": true,
-      "primary_topic": "diplomacy",
-      "classification_version": 4,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T14:40:42Z"
+    },
+    {
+      "id": "d4f339495c4aa9b27e4eb5597be306920b29ffc5",
+      "fingerprint": "6543b3a8f99c87066b3bfe76a9bc2fbf0c4c2343",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/pri-ruskem-utoku-v-kyjevske-oblasti-zahynul-muz-v-rusku-hori-rafinerie-379928",
+      "published_utc": "2026-11-25T06:49:48Z",
+      "collected_at_utc": "2026-11-25T14:33:37Z",
+      "title_raw": "Ukrajina hlásí zničení pěti ruských letadel a zásah dvou rafinerií. Kyjev a Charkov čelily ostřelování",
+      "lead_raw": "Ruské útoky v Kyjevské a Charkovské oblasti si vyžádaly dva mrtvé, oznámili tamní představitelé. Pět oblastí Ukrajiny se potýká s výpadky dodávek elektrické energie, informovaly úřady. Ukrajinská armáda uvedla, že v Rusku zasáhla dvě rafinerie a také leteckou základnu, kde poškodila pět letounů. Gubernátor ruské Samarské oblasti Vjačeslav Fedoriščev tvrdí, že tam byl při dronovém úderu zabit jeden člověk.",
+      "title_en": "Ukraine reports the destruction of five Russian aircraft and the strike of two refineries. Kyiv and Kharkiv faced shelling",
+      "lead_en": "Russian attacks in the Kyiv and Kharkiv regions have claimed two lives, local officials reported. Five regions of Ukraine are facing power outages, authorities reported. The Ukrainian army said it struck two refineries and an airbase in Russia, damaging five aircraft. Vyacheslav Fedorishchev, governor of Russia's Samara region, claims that one person was killed in a drone strike there.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 17,
+        "energy": 9,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces",
+          "generic_drones",
+          "military_operations"
+        ],
+        "energy": [
+          "refining"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "generic_drones",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "military_operations",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "energy": [
+          {
+            "concept": "refining",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "energy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:40:42Z"
     },
     {
@@ -1922,7 +2641,7 @@
       ],
       "relevant": true,
       "primary_topic": "foreign_affairs",
-      "classification_version": 4
+      "classification_version": 5
     },
     {
       "id": "ef4b4de4436f8255ce32133211ee7986fa803bc3",
@@ -1937,16 +2656,16 @@
       "title_en": "\"Israel must prepare.\" The key verdict states that defense does not excuse genocide",
       "lead_en": "The landmark ruling of the United Nations International Court of Justice (ICJ) in the case of Gambia vs. Myanmar, which was recognized as a state responsible for genocide against the Rohingya minority, could have far-reaching consequences for Israel and its dispute with South Africa over Gaza, experts believe. In both cases, attacks occur in which children die, both sides also argue self-defense, but the court did not rule out the simultaneous anti-terrorist operation with genocide in Myanmar. According to experts, the verdict will damage the country's reputation and may lead to a reduction of diplomatic ties or sanctions from third countries.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
       "translation_error": null,
       "translation_warnings": [],
       "topic_scores": {
-        "diplomacy": 6,
-        "military": 9,
+        "diplomacy": 0,
+        "military": 0,
         "energy": 0,
         "economy": 0,
         "domestic_politics": 0,
@@ -1954,12 +2673,8 @@
         "local_events": 0
       },
       "matched_keywords": {
-        "diplomacy": [
-          "diplomacy"
-        ],
-        "military": [
-          "defense"
-        ],
+        "diplomacy": [],
+        "military": [],
         "energy": [],
         "economy": [],
         "domestic_politics": [],
@@ -1970,24 +2685,8 @@
         "local_events": []
       },
       "classification_details": {
-        "diplomacy": [
-          {
-            "concept": "diplomacy",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "military": [
-          {
-            "concept": "defense",
-            "strength": 3,
-            "headline": true,
-            "lead": false,
-            "points": 9
-          }
-        ],
+        "diplomacy": [],
+        "military": [],
         "energy": [],
         "economy": [],
         "domestic_politics": [],
@@ -2010,14 +2709,125 @@
         "local_events": []
       },
       "topics": [
-        "diplomacy",
-        "military",
         "foreign_affairs"
       ],
       "relevant": true,
       "primary_topic": "foreign_affairs",
-      "classification_version": 4,
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:40:42Z"
+    },
+    {
+      "id": "2d8f499a5fefb1d9b35c5700b2d80dc83a923c11",
+      "fingerprint": "878e39fa93c7321380666f01f231e515b3acef4f",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/zive-tk-babise-pred-odletem-do-bruselu-na-summit-eu/2906281",
+      "published_utc": "2026-11-24T23:59:00Z",
+      "collected_at_utc": "2026-11-25T14:33:35Z",
+      "title_raw": "ŽIVĚ: TK Babiše před odletem do Bruselu na summit EU",
+      "lead_raw": "Praha - ČTK bude od 17:30 vysílat komentář předsedy vlády Andreje Babiše (ANO) před odletem do Bruselu na dvoudenní mimořádný summit EU, který se bude věnovat budoucímu dlouholetému rozpočtu Evropské...",
+      "title_en": "LIVE: Babiš's press conference before flying to Brussels for the EU summit",
+      "lead_en": "Prague - Czech News Agency will broadcast a commentary from Prime Minister Andrej Babiš (ANO) from 5:30 PM before departing for Brussels for a two-day extraordinary EU summit focused on the future long-term budget of the European...",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 9,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "domestic_politics": 19,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "government",
+          "political_parties",
+          "czech_leaders"
+        ],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T14:40:43Z"
     },
     {
       "id": "4023983047b8288bcdb6e8a404466e8e69079f44",
@@ -2032,8 +2842,8 @@
       "title_en": "The United States is preparing further tariffs. They are expected to affect China, the European Union, and India",
       "lead_en": "The United States is preparing to raise tariffs on imports from China, the European Union, and 14 other countries that the White House claims harm American companies by supporting their own domestic industrial production. This was reported by The Wall Street Journal (WSJ).",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -2043,7 +2853,7 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 0,
-        "economy": 0,
+        "economy": 21,
         "domestic_politics": 0,
         "foreign_affairs": 9,
         "local_events": 0
@@ -2052,7 +2862,11 @@
         "diplomacy": [],
         "military": [],
         "energy": [],
-        "economy": [],
+        "economy": [
+          "tariffs",
+          "imports_exports",
+          "industrial_policy"
+        ],
         "domestic_politics": [],
         "foreign_affairs": [
           "eu_policy"
@@ -2063,7 +2877,29 @@
         "diplomacy": [],
         "military": [],
         "energy": [],
-        "economy": [],
+        "economy": [
+          {
+            "concept": "tariffs",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "imports_exports",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "industrial_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
         "domestic_politics": [],
         "foreign_affairs": [
           {
@@ -2077,11 +2913,12 @@
         "local_events": []
       },
       "topics": [
+        "economy",
         "foreign_affairs"
       ],
       "relevant": true,
-      "primary_topic": "foreign_affairs",
-      "classification_version": 4,
+      "primary_topic": "economy",
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:40:43Z"
     },
     {
@@ -2097,8 +2934,8 @@
       "title_en": "WSJ: The US is preparing additional tariffs on imports from the EU, China, and other countries",
       "lead_en": "Washington - The United States is preparing to raise tariffs on imports from China, the European Union, and 14 other countries that the White House claims harm American companies by supporting domestic industrial production....",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -2108,7 +2945,7 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 0,
-        "economy": 0,
+        "economy": 24,
         "domestic_politics": 0,
         "foreign_affairs": 9,
         "local_events": 0
@@ -2117,7 +2954,11 @@
         "diplomacy": [],
         "military": [],
         "energy": [],
-        "economy": [],
+        "economy": [
+          "tariffs",
+          "imports_exports",
+          "industrial_policy"
+        ],
         "domestic_politics": [],
         "foreign_affairs": [
           "eu_policy"
@@ -2128,7 +2969,29 @@
         "diplomacy": [],
         "military": [],
         "energy": [],
-        "economy": [],
+        "economy": [
+          {
+            "concept": "tariffs",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "imports_exports",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "industrial_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
         "domestic_politics": [],
         "foreign_affairs": [
           {
@@ -2142,11 +3005,12 @@
         "local_events": []
       },
       "topics": [
+        "economy",
         "foreign_affairs"
       ],
       "relevant": true,
-      "primary_topic": "foreign_affairs",
-      "classification_version": 4,
+      "primary_topic": "economy",
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:40:43Z"
     },
     {
@@ -2162,8 +3026,8 @@
       "title_en": "EC: The Czech Republic faces the risk of failing to comply with EU fiscal rules next year",
       "lead_en": "Strasbourg/Brussels - According to the European Commission, the Czech Republic faces the risk of not complying with EU fiscal rules next year. This was pointed out today by the European Commissioner for Economy, Valdis Dombrovskis, who said that the same...",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -2173,7 +3037,7 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 0,
-        "economy": 2,
+        "economy": 11,
         "domestic_politics": 0,
         "foreign_affairs": 6,
         "local_events": 0
@@ -2183,6 +3047,7 @@
         "military": [],
         "energy": [],
         "economy": [
+          "public_finances",
           "currency"
         ],
         "domestic_politics": [],
@@ -2196,6 +3061,13 @@
         "military": [],
         "energy": [],
         "economy": [
+          {
+            "concept": "public_finances",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
           {
             "concept": "currency",
             "strength": 1,
@@ -2217,11 +3089,12 @@
         "local_events": []
       },
       "topics": [
+        "economy",
         "foreign_affairs"
       ],
       "relevant": true,
-      "primary_topic": "foreign_affairs",
-      "classification_version": 4,
+      "primary_topic": "economy",
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:40:43Z"
     },
     {
@@ -2286,7 +3159,7 @@
       ],
       "relevant": true,
       "primary_topic": "foreign_affairs",
-      "classification_version": 4
+      "classification_version": 5
     },
     {
       "id": "8ccf24d8a8104b4cf7192056cf0e3a417fdd4713",
@@ -2310,7 +3183,7 @@
       "translation_warnings": [],
       "topic_scores": {
         "diplomacy": 0,
-        "military": 9,
+        "military": 0,
         "energy": 0,
         "economy": 0,
         "domestic_politics": 0,
@@ -2319,9 +3192,7 @@
       },
       "matched_keywords": {
         "diplomacy": [],
-        "military": [
-          "defense"
-        ],
+        "military": [],
         "energy": [],
         "economy": [],
         "domestic_politics": [],
@@ -2332,15 +3203,7 @@
       },
       "classification_details": {
         "diplomacy": [],
-        "military": [
-          {
-            "concept": "defense",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
+        "military": [],
         "energy": [],
         "economy": [],
         "domestic_politics": [],
@@ -2356,12 +3219,11 @@
         "local_events": []
       },
       "topics": [
-        "military",
         "foreign_affairs"
       ],
       "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 4
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5
     },
     {
       "id": "cde6c4342330a2acc90828fb9428883a52fc645a",
@@ -2376,8 +3238,8 @@
       "title_en": "A new form of digital identity valid throughout the EU will be in effect in the Czech Republic from 2027",
       "lead_en": "Prague - A new form of digital identity valid throughout the European Union will be in operation in the Czech Republic from the end of 2027. With the new European wallet called Valetka, a person will be able to prove their identity at an office, in a bank...",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -2425,7 +3287,7 @@
       ],
       "relevant": true,
       "primary_topic": "foreign_affairs",
-      "classification_version": 4,
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:40:43Z"
     },
     {
@@ -2441,8 +3303,8 @@
       "title_en": "The EU will impose limits on imports of hybrid cars from China. The measure is intended to protect European car manufacturers",
       "lead_en": "The European Union has set temporary limits on imports of new hybrid cars from China and several other countries. The measure is intended to protect European car manufacturers from rising imports from abroad. The limits published by the EU on Tuesday will take effect from December 1. The Chinese Ministry of Commerce now hopes that the EU will honor the agreement both sides negotiated in October, Reuters reported.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -2452,8 +3314,8 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 0,
-        "economy": 0,
-        "domestic_politics": 4,
+        "economy": 9,
+        "domestic_politics": 0,
         "foreign_affairs": 9,
         "local_events": 0
       },
@@ -2461,10 +3323,10 @@
         "diplomacy": [],
         "military": [],
         "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          "government"
+        "economy": [
+          "imports_exports"
         ],
+        "domestic_politics": [],
         "foreign_affairs": [
           "eu_policy"
         ],
@@ -2474,16 +3336,16 @@
         "diplomacy": [],
         "military": [],
         "energy": [],
-        "economy": [],
-        "domestic_politics": [
+        "economy": [
           {
-            "concept": "government",
-            "strength": 2,
-            "headline": false,
+            "concept": "imports_exports",
+            "strength": 3,
+            "headline": true,
             "lead": true,
-            "points": 4
+            "points": 9
           }
         ],
+        "domestic_politics": [],
         "foreign_affairs": [
           {
             "concept": "eu_policy",
@@ -2496,11 +3358,12 @@
         "local_events": []
       },
       "topics": [
+        "economy",
         "foreign_affairs"
       ],
       "relevant": true,
-      "primary_topic": "foreign_affairs",
-      "classification_version": 4,
+      "primary_topic": "economy",
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:40:43Z"
     },
     {
@@ -2516,8 +3379,8 @@
       "title_en": "The EU has set limits on the import of hybrid cars from China and other countries",
       "lead_en": "Brussels - The European Union has set temporary limits on the import of new hybrid cars from China and several other countries. The measure aims to protect European car manufacturers from rising imports from abroad. Limits,...",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -2527,7 +3390,7 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 0,
-        "economy": 0,
+        "economy": 9,
         "domestic_politics": 0,
         "foreign_affairs": 9,
         "local_events": 0
@@ -2536,7 +3399,9 @@
         "diplomacy": [],
         "military": [],
         "energy": [],
-        "economy": [],
+        "economy": [
+          "imports_exports"
+        ],
         "domestic_politics": [],
         "foreign_affairs": [
           "eu_policy"
@@ -2547,7 +3412,15 @@
         "diplomacy": [],
         "military": [],
         "energy": [],
-        "economy": [],
+        "economy": [
+          {
+            "concept": "imports_exports",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
         "domestic_politics": [],
         "foreign_affairs": [
           {
@@ -2561,12 +3434,14 @@
         "local_events": []
       },
       "topics": [
+        "economy",
         "foreign_affairs"
       ],
       "relevant": true,
-      "primary_topic": "foreign_affairs",
-      "classification_version": 4,
+      "primary_topic": "economy",
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:40:43Z"
     }
-  ]
+  ],
+  "topic": "foreign_affairs"
 }

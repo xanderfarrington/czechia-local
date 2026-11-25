@@ -1,26 +1,25 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T14:40:44Z",
-  "topic": "military",
-  "count": 19,
+  "updated_at_utc": "2026-11-25T14:59:14Z",
+  "count": 10,
   "articles": [
     {
-      "id": "9eba22bd3f23abe0b92a52851964d8769db92cfe",
-      "fingerprint": "0facd9f94f8cfa7dbb831429aba93eb5fed5d40b",
-      "source": "iDNES.cz",
+      "id": "2682207d94531af1d1a27d620aaafd3d4be25d84",
+      "fingerprint": "74ad417644a679872963ef28a7a164f444d5d0a8",
+      "source": "ČT24",
       "source_language": "cs",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/stredomori-jako-nova-fronta-ukrajinske-udery-v-libyi-znepokojuji-jizni-evropu.A261125_123207_zahranicni_jhr",
-      "published_utc": "2026-11-25T13:45:00Z",
-      "collected_at_utc": "2026-11-25T14:33:41Z",
-      "title_raw": "Středomoří jako nová fronta. Ukrajinské údery v Libyi znepokojují jižní Evropu",
-      "lead_raw": "Úspěšné ukrajinské údery na ruské lodě u libyjského Benghází vyvolaly znepokojení v některých evropských státech. Itálie i Řecko se obávají, že by ruská odveta a další eskalace mohly vést k obnovení libyjského konfliktu, destabilizaci země a zesílení migračních toků. Další útoky by též mohly ze Středozemí učinit další bojiště války.",
-      "title_en": "The Mediterranean as a new front. Ukrainian strikes in Libya worry southern Europe",
-      "lead_en": "Successful Ukrainian strikes on Russian ships near Benghazi, Libya, have caused concern in some European countries. Italy and Greece fear that Russian retaliation and further escalation could lead to a renewal of the Libyan conflict, destabilization of the country, and increased migration flows. Further attacks could also turn the Mediterranean into another battlefield of war.",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/vzorky-pudy-a-zalepit-okna-v-iowe-odpali-jedovate-chemikalie-379940",
+      "published_utc": "2026-11-25T13:21:24Z",
+      "collected_at_utc": "2026-11-25T14:33:37Z",
+      "title_raw": "Vzorky půdy a zalepit okna. V Iowě odpálí jedovaté chemikálie",
+      "lead_raw": "Americká armáda plánuje ve středu v 16 hodin SEČ ve státě Iowa odpálit víc než čtyři tuny chemikálií, které se používaly k výrobě výbušnin. Soud akci nejprve zablokoval, federální odvolací soud ji ale později povolil. Místní obyvatelé zalepují svá okna a sbírají vzorky půdy, aby mohli doložit případné dopady na jejich zdraví a životní prostředí způsobené rozptýlením toxických látek v ovzduší.",
+      "title_en": "Soil samples and tape windows. In Iowa, toxic chemicals are detonated",
+      "lead_en": "The U.S. military plans to detonate more than four tons of chemicals used to make explosives in the state of Iowa on Wednesday at 4 p.m. CET. The court initially blocked the operation, but the federal appeals court later allowed it. Local residents are taping their windows and collecting soil samples to document any potential impacts on their health and the environment caused by the dispersion of toxic substances into the air.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
-      "translation_attempts": 1,
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 2,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
       "translation_error": null,
@@ -37,7 +36,7 @@
       "matched_keywords": {
         "diplomacy": [],
         "military": [
-          "war"
+          "armed_forces"
         ],
         "energy": [],
         "economy": [],
@@ -49,7 +48,7 @@
         "diplomacy": [],
         "military": [
           {
-            "concept": "war",
+            "concept": "armed_forces",
             "strength": 3,
             "headline": false,
             "lead": true,
@@ -67,542 +66,8 @@
       ],
       "relevant": true,
       "primary_topic": "military",
-      "classification_version": 4,
-      "translated_at_utc": "2026-11-25T14:33:43Z"
-    },
-    {
-      "id": "4c07ca4ef1f03ae5b55a91b056e79c67c50afd34",
-      "fingerprint": "96eb1ea097aa4996e70d9213b9fd57d0c3385a74",
-      "source": "Novinky",
-      "source_language": "cs",
-      "url": "https://www.novinky.cz/clanek/veda-skoly-archeologove-objevili-na-brnensku-praveke-hroby-i-sidliste-z-doby-bronzove-40610345",
-      "published_utc": "2026-11-25T13:29:22Z",
-      "collected_at_utc": "2026-11-25T14:33:38Z",
-      "title_raw": "Archeologové objevili na Brněnsku pravěké hroby i sídliště z doby bronzové",
-      "lead_raw": "Pozůstatky pravěkého osídlení, včetně několika kostrových hrobů, keramiky a šperků, našli archeologové v Odrovicích na Brněnsku. Objevili je v místech, kde se bude stavět příjezdová silnice k nové části obce. Zajímavé jsou i mladší nálezy, jako je například železná přezka z doby římské, kdy se na tehdejší Moravě odehrávaly markomanské války.",
-      "title_en": "Archaeologists have discovered prehistoric graves and a Bronze Age settlement in the Brno region",
-      "lead_en": "Archaeologists found remains of prehistoric settlement, including several skeletal graves, pottery, and jewelry, in Odrovice in the Brno region. They discovered them at the site where the access road to the new part of the village will be built. Also interesting are the later finds, such as an iron clasp from the Roman period, when the Marcomannic Wars took place in what was then Moravia.",
-      "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 6,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "war"
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "war",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "military"
-      ],
-      "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 4,
-      "translated_at_utc": "2026-11-25T14:33:43Z"
-    },
-    {
-      "id": "9f0ad4a587c2d8f45efa0c420181e09870f6fbda",
-      "fingerprint": "48a9444ec1f99137014d9439fabd106e92790b3d",
-      "source": "Seznam Zprávy",
-      "source_language": "cs",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-s-rodinami-se-diky-trumpove-shledalo-dalsich-devet-ukrajinskych-a-ruskych-deti-321513",
-      "published_utc": "2026-11-25T13:14:41Z",
-      "collected_at_utc": "2026-11-25T14:33:40Z",
-      "title_raw": "S rodinami se díky Trumpové shledalo dalších devět ukrajinských a ruských dětí",
-      "lead_raw": "Díky iniciativě americké první dámy Melanie Trumpové se se svými rodinami dosud shledalo 43 dětí odloučených v důsledku války na Ukrajině. Bílý dům nyní oznámil návrat dalších devíti dětí.",
-      "title_en": "Thanks to Trump, nine more Ukrainian and Russian children have been reunited with their families",
-      "lead_en": "Thanks to the initiative of American First Lady Melania Trump, 43 children separated due to the war in Ukraine have so far been reunited with their families. The White House has now announced the return of nine more children.",
-      "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 6,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 6,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "war"
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          "ukraine_conflict"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "war",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          {
-            "concept": "ukraine_conflict",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "military",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 4,
-      "translated_at_utc": "2026-11-25T14:33:44Z"
-    },
-    {
-      "id": "2c7f4f048fd420f5fd018b5be0ce979f106a6f20",
-      "fingerprint": "07ae1ff3ad93b64716c45d8006c3d353ffc29fa2",
-      "source": "Novinky",
-      "source_language": "cs",
-      "url": "https://www.novinky.cz/clanek/zahranicni-nejsem-kufr-reagoval-zelenskyj-na-lukasenkuv-navrh-spolecne-cesty-do-moskvy-40610471",
-      "published_utc": "2026-11-25T13:04:19Z",
-      "collected_at_utc": "2026-11-25T14:33:38Z",
-      "title_raw": "Nejsem kufr, reagoval Zelenskyj na Lukašenkův návrh společné cesty do Moskvy",
-      "lead_raw": "Ukrajinský prezident Volodymyr Zelenskyj odmítl návrh běloruského vůdce Alexandra Lukašenko, že by mohli společně letět do Moskvy na jednání o ukončení války na Ukrajině. Lukašenko zároveň nabízel, že se stane garantem Zelenského bezpečnosti při této cestě.",
-      "title_en": "\"I'm not a suitcase,\" Zelensky responded to Lukashenko's proposal for a joint trip to Moscow",
-      "lead_en": "Ukrainian President Volodymyr Zelensky rejected the proposal of Belarusian leader Alexander Lukashenko that they could fly together to Moscow for talks to end the war in Ukraine. At the same time, Lukashenko offered to become Zelensky's security guarantor during this trip.",
-      "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 10,
-        "military": 6,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 2,
-        "foreign_affairs": 16,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [
-          "peace_negotiations",
-          "negotiations"
-        ],
-        "military": [
-          "war"
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          "leadership"
-        ],
-        "foreign_affairs": [
-          "ukraine_conflict",
-          "foreign_government",
-          "international_negotiations"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [
-          {
-            "concept": "peace_negotiations",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "negotiations",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          }
-        ],
-        "military": [
-          {
-            "concept": "war",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          {
-            "concept": "leadership",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "foreign_affairs": [
-          {
-            "concept": "ukraine_conflict",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "foreign_government",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          },
-          {
-            "concept": "international_negotiations",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "foreign_affairs",
-      "classification_version": 4,
-      "translated_at_utc": "2026-11-25T14:33:44Z"
-    },
-    {
-      "id": "b86b9921ad261db0d96629dccf0d3f31d800f4e5",
-      "fingerprint": "f576e2e679bf43f772d126261be419f0461dd9ce",
-      "source": "České noviny / ČTK - Czech Republic",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/senat-vyzval-vladu-aby-na-summitu-eu-podporila-jeji-pujcku-ukrajine/2906514",
-      "published_utc": "2026-11-25T12:24:00Z",
-      "collected_at_utc": "2026-11-25T14:33:35Z",
-      "title_raw": "Senát vyzval vládu, aby na summitu EU podpořila její půjčku Ukrajině",
-      "lead_raw": "Praha - Vláda by měla podle Senátu na nadcházejícím summitu Evropské unie podpořit unijní půjčku na podporu Ukrajiny, která se pátým rokem brání ruské agresi. Horní parlamentní komora k tomu dnes kabinet...",
-      "title_en": "The Senate called on the government to support its loan to Ukraine at the EU summit",
-      "lead_en": "Prague - According to the Senate, the government should support the EU loan to support Ukraine at the upcoming European Union summit, as Ukraine has been defending itself against Russian aggression for five consecutive years. The upper parliamentary chamber today discussed the cabinet...",
-      "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 9,
-        "military": 6,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 15,
-        "foreign_affairs": 15,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [
-          "summit"
-        ],
-        "military": [
-          "military_aggression"
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          "government",
-          "parliament"
-        ],
-        "foreign_affairs": [
-          "eu_policy",
-          "ukraine_conflict"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [
-          {
-            "concept": "summit",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "military": [
-          {
-            "concept": "military_aggression",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          {
-            "concept": "government",
-            "strength": 2,
-            "headline": true,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "parliament",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "ukraine_conflict",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "diplomacy",
-        "military",
-        "domestic_politics",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 4,
-      "translated_at_utc": "2026-11-25T14:33:44Z"
-    },
-    {
-      "id": "4cbcbae9a92716ef2879d9713060baf9fdd488fd",
-      "fingerprint": "99cd9c5d77ca4b8930a2fbb05ab6b3811295f724",
-      "source": "iDNES.cz",
-      "source_language": "cs",
-      "url": "https://www.idnes.cz/magaziny/koktejl/objednal-sampon-a-chtel-natocit-doruceni-dronem-necekal-ze-z-toho-bude-hit.A261125_093745_zahranicni_wall",
-      "published_utc": "2026-11-25T12:08:00Z",
-      "collected_at_utc": "2026-11-25T14:33:41Z",
-      "title_raw": "Objednal šampon a chtěl natočit doručení dronem. Nečekal, že z toho bude hit",
-      "lead_raw": "Doručení šamponu v hodnotě pár dolarů skončilo násobně větší škodou. Dron společnosti Amazon po úspěšném položení balíčku k domu zákazníka nezvládl startovací manévr a havaroval. Vychýlil se z plánované trasy a zřítil se na střechu garáže u sousedů. Nejde o první nehodu doručovacího dronu, ale v přepočtu na celkový počet doručených zásilek jsou tyto incidenty vzácné.",
-      "title_en": "He ordered shampoo and wanted to film drone delivery. He didn't expect it to be a hit",
-      "lead_en": "A shampoo delivery worth a few dollars ended in damage many times greater. Amazon's drone, after successfully placing the package at the customer's home, failed the launch maneuver and crashed. It veered off its planned route and crashed onto the roof of a neighbor's garage. This is not the first delivery drone accident, but relative to the total number of delivered shipments, such incidents are rare.",
-      "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 9,
-        "energy": 0,
-        "economy": 2,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "drones"
-        ],
-        "energy": [],
-        "economy": [
-          "currency"
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "drones",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "currency",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "military"
-      ],
-      "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 4,
-      "translated_at_utc": "2026-11-25T14:33:45Z"
-    },
-    {
-      "id": "bfaed9fb17d0365f4d2b3b76d1beba948f143c0b",
-      "fingerprint": "36b627dca5f195f0028811525b07e18bb7524766",
-      "source": "iDNES.cz",
-      "source_language": "cs",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-robert-fico-lvov-neni-valka-prohlaseni-utok-nadrazi.A261125_112215_zahranicni_ikul",
-      "published_utc": "2026-11-25T11:54:00Z",
-      "collected_at_utc": "2026-11-25T14:33:41Z",
-      "title_raw": "Ve Lvově žádná válka není, prohlásil Fico. Před pěti dny tam Rusové zabíjeli",
-      "lead_raw": "Slovenský premiér Robert Fico uvedl, že ve Lvově na západě Ukrajiny není válka. Prohlásil to v parlamentu během středečního zasedání výboru pro evropské záležitosti před mimořádnou schůzí Evropské rady. Ve zmíněném městě přitom ještě minulý týden při ruském útoku na tamní nádraží zemřeli dva lidé, dalších sedm bylo zraněno.",
-      "title_en": "There is no war in Lviv, Fico declared. Five days ago, Russians were killing there",
-      "lead_en": "Slovak Prime Minister Robert Fico stated that there is no war in Lviv in western Ukraine. He stated this in parliament during Wednesday's meeting of the Committee on European Affairs ahead of the extraordinary European Council meeting. In the mentioned city, just last week, two people died and seven others were injured in a Russian attack on the local station.",
-      "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 9,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 8,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "war"
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          "parliament",
-          "leadership"
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "war",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          {
-            "concept": "parliament",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "leadership",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "military"
-      ],
-      "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 4,
-      "translated_at_utc": "2026-11-25T14:33:45Z"
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-25T14:40:42Z"
     },
     {
       "id": "1bd0cf80160bbbaf4b865ab01c3b52e34e7ce7f1",
@@ -617,8 +82,8 @@
       "title_en": "There may be up to half a million fallen Russians, the extent of losses revealed by leaked data",
       "lead_en": "Russian authorities do not publish data on the number of fallen soldiers. However, an analysis of leaked statistics conducted by the BBC shows that the war in Ukraine may have claimed the lives of nearly half a million men fighting for Russia.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -630,19 +95,20 @@
         "energy": 0,
         "economy": 0,
         "domestic_politics": 0,
-        "foreign_affairs": 6,
+        "foreign_affairs": 10,
         "local_events": 0
       },
       "matched_keywords": {
         "diplomacy": [],
         "military": [
-          "war"
+          "military_activity"
         ],
         "energy": [],
         "economy": [],
         "domestic_politics": [],
         "foreign_affairs": [
-          "ukraine_conflict"
+          "ukraine",
+          "russia"
         ],
         "local_events": []
       },
@@ -650,7 +116,7 @@
         "diplomacy": [],
         "military": [
           {
-            "concept": "war",
+            "concept": "military_activity",
             "strength": 3,
             "headline": false,
             "lead": true,
@@ -662,11 +128,18 @@
         "domestic_politics": [],
         "foreign_affairs": [
           {
-            "concept": "ukraine_conflict",
+            "concept": "ukraine",
             "strength": 3,
             "headline": false,
             "lead": true,
             "points": 6
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
           }
         ],
         "local_events": []
@@ -676,8 +149,8 @@
         "foreign_affairs"
       ],
       "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 4,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:33:45Z"
     },
     {
@@ -693,8 +166,8 @@
       "title_en": "Kicker? The weakest manager, whose tasks had to be fulfilled by others, Černochová strikes back",
       "lead_en": "Former Defense Minister Jana Černochová (ODS) sharply objected to the criticism of former deputy Tomáš Kopečný. She called him the weakest of the top managers she \"inherited\" at the ministry. She reproached him for missing deadlines, failing to fulfill tasks, and excessive foreign trips. She responded to his statement on Rozstřel na iDNES.cz, where he described that their cooperation at the Ministry of Defense was faltering.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -712,7 +185,7 @@
       "matched_keywords": {
         "diplomacy": [],
         "military": [
-          "defense"
+          "defense_ministry"
         ],
         "energy": [],
         "economy": [],
@@ -728,7 +201,7 @@
         "diplomacy": [],
         "military": [
           {
-            "concept": "defense",
+            "concept": "defense_ministry",
             "strength": 3,
             "headline": false,
             "lead": true,
@@ -769,7 +242,7 @@
       ],
       "relevant": true,
       "primary_topic": "domestic_politics",
-      "classification_version": 4,
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:33:45Z"
     },
     {
@@ -785,8 +258,8 @@
       "title_en": "Virtual city, desert, and jungle. Czech soldiers have a new combat simulator",
       "lead_en": "Up to a dozen weapons at once, but without real ammunition. Any environment, any combat situation, yet literally in one room. The Czech company VR Group has completed and handed over the latest virtual shooting simulator STING-ISR to the Ministry of Defense. Its sophisticated system connects shooting and tactical training for individuals and small teams.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -794,7 +267,7 @@
       "translation_warnings": [],
       "topic_scores": {
         "diplomacy": 0,
-        "military": 12,
+        "military": 10,
         "energy": 0,
         "economy": 0,
         "domestic_politics": 4,
@@ -804,8 +277,8 @@
       "matched_keywords": {
         "diplomacy": [],
         "military": [
-          "defense",
-          "military_equipment"
+          "defense_ministry",
+          "weapons"
         ],
         "energy": [],
         "economy": [],
@@ -819,18 +292,18 @@
         "diplomacy": [],
         "military": [
           {
-            "concept": "defense",
+            "concept": "defense_ministry",
             "strength": 3,
             "headline": false,
             "lead": true,
             "points": 6
           },
           {
-            "concept": "military_equipment",
-            "strength": 3,
+            "concept": "weapons",
+            "strength": 2,
             "headline": false,
             "lead": true,
-            "points": 6
+            "points": 4
           }
         ],
         "energy": [],
@@ -852,7 +325,7 @@
       ],
       "relevant": true,
       "primary_topic": "military",
-      "classification_version": 4,
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:33:45Z"
     },
     {
@@ -868,8 +341,8 @@
       "title_en": "Ukraine reports the destruction of five Russian aircraft and the strike of two refineries. Kyiv and Kharkiv faced shelling",
       "lead_en": "Russian attacks in the Kyiv and Kharkiv regions have claimed two lives, local officials reported. Five regions of Ukraine are facing power outages, authorities reported. The Ukrainian army said it struck two refineries and an airbase in Russia, damaging five aircraft. Vyacheslav Fedorishchev, governor of Russia's Samara region, claims that one person was killed in a drone strike there.",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -877,23 +350,28 @@
       "translation_warnings": [],
       "topic_scores": {
         "diplomacy": 0,
-        "military": 12,
-        "energy": 0,
+        "military": 17,
+        "energy": 9,
         "economy": 0,
         "domestic_politics": 0,
-        "foreign_affairs": 0,
+        "foreign_affairs": 9,
         "local_events": 0
       },
       "matched_keywords": {
         "diplomacy": [],
         "military": [
           "armed_forces",
-          "drones"
+          "generic_drones",
+          "military_operations"
         ],
-        "energy": [],
+        "energy": [
+          "refining"
+        ],
         "economy": [],
         "domestic_politics": [],
-        "foreign_affairs": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
         "local_events": []
       },
       "classification_details": {
@@ -907,305 +385,51 @@
             "points": 6
           },
           {
-            "concept": "drones",
-            "strength": 3,
+            "concept": "generic_drones",
+            "strength": 1,
             "headline": false,
             "lead": true,
-            "points": 6
-          }
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "military"
-      ],
-      "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 4,
-      "translated_at_utc": "2026-11-25T14:40:42Z"
-    },
-    {
-      "id": "ef4b4de4436f8255ce32133211ee7986fa803bc3",
-      "fingerprint": "10a9970f63be8e456323bd392d1a77978da2daaa",
-      "source": "ČT24",
-      "source_language": "cs",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/izrael-se-musi-pripravit-klicovy-verdikt-rika-ze-sebeobrana-genocidu-neomlouva-379905",
-      "published_utc": "2026-11-25T05:00:00Z",
-      "collected_at_utc": "2026-11-25T14:33:37Z",
-      "title_raw": "„Izrael se musí připravit.“ Klíčový verdikt říká, že obrana genocidu neomlouvá",
-      "lead_raw": "Přelomový verdikt Mezinárodního soudního dvora OSN (ICJ) v případu Gambie proti Myanmaru, který byl uznán jako stát odpovědný za genocidu na rohingské menšině, může mít dalekosáhlé důsledky pro Izrael a jeho spor s Jihoafrickou republikou kvůli Gaze, míní experti. V obou případech dochází k útokům, při nichž umírají děti, obě strany také argumentují sebeobranou, soud ale u Myanmaru nevyloučil souběh protiteroristické operace s genocidou. Rozsudek podle expertů poškodí pověst dané země a může vést k omezení diplomatických vazeb či sankcím ze strany třetích států.",
-      "title_en": "\"Israel must prepare.\" The key verdict states that defense does not excuse genocide",
-      "lead_en": "The landmark ruling of the United Nations International Court of Justice (ICJ) in the case of Gambia vs. Myanmar, which was recognized as a state responsible for genocide against the Rohingya minority, could have far-reaching consequences for Israel and its dispute with South Africa over Gaza, experts believe. In both cases, attacks occur in which children die, both sides also argue self-defense, but the court did not rule out the simultaneous anti-terrorist operation with genocide in Myanmar. According to experts, the verdict will damage the country's reputation and may lead to a reduction of diplomatic ties or sanctions from third countries.",
-      "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 6,
-        "military": 9,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 12,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [
-          "diplomacy"
-        ],
-        "military": [
-          "defense"
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          "sanctions",
-          "international_organizations"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [
+            "points": 2
+          },
           {
-            "concept": "diplomacy",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "military": [
-          {
-            "concept": "defense",
+            "concept": "military_operations",
             "strength": 3,
             "headline": true,
             "lead": false,
             "points": 9
           }
         ],
-        "energy": [],
+        "energy": [
+          {
+            "concept": "refining",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
         "economy": [],
         "domestic_politics": [],
         "foreign_affairs": [
           {
-            "concept": "sanctions",
+            "concept": "ukraine",
             "strength": 3,
-            "headline": false,
+            "headline": true,
             "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "international_organizations",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
+            "points": 9
           }
         ],
         "local_events": []
       },
       "topics": [
-        "diplomacy",
         "military",
+        "energy",
         "foreign_affairs"
       ],
       "relevant": true,
-      "primary_topic": "foreign_affairs",
-      "classification_version": 4,
+      "primary_topic": "military",
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:40:42Z"
-    },
-    {
-      "id": "be02dbef4e08c1a7c0a8f15cbb747caaae59a5f3",
-      "fingerprint": "a5b405b4edf3fe4db82fe21622b9d02dcb60cf58",
-      "source": "České noviny / ČTK - Czech Republic",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/senatniho-slyseni-k-obrane-statu-se-zucastni-pavel-prijit-ma-i-zuna/2906130",
-      "published_utc": "2026-11-24T17:30:00Z",
-      "collected_at_utc": "2026-11-25T14:33:35Z",
-      "title_raw": "Senátního slyšení k obraně státu se zúčastní Pavel, přijít má i Zůna",
-      "lead_raw": "Praha - Senátního slyšení k přípravě a zabezpečování obrany státu, které se uskuteční ve čtvrtek, se zúčastní prezident Petr Pavel. Novinářům to dnes oznámil předseda Senátu Miloš Vystrčil (ODS), prezidentská...",
-      "title_en": "Pavel will attend the Senate hearing on the defense of the state, and Zůna is also expected to attend",
-      "lead_en": "Prague - President Petr Pavel will participate in the Senate hearing on the preparation and securing of the state's defense, which will take place on Thursday. This was announced to journalists today by Senate Chairman Miloš Vystrčil (ODS), the presidential...",
-      "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 9,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 23,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "defense"
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          "parliament",
-          "political_parties",
-          "leadership",
-          "czech_leaders"
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "defense",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          {
-            "concept": "parliament",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "political_parties",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "leadership",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          },
-          {
-            "concept": "czech_leaders",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "military",
-        "domestic_politics"
-      ],
-      "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 4,
-      "translated_at_utc": "2026-11-25T14:40:43Z"
-    },
-    {
-      "id": "18c8676e8569a7ec5c111e2e1629b328b3840aa4",
-      "fingerprint": "d2f6393ab68573d635e9c950d63176bb8d590bbd",
-      "source": "České noviny / ČTK - Economy",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/prazska-burza-nepatrne-posilila-darilo-se-ceskym-bankam/2906098",
-      "published_utc": "2026-11-24T16:38:00Z",
-      "collected_at_utc": "2026-11-25T14:33:36Z",
-      "title_raw": "Pražská burza nepatrně posílila, dařilo se českým bankám",
-      "lead_raw": "Praha - Pražská burza dnes nepatrně posílila, index PX stoupl o 0,12 procenta na 2597,40 bodu. Zpevnila většina titulů, zdražily například akcie Komerční banky, zbrojovky Colt a Monety Money Bank. Nedařilo...",
-      "title_en": "The Prague Stock Exchange slightly strengthened, Czech banks performed well",
-      "lead_en": "Prague - The Prague Stock Exchange rose slightly today, with the PX index rising by 0.12 percent to 2597.40 points. Most stocks strengthened, with shares of Komerční banka, the arms manufacturer Colt, and Moneta Money Bank rising in price. Things were not doing well...",
-      "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 6,
-        "energy": 0,
-        "economy": 11,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "military_equipment"
-        ],
-        "energy": [],
-        "economy": [
-          "stock_market",
-          "prices"
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "military_equipment",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "stock_market",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "prices",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "military",
-        "economy"
-      ],
-      "relevant": true,
-      "primary_topic": "economy",
-      "classification_version": 4,
-      "translated_at_utc": "2026-11-25T14:40:43Z"
     },
     {
       "id": "4c39a47e37b64b23cdfc982b9ce8f9ca95dc70f5",
@@ -1220,8 +444,8 @@
       "title_en": "The army is testing ground robots in the Přerov region and will train operators there.",
       "lead_en": "Lipník nad Bečvou (Přerov region) - The army is testing wheeled and tracked robots or four-legged dog-like machines at a training ground near Lipník nad Bečvou in the Přerov region. The site serves to test the capabilities of ground personnel...",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -1269,21 +493,21 @@
       ],
       "relevant": true,
       "primary_topic": "military",
-      "classification_version": 4,
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:40:43Z"
     },
     {
-      "id": "8ccf24d8a8104b4cf7192056cf0e3a417fdd4713",
-      "fingerprint": "9278f42a2437736109139982d14d2fa4feeea2c6",
+      "id": "3a114054df427b65503f78f8e7ee84dde2d11bc7",
+      "fingerprint": "818abc01c1d51cc1322350d8ae7f6e97e10fc564",
       "source": "Radio Prague International (EN)",
       "source_language": "en",
-      "url": "https://english.radio.cz/czechia-join-second-phase-eu-defence-loan-program-8903442",
-      "published_utc": "2026-11-24T11:13:00Z",
+      "url": "https://english.radio.cz/czechia-must-prepare-host-allied-troops-experts-warn-8903451",
+      "published_utc": "2026-11-24T12:04:00Z",
       "collected_at_utc": "2026-11-25T14:33:43Z",
-      "title_raw": "Czechia to join second phase of EU defence loan program",
-      "lead_raw": "Czechia to join second phase of EU defence loan program",
-      "title_en": "Czechia to join second phase of EU defence loan program",
-      "lead_en": "Czechia to join second phase of EU defence loan program",
+      "title_raw": "Czechia must prepare to host allied troops, experts warn",
+      "lead_raw": "Czechia must prepare to host allied troops, experts warn",
+      "title_en": "Czechia must prepare to host allied troops, experts warn",
+      "lead_en": "Czechia must prepare to host allied troops, experts warn",
       "translation_status": "not_required",
       "translation_version": 0,
       "validation_version": 0,
@@ -1298,27 +522,25 @@
         "energy": 0,
         "economy": 0,
         "domestic_politics": 0,
-        "foreign_affairs": 9,
+        "foreign_affairs": 0,
         "local_events": 0
       },
       "matched_keywords": {
         "diplomacy": [],
         "military": [
-          "defense"
+          "allied_forces"
         ],
         "energy": [],
         "economy": [],
         "domestic_politics": [],
-        "foreign_affairs": [
-          "eu_policy"
-        ],
+        "foreign_affairs": [],
         "local_events": []
       },
       "classification_details": {
         "diplomacy": [],
         "military": [
           {
-            "concept": "defense",
+            "concept": "allied_forces",
             "strength": 3,
             "headline": true,
             "lead": true,
@@ -1328,24 +550,15 @@
         "energy": [],
         "economy": [],
         "domestic_politics": [],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
+        "foreign_affairs": [],
         "local_events": []
       },
       "topics": [
-        "military",
-        "foreign_affairs"
+        "military"
       ],
       "relevant": true,
       "primary_topic": "military",
-      "classification_version": 4
+      "classification_version": 5
     },
     {
       "id": "ca2de03f272bcf8968a974f8b78a28bb0aba87fe",
@@ -1380,7 +593,7 @@
         "diplomacy": [],
         "military": [
           "armed_forces",
-          "defense"
+          "defense_spending"
         ],
         "energy": [],
         "economy": [],
@@ -1399,7 +612,7 @@
             "points": 9
           },
           {
-            "concept": "defense",
+            "concept": "defense_spending",
             "strength": 3,
             "headline": true,
             "lead": true,
@@ -1417,7 +630,7 @@
       ],
       "relevant": true,
       "primary_topic": "military",
-      "classification_version": 4
+      "classification_version": 5
     },
     {
       "id": "ad0e214ec9bf3da4e15f26add563d95f2c08febb",
@@ -1432,8 +645,8 @@
       "title_en": "Česká zbrojovka has started deliveries of new service pistols for the German army",
       "lead_en": "Uherský Brod (Uherskohradišťsko) - The company Česká zbrojovka from Uherský Brod in the Uherské Hradiště district has started deliveries of new service pistols for the German army. The first CZ P13 pistol has already been issued by the Bundeswehr...",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -1441,7 +654,7 @@
       "translation_warnings": [],
       "topic_scores": {
         "diplomacy": 0,
-        "military": 18,
+        "military": 9,
         "energy": 0,
         "economy": 0,
         "domestic_politics": 0,
@@ -1451,8 +664,7 @@
       "matched_keywords": {
         "diplomacy": [],
         "military": [
-          "armed_forces",
-          "military_equipment"
+          "armed_forces"
         ],
         "energy": [],
         "economy": [],
@@ -1465,13 +677,6 @@
         "military": [
           {
             "concept": "armed_forces",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "military_equipment",
             "strength": 3,
             "headline": true,
             "lead": true,
@@ -1489,7 +694,7 @@
       ],
       "relevant": true,
       "primary_topic": "military",
-      "classification_version": 4,
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:40:43Z"
     },
     {
@@ -1505,8 +710,8 @@
       "title_en": "The army will hardly develop new projects with a budget of 2% of GDP, said Hlaváč",
       "lead_en": "Prague - With defense spending amounting to two percent of gross domestic product (GDP), the army is hitting its limits. It can maintain its capabilities and fulfill tasks, but it will struggle to develop new projects and slow down...",
       "translation_status": "completed",
-      "translation_version": 4,
-      "validation_version": 4,
+      "translation_version": 5,
+      "validation_version": 5,
       "translation_attempts": 1,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
@@ -1514,7 +719,7 @@
       "translation_warnings": [],
       "topic_scores": {
         "diplomacy": 0,
-        "military": 15,
+        "military": 9,
         "energy": 0,
         "economy": 12,
         "domestic_politics": 0,
@@ -1524,12 +729,11 @@
       "matched_keywords": {
         "diplomacy": [],
         "military": [
-          "armed_forces",
-          "defense"
+          "armed_forces"
         ],
         "energy": [],
         "economy": [
-          "economic_growth",
+          "macroeconomics",
           "generic_budget"
         ],
         "domestic_politics": [],
@@ -1545,19 +749,12 @@
             "headline": true,
             "lead": true,
             "points": 9
-          },
-          {
-            "concept": "defense",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
           }
         ],
         "energy": [],
         "economy": [
           {
-            "concept": "economic_growth",
+            "concept": "macroeconomics",
             "strength": 3,
             "headline": true,
             "lead": true,
@@ -1580,9 +777,10 @@
         "economy"
       ],
       "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 4,
+      "primary_topic": "economy",
+      "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:40:43Z"
     }
-  ]
+  ],
+  "topic": "military"
 }
