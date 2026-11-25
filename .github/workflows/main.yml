@@ -34,7 +34,7 @@ jobs:
       - name: Run collector
         env:
           KEEP_HOURS: "48"
-          TRANSLATION_DELAY: "1.5"
+          TRANSLATION_DELAY: "5"
           OUT_JSON: "data/articles_latest.json"
           ARCHIVE_JSON: "data/articles_archive.json"
           PYTHONUNBUFFERED: "1"
