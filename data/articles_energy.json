@@ -1,0 +1,453 @@
+{
+  "country": "Czech Republic",
+  "country_code": "CZ",
+  "updated_at_utc": "2026-11-25T12:46:18Z",
+  "topic": "energy",
+  "count": 8,
+  "articles": [
+    {
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/pri-ruskem-utoku-v-kyjevske-oblasti-zahynul-muz-v-rusku-hori-rafinerie.A261125_070149_zahranicni_tmps",
+      "published_utc": "2026-11-25T12:31:00Z",
+      "title_raw": "Ukrajinci zaútočili na dvě rafinerie v Samarské oblasti, vypukly velké požáry",
+      "lead_raw": "Ruské útoky ve městě Bila Cerkva a v Charkovské oblasti si vyžádaly dva mrtvé. Pět oblastí Ukrajiny se potýká s výpadky dodávek elektrické energie, uvedly ukrajinské úřady.",
+      "id": "b8a1e02452b48b0c43dc30c410ca61dc65b5c7d4",
+      "fingerprint": "5392be5ecf9e6803f1d272c44f1c6d10d721b0a1",
+      "title_en": "Ukrainians attacked two refineries in the Samara region, large fires broke out",
+      "lead_en": "Russian attacks in the town of Bila Churchva and the Kharkiv region claimed two lives. Five regions of Ukraine are experiencing power outages, according to Ukrainian authorities.",
+      "translation_status": "completed",
+      "translation_version": 2,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T12:36:02Z",
+      "collected_at_utc": "2026-11-25T12:34:20Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 3,
+        "economy": 0,
+        "local_events": 2,
+        "domestic_politics": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "energi*",
+          "rafineri*",
+          "refineries"
+        ],
+        "economy": [],
+        "local_events": [
+          "fires",
+          "požár*"
+        ],
+        "domestic_politics": []
+      },
+      "topics": [
+        "energy",
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 2,
+      "sentence_counts": {
+        "title": 1,
+        "lead": 2
+      }
+    },
+    {
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/proste-nechci-obyvatele-bridlicne-odmitli-vetrne-elektrarny-radnice-resi-jak-se_2611251317_vsn",
+      "published_utc": "2026-11-25T12:17:00Z",
+      "title_raw": "‚Prostě nechci.‘ Obyvatelé Břidličné odmítli větrné elektrárny, radnice řeší, jak se ze smlouvy vymanit",
+      "lead_raw": "Radost z výsledku referenda vystřídaly v Břidličné na Bruntálsku starosti. Obyvatelé v něm drtivou většinou odmítli stavbu větrných elektráren.",
+      "id": "e7c0fc0bb649c495ff47e43b128680958f8e451b",
+      "fingerprint": "79719002000dfa3d0f5c6b9b9d5ed7437007d37b",
+      "title_en": "I just don't want to. The people of Břidličné have rejected the wind farms, the city council is trying to figure out how to get out of the contract.",
+      "lead_en": "The joy of the result of the referendum was replaced in Bruntalsk by worries in Břidličná. The inhabitants overwhelmingly opposed the construction of wind farms.",
+      "translation_status": "completed",
+      "translation_version": 2,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T12:36:02Z",
+      "collected_at_utc": "2026-11-25T12:34:15Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 0,
+        "domestic_politics": 1
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "elektrárn*"
+        ],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [
+          "referend*"
+        ]
+      },
+      "topics": [
+        "energy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 2,
+      "sentence_counts": {
+        "title": 1,
+        "lead": 2
+      }
+    },
+    {
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/internet-a-pc-ai-ai-pomocnik-pracuje-i-kdyz-spite-meta-ho-ale-cechum-zatim-nenabidne-40610261",
+      "published_utc": "2026-11-25T11:35:00Z",
+      "title_raw": "AI pomocník pracuje, i když spíte. Meta ho ale Čechům zatím nenabídne",
+      "lead_raw": "Nakoupí vánoční dárky, najde výhodnější nabídku energií, naplánuje dovolenou nebo pomůže s reklamací. Pracovat přitom může i ve chvíli, kdy vypnete počítač a jdete spát.",
+      "id": "3c50c7c178da80491c98eeb74b2092713a4eadb3",
+      "fingerprint": "6ce26aee5b2ccc3e79f21f8935b6a4e2787b7c39",
+      "title_en": "The AI assistant works even when you sleep. But Meta won't offer it to the Czechs yet.",
+      "lead_en": "He buys Christmas presents, finds a better energy deal, plans a vacation, or helps with a claim. It can work even when you turn off your computer and go to sleep.",
+      "translation_status": "completed",
+      "translation_version": 2,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T12:39:13Z",
+      "collected_at_utc": "2026-11-25T12:34:18Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0,
+        "domestic_politics": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "energi*",
+          "energy"
+        ],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 2,
+      "sentence_counts": {
+        "title": 2,
+        "lead": 2
+      }
+    },
+    {
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/ekonomika/domaci/prodlouzeni-zivotnosti-temelina-a-dukovan-se-vyplati-shoduji-se-experti.A261125_105200_ekonomika_hyk",
+      "published_utc": "2026-11-25T11:00:00Z",
+      "title_raw": "Prodloužení životnosti Temelína a Dukovan se vyplatí, shodují se experti",
+      "lead_raw": "Jaderné elektrárny Temelín a Dukovany jsou páteří české elektroenergetiky a hlavním pilířem energetické bezpečnosti země. Jejich význam vzrostl s postupným útlumem uhelných zdrojů i v souvislosti s geopolitickými otřesy na trzích s palivy.",
+      "id": "0d61f375c74cb69ba9a1a87d38fc0c55593bf015",
+      "fingerprint": "858d928a8929baa19da8bbe51d4ab0e71123341f",
+      "title_en": "Extending the life of Temelín and Dukovany pays off, experts agree",
+      "lead_en": "The nuclear power plants Temelín and Dukovany are the backbone of the Czech electric power industry and the main pillar of the country's energy security. Their importance has increased with the gradual decline in coal resources and in the context of geopolitical shocks in fuel markets.",
+      "translation_status": "completed",
+      "translation_version": 2,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T12:42:05Z",
+      "collected_at_utc": "2026-11-25T12:34:20Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 14,
+        "economy": 1,
+        "local_events": 0,
+        "domestic_politics": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "Dukovany",
+          "Temelín",
+          "coal",
+          "dukovan*",
+          "elektrárn*",
+          "energet*",
+          "energy",
+          "energy security",
+          "fuel",
+          "jadern*",
+          "nuclear power",
+          "paliv*",
+          "power plants",
+          "temelín*"
+        ],
+        "economy": [
+          "industry"
+        ],
+        "local_events": [],
+        "domestic_politics": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 2,
+      "sentence_counts": {
+        "title": 1,
+        "lead": 2
+      }
+    },
+    {
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-vetsina-teplaren-v-cesku-pristi-rok-zvysi-ceny-tepla-nejvice-zdrazi-teplo-z-plynu-321485",
+      "published_utc": "2026-11-25T10:51:27Z",
+      "title_raw": "Většina tepláren v Česku příští rok zvýší ceny tepla, nejvíce zdraží teplo z plynu",
+      "lead_raw": "Podle Teplárenského sdružení v 2027 zdraží většina českých tepláren. Cena tepla z plynu stoupne o 15 až 20 procent, z lesní štěpky o více než desetinu a z uhlí zhruba o inflaci.",
+      "id": "eeea87905f89582b126fd1d5b0b698a2d2279650",
+      "fingerprint": "f8eb838922bf6363ba94a6334bf4d56a21ab8468",
+      "title_en": "Most thermal plants in the Czech Republic will raise heating prices next year, the most expensive heat from gas",
+      "lead_en": "According to the Greenhouse Association, in 2027 most of the Czech greenhouses will be overpriced. The price of heat from gas will rise by 15 to 20 percent, of logging by more than a tenth, and of coal by about inflation.",
+      "translation_status": "completed",
+      "translation_version": 2,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T12:42:05Z",
+      "collected_at_utc": "2026-11-25T12:34:19Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 5,
+        "economy": 2,
+        "local_events": 0,
+        "domestic_politics": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "coal",
+          "gas",
+          "teplár*",
+          "uhl*",
+          "uhlí"
+        ],
+        "economy": [
+          "inflac*",
+          "inflation"
+        ],
+        "local_events": [],
+        "domestic_politics": []
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 2,
+      "sentence_counts": {
+        "title": 1,
+        "lead": 2
+      }
+    },
+    {
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/karlovy-vary/zpravy/rekonstrukce-strecha-alzbetiny-lazne-drevomorka-izolace.A261125_110126_vary-zpravy_pkz",
+      "published_utc": "2026-11-25T10:29:00Z",
+      "title_raw": "Izolace střechy Alžbětiných lázní musela předčasně pryč. Napadla ji dřevomorka",
+      "lead_raw": "Pouhé tři roky vydržela termoizolace střechy Alžbětiných lázní v Karlových Varech. Původně měla zajišťovat energetické úspory objektu po celou dobu rekonstrukce střechy.",
+      "id": "8d8dd3d148fbffe8295185d675260fd066a9b07e",
+      "fingerprint": "9678c2618b3a31d470a897f8d7b5c5b319518ad5",
+      "title_en": "The insulation on the roof of Alžbětiny Lázně must have gone off prematurely. She was attacked by a woodpecker.",
+      "lead_en": "The thermal insulation of the Alžbětiny Lázně roof in Karlovy Vary lasted only three years. It was originally intended to ensure energy savings for the building throughout the reconstruction of the roof.",
+      "translation_status": "completed",
+      "translation_version": 2,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T12:43:46Z",
+      "collected_at_utc": "2026-11-25T12:34:20Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 2,
+        "economy": 0,
+        "local_events": 0,
+        "domestic_politics": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "energet*",
+          "energy"
+        ],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 2,
+      "sentence_counts": {
+        "title": 2,
+        "lead": 2
+      }
+    },
+    {
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-usa-odlozily-plany-na-obchodni-dohody-s-ruskem-vymenou-za-ukonceni-valky-321466",
+      "published_utc": "2026-11-25T09:43:28Z",
+      "title_raw": "USA odložily plány na obchodní dohody s Ruskem výměnou za ukončení války",
+      "lead_raw": "Trumpova administrativa odložila plány lákat Rusko k míru na Ukrajině obchodními dohodami. Moskva o projekty v energetice či letectví prý neprojevila velký zájem a dál trvá na územních ústupcích Kyjeva.",
+      "id": "5f3d4ae76650dd7f38b10b103c4272a191df0214",
+      "fingerprint": "4989cd3a8527f356aa2c2fe9701fd282b7df019c",
+      "title_en": "The U.S. postponed plans for a trade deal with Russia in exchange for ending the war.",
+      "lead_en": "The Trump administration has postponed plans to lure Russia to peace in Ukraine with trade deals. Moscow has reportedly shown little interest in energy or aviation projects and continues to insist on territorial concessions from Kiev.",
+      "translation_status": "completed",
+      "translation_version": 2,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T12:45:13Z",
+      "collected_at_utc": "2026-11-25T12:34:19Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 2,
+        "economy": 4,
+        "local_events": 0,
+        "domestic_politics": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "letectv*",
+          "válk*",
+          "war"
+        ],
+        "energy": [
+          "energet*",
+          "energy"
+        ],
+        "economy": [
+          "obchod*",
+          "trade",
+          "trade deal",
+          "trade deals"
+        ],
+        "local_events": [],
+        "domestic_politics": []
+      },
+      "topics": [
+        "military",
+        "energy",
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 2,
+      "sentence_counts": {
+        "title": 1,
+        "lead": 2
+      }
+    },
+    {
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/konference-osn-ztroskotala-akteri-hledaji-jinou-cestu-jak-pomoci-klimatu-379894",
+      "published_utc": "2026-11-25T09:37:48Z",
+      "title_raw": "Po krachu klimatické konference roste tlak na konec jednomyslnosti",
+      "lead_raw": "Letošní klimatická konference OSN COP31 v turecké Antalyi, dosud nejdelší v historii, skončila krachem. Některé státy v návrhu deklarace odmítly byť obecný závazek k omezování fosilních paliv, jiné odmítly podepsat verzi, která hlavní příčinu klimatické změny vůbec nezmiňuje.",
+      "id": "470d356ec0811a73c35be17a69471d1083cb1d19",
+      "fingerprint": "99d614b0302148aeedc883073719dc4fb5c0ffae",
+      "title_en": "After the collapse of the climate conference, pressure is mounting to end the consensus.",
+      "lead_en": "This year's UN climate conference COP31 in Antalya, Turkey, the longest ever in history, ended in failure. While some countries rejected a general commitment to reduce fossil fuels in the draft declaration, others refused to sign a version that did not mention the root cause of climate change at all.",
+      "translation_status": "completed",
+      "translation_version": 2,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T12:45:13Z",
+      "collected_at_utc": "2026-11-25T12:34:17Z",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 0,
+        "energy": 1,
+        "economy": 0,
+        "local_events": 1,
+        "domestic_politics": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "OSN"
+        ],
+        "military": [],
+        "energy": [
+          "paliv*"
+        ],
+        "economy": [],
+        "local_events": [
+          "collapse"
+        ],
+        "domestic_politics": []
+      },
+      "topics": [
+        "diplomacy",
+        "energy",
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "diplomacy",
+      "classification_version": 2,
+      "sentence_counts": {
+        "title": 1,
+        "lead": 2
+      }
+    }
+  ]
+}

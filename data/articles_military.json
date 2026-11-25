@@ -1,0 +1,642 @@
+{
+  "country": "Czech Republic",
+  "country_code": "CZ",
+  "updated_at_utc": "2026-11-25T12:46:18Z",
+  "topic": "military",
+  "count": 12,
+  "articles": [
+    {
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-slovensko-nakoupi-zbrane-od-italie-nabidky-od-skupiny-colt-cz-group-neuspely-321495",
+      "published_utc": "2026-11-25T12:21:57Z",
+      "title_raw": "Slovensko nakoupí zbraně od Itálie, nabídky od skupiny Colt CZ Group neuspěly",
+      "lead_raw": "Italská společnost Beretta dodá slovenské policii tisíce útočných pušek a samopalů za téměř 17 milionů eur bez DPH. Ve výběrovém řízení neuspěly dvě společnosti z české skupiny Colt CZ Group.",
+      "id": "8e2136f8805050b33ec58295b90bfbe726143c2a",
+      "fingerprint": "3847dbe7eaa8d4896fad192edcb0c536ead9dd3b",
+      "title_en": "Slovakia to buy weapons from Italy, offers from Colt CZ Group failed",
+      "lead_en": "The Italian company Beretta will supply the Slovak police with thousands of assault rifles and submachine guns for almost 17 million euros excluding VAT. Two companies from the Czech Colt CZ Group were unsuccessful in the tendering procedure.",
+      "translation_status": "completed",
+      "translation_version": 2,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T12:36:02Z",
+      "collected_at_utc": "2026-11-25T12:34:19Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0,
+        "domestic_politics": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "weapons",
+          "zbran*"
+        ],
+        "energy": [],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 2,
+      "sentence_counts": {
+        "title": 1,
+        "lead": 2
+      }
+    },
+    {
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-robert-fico-lvov-neni-valka-prohlaseni-utok-nadrazi.A261125_112215_zahranicni_ikul",
+      "published_utc": "2026-11-25T11:54:00Z",
+      "title_raw": "Ve Lvově žádná válka není, prohlásil Fico. Před pěti dny tam Rusové zabíjeli",
+      "lead_raw": "Slovenský premiér Robert Fico uvedl, že ve Lvově na západě Ukrajiny není válka. Prohlásil to v parlamentu během středečního zasedání výboru pro evropské záležitosti před mimořádnou schůzí Evropské rady.",
+      "id": "356623eee2e7c456e8891ef687c7d306cf8f8ed7",
+      "fingerprint": "9bfc2fec8aa625fbcd1954965e6f044a824ccf5f",
+      "title_en": "There is no war in Lviv, said Fico. Five days ago, the Russians were killing",
+      "lead_en": "Slovak Prime Minister Robert Fico has stated that there is no war in Lviv in western Ukraine. He said this in Parliament during the European Affairs Committee meeting on Wednesday ahead of an extraordinary European Council meeting.",
+      "translation_status": "completed",
+      "translation_version": 2,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T12:37:49Z",
+      "collected_at_utc": "2026-11-25T12:34:20Z",
+      "topic_scores": {
+        "diplomacy": 1,
+        "military": 2,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0,
+        "domestic_politics": 2
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "European Council"
+        ],
+        "military": [
+          "válk*",
+          "war"
+        ],
+        "energy": [],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [
+          "parlament*",
+          "premiér*"
+        ]
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 2,
+      "sentence_counts": {
+        "title": 2,
+        "lead": 2
+      }
+    },
+    {
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-padlych-rusu-muze-byt-az-pul-milionu-rozsah-ztrat-odhaluji-unikla-data-321477",
+      "published_utc": "2026-11-25T11:40:00Z",
+      "title_raw": "Padlých Rusů může být až půl milionu, rozsah ztrát odhalují uniklá data",
+      "lead_raw": "Ruské úřady údaje o počtu padlých vojáků nezveřejňují. Analýza uniklých statistik, kterou provedla BBC, však ukazuje, že válka na Ukrajině si mohla vyžádat životy téměř půl milionu mužů bojujících za Rusko.",
+      "id": "757ce69c759e36cf6949db520d71ed89a881b37a",
+      "fingerprint": "fd526b760aef10eb7abb49fb481f3594e7422620",
+      "title_en": "Russian casualties may be as high as half a million, the extent of losses revealed by leaked data",
+      "lead_en": "The Russian authorities do not disclose the number of soldiers killed. However, a BBC analysis of leaked statistics shows that the war in Ukraine may have claimed the lives of nearly half a million men fighting for Russia.",
+      "translation_status": "completed",
+      "translation_version": 2,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T12:39:13Z",
+      "collected_at_utc": "2026-11-25T12:34:19Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 4,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0,
+        "domestic_politics": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "soldiers",
+          "voják*",
+          "válk*",
+          "war"
+        ],
+        "energy": [],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 2,
+      "sentence_counts": {
+        "title": 1,
+        "lead": 2
+      }
+    },
+    {
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/nato/simulator-strelba-armada-obrana-vr-group-laser.A261125_115540_zpr_nato_inc",
+      "published_utc": "2026-11-25T11:14:00Z",
+      "title_raw": "Virtuální město, poušť i prales. Čeští vojáci mají nový bojový simulátor",
+      "lead_raw": "Až tucet zbraní najednou, ale bez skutečné munice. Jakékoliv prostředí, jakákoliv bojová situace, přesto doslova v jedné místnosti.",
+      "id": "fcd1dab586ce8efe57360b19c768a7b2ca0c65e1",
+      "fingerprint": "198ed0cda4a16cd36bc26b0fe61c95481cd201b1",
+      "title_en": "Virtual city, desert and forest. Czech soldiers have a new combat simulator",
+      "lead_en": "Up to a dozen guns at a time, but no real ammo. Any environment, any combat situation, still literally in the same room.",
+      "translation_status": "completed",
+      "translation_version": 2,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T12:40:46Z",
+      "collected_at_utc": "2026-11-25T12:34:20Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0,
+        "domestic_politics": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "bojov*",
+          "combat",
+          "munic*",
+          "soldiers",
+          "vojác*",
+          "zbran*"
+        ],
+        "energy": [],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 2,
+      "sentence_counts": {
+        "title": 2,
+        "lead": 2
+      }
+    },
+    {
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-sikorski-zvazuje-vyhosteni-ruskeho-velvyslance-vola-po-sestrelovani-raket-nad-ukrajinou-40610423",
+      "published_utc": "2026-11-25T10:54:31Z",
+      "title_raw": "Sikorski zvažuje vyhoštění ruského velvyslance. Volá po sestřelování raket nad Ukrajinou",
+      "lead_raw": "Polský ministr zahraničí Radosław Sikorski zvažuje vyhoštění ruského velvyslance v Polsku Georgije Michna. Řekl to v rozhovoru pro polskou stanici Polskie Radio v reakci na tři ruské střely Ch-101, které dopadly a explodovaly na polském území.",
+      "id": "09bb7d9c13fe76c782a88f3f0e12f0f2609579a1",
+      "fingerprint": "02047692b77977d745f2aeaeb858f80de658ae67",
+      "title_en": "Sikorski is considering expelling the Russian ambassador. Calls for a missile strike over Ukraine",
+      "lead_en": "Polish Foreign Minister Radosław Sikorski is considering the expulsion of Russian Ambassador to Poland Georgi Michn. He said this in an interview with Polskie Radio in response to three Russian Ch-101 missiles that landed and exploded on Polish territory.",
+      "translation_status": "completed",
+      "translation_version": 2,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T12:42:05Z",
+      "collected_at_utc": "2026-11-25T12:34:18Z",
+      "topic_scores": {
+        "diplomacy": 3,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0,
+        "domestic_politics": 1
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "ambassador",
+          "foreign minister",
+          "velvyslan*"
+        ],
+        "military": [
+          "missile",
+          "missiles",
+          "raket*"
+        ],
+        "energy": [],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": [
+          "ministr*"
+        ]
+      },
+      "topics": [
+        "diplomacy",
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "diplomacy",
+      "classification_version": 2,
+      "sentence_counts": {
+        "title": 2,
+        "lead": 2
+      }
+    },
+    {
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-izraelci-behem-dvou-dnu-zlikvidovali-dva-predni-predstavitele-hamasu-40610408",
+      "published_utc": "2026-11-25T10:53:23Z",
+      "title_raw": "Izraelci během dvou dnů zlikvidovali dva přední představitele Hamásu",
+      "lead_raw": "Izraelská armáda během dvou dnů zlikvidovala dva přední představitele vnitřní bezpečnostní služby teroristického hnutí Hamás. Ve středu při izraelském náletu zemřel plukovník této služby Muhammad Abú al-Auf.",
+      "id": "56dfe0b07396e3280d5c6dec11cbfea60c4c0814",
+      "fingerprint": "ce6ed67748f24b044dcf4be8fd21d10598a70c22",
+      "title_en": "The Israelis eliminated two prominent Hamas leaders in two days.",
+      "lead_en": "In two days, the Israeli army eliminated two top officials of the internal security service of the Hamas terrorist movement. Colonel Muhammad Abu al-Auf was killed in an Israeli airstrike on Wednesday.",
+      "translation_status": "completed",
+      "translation_version": 2,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T12:42:05Z",
+      "collected_at_utc": "2026-11-25T12:34:18Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0,
+        "domestic_politics": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armád*"
+        ],
+        "energy": [],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 2,
+      "sentence_counts": {
+        "title": 1,
+        "lead": 2
+      }
+    },
+    {
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/ekonomika-slovenska-vlada-schvalila-nakup-utocnych-pusek-a-samopalu-40610415",
+      "published_utc": "2026-11-25T10:37:08Z",
+      "title_raw": "Slovensko nakoupí zbraně od Itálie",
+      "lead_raw": "Slovenská vláda dnes schválila nákup 3300 útočných pušek, 2100 samopalů a příslušného vybavení pro policii od italské firmy Beretta. Hodnota zakázky činí 16,77 milionu eur (410 milionů korun) bez daně z přidané hodnoty.",
+      "id": "9e4514596904431750e981cb57b1662862dc7e23",
+      "fingerprint": "742fdb347cb25c4d476c520d1549bc6cd6f534fd",
+      "title_en": "Slovakia will buy weapons from Italy",
+      "lead_en": "The Slovak government today approved the purchase of 3,300 assault rifles, 2,100 submachine guns and related police equipment from the Italian company Beretta. The value of the contract is EUR 16,77 million (CZK 410 million) excluding value added tax.",
+      "translation_status": "completed",
+      "translation_version": 2,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T12:43:46Z",
+      "collected_at_utc": "2026-11-25T12:34:18Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 2,
+        "energy": 0,
+        "economy": 2,
+        "local_events": 0,
+        "domestic_politics": 1
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "weapons",
+          "zbran*"
+        ],
+        "energy": [],
+        "economy": [
+          "korun*",
+          "tax"
+        ],
+        "local_events": [],
+        "domestic_politics": [
+          "vlád*"
+        ]
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 2,
+      "sentence_counts": {
+        "title": 1,
+        "lead": 2
+      }
+    },
+    {
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/veda-skoly-pratelstvi-pakistanu-a-ciny-prekonava-vysky-himalaje-nebesky-palac-ma-mezinarodni-posadku-40610392",
+      "published_utc": "2026-11-25T10:34:17Z",
+      "title_raw": "„Přátelství Pákistánu a Číny překonává výšky Himálaje.“ Nebeský palác má mezinárodní posádku",
+      "lead_raw": "Kosmická loď Šen-čou 24 se třemi astronauty, která ve středu v 1:18 SEČ odstartovala z kosmodromu Ťiou-čchüan v severozápadní Číně, se podle agentury Kjódó asi 10 minut poté zdárně oddělila od nosné rakety a po zhruba 3,5 hodinách se připojila k čínské orbitální stanici. Mise se kromě Číňanů poprvé účastní i cizinec, a to z Pákistánu, který bude ve vesmíru několik dní.",
+      "id": "c72eff7d78121e2393f7230619618002442c5978",
+      "fingerprint": "641f69720bff1b99a17a47ff66189fb2aa4537ee",
+      "title_en": "Pakistan-China friendship transcends the heights of the Himalayas. Heavenly Palace has an international crew",
+      "lead_en": "The Shenzhou 24 spacecraft, carrying three astronauts, took off at 1:18 a.m. on Wednesday from the Jiachuan Cosmodrome in northwestern China, separated successfully from the launch vehicle about 10 minutes later, according to the Kyodo news agency, and re-joined the Chinese space station about 3.5 hours later. In addition to the Chinese, this is the first time a foreigner from Pakistan will be in space for several days.",
+      "translation_status": "completed",
+      "translation_version": 2,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T12:43:46Z",
+      "collected_at_utc": "2026-11-25T12:34:18Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0,
+        "domestic_politics": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "raket*"
+        ],
+        "energy": [],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 2,
+      "sentence_counts": {
+        "title": 1,
+        "lead": 2
+      }
+    },
+    {
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-usa-odlozily-plany-na-obchodni-dohody-s-ruskem-vymenou-za-ukonceni-valky-321466",
+      "published_utc": "2026-11-25T09:43:28Z",
+      "title_raw": "USA odložily plány na obchodní dohody s Ruskem výměnou za ukončení války",
+      "lead_raw": "Trumpova administrativa odložila plány lákat Rusko k míru na Ukrajině obchodními dohodami. Moskva o projekty v energetice či letectví prý neprojevila velký zájem a dál trvá na územních ústupcích Kyjeva.",
+      "id": "5f3d4ae76650dd7f38b10b103c4272a191df0214",
+      "fingerprint": "4989cd3a8527f356aa2c2fe9701fd282b7df019c",
+      "title_en": "The U.S. postponed plans for a trade deal with Russia in exchange for ending the war.",
+      "lead_en": "The Trump administration has postponed plans to lure Russia to peace in Ukraine with trade deals. Moscow has reportedly shown little interest in energy or aviation projects and continues to insist on territorial concessions from Kiev.",
+      "translation_status": "completed",
+      "translation_version": 2,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T12:45:13Z",
+      "collected_at_utc": "2026-11-25T12:34:19Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 2,
+        "economy": 4,
+        "local_events": 0,
+        "domestic_politics": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "letectv*",
+          "válk*",
+          "war"
+        ],
+        "energy": [
+          "energet*",
+          "energy"
+        ],
+        "economy": [
+          "obchod*",
+          "trade",
+          "trade deal",
+          "trade deals"
+        ],
+        "local_events": [],
+        "domestic_politics": []
+      },
+      "topics": [
+        "military",
+        "energy",
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 2,
+      "sentence_counts": {
+        "title": 1,
+        "lead": 2
+      }
+    },
+    {
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/dary-na-vojenskou-pomoc-ukrajine-od-ledna-nepujde-odecist-z-dani-nektere-sbirky_2611250923_jho",
+      "published_utc": "2026-11-25T08:23:00Z",
+      "title_raw": "Dary na vojenskou pomoc Ukrajině od ledna nepůjde odečíst z daní. Některé sbírky čekají pokles zájmu",
+      "lead_raw": "Lidé ani firmy si od příštího roku nebudou moci odečíst od základu daně dary na vojenskou pomoc Ukrajině. Na konci letošního roku totiž vyprší platnost zvláštních daňových pravidel, která Česko zavedlo po zahájení ruské invaze v roce 2022.",
+      "id": "4015be3c6d2d962f45ef6888875811ae4be166e1",
+      "fingerprint": "8c39e06f8fcf2bbfe3f40e1c69f79717f0c171ae",
+      "title_en": "Donations for military aid to Ukraine will no longer be tax deductible as of January. Some collections await a decline in interest",
+      "lead_en": "Starting next year, neither individuals nor companies will be able to deduct from their tax base donations for military aid to Ukraine. At the end of this year, the special tax rules introduced by the Czech Republic after the Russian invasion in 2022 will expire.",
+      "translation_status": "completed",
+      "translation_version": 2,
+      "translation_attempts": 1,
+      "translation_provider": "facebook/nllb-200-distilled-1.3B",
+      "translation_method": "sentence_by_sentence",
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": "2026-11-25T12:46:18Z",
+      "collected_at_utc": "2026-11-25T12:34:15Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 4,
+        "local_events": 0,
+        "domestic_politics": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "military",
+          "military aid",
+          "vojensk*"
+        ],
+        "energy": [],
+        "economy": [
+          "daní*",
+          "daň*",
+          "daňov*",
+          "tax"
+        ],
+        "local_events": [],
+        "domestic_politics": []
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 2,
+      "sentence_counts": {
+        "title": 2,
+        "lead": 2
+      }
+    },
+    {
+      "source": "Radio Prague International (EN)",
+      "source_language": "en",
+      "url": "https://english.radio.cz/czechia-must-prepare-host-allied-troops-experts-warn-8903451",
+      "published_utc": "2026-11-24T12:04:00Z",
+      "title_raw": "Czechia must prepare to host allied troops, experts warn",
+      "lead_raw": "Czechia must prepare to host allied troops, experts warn",
+      "id": "d5227fcfb24064711dda087cb818eb3716813a3e",
+      "fingerprint": "58dbade5e153d436239b1013b28485e61c0de04d",
+      "title_en": "Czechia must prepare to host allied troops, experts warn",
+      "lead_en": "Czechia must prepare to host allied troops, experts warn",
+      "translation_status": "not_required",
+      "translation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": "original_english",
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": null,
+      "collected_at_utc": "2026-11-25T12:34:21Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0,
+        "domestic_politics": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "troops"
+        ],
+        "energy": [],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 2
+    },
+    {
+      "source": "Radio Prague International (EN)",
+      "source_language": "en",
+      "url": "https://english.radio.cz/army-chief-warns-2-percent-defence-spending-will-limit-modernisation-8903443",
+      "published_utc": "2026-11-24T11:13:00Z",
+      "title_raw": "Army chief warns 2 percent defence spending will limit modernisation",
+      "lead_raw": "Army chief warns 2 percent defence spending will limit modernisation",
+      "id": "2e11e805e7b4f1aa0aea7024006acaeafd072103",
+      "fingerprint": "3d8db184f3dc82028610253d631cbae8ddac3487",
+      "title_en": "Army chief warns 2 percent defence spending will limit modernisation",
+      "lead_en": "Army chief warns 2 percent defence spending will limit modernisation",
+      "translation_status": "not_required",
+      "translation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": "original_english",
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "translated_at_utc": null,
+      "collected_at_utc": "2026-11-25T12:34:21Z",
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 1,
+        "energy": 0,
+        "economy": 0,
+        "local_events": 0,
+        "domestic_politics": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "defence spending"
+        ],
+        "energy": [],
+        "economy": [],
+        "local_events": [],
+        "domestic_politics": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 2
+    }
+  ]
+}
