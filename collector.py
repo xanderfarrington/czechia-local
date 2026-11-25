@@ -1,18 +1,19 @@
 # -*- coding: utf-8 -*-
 """
-Czech Media Tracker
-
-RSS collection, topic classification, and Czech-to-English
-translation using NLLB-200 distilled 1.3B.
+Czech Media Tracker — Version 2
 
 Features:
-- Persistent article archive
-- Rolling 48-hour news window
-- Pre-translation topic classification
-- Batched local translation
-- Pending translation queue
-- No retranslations of completed articles
-- Independent processing of English-language sources
+- RSS collection and persistent article archive
+- NLLB-200 distilled 1.3B Czech-to-English translation
+- Sentence-by-sentence translation
+- Length-aware sentence batching
+- Persistent sentence translation cache
+- Czech proper noun and institutional glossary
+- Translation validation and retry
+- Improved keyword matching
+- Auditable topic classification
+- Selective repair of older translations
+- Independent processing of English-language articles
 """
 
 from __future__ import annotations
@@ -23,10 +24,12 @@ import json
 import time
 import html
 import hashlib
+import unicodedata
 
 from pathlib import Path
 from datetime import datetime, timedelta, timezone
-from typing import Dict, List, Optional
+from collections import Counter
+from decimal import Decimal, InvalidOperation
 
 import requests
 import feedparser
@@ -37,25 +40,38 @@ import pandas as pd
 # CONFIGURATION
 # ============================================================
 
-KEEP_HOURS = int(
-    os.getenv("KEEP_HOURS", "48")
-)
+KEEP_HOURS = int(os.getenv("KEEP_HOURS", "48"))
 
 TRANSLATE_LIMIT = int(
     os.getenv("TRANSLATE_LIMIT", "60")
 )
 
-BATCH_SIZE = int(
-    os.getenv("BATCH_SIZE", "4")
+REPAIR_LIMIT = int(
+    os.getenv("REPAIR_LIMIT", "20")
 )
 
-NUM_BEAMS = int(
-    os.getenv("NUM_BEAMS", "4")
+BATCH_SIZE = max(
+    1, int(os.getenv("BATCH_SIZE", "8"))
 )
 
-CPU_THREADS = int(
-    os.getenv("CPU_THREADS", "4")
+ARTICLE_GROUP_SIZE = max(
+    1, int(os.getenv("ARTICLE_GROUP_SIZE", "8"))
 )
+
+NUM_BEAMS = max(
+    1, int(os.getenv("NUM_BEAMS", "4"))
+)
+
+CPU_THREADS = max(
+    1, int(os.getenv("CPU_THREADS", "4"))
+)
+
+MAX_RUNTIME_MINUTES = int(
+    os.getenv("MAX_RUNTIME_MINUTES", "40")
+)
+
+TRANSLATION_VERSION = 2
+CLASSIFICATION_VERSION = 2
 
 MODEL_NAME = os.getenv(
     "MODEL_NAME",
@@ -64,6 +80,10 @@ MODEL_NAME = os.getenv(
 
 TRANSLATE_ALL = (
     os.getenv("TRANSLATE_ALL", "0") == "1"
+)
+
+RETRANSLATE_INCOMPLETE = (
+    os.getenv("RETRANSLATE_INCOMPLETE", "1") == "1"
 )
 
 SOURCE_LANGUAGE = "ces_Latn"
@@ -90,6 +110,13 @@ ARCHIVE_JSON = Path(
     )
 )
 
+SENTENCE_CACHE_JSON = Path(
+    os.getenv(
+        "SENTENCE_CACHE_JSON",
+        "data/sentence_translation_cache.json"
+    )
+)
+
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -101,14 +128,17 @@ HEADERS = {
         "text/xml, */*;q=0.8"
     ),
     "Accept-Language": "en-US,en;q=0.9,cs;q=0.8",
-    "Connection": "keep-alive",
 }
-
-# Translation model is loaded only when needed.
 
 TOKENIZER = None
 MODEL = None
 TORCH = None
+
+RUN_START = time.monotonic()
+
+CACHE_HITS = 0
+CACHE_MISSES = 0
+MODEL_SENTENCES = 0
 
 
 # ============================================================
@@ -184,246 +214,410 @@ SOURCES = {
 
 # ============================================================
 # TOPIC KEYWORDS
+#
+# exact:
+#   Whole words and complete phrases.
+#
+# stems:
+#   Match the beginning of Czech words, allowing
+#   grammatical endings without arbitrary substring matches.
 # ============================================================
 
 TOPIC_KEYWORDS = {
 
-    "diplomacy": [
+    "diplomacy": {
 
-        # English
-        "foreign ministry",
-        "ministry of foreign affairs",
-        "diplomacy",
-        "diplomatic",
-        "talks",
-        "negotiations",
-        "meeting",
-        "summit",
-        "delegation",
-        "envoy",
-        "embassy",
-        "ambassador",
-        "bilateral",
-        "multilateral",
-        "agreement",
-        "treaty",
-        "strategic partnership",
-        "joint statement",
-        "consultations",
-        "foreign policy",
-        "state visit",
+        "exact": [
+            "foreign ministry",
+            "ministry of foreign affairs",
+            "foreign policy",
+            "diplomacy",
+            "diplomatic",
+            "diplomatic relations",
+            "international relations",
+            "peace talks",
+            "peace negotiations",
+            "bilateral talks",
+            "bilateral meeting",
+            "summit",
+            "ambassador",
+            "ambassadors",
+            "embassy",
+            "embassies",
+            "envoy",
+            "bilateral",
+            "multilateral",
+            "strategic partnership",
+            "joint statement",
+            "state visit",
+            "diplomatic mission",
+            "foreign ministers",
+            "foreign minister",
+            "United Nations",
+            "European Council",
+            "ministerstvo zahraničních věcí",
+            "zahraniční politika",
+            "mírová jednání",
+            "mezinárodní vztahy",
+            "státní návštěva",
+            "OSN",
+            "MZV",
+        ],
 
-        # Czech
-        "ministerstvo zahraničních věcí",
-        "zahraniční politika",
-        "diplomac",
-        "diplomat",
-        "jednán",
-        "vyjednáv",
-        "schůzk",
-        "summit",
-        "delegac",
-        "velvyslan",
-        "ambasád",
-        "vyslanec",
-        "bilaterál",
-        "multilaterál",
-        "dohod",
-        "smlouv",
-        "strategické partnerství",
-        "konzultac",
-        "státní návštěv",
-    ],
+        "stems": [
+            "diplomac",
+            "diplomat",
+            "velvyslan",
+            "ambasád",
+            "bilaterál",
+            "multilaterál",
+            "vyslanec",
+            "vyslanc",
+            "summit",
+        ],
+    },
 
-    "military": [
+    "military": {
 
-        # English
-        "defense ministry",
-        "ministry of defense",
-        "military",
-        "armed forces",
-        "troops",
-        "exercise",
-        "drills",
-        "deployment",
-        "missile",
-        "air defense",
-        "navy",
-        "fleet",
-        "submarine",
-        "weapons",
-        "arms",
-        "defense industry",
-        "security",
-        "nato",
-        "intelligence",
-        "cyber attack",
-        "hybrid warfare",
+        "exact": [
+            "military",
+            "armed forces",
+            "defense ministry",
+            "defence ministry",
+            "ministry of defense",
+            "ministry of defence",
+            "defense spending",
+            "defence spending",
+            "defense industry",
+            "defence industry",
+            "military aid",
+            "military exercise",
+            "military exercises",
+            "military equipment",
+            "military intelligence",
+            "military operations",
+            "troops",
+            "soldier",
+            "soldiers",
+            "missile",
+            "missiles",
+            "air defense",
+            "air defence",
+            "navy",
+            "submarine",
+            "submarines",
+            "weapons",
+            "ammunition",
+            "artillery",
+            "battlefield",
+            "combat",
+            "war",
+            "warfare",
+            "NATO",
+            "BIS",
+            "cyber attack",
+            "cyber attacks",
+            "cybersecurity",
+            "hybrid warfare",
+            "hybrid threats",
+            "armed conflict",
+            "ministerstvo obrany",
+            "generální štáb",
+            "vojenské zpravodajství",
+            "ozbrojené síly",
+            "hybridní válka",
+            "hybridní hrozby",
+            "kybernetický útok",
+        ],
 
-        # Czech
-        "ministerstvo obrany",
-        "armáda",
-        "ozbrojené síly",
-        "voják",
-        "vojensk",
-        "cvičen",
-        "manévr",
-        "nasazen",
-        "raket",
-        "protivzduš",
-        "letectv",
-        "zbran",
-        "výzbroj",
-        "obrann",
-        "zbroj",
-        "munic",
-        "bezpečnost",
-        "nato",
-        "generální štáb",
-        "bis",
-        "vojenské zpravodajství",
-        "kybernetick",
-        "hybridní",
-    ],
+        "stems": [
+            "armád",
+            "voják",
+            "vojác",
+            "vojensk",
+            "munic",
+            "dělostřel",
+            "protivzduš",
+            "letectv",
+            "zbran",
+            "zbraň",
+            "výzbroj",
+            "zbroj",
+            "obrann",
+            "bojišt",
+            "bojov",
+            "váleč",
+            "válk",
+            "raket",
+            "kybernetick",
+            "bezpilot",
+            "pěchot",
+        ],
+    },
 
-    "energy": [
+    "energy": {
 
-        # English
-        "energy",
-        "oil",
-        "gas",
-        "lng",
-        "pipeline",
-        "refinery",
-        "electricity",
-        "power grid",
-        "nuclear power",
-        "coal",
-        "fuel",
-        "energy exports",
-        "energy security",
-        "petroleum",
-        "nuclear",
-        "power plant",
+        "exact": [
+            "energy",
+            "electricity",
+            "oil",
+            "gas",
+            "natural gas",
+            "LNG",
+            "pipeline",
+            "pipelines",
+            "refinery",
+            "refineries",
+            "power grid",
+            "power plant",
+            "power plants",
+            "nuclear power",
+            "nuclear energy",
+            "nuclear reactor",
+            "nuclear reactors",
+            "coal",
+            "fuel",
+            "petroleum",
+            "energy security",
+            "district heating",
+            "renewable energy",
+            "solar power",
+            "wind power",
+            "energy crisis",
+            "ČEZ",
+            "CEZ",
+            "Dukovany",
+            "Temelín",
+            "Temelin",
+            "ropa",
+            "plyn",
+            "uhlí",
+            "elektřina",
+            "energetická bezpečnost",
+            "přenosová soustava",
+        ],
 
-        # Czech
-        "energet",
-        "energie",
-        "ropa",
-        "plyn",
-        "lng",
-        "ropovod",
-        "plynovod",
-        "rafineri",
-        "elektřin",
-        "elektrárn",
-        "jadern",
-        "uhlí",
-        "paliv",
-        "čez",
-        "dukovany",
-        "temelín",
-        "teplár",
-        "energetická bezpečnost",
-        "přenosová soustava",
-        "emisní povolen",
-    ],
+        "stems": [
+            "energet",
+            "energi",
+            "ropovod",
+            "ropn",
+            "plynovod",
+            "plynov",
+            "rafineri",
+            "elektřin",
+            "elektrárn",
+            "jadern",
+            "uhl",
+            "paliv",
+            "dukovan",
+            "temelín",
+            "teplár",
+            "emisní",
+            "fotovolta",
+        ],
+    },
 
-    "economy": [
+    "economy": {
 
-        # English
-        "economy",
-        "economic",
-        "gdp",
-        "inflation",
-        "interest rate",
-        "central bank",
-        "trade",
-        "exports",
-        "imports",
-        "industry",
-        "manufacturing",
-        "investment",
-        "budget",
-        "deficit",
-        "banking",
-        "sanctions",
-        "market",
-        "employment",
-        "unemployment",
-        "wages",
-        "tax",
+        "exact": [
+            "economy",
+            "economic",
+            "GDP",
+            "inflation",
+            "interest rate",
+            "interest rates",
+            "central bank",
+            "Czech National Bank",
+            "trade",
+            "trade deal",
+            "trade deals",
+            "exports",
+            "imports",
+            "industry",
+            "manufacturing",
+            "investment",
+            "investments",
+            "budget",
+            "deficit",
+            "banking",
+            "bank",
+            "banks",
+            "sanctions",
+            "stock market",
+            "stock exchange",
+            "employment",
+            "unemployment",
+            "unemployment benefits",
+            "wages",
+            "salary",
+            "salaries",
+            "tax",
+            "taxes",
+            "tariff",
+            "tariffs",
+            "mortgage",
+            "mortgages",
+            "public finances",
+            "fiscal policy",
+            "monetary policy",
+            "government debt",
+            "national debt",
+            "ČNB",
+            "CNB",
+            "HDP",
+            "clo",
+            "cla",
+            "cel",
+            "česká národní banka",
+            "státní rozpočet",
+            "fiskální politika",
+            "měnová politika",
+        ],
 
-        # Czech
-        "ekonom",
-        "hdp",
-        "inflac",
-        "úrok",
-        "čnb",
-        "česká národní banka",
-        "korun",
-        "obchod",
-        "export",
-        "vývoz",
-        "import",
-        "dovoz",
-        "průmysl",
-        "výrob",
-        "investic",
-        "rozpočet",
-        "schodek",
-        "deficit",
-        "bank",
-        "sankc",
-        "trh",
-        "zaměstnan",
-        "nezaměstnan",
-        "mzd",
-        "daň",
-    ],
+        "stems": [
+            "ekonom",
+            "inflac",
+            "úrok",
+            "korun",
+            "obchod",
+            "export",
+            "vývoz",
+            "import",
+            "dovoz",
+            "průmysl",
+            "investic",
+            "rozpočt",
+            "schodk",
+            "deficit",
+            "bankov",
+            "bank",
+            "sankc",
+            "zaměstnan",
+            "nezaměstnan",
+            "mzd",
+            "platov",
+            "daň",
+            "daní",
+            "daňov",
+            "hypoték",
+            "burz",
+            "odbor",
+            "fiskáln",
+            "důchod",
+            "cenov",
+        ],
+    },
 
-    "local_events": [
+    "local_events": {
 
-        # English
-        "fire",
-        "flood",
-        "earthquake",
-        "storm",
-        "wildfire",
-        "explosion",
-        "accident",
-        "crash",
-        "evacuation",
-        "emergency",
-        "disaster",
-        "landslide",
-        "outage",
-        "collapse",
-        "rescue",
-        "injured",
-        "killed",
+        "exact": [
+            "fire",
+            "fires",
+            "flood",
+            "floods",
+            "earthquake",
+            "storm",
+            "wildfire",
+            "explosion",
+            "accident",
+            "crash",
+            "evacuation",
+            "emergency",
+            "disaster",
+            "landslide",
+            "outage",
+            "collapse",
+            "rescue",
+            "traffic accident",
+            "natural disaster",
+            "injured",
+            "firefighters",
+            "emergency services",
+            "mimořádná událost",
+        ],
 
-        # Czech
-        "požár",
-        "povodeň",
-        "záplav",
-        "zemětřesen",
-        "bouř",
-        "vichřic",
-        "výbuch",
-        "nehod",
-        "havári",
-        "evakuac",
-        "mimořádná událost",
-        "katastrof",
-        "sesuv",
-        "výpadek",
-        "zřícen",
-        "záchran",
-        "zraněn",
-        "zemřel",
-        "mrtv",
-    ],
+        "stems": [
+            "požár",
+            "povod",
+            "záplav",
+            "zemětřesen",
+            "bouř",
+            "vichřic",
+            "výbuch",
+            "nehod",
+            "havári",
+            "evakuac",
+            "katastrof",
+            "sesuv",
+            "výpadek",
+            "zřícen",
+            "záchran",
+            "zraněn",
+            "hasič",
+        ],
+    },
+
+    "domestic_politics": {
+
+        "exact": [
+            "Czech government",
+            "Czech parliament",
+            "Czech president",
+            "Czech prime minister",
+            "Chamber of Deputies",
+            "parliamentary election",
+            "parliamentary elections",
+            "presidential election",
+            "presidential elections",
+            "governing coalition",
+            "coalition government",
+            "opposition party",
+            "opposition parties",
+            "cabinet",
+            "legislation",
+            "confidence vote",
+            "no-confidence vote",
+            "government formation",
+            "political party",
+            "political parties",
+            "constitutional court",
+            "ANO",
+            "ODS",
+            "SPD",
+            "STAN",
+            "TOP 09",
+            "KDU-ČSL",
+            "Poslanecká sněmovna",
+            "Ústavní soud",
+            "vládní koalice",
+            "politická strana",
+            "hlasování o důvěře",
+            "hlasování o nedůvěře",
+        ],
+
+        "stems": [
+            "sněmovn",
+            "poslan",
+            "senátor",
+            "parlament",
+            "koalic",
+            "opozic",
+            "premiér",
+            "ministr",
+            "prezident",
+            "voleb",
+            "volič",
+            "legislativ",
+            "ústavn",
+            "referend",
+            "hejtm",
+            "zastupitel",
+            "vlád",
+            "demis",
+            "politick",
+        ],
+    },
 }
 
 
@@ -431,33 +625,230 @@ TOPIC_THRESHOLDS = {
     "diplomacy": 1,
     "military": 1,
     "energy": 1,
-    "economy": 2,
-    "local_events": 2,
+    "economy": 1,
+    "local_events": 1,
+    "domestic_politics": 1,
 }
+
+# Lower-confidence keywords cannot establish a topic alone.
+
+WEAK_KEYWORDS = {
+
+    "economy": {
+        "bank",
+        "korun",
+        "obchod",
+        "budget",
+        "rozpočt",
+        "důchod",
+        "industry",
+    },
+
+    "domestic_politics": {
+        "vlád",
+        "ministr",
+        "prezident",
+        "cabinet",
+        "politick",
+        "parlament",
+    },
+
+    "local_events": {
+        "injured",
+        "emergency",
+        "zraněn",
+        "záchran",
+    },
+}
+
+
+# ============================================================
+# PROPER NOUN AND TERMINOLOGY GLOSSARY
+#
+# Each entry:
+#   Czech regex pattern
+#   English replacement
+#
+# Place names and surnames are deliberately preserved.
+# Context-dependent words are not blindly replaced.
+# ============================================================
+
+GLOSSARY = [
+
+    # Political figures
+
+    (r"\bBabiš(?:e|ovi|em|ův|ova|ovo|ovy|ových)?\b",
+     "Babiš"),
+
+    (r"\bSchillerov(?:á|é|ou|ě|y)\b",
+     "Schillerová"),
+
+    (r"\bOkamur(?:a|y|ovi|ou|ův|ova|ovo|ovy)\b",
+     "Okamura"),
+
+    (r"\bFial(?:a|y|ovi|ou|ův|ova|ovo)\b",
+     "Fiala"),
+
+    (r"\bFic(?:o|a|ovi|em|ův|ova|ovo)\b",
+     "Fico"),
+
+    (r"\bHavlíčk(?:a|ovi|em|ův|ova|ovo)\b",
+     "Havlíček"),
+
+    (r"\bHavlíček\b",
+     "Havlíček"),
+
+    (r"\bJuchelk(?:a|y|ovi|ou)\b",
+     "Juchelka"),
+
+    (r"\bStředul(?:a|y|ovi|ou)\b",
+     "Středula"),
+
+    (r"\bMacink(?:a|y|ovi|ou)\b",
+     "Macinka"),
+
+    (r"\bLipavsk(?:ý|ého|ému|ým)\b",
+     "Lipavský"),
+
+    (r"\bPetr(?:a|ovi|em)? Pav(?:el|la|lovi|lem)\b",
+     "Petr Pavel"),
+
+    # Czech places
+
+    (r"\bVelk(?:é|ého|ém|ým) Meziříčí\b",
+     "Velké Meziříčí"),
+
+    (r"\b(?:Dvůr|Dvora|Dvoře|Dvorem) "
+     r"Králové nad Labem\b",
+     "Dvůr Králové nad Labem"),
+
+    (r"\bNov(?:ý|ého|ém|ým) Jičín(?:a|ě|em)?\b",
+     "Nový Jičín"),
+
+    (r"\bDukovan(?:y|ech|ům|ami)?\b",
+     "Dukovany"),
+
+    (r"\bTemelín(?:a|ě|em|u)?\b",
+     "Temelín"),
+
+    (r"\bPřerovsk(?:o|a|u|em)\b",
+     "Přerov region"),
+
+    (r"\bAlžbětin(?:y|ých|ým) lázn(?:ě|í|ích)\b",
+     "Alžbětiny Lázně"),
+
+    # Institutions
+
+    (r"\bČNB\b",
+     "Czech National Bank"),
+
+    (r"\bMPSV\b",
+     "Ministry of Labour and Social Affairs"),
+
+    (r"\bMPO\b",
+     "Ministry of Industry and Trade"),
+
+    (r"\bMZV\b",
+     "Ministry of Foreign Affairs"),
+
+    (r"\bČRo\b",
+     "Czech Radio"),
+
+    (r"\bČT\b",
+     "Czech Television"),
+
+    (r"\bČTK\b",
+     "Czech News Agency"),
+
+    (r"\bČEZ\b",
+     "ČEZ"),
+
+    (r"\bBIS\b",
+     "Security Information Service"),
+
+    (r"\bPoslaneck(?:á|é|ou|é) sněmovn"
+     r"(?:a|y|ě|u|ou)\b",
+     "Chamber of Deputies"),
+
+    (r"\bSněmovn(?:a|y|ě|u|ou)\b",
+     "Chamber of Deputies"),
+
+    # Press conference shorthand.
+    # Restrict TK expansion to headline-like contexts.
+
+    (r"(?<=ŽIVĚ: )TK\b",
+     "press conference"),
+
+    (r"^TK(?=\s)",
+     "Press conference"),
+]
+
+
+# Known incorrect outputs observed in Version 1.
+
+KNOWN_BAD_TRANSLATIONS = [
+
+    (
+        r"\bBabiš",
+        r"\bgrandma\b|\bgrandmother\b"
+    ),
+
+    (
+        r"\bPavel\b",
+        r"\bPaul\b"
+    ),
+
+    (
+        r"Meziříčí",
+        r"\bGrand Canyon\b"
+    ),
+
+    (
+        r"Králové nad Labem",
+        r"\bPalace of the Kings\b"
+    ),
+
+    (
+        r"hejtman",
+        r"\bchieftains?\b"
+    ),
+
+    (
+        r"odvolání",
+        r"\bresignation\b"
+    ),
+
+    (
+        r"teplár",
+        r"\bboilers\b"
+    ),
+]
 
 
 # ============================================================
 # GENERAL HELPERS
 # ============================================================
 
-def utcnow() -> datetime:
+def utcnow():
+
     return datetime.now(timezone.utc)
 
 
-def utc_string(dt: datetime) -> str:
+def utc_string(dt):
+
     return dt.astimezone(timezone.utc).strftime(
         "%Y-%m-%dT%H:%M:%SZ"
     )
 
 
-def normalize_space(text: str) -> str:
+def normalize_space(text):
 
     return " ".join(
         (text or "").split()
     ).strip()
 
 
-def clean_text(text: str) -> str:
+def clean_text(text):
 
     text = html.unescape(text or "")
 
@@ -470,7 +861,7 @@ def clean_text(text: str) -> str:
     return normalize_space(text)
 
 
-def normalize_url(url: str) -> str:
+def normalize_url(url):
 
     url = normalize_space(url)
 
@@ -480,10 +871,10 @@ def normalize_url(url: str) -> str:
     return url.rstrip("/")
 
 
-def normalize_title(text: str) -> str:
+def normalize_title(text):
 
     text = normalize_space(
-        (text or "").lower()
+        (text or "").casefold()
     )
 
     return re.sub(
@@ -493,7 +884,22 @@ def normalize_title(text: str) -> str:
     )
 
 
-def hash_key(*parts: str) -> str:
+def fold_accents(text):
+
+    return "".join(
+
+        char
+
+        for char in unicodedata.normalize(
+            "NFKD", text or ""
+        )
+
+        if not unicodedata.combining(char)
+
+    ).casefold()
+
+
+def hash_key(*parts):
 
     h = hashlib.sha1()
 
@@ -508,7 +914,7 @@ def hash_key(*parts: str) -> str:
     return h.hexdigest()
 
 
-def article_fingerprint(article: dict) -> str:
+def article_fingerprint(article):
 
     source = article.get("source", "")
 
@@ -535,14 +941,12 @@ def article_fingerprint(article: dict) -> str:
     )
 
 
-def within_window(
-    article: dict,
-    now: datetime
-) -> bool:
+def within_window(article, now):
 
     try:
 
         published = datetime.fromisoformat(
+
             article["published_utc"].replace(
                 "Z",
                 "+00:00"
@@ -550,8 +954,11 @@ def within_window(
         )
 
         return (
+
             now - timedelta(hours=KEEP_HOURS)
+
             <= published
+
             <= now + timedelta(minutes=10)
         )
 
@@ -560,38 +967,205 @@ def within_window(
         return False
 
 
-def two_sentence_lead(text: str) -> str:
+def runtime_exceeded():
 
-    text = clean_text(text)
+    elapsed = (
+        time.monotonic() - RUN_START
+    )
+
+    return elapsed >= (
+        MAX_RUNTIME_MINUTES * 60
+    )
+
+
+# ============================================================
+# SENTENCE SPLITTING
+#
+# Protect common Czech abbreviations, decimal numbers,
+# initials and ordinal numbers before splitting.
+# ============================================================
+
+ABBREVIATIONS = [
+
+    "např.",
+    "tj.",
+    "tzn.",
+    "tzv.",
+    "apod.",
+    "atd.",
+    "resp.",
+    "pozn.",
+    "č.",
+    "odst.",
+    "str.",
+    "sb.",
+    "mil.",
+    "mld.",
+    "tis.",
+    "ing.",
+    "mgr.",
+    "mudr.",
+    "judr.",
+    "phdr.",
+    "rndr.",
+    "prof.",
+    "doc.",
+    "st.",
+    "sv.",
+    "a.s.",
+    "s.r.o.",
+    "v.s.",
+    "U.S.",
+    "U.K.",
+]
+
+
+def split_sentences(text):
+
+    text = normalize_space(text)
 
     if not text:
-        return ""
+        return []
 
-    sentences = re.split(
-        r"(?<=[.!?])\s+",
-        text
+    marker = "\uE000"
+
+    protected = text
+
+    # Protect decimal points between numbers.
+
+    protected = re.sub(
+
+        r"(?<=\d)\.(?=\d)",
+
+        marker,
+
+        protected
+    )
+
+    # Protect ordinal numbers such as "25. listopadu".
+
+    protected = re.sub(
+
+        r"(?<=\d)\.(?=\s+[a-záčďéěíňóřšťúůýž])",
+
+        marker,
+
+        protected
+    )
+
+    # Protect known abbreviations.
+
+    for abbreviation in sorted(
+        ABBREVIATIONS,
+        key=len,
+        reverse=True
+    ):
+
+        pattern = (
+            r"(?<!\w)"
+            + re.escape(abbreviation)
+        )
+
+        protected = re.sub(
+
+            pattern,
+
+            lambda match: match.group(0).replace(
+                ".", marker
+            ),
+
+            protected,
+
+            flags=re.IGNORECASE
+        )
+
+    # Protect single-letter initials before names.
+
+    protected = re.sub(
+
+        r"\b([A-ZÁČĎÉĚÍŇÓŘŠŤÚŮÝŽ])\."
+        r"(?=\s+[A-ZÁČĎÉĚÍŇÓŘŠŤÚŮÝŽ])",
+
+        lambda match: match.group(1) + marker,
+
+        protected
+    )
+
+    # Split after sentence-ending punctuation, including
+    # punctuation followed by closing quotation marks.
+
+    parts = re.split(
+
+        r'(?<=[.!?])\s+|'
+        r'(?<=[.!?]["”’»])\s+',
+
+        protected
     )
 
     sentences = [
-        sentence.strip()
-        for sentence in sentences
-        if sentence.strip()
-    ]
 
-    if len(sentences) >= 2:
-
-        return " ".join(
-            sentences[:2]
+        normalize_space(
+            part.replace(marker, ".")
         )
 
-    return text[:280].rstrip()
+        for part in parts
+
+        if part.strip()
+    ]
+
+    return sentences
+
+
+def two_sentence_lead(text):
+
+    sentences = split_sentences(
+        clean_text(text)
+    )
+
+    if not sentences:
+        return ""
+
+    # Preserve complete sentences rather than cutting
+    # the second sentence at an arbitrary character count.
+
+    return " ".join(
+        sentences[:2]
+    )
+
+
+def join_sentences(original_sentences, translations):
+
+    output = []
+
+    for index, translated in enumerate(translations):
+
+        translated = normalize_space(translated)
+
+        if not translated:
+            continue
+
+        # Ensure separately translated sentences do not
+        # become accidentally joined without punctuation.
+
+        if index < len(translations) - 1:
+
+            if not re.search(
+                r'[.!?]["”’»]?$',
+                translated
+            ):
+
+                translated += "."
+
+        output.append(translated)
+
+    return " ".join(output)
 
 
 # ============================================================
 # RSS COLLECTION
 # ============================================================
 
-def fetch_text(url: str) -> Optional[str]:
+def fetch_text(url):
 
     for attempt in range(
         1,
@@ -601,9 +1175,13 @@ def fetch_text(url: str) -> Optional[str]:
         try:
 
             response = requests.get(
+
                 url,
+
                 headers=HEADERS,
+
                 timeout=TIMEOUT,
+
                 allow_redirects=True
             )
 
@@ -635,11 +1213,10 @@ def fetch_text(url: str) -> Optional[str]:
     return None
 
 
-def parse_entry_datetime(
-    entry: dict
-) -> Optional[datetime]:
+def parse_entry_datetime(entry):
 
     for key in (
+
         "published_parsed",
         "updated_parsed",
         "created_parsed"
@@ -657,10 +1234,10 @@ def parse_entry_datetime(
                 )
 
             except Exception:
-
                 pass
 
     for key in (
+
         "published",
         "updated",
         "created",
@@ -674,23 +1251,22 @@ def parse_entry_datetime(
             try:
 
                 return pd.to_datetime(
+
                     value,
+
                     utc=True,
+
                     errors="raise"
+
                 ).to_pydatetime()
 
             except Exception:
-
                 pass
 
     return None
 
 
-def collect_from_rss(
-    source_name: str,
-    config: dict,
-    now: datetime
-) -> List[dict]:
+def collect_from_rss(source_name, config, now):
 
     rows = []
 
@@ -704,7 +1280,7 @@ def collect_from_rss(
         feed = feedparser.parse(raw_feed)
 
         print(
-            f"[INFO] {source_name}: "
+            f"[RSS] {source_name}: "
             f"{len(feed.entries)} RSS entries"
         )
 
@@ -724,30 +1300,15 @@ def collect_from_rss(
             if published is None:
                 continue
 
-            if not (
-                now - timedelta(hours=KEEP_HOURS)
-                <= published
-                <= now + timedelta(minutes=10)
-            ):
-                continue
-
-            url = normalize_url(
-                entry.get("link", "")
-            )
-
-            summary = (
-                entry.get("summary", "")
-                or entry.get("description", "")
-                or ""
-            )
-
             row = {
 
                 "source": source_name,
 
                 "source_language": config["language"],
 
-                "url": url,
+                "url": normalize_url(
+                    entry.get("link", "")
+                ),
 
                 "published_utc": utc_string(
                     published
@@ -756,11 +1317,18 @@ def collect_from_rss(
                 "title_raw": title,
 
                 "lead_raw": two_sentence_lead(
-                    summary
+
+                    entry.get("summary", "")
+
+                    or entry.get("description", "")
+
+                    or ""
                 ),
             }
 
-            rows.append(row)
+            if within_window(row, now):
+
+                rows.append(row)
 
         if rows:
             break
@@ -769,57 +1337,172 @@ def collect_from_rss(
 
 
 # ============================================================
-# TOPIC CLASSIFICATION
+# KEYWORD CLASSIFICATION
 # ============================================================
 
-def classify_topics(
-    article: dict,
-    include_translation: bool = True
-) -> dict:
+def exact_match(keyword, text):
 
-    text = (
+    # Acronyms are matched case-sensitively so, for
+    # example, political party ANO does not match "ano".
+
+    is_acronym = (
+
+        len(keyword) <= 12
+
+        and keyword.isupper()
+    )
+
+    pattern = (
+
+        r"(?<!\w)"
+
+        + re.escape(keyword)
+
+        + r"(?!\w)"
+    )
+
+    flags = (
+
+        0
+
+        if is_acronym
+
+        else re.IGNORECASE
+    )
+
+    return bool(
+        re.search(
+            pattern,
+            text,
+            flags
+        )
+    )
+
+
+def stem_match(stem, text):
+
+    pattern = (
+
+        r"(?<!\w)"
+
+        + re.escape(stem)
+
+        + r"\w*"
+    )
+
+    return bool(
+
+        re.search(
+
+            pattern,
+
+            text,
+
+            flags=re.IGNORECASE
+        )
+    )
+
+
+def classify_topics(article, include_translation=True):
+
+    raw_text = (
+
         f"{article.get('title_raw') or ''} "
+
         f"{article.get('lead_raw') or ''}"
     )
 
+    english_text = ""
+
     if include_translation:
 
-        text += (
-            f" {article.get('title_en') or ''}"
-            f" {article.get('lead_en') or ''}"
+        english_text = (
+
+            f"{article.get('title_en') or ''} "
+
+            f"{article.get('lead_en') or ''}"
         )
 
-    text = text.lower()
+    combined_text = (
+
+        raw_text + " " + english_text
+    )
 
     scores = {}
+    matched_keywords = {}
+    labels = []
 
-    for topic, keywords in TOPIC_KEYWORDS.items():
+    for topic, config in TOPIC_KEYWORDS.items():
 
-        # Avoid counting identical keywords twice.
-        unique_keywords = set(
-            keyword.lower()
-            for keyword in keywords
+        matches = set()
+
+        for keyword in config["exact"]:
+
+            if exact_match(
+                keyword,
+                combined_text
+            ):
+
+                matches.add(keyword)
+
+        # Czech stems are matched only against
+        # original Czech text.
+
+        if article.get("source_language") != "en":
+
+            for stem in config["stems"]:
+
+                if stem_match(
+                    stem,
+                    raw_text
+                ):
+
+                    matches.add(stem + "*")
+
+        weak = WEAK_KEYWORDS.get(
+            topic,
+            set()
         )
 
-        scores[topic] = sum(
+        strong_matches = [
 
-            1
+            match
 
-            for keyword in unique_keywords
+            for match in matches
 
-            if keyword in text
+            if match.rstrip("*") not in weak
+        ]
+
+        score = len(matches)
+
+        scores[topic] = score
+
+        matched_keywords[topic] = sorted(
+            matches
         )
 
-    labels = [
+        qualifies = (
 
-        topic
+            score >= TOPIC_THRESHOLDS[topic]
 
-        for topic, score in scores.items()
+            and (
 
-        if score >= TOPIC_THRESHOLDS[topic]
-    ]
+                bool(strong_matches)
 
-    primary_topic = (
+                or score >= 2
+            )
+        )
+
+        if qualifies:
+
+            labels.append(topic)
+
+    article["topic_scores"] = scores
+    article["matched_keywords"] = matched_keywords
+    article["topics"] = labels
+    article["relevant"] = bool(labels)
+
+    article["primary_topic"] = (
 
         max(
             labels,
@@ -831,43 +1514,523 @@ def classify_topics(
         else None
     )
 
-    article["topic_scores"] = scores
-    article["topics"] = labels
-    article["primary_topic"] = primary_topic
-    article["relevant"] = bool(labels)
+    article["classification_version"] = (
+        CLASSIFICATION_VERSION
+    )
 
     return article
 
 
 # ============================================================
-# NLLB TRANSLATION MODEL
+# GLOSSARY HELPERS
 # ============================================================
 
-def load_translator() -> None:
+def expected_glossary_terms(text):
+
+    expected = []
+
+    for pattern, replacement in GLOSSARY:
+
+        if re.search(
+            pattern,
+            text or ""
+        ):
+
+            expected.append(replacement)
+
+    return sorted(set(expected))
+
+
+def protect_terms(text):
+
+    """
+    Replace known names and institutional terms with
+    numbered placeholders.
+
+    Placeholders are validated after inference.
+    If the model drops them, the translation is retried
+    using a different preprocessing strategy.
+    """
+
+    replacements = {}
+
+    protected = text
+
+    counter = 0
+
+    for pattern, replacement in GLOSSARY:
+
+        def replace_match(match):
+
+            nonlocal counter
+
+            token = f"ZXQ{counter}QXZ"
+
+            counter += 1
+
+            replacements[token] = replacement
+
+            return token
+
+        protected = re.sub(
+
+            pattern,
+
+            replace_match,
+
+            protected
+        )
+
+    return protected, replacements
+
+
+def restore_terms(translated, replacements):
+
+    output = translated
+
+    missing = []
+
+    for token, replacement in replacements.items():
+
+        # Allow whitespace between placeholder letters,
+        # which some tokenizers may introduce.
+
+        pattern = r"\s*".join(
+
+            re.escape(character)
+
+            for character in token
+        )
+
+        output, count = re.subn(
+
+            pattern,
+
+            lambda match: replacement,
+
+            output,
+
+            flags=re.IGNORECASE
+        )
+
+        if count != 1:
+
+            missing.append(replacement)
+
+    return normalize_space(output), missing
+
+
+def glossary_expansion(text):
+
+    """
+    Alternative retry strategy: supply recognized English
+    terminology directly instead of placeholders.
+
+    This is validated afterward rather than assumed correct.
+    """
+
+    output = text
+
+    for pattern, replacement in GLOSSARY:
+
+        output = re.sub(
+
+            pattern,
+
+            lambda match: replacement,
+
+            output
+        )
+
+    return output
+
+
+# ============================================================
+# TRANSLATION VALIDATION
+# ============================================================
+
+def extract_numbers(text):
+
+    text = (text or "").replace(
+        "\u00a0",
+        " "
+    )
+
+    # Normalize thousands separated by spaces.
+
+    text = re.sub(
+
+        r"(?<=\d) (?=\d{3}(?:\D|$))",
+
+        "",
+
+        text
+    )
+
+    matches = re.findall(
+
+        r"(?<!\w)\d+(?:[.,]\d+)*(?!\w)",
+
+        text
+    )
+
+    numbers = []
+
+    for value in matches:
+
+        if "," in value and "." in value:
+
+            # Determine which separator is likely decimal.
+
+            if value.rfind(",") > value.rfind("."):
+
+                value = value.replace(".", "")
+                value = value.replace(",", ".")
+
+            else:
+
+                value = value.replace(",", "")
+
+        elif "," in value:
+
+            parts = value.split(",")
+
+            if (
+                len(parts) > 2
+                or len(parts[-1]) == 3
+            ):
+
+                value = value.replace(",", "")
+
+            else:
+
+                value = value.replace(",", ".")
+
+        try:
+
+            value = str(
+                Decimal(value).normalize()
+            )
+
+        except InvalidOperation:
+
+            pass
+
+        numbers.append(value)
+
+    return Counter(numbers)
+
+
+def validate_translation(original, translated):
+
+    warnings = []
+
+    original = normalize_space(original)
+    translated = normalize_space(translated)
+
+    if not original:
+        return warnings
+
+    if not translated:
+
+        return ["empty_translation"]
+
+    original_words = len(
+        original.split()
+    )
+
+    translated_words = len(
+        translated.split()
+    )
+
+    # Detect suspiciously short output.
+
+    if original_words >= 8:
+
+        if translated_words < original_words * 0.45:
+
+            warnings.append(
+                "suspiciously_short"
+            )
+
+    # Detect missing numerical values.
+
+    original_numbers = extract_numbers(
+        original
+    )
+
+    translated_numbers = extract_numbers(
+        translated
+    )
+
+    missing_numbers = (
+
+        original_numbers - translated_numbers
+    )
+
+    if missing_numbers:
+
+        warnings.append(
+
+            "missing_numbers:"
+
+            + ",".join(
+                sorted(missing_numbers.keys())
+            )
+        )
+
+    # Detect missing percentage information.
+
+    if (
+
+        "%" in original
+
+        or re.search(
+            r"\bprocent",
+            original,
+            flags=re.IGNORECASE
+        )
+    ):
+
+        if not (
+
+            "%" in translated
+
+            or re.search(
+
+                r"\bpercent(?:age)?\b",
+
+                translated,
+
+                flags=re.IGNORECASE
+            )
+        ):
+
+            warnings.append(
+                "missing_percentage"
+            )
+
+    # Validate known names and institutions.
+
+    normalized_translation = fold_accents(
+        translated
+    )
+
+    for expected in expected_glossary_terms(
+        original
+    ):
+
+        if fold_accents(expected) not in normalized_translation:
+
+            warnings.append(
+
+                "missing_glossary_term:"
+
+                + expected
+            )
+
+    # Detect known Version 1 mistranslations.
+
+    for source_pattern, bad_pattern in KNOWN_BAD_TRANSLATIONS:
+
+        if (
+
+            re.search(
+                source_pattern,
+                original,
+                flags=re.IGNORECASE
+            )
+
+            and re.search(
+                bad_pattern,
+                translated,
+                flags=re.IGNORECASE
+            )
+        ):
+
+            warnings.append(
+                "known_mistranslation"
+            )
+
+    # Detect unremoved protection tokens.
+
+    if re.search(
+
+        r"ZXQ\s*\d+\s*QXZ",
+
+        translated,
+
+        flags=re.IGNORECASE
+    ):
+
+        warnings.append(
+            "unrestored_placeholder"
+        )
+
+    # Detect largely unchanged Czech text.
+    # Proper nouns alone should not trigger this check.
+
+    if (
+
+        original_words >= 6
+
+        and original.casefold() == translated.casefold()
+    ):
+
+        warnings.append(
+            "untranslated_text"
+        )
+
+    return sorted(set(warnings))
+
+
+# ============================================================
+# JSON AND CACHE HELPERS
+# ============================================================
+
+def atomic_write_json(path, payload):
+
+    path.parent.mkdir(
+
+        parents=True,
+
+        exist_ok=True
+    )
+
+    temporary = path.with_suffix(
+        ".tmp"
+    )
+
+    temporary.write_text(
+
+        json.dumps(
+
+            payload,
+
+            ensure_ascii=False,
+
+            indent=2
+        ),
+
+        encoding="utf-8"
+    )
+
+    temporary.replace(path)
+
+
+def load_sentence_cache():
+
+    if not SENTENCE_CACHE_JSON.exists():
+
+        return {}
+
+    try:
+
+        data = json.loads(
+
+            SENTENCE_CACHE_JSON.read_text(
+                encoding="utf-8"
+            )
+        )
+
+        if isinstance(data, dict):
+
+            return data.get(
+                "translations",
+                {}
+            )
+
+    except Exception as exc:
+
+        print(
+            f"[WARN] Sentence cache could not be loaded: "
+            f"{exc}"
+        )
+
+    return {}
+
+
+def save_sentence_cache(cache):
+
+    atomic_write_json(
+
+        SENTENCE_CACHE_JSON,
+
+        {
+            "model": MODEL_NAME,
+
+            "translation_version": TRANSLATION_VERSION,
+
+            "updated_at_utc": utc_string(
+                utcnow()
+            ),
+
+            "count": len(cache),
+
+            "translations": cache,
+        }
+    )
+
+
+def sentence_cache_key(text):
+
+    return hash_key(
+
+        MODEL_NAME,
+
+        str(TRANSLATION_VERSION),
+
+        str(NUM_BEAMS),
+
+        normalize_space(text)
+    )
+
+
+# ============================================================
+# NLLB MODEL
+# ============================================================
+
+def load_translator():
 
     global TOKENIZER
     global MODEL
     global TORCH
 
     if MODEL is not None:
+
         return
 
     print(
         f"[MODEL] Loading {MODEL_NAME}"
     )
 
-    start = time.monotonic()
+    started = time.monotonic()
 
     import torch
 
     from transformers import (
+
         AutoTokenizer,
+
         AutoModelForSeq2SeqLM
     )
 
     TORCH = torch
 
-    torch.set_num_threads(CPU_THREADS)
+    available_threads = (
+        os.cpu_count() or CPU_THREADS
+    )
+
+    threads = min(
+
+        CPU_THREADS,
+
+        available_threads
+    )
+
+    torch.set_num_threads(
+        threads
+    )
 
     TOKENIZER = AutoTokenizer.from_pretrained(
 
@@ -882,7 +2045,7 @@ def load_translator() -> None:
 
         MODEL_NAME,
 
-        torch_dtype=torch.float32,
+        dtype=torch.float32,
 
         low_cpu_mem_usage=True,
     )
@@ -890,24 +2053,15 @@ def load_translator() -> None:
     MODEL.to("cpu")
     MODEL.eval()
 
-    elapsed = time.monotonic() - start
-
     print(
-        f"[MODEL] Loaded in {elapsed:.1f}s"
+
+        f"[MODEL] Loaded in "
+
+        f"{time.monotonic() - started:.1f}s"
     )
 
     print(
-        f"[MODEL] Source language: "
-        f"{SOURCE_LANGUAGE}"
-    )
-
-    print(
-        f"[MODEL] Target language: "
-        f"{TARGET_LANGUAGE}"
-    )
-
-    print(
-        f"[MODEL] CPU threads: {CPU_THREADS}"
+        f"[MODEL] CPU threads: {threads}"
     )
 
     print(
@@ -915,67 +2069,87 @@ def load_translator() -> None:
     )
 
 
-def translate_batch(
-    texts: List[str]
-) -> List[str]:
+def token_length(text):
+
+    return len(
+
+        TOKENIZER.encode(
+
+            text,
+
+            add_special_tokens=True
+        )
+    )
+
+
+def model_translate(texts, beams=None):
+
+    global MODEL_SENTENCES
 
     if not texts:
         return []
 
     load_translator()
 
-    texts = [
-        normalize_space(text)
+    lengths = [
+
+        token_length(text)
+
         for text in texts
     ]
 
-    results = [""] * len(texts)
+    # Never silently truncate input.
 
-    # Empty summaries should not consume inference time.
+    if max(lengths) > MAX_INPUT_TOKENS:
 
-    nonempty = [
-
-        (index, text)
-
-        for index, text in enumerate(texts)
-
-        if text
-    ]
-
-    if not nonempty:
-        return results
-
-    input_texts = [
-
-        text
-
-        for _, text in nonempty
-    ]
+        raise ValueError(
+            "Sentence exceeds model input token limit"
+        )
 
     inputs = TOKENIZER(
 
-        input_texts,
+        texts,
 
         return_tensors="pt",
 
         padding=True,
 
-        truncation=True,
-
-        max_length=MAX_INPUT_TOKENS,
+        truncation=False,
     )
 
     target_token = TOKENIZER.convert_tokens_to_ids(
+
         TARGET_LANGUAGE
     )
 
     if (
+
         target_token is None
+
         or target_token == TOKENIZER.unk_token_id
     ):
+
         raise ValueError(
-            "Invalid NLLB target language token"
+            "Invalid target language token"
         )
+
+    beam_count = beams or NUM_BEAMS
+
+    # Adaptive output limits preserve sufficient room
+    # for English translation while allowing detection
+    # of unusually long generations.
+
+    output_limit = min(
+
+        MAX_NEW_TOKENS,
+
+        max(
+
+            64,
+
+            int(max(lengths) * 2.5) + 24
+        )
+    )
 
     with TORCH.inference_mode():
 
@@ -985,44 +2159,351 @@ def translate_batch(
 
             forced_bos_token_id=target_token,
 
-            max_new_tokens=MAX_NEW_TOKENS,
+            max_new_tokens=output_limit,
 
-            num_beams=NUM_BEAMS,
+            num_beams=beam_count,
 
             do_sample=False,
 
-            early_stopping=(NUM_BEAMS > 1),
+            early_stopping=(beam_count > 1),
+
+            use_cache=True,
         )
 
-    decoded = TOKENIZER.batch_decode(
+    translations = TOKENIZER.batch_decode(
 
         outputs,
 
-        skip_special_tokens=True,
+        skip_special_tokens=True
     )
 
-    if len(decoded) != len(nonempty):
+    MODEL_SENTENCES += len(texts)
 
-        raise ValueError(
-            "Unexpected number of translations"
-        )
+    results = []
 
-    for (index, original), translated in zip(
-        nonempty,
-        decoded
+    for sequence, translation in zip(
+
+        outputs,
+
+        translations
     ):
 
-        translated = normalize_space(
-            translated
+        ids = sequence.tolist()
+
+        eos = TOKENIZER.eos_token_id
+        pad = TOKENIZER.pad_token_id
+
+        while ids and ids[-1] == pad:
+
+            ids.pop()
+
+        truncated = (
+
+            len(ids) >= output_limit + 1
+
+            or eos not in ids[1:]
         )
 
-        if not translated:
+        results.append({
 
-            raise ValueError(
-                f"Empty translation: {original[:80]}"
+            "text": normalize_space(
+                translation
+            ),
+
+            "truncated": truncated,
+        })
+
+    return results
+
+
+# ============================================================
+# SENTENCE TRANSLATION AND RETRY
+# ============================================================
+
+def translate_sentence_batch(sentences, cache):
+
+    global CACHE_HITS
+    global CACHE_MISSES
+
+    results = {}
+
+    missing = []
+
+    # Deduplicate identical sentences within the group.
+
+    unique_sentences = list(
+
+        dict.fromkeys(
+
+            normalize_space(sentence)
+
+            for sentence in sentences
+
+            if normalize_space(sentence)
+        )
+    )
+
+    for sentence in unique_sentences:
+
+        key = sentence_cache_key(
+            sentence
+        )
+
+        cached = cache.get(key)
+
+        if cached and cached.get("translation"):
+
+            CACHE_HITS += 1
+
+            results[sentence] = {
+
+                "translation": cached["translation"],
+
+                "warnings": [],
+
+                "cached": True,
+            }
+
+        else:
+
+            CACHE_MISSES += 1
+
+            missing.append(sentence)
+
+    if not missing:
+
+        return results
+
+    load_translator()
+
+    prepared = []
+
+    for sentence in missing:
+
+        protected, replacements = protect_terms(
+            sentence
+        )
+
+        prepared.append({
+
+            "original": sentence,
+
+            "protected": protected,
+
+            "replacements": replacements,
+
+            "length": token_length(
+                protected
+            ),
+        })
+
+    # Group sentences of similar lengths together.
+
+    prepared.sort(
+
+        key=lambda row: row["length"]
+    )
+
+    for start in range(
+
+        0,
+
+        len(prepared),
+
+        BATCH_SIZE
+    ):
+
+        batch = prepared[
+
+            start:start + BATCH_SIZE
+        ]
+
+        started = time.monotonic()
+
+        outputs = model_translate([
+
+            row["protected"]
+
+            for row in batch
+        ])
+
+        for row, output in zip(
+
+            batch,
+
+            outputs
+        ):
+
+            original = row["original"]
+
+            translated, missing_terms = restore_terms(
+
+                output["text"],
+
+                row["replacements"]
             )
 
-        results[index] = translated
+            warnings = validate_translation(
+
+                original,
+
+                translated
+            )
+
+            if missing_terms:
+
+                warnings.append(
+                    "missing_protected_terms"
+                )
+
+            if output["truncated"]:
+
+                warnings.append(
+                    "generation_truncated"
+                )
+
+            results[original] = {
+
+                "translation": translated,
+
+                "warnings": sorted(
+                    set(warnings)
+                ),
+
+                "cached": False,
+            }
+
+        print(
+
+            f"[SENTENCE BATCH] "
+
+            f"{len(batch)} sentences | "
+
+            f"{time.monotonic() - started:.1f}s"
+        )
+
+    # Retry only suspicious translations.
+
+    retry_sentences = [
+
+        sentence
+
+        for sentence in missing
+
+        if results[sentence]["warnings"]
+    ]
+
+    if retry_sentences:
+
+        print(
+
+            f"[VALIDATION] Retrying "
+
+            f"{len(retry_sentences)} suspicious sentences"
+        )
+
+    retry_sentences.sort(
+
+        key=lambda text: token_length(
+            glossary_expansion(text)
+        )
+    )
+
+    for start in range(
+
+        0,
+
+        len(retry_sentences),
+
+        BATCH_SIZE
+    ):
+
+        retry_batch = retry_sentences[
+
+            start:start + BATCH_SIZE
+        ]
+
+        retry_inputs = [
+
+            glossary_expansion(sentence)
+
+            for sentence in retry_batch
+        ]
+
+        retry_outputs = model_translate(
+
+            retry_inputs,
+
+            beams=max(NUM_BEAMS, 5)
+        )
+
+        for sentence, output in zip(
+
+            retry_batch,
+
+            retry_outputs
+        ):
+
+            translated = output["text"]
+
+            warnings = validate_translation(
+
+                sentence,
+
+                translated
+            )
+
+            if output["truncated"]:
+
+                warnings.append(
+                    "generation_truncated"
+                )
+
+            warnings = sorted(
+                set(warnings)
+            )
+
+            previous = results[sentence]
+
+            # Prefer the candidate with fewer detected
+            # problems, not merely the longer translation.
+
+            if len(warnings) < len(
+
+                previous["warnings"]
+            ):
+
+                results[sentence] = {
+
+                    "translation": translated,
+
+                    "warnings": warnings,
+
+                    "cached": False,
+                }
+
+    # Cache only sentences that pass validation.
+
+    for sentence in missing:
+
+        result = results[sentence]
+
+        if not result["warnings"]:
+
+            key = sentence_cache_key(
+                sentence
+            )
+
+            cache[key] = {
+
+                "original": sentence,
+
+                "translation": result["translation"],
+
+                "model": MODEL_NAME,
+
+                "version": TRANSLATION_VERSION,
+            }
 
     return results
 
@@ -1031,11 +2512,7 @@ def translate_batch(
 # ARTICLE PREPARATION
 # ============================================================
 
-def prepare_article(
-    row: dict
-) -> dict:
-
-    key = article_fingerprint(row)
+def prepare_article(row):
 
     item = {
 
@@ -1054,7 +2531,7 @@ def prepare_article(
             )
         ),
 
-        "fingerprint": key,
+        "fingerprint": article_fingerprint(row),
 
         "title_en": None,
 
@@ -1062,11 +2539,17 @@ def prepare_article(
 
         "translation_status": "pending",
 
+        "translation_version": 0,
+
         "translation_attempts": 0,
 
         "translation_provider": None,
 
+        "translation_method": None,
+
         "translation_error": None,
+
+        "translation_warnings": [],
 
         "translated_at_utc": None,
 
@@ -1075,11 +2558,17 @@ def prepare_article(
         ),
     }
 
-    # English sources never enter the translation queue.
+    classify_topics(
+
+        item,
+
+        include_translation=False
+    )
 
     if row["source_language"] == "en":
 
         item["title_en"] = row["title_raw"]
+
         item["lead_en"] = row["lead_raw"]
 
         item["translation_status"] = (
@@ -1090,16 +2579,10 @@ def prepare_article(
             "original_english"
         )
 
-    # Classify before translation.
+    elif (
 
-    classify_topics(
-        item,
-        include_translation=False
-    )
+        not item["relevant"]
 
-    if (
-        item["source_language"] == "cs"
-        and not item["relevant"]
         and not TRANSLATE_ALL
     ):
 
@@ -1110,32 +2593,13 @@ def prepare_article(
     return item
 
 
-def needs_translation(
-    article: dict
-) -> bool:
-
-    return (
-
-        article.get("source_language") == "cs"
-
-        and article.get("translation_status") in (
-            "pending",
-            "failed"
-        )
-    )
-
-
 # ============================================================
 # ARCHIVE MANAGEMENT
 # ============================================================
 
-def load_archive() -> Dict[str, dict]:
+def load_archive():
 
     if not ARCHIVE_JSON.exists():
-
-        print(
-            "[INFO] No existing archive found."
-        )
 
         return {}
 
@@ -1146,39 +2610,34 @@ def load_archive() -> Dict[str, dict]:
         )
     )
 
-    if isinstance(data, list):
+    rows = (
 
-        rows = data
+        data
 
-    elif isinstance(data, dict):
+        if isinstance(data, list)
 
-        rows = data.get("articles")
-
-    else:
-
-        raise ValueError(
-            "Unrecognized archive structure"
-        )
+        else data.get("articles")
+    )
 
     if not isinstance(rows, list):
 
         raise ValueError(
-            "Archive articles must be a list"
+            "Invalid archive structure"
         )
 
     archive = {}
 
-    for row in rows:
+    for article in rows:
 
-        key = article_fingerprint(row)
+        key = article_fingerprint(article)
 
-        # Compatibility with older archive formats.
+        article.setdefault(
 
-        if "source_language" not in row:
+            "source_language",
 
-            row["source_language"] = SOURCES.get(
+            SOURCES.get(
 
-                row.get("source", ""),
+                article.get("source", ""),
 
                 {}
 
@@ -1188,126 +2647,80 @@ def load_archive() -> Dict[str, dict]:
 
                 "cs"
             )
+        )
 
-        if "translation_status" not in row:
+        if "translation_status" not in article:
 
-            if row["source_language"] == "en":
+            if article["source_language"] == "en":
 
-                row["translation_status"] = (
+                article["translation_status"] = (
                     "not_required"
                 )
 
-                row["title_en"] = row.get(
-                    "title_raw", ""
-                )
+            elif article.get("title_en"):
 
-                row["lead_en"] = row.get(
-                    "lead_raw", ""
-                )
-
-            elif (
-                row.get("title_en")
-                and (
-                    not row.get("lead_raw")
-                    or row.get("lead_en")
-                )
-            ):
-
-                row["translation_status"] = (
+                article["translation_status"] = (
                     "completed"
                 )
 
             else:
 
-                row["translation_status"] = (
+                article["translation_status"] = (
                     "pending"
                 )
 
-        row.setdefault(
+        article.setdefault(
+
+            "translation_version",
+
+            1 if article["translation_status"] == "completed"
+
+            else 0
+        )
+
+        article.setdefault(
             "translation_attempts",
             0
         )
 
-        row.setdefault(
-            "translation_provider",
-            None
+        article.setdefault(
+            "translation_warnings",
+            []
         )
 
-        row.setdefault(
+        article.setdefault(
             "translation_error",
             None
         )
 
-        row.setdefault(
-            "translated_at_utc",
-            None
+        article.setdefault(
+            "repair_attempts",
+            0
         )
 
-        row["fingerprint"] = key
+        article["fingerprint"] = key
 
-        archive[key] = row
+        archive[key] = article
 
     return archive
 
 
-def sorted_articles(
-    archive: Dict[str, dict]
-) -> List[dict]:
+def sorted_articles(archive):
 
     return sorted(
 
         archive.values(),
 
         key=lambda article: article.get(
-            "published_utc", ""
+            "published_utc",
+            ""
         ),
 
         reverse=True
     )
 
 
-# ============================================================
-# JSON OUTPUT
-# ============================================================
-
-def atomic_write_json(
-    path: Path,
-    payload: dict
-) -> None:
-
-    path.parent.mkdir(
-
-        parents=True,
-
-        exist_ok=True
-    )
-
-    temp_path = path.with_suffix(
-        ".tmp"
-    )
-
-    temp_path.write_text(
-
-        json.dumps(
-
-            payload,
-
-            ensure_ascii=False,
-
-            indent=2,
-        ),
-
-        encoding="utf-8"
-    )
-
-    temp_path.replace(path)
-
-
-def build_payload(
-    articles: List[dict],
-    now: datetime,
-    **extra
-) -> dict:
+def build_payload(articles, now, **extra):
 
     return {
 
@@ -1325,10 +2738,7 @@ def build_payload(
     }
 
 
-def save_archive(
-    archive: Dict[str, dict],
-    now: datetime
-) -> None:
+def save_archive(archive, now):
 
     atomic_write_json(
 
@@ -1343,9 +2753,543 @@ def save_archive(
     )
 
 
-def is_publishable(
-    article: dict
-) -> bool:
+# ============================================================
+# SELECTIVE REPAIR OF VERSION 1 TRANSLATIONS
+# ============================================================
+
+def identify_repair_reasons(article):
+
+    if article.get("source_language") != "cs":
+
+        return []
+
+    if article.get("translation_status") != "completed":
+
+        return []
+
+    if article.get("translation_version", 0) >= TRANSLATION_VERSION:
+
+        return []
+
+    if article.get("repair_attempts", 0) >= 2:
+
+        return []
+
+    reasons = []
+
+    for raw_field, english_field in (
+
+        ("title_raw", "title_en"),
+
+        ("lead_raw", "lead_en")
+    ):
+
+        original = article.get(
+            raw_field,
+            ""
+        )
+
+        translated = article.get(
+            english_field,
+            ""
+        )
+
+        original_sentences = split_sentences(
+            original
+        )
+
+        translated_sentences = split_sentences(
+            translated
+        )
+
+        if len(original_sentences) > 1:
+
+            reasons.append(
+
+                f"{raw_field}:legacy_multi_sentence"
+            )
+
+        if len(translated_sentences) < len(
+            original_sentences
+        ):
+
+            reasons.append(
+
+                f"{raw_field}:possible_sentence_omission"
+            )
+
+        for warning in validate_translation(
+
+            original,
+
+            translated
+        ):
+
+            reasons.append(
+
+                f"{raw_field}:{warning}"
+            )
+
+    return sorted(set(reasons))
+
+
+def update_classifications(archive):
+
+    reconsidered = 0
+
+    for article in archive.values():
+
+        status = article.get(
+            "translation_status"
+        )
+
+        include_translation = status in (
+
+            "completed",
+
+            "not_required",
+
+            "review_required"
+        )
+
+        classify_topics(
+
+            article,
+
+            include_translation=include_translation
+        )
+
+        if article.get("source_language") != "cs":
+
+            continue
+
+        if (
+
+            status == "not_relevant"
+
+            and (
+
+                article["relevant"]
+
+                or TRANSLATE_ALL
+            )
+        ):
+
+            article["translation_status"] = (
+                "pending"
+            )
+
+            reconsidered += 1
+
+        elif (
+
+            status in ("pending", "failed")
+
+            and not article["relevant"]
+
+            and not TRANSLATE_ALL
+        ):
+
+            article["translation_status"] = (
+                "not_relevant"
+            )
+
+    print(
+
+        f"[CLASSIFICATION] "
+
+        f"{reconsidered} previously irrelevant "
+
+        f"articles reconsidered"
+    )
+
+
+# ============================================================
+# ARTICLE TRANSLATION
+# ============================================================
+
+def translate_article_group(articles, cache, repair=False):
+
+    sentence_map = {}
+
+    all_sentences = []
+
+    for article in articles:
+
+        key = article["fingerprint"]
+
+        title_sentences = split_sentences(
+
+            article.get("title_raw", "")
+        )
+
+        lead_sentences = split_sentences(
+
+            article.get("lead_raw", "")
+        )
+
+        sentence_map[key] = {
+
+            "title": title_sentences,
+
+            "lead": lead_sentences,
+        }
+
+        all_sentences.extend(
+            title_sentences
+        )
+
+        all_sentences.extend(
+            lead_sentences
+        )
+
+    translated_sentences = translate_sentence_batch(
+
+        all_sentences,
+
+        cache
+    )
+
+    completed = 0
+    flagged = 0
+
+    for article in articles:
+
+        key = article["fingerprint"]
+
+        original_title_sentences = (
+
+            sentence_map[key]["title"]
+        )
+
+        original_lead_sentences = (
+
+            sentence_map[key]["lead"]
+        )
+
+        title_parts = [
+
+            translated_sentences[sentence]["translation"]
+
+            for sentence in original_title_sentences
+        ]
+
+        lead_parts = [
+
+            translated_sentences[sentence]["translation"]
+
+            for sentence in original_lead_sentences
+        ]
+
+        title_en = join_sentences(
+
+            original_title_sentences,
+
+            title_parts
+        )
+
+        lead_en = join_sentences(
+
+            original_lead_sentences,
+
+            lead_parts
+        )
+
+        warnings = []
+
+        for field, sentences in (
+
+            ("title", original_title_sentences),
+
+            ("lead", original_lead_sentences)
+        ):
+
+            for index, sentence in enumerate(
+                sentences
+            ):
+
+                for warning in translated_sentences[
+
+                    sentence
+
+                ]["warnings"]:
+
+                    warnings.append(
+
+                        f"{field}_{index + 1}:{warning}"
+                    )
+
+        article["translation_attempts"] = (
+
+            article.get("translation_attempts", 0)
+
+            + 1
+        )
+
+        if repair:
+
+            article["repair_attempts"] = (
+
+                article.get("repair_attempts", 0)
+
+                + 1
+            )
+
+            # Keep the original translation for comparison.
+
+            if "previous_translation" not in article:
+
+                article["previous_translation"] = {
+
+                    "title_en": article.get("title_en"),
+
+                    "lead_en": article.get("lead_en"),
+
+                    "translation_version": article.get(
+                        "translation_version",
+                        1
+                    ),
+                }
+
+        article["title_en"] = title_en
+
+        article["lead_en"] = lead_en
+
+        article["translation_version"] = (
+            TRANSLATION_VERSION
+        )
+
+        article["translation_provider"] = (
+            MODEL_NAME
+        )
+
+        article["translation_method"] = (
+            "sentence_by_sentence"
+        )
+
+        article["translated_at_utc"] = utc_string(
+            utcnow()
+        )
+
+        article["translation_warnings"] = sorted(
+            set(warnings)
+        )
+
+        article["translation_error"] = None
+
+        article["sentence_counts"] = {
+
+            "title": len(original_title_sentences),
+
+            "lead": len(original_lead_sentences),
+        }
+
+        if warnings:
+
+            article["translation_status"] = (
+                "review_required"
+            )
+
+            flagged += 1
+
+        else:
+
+            article["translation_status"] = (
+                "completed"
+            )
+
+            completed += 1
+
+        classify_topics(
+
+            article,
+
+            include_translation=True
+        )
+
+        print(
+
+            f"[{'REPAIRED' if repair else 'TRANSLATED'}] "
+
+            f"{article['title_raw']}"
+        )
+
+        print(
+            f"    -> {title_en}"
+        )
+
+        print(
+            f"[TOPICS] {article['topics']}"
+        )
+
+        print(
+
+            "[MATCHES] "
+
+            + json.dumps(
+
+                {
+
+                    topic: keywords
+
+                    for topic, keywords in article[
+
+                        "matched_keywords"
+
+                    ].items()
+
+                    if keywords
+                },
+
+                ensure_ascii=False
+            )
+        )
+
+        if warnings:
+
+            print(
+                f"[REVIEW] {warnings}"
+            )
+
+    return completed, flagged
+
+
+# ============================================================
+# TRANSLATION QUEUE
+# ============================================================
+
+def process_queue(
+
+    queue,
+
+    archive,
+
+    cache,
+
+    repair=False
+):
+
+    completed = 0
+    flagged = 0
+    processed = 0
+
+    for start in range(
+
+        0,
+
+        len(queue),
+
+        ARTICLE_GROUP_SIZE
+    ):
+
+        if runtime_exceeded():
+
+            print(
+
+                "[INFO] Runtime budget reached; "
+
+                "remaining articles retained for next run."
+            )
+
+            break
+
+        group = queue[
+
+            start:start + ARTICLE_GROUP_SIZE
+        ]
+
+        started = time.monotonic()
+
+        print(
+
+            f"[GROUP] "
+
+            f"{len(group)} "
+
+            f"{'repair' if repair else 'new'} articles"
+        )
+
+        try:
+
+            good, needs_review = translate_article_group(
+
+                group,
+
+                cache,
+
+                repair=repair
+            )
+
+            completed += good
+            flagged += needs_review
+            processed += len(group)
+
+        except Exception as exc:
+
+            print(
+
+                f"[ERROR] Translation group failed: "
+
+                f"{type(exc).__name__}: {exc}"
+            )
+
+            for article in group:
+
+                article["translation_error"] = str(
+                    exc
+                )
+
+                if not repair:
+
+                    article["translation_status"] = (
+                        "failed"
+                    )
+
+            save_archive(
+
+                archive,
+
+                utcnow()
+            )
+
+            save_sentence_cache(cache)
+
+            break
+
+        save_archive(
+
+            archive,
+
+            utcnow()
+        )
+
+        save_sentence_cache(cache)
+
+        print(
+
+            f"[GROUP] Completed in "
+
+            f"{time.monotonic() - started:.1f}s"
+        )
+
+        print(
+
+            f"[PROGRESS] "
+
+            f"{processed}/{len(queue)} articles processed"
+        )
+
+    return completed, flagged
+
+
+# ============================================================
+# OUTPUT FILES
+# ============================================================
+
+def is_publishable(article):
+
+    # Suspicious translations are retained in the archive
+    # for inspection but excluded from the English feeds.
 
     return article.get(
 
@@ -1359,10 +3303,7 @@ def is_publishable(
     )
 
 
-def write_output_files(
-    archive: Dict[str, dict],
-    now: datetime
-) -> None:
+def write_output_files(archive, now):
 
     all_articles = sorted_articles(
         archive
@@ -1373,9 +3314,6 @@ def write_output_files(
         now
     )
 
-    # Latest and topic feeds only contain articles
-    # that are ready to display in English.
-
     latest = [
 
         article
@@ -1385,6 +3323,15 @@ def write_output_files(
         if within_window(article, now)
 
         and is_publishable(article)
+
+        and (
+
+            article.get("relevant")
+
+            or TRANSLATE_ALL
+
+            or article.get("source_language") == "en"
+        )
     ]
 
     atomic_write_json(
@@ -1410,7 +3357,8 @@ def write_output_files(
             for article in latest
 
             if topic in article.get(
-                "topics", []
+                "topics",
+                []
             )
         ]
 
@@ -1431,8 +3379,7 @@ def write_output_files(
         )
 
         print(
-            f"[OK] {topic}: "
-            f"{len(subset)} articles"
+            f"[OK] {topic}: {len(subset)} articles"
         )
 
     print(
@@ -1440,246 +3387,21 @@ def write_output_files(
     )
 
     print(
-        f"[OK] Archive articles: "
-        f"{len(all_articles)}"
+        f"[OK] Archive articles: {len(all_articles)}"
     )
-
-
-# ============================================================
-# TRANSLATION QUEUE
-# ============================================================
-
-def translate_pending_articles(
-
-    archive: Dict[str, dict],
-
-    now: datetime
-
-) -> int:
-
-    pending = [
-
-        article
-
-        for article in archive.values()
-
-        if needs_translation(article)
-    ]
-
-    # Prioritize recent news, followed by the older backlog.
-
-    pending.sort(
-
-        key=lambda article: (
-
-            within_window(article, now),
-
-            article.get("published_utc", "")
-        ),
-
-        reverse=True
-    )
-
-    print(
-        f"[INFO] Total pending translations: "
-        f"{len(pending)}"
-    )
-
-    selected = pending[:TRANSLATE_LIMIT]
-
-    print(
-        f"[INFO] Selected for this run: "
-        f"{len(selected)}"
-    )
-
-    if not selected:
-
-        print(
-            "[INFO] No translations required."
-        )
-
-        return 0
-
-    load_translator()
-
-    completed = 0
-
-    for start in range(
-
-        0,
-
-        len(selected),
-
-        BATCH_SIZE
-    ):
-
-        batch = selected[
-
-            start:start + BATCH_SIZE
-        ]
-
-        batch_number = (
-
-            start // BATCH_SIZE + 1
-        )
-
-        batch_start = time.monotonic()
-
-        print(
-            f"[BATCH] {batch_number}: "
-            f"{len(batch)} articles"
-        )
-
-        for article in batch:
-
-            article["translation_attempts"] += 1
-
-        try:
-
-            titles = [
-
-                article.get("title_raw", "")
-
-                for article in batch
-            ]
-
-            leads = [
-
-                article.get("lead_raw", "")
-
-                for article in batch
-            ]
-
-            translated_titles = translate_batch(
-                titles
-            )
-
-            translated_leads = translate_batch(
-                leads
-            )
-
-            for article, title_en, lead_en in zip(
-
-                batch,
-
-                translated_titles,
-
-                translated_leads
-            ):
-
-                article["title_en"] = title_en
-
-                article["lead_en"] = lead_en
-
-                article["translation_status"] = (
-                    "completed"
-                )
-
-                article["translation_provider"] = (
-                    MODEL_NAME
-                )
-
-                article["translated_at_utc"] = (
-                    utc_string(utcnow())
-                )
-
-                article["translation_error"] = None
-
-                # Reclassify using both Czech and English.
-
-                classify_topics(
-
-                    article,
-
-                    include_translation=True
-                )
-
-                completed += 1
-
-                print(
-                    f"[TRANSLATED] "
-                    f"{article['title_raw']}"
-                )
-
-                print(
-                    f"          -> {title_en}"
-                )
-
-                print(
-                    f"[TOPICS] "
-                    f"{article['topics']}"
-                )
-
-        except Exception as exc:
-
-            print(
-                f"[ERROR] Batch translation failed: "
-                f"{type(exc).__name__}: {exc}"
-            )
-
-            for article in batch:
-
-                article["translation_status"] = (
-                    "failed"
-                )
-
-                article["translation_error"] = str(
-                    exc
-                )
-
-            save_archive(
-                archive,
-                now
-            )
-
-            # Stop to avoid repeatedly failing
-            # with an unavailable or broken model.
-
-            break
-
-        # Save completed translations immediately.
-
-        save_archive(
-
-            archive,
-
-            now
-        )
-
-        elapsed = (
-
-            time.monotonic() - batch_start
-        )
-
-        print(
-            f"[BATCH] Completed in "
-            f"{elapsed:.1f}s"
-        )
-
-        print(
-            f"[PROGRESS] "
-            f"{completed}/{len(selected)} "
-            f"articles translated"
-        )
-
-    return completed
 
 
 # ============================================================
 # MAIN
 # ============================================================
 
-def main() -> int:
+def main():
 
     now = utcnow()
 
-    start_time = time.monotonic()
-
     print("=" * 65)
 
-    print(
-        "[INFO] Czech Media Tracker"
-    )
+    print("[INFO] Czech Media Tracker — Version 2")
 
     print(
         f"[INFO] Run time: {utc_string(now)}"
@@ -1690,64 +3412,56 @@ def main() -> int:
     )
 
     print(
-        f"[INFO] Rolling window: "
-        f"{KEEP_HOURS} hours"
+        f"[INFO] Rolling window: {KEEP_HOURS} hours"
     )
 
     print(
-        f"[INFO] Translation limit: "
-        f"{TRANSLATE_LIMIT} articles"
+        f"[INFO] Translation version: {TRANSLATION_VERSION}"
     )
 
     print(
-        f"[INFO] Batch size: {BATCH_SIZE}"
+        f"[INFO] Translation limit: {TRANSLATE_LIMIT}"
     )
 
     print(
-        f"[INFO] Translate all: {TRANSLATE_ALL}"
+        f"[INFO] Repair limit: {REPAIR_LIMIT}"
+    )
+
+    print(
+        f"[INFO] Sentence batch size: {BATCH_SIZE}"
+    )
+
+    print(
+        f"[INFO] Runtime budget: {MAX_RUNTIME_MINUTES} minutes"
     )
 
     print("=" * 65)
 
     # --------------------------------------------------------
-    # 1. Load persistent archive.
+    # 1. Load archive and persistent sentence cache.
     # --------------------------------------------------------
 
     archive = load_archive()
 
-    existing_count = len(archive)
+    cache = load_sentence_cache()
 
-    completed_before = sum(
-
-        1
-
-        for article in archive.values()
-
-        if article.get("translation_status")
-        == "completed"
+    print(
+        f"[INFO] Existing archive: {len(archive)} articles"
     )
 
     print(
-        f"[INFO] Existing archive: "
-        f"{existing_count} articles"
-    )
-
-    print(
-        f"[INFO] Previously translated: "
-        f"{completed_before} articles"
+        f"[INFO] Cached sentences: {len(cache)}"
     )
 
     # --------------------------------------------------------
-    # 2. Collect new RSS articles.
+    # 2. Collect new articles.
     # --------------------------------------------------------
 
     new_count = 0
     duplicate_count = 0
-    new_english_count = 0
-    new_pending_count = 0
-    new_irrelevant_count = 0
-
-    successful_sources = 0
+    new_english = 0
+    new_pending = 0
+    new_irrelevant = 0
 
     for source_name, config in SOURCES.items():
 
@@ -1769,16 +3483,18 @@ def main() -> int:
         except Exception as exc:
 
             print(
+
                 f"[ERROR] RSS source failed: "
+
                 f"{source_name}: {exc}"
             )
 
             continue
 
-        successful_sources += 1
-
         print(
+
             f"[RSS] {source_name}: "
+
             f"{len(rows)} recent articles"
         )
 
@@ -1787,8 +3503,6 @@ def main() -> int:
             key = article_fingerprint(
                 row
             )
-
-            # Never reprocess an article already stored.
 
             if key in archive:
 
@@ -1804,51 +3518,47 @@ def main() -> int:
 
             new_count += 1
 
-            status = article[
-                "translation_status"
-            ]
+            status = article["translation_status"]
 
             if status == "not_required":
 
-                new_english_count += 1
+                new_english += 1
 
             elif status == "pending":
 
-                new_pending_count += 1
+                new_pending += 1
 
-            elif status == "not_relevant":
+            else:
 
-                new_irrelevant_count += 1
-
-    print("=" * 65)
+                new_irrelevant += 1
 
     print(
         f"[INFO] New articles: {new_count}"
     )
 
     print(
-        f"[INFO] Duplicates skipped: "
-        f"{duplicate_count}"
+        f"[INFO] Duplicates skipped: {duplicate_count}"
     )
 
     print(
-        f"[INFO] New English articles: "
-        f"{new_english_count}"
+        f"[INFO] New English articles: {new_english}"
     )
 
     print(
-        f"[INFO] New Czech translation candidates: "
-        f"{new_pending_count}"
+        f"[INFO] New translation candidates: {new_pending}"
     )
 
     print(
-        f"[INFO] New irrelevant Czech articles: "
-        f"{new_irrelevant_count}"
+        f"[INFO] New irrelevant articles: {new_irrelevant}"
     )
 
     # --------------------------------------------------------
-    # 3. Save collection before loading the model.
+    # 3. Reclassify the existing archive using Version 2.
     # --------------------------------------------------------
+
+    update_classifications(
+        archive
+    )
 
     save_archive(
         archive,
@@ -1861,71 +3571,176 @@ def main() -> int:
     )
 
     print(
-        "[OK] Original articles saved."
+        "[OK] Original articles and classifications saved."
     )
 
     # --------------------------------------------------------
-    # 4. Reconsider untranslated articles if settings
-    #    or keywords have changed.
+    # 4. Identify new translation candidates.
     # --------------------------------------------------------
 
-    for article in archive.values():
+    pending = [
 
-        if article.get("translation_status") == (
-            "not_relevant"
-        ):
+        article
 
-            classify_topics(
+        for article in archive.values()
 
-                article,
+        if article.get("source_language") == "cs"
 
-                include_translation=False
-            )
+        and article.get("translation_status") in (
 
-            if (
-                TRANSLATE_ALL
-                or article["relevant"]
+            "pending",
+
+            "failed"
+        )
+    ]
+
+    pending.sort(
+
+        key=lambda article: (
+
+            within_window(article, now),
+
+            article.get("published_utc", "")
+        ),
+
+        reverse=True
+    )
+
+    pending_queue = pending[:TRANSLATE_LIMIT]
+
+    print(
+        f"[INFO] Pending translations: {len(pending)}"
+    )
+
+    print(
+        f"[INFO] Selected new translations: {len(pending_queue)}"
+    )
+
+    # --------------------------------------------------------
+    # 5. Identify older translations requiring repair.
+    # --------------------------------------------------------
+
+    repair_candidates = []
+
+    if RETRANSLATE_INCOMPLETE:
+
+        for article in archive.values():
+
+            if not (
+
+                article.get("relevant")
+
+                or TRANSLATE_ALL
             ):
 
-                article["translation_status"] = (
-                    "pending"
+                continue
+
+            reasons = identify_repair_reasons(
+                article
+            )
+
+            if reasons:
+
+                article["repair_reasons"] = reasons
+
+                repair_candidates.append(
+                    article
                 )
 
-    save_archive(
-        archive,
-        now
+        repair_candidates.sort(
+
+            key=lambda article: (
+
+                within_window(article, now),
+
+                len(
+                    article.get("repair_reasons", [])
+                ),
+
+                article.get("published_utc", "")
+            ),
+
+            reverse=True
+        )
+
+    repair_queue = repair_candidates[:REPAIR_LIMIT]
+
+    print(
+
+        f"[INFO] Legacy translations requiring repair: "
+
+        f"{len(repair_candidates)}"
+    )
+
+    print(
+
+        f"[INFO] Selected repairs: "
+
+        f"{len(repair_queue)}"
     )
 
     # --------------------------------------------------------
-    # 5. Translate pending articles.
+    # 6. Translate new articles first.
     # --------------------------------------------------------
 
-    translated_count = 0
+    new_completed = 0
+    new_flagged = 0
+    repaired = 0
+    repair_flagged = 0
 
     try:
 
-        translated_count = translate_pending_articles(
+        if pending_queue:
 
-            archive,
+            new_completed, new_flagged = process_queue(
 
-            now
-        )
+                pending_queue,
+
+                archive,
+
+                cache,
+
+                repair=False
+            )
+
+        # ----------------------------------------------------
+        # 7. Repair older translations within runtime budget.
+        # ----------------------------------------------------
+
+        if (
+
+            repair_queue
+
+            and not runtime_exceeded()
+        ):
+
+            repaired, repair_flagged = process_queue(
+
+                repair_queue,
+
+                archive,
+
+                cache,
+
+                repair=True
+            )
 
     except Exception as exc:
 
         print(
+
             f"[ERROR] Translation stage failed: "
+
             f"{type(exc).__name__}: {exc}"
         )
 
-        print(
-            "[WARN] Articles remain saved "
-            "for future translation."
-        )
+    # --------------------------------------------------------
+    # 8. Persist cache and final output.
+    # --------------------------------------------------------
 
-    # --------------------------------------------------------
-    # 6. Generate all final output files.
-    # --------------------------------------------------------
+    save_sentence_cache(
+        cache
+    )
 
     write_output_files(
 
@@ -1934,89 +3749,90 @@ def main() -> int:
         utcnow()
     )
 
-    # --------------------------------------------------------
-    # 7. Final statistics.
-    # --------------------------------------------------------
+    statuses = Counter(
 
-    statuses = {
+        article.get(
 
-        "completed": 0,
-
-        "pending": 0,
-
-        "failed": 0,
-
-        "not_required": 0,
-
-        "not_relevant": 0,
-    }
-
-    for article in archive.values():
-
-        status = article.get(
             "translation_status",
+
             "pending"
         )
 
-        statuses[status] = (
-
-            statuses.get(status, 0) + 1
-        )
-
-    elapsed = (
-
-        time.monotonic() - start_time
+        for article in archive.values()
     )
+
+    elapsed = time.monotonic() - RUN_START
 
     print("=" * 65)
 
+    print("[OK] Czech Media Tracker Version 2 completed")
+
     print(
-        "[OK] Czech Media Tracker completed"
+        f"[OK] New articles collected: {new_count}"
     )
 
     print(
-        f"[OK] New articles collected: "
-        f"{new_count}"
+        f"[OK] New validated translations: {new_completed}"
     )
 
     print(
-        f"[OK] Newly translated articles: "
-        f"{translated_count}"
+        f"[OK] Legacy translations repaired: {repaired}"
     )
 
     print(
-        f"[OK] Total translated articles: "
-        f"{statuses['completed']}"
+        f"[INFO] New translations flagged: {new_flagged}"
     )
 
     print(
-        f"[OK] Original English articles: "
-        f"{statuses['not_required']}"
+        f"[INFO] Repairs flagged: {repair_flagged}"
     )
 
     print(
-        f"[INFO] Pending translations: "
-        f"{statuses['pending']}"
+        f"[OK] Completed translations: {statuses['completed']}"
     )
 
     print(
-        f"[INFO] Failed translations: "
-        f"{statuses['failed']}"
+        f"[OK] Original English articles: {statuses['not_required']}"
     )
 
     print(
-        f"[INFO] Irrelevant articles archived: "
-        f"{statuses['not_relevant']}"
+        f"[INFO] Pending translations: {statuses['pending']}"
     )
 
     print(
-        f"[OK] Total archived articles: "
-        f"{len(archive)}"
+        f"[INFO] Failed translations: {statuses['failed']}"
     )
 
     print(
-        f"[INFO] Runtime: "
-        f"{elapsed:.1f} seconds"
+        f"[INFO] Review required: {statuses['review_required']}"
+    )
+
+    print(
+        f"[INFO] Irrelevant articles: {statuses['not_relevant']}"
+    )
+
+    print(
+        f"[CACHE] Hits: {CACHE_HITS}"
+    )
+
+    print(
+        f"[CACHE] Misses: {CACHE_MISSES}"
+    )
+
+    print(
+        f"[CACHE] Total stored sentences: {len(cache)}"
+    )
+
+    print(
+        f"[MODEL] Sentences inferred: {MODEL_SENTENCES}"
+    )
+
+    print(
+        f"[OK] Total archived articles: {len(archive)}"
+    )
+
+    print(
+        f"[INFO] Runtime: {elapsed:.1f} seconds"
     )
 
     print("=" * 65)
