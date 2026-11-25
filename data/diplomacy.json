@@ -1,9 +1,9 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T14:33:49Z",
+  "updated_at_utc": "2026-11-25T14:40:44Z",
   "topic": "diplomacy",
-  "count": 3,
+  "count": 7,
   "articles": [
     {
       "id": "249f0d5db485de057504e10096760b8075ac68a8",
@@ -304,6 +304,390 @@
       "primary_topic": "domestic_politics",
       "classification_version": 4,
       "translated_at_utc": "2026-11-25T14:33:44Z"
+    },
+    {
+      "id": "a9879ea911e87e61dc65ad2184e477a37f3637c1",
+      "fingerprint": "d2914815b63f0a2c676f723f97e743fe458822ff",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/senat-bude-schvalovat-novelu-proti-lakovani-zbozi-nazeleno-379929",
+      "published_utc": "2026-11-25T09:12:02Z",
+      "collected_at_utc": "2026-11-25T14:33:37Z",
+      "title_raw": "Senát schválil novelu, která má zamezit lakování zboží nazeleno",
+      "lead_raw": "Senát schválil bez úprav novelu, která má zabránit klamavému informování o dopadech výrobků na životní prostředí, takzvanému lakování nazeleno. Výrobci do budoucna nebudou moci odmítnout opravu svého produktu pouze kvůli tomu, že jej dříve opravoval někdo jiný, odsouhlasili dále senátoři. Horní komora také vyzvala vládu, aby na nadcházejícím summitu Evropské unie podpořila unijní půjčku na podporu Ukrajiny.",
+      "title_en": "The Senate approved an amendment aimed at preventing goods from being painted green.",
+      "lead_en": "The Senate approved an amendment without amendments aimed at preventing misleading information about the environmental impacts of products, so-called green lacquering. In the future, manufacturers will no longer be able to refuse to repair their product solely because someone else previously repaired it, senators further agreed. The upper chamber also called on the government to support the EU loan to support Ukraine at the upcoming European Union summit.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 22,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "summit"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "government",
+          "parliament",
+          "legislation"
+        ],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "summit",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "legislation",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:42Z"
+    },
+    {
+      "id": "a27f6affd03e63dc93d7596e9fb8d34d2411d37f",
+      "fingerprint": "41d77d00cdae4d64f4c46511bdb4f5579e0e393c",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/sili-napeti-kvuli-neshodam-o-podobe-budouciho-rozpoctu-eu-vytky-ma-i-cesko-379926",
+      "published_utc": "2026-11-25T07:54:51Z",
+      "collected_at_utc": "2026-11-25T14:33:37Z",
+      "title_raw": "Sílí napětí kvůli neshodám o podobě budoucího rozpočtu EU, výtky má i Česko",
+      "lead_raw": "Mimořádný summit Evropské unie v Bruselu by měl na konci pracovního týdne schválit klíčové kontury víceletého rozpočtu. Podle předsedy Evropské rady Antónia Costy „nastal čas na dohodu“, jak uvedl v dopise adresovaném lídrům členských zemí. Dohodu ovšem může zkomplikovat spor o finanční podporu Ukrajině. Česko a další tři země daly najevo, že se na ní podílet nechtějí. Německo však trvá na jednotném zapojení celé sedmadvacítky a hrozí zablokováním jednání.",
+      "title_en": "Tensions are rising due to disagreements over the shape of the future EU budget, with the Czech Republic also criticizing it",
+      "lead_en": "An extraordinary European Union summit in Brussels is expected to approve the key outlines of the multiannual budget at the end of the workweek. According to European Council President António Costa, \"the time for an agreement has come,\" as he stated in a letter addressed to the leaders of member states. However, the agreement could be complicated by a dispute over financial support for Ukraine. The Czech Republic and three other countries have indicated that they do not want to participate. Germany, however, insists on a unified engagement of the entire twenty-seven and threatens to block the negotiations.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 10,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "summit",
+          "negotiations"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "generic_budget"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "summit",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "negotiations",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "diplomacy",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:42Z"
+    },
+    {
+      "id": "ef4b4de4436f8255ce32133211ee7986fa803bc3",
+      "fingerprint": "10a9970f63be8e456323bd392d1a77978da2daaa",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/izrael-se-musi-pripravit-klicovy-verdikt-rika-ze-sebeobrana-genocidu-neomlouva-379905",
+      "published_utc": "2026-11-25T05:00:00Z",
+      "collected_at_utc": "2026-11-25T14:33:37Z",
+      "title_raw": "„Izrael se musí připravit.“ Klíčový verdikt říká, že obrana genocidu neomlouvá",
+      "lead_raw": "Přelomový verdikt Mezinárodního soudního dvora OSN (ICJ) v případu Gambie proti Myanmaru, který byl uznán jako stát odpovědný za genocidu na rohingské menšině, může mít dalekosáhlé důsledky pro Izrael a jeho spor s Jihoafrickou republikou kvůli Gaze, míní experti. V obou případech dochází k útokům, při nichž umírají děti, obě strany také argumentují sebeobranou, soud ale u Myanmaru nevyloučil souběh protiteroristické operace s genocidou. Rozsudek podle expertů poškodí pověst dané země a může vést k omezení diplomatických vazeb či sankcím ze strany třetích států.",
+      "title_en": "\"Israel must prepare.\" The key verdict states that defense does not excuse genocide",
+      "lead_en": "The landmark ruling of the United Nations International Court of Justice (ICJ) in the case of Gambia vs. Myanmar, which was recognized as a state responsible for genocide against the Rohingya minority, could have far-reaching consequences for Israel and its dispute with South Africa over Gaza, experts believe. In both cases, attacks occur in which children die, both sides also argue self-defense, but the court did not rule out the simultaneous anti-terrorist operation with genocide in Myanmar. According to experts, the verdict will damage the country's reputation and may lead to a reduction of diplomatic ties or sanctions from third countries.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 9,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 12,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "diplomacy"
+        ],
+        "military": [
+          "defense"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "sanctions",
+          "international_organizations"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "diplomacy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [
+          {
+            "concept": "defense",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "sanctions",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "international_organizations",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:42Z"
+    },
+    {
+      "id": "e22103092141cb5165cffb39915c6d97d277fdd7",
+      "fingerprint": "a456979fb97a092b25840afb9f7ee049be9cab54",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/macinka-stanovisko-snemovny-ke-strelam-v-polsku-neni-nezbytne/2904762",
+      "published_utc": "2026-11-24T12:50:00Z",
+      "collected_at_utc": "2026-11-25T14:33:35Z",
+      "title_raw": "Macinka: Stanovisko Sněmovny ke střelám v Polsku není nezbytné",
+      "lead_raw": "Praha - Česká vláda už stanovisko ke střelám v Polsku vyjádřila a není nezbytné, aby postoj zopakovala v usnesení Sněmovna. V úvodu dnešní schůze dolní komory to řekl ministr zahraničí Petr Macinka (Motoristé)....",
+      "title_en": "Macinka: The Chamber's position on the missiles in Poland is not necessary",
+      "lead_en": "Prague - The Czech government has already expressed a position on the missiles in Poland, and it is not necessary for the Chamber to repeat this position in a resolution. At the beginning of today's lower house session, Foreign Minister Petr Macinka (Motorists) said this....",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 15,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "foreign_ministry"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "government",
+          "parliament",
+          "leadership"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "foreign_ministry",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:43Z"
     }
   ]
 }

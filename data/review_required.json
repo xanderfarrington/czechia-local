@@ -1,9 +1,77 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T14:33:49Z",
-  "count": 5,
+  "updated_at_utc": "2026-11-25T14:40:44Z",
+  "count": 12,
   "articles": [
+    {
+      "id": "2b79dd3f66a13624486df7ae5eb780bf801d5866",
+      "fingerprint": "e8c2a58ebf72ba8b13e51fdd804ce966504f5239",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/celnici-zadrzeli-v-ceskem-tesine-lahve-s-nelegalnim-alkoholem-letos-v-kraji_2611251531_vaa",
+      "published_utc": "2026-11-25T14:31:00Z",
+      "collected_at_utc": "2026-11-25T14:40:36Z",
+      "title_raw": "Celníci zadrželi v Českém Těšíně lahve s nelegálním alkoholem. Letos v kraji objevili už 3,5 tisíce litrů",
+      "lead_raw": "Český Těšín je stále místem, ve kterém se daří černému trhu s alkoholem. Dokazují to statistiky ostravské celní správy. Ta zadržela od začátku roku už více než tři a půl tisíce litrů alkoholu podezřelého původu. A další případy přibývají.",
+      "title_en": "Customs officers seized bottles of illegal alcohol in Český Těšín. This year, they have already discovered 3,500 liters in the region",
+      "lead_en": "Český Těšín remains a place where the black market for alcohol thrives. This is proven by statistics from the Ostrava Customs Administration. Since the beginning of the year, it has seized more than three and a half thousand liters of alcohol of suspicious origin. And more cases are increasing.",
+      "translation_status": "review_required",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [
+        "title:missing_numeric_values",
+        "title:unexpected_numeric_values"
+      ],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 9,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "trade"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "trade",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:42Z"
+    },
     {
       "id": "eab0ee31d409be042662b9cf4f2a3753298ae261",
       "fingerprint": "b9d6ccda0961ee84de5f1e5048bedb02def253d6",
@@ -19,7 +87,7 @@
       "translation_status": "review_required",
       "translation_version": 4,
       "validation_version": 4,
-      "translation_attempts": 1,
+      "translation_attempts": 2,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
       "translation_error": null,
@@ -99,7 +167,7 @@
       "relevant": true,
       "primary_topic": "domestic_politics",
       "classification_version": 4,
-      "translated_at_utc": "2026-11-25T14:33:43Z"
+      "translated_at_utc": "2026-11-25T14:40:42Z"
     },
     {
       "id": "85018e800f365cebea25a6669ce4d40f96390742",
@@ -116,7 +184,7 @@
       "translation_status": "review_required",
       "translation_version": 4,
       "validation_version": 4,
-      "translation_attempts": 1,
+      "translation_attempts": 2,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
       "translation_error": null,
@@ -196,7 +264,7 @@
       "relevant": true,
       "primary_topic": "economy",
       "classification_version": 4,
-      "translated_at_utc": "2026-11-25T14:33:43Z"
+      "translated_at_utc": "2026-11-25T14:40:42Z"
     },
     {
       "id": "7051a8bdd1570ce9c98b0b96dffd9e72d97ff7cb",
@@ -213,7 +281,7 @@
       "translation_status": "review_required",
       "translation_version": 4,
       "validation_version": 4,
-      "translation_attempts": 1,
+      "translation_attempts": 2,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
       "translation_error": null,
@@ -280,7 +348,7 @@
       "relevant": true,
       "primary_topic": "economy",
       "classification_version": 4,
-      "translated_at_utc": "2026-11-25T14:33:43Z"
+      "translated_at_utc": "2026-11-25T14:40:42Z"
     },
     {
       "id": "2682207d94531af1d1a27d620aaafd3d4be25d84",
@@ -297,7 +365,7 @@
       "translation_status": "review_required",
       "translation_version": 4,
       "validation_version": 4,
-      "translation_attempts": 1,
+      "translation_attempts": 2,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
       "translation_error": null,
@@ -348,7 +416,7 @@
       "relevant": true,
       "primary_topic": "military",
       "classification_version": 4,
-      "translated_at_utc": "2026-11-25T14:33:43Z"
+      "translated_at_utc": "2026-11-25T14:40:42Z"
     },
     {
       "id": "205e7ff4ff2cd8d876fb2a7043f24875b30b6f64",
@@ -365,7 +433,7 @@
       "translation_status": "review_required",
       "translation_version": 4,
       "validation_version": 4,
-      "translation_attempts": 1,
+      "translation_attempts": 2,
       "translation_provider": "Microsoft Azure Translator",
       "translation_method": "whole_headline_and_lead",
       "translation_error": null,
@@ -435,7 +503,548 @@
       "relevant": true,
       "primary_topic": "economy",
       "classification_version": 4,
-      "translated_at_utc": "2026-11-25T14:33:44Z"
+      "translated_at_utc": "2026-11-25T14:40:42Z"
+    },
+    {
+      "id": "8cd04cb40fe087f6434e0e090e0f38220f52ccf8",
+      "fingerprint": "981fc0876beab82ea866d33b87016e5b982d5ddc",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/zlinsky-magistrat-bude-mit-o-3-miliony-drazsi-vedeni-kazdy-z-deseti-radnich-je_2611251026_lbl",
+      "published_utc": "2026-11-25T09:26:00Z",
+      "collected_at_utc": "2026-11-25T14:33:34Z",
+      "title_raw": "Zlínský magistrát bude mít o 3 miliony dražší vedení, každý z deseti radních je současně náměstkem",
+      "lead_raw": "Nové vedení Zlína bude stát o téměř 63 tisíc korun měsíčně víc než to předchozí. Za čtyřleté volební období si tam město připlatí zhruba tři miliony korun. Vyplývá to z vyčíslení magistrátu, o které požádal bývalý primátor Jiří Korec z opozičního hnutí ANO. Radnice také upřesnila, kdo bude v nepřítomnosti zastupovat současného primátora Čestmíra Vančuru.",
+      "title_en": "The Zlín city hall will have leadership costs 3 million more expensive, with each of the ten councilors simultaneously serving as deputy",
+      "lead_en": "The new leadership of Zlín will cost nearly 63,000 crowns more per month than the previous one. For the four-year term, the city will pay about three million crowns more. This is according to a calculation by the city hall, requested by former mayor Jiří Korec from the opposition movement ANO. The city hall also specified who will represent the current mayor Čestmír Vančura in his absence.",
+      "translation_status": "review_required",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [
+        "lead:missing_numeric_values",
+        "lead:unexpected_numeric_values"
+      ],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "domestic_politics": 18,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [
+          "elections",
+          "political_parties",
+          "municipal_government"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "elections",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "municipal_government",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:42Z"
+    },
+    {
+      "id": "64e8e3007ca68e3f642699900218764f6cc0710a",
+      "fingerprint": "b9e6c4ce4d50a7bfd62e98e89b185573b34889c6",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/poslanci-zacali-druhe-cteni-rozpoctu-predlozili-uz-asi-130-navrhu-zmen/2904989",
+      "published_utc": "2026-11-25T08:03:00Z",
+      "collected_at_utc": "2026-11-25T14:33:35Z",
+      "title_raw": "Poslanci začali druhé čtení rozpočtu, předložili už asi 130 návrhů změn",
+      "lead_raw": "Praha - Poslanci začali dnes krátce po poledni ve druhém čtení probírat návrh rozpočtu na příští rok. Mohou přednášet své návrhy na přesuny peněz uvnitř rozpočtu, protože po prvním čtení už základní údaje...",
+      "title_en": "MEPs have started the second reading of the budget, having already submitted about 130 proposed amendments",
+      "lead_en": "Prague - Shortly after noon today, deputies began discussing the budget proposal for next year in the second reading. They can present their proposals for transfers of funds within the budget because after the first reading, the basic data...",
+      "translation_status": "review_required",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [
+        "title:incorrect_parliamentary_terminology"
+      ],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "domestic_politics": 9,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "parliament"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:42Z"
+    },
+    {
+      "id": "0d6bb17754f02e495b8fadc9b471a2655bf8141a",
+      "fingerprint": "9d83e484db8d4e88a1977c357c210b07ee53b52a",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/poslance-ceka-dalsi-debata-o-navrhu-rozpoctu-budou-navrhovat-presuny-penez-379923",
+      "published_utc": "2026-11-25T02:25:00Z",
+      "collected_at_utc": "2026-11-25T14:33:37Z",
+      "title_raw": "Sněmovna jedná o státním rozpočtu",
+      "lead_raw": "Poslanci ve středu projednávají ve druhém čtení návrh státního rozpočtu na příští rok, pro nějž mohou přednášet návrhy na přesuny peněz uvnitř rozpočtu. Schválený schodek 386 miliard korun už měnit nemohou. V úvodu schůze si zákonodárci odhlasovali možnost jednat i po 21:00.",
+      "title_en": "The Chamber of Deputies is debating the state budget",
+      "lead_en": "On Wednesday, deputies are discussing in the second reading the draft state budget for next year, for which they can present proposals for transfers within the budget. They can no longer change the approved deficit of 386 billion crowns. At the beginning of the session, lawmakers voted to allow negotiations beyond 9:00 PM.",
+      "translation_status": "review_required",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [
+        "lead:missing_numeric_values",
+        "lead:unexpected_numeric_values"
+      ],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 14,
+        "domestic_politics": 15,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "government_budget",
+          "currency",
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "legislation"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "government_budget",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "legislation",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:43Z"
+    },
+    {
+      "id": "2d8f499a5fefb1d9b35c5700b2d80dc83a923c11",
+      "fingerprint": "878e39fa93c7321380666f01f231e515b3acef4f",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/zive-tk-babise-pred-odletem-do-bruselu-na-summit-eu/2906281",
+      "published_utc": "2026-11-24T23:59:00Z",
+      "collected_at_utc": "2026-11-25T14:33:35Z",
+      "title_raw": "ŽIVĚ: TK Babiše před odletem do Bruselu na summit EU",
+      "lead_raw": "Praha - ČTK bude od 17:30 vysílat komentář předsedy vlády Andreje Babiše (ANO) před odletem do Bruselu na dvoudenní mimořádný summit EU, který se bude věnovat budoucímu dlouholetému rozpočtu Evropské...",
+      "title_en": "LIVE: Babiš's press conference before flying to Brussels for the EU summit",
+      "lead_en": "Prague - ČTK will broadcast a commentary from Prime Minister Andrej Babiš (ANO) from 5:30 PM before departing for Brussels for a two-day extraordinary EU summit focused on the future long-term budget of the European...",
+      "translation_status": "review_required",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [
+        "lead:missing_numeric_values",
+        "lead:unexpected_numeric_values"
+      ],
+      "topic_scores": {
+        "diplomacy": 9,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "domestic_politics": 19,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "summit"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "government",
+          "political_parties",
+          "czech_leaders"
+        ],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "summit",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:43Z"
+    },
+    {
+      "id": "0607c803ebd52807d761eb4c0deece6743f2b542",
+      "fingerprint": "d597fcb30b018e8fec5eddff69fe0143a59ceb45",
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/index-najmy-ve-3-ctvrtleti-zdrazily/2905878",
+      "published_utc": "2026-11-24T10:46:00Z",
+      "collected_at_utc": "2026-11-25T14:33:36Z",
+      "title_raw": "Index: Nájmy ve 3. čtvrtletí zdražily",
+      "lead_raw": "Praha - Nájmy v Česku ve třetím čtvrtletí letošního roku vzrostly mezičtvrtletně v průměru o 2,6 procenta na 352 Kč za metr čtvereční. Ceny se zvýšily ve většině sledovaných lokalitách, nejvýrazněji v...",
+      "title_en": "Index: Rents increased in Q3",
+      "lead_en": "Prague - Rents in the Czech Republic in the third quarter of this year rose quarter-on-quarter by an average of 2.6 percent to 352 CZK per square meter. Prices increased in most monitored locations, most notably in...",
+      "translation_status": "review_required",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [
+        "title:missing_numeric_values"
+      ],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 14,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "housing_market",
+          "currency",
+          "prices"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "housing_market",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "prices",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:43Z"
+    },
+    {
+      "id": "4259adf13e5f0031b16a2a3cb10d0775afb73018",
+      "fingerprint": "57ee313915e00a801136fb9df63519b49586178a",
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/prodej-novych-aut-v-eu-v-rijnu-vzrostl-pomahaji-elektromobily/2905771",
+      "published_utc": "2026-11-24T08:08:00Z",
+      "collected_at_utc": "2026-11-25T14:33:36Z",
+      "title_raw": "Prodej nových aut v EU v říjnu vzrostl, pomáhají elektromobily",
+      "lead_raw": "Brusel - Prodej nových osobních aut v Evropské unii se v říjnu meziročně zvýšil o 2,6 procenta na 939.447 vozů. Ve zprávě o registracích nových vozidel to dnes uvedlo Evropské sdružení výrobců automobilů...",
+      "title_en": "Sales of new cars in the EU increased in October, with electric vehicles helping",
+      "lead_en": "Brussels - Sales of new passenger cars in the European Union increased year-on-year in October to 939,447 vehicles. This was stated today in a report on new vehicle registrations by the European Automobile Manufacturers Association...",
+      "translation_status": "review_required",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [
+        "lead:missing_numeric_values",
+        "lead:unexpected_numeric_values"
+      ],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:43Z"
     }
   ]
 }

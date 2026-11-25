@@ -1,10 +1,186 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T14:33:49Z",
+  "updated_at_utc": "2026-11-25T14:40:44Z",
   "topic": "economy",
-  "count": 25,
+  "count": 34,
   "articles": [
+    {
+      "id": "380bf240affee9a3d0c9b98d8f75d38d522b55f0",
+      "fingerprint": "e22cf20a881db561020f26c94959b0a06373b39a",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-na-zvyseni-slev-na-jizdne-chce-babis-poslat-16-miliardy-kc-z-penez-na-duchody-321528",
+      "published_utc": "2026-11-25T14:37:28Z",
+      "collected_at_utc": "2026-11-25T14:40:40Z",
+      "title_raw": "Na zvýšení slev na jízdné chce Babiš poslat 1,6 miliardy Kč z peněz na důchody",
+      "lead_raw": "Slevy na jízdné budou stát státní rozpočet 1,6 miliardy korun, částka se má vzít z peněz na důchod. Slevy pro seniory a studenty se mají zvýšit na 75 procent příští rok v červenci.",
+      "title_en": "Babiš wants to allocate 1.6 billion CZK from pension funds to increase fare discounts",
+      "lead_en": "Discounts on fares will cost the state budget 1.6 billion crowns, with the amount to be taken from pension funds. Discounts for seniors and students are expected to increase to 75 percent next July.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 11,
+        "domestic_politics": 9,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "government_budget",
+          "currency",
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "czech_leaders"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "government_budget",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:42Z"
+    },
+    {
+      "id": "100063ccaa0eb560d6a6e1b8ac0c4cb364c6f176",
+      "fingerprint": "17c9351dd11ba87cf0d634094f0ec5602ef68931",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/domaci/koalice-se-shodla-na-podpore-v-nezamestnanosti-v-prvnich-mesicich-klesne.A261125_133107_domaci_tty",
+      "published_utc": "2026-11-25T14:32:00Z",
+      "collected_at_utc": "2026-11-25T14:40:41Z",
+      "title_raw": "Juchelka couvl. Podpora v nezaměstnanosti se změní jen částečně",
+      "lead_raw": "Koalice se shodla na změnách v podpoře v nezaměstnanosti. Pozměňovací návrh ve středu představil ministr práce a sociálních věcí Aleš Juchelka. Stávající podpora 80 procent vyměřovacího základu zůstane zachována pro lidi nad 52 let a při rekvalifikaci. Pro ostatní klesne na 65 procent. Změna se dotkne také těch, kteří se vrací z rodičovské nebo po dlouhodobé nemoci.",
+      "title_en": "Juchelka backed down. Unemployment benefits will only partially change",
+      "lead_en": "The coalition agreed on changes to unemployment benefits. The amendment was presented on Wednesday by the Minister of Labour and Social Affairs, Aleš Juchelka. The current support of 80 percent of the assessment base will remain for people over 52 years old and during retraining. For others, it will decrease to 65 percent. The change will also affect those returning from parental leave or long-term illness.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 9,
+        "domestic_politics": 8,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "unemployment"
+        ],
+        "domestic_politics": [
+          "coalition",
+          "leadership"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "unemployment",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "coalition",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:42Z"
+    },
     {
       "id": "945f2b87c2f321a97017d5bedc55216e7ee97b2d",
       "fingerprint": "90902580aab0334ae03ca24c6c8f3bc5ccdb6a64",
@@ -2280,6 +2456,643 @@
       "primary_topic": "energy",
       "classification_version": 4,
       "translated_at_utc": "2026-11-25T14:33:45Z"
+    },
+    {
+      "id": "2116f5c6f421b852e7b7a9477515380ccc49c13d",
+      "fingerprint": "368208076818b91f5183184a5ba51fb76102960f",
+      "source": "iROZHLAS - Economy",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/ekonomika/fiskalni-politika-se-vyrazne-rozvolnuje-v-dobe-kdy-ceska-ekonomika-nepotrebuje_2611251029_mst",
+      "published_utc": "2026-11-25T09:29:00Z",
+      "collected_at_utc": "2026-11-25T14:33:34Z",
+      "title_raw": "Fiskální politika se výrazně rozvolňuje v době, kdy to česká ekonomika nepotřebuje, říká expert k rozpočtu",
+      "lead_raw": "Česko má příští rok hospodařit s jedním z největších deficitů v samostatných dějinách. Poslanci ve středu probírají ve druhém čtení státní rozpočet. Suma nyní činí minus 386 miliard korun a zákonodárci ještě mohou přesouvat peníze mezi rozpočtovými kapitolami. „Výrazně se rozvolňuje fiskální politika v době, kdy to česká ekonomika nepotřebuje,“ hodnotí pro Radiožurnál ekonom Petr Musil, člen Národní rozpočtové rady.",
+      "title_en": "Fiscal policy is significantly loosening at a time when the Czech economy no longer needs it, says budget expert",
+      "lead_en": "Next year, the Czech Republic is expected to manage one of the largest deficits in its independent history. On Wednesday, MPs are discussing the state budget in the second reading. The total now stands at minus 386 billion crowns, and lawmakers can still transfer money between budget chapters. \"Fiscal policy is significantly loosening at a time when the Czech economy no longer needs it,\" economist Petr Musil, a member of the National Budget Council, told Radiožurnál.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 11,
+        "domestic_politics": 12,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "government_budget",
+          "currency",
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "legislation"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "government_budget",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "legislation",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:42Z"
+    },
+    {
+      "id": "18c8676e8569a7ec5c111e2e1629b328b3840aa4",
+      "fingerprint": "d2f6393ab68573d635e9c950d63176bb8d590bbd",
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/prazska-burza-nepatrne-posilila-darilo-se-ceskym-bankam/2906098",
+      "published_utc": "2026-11-24T16:38:00Z",
+      "collected_at_utc": "2026-11-25T14:33:36Z",
+      "title_raw": "Pražská burza nepatrně posílila, dařilo se českým bankám",
+      "lead_raw": "Praha - Pražská burza dnes nepatrně posílila, index PX stoupl o 0,12 procenta na 2597,40 bodu. Zpevnila většina titulů, zdražily například akcie Komerční banky, zbrojovky Colt a Monety Money Bank. Nedařilo...",
+      "title_en": "The Prague Stock Exchange slightly strengthened, Czech banks performed well",
+      "lead_en": "Prague - The Prague Stock Exchange rose slightly today, with the PX index rising by 0.12 percent to 2597.40 points. Most stocks strengthened, with shares of Komerční banka, the arms manufacturer Colt, and Moneta Money Bank rising in price. Things were not doing well...",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 0,
+        "economy": 11,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "military_equipment"
+        ],
+        "energy": [],
+        "economy": [
+          "stock_market",
+          "prices"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "military_equipment",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "stock_market",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "prices",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:43Z"
+    },
+    {
+      "id": "eb1ddcba135a12ba372b311a9bf927e13e3d361a",
+      "fingerprint": "2da5b00589af695049d6a147da54a43e12351b85",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/odbory-odmitaji-jakekoli-upravy-ktere-snizi-podpory-v-nezamestnanosti-rekl-stredula/2906055",
+      "published_utc": "2026-11-24T15:09:00Z",
+      "collected_at_utc": "2026-11-25T14:33:35Z",
+      "title_raw": "Odbory odmítají jakékoli úpravy, které sníží podpory v nezaměstnanosti, řekl Středula",
+      "lead_raw": "Praha - Českomoravská konfederace odborových svazů (ČMKOS) odmítá jakékoli úpravy, které sníží podpory v nezaměstnanosti. Ve Sněmovně to dnes řekl předseda ČMKOS Josef Středula. Snížením podpory v nezaměstnanosti...",
+      "title_en": "The unions reject any adjustments that would reduce unemployment benefits, Středula said",
+      "lead_en": "Prague - The Czech-Moravian Confederation of Trade Unions (ČMKOS) rejects any adjustments that would reduce unemployment benefits. This was stated today in the Chamber of Deputies by the chairman of ČMKOS, Josef Středula. By reducing unemployment benefits...",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 9,
+        "domestic_politics": 6,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "unemployment"
+        ],
+        "domestic_politics": [
+          "parliament"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "unemployment",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:43Z"
+    },
+    {
+      "id": "89fb25eba9e2b469e0386ee6191d9a2c6d174b6e",
+      "fingerprint": "b8ef4f6caa94a2a9020c3d2131de0cd750bec8af",
+      "source": "iROZHLAS - Economy",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/ekonomika/cenovy-strop-na-naftu-po-delsi-dobe-klesne-pod-44-korun-na-litr-zlevnit-ma-i_2611241507_jar",
+      "published_utc": "2026-11-24T14:07:00Z",
+      "collected_at_utc": "2026-11-25T14:33:34Z",
+      "title_raw": "Cenový strop na naftu po delší době klesne pod 44 korun na litr. Zlevnit má i benzin",
+      "lead_raw": "Maximální ceny pohonných hmot, které denně stanovuje stát, ve středu opět o desítky haléřů klesnou. Cenový strop na naftu se po delší době sníží pod úroveň 44 korun, oproti úterý nafta zlevní o 47 haléřů na 43,54 koruny za litr. Benzin natankují řidiči maximálně za 39,11 koruny. Vyplývá to z cenového věstníku, který v úterý zveřejnilo ministerstvo financí. Vláda v pondělí prodloužila opatření proti vysokým cenám pohonných hmot do konce roku.",
+      "title_en": "The price cap on diesel will drop below 44 crowns per liter after a long time. Gasoline is also set to become cheaper",
+      "lead_en": "The maximum fuel prices set daily by the state will again drop by tens of haléřů on Wednesday. The price cap on diesel will drop below 44 crowns after a long time, and compared to Tuesday, diesel will drop by 47 haléřů to 43.54 crowns per liter. Drivers can fill up with gasoline for a maximum of 39.11 crowns. This is according to the price bulletin published by the Ministry of Finance on Tuesday. On Monday, the government extended measures against high fuel prices until the end of the year.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 15,
+        "domestic_politics": 4,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "fuel_prices"
+        ],
+        "economy": [
+          "price_caps",
+          "currency",
+          "prices"
+        ],
+        "domestic_politics": [
+          "government"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "fuel_prices",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [
+          {
+            "concept": "price_caps",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          },
+          {
+            "concept": "prices",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:43Z"
+    },
+    {
+      "id": "50bacc3ece6f0796d42180855c5b6e18fc58ec07",
+      "fingerprint": "d18c72f326f6b08f3d3d607780b8ad3332f737e8",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/armada-bude-pri-rozpoctu-2-hdp-stezi-rozvijet-nove-projekty-rekl-hlavac/2905715",
+      "published_utc": "2026-11-24T08:20:00Z",
+      "collected_at_utc": "2026-11-25T14:33:35Z",
+      "title_raw": "Armáda bude při rozpočtu 2 % HDP stěží rozvíjet nové projekty, řekl Hlaváč",
+      "lead_raw": "Praha - Při obranných výdajích ve výši dvou procent hrubého domácího produktu (HDP) armáda naráží na své limity. Dokáže udržet své schopnosti a plnit úkoly, obtížně ale bude rozvíjet nové projekty a zpomalí...",
+      "title_en": "The army will hardly develop new projects with a budget of 2% of GDP, said Hlaváč",
+      "lead_en": "Prague - With defense spending amounting to two percent of gross domestic product (GDP), the army is hitting its limits. It can maintain its capabilities and fulfill tasks, but it will struggle to develop new projects and slow down...",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 15,
+        "energy": 0,
+        "economy": 12,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces",
+          "defense"
+        ],
+        "energy": [],
+        "economy": [
+          "economic_growth",
+          "generic_budget"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "defense",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "economic_growth",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": false,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:43Z"
+    },
+    {
+      "id": "197b05a13cb74e76c18457f2ef9967c219f786c9",
+      "fingerprint": "362e914f0cfd105306b66725a858fe8186e589e0",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/pavel-resil-s-hejtmany-rozpoctove-urceni-dani-i-pripravenost-na-mimoradne-stavy/2905573",
+      "published_utc": "2026-11-23T17:28:00Z",
+      "collected_at_utc": "2026-11-25T14:33:35Z",
+      "title_raw": "Pavel řešil s hejtmany rozpočtové určení daní i připravenost na mimořádné stavy",
+      "lead_raw": "Praha - Rozpočtové určení daní a jeho případné změny byly hlavním tématem dnešního jednání prezidenta Petra Pavla se členy Rady Asociace krajů. Kraje představily své návrhy, v nichž žádají vládu o přenastavení...",
+      "title_en": "Pavel discussed with the governors the budget allocation of taxes and preparedness for extraordinary situations",
+      "lead_en": "Prague - The budgetary determination of taxes and its possible changes were the main topic of today's meeting between President Petr Pavel and members of the Council of the Association of Regions. The regions presented their proposals, in which they ask the government to readjust...",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 4,
+        "military": 0,
+        "energy": 0,
+        "economy": 12,
+        "domestic_politics": 21,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "negotiations"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "taxation",
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "government",
+          "municipal_government",
+          "leadership",
+          "czech_leaders"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "negotiations",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "taxation",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "municipal_government",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:44Z"
+    },
+    {
+      "id": "6e49c6fd02470254407c91685f5a26b01b270ba9",
+      "fingerprint": "de10d4b6c7e6bc72a612858b49eb4c1477adc6e2",
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/prazska-burza-posilila-px-stoupl-o-procento-nahoru-ho-tahly-vig-ci-erste/2905640",
+      "published_utc": "2026-11-23T16:35:00Z",
+      "collected_at_utc": "2026-11-25T14:33:36Z",
+      "title_raw": "Pražská burza posílila, PX stoupl o procento, nahoru ho táhly VIG či Erste",
+      "lead_raw": "Praha - Pražská burza v úvodu týdne posílila, index PX stoupl o 1,02 procenta na 2594,27 bodu. Nahoru ho táhly především rakouské tituly VIG a Erste, mírně si polepšily i akcie Komerční banky a energetické...",
+      "title_en": "The Prague Stock Exchange strengthened, PX rose by one percent, driven up by VIG and Erste",
+      "lead_en": "Prague - The Prague Stock Exchange strengthened at the start of the week, with the PX index rising by 1.02 percent to 2594.27 points. It was mainly driven up by Austrian stocks VIG and Erste, while shares of Komerční banka and the energy sector also slightly improved...",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 9,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "stock_market"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "stock_market",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:44Z"
     }
   ]
 }

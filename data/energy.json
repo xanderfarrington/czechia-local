@@ -1,9 +1,9 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T14:33:49Z",
+  "updated_at_utc": "2026-11-25T14:40:44Z",
   "topic": "energy",
-  "count": 7,
+  "count": 11,
   "articles": [
     {
       "id": "ea3c93c04b044771d2699ba34c5fea1b9ad820f8",
@@ -587,6 +587,368 @@
       "primary_topic": "energy",
       "classification_version": 4,
       "translated_at_utc": "2026-11-25T14:33:45Z"
+    },
+    {
+      "id": "3edfc592c90d266e93806f5326a0be97e854f15e",
+      "fingerprint": "bfbcb1d69ff85b0c2b234a1d60ad0f6d6e0ac19e",
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/vetsina-teplaren-pristi-rok-zvysi-ceny-nejvice-zdrazi-teplo-z-plynu/2906358",
+      "published_utc": "2026-11-25T08:37:00Z",
+      "collected_at_utc": "2026-11-25T14:33:36Z",
+      "title_raw": "Většina tepláren příští rok zvýší ceny, nejvíce zdraží teplo z plynu",
+      "lead_raw": "Praha - Většina tepláren v Česku v příštím roce zvýší ceny dodávaného tepla. Nejvíce zdraží teplo produkované z plynu, oproti letošku to bude o 15 až 20 procent. Důvodem je letošní prudký růst cen zemního...",
+      "title_en": "Most heating plants will raise prices next year, with gas heating rising the most",
+      "lead_en": "Prague - Most heating plants in the Czech Republic will increase the prices of supplied heat next year. The biggest price increase will be for heat produced from gas, which will be 15 to 20 percent higher compared to this year. The reason is this year's sharp rise in natural fuel prices...",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 3,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "heating"
+        ],
+        "economy": [
+          "prices"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "heating",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [
+          {
+            "concept": "prices",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:42Z"
+    },
+    {
+      "id": "d938e97ee5043ddc9b375fb45cc4438c82b127ad",
+      "fingerprint": "f87031a26c67f9818f0a73145407da331f448466",
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/vlada-by-mohla-regulovat-ceny-elektriny-i-prijmy-vyrobcu-podporila-to-snemovna/2906263",
+      "published_utc": "2026-11-24T22:08:00Z",
+      "collected_at_utc": "2026-11-25T14:33:36Z",
+      "title_raw": "Vláda by mohla regulovat ceny elektřiny i příjmy výrobců, podpořila to Sněmovna",
+      "lead_raw": "Praha - Vláda bude zřejmě moci v případě dalšího prudkého zdražování elektřiny regulovat její ceny pro odběratele a případně stanovit horní hranici příjmů jejích výrobců. Počítá s tím novela energetického...",
+      "title_en": "The government could regulate electricity prices and producers' incomes, supported by the Chamber of Deputies",
+      "lead_en": "Prague - The government will likely be able to regulate electricity prices for consumers in the event of further sharp price increases and possibly set an upper limit on the income of electricity producers. This is anticipated by the amendment to the Energy Code...",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 3,
+        "domestic_politics": 21,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "electricity"
+        ],
+        "economy": [
+          "prices"
+        ],
+        "domestic_politics": [
+          "government",
+          "parliament",
+          "legislation"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "electricity",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [
+          {
+            "concept": "prices",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          },
+          {
+            "concept": "legislation",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:43Z"
+    },
+    {
+      "id": "7314995f19d20ee48043edd2ce305c8e7a3855f8",
+      "fingerprint": "bc835c72e548a90d3b91faed45a636e6bd94cc95",
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/plzenska-teplarenska-zvysi-od-ledna-cenu-tepla-v-plzni-o-35-procenta/2906086",
+      "published_utc": "2026-11-24T16:19:00Z",
+      "collected_at_utc": "2026-11-25T14:33:36Z",
+      "title_raw": "Plzeňská teplárenská zvýší od ledna cenu tepla v Plzni o 3,5 procenta",
+      "lead_raw": "Plzeň - Společnost Plzeňská teplárenská, největší dodavatel tepla na západě Čech, zdraží od 1. ledna příštího roku teplo v Plzni průměrně o 3,5 procenta na 936,99 koruny za gigajoule (GJ) s DPH. Schválilo...",
+      "title_en": "Plzeňská teplárenská will increase the heat price in Plzeň by 3.5 percent starting in January",
+      "lead_en": "Plzeň - Plzeňská teplárenská, the largest heat supplier in western Bohemia, will increase heating prices in Plzeň by an average of 3.5 percent to 936.99 crowns per gigajoule (GJ) including VAT starting January 1 next year. It approved...",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 5,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "heating"
+        ],
+        "economy": [
+          "currency",
+          "prices"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "heating",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "prices",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:43Z"
+    },
+    {
+      "id": "89fb25eba9e2b469e0386ee6191d9a2c6d174b6e",
+      "fingerprint": "b8ef4f6caa94a2a9020c3d2131de0cd750bec8af",
+      "source": "iROZHLAS - Economy",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/ekonomika/cenovy-strop-na-naftu-po-delsi-dobe-klesne-pod-44-korun-na-litr-zlevnit-ma-i_2611241507_jar",
+      "published_utc": "2026-11-24T14:07:00Z",
+      "collected_at_utc": "2026-11-25T14:33:34Z",
+      "title_raw": "Cenový strop na naftu po delší době klesne pod 44 korun na litr. Zlevnit má i benzin",
+      "lead_raw": "Maximální ceny pohonných hmot, které denně stanovuje stát, ve středu opět o desítky haléřů klesnou. Cenový strop na naftu se po delší době sníží pod úroveň 44 korun, oproti úterý nafta zlevní o 47 haléřů na 43,54 koruny za litr. Benzin natankují řidiči maximálně za 39,11 koruny. Vyplývá to z cenového věstníku, který v úterý zveřejnilo ministerstvo financí. Vláda v pondělí prodloužila opatření proti vysokým cenám pohonných hmot do konce roku.",
+      "title_en": "The price cap on diesel will drop below 44 crowns per liter after a long time. Gasoline is also set to become cheaper",
+      "lead_en": "The maximum fuel prices set daily by the state will again drop by tens of haléřů on Wednesday. The price cap on diesel will drop below 44 crowns after a long time, and compared to Tuesday, diesel will drop by 47 haléřů to 43.54 crowns per liter. Drivers can fill up with gasoline for a maximum of 39.11 crowns. This is according to the price bulletin published by the Ministry of Finance on Tuesday. On Monday, the government extended measures against high fuel prices until the end of the year.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 15,
+        "domestic_politics": 4,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "fuel_prices"
+        ],
+        "economy": [
+          "price_caps",
+          "currency",
+          "prices"
+        ],
+        "domestic_politics": [
+          "government"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "fuel_prices",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [
+          {
+            "concept": "price_caps",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          },
+          {
+            "concept": "prices",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:43Z"
     }
   ]
 }

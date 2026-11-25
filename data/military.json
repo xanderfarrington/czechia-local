@@ -1,9 +1,9 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T14:33:49Z",
+  "updated_at_utc": "2026-11-25T14:40:44Z",
   "topic": "military",
-  "count": 12,
+  "count": 19,
   "articles": [
     {
       "id": "9eba22bd3f23abe0b92a52851964d8769db92cfe",
@@ -856,6 +856,423 @@
       "translated_at_utc": "2026-11-25T14:33:45Z"
     },
     {
+      "id": "d4f339495c4aa9b27e4eb5597be306920b29ffc5",
+      "fingerprint": "6543b3a8f99c87066b3bfe76a9bc2fbf0c4c2343",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/pri-ruskem-utoku-v-kyjevske-oblasti-zahynul-muz-v-rusku-hori-rafinerie-379928",
+      "published_utc": "2026-11-25T06:49:48Z",
+      "collected_at_utc": "2026-11-25T14:33:37Z",
+      "title_raw": "Ukrajina hlásí zničení pěti ruských letadel a zásah dvou rafinerií. Kyjev a Charkov čelily ostřelování",
+      "lead_raw": "Ruské útoky v Kyjevské a Charkovské oblasti si vyžádaly dva mrtvé, oznámili tamní představitelé. Pět oblastí Ukrajiny se potýká s výpadky dodávek elektrické energie, informovaly úřady. Ukrajinská armáda uvedla, že v Rusku zasáhla dvě rafinerie a také leteckou základnu, kde poškodila pět letounů. Gubernátor ruské Samarské oblasti Vjačeslav Fedoriščev tvrdí, že tam byl při dronovém úderu zabit jeden člověk.",
+      "title_en": "Ukraine reports the destruction of five Russian aircraft and the strike of two refineries. Kyiv and Kharkiv faced shelling",
+      "lead_en": "Russian attacks in the Kyiv and Kharkiv regions have claimed two lives, local officials reported. Five regions of Ukraine are facing power outages, authorities reported. The Ukrainian army said it struck two refineries and an airbase in Russia, damaging five aircraft. Vyacheslav Fedorishchev, governor of Russia's Samara region, claims that one person was killed in a drone strike there.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 12,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces",
+          "drones"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "drones",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:42Z"
+    },
+    {
+      "id": "ef4b4de4436f8255ce32133211ee7986fa803bc3",
+      "fingerprint": "10a9970f63be8e456323bd392d1a77978da2daaa",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/izrael-se-musi-pripravit-klicovy-verdikt-rika-ze-sebeobrana-genocidu-neomlouva-379905",
+      "published_utc": "2026-11-25T05:00:00Z",
+      "collected_at_utc": "2026-11-25T14:33:37Z",
+      "title_raw": "„Izrael se musí připravit.“ Klíčový verdikt říká, že obrana genocidu neomlouvá",
+      "lead_raw": "Přelomový verdikt Mezinárodního soudního dvora OSN (ICJ) v případu Gambie proti Myanmaru, který byl uznán jako stát odpovědný za genocidu na rohingské menšině, může mít dalekosáhlé důsledky pro Izrael a jeho spor s Jihoafrickou republikou kvůli Gaze, míní experti. V obou případech dochází k útokům, při nichž umírají děti, obě strany také argumentují sebeobranou, soud ale u Myanmaru nevyloučil souběh protiteroristické operace s genocidou. Rozsudek podle expertů poškodí pověst dané země a může vést k omezení diplomatických vazeb či sankcím ze strany třetích států.",
+      "title_en": "\"Israel must prepare.\" The key verdict states that defense does not excuse genocide",
+      "lead_en": "The landmark ruling of the United Nations International Court of Justice (ICJ) in the case of Gambia vs. Myanmar, which was recognized as a state responsible for genocide against the Rohingya minority, could have far-reaching consequences for Israel and its dispute with South Africa over Gaza, experts believe. In both cases, attacks occur in which children die, both sides also argue self-defense, but the court did not rule out the simultaneous anti-terrorist operation with genocide in Myanmar. According to experts, the verdict will damage the country's reputation and may lead to a reduction of diplomatic ties or sanctions from third countries.",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 9,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 12,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "diplomacy"
+        ],
+        "military": [
+          "defense"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "sanctions",
+          "international_organizations"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "diplomacy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [
+          {
+            "concept": "defense",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "sanctions",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "international_organizations",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:42Z"
+    },
+    {
+      "id": "be02dbef4e08c1a7c0a8f15cbb747caaae59a5f3",
+      "fingerprint": "a5b405b4edf3fe4db82fe21622b9d02dcb60cf58",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/senatniho-slyseni-k-obrane-statu-se-zucastni-pavel-prijit-ma-i-zuna/2906130",
+      "published_utc": "2026-11-24T17:30:00Z",
+      "collected_at_utc": "2026-11-25T14:33:35Z",
+      "title_raw": "Senátního slyšení k obraně státu se zúčastní Pavel, přijít má i Zůna",
+      "lead_raw": "Praha - Senátního slyšení k přípravě a zabezpečování obrany státu, které se uskuteční ve čtvrtek, se zúčastní prezident Petr Pavel. Novinářům to dnes oznámil předseda Senátu Miloš Vystrčil (ODS), prezidentská...",
+      "title_en": "Pavel will attend the Senate hearing on the defense of the state, and Zůna is also expected to attend",
+      "lead_en": "Prague - President Petr Pavel will participate in the Senate hearing on the preparation and securing of the state's defense, which will take place on Thursday. This was announced to journalists today by Senate Chairman Miloš Vystrčil (ODS), the presidential...",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 9,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 23,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "defense"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "parliament",
+          "political_parties",
+          "leadership",
+          "czech_leaders"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "defense",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:43Z"
+    },
+    {
+      "id": "18c8676e8569a7ec5c111e2e1629b328b3840aa4",
+      "fingerprint": "d2f6393ab68573d635e9c950d63176bb8d590bbd",
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/prazska-burza-nepatrne-posilila-darilo-se-ceskym-bankam/2906098",
+      "published_utc": "2026-11-24T16:38:00Z",
+      "collected_at_utc": "2026-11-25T14:33:36Z",
+      "title_raw": "Pražská burza nepatrně posílila, dařilo se českým bankám",
+      "lead_raw": "Praha - Pražská burza dnes nepatrně posílila, index PX stoupl o 0,12 procenta na 2597,40 bodu. Zpevnila většina titulů, zdražily například akcie Komerční banky, zbrojovky Colt a Monety Money Bank. Nedařilo...",
+      "title_en": "The Prague Stock Exchange slightly strengthened, Czech banks performed well",
+      "lead_en": "Prague - The Prague Stock Exchange rose slightly today, with the PX index rising by 0.12 percent to 2597.40 points. Most stocks strengthened, with shares of Komerční banka, the arms manufacturer Colt, and Moneta Money Bank rising in price. Things were not doing well...",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 0,
+        "economy": 11,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "military_equipment"
+        ],
+        "energy": [],
+        "economy": [
+          "stock_market",
+          "prices"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "military_equipment",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "stock_market",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "prices",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:43Z"
+    },
+    {
+      "id": "4c39a47e37b64b23cdfc982b9ce8f9ca95dc70f5",
+      "fingerprint": "3d40a35befc3445d4d2bf1b4d5ec63b04acd7d79",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/armada-testuje-na-prerovsku-pozemni-roboty-bude-tam-cvicit-operatory/2905945",
+      "published_utc": "2026-11-24T12:14:00Z",
+      "collected_at_utc": "2026-11-25T14:33:35Z",
+      "title_raw": "Armáda testuje na Přerovsku pozemní roboty, bude tam cvičit operátory",
+      "lead_raw": "Lipník nad Bečvou (Přerovsko) - Kolové a pásové roboty či čtyřnohé stroje připomínající psy testuje armáda na polygonu u Lipníka nad Bečvou na Přerovsku. Areál slouží k ověřování schopností pozemních...",
+      "title_en": "The army is testing ground robots in the Přerov region and will train operators there.",
+      "lead_en": "Lipník nad Bečvou (Přerov region) - The army is testing wheeled and tracked robots or four-legged dog-like machines at a training ground near Lipník nad Bečvou in the Přerov region. The site serves to test the capabilities of ground personnel...",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 9,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:43Z"
+    },
+    {
       "id": "8ccf24d8a8104b4cf7192056cf0e3a417fdd4713",
       "fingerprint": "9278f42a2437736109139982d14d2fa4feeea2c6",
       "source": "Radio Prague International (EN)",
@@ -1001,6 +1418,171 @@
       "relevant": true,
       "primary_topic": "military",
       "classification_version": 4
+    },
+    {
+      "id": "ad0e214ec9bf3da4e15f26add563d95f2c08febb",
+      "fingerprint": "7635d81635245a15ed1a200d65e1146ac98d0ea0",
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/ceska-zbrojovka-zahajila-dodavky-novych-sluzebnich-pistoli-pro-nemeckou-armadu/2905812",
+      "published_utc": "2026-11-24T09:08:00Z",
+      "collected_at_utc": "2026-11-25T14:33:36Z",
+      "title_raw": "Česká zbrojovka zahájila dodávky nových služebních pistolí pro německou armádu",
+      "lead_raw": "Uherský Brod (Uherskohradišťsko) - Společnost Česká zbrojovka z Uherského Brodu na Uherskohradišťsku zahájila dodávky nových služebních pistolí pro německou armádu. První pistole CZ P13 již Bundeswehr...",
+      "title_en": "Česká zbrojovka has started deliveries of new service pistols for the German army",
+      "lead_en": "Uherský Brod (Uherskohradišťsko) - The company Česká zbrojovka from Uherský Brod in the Uherské Hradiště district has started deliveries of new service pistols for the German army. The first CZ P13 pistol has already been issued by the Bundeswehr...",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 18,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces",
+          "military_equipment"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "military_equipment",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:43Z"
+    },
+    {
+      "id": "50bacc3ece6f0796d42180855c5b6e18fc58ec07",
+      "fingerprint": "d18c72f326f6b08f3d3d607780b8ad3332f737e8",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/armada-bude-pri-rozpoctu-2-hdp-stezi-rozvijet-nove-projekty-rekl-hlavac/2905715",
+      "published_utc": "2026-11-24T08:20:00Z",
+      "collected_at_utc": "2026-11-25T14:33:35Z",
+      "title_raw": "Armáda bude při rozpočtu 2 % HDP stěží rozvíjet nové projekty, řekl Hlaváč",
+      "lead_raw": "Praha - Při obranných výdajích ve výši dvou procent hrubého domácího produktu (HDP) armáda naráží na své limity. Dokáže udržet své schopnosti a plnit úkoly, obtížně ale bude rozvíjet nové projekty a zpomalí...",
+      "title_en": "The army will hardly develop new projects with a budget of 2% of GDP, said Hlaváč",
+      "lead_en": "Prague - With defense spending amounting to two percent of gross domestic product (GDP), the army is hitting its limits. It can maintain its capabilities and fulfill tasks, but it will struggle to develop new projects and slow down...",
+      "translation_status": "completed",
+      "translation_version": 4,
+      "validation_version": 4,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 15,
+        "energy": 0,
+        "economy": 12,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces",
+          "defense"
+        ],
+        "energy": [],
+        "economy": [
+          "economic_growth",
+          "generic_budget"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "defense",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "economic_growth",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": false,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 4,
+      "translated_at_utc": "2026-11-25T14:40:43Z"
     }
   ]
 }
