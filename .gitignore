@@ -1,0 +1,84 @@
+# ================= PYTHON =================
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# ================= VIRTUAL ENVIRONMENTS =================
+
+.venv/
+venv/
+env/
+ENV/
+
+# ================= HUGGING FACE & AI MODELS =================
+
+.hf-cache/
+.cache/
+huggingface/
+models/
+checkpoints/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+*.ckpt
+
+# ================= TRANSLATION MODEL CACHES =================
+
+.argos-cache/
+.argos/
+.argos-translate/
+*.argosmodel
+
+# ================= SECRETS & API KEYS =================
+
+.env
+.env.*
+!.env.example
+secrets.json
+credentials.json
+service-account.json
+*.pem
+*.key
+
+# ================= TEMPORARY FILES & LOGS =================
+
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+
+# ================= TESTING & DEVELOPMENT =================
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+
+# ================= IDE & EDITOR FILES =================
+
+.vscode/
+.idea/
+
+# ================= OPERATING SYSTEM FILES =================
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ================= ARTICLE DATA =================
+
+# Keep all article JSON files tracked by Git.
+# The archive is required to prevent retranslations.
+
+!data/
+!data/*.json
