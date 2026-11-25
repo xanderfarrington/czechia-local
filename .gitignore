@@ -77,8 +77,8 @@ Desktop.ini
 
 # ================= ARTICLE DATA =================
 
-# Keep all article JSON files tracked by Git.
-# The archive is required to prevent retranslations.
+# Article archives and sentence translations must
+# remain tracked to prevent redundant translation.
 
 !data/
 !data/*.json
