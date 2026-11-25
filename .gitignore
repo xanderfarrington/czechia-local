@@ -1,85 +1,36 @@
 # Python
-
 __pycache__/
 *.py[cod]
-*$py.class
-*.egg-info/
-.eggs/
-build/
-dist/
+.pytest_cache/
 
 # Virtual environments
-
 .venv/
 venv/
 env/
-ENV/
 
-# AI models
-
-.hf-cache/
-.cache/
-huggingface/
-models/
-checkpoints/
-
-*.safetensors
-*.bin
-*.pt
-*.pth
-*.onnx
-*.ckpt
-
-# Previous translation models
-
-.argos-cache/
-.argos/
-.argos-translate/
-*.argosmodel
-
-# Secrets
-
+# Credentials
 .env
 .env.*
-!.env.example
-
 secrets.json
-credentials.json
-service-account.json
 
-*.pem
-*.key
+# Legacy AI models and caches
+.hf-cache/
+.cache/
+models/
+model_cache/
 
 # Temporary files
-
 *.tmp
-*.temp
 *.log
-*.bak
-*.swp
 
-# Testing
-
-.pytest_cache/
-.mypy_cache/
-.ruff_cache/
-
-.coverage
-htmlcov/
-.ipynb_checkpoints/
-
-# IDEs
-
-.vscode/
-.idea/
-
-# Operating systems
-
+# Operating system files
 .DS_Store
 Thumbs.db
-Desktop.ini
 
-# Persistent article and translation data
+# Benchmark output
+azure_benchmark_results.json
 
+# Keep generated news feeds
 !data/
 !data/*.json
+!data/.gitkeep
