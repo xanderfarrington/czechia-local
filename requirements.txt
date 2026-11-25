@@ -1,4 +1,8 @@
 requests
 feedparser
 pandas
-deep-translator==1.11.4
+transformers==4.57.3
+sentencepiece
+accelerate
+protobuf
+safetensors
