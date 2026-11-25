@@ -1,4 +1,4 @@
-# ================= PYTHON =================
+# Python
 
 __pycache__/
 *.py[cod]
@@ -8,20 +8,21 @@ __pycache__/
 build/
 dist/
 
-# ================= VIRTUAL ENVIRONMENTS =================
+# Virtual environments
 
 .venv/
 venv/
 env/
 ENV/
 
-# ================= HUGGING FACE & AI MODELS =================
+# AI models
 
 .hf-cache/
 .cache/
 huggingface/
 models/
 checkpoints/
+
 *.safetensors
 *.bin
 *.pt
@@ -29,25 +30,27 @@ checkpoints/
 *.onnx
 *.ckpt
 
-# ================= TRANSLATION MODEL CACHES =================
+# Previous translation models
 
 .argos-cache/
 .argos/
 .argos-translate/
 *.argosmodel
 
-# ================= SECRETS & API KEYS =================
+# Secrets
 
 .env
 .env.*
 !.env.example
+
 secrets.json
 credentials.json
 service-account.json
+
 *.pem
 *.key
 
-# ================= TEMPORARY FILES & LOGS =================
+# Temporary files
 
 *.tmp
 *.temp
@@ -55,30 +58,28 @@ service-account.json
 *.bak
 *.swp
 
-# ================= TESTING & DEVELOPMENT =================
+# Testing
 
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
+
 .coverage
 htmlcov/
 .ipynb_checkpoints/
 
-# ================= IDE & EDITOR FILES =================
+# IDEs
 
 .vscode/
 .idea/
 
-# ================= OPERATING SYSTEM FILES =================
+# Operating systems
 
 .DS_Store
 Thumbs.db
 Desktop.ini
 
-# ================= ARTICLE DATA =================
-
-# Article archives and sentence translations must
-# remain tracked to prevent redundant translation.
+# Persistent article and translation data
 
 !data/
 !data/*.json
