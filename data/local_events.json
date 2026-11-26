@@ -1,9 +1,486 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-26T07:23:11Z",
-  "count": 15,
+  "updated_at_utc": "2026-11-26T18:53:37Z",
+  "count": 20,
   "articles": [
+    {
+      "id": "7bc06254aeb523362402ed7609f99ac8ecaebe48",
+      "fingerprint": "1fcf0fe984d0e0a247e71fa4b9b77454f84bc3a4",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/domaci/cesko-snih-pocasi-silnice-predpoved.A261126_071836_domaci_pluh",
+      "published_utc": "2026-11-26T18:44:00Z",
+      "collected_at_utc": "2026-11-26T18:52:32Z",
+      "title_raw": "Česko bojuje se sněhem. Kolabuje veřejná doprava, hlášené jsou stovky nehod",
+      "lead_raw": "Dopravu v Česku od rána komplikuje sníh, policie řeší kromě řady nehod také uvázlé kamiony. Problémy se objevují také ve veřejné dopravě, zejména autobusy na některých místech Vysočiny či Jihomoravského kraje nevyjíždějí. Zásadní zlepšení se neočekává ani v následujících hodinách. Meteorologové očekávají, že sněžení postupně zasáhne většinu území, na některých místech připadnout až 15 centimetrů.",
+      "title_en": "The Czech Republic is struggling with snow. Public transport is collapsing, hundreds of accidents reported",
+      "lead_en": "Traffic in the Czech Republic has been complicated by snow since morning; the police are dealing not only with a number of accidents but also with stuck trucks. Problems are also appearing in public transport, especially buses in some parts of Vysočina and the South Moravian Region are not running. No significant improvement is expected in the coming hours. Meteorologists expect snowfall to gradually affect most of the territory, with up to 15 centimeters falling in some places.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 9
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          "public_transport"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "public_transport",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ]
+      },
+      "topics": [
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "local_events",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:34Z"
+    },
+    {
+      "id": "0096c7600f1d9464d6fb57d1a92de1935191b87a",
+      "fingerprint": "3b011cc20bf142781a60473327d3107eda0a6eb6",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/lide-v-pelhrimove-budou-od-ledna-jezdit-v-mhd-zadarmo-radnice-chce-snizit_2611261930_bod",
+      "published_utc": "2026-11-26T18:30:00Z",
+      "collected_at_utc": "2026-11-26T18:52:27Z",
+      "title_raw": "Lidé v Pelhřimově budou od ledna jezdit v MHD zadarmo. Radnice chce snížit dopravní zátěž ve městě",
+      "lead_raw": "Pelhřimov jako první město na Vysočině zruší nastálo jízdné v autobusech MHD. Zadarmo tam budou cestující moct jezdit od ledna. Radnice podle starosty bude také usilovat o zvýšení četnosti spojů a zkracování intervalu, aby mohlo veřejnou dopravu využívat více lidí. Mimo jiné chce ušetřit peníze domácnostem a snížit dopravní zátěž ve městě.",
+      "title_en": "People in Pelhřimov will be able to use public transport for free starting in January. The town hall wants to reduce traffic load in the city",
+      "lead_en": "Pelhřimov will be the first city in the Vysočina region to permanently abolish public bus fares. Passengers will be able to travel there free of charge starting in January. According to the mayor, the town hall will also strive to increase the frequency of connections and shorten intervals so that more people can use public transport. Among other things, it wants to save money for households and reduce traffic load in the city.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 9,
+        "foreign_affairs": 0,
+        "local_events": 9
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "municipal_government"
+        ],
+        "foreign_affairs": [],
+        "local_events": [
+          "public_transport"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "municipal_government",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "public_transport",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ]
+      },
+      "topics": [
+        "domestic_politics",
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:34Z"
+    },
+    {
+      "id": "d0d186e95724c9a472d60089281c2de1bc177433",
+      "fingerprint": "71ec13ac848b039074d7411a31d715bf1e355599",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/regiony/o-vikendu-bude-v-brne-uzavreny-i-kralovopolsky-tunel-379989",
+      "published_utc": "2026-11-26T16:43:10Z",
+      "collected_at_utc": "2026-11-26T18:52:29Z",
+      "title_raw": "O víkendu bude v Brně uzavřený i Královopolský tunel",
+      "lead_raw": "V Brně bude o víkendu uzavřený nejen Pisárecký, ale také Královopolský tunel. Ředitelství silnic a dálnic (ŘSD) naplánovalo jeho pravidelnou každoroční údržbu. Ředitel brněnského závodu ŘSD David Fiala uzavírku potvrdil a uvedl, že město s ní souhlasilo i přesto, že budou současně uzavřené oba tunelové komplexy. Pisáreckým tunelem by měli řidiči opět projíždět od pondělí.",
+      "title_en": "The Královopolský Tunnel in Brno will also be closed over the weekend",
+      "lead_en": "In Brno, not only the Pisárecký tunnel but also the Královopolský tunnel will be closed over the weekend. The Directorate of Roads and Motorways (ŘSD) has planned its regular annual maintenance. David Fiala, director of the Brno ŘSD plant, confirmed the closure and stated that the city agreed to it despite both tunnel complexes being closed simultaneously. Drivers are expected to pass through the Pisárecký tunnel again starting Monday.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 6,
+        "foreign_affairs": 0,
+        "local_events": 6
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "czech_leaders"
+        ],
+        "foreign_affairs": [],
+        "local_events": [
+          "transport_disruption"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "transport_disruption",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ]
+      },
+      "topics": [
+        "domestic_politics",
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:34Z"
+    },
+    {
+      "id": "4a4f7d6bd8c2cc10572833feba764823233f0107",
+      "fingerprint": "fddd288deb1df429c2312a445249f4dba7175611",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/komentare-trefy-trefa-alice-nemcove-tejkalove-proc-europarlament-hlasoval-o-ceskych-demonstracich-40610609",
+      "published_utc": "2026-11-26T16:00:00Z",
+      "collected_at_utc": "2026-11-26T18:52:30Z",
+      "title_raw": "Trefa Alice Němcové Tejkalové: Proč europarlament hlasoval o českých demonstracích",
+      "lead_raw": "Masové demonstrace proti turboschvalování návrhu zákona o změně financování médií veřejné služby získaly Česku pozornost po celém světě a vůči vládní koalici rozhodně ne pozitivní.",
+      "title_en": "Alice Němcová Tejkalová's Hit on the Spot: Why the European Parliament voted on the Czech demonstrations",
+      "lead_en": "Mass demonstrations against the turbo-approval of the bill to change the financing of public service media attracted attention worldwide in the Czech Republic and were certainly not positive towards the ruling coalition.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "domestic_politics": 16,
+        "foreign_affairs": 0,
+        "local_events": 9
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [
+          "government",
+          "legislation",
+          "coalition"
+        ],
+        "foreign_affairs": [],
+        "local_events": [
+          "demonstrations"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": false,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "legislation",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "coalition",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "demonstrations",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ]
+      },
+      "topics": [
+        "domestic_politics",
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:34Z"
+    },
+    {
+      "id": "a810c24a5b9501f08b293492397476c4a9f0753c",
+      "fingerprint": "3fbd798e734109ec36ab446b18ba41d792795909",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/domaci/jsme-na-zacatku-meteorologove-upresnili-kde-bude-odpoledne-snezit-nejvice.A261126_124016_domaci_skr",
+      "published_utc": "2026-11-26T12:34:00Z",
+      "collected_at_utc": "2026-11-26T18:52:33Z",
+      "title_raw": "Jsme na začátku. Meteorologové upřesnili, kde bude odpoledne sněžit nejvíce",
+      "lead_raw": "Silné sněžení postupuje Českou republikou. Výstraha meteorologů platí na celý čtvrtek a noc na pátek, pro dva kraje ještě i na páteční dopoledne. Jsme zatím pouze na začátku celé sněhové epizody, uvedl Český hydrometeorologický ústav. A ukázal nejčerstvější data z modelů o tom, jak bude sněžení pokračovat.",
+      "title_en": "We are at the beginning. Meteorologists have specified where it will snow the most in the afternoon",
+      "lead_en": "Heavy snowfall is progressing across the Czech Republic. The meteorologists' warning is valid for the entire Thursday and overnight into Friday, and for two regions also for Friday morning. We are still only at the beginning of the entire snow episode, stated the Czech Hydrometeorological Institute. It also showed the latest data from models on how the snowfall will continue.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 6
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          "severe_weather"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "severe_weather",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ]
+      },
+      "topics": [
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "local_events",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:36Z"
+    },
+    {
+      "id": "0042a211dc057cc88f6d30d963b84d6a8ab50284",
+      "fingerprint": "81c847629288b41122214323fb62daa818fe887d",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/je-vesteni-z-koule-obcim-chybi-temer-13-miliard-na-opravy-po-povodnich-stat-je-v_2611261205_dns",
+      "published_utc": "2026-11-26T11:05:00Z",
+      "collected_at_utc": "2026-11-26T18:52:27Z",
+      "title_raw": "‚Je to věštění z koule.‘ Obcím chybí téměř 13 miliard na opravy po povodních, stát je v rozpočtu nemá",
+      "lead_raw": "Obce z Moravskoslezského a Olomouckého kraje žádají stát o téměř 13 miliard korun na obnovu po předloňských povodních. Ministerstvo pro místní rozvoj už ale peníze z programu Živel 1 vyčerpalo a další nemá. Obce tedy neví, jak mají plánovat opravy silnic nebo mostů ani jak sestavit rozpočet na příští rok.",
+      "title_en": "'It's fortune-telling from a ball.' Municipalities are short almost 13 billion for repairs after floods; the state does not have them in the budget",
+      "lead_en": "Municipalities from the Moravian-Silesian and Olomouc regions are requesting nearly 13 billion crowns from the state for reconstruction after the floods two years ago. However, the Ministry of Regional Development has already exhausted the funds from the Element 1 program and has no more. Municipalities therefore do not know how to plan road or bridge repairs or how to prepare the budget for next year.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 5,
+        "domestic_politics": 4,
+        "foreign_affairs": 0,
+        "local_events": 9
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency",
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "government"
+        ],
+        "foreign_affairs": [],
+        "local_events": [
+          "natural_disasters"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "natural_disasters",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ]
+      },
+      "topics": [
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "local_events",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:36Z"
+    },
     {
       "id": "a98ec73db7b821f83bf99b3c0869e6a732eb985f",
       "fingerprint": "767526c0551bfeb64626edee47b96aba710ff272",
@@ -79,16 +556,16 @@
     },
     {
       "id": "86f91b9369f70333da2fa6c7b63c845c93013e17",
-      "fingerprint": "5309931b175c28326e38fa8b8b1ad0a1891eadd2",
+      "fingerprint": "efe085e9371fa7dae1727fcd775954dbc319a6f0",
       "source": "ČT24",
       "source_language": "cs",
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/patek-a-sobota-budou-lehce-snehove-predpovidaji-meteorologove-379964",
       "published_utc": "2026-11-26T06:34:05Z",
-      "collected_at_utc": "2026-11-26T07:23:04Z",
-      "title_raw": "Pátek a sobota budou lehce sněhové, předpovídají meteorologové",
-      "lead_raw": "V pátek a sobotu bude v Česku ještě zřejmě slabě sněžit, ale v neděli se vyjasní a srážky ustanou. O víkendu může také nadále i přes den mrznout. Vyplývá to z předpovědi Českého hydrometeorologického ústavu (ČHMÚ).",
-      "title_en": "Friday and Saturday will be lightly snowy, meteorologists predict",
-      "lead_en": "On Friday and Saturday, light snow is still expected in the Czech Republic, but on Sunday it will clear up and precipitation will stop. It may also continue to freeze during the day over the weekend. This is according to the forecast from the Czech Hydrometeorological Institute (ČHMÚ).",
+      "collected_at_utc": "2026-11-26T18:52:29Z",
+      "title_raw": "Na Vysočině kvůli sněžení kolabuje doprava, problémy hlásí i jih Čech a Moravy",
+      "lead_raw": "Kvůli sněžení na Vysočině kolabuje autobusová doprava, spoje mají zpoždění, případně nejedou vůbec. Od rána do 17:45 se v kraji stalo 98 nehod, lehce se při nich zranilo pět lidí. Dopravu na jihu Čech od rána komplikuje námraza, která postupně přešla ve sněžení. Policisté kvůli tomu v kraji řešili do odpoledne 120 nehod. Na jižní Moravě sněžení odpoledne zesílilo a začalo ve větší míře komplikovat veřejnou i individuální dopravu. Spoje MHD v Brně jezdí s různě velkým zpožděním, některé krajské autobusové spoje nejezdí v části trasy či vůbec.",
+      "title_en": "Traffic is collapsing in the Vysočina region due to snowfall, and problems are also reported in South Bohemia and Moravia.",
+      "lead_en": "Due to snowfall in Vysočina, bus transport is collapsing, with delays or even no service at all. From morning until 5:45 p.m., 98 accidents occurred in the region, with five people slightly injured. Traffic in South Bohemia has been complicated since morning by frost, which has gradually turned into snowfall. Because of this, police dealt with 120 accidents in the region by the afternoon. In South Moravia, snowfall intensified in the afternoon and began to complicate both public and individual transport to a greater extent. Public transport services in Brno run with varying delays, and some regional bus services do not run part of their route or not at all.",
       "translation_status": "completed",
       "translation_version": 5,
       "validation_version": 5,
@@ -114,7 +591,7 @@
         "domestic_politics": [],
         "foreign_affairs": [],
         "local_events": [
-          "emergency_warning"
+          "public_transport"
         ]
       },
       "classification_details": {
@@ -126,7 +603,7 @@
         "foreign_affairs": [],
         "local_events": [
           {
-            "concept": "emergency_warning",
+            "concept": "public_transport",
             "strength": 3,
             "headline": false,
             "lead": true,
@@ -140,7 +617,7 @@
       "relevant": true,
       "primary_topic": "local_events",
       "classification_version": 5,
-      "translated_at_utc": "2026-11-26T07:23:10Z"
+      "translated_at_utc": "2026-11-26T18:53:37Z"
     },
     {
       "id": "4e4701a2d2cd00b898064e2e9cb65f6b5b9bb02e",
@@ -1156,79 +1633,6 @@
       "relevant": true,
       "primary_topic": "local_events",
       "classification_version": 5
-    },
-    {
-      "id": "64c3e410a3f952e50560e6dcede4268b7418469a",
-      "fingerprint": "15d6050f5fed0340bebeada3f8a04e45a837f25e",
-      "source": "České noviny / ČTK - Czech Republic",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/jihovychodni-cast-ceska-zasahne-ve-ctvrtek-silne-snezeni/2905913",
-      "published_utc": "2026-11-24T11:32:00Z",
-      "collected_at_utc": "2026-11-25T14:33:35Z",
-      "title_raw": "Jihovýchodní část Česka zasáhne ve čtvrtek silné sněžení",
-      "lead_raw": "Praha - Jihovýchodní část Česka zasáhne od čtvrtečního rána silné sněžení. Do pátku tam může napadnout až 15 centimetrů sněhu. Výstraha , kterou dnes vydal Český hydrometeorologický ústav (ČHMÚ), varuje...",
-      "title_en": "Heavy snowfall will hit the southeastern part of the Czech Republic on Thursday",
-      "lead_en": "Prague - The southeastern part of the Czech Republic will be hit by heavy snowfall from Thursday morning. Up to 15 centimeters of snow may fall there by Friday. The warning issued today by the Czech Hydrometeorological Institute (ČHMÚ) warns...",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 15
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": [
-          "severe_weather",
-          "emergency_warning"
-        ]
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": [
-          {
-            "concept": "severe_weather",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "emergency_warning",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ]
-      },
-      "topics": [
-        "local_events"
-      ],
-      "relevant": true,
-      "primary_topic": "local_events",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:59:14Z"
     }
   ],
   "topic": "local_events"

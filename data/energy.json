@@ -1,9 +1,1050 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-26T07:23:11Z",
-  "count": 11,
+  "updated_at_utc": "2026-11-26T18:53:37Z",
+  "count": 25,
   "articles": [
+    {
+      "id": "abb0273a06d9c6fe1e7f27cdea1dd19e9cbaaf4f",
+      "fingerprint": "2b0ab92cea8c5a6c436c2438da014a4323b62022",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-usa-suzuje-nepriznive-pocasi-pres-pul-milionu-domacnosti-je-bez-elektriny-321641",
+      "published_utc": "2026-11-26T18:36:56Z",
+      "collected_at_utc": "2026-11-26T18:52:31Z",
+      "title_raw": "USA sužuje nepříznivé počasí. Přes půl milionu domácností je bez elektřiny",
+      "lead_raw": "Oslavy Dne díkůvzdání ve Spojených státech výrazně komplikuje nepříznivé počasí. Bez elektřiny se ocitlo přes 530 tisíc domácností, zrušeny byly stovky letů a výstrahy před bouřemi platí pro zhruba 80 milionů Američanů.",
+      "title_en": "The USA is plagued by adverse weather. Over half a million households are without electricity",
+      "lead_en": "Thanksgiving Day celebrations in the United States are significantly complicated by adverse weather. Over 530,000 households have been without power, hundreds of flights have been canceled, and storm warnings are in effect for about 80 million Americans.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "electricity"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "electricity",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:34Z"
+    },
+    {
+      "id": "ecd35288f79e1220c67007e01d748a6c78c23ab4",
+      "fingerprint": "854ef63442f4ba40f0123212b1d150048b253e1f",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/zahranicni-krym-zustal-potme-obri-vypadek-pripravil-o-elektrinu-cely-anektovany-poloostrov-40610777",
+      "published_utc": "2026-11-26T18:31:03Z",
+      "collected_at_utc": "2026-11-26T18:52:30Z",
+      "title_raw": "Krym zůstal potmě. Obří výpadek připravil o elektřinu celý anektovaný poloostrov",
+      "lead_raw": "Krymský poloostrov se ve čtvrtek ponořil do tmy. Podle projektu Krim.Realii původně mělo být na anektovaném Krymu pouze několik plánovaných odstávek, místo toho ale nastal rozsáhlý výpadek elektrické energie. Blackout připustila i ruská státní agentura TASS. Informovala, že výpadek proudu způsobil „incident mimo poloostrov“. Přerušení dodávek může trvat až 12 hodin.",
+      "title_en": "Crimea remained dark. A massive power outage deprived the entire annexed peninsula of power",
+      "lead_en": "The Crimean Peninsula plunged into darkness on Thursday. According to the Crimea.Realia project, there were originally supposed to be only a few planned outages on the annexed Crimea, but instead a massive power outage occurred. The blackout was also admitted by the Russian state agency TASS. It reported that the power outage was caused by an \"incident outside the peninsula.\" The supply interruption can last up to 12 hours.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "electricity"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "electricity",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:34Z"
+    },
+    {
+      "id": "25d4da16241e2b6a214a3501b8323d6dc414b73a",
+      "fingerprint": "b4d2a22929a7a28ad57a05abc2595a1c999bcb50",
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/plzenska-doosan-skoda-power-jedna-s-khnp-o-rozsireni-dodavek-na-dukovany/2907302",
+      "published_utc": "2026-11-26T17:47:00Z",
+      "collected_at_utc": "2026-11-26T18:52:28Z",
+      "title_raw": "Plzeňská Doosan Škoda Power jedná s KHNP o rozšíření dodávek na Dukovany",
+      "lead_raw": "Praha - Plzeňská společnost Doosan Škoda Power zřejmě rozšíří svou účast na připravované výstavbě nových jaderných bloků v Dukovanech o dodávku pomocného zařízení pro turbínové haly. Jedná o tom s korejskou...",
+      "title_en": "Plzeň's Doosan Škoda Power is negotiating with KHNP to expand deliveries to Dukovany",
+      "lead_en": "Prague - The Plzeň-based company Doosan Škoda Power will likely expand its participation in the planned construction of new nuclear units in Dukovany to include the supply of auxiliary equipment for turbine halls. Negotiations are underway with Korean...",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "czech_nuclear_plants"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "czech_nuclear_plants",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:34Z"
+    },
+    {
+      "id": "f3192b48a498b91a88dec8ff45416f6c41a5b561",
+      "fingerprint": "0b2a58cc7d1e78d5c58710fd2222fcf3498204fc",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/ekonomika-casti-reaktoru-v-novych-blocich-dukovan-by-mohla-dodat-skoda-js-40610743",
+      "published_utc": "2026-11-26T17:44:02Z",
+      "collected_at_utc": "2026-11-26T18:52:30Z",
+      "title_raw": "Části reaktorů v nových blocích Dukovan by mohla dodat Škoda JS",
+      "lead_raw": "Plzeňská Škoda JS s jihokorejskou společností Doosan Enerbelity zkoumá možnosti dodávek hlavních komponent pro dva nové reaktory v Dukovanech. Ty má stavět korejská KHNP. Mohla by se tak připojit k Doosan Škoda Power, která má pro nové bloky dodávat turbíny a svou účast na výstvabě by mohla i rozšířit.",
+      "title_en": "Parts of the reactors in the new Dukovany units could be supplied by Škoda JS",
+      "lead_en": "Škoda JS from Plzeň, together with the South Korean company Doosan Enerbelity, is exploring the possibilities of supplying main components for two new reactors in Dukovany. These are to be built by the Korean KHNP. It could thus join Doosan Škoda Power, which is to supply turbines for the new units and could even expand its participation in the construction.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "czech_nuclear_plants"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "czech_nuclear_plants",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:34Z"
+    },
+    {
+      "id": "4332304b804a0637548b31420d5b772136906350",
+      "fingerprint": "a1fdfa5b338ca0cc615c01751379c099c0582ed4",
+      "source": "iROZHLAS - Economy",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/ekonomika/jihokorejska-khnp-chce-vic-spolupracovat-na-novych-blocich-pro-dukovany-s_2611261842_vsn",
+      "published_utc": "2026-11-26T17:42:00Z",
+      "collected_at_utc": "2026-11-26T18:52:27Z",
+      "title_raw": "Jihokorejská KHNP chce víc spolupracovat na nových blocích pro Dukovany s plzeňskými firmami",
+      "lead_raw": "Jihokorejská firma KHNP, která je dodavatelem dvou nových jaderných bloků v Dukovanech, ujišťuje, že naplní slíbený šedesátiprocentní podíl českých firem na obří zakázce. Novým „důkazem“ má být i návštěva a třídenní jednání výkonného viceprezidenta KHNP pro rozvoj a řízení obchodu Il-kyung Choie v Česku.",
+      "title_en": "South Korean KHNP wants to cooperate more on new blocks for Dukovany with companies from Plzeň",
+      "lead_en": "The South Korean company KHNP, which is the supplier of two new nuclear units in Dukovany, assures that it will fulfill the promised sixty percent share of Czech companies in the giant contract. A new \"proof\" is also expected to be the visit and three-day meeting of KHNP's executive vice president for development and business management, Il-kyung Choi, in the Czech Republic.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "czech_nuclear_plants"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "czech_nuclear_plants",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:34Z"
+    },
+    {
+      "id": "916e9e044aae97f901672a70380c85cd2aaef6fb",
+      "fingerprint": "0232ad692ea84f00f83cf27215cf4c06008988a3",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/pocasi-snih-ochromil-dopravu-ve-stredni-evrope-u-vidne-uzavreli-dalnici-40610765",
+      "published_utc": "2026-11-26T17:30:39Z",
+      "collected_at_utc": "2026-11-26T18:52:30Z",
+      "title_raw": "Sníh ochromil dopravu ve střední Evropě. U Vídně uzavřeli dálnici",
+      "lead_raw": "Vydatné sněžení způsobilo ve čtvrtek dopravní kolaps v části střední Evropy. Největší komplikace hlásí Rakousko, kde museli uzavřít některé dálniční úseky. Tisíce domácností se navíc ocitly bez elektřiny. Vážné dopravní problémy hlásí také Slovensko nebo Česko.",
+      "title_en": "Snow paralyzed traffic in Central Europe. Highway closed near Vienna",
+      "lead_en": "Heavy snowfall caused a traffic collapse in part of Central Europe on Thursday. Austria reports the biggest complications, where some highway sections had to be closed. Thousands of households have also been left without electricity. Slovakia and the Czech Republic are also reporting serious traffic problems.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 6,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "electricity"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "electricity",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:34Z"
+    },
+    {
+      "id": "4c4febc683cdaff7f99972d1d41c51751c53165d",
+      "fingerprint": "ae2fd507832fc5fe16bfa9f8f7c9ce6f5ace8ecd",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-v-usa-je-pres-530-tisic-domacnosti-kvuli-pocasi-bez-dodavek-elektriny-40610766",
+      "published_utc": "2026-11-26T17:00:55Z",
+      "collected_at_utc": "2026-11-26T18:52:30Z",
+      "title_raw": "V USA je přes 530 tisíc domácností kvůli počasí bez dodávek elektřiny",
+      "lead_raw": "Ve Spojených státech, kde se ve čtvrtek slaví Den díkůvzdání, je přes 530 tisíc domácností kvůli počasí bez dodávek elektřiny. Pro 80 milionů lidí navíc platí výstrahy před špatným počasím, informuje agentura DPA.",
+      "title_en": "In the USA, over 530,000 households are without electricity due to the weather.",
+      "lead_en": "In the United States, where Thanksgiving is celebrated on Thursday, over 530,000 households are without electricity due to the weather. Additionally, 80 million people are under severe weather warnings, reports the DPA agency.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "electricity"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "electricity",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:34Z"
+    },
+    {
+      "id": "ee505488e6822737d42be6e3255d77099a8dfdde",
+      "fingerprint": "656ad02692c2b6d2f131e634edd39470ac2a96ee",
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/ceny-ropy-kvuli-obnoveni-obav-o-dodavky-z-blizkeho-vychodu-rostou/2907267",
+      "published_utc": "2026-11-26T16:23:00Z",
+      "collected_at_utc": "2026-11-26T18:52:28Z",
+      "title_raw": "Ceny ropy kvůli obnovení obav o dodávky z Blízkého východu rostou",
+      "lead_raw": "Londýn - Ceny ropy dnes rostou. Trh reaguje na zprávy o útocích jemenských povstalců Húsíů na největší saúdskoarabskou rafinerii a o zásahu lodí minami v Hormuzském průlivu, o němž informoval Írán. Události...",
+      "title_en": "Oil prices rise due to renewed concerns about supplies from the Middle East",
+      "lead_en": "London - Oil prices are rising today. The market is reacting to reports of attacks by Yemeni Houthi rebels on the largest Saudi Arabian refinery and of landmines being hit by ships in the Strait of Hormuz, reported by Iran. Events...",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 15,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "oil",
+          "refining"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "oil",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "refining",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:34Z"
+    },
+    {
+      "id": "de8fec7ce6e0b6b9f22e623ce1d5b607242a6f4e",
+      "fingerprint": "4a12c53c16953f70f83adfbfe86b3a7d0d31a3a4",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/koktejl-na-protest-proti-valce-a-ekologickym-skodam-plaval-brit-tri-dny-v-hormuzskem-prulivu-40609883",
+      "published_utc": "2026-11-26T15:43:44Z",
+      "collected_at_utc": "2026-11-26T18:52:30Z",
+      "title_raw": "Na protest proti válce a ekologickým škodám plaval Brit tři dny v Hormuzském průlivu",
+      "lead_raw": "Britský vytrvalostní plavec Lewis Pugh na protest proti válce v Íránu a s ní souvisejícím ekologickým škodám plaval tři dny v Hormuzském průlivu, který je klíčový pro světové dodávky ropy a zkapalněného zemního plynu.",
+      "title_en": "In protest against the war and environmental damage, the Brit swam for three days in the Strait of Hormuz",
+      "lead_en": "British endurance swimmer Lewis Pugh swam for three days in the Strait of Hormuz in protest against the war in Iran and the related environmental damage; the Strait of Hormuz is crucial for global oil and liquefied natural gas supplies.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 12,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "oil",
+          "natural_gas"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "oil",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "natural_gas",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:35Z"
+    },
+    {
+      "id": "5d8aff9836185a9a57160b63da4cc474518479f1",
+      "fingerprint": "fe7387c3511ea6321d6f2053f345569c67217a54",
+      "source": "iROZHLAS - Economy",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/ekonomika/eon-od-ledna-zdrazi-plyn-zakaznikum-bez-fixace-priplati-si-o-desitky-az-stovky_2611261624_zfr",
+      "published_utc": "2026-11-26T15:24:00Z",
+      "collected_at_utc": "2026-11-26T18:52:27Z",
+      "title_raw": "E.ON od ledna zdraží plyn zákazníkům bez fixace. Připlatí si o desítky až stovky korun měsíčně",
+      "lead_raw": "Dodavatel energií E.ON v příštím roce zvýší ceny plynu zhruba 100 tisíc zákazníků se smlouvou bez fixace. Odběratelé si tak v závislosti na spotřebě připlatí několik desítek až stovek korun měsíčně. Nové ceny začnou platit od 10. ledna. E.ON o tom informoval ve čtvrtek. Společnost dříve ohlásila také zdražení nefixované elektřiny od nového roku. Energie postupně zdražují i další dodavatelé.",
+      "title_en": "E.ON will increase gas prices for customers without fixed rates starting in January. They will pay tens to hundreds of crowns more per month",
+      "lead_en": "Energy supplier E.ON will raise gas prices next year for about 100,000 customers with non-fixed contracts. Consumers will thus pay several tens to hundreds of crowns more per month depending on consumption. The new prices will take effect from January 10. E.ON announced this on Thursday. The company previously announced an increase in prices for non-fixed electricity starting from the new year. Other suppliers are gradually raising energy prices as well.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 6,
+        "economy": 3,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "electricity"
+        ],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "electricity",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:35Z"
+    },
+    {
+      "id": "9b9f1c039f2e31b3b23182ccdf0a2fb3bf5a633a",
+      "fingerprint": "8e993f262e8e5523fc249de44b14a99e0d291801",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/ekonomika/domaci/e-on-ceny-plynu-bez-fixace-pristi-rok-zvysi.A261126_160250_ekonomika_sile",
+      "published_utc": "2026-11-26T15:24:00Z",
+      "collected_at_utc": "2026-11-26T18:52:32Z",
+      "title_raw": "Zákazníci E.ON si v příštím roce připlatí až stovky měsíčně. Ceny plynu jdou nahoru",
+      "lead_raw": "Dodavatel energií E.ON v příštím roce zvýší ceny plynu zhruba 100 000 zákazníků se smlouvou bez fixace. Odběratelé si tak v závislosti na spotřebě připlatí několik desítek až stovek korun měsíčně. Nové ceny začnou platit od 10. ledna. Společnost už dříve ohlásila také zdražení nefixované elektřiny od nového roku.",
+      "title_en": "E.ON customers will pay up to hundreds more per month next year. Gas prices are rising",
+      "lead_en": "Energy supplier E.ON will raise gas prices for about 100,000 customers with non-fixed contracts next year. Consumers will thus pay several tens to hundreds of crowns more per month depending on consumption. The new prices will take effect from January 10. The company had previously announced an increase in prices for unfixed electricity starting from the new year.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 6,
+        "economy": 2,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "electricity"
+        ],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "electricity",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:35Z"
+    },
+    {
+      "id": "74db1189327e408ee0f165fbb34b09ae77894665",
+      "fingerprint": "7aadbfc65233fb0ed2f044521d2e32d7d4a7c5b1",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/ekonomika-plyn-u-e-on-podrazi-domacnosti-zaplati-az-o-stovky-korun-vic-40610729",
+      "published_utc": "2026-11-26T15:00:29Z",
+      "collected_at_utc": "2026-11-26T18:52:30Z",
+      "title_raw": "Plyn u E.ON podraží, domácnosti zaplatí až o stovky korun víc",
+      "lead_raw": "Dodavatel energií E.ON v příštím roce zvýší ceny plynu zhruba 100 tisíc zákazníků se smlouvou bez fixace. Odběratelé si tak v závislosti na spotřebě připlatí několik desítek až stovek korun měsíčně. Nové ceny začnou platit od 10. ledna. E.ON o tom informoval ve čtvrtek. Společnost dříve ohlásila také zdražení nefixované elektřiny od nového roku. Energie postupně zdražují i další dodavatelé.",
+      "title_en": "Gas prices will rise at E.ON, households will pay up to hundreds of crowns more",
+      "lead_en": "Energy supplier E.ON will raise gas prices next year for about 100,000 customers with non-fixed contracts. Consumers will thus pay several tens to hundreds of crowns more per month depending on consumption. The new prices will take effect from January 10. E.ON announced this on Thursday. The company previously announced an increase in prices for non-fixed electricity starting from the new year. Other suppliers are gradually raising energy prices as well.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 6,
+        "economy": 3,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "electricity"
+        ],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "electricity",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:35Z"
+    },
+    {
+      "id": "d20207f39af374debe1a062db797c93b0c32ea85",
+      "fingerprint": "6854c23edc4535b1355e0b989b82f153d0f49dca",
+      "source": "iROZHLAS - Economy",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/ekonomika/maximalni-cena-nafty-po-nekolika-mesicich-klesne-pod-43-korun-za-litr-zlevni-i_2611261448_cen",
+      "published_utc": "2026-11-26T13:48:00Z",
+      "collected_at_utc": "2026-11-26T18:52:27Z",
+      "title_raw": "Maximální cena nafty po několika měsících klesne pod 43 korun za litr, zlevní i benzin na 38,42 koruny",
+      "lead_raw": "Cenové stropy na pohonné hmoty v pátek opět o několik desítek haléřů klesnou. Nejvyšší povolená cena nafty bude po několika měsících pod úrovní 43 korun, oproti středě se sníží o 35 haléřů na 42,72 koruny za litr. Benzin pak budou moci čerpací stanice prodávat maximálně za 38,42 koruny za litr, což je o 38 haléřů méně Vyplývá to z cenového věstníku, který ve čtvrtek zveřejnilo ministerstvo financí.",
+      "title_en": "The maximum diesel price will drop below 43 crowns per liter after several months, and gasoline will also be reduced to 38.42 crowns",
+      "lead_en": "Fuel price caps will again be lowered by several tens of haléřů on Friday. The highest allowed diesel price will be below 43 crowns after several months, falling by 35 haléřů to 42.72 crowns per liter compared to Wednesday. Gas stations will then be able to sell gasoline for a maximum of 38.42 crowns per liter, which is 38 haléřů less. This is according to the price bulletin published by the Ministry of Finance on Thursday.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 3,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "fuel_prices"
+        ],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "fuel_prices",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:35Z"
+    },
+    {
+      "id": "efc7a77b3a586201374792fe2d6222f43f9bac71",
+      "fingerprint": "af0e6647d232eee77a3e658894a5863949671cf9",
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/maximalni-cena-nafty-po-nekolika-mesicich-klesne-pod-43-kc-zlevni-opet-i-benzin-/2905486",
+      "published_utc": "2026-11-26T13:12:00Z",
+      "collected_at_utc": "2026-11-26T18:52:28Z",
+      "title_raw": "Maximální cena nafty po několika měsících klesne pod 43 Kč, zlevní opět i benzin",
+      "lead_raw": "Praha - Cenové stropy na pohonné hmoty v pátek opět o několik desítek haléřů klesnou. Nejvyšší povolená cena nafty bude po několika měsících pod úrovní 43 korun, oproti dnešku se sníží o 35 haléřů na...",
+      "title_en": "The maximum diesel price will drop below 43 CZK after several months, and gasoline prices will drop again",
+      "lead_en": "Prague - Fuel price caps will again be lowered by several tens of haléřů on Friday. The highest allowed diesel price will be below 43 crowns after several months, a decrease of 35 haléřů compared to today on...",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 3,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "fuel_prices"
+        ],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "fuel_prices",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:36Z"
+    },
+    {
+      "id": "786cdc60c20def243a92c0e0e7a5ae0db519ea65",
+      "fingerprint": "3230d6b3d000be6b085e8b7dc87c5ac72ab0b48f",
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/paliva-v-cr-v-tydnu-opet-zlevnila-prumerna-cena-benzinu-je-nejnizsi-od-brezna/2907035",
+      "published_utc": "2026-11-26T11:01:00Z",
+      "collected_at_utc": "2026-11-26T18:52:28Z",
+      "title_raw": "Paliva v ČR v týdnu opět zlevnila, průměrná cena benzinu je nejnižší od března",
+      "lead_raw": "Praha - Pohonné hmoty v Česku v uplynulém týdnu opět zlevnily a průměrná cena benzinu Natural 95 se dostala na nejnižší úroveň od poloviny března, u nafty je nejnižší za čtyři měsíce. Litr naturalu se...",
+      "title_en": "Fuel prices in the Czech Republic dropped again this week, with the average gasoline price at its lowest since March",
+      "lead_en": "Prague - Fuel prices in the Czech Republic fell again last week, and the average price of Natural 95 gasoline reached its lowest level since mid-March, while diesel is the lowest in four months. A liter of natural gasoline is...",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "fuel_prices"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "fuel_prices",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:36Z"
+    },
     {
       "id": "ab7e48c491d74960f55fc30dcfaa07eb74ac989a",
       "fingerprint": "d6aba6fcf9a2c4e805daf7e36dcb8fb03f2bf5a5",
@@ -806,81 +1847,6 @@
       "topics": [
         "energy",
         "domestic_politics"
-      ],
-      "relevant": true,
-      "primary_topic": "energy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:40:43Z"
-    },
-    {
-      "id": "89fb25eba9e2b469e0386ee6191d9a2c6d174b6e",
-      "fingerprint": "b8ef4f6caa94a2a9020c3d2131de0cd750bec8af",
-      "source": "iROZHLAS - Economy",
-      "source_language": "cs",
-      "url": "https://www.irozhlas.cz/ekonomika/cenovy-strop-na-naftu-po-delsi-dobe-klesne-pod-44-korun-na-litr-zlevnit-ma-i_2611241507_jar",
-      "published_utc": "2026-11-24T14:07:00Z",
-      "collected_at_utc": "2026-11-25T14:33:34Z",
-      "title_raw": "Cenový strop na naftu po delší době klesne pod 44 korun na litr. Zlevnit má i benzin",
-      "lead_raw": "Maximální ceny pohonných hmot, které denně stanovuje stát, ve středu opět o desítky haléřů klesnou. Cenový strop na naftu se po delší době sníží pod úroveň 44 korun, oproti úterý nafta zlevní o 47 haléřů na 43,54 koruny za litr. Benzin natankují řidiči maximálně za 39,11 koruny. Vyplývá to z cenového věstníku, který v úterý zveřejnilo ministerstvo financí. Vláda v pondělí prodloužila opatření proti vysokým cenám pohonných hmot do konce roku.",
-      "title_en": "The price cap on diesel will drop below 44 crowns per liter after a long time. Gasoline is also set to become cheaper",
-      "lead_en": "The maximum fuel prices set daily by the state will again drop by tens of haléřů on Wednesday. The price cap on diesel will drop below 44 crowns after a long time, and compared to Tuesday, diesel will drop by 47 haléřů to 43.54 crowns per liter. Drivers can fill up with gasoline for a maximum of 39.11 crowns. This is according to the price bulletin published by the Ministry of Finance on Tuesday. On Monday, the government extended measures against high fuel prices until the end of the year.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 6,
-        "economy": 3,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          "fuel_prices"
-        ],
-        "economy": [
-          "currency"
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          {
-            "concept": "fuel_prices",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "economy": [
-          {
-            "concept": "currency",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
-          }
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "energy"
       ],
       "relevant": true,
       "primary_topic": "energy",

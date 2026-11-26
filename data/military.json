@@ -1,9 +1,1467 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-26T07:23:11Z",
-  "count": 23,
+  "updated_at_utc": "2026-11-26T18:53:37Z",
+  "count": 34,
   "articles": [
+    {
+      "id": "3bf72901df183e7d3a19a21b5e09059dad2f2933",
+      "fingerprint": "ccf98da2faaa6da3c74d0944942b14f59230fdb5",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/krimi-vojaci-v-zatci-sikanovali-novacka-jednoho-policie-vini-ze-sexualniho-utoku-40610781",
+      "published_utc": "2026-11-26T18:20:13Z",
+      "collected_at_utc": "2026-11-26T18:52:30Z",
+      "title_raw": "Vojáci v Žatci šikanovali nováčka. Jednoho policie viní ze sexuálního útoku",
+      "lead_raw": "Vojenská policie obvinila dva desátníky žatecké posádky kvůli šikaně nováčka. Jeden z nich, který už v armádě neslouží, čelí také obvinění ze sexuálního útoku. Podle kriminalistů chování obou mužů připomínalo nejhorší praktiky mazácké vojny z osmdesátých let.",
+      "title_en": "Soldiers in Žatec bullied a rookie. One is accused by the police of sexual assault",
+      "lead_en": "The military police charged two corporals of the Žatec garrison for bullying a recruit. One of them, who no longer serves in the army, is also facing charges of sexual assault. According to investigators, the behavior of both men resembled the worst practices of the gritty military service of the 1980s.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 12,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces",
+          "military_activity"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:34Z"
+    },
+    {
+      "id": "5e9e1128f33f98662aec95ecbc4dec9965684313",
+      "fingerprint": "86d408be62ebde2c07165231bba071b09a0f139e",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/evropa-vojenske-cviceni-polsko-rusko-rakety-ukrajina-valka-obrana.A261126_114339_zahranicni_rtn",
+      "published_utc": "2026-11-26T18:00:00Z",
+      "collected_at_utc": "2026-11-26T18:52:32Z",
+      "title_raw": "Evropa si v Polsku poprvé otestovala velení bez Američanů. Vázla angličtina",
+      "lead_raw": "Rusko požaduje změnu „bezpečnostní architektury“ Evropy a Washington připustil, že se o ní bude jednat ještě před dosažením příměří. Její možný zárodek se ale minulý týden rýsoval v jihovýchodním Polsku, sto kilometrů od ukrajinských hranic. Jedenáct zemí si tam poprvé vyzkoušelo evropské vojenské velení bez amerických jednotek. Do toho přišla ruská provokace a problém se společným jazykem.",
+      "title_en": "Europe tested command without Americans in Poland for the first time. English was stuck",
+      "lead_en": "Russia demands a change in Europe's \"security architecture,\" and Washington admitted that negotiations will take place even before a ceasefire is achieved. However, its possible emergence was emerging last week in southeastern Poland, one hundred kilometers from the Ukrainian border. Eleven countries experienced European military command there for the first time without American troops. Then came Russian provocation and the problem of a common language.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 10,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "ceasefire"
+        ],
+        "military": [
+          "military_activity"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "ceasefire",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:34Z"
+    },
+    {
+      "id": "7ed5d784d7552a05a41a7763f956782ab6693545",
+      "fingerprint": "892828e3bf9abe14715b78abda8c1b69bc5e1105",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/zahranicni-bulhari-docasne-uzaviraji-cast-cerneho-more-kvuli-vojenskemu-cviceni-40610736",
+      "published_utc": "2026-11-26T16:22:30Z",
+      "collected_at_utc": "2026-11-26T18:52:30Z",
+      "title_raw": "Bulhaři dočasně uzavírají část Černého moře kvůli vojenskému cvičení",
+      "lead_raw": "Rozsáhlé vojenské cvičení zahájilo ve čtvrtek v Černém moři bulharské námořnictvo a vzdušné síly. Kvůli manévrům byla podle serveru Novinite oblast o rozloze zhruba 9000 kilometrů čtverečních dočasně prohlášena za nebezpečnou pro plavbu, kotvení, rybolov, potápění a jakékoliv podmořské práce.",
+      "title_en": "Bulgarians temporarily close part of the Black Sea due to military exercises",
+      "lead_en": "The Bulgarian Navy and Air Forces launched a large-scale military exercise on Thursday in the Black Sea. Due to the maneuvers, according to the Novinite website, the approximately 9,000 square kilometer area was temporarily declared dangerous for navigation, anchoring, fishing, diving, and any underwater activities.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 18,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "military_activity",
+          "military_exercises"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "military_exercises",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:34Z"
+    },
+    {
+      "id": "daaf76c3d2bcaa076186fd8a783cefab85bca62b",
+      "fingerprint": "d7439bb95131f3e9e4a06f7d7c6be0be9c76d960",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-trump-rekl-jsem-putinovi-at-ustoupi-od-veskere-vojenske-agrese-v-evrope-321629",
+      "published_utc": "2026-11-26T15:59:49Z",
+      "collected_at_utc": "2026-11-26T18:52:31Z",
+      "title_raw": "Trump: Řekl jsem Putinovi, ať ustoupí od veškeré vojenské agrese v Evropě",
+      "lead_raw": "Donald Trump věří v brzké uzavření míru na Ukrajině. Na síti Truth Social uvedl, že Vladimira Putina na summitu v Číně vyzval ke konci agrese v Evropě.",
+      "title_en": "Trump: I told Putin to back down from all military aggression in Europe",
+      "lead_en": "Donald Trump believes in the imminent conclusion of peace in Ukraine. On the Truth Social network, he stated that he called on Vladimir Putin at the summit in China to end aggression in Europe.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 9,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 12,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits"
+        ],
+        "military": [
+          "military_activity"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:34Z"
+    },
+    {
+      "id": "87ba6edfc645e4a00226dd776f40a960b44a9532",
+      "fingerprint": "78e35736af4710175548498bba739d4c2e8e7dcf",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/trump-putinovi-jsem-rekl-aby-ustoupil-od-veskere-vojenske-agrese-proti-evrope.A261126_161106_zahranicni_bro",
+      "published_utc": "2026-11-26T15:56:00Z",
+      "collected_at_utc": "2026-11-26T18:52:32Z",
+      "title_raw": "Trump: Putinovi jsem řekl, aby ustoupil od veškeré vojenské agrese proti Evropě",
+      "lead_raw": "Americký prezident Donald Trump podle svého vyjádření na síti Truth Social minulý týden při jednání v Číně řekl ruskému prezidentovi Vladimiru Putinovi, že chce, aby ustoupil od veškeré vojenské agrese vůči územím po celé Evropě. Uvedl také, že věří v možnost dosažení míru na Ukrajině.",
+      "title_en": "Trump: I told Putin to back down from all military aggression against Europe",
+      "lead_en": "According to his statement on Truth Social last week during talks in China, U.S. President Donald Trump told Russian President Vladimir Putin that he wants him to withdraw from all military aggression against territories across Europe. He also stated that he believes in the possibility of achieving peace in Ukraine.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 9,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 12,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "military_activity"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:35Z"
+    },
+    {
+      "id": "2aad3fc01e2807e03b031087150924d50db7d786",
+      "fingerprint": "d5727d2630bf90043b69415823562347ac3d162d",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/omezeni-hvezdneho-stitu-ukrajine-odhalilo-zranitelnost-modernich-armad-379977",
+      "published_utc": "2026-11-26T15:44:26Z",
+      "collected_at_utc": "2026-11-26T18:52:29Z",
+      "title_raw": "Omezení „Hvězdného štítu” Ukrajině odhalilo zranitelnost moderních armád",
+      "lead_raw": "Omezení satelitních služeb Ukrajině naznačilo, že ze Starlinku, potažmo Starshieldu (Hvězdného šítu), se stává zbraň americké zahraniční politiky. Odpovědnost za klíčové rozhodnutí zůstává nejasná – věc chtějí prošetřit američtí demokraté. Kyjev reagoval na restrikce úspěšným testem vlastního naváděcího systému a pracuje na vývoji družic. Konkurovat Starlinku se snaží i Moskva. Podle expertů případ odhalil, jak moc jsou moderní armády zranitelné, pokud jde o závislost na satelitních technologiích, které mohou vlády či soukromé firmy lehce vypnout.",
+      "title_en": "The restriction of the \"Star Shield\" on Ukraine revealed the vulnerability of modern armies",
+      "lead_en": "The restriction of satellite services to Ukraine indicated that Starlink, or Starshield (Starshield), is becoming a weapon of American foreign policy. Responsibility for the key decision remains unclear – the matter is to be investigated by American Democrats. Kyiv responded to the restrictions by successfully testing its own guidance system and is working on satellite development. Moscow is also trying to compete with Starlink. According to experts, the case revealed how vulnerable modern armies are when it comes to dependence on satellite technologies, which governments or private companies can easily shut down.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 13,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 15,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces",
+          "weapons"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "international_relations",
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "weapons",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "international_relations",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:35Z"
+    },
+    {
+      "id": "a948e22be353817bc91e73f5a4f4a2e6160090bf",
+      "fingerprint": "86f479b2f53e2e7c37c08afafc75a8b6e4bca6eb",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-trump-vyzval-putina-aby-ustoupil-od-veskere-vojenske-agrese-vuci-cele-evrope-40610732",
+      "published_utc": "2026-11-26T15:10:29Z",
+      "collected_at_utc": "2026-11-26T18:52:30Z",
+      "title_raw": "Trump vyzval Putina, aby ustoupil od veškeré vojenské agrese vůči celé Evropě",
+      "lead_raw": "Americký prezident Donald Trump během jednání v Číně vyzval ruského vůdce Vladimira Putina, aby ustoupil od veškeré vojenské agrese vůči územím po celé Evropě. Napsal to ve čtvrtek odpoledne SEČ na své vlastní síti Truth Social.",
+      "title_en": "Trump called on Putin to abandon all military aggression against all of Europe",
+      "lead_en": "During talks in China, U.S. President Donald Trump called on Russian leader Vladimir Putin to abandon all military aggression against territories across Europe. He wrote this on Thursday afternoon CET on his own network, Truth Social.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 9,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "military_activity"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:35Z"
+    },
+    {
+      "id": "6fed045c3cb852dfddd36d694947ad561366bd6b",
+      "fingerprint": "2ea1899b097f7fff8db210f1131092f648ed557d",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-rusko-a-ukrajina-si-predaly-dalsi-tela-padlych-vojaku-321615",
+      "published_utc": "2026-11-26T14:57:05Z",
+      "collected_at_utc": "2026-11-26T18:52:31Z",
+      "title_raw": "Rusko a Ukrajina si předaly další těla padlých vojáků",
+      "lead_raw": "Moskva a Kyjev uskutečnily další repatriaci ostatků padlých vojáků. Na běloruském hraničním přechodu Novaja Huta předala ruská strana ukrajinským zástupcům 250 těl, zpět dostala pozůstatky 22 svých vojáků.",
+      "title_en": "Russia and Ukraine exchanged more bodies of fallen soldiers",
+      "lead_en": "Moscow and Kyiv carried out further repatriation of the remains of fallen soldiers. At the Belarusian border crossing Novaya Huta, the Russian side handed over 250 bodies to Ukrainian representatives and got back the remains of 22 of its soldiers.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 9,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 15,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "military_activity"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": true,
+            "lead": false,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:35Z"
+    },
+    {
+      "id": "fc67706ae5a415ecabe50017d5dbb147e911722a",
+      "fingerprint": "6a92697550ee697eaf135c20b06b18fa0d3a905f",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-ukrajinci-uderili-strelami-neptun-na-ruske-vojenske-letiste-40610720",
+      "published_utc": "2026-11-26T14:50:10Z",
+      "collected_at_utc": "2026-11-26T18:52:30Z",
+      "title_raw": "Ukrajinci udeřili střelami Neptun na ruské vojenské letiště",
+      "lead_raw": "Ukrajinská armáda v noci na čtvrtek zaútočila střelami Neptun na ruské vojenské letiště Marinovka ve Volgogradské oblasti. Na Telegramu o tom informoval ukrajinský generální štáb, podle něhož na tomto letišti mají Rusové dislokované bombardéry Su-34, kterými útočí na Ukrajinu. Štáb doplnil, že nyní vyhodnocuje způsobené poškození.",
+      "title_en": "Ukrainians struck a Russian military airfield with Neptune missiles",
+      "lead_en": "The Ukrainian army attacked the Russian military airfield Marinovka in the Volgograd region with Neptune missiles overnight into Thursday. The Ukrainian General Staff reported this on Telegram, stating that the Russians have Su-34 bombers stationed at this airport, with which they are attacking Ukraine. The staff added that it is now assessing the damage caused.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 15,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces",
+          "military_activity"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:35Z"
+    },
+    {
+      "id": "ddfdca44f05f02d96951d70975e4f2a83aaf8219",
+      "fingerprint": "dee89c476c232cf5cb38febb7f276ee559ad1e03",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/ruske-sabotaze-v-evrope-jsou-castejsi-a-propracovanejsi-uvadi-studie/2907174",
+      "published_utc": "2026-11-26T14:00:00Z",
+      "collected_at_utc": "2026-11-26T18:52:28Z",
+      "title_raw": "Ruské sabotáže v Evropě jsou častější a propracovanější, uvádí studie",
+      "lead_raw": "Praha - Ruské sabotážní operace v Evropě jsou stále propracovanější, přestože se evropským bezpečnostním a zpravodajským službám daří mařit více plánovaných útoků. Za 12 měsíců do letošního září výrazně...",
+      "title_en": "Russian sabotage in Europe is more frequent and sophisticated, the study states",
+      "lead_en": "Prague - Russian sabotage operations in Europe are becoming increasingly sophisticated, despite European security and intelligence services managing to thwart several planned attacks. In the 12 months leading up to this September, significantly...",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "intelligence"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "intelligence",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:35Z"
+    },
+    {
+      "id": "4a309d706b71de5dc76ff80295b47f347c7d5361",
+      "fingerprint": "d81c7dfc11e5abd94608b9defa08e564dc5ef6e7",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-valka-ztraty.A261126_085533_zahranicni_aha",
+      "published_utc": "2026-11-26T13:30:00Z",
+      "collected_at_utc": "2026-11-26T18:52:32Z",
+      "title_raw": "Ukrajinci mají větší ztráty než Rusové, tvrdí britská studie",
+      "lead_raw": "Na Ukrajině za pět let padlo až 720 tisíc ruských vojáků, naznačují data ukradená ze serverů ruského statistického úřadu. Můžeme jim věřit? A kolik padlo těch ukrajinských? Britský výzkumník Alexander Grable nedávno přišel s kacířskou studií, která dosavadní západní propočty ukrajinských ztrát zpochybňuje.",
+      "title_en": "Ukrainians suffer greater losses than Russians, claims British study",
+      "lead_en": "Up to 720,000 Russian soldiers have fallen in Ukraine over five years, according to data stolen from the servers of the Russian statistical office. Can we trust them? And how many Ukrainian soldiers have fallen? British researcher Alexander Grable recently came up with a heretical study that questions the current Western calculations of Ukrainian losses.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "military_activity"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:35Z"
+    },
+    {
+      "id": "fb0ead7ce00d8a5111f4a5bc2c17a3758fbe6fa3",
+      "fingerprint": "8a2856baa21a588fd47384343f84d2c6479e66fc",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/v-senatu-se-resi-obrana-zeme-dle-pavla-chybi-pruznost-znela-varovani-pred-ruskem-379978",
+      "published_utc": "2026-11-26T12:31:28Z",
+      "collected_at_utc": "2026-11-26T18:52:29Z",
+      "title_raw": "V Senátu se řešila obrana země. Dle Pavla chybí pružnost, zněla varování před Ruskem",
+      "lead_raw": "Veřejného slyšení v Senátu na téma připravenosti Česka na obranu státu a zajištění podpory spojeneckým jednotkám na českém území se zúčastnili mimo jiné prezident Petr Pavel, ministr obrany Jaromír Zůna (za SPD) a náčelník Generálního štábu Armády ČR Miroslav Hlaváč. Pavel upozornil na chybějící revizi krizové legislativy a varoval před hrozbou ze strany Ruska, Hlaváč označil pokračování podpory napadené Ukrajině za strategickou nezbytnost a Zůna představil projekty za 148 miliard korun, které jeho resort připravil a pro něž chce zajistit evropské financování.",
+      "title_en": "The Senate dealt with the country's defense. According to Pavel, there is a lack of flexibility; warnings were issued against Russia",
+      "lead_en": "The public hearing in the Senate on the topic of the Czech Republic's readiness to defend the state and ensure support for allied forces on Czech territory was attended, among others, by President Petr Pavel, Defense Minister Jaromír Zůna (for SPD), and Chief of the General Staff of the Czech Army Miroslav Hlaváč. Pavel pointed out the lack of a revision of crisis legislation and warned of the threat from Russia, Hlaváč described continued support for the attacked Ukraine as a strategic necessity, and Zůna presented projects worth 148 billion crowns that his ministry prepared and for which it wants to secure European funding.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 18,
+        "energy": 0,
+        "economy": 2,
+        "domestic_politics": 17,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces",
+          "defense_ministry",
+          "allied_forces"
+        ],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "political_parties",
+          "leadership"
+        ],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "defense_ministry",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "allied_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:36Z"
+    },
+    {
+      "id": "2256c45b0ea483bbe52a411cccbb53eff31ae6c2",
+      "fingerprint": "84e413054d87f0452b23597fadf2e7a7716a5711",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/umet-vyhledavat-informace-z-verejne-dostupnych-zdroju-vojaci-a-zaloznici_2611261303_aha",
+      "published_utc": "2026-11-26T12:03:00Z",
+      "collected_at_utc": "2026-11-26T18:52:27Z",
+      "title_raw": "Umět vyhledávat informace z veřejně dostupných zdrojů. Vojáci a záložníci podstoupili kurz v Olomouci",
+      "lead_raw": "Netradiční cvičení absolvovali v uplynulých dnech vybraní vojáci a záložáci české armády. Výcvikový prostor vyměnili za učebny v centru Olomouce a absolvovali historicky první tzv. OSINT kurz. Ten se účastníky snaží připravit na roli operátora - analytika, který vyhledává, ověřuje a vyhodnocuje informace z veřejně dostupných zdrojů.",
+      "title_en": "To be able to search for information from publicly available sources. Soldiers and reservists underwent a course in Olomouc",
+      "lead_en": "Selected soldiers and reservists of the Czech army recently completed an unconventional exercise. They exchanged the training area for classrooms in the center of Olomouc and completed the very first so-called OSINT course. This course aims to prepare participants for the role of an operator – an analyst who searches, verifies, and evaluates information from publicly available sources.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:36Z"
+    },
+    {
+      "id": "f6327c83d32e898a0cb27b2bb254f73a7cde22dd",
+      "fingerprint": "d0555222d3d0e19c2b95e09a21dc198e34ba4c7e",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ruske-utoky-zabijely-v-charkove-a-zasahly-kyjev-379975",
+      "published_utc": "2026-11-26T11:03:05Z",
+      "collected_at_utc": "2026-11-26T18:52:29Z",
+      "title_raw": "Ruské útoky zabíjely v Charkově a zasáhly Kyjev",
+      "lead_raw": "Ruský ranní útok na ukrajinské město Charkov zabil muže a ženu, kteří tvořili pár, píše server Ukrajinska pravda s odkazem na místní činitele. Metropole Kyjev čelila v noci na čtvrtek dalšímu ruskému útoku balistickými střelami, sedm lidí utrpělo zranění, uvedl starosta Vitalij Klyčko. V Ruskem okupované části Záporožské oblasti po ukrajinském dronovém útoku zemřelo pět lidí, uvedl podle médií tamní činitel.",
+      "title_en": "Russian attacks killed in Kharkiv and hit Kyiv",
+      "lead_en": "A Russian morning attack on the Ukrainian city of Kharkiv killed a man and a woman who were a couple, writes the website Ukrainska Pravda, citing local officials. The capital Kyiv faced another Russian ballistic missile attack overnight into Thursday, injuring seven people, said Mayor Vitali Klitschko. In the Russian-occupied part of the Zaporizhzhia region, five people died after a Ukrainian drone attack, a local official said, according to the media.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 8,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "missiles",
+          "generic_drones"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "missiles",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "generic_drones",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:36Z"
+    },
+    {
+      "id": "a936aaab6738c5f3a9f6a90ade607d709f0f0f83",
+      "fingerprint": "7dc7266be12ddf03215bf899372967e7fc40335c",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/zacina-mimoradny-summit-eu-staty-se-prou-o-dlouhodoby-rozpocet-379966",
+      "published_utc": "2026-11-26T09:14:12Z",
+      "collected_at_utc": "2026-11-26T18:52:29Z",
+      "title_raw": "„Co to je za strategii?“ Babiš na summitu odmítá spojit rozpočet EU s financováním Ukrajiny",
+      "lead_raw": "V Bruselu začal dvoudenní mimořádný summit Evropské unie, kde se bude jednat o klíčových konturách jejího rozpočtu na roky 2028 až 2034. Možnou dohodu zatím komplikuje i spor o finanční podporu Ukrajiny. Premiér Andrej Babiš (ANO) při příchodu na summit řekl, že podle něj nelze spojovat financování Kyjeva s rozpočtem Unie. Nizozemský premiér Rob Jetten naopak zmínil, že Ukrajina bude v příštích letech potřebovat více vojenské a finanční pomoci a žádná země EU se z toho nemůže vyvázat.",
+      "title_en": "\"What kind of strategy is this?\" Babiš refuses to link the EU budget to financing Ukraine at the summit",
+      "lead_en": "A two-day extraordinary European Union summit has begun in Brussels, where key outlines of its budget for 2028 to 2034 will be discussed. A possible agreement is currently complicated by a dispute over financial support for Ukraine. Prime Minister Andrej Babiš (ANO) said upon arriving at the summit that, in his view, financing Kyiv cannot be linked to the Union's budget. Dutch Prime Minister Rob Jetten, on the other hand, mentioned that Ukraine will need more military and financial aid in the coming years, and no EU country can escape this.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 9,
+        "military": 6,
+        "energy": 0,
+        "economy": 12,
+        "domestic_politics": 17,
+        "foreign_affairs": 18,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits"
+        ],
+        "military": [
+          "military_activity"
+        ],
+        "energy": [],
+        "economy": [
+          "eu_budget",
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "political_parties",
+          "czech_leaders",
+          "leadership"
+        ],
+        "foreign_affairs": [
+          "eu_policy",
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "military": [
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "eu_budget",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "economy",
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:37Z"
+    },
+    {
+      "id": "80ff41c8cd935d086f55106b1ba7a0160a945e57",
+      "fingerprint": "71a414953f8bd1755ba6a1c59a5a5d5db4f542dd",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/zadluzovani-postupne-poroste-varuje-kovarova-dle-pikory-by-mensi-deficit-slusel-379960",
+      "published_utc": "2026-11-26T07:27:20Z",
+      "collected_at_utc": "2026-11-26T18:52:29Z",
+      "title_raw": "Zadlužování postupně poroste, varuje Kovářová. Dle Pikory by menší deficit „slušel“",
+      "lead_raw": "Poslanci ve druhém čtení probírali návrhy na změny ve státním rozpočtu na příští rok. Koalice plánuje schodek 386 miliard korun, zvýšit by se měly výdaje ministerstva obrany, na platy státních zaměstnanců či důchody. Opozice návrh rozpočtu během projednávání opakovaně kritizovala. Místopředsedkyně sněmovního rozpočtového výboru Věra Kovářová (STAN) připomněla, že vláda v programovém prohlášení slibovala snižování schodků veřejných financí. Zadlužování bude podle ní postupně narůstat, kritizovala také zvyšování výdajů na obsluhu státního dluhu. Předseda téhož výboru Vladimír Pikora (Motoristé) tvrdí, že by tuzemské ekonomice „slušelo, kdyby měla deficit výrazně menší“. ve třetím čtení prý návrh rozpočtu i tak podpoří, chce prý zachovat stabilitu vlády. Debatou v Událostech, komentářích provázel Lukáš Dolanský.",
+      "title_en": "Borrowing will gradually increase, warns Kovářová. According to Pikora, a smaller deficit would \"suit me\"",
+      "lead_en": "In the second reading, MPs discussed proposals for changes to the state budget for next year. The coalition plans a deficit of 386 billion crowns, with increased spending on the Ministry of Defense's salaries and pensions. The opposition repeatedly criticized the budget proposal during the discussion. Deputy chairwoman of the parliamentary budget committee Věra Kovářová (STAN) reminded that the government promised to reduce public finance deficits in its program declaration. According to her, borrowing will gradually increase and also criticized the increase in expenditures on servicing the state debt. The chairman of the same committee, Vladimír Pikora (Motorists), claims that the domestic economy \"would benefit from having a significantly smaller deficit.\" In the third reading, he said he would support the budget proposal anyway, aiming to maintain government stability. The debate on Události, komentáře was hosted by Lukáš Dolanský.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 0,
+        "economy": 22,
+        "domestic_politics": 22,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "defense_ministry"
+        ],
+        "energy": [],
+        "economy": [
+          "government_budget",
+          "public_finances",
+          "government_debt",
+          "currency",
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "government",
+          "coalition",
+          "political_parties"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "defense_ministry",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "government_budget",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "public_finances",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "government_debt",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "coalition",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:37Z"
+    },
     {
       "id": "2d33b82e92a32c7bcec04c25f9acf790aa799398",
       "fingerprint": "da5ed41af8880de12ac03770daff3a10d977a06c",
@@ -1542,356 +3000,6 @@
       "primary_topic": "military",
       "classification_version": 5,
       "translated_at_utc": "2026-11-25T23:29:51Z"
-    },
-    {
-      "id": "4c39a47e37b64b23cdfc982b9ce8f9ca95dc70f5",
-      "fingerprint": "3d40a35befc3445d4d2bf1b4d5ec63b04acd7d79",
-      "source": "České noviny / ČTK - Czech Republic",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/armada-testuje-na-prerovsku-pozemni-roboty-bude-tam-cvicit-operatory/2905945",
-      "published_utc": "2026-11-24T12:14:00Z",
-      "collected_at_utc": "2026-11-25T14:33:35Z",
-      "title_raw": "Armáda testuje na Přerovsku pozemní roboty, bude tam cvičit operátory",
-      "lead_raw": "Lipník nad Bečvou (Přerovsko) - Kolové a pásové roboty či čtyřnohé stroje připomínající psy testuje armáda na polygonu u Lipníka nad Bečvou na Přerovsku. Areál slouží k ověřování schopností pozemních...",
-      "title_en": "The army is testing ground robots in the Přerov region and will train operators there.",
-      "lead_en": "Lipník nad Bečvou (Přerov region) - The army is testing wheeled and tracked robots or four-legged dog-like machines at a training ground near Lipník nad Bečvou in the Přerov region. The site serves to test the capabilities of ground personnel...",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 9,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "armed_forces"
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "armed_forces",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "military"
-      ],
-      "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:40:43Z"
-    },
-    {
-      "id": "3a114054df427b65503f78f8e7ee84dde2d11bc7",
-      "fingerprint": "818abc01c1d51cc1322350d8ae7f6e97e10fc564",
-      "source": "Radio Prague International (EN)",
-      "source_language": "en",
-      "url": "https://english.radio.cz/czechia-must-prepare-host-allied-troops-experts-warn-8903451",
-      "published_utc": "2026-11-24T12:04:00Z",
-      "collected_at_utc": "2026-11-25T14:33:43Z",
-      "title_raw": "Czechia must prepare to host allied troops, experts warn",
-      "lead_raw": "Czechia must prepare to host allied troops, experts warn",
-      "title_en": "Czechia must prepare to host allied troops, experts warn",
-      "lead_en": "Czechia must prepare to host allied troops, experts warn",
-      "translation_status": "not_required",
-      "translation_version": 0,
-      "validation_version": 0,
-      "translation_attempts": 0,
-      "translation_provider": "original_english",
-      "translation_method": null,
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 9,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "allied_forces"
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "allied_forces",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "military"
-      ],
-      "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 5
-    },
-    {
-      "id": "ca2de03f272bcf8968a974f8b78a28bb0aba87fe",
-      "fingerprint": "c609d824fe7a2dbf1cec77b067e1459bed0d2a62",
-      "source": "Radio Prague International (EN)",
-      "source_language": "en",
-      "url": "https://english.radio.cz/army-chief-warns-2-percent-defence-spending-will-limit-modernisation-8903443",
-      "published_utc": "2026-11-24T11:13:00Z",
-      "collected_at_utc": "2026-11-25T14:33:43Z",
-      "title_raw": "Army chief warns 2 percent defence spending will limit modernisation",
-      "lead_raw": "Army chief warns 2 percent defence spending will limit modernisation",
-      "title_en": "Army chief warns 2 percent defence spending will limit modernisation",
-      "lead_en": "Army chief warns 2 percent defence spending will limit modernisation",
-      "translation_status": "not_required",
-      "translation_version": 0,
-      "validation_version": 0,
-      "translation_attempts": 0,
-      "translation_provider": "original_english",
-      "translation_method": null,
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 18,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "armed_forces",
-          "defense_spending"
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "armed_forces",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "defense_spending",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "military"
-      ],
-      "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 5
-    },
-    {
-      "id": "ad0e214ec9bf3da4e15f26add563d95f2c08febb",
-      "fingerprint": "7635d81635245a15ed1a200d65e1146ac98d0ea0",
-      "source": "České noviny / ČTK - Economy",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/ceska-zbrojovka-zahajila-dodavky-novych-sluzebnich-pistoli-pro-nemeckou-armadu/2905812",
-      "published_utc": "2026-11-24T09:08:00Z",
-      "collected_at_utc": "2026-11-25T14:33:36Z",
-      "title_raw": "Česká zbrojovka zahájila dodávky nových služebních pistolí pro německou armádu",
-      "lead_raw": "Uherský Brod (Uherskohradišťsko) - Společnost Česká zbrojovka z Uherského Brodu na Uherskohradišťsku zahájila dodávky nových služebních pistolí pro německou armádu. První pistole CZ P13 již Bundeswehr...",
-      "title_en": "Česká zbrojovka has started deliveries of new service pistols for the German army",
-      "lead_en": "Uherský Brod (Uherskohradišťsko) - The company Česká zbrojovka from Uherský Brod in the Uherské Hradiště district has started deliveries of new service pistols for the German army. The first CZ P13 pistol has already been issued by the Bundeswehr...",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 9,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "armed_forces"
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "armed_forces",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "military"
-      ],
-      "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:40:43Z"
-    },
-    {
-      "id": "50bacc3ece6f0796d42180855c5b6e18fc58ec07",
-      "fingerprint": "d18c72f326f6b08f3d3d607780b8ad3332f737e8",
-      "source": "České noviny / ČTK - Czech Republic",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/armada-bude-pri-rozpoctu-2-hdp-stezi-rozvijet-nove-projekty-rekl-hlavac/2905715",
-      "published_utc": "2026-11-24T08:20:00Z",
-      "collected_at_utc": "2026-11-25T14:33:35Z",
-      "title_raw": "Armáda bude při rozpočtu 2 % HDP stěží rozvíjet nové projekty, řekl Hlaváč",
-      "lead_raw": "Praha - Při obranných výdajích ve výši dvou procent hrubého domácího produktu (HDP) armáda naráží na své limity. Dokáže udržet své schopnosti a plnit úkoly, obtížně ale bude rozvíjet nové projekty a zpomalí...",
-      "title_en": "The army will hardly develop new projects with a budget of 2% of GDP, said Hlaváč",
-      "lead_en": "Prague - With defense spending amounting to two percent of gross domestic product (GDP), the army is hitting its limits. It can maintain its capabilities and fulfill tasks, but it will struggle to develop new projects and slow down...",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 9,
-        "energy": 0,
-        "economy": 12,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "armed_forces"
-        ],
-        "energy": [],
-        "economy": [
-          "macroeconomics",
-          "generic_budget"
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "armed_forces",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "macroeconomics",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "generic_budget",
-            "strength": 1,
-            "headline": true,
-            "lead": false,
-            "points": 3
-          }
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "military",
-        "economy"
-      ],
-      "relevant": true,
-      "primary_topic": "economy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:40:43Z"
     }
   ],
   "topic": "military"

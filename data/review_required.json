@@ -1,8 +1,8 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-26T07:23:11Z",
-  "count": 6,
+  "updated_at_utc": "2026-11-26T18:53:37Z",
+  "count": 5,
   "articles": [
     {
       "id": "8e44e312455e70dc7dac810bcfab5738de7ba5dc",
@@ -414,85 +414,6 @@
       "primary_topic": "local_events",
       "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:59:14Z"
-    },
-    {
-      "id": "4259adf13e5f0031b16a2a3cb10d0775afb73018",
-      "fingerprint": "57ee313915e00a801136fb9df63519b49586178a",
-      "source": "České noviny / ČTK - Economy",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/prodej-novych-aut-v-eu-v-rijnu-vzrostl-pomahaji-elektromobily/2905771",
-      "published_utc": "2026-11-24T08:08:00Z",
-      "collected_at_utc": "2026-11-25T14:33:36Z",
-      "title_raw": "Prodej nových aut v EU v říjnu vzrostl, pomáhají elektromobily",
-      "lead_raw": "Brusel - Prodej nových osobních aut v Evropské unii se v říjnu meziročně zvýšil o 2,6 procenta na 939.447 vozů. Ve zprávě o registracích nových vozidel to dnes uvedlo Evropské sdružení výrobců automobilů...",
-      "title_en": "Sales of new cars in the EU increased in October, with electric vehicles helping",
-      "lead_en": "Brussels - Sales of new passenger cars in the European Union increased year-on-year in October to 939,447 vehicles. This was stated today in a report on new vehicle registrations by the European Automobile Manufacturers Association...",
-      "translation_status": "review_required",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [
-        "lead:missing_numeric_values",
-        "lead:missing_percentage_reference"
-      ],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 9,
-        "domestic_politics": 0,
-        "foreign_affairs": 9,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "automotive_market"
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          "eu_policy"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "automotive_market",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "economy",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "economy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:40:43Z"
     }
   ]
 }

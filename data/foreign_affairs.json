@@ -1,9 +1,2527 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-26T07:23:11Z",
-  "count": 65,
+  "updated_at_utc": "2026-11-26T18:53:37Z",
+  "count": 86,
   "articles": [
+    {
+      "id": "5e9e1128f33f98662aec95ecbc4dec9965684313",
+      "fingerprint": "86d408be62ebde2c07165231bba071b09a0f139e",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/evropa-vojenske-cviceni-polsko-rusko-rakety-ukrajina-valka-obrana.A261126_114339_zahranicni_rtn",
+      "published_utc": "2026-11-26T18:00:00Z",
+      "collected_at_utc": "2026-11-26T18:52:32Z",
+      "title_raw": "Evropa si v Polsku poprvé otestovala velení bez Američanů. Vázla angličtina",
+      "lead_raw": "Rusko požaduje změnu „bezpečnostní architektury“ Evropy a Washington připustil, že se o ní bude jednat ještě před dosažením příměří. Její možný zárodek se ale minulý týden rýsoval v jihovýchodním Polsku, sto kilometrů od ukrajinských hranic. Jedenáct zemí si tam poprvé vyzkoušelo evropské vojenské velení bez amerických jednotek. Do toho přišla ruská provokace a problém se společným jazykem.",
+      "title_en": "Europe tested command without Americans in Poland for the first time. English was stuck",
+      "lead_en": "Russia demands a change in Europe's \"security architecture,\" and Washington admitted that negotiations will take place even before a ceasefire is achieved. However, its possible emergence was emerging last week in southeastern Poland, one hundred kilometers from the Ukrainian border. Eleven countries experienced European military command there for the first time without American troops. Then came Russian provocation and the problem of a common language.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 10,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "ceasefire"
+        ],
+        "military": [
+          "military_activity"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "ceasefire",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:34Z"
+    },
+    {
+      "id": "935f82194b4ac1f8b6854add4f4de65315bd3663",
+      "fingerprint": "b02899f6689ded08418d7f24a7326b0728376b35",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/lisnard-le-penova-francouzske-prezidentske-volby-2027-francie.A261126_151355_zahranicni_jhr",
+      "published_utc": "2026-11-26T16:30:00Z",
+      "collected_at_utc": "2026-11-26T18:52:32Z",
+      "title_raw": "Le Penové roste nečekaná konkurence. „Francouzský Milei“ hodlá okleštit stát",
+      "lead_raw": "V kampani před francouzskými prezidentskými volbami se začíná rýsovat nová hvězda. Je jí starosta Cannes David Lisnard, jenž do Francie přináší libertariánskou politiku a thatcherovsky radikální přístup. Chce bojovat s rozsáhlou byrokracií a slibuje masivní škrty. Daří se mu oslovovat voliče Marine Le Penové a vyvolávat kritické odezvy v centristickém táboře.",
+      "title_en": "Le Pen faces unexpected competition. \"French Milei\" intends to cut the state",
+      "lead_en": "A new star is beginning to take shape in the campaign ahead of the French presidential election. It is the mayor of Cannes, David Lisnard, who is bringing libertarian politics and a Thatcherian radical approach to France. He wants to fight extensive bureaucracy and promises massive cuts. He is succeeding in appealing to Marine Le Pen's voters and provoking critical reactions within the centrist camp.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "foreign_elections"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "foreign_elections",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:34Z"
+    },
+    {
+      "id": "daaf76c3d2bcaa076186fd8a783cefab85bca62b",
+      "fingerprint": "d7439bb95131f3e9e4a06f7d7c6be0be9c76d960",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-trump-rekl-jsem-putinovi-at-ustoupi-od-veskere-vojenske-agrese-v-evrope-321629",
+      "published_utc": "2026-11-26T15:59:49Z",
+      "collected_at_utc": "2026-11-26T18:52:31Z",
+      "title_raw": "Trump: Řekl jsem Putinovi, ať ustoupí od veškeré vojenské agrese v Evropě",
+      "lead_raw": "Donald Trump věří v brzké uzavření míru na Ukrajině. Na síti Truth Social uvedl, že Vladimira Putina na summitu v Číně vyzval ke konci agrese v Evropě.",
+      "title_en": "Trump: I told Putin to back down from all military aggression in Europe",
+      "lead_en": "Donald Trump believes in the imminent conclusion of peace in Ukraine. On the Truth Social network, he stated that he called on Vladimir Putin at the summit in China to end aggression in Europe.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 9,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 12,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits"
+        ],
+        "military": [
+          "military_activity"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:34Z"
+    },
+    {
+      "id": "87ba6edfc645e4a00226dd776f40a960b44a9532",
+      "fingerprint": "78e35736af4710175548498bba739d4c2e8e7dcf",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/trump-putinovi-jsem-rekl-aby-ustoupil-od-veskere-vojenske-agrese-proti-evrope.A261126_161106_zahranicni_bro",
+      "published_utc": "2026-11-26T15:56:00Z",
+      "collected_at_utc": "2026-11-26T18:52:32Z",
+      "title_raw": "Trump: Putinovi jsem řekl, aby ustoupil od veškeré vojenské agrese proti Evropě",
+      "lead_raw": "Americký prezident Donald Trump podle svého vyjádření na síti Truth Social minulý týden při jednání v Číně řekl ruskému prezidentovi Vladimiru Putinovi, že chce, aby ustoupil od veškeré vojenské agrese vůči územím po celé Evropě. Uvedl také, že věří v možnost dosažení míru na Ukrajině.",
+      "title_en": "Trump: I told Putin to back down from all military aggression against Europe",
+      "lead_en": "According to his statement on Truth Social last week during talks in China, U.S. President Donald Trump told Russian President Vladimir Putin that he wants him to withdraw from all military aggression against territories across Europe. He also stated that he believes in the possibility of achieving peace in Ukraine.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 9,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 12,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "military_activity"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:35Z"
+    },
+    {
+      "id": "2aad3fc01e2807e03b031087150924d50db7d786",
+      "fingerprint": "d5727d2630bf90043b69415823562347ac3d162d",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/omezeni-hvezdneho-stitu-ukrajine-odhalilo-zranitelnost-modernich-armad-379977",
+      "published_utc": "2026-11-26T15:44:26Z",
+      "collected_at_utc": "2026-11-26T18:52:29Z",
+      "title_raw": "Omezení „Hvězdného štítu” Ukrajině odhalilo zranitelnost moderních armád",
+      "lead_raw": "Omezení satelitních služeb Ukrajině naznačilo, že ze Starlinku, potažmo Starshieldu (Hvězdného šítu), se stává zbraň americké zahraniční politiky. Odpovědnost za klíčové rozhodnutí zůstává nejasná – věc chtějí prošetřit američtí demokraté. Kyjev reagoval na restrikce úspěšným testem vlastního naváděcího systému a pracuje na vývoji družic. Konkurovat Starlinku se snaží i Moskva. Podle expertů případ odhalil, jak moc jsou moderní armády zranitelné, pokud jde o závislost na satelitních technologiích, které mohou vlády či soukromé firmy lehce vypnout.",
+      "title_en": "The restriction of the \"Star Shield\" on Ukraine revealed the vulnerability of modern armies",
+      "lead_en": "The restriction of satellite services to Ukraine indicated that Starlink, or Starshield (Starshield), is becoming a weapon of American foreign policy. Responsibility for the key decision remains unclear – the matter is to be investigated by American Democrats. Kyiv responded to the restrictions by successfully testing its own guidance system and is working on satellite development. Moscow is also trying to compete with Starlink. According to experts, the case revealed how vulnerable modern armies are when it comes to dependence on satellite technologies, which governments or private companies can easily shut down.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 13,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 15,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces",
+          "weapons"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "international_relations",
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "weapons",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "international_relations",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:35Z"
+    },
+    {
+      "id": "2bade4511ec3e421b94ef879406c4824df62c2c8",
+      "fingerprint": "308d10fb29abc36f7a308314fd907dee2de9395e",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/mestsky-soud-projednava-macinkovy-vyroky-hnuti-duha-pozaduje-omluvu-kvuli_2611261622_zfr",
+      "published_utc": "2026-11-26T15:22:00Z",
+      "collected_at_utc": "2026-11-26T18:52:27Z",
+      "title_raw": "Městský soud projednává Macinkovy výroky. Hnutí Duha požaduje omluvu kvůli spojování s terorismem",
+      "lead_raw": "Městský soud v Praze začal ve čtvrtek projednávat žalobu, kterou podalo Hnutí Duha na ministra zahraničí Petra Macinku. Hnutí po Macinkovi požaduje omluvu kvůli jeho výrokům spojujícím ekologické hnutí s terorismem. Podle soudu bude nutné nejprve vyjasnit, zda za výrok odpovídá přímo Macinka, nebo stát. Pokud je odpovědný ministr, budou muset obě strany ke svým tvrzením doložit další důkazy. Soudní jednání bude pokračovat na konci ledna.",
+      "title_en": "The Municipal Court is reviewing Macinka's statements. The Duha movement demands an apology over being linked to terrorism",
+      "lead_en": "The Municipal Court in Prague began hearing a lawsuit filed by the Duha Movement against Foreign Minister Petr Macinka on Thursday. The movement is demanding an apology from Macinka for his statements linking the environmental movement with terrorism. According to the court, it will first be necessary to clarify whether Macinka or the state is directly responsible for the statement. If the minister is responsible, both parties will have to provide additional evidence supporting their claims. The court hearing will continue at the end of January.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 2,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "foreign_ministers"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "leadership"
+        ],
+        "foreign_affairs": [
+          "terrorism"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "foreign_ministers",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "terrorism",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:35Z"
+    },
+    {
+      "id": "54dd9d81cb709533a9dd37597e88cf2af7951643",
+      "fingerprint": "594641a36b254a4a2b84c655078d1674d3f1e284",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-za-odmenu-na-prazdniny-ke-kimovi-rusko-posila-do-kldr-i-ukrajinske-deti-321586",
+      "published_utc": "2026-11-26T15:00:00Z",
+      "collected_at_utc": "2026-11-26T18:52:31Z",
+      "title_raw": "Rusko posílá do KLDR i ukrajinské děti",
+      "lead_raw": "Za odměnu mohou strávit prázdniny v jedné z nejizolovanějších zemí světa. Nyní Mezinárodní dětský tábor Songdowon vedl k rozepři mezi Pchjongjangem a Bernem.",
+      "title_en": "Russia is sending Ukrainian children to North Korea as well",
+      "lead_en": "As a reward, they can spend their holidays in one of the most isolated countries in the world. Now the Songdowon International Children's Camp has led to a dispute between Pyongyang and Bern.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 15,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": true,
+            "lead": false,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:35Z"
+    },
+    {
+      "id": "6fed045c3cb852dfddd36d694947ad561366bd6b",
+      "fingerprint": "2ea1899b097f7fff8db210f1131092f648ed557d",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-rusko-a-ukrajina-si-predaly-dalsi-tela-padlych-vojaku-321615",
+      "published_utc": "2026-11-26T14:57:05Z",
+      "collected_at_utc": "2026-11-26T18:52:31Z",
+      "title_raw": "Rusko a Ukrajina si předaly další těla padlých vojáků",
+      "lead_raw": "Moskva a Kyjev uskutečnily další repatriaci ostatků padlých vojáků. Na běloruském hraničním přechodu Novaja Huta předala ruská strana ukrajinským zástupcům 250 těl, zpět dostala pozůstatky 22 svých vojáků.",
+      "title_en": "Russia and Ukraine exchanged more bodies of fallen soldiers",
+      "lead_en": "Moscow and Kyiv carried out further repatriation of the remains of fallen soldiers. At the Belarusian border crossing Novaya Huta, the Russian side handed over 250 bodies to Ukrainian representatives and got back the remains of 22 of its soldiers.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 9,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 15,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "military_activity"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": true,
+            "lead": false,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:35Z"
+    },
+    {
+      "id": "fc67706ae5a415ecabe50017d5dbb147e911722a",
+      "fingerprint": "6a92697550ee697eaf135c20b06b18fa0d3a905f",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-ukrajinci-uderili-strelami-neptun-na-ruske-vojenske-letiste-40610720",
+      "published_utc": "2026-11-26T14:50:10Z",
+      "collected_at_utc": "2026-11-26T18:52:30Z",
+      "title_raw": "Ukrajinci udeřili střelami Neptun na ruské vojenské letiště",
+      "lead_raw": "Ukrajinská armáda v noci na čtvrtek zaútočila střelami Neptun na ruské vojenské letiště Marinovka ve Volgogradské oblasti. Na Telegramu o tom informoval ukrajinský generální štáb, podle něhož na tomto letišti mají Rusové dislokované bombardéry Su-34, kterými útočí na Ukrajinu. Štáb doplnil, že nyní vyhodnocuje způsobené poškození.",
+      "title_en": "Ukrainians struck a Russian military airfield with Neptune missiles",
+      "lead_en": "The Ukrainian army attacked the Russian military airfield Marinovka in the Volgograd region with Neptune missiles overnight into Thursday. The Ukrainian General Staff reported this on Telegram, stating that the Russians have Su-34 bombers stationed at this airport, with which they are attacking Ukraine. The staff added that it is now assessing the damage caused.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 15,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces",
+          "military_activity"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:35Z"
+    },
+    {
+      "id": "63844f363edf6a9073b3a4abc7e96e0b8f373f2f",
+      "fingerprint": "e943f85c4b22f7f08b20d4082428e5e0baa927bc",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/ostrava/zpravy/vanoce-opava-ruske-kolo-zruseni-atrakce-vanocni-trhy-czudek-kritika.A261126_122457_ostrava-zpravy_dmk",
+      "published_utc": "2026-11-26T13:55:00Z",
+      "collected_at_utc": "2026-11-26T18:52:32Z",
+      "title_raw": "Opava zrušila ruské kolo kvůli solidaritě s Ukrajinou. Naprosto směšné, bouří se lidé",
+      "lead_raw": "Bouřlivou diskusi spustilo v Opavě zdůvodnění toho, že součástí letošních vánočních trhů nebude ruské kolo. Nový primátor Petr Czudek se tímto krokem vymezuje proti ruskému agresorovi ve válce na Ukrajině, jejímuž lidu naopak vyjadřuje solidaritu. Gesto se však s velkým pochopením nesetkalo.",
+      "title_en": "Opava canceled the Ferris wheel out of solidarity with Ukraine. Absolutely ridiculous, people are outraged",
+      "lead_en": "A heated discussion in Opava was sparked by the justification that the Ferris wheel will not be part of this year's Christmas markets. The new mayor, Petr Czudek, with this move, is distancing himself from the Russian aggressor in the war in Ukraine, to whose people he expresses solidarity. However, the gesture was not met with much understanding.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:35Z"
+    },
+    {
+      "id": "80df8a856c299c2759ee06d96631b791b59831d1",
+      "fingerprint": "192ecf3df3509219b9dc42b53d3759ef41a966a6",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/domaci/soud-zacal-projednavat-zalobu-hnuti-duha-na-macinku-hnuti-chce-omluvu.A261126_142258_domaci_aoc",
+      "published_utc": "2026-11-26T13:48:00Z",
+      "collected_at_utc": "2026-11-26T18:52:32Z",
+      "title_raw": "Hnutí Duha jsou teroristé, řekl Macinka. Řečnická hyperbola, hájí ho advokátka",
+      "lead_raw": "Žalobu Hnutí Duha na ministra zahraničí a předsedu Motoristů Petra Macinku kvůli jeho výrokům spojujícím ekologické hnutí s terorismem dnes začal projednávat Městský soud v Praze. Hnutí po Macinkovi požaduje omluvu. Podle soudu bude nutné nejprve vyjasnit, zda za výrok odpovídá přímo Macinka, nebo stát. Pokud je odpovědný ministr, budou muset obě strany ke svým tvrzením doložit další důkazy.",
+      "title_en": "The Duha movement is terrorists, Macinka said. Rhetorical hyperbole, defends his lawyer",
+      "lead_en": "The Rainbow Movement began hearing the lawsuit against Foreign Minister and Motorists' chairman Petr Macinka today due to his statements linking the environmental movement with terrorism. The movement demands an apology from Macinka. According to the court, it will first be necessary to clarify whether Macinka or the state is directly responsible for the statement. If the minister is responsible, both parties will have to provide additional evidence for their claims.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 2,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "foreign_ministers"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "leadership"
+        ],
+        "foreign_affairs": [
+          "terrorism"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "foreign_ministers",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "terrorism",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:35Z"
+    },
+    {
+      "id": "2068620dc5dbc03eacef11ae3fe7a1b088ad7de2",
+      "fingerprint": "0dd697a703fd849a67519d03ef1f4dcb2ec00dad",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-soud-resi-macinkuv-vyrok-jen-nazor-hajila-advokatka-jeho-slova-o-terorismu-321571",
+      "published_utc": "2026-11-26T13:40:12Z",
+      "collected_at_utc": "2026-11-26T18:52:31Z",
+      "title_raw": "Jen názor, hájila Macinkova advokátka jeho slova o terorismu",
+      "lead_raw": "Soud se začal zabývat žalobou Hnutí Duha na Petra Macinku, který ekologický spolek označil za „teroristickou organizaci“. Ministrova advokátka jeho výrok hájila jako projev názoru.",
+      "title_en": "Just an opinion, Macinka's lawyer defended his words about terrorism",
+      "lead_en": "The court began to consider the lawsuit filed by the Duha Movement against Petr Macinka, who labeled the ecological association a \"terrorist organization.\" The minister's lawyer defended his statement as an expression of opinion.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 2,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "leadership"
+        ],
+        "foreign_affairs": [
+          "terrorism"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "terrorism",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:35Z"
+    },
+    {
+      "id": "4a309d706b71de5dc76ff80295b47f347c7d5361",
+      "fingerprint": "d81c7dfc11e5abd94608b9defa08e564dc5ef6e7",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajina-valka-ztraty.A261126_085533_zahranicni_aha",
+      "published_utc": "2026-11-26T13:30:00Z",
+      "collected_at_utc": "2026-11-26T18:52:32Z",
+      "title_raw": "Ukrajinci mají větší ztráty než Rusové, tvrdí britská studie",
+      "lead_raw": "Na Ukrajině za pět let padlo až 720 tisíc ruských vojáků, naznačují data ukradená ze serverů ruského statistického úřadu. Můžeme jim věřit? A kolik padlo těch ukrajinských? Britský výzkumník Alexander Grable nedávno přišel s kacířskou studií, která dosavadní západní propočty ukrajinských ztrát zpochybňuje.",
+      "title_en": "Ukrainians suffer greater losses than Russians, claims British study",
+      "lead_en": "Up to 720,000 Russian soldiers have fallen in Ukraine over five years, according to data stolen from the servers of the Russian statistical office. Can we trust them? And how many Ukrainian soldiers have fallen? British researcher Alexander Grable recently came up with a heretical study that questions the current Western calculations of Ukrainian losses.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "military_activity"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:35Z"
+    },
+    {
+      "id": "3dd6d1e4e2599b715ddca7370f77f87c72369a1e",
+      "fingerprint": "d97514ca08fae2e815c05463c9463e2f935d12b5",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/soud-zacal-projednavat-zalobu-hnuti-duha-na-macinku/2907137",
+      "published_utc": "2026-11-26T13:11:00Z",
+      "collected_at_utc": "2026-11-26T18:52:28Z",
+      "title_raw": "Soud začal projednávat žalobu Hnutí Duha na Macinku",
+      "lead_raw": "Praha - Žalobu Hnutí Duha na ministra zahraničí a předsedu Motoristů Petra Macinku kvůli jeho výrokům spojujícím ekologické hnutí s terorismem dnes začal projednávat Městský soud v Praze. Hnutí po Macinkovi...",
+      "title_en": "The court began hearing the lawsuit filed by the Rainbow Movement against Macinka",
+      "lead_en": "Prague - The Municipal Court in Prague began hearing the lawsuit by the Duha Movement against the Minister of Foreign Affairs and chairman of the Motorists, Petr Macinka, over his statements linking the environmental movement with terrorism. The movement after Macinka...",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 2,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "foreign_ministers"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "leadership"
+        ],
+        "foreign_affairs": [
+          "terrorism"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "foreign_ministers",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "terrorism",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "diplomacy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:36Z"
+    },
+    {
+      "id": "d09126935ee8bf6120a3e52f565eb81de7617ae3",
+      "fingerprint": "15382d0f07a2ab05ce4be3f3ac8df58f69c87725",
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/unijni-prezidenti-a-premieri-jsou-od-dohody-o-rozpoctu-daleko-uvedla-meloniova/2905530",
+      "published_utc": "2026-11-26T12:47:00Z",
+      "collected_at_utc": "2026-11-26T18:52:28Z",
+      "title_raw": "Unijní prezidenti a premiéři jsou od dohody o rozpočtu daleko, uvedla Meloniová",
+      "lead_raw": "Brusel - Prezidenti a premiéři zemí EU jsou stále velmi daleko od dosažení dohody o budoucím víceletém rozpočtu Evropské unie, uvedla dnes v Bruselu na summitu bloku italská premiérka Giorgia Meloniová....",
+      "title_en": "EU presidents and prime ministers are far from reaching a budget agreement, Meloni said",
+      "lead_en": "Brussels - The presidents and prime ministers of EU countries are still very far from reaching an agreement on the future multiannual budget of the European Union, Italian Prime Minister Giorgia Meloni said today at the bloc's summit in Brussels....",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 0,
+        "energy": 0,
+        "economy": 9,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "eu_budget",
+          "generic_budget"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "eu_budget",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "economy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:36Z"
+    },
+    {
+      "id": "cbd21b465651f02157bf5f58abc19744f7a0f0aa",
+      "fingerprint": "1161da4d78ff0e6ef5780b50141031e6cce6c9c7",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/schillerova-cr-v-dalsim-obdobi-ziska-z-eu-urcite-mene-penez-nez-doposud/2907112",
+      "published_utc": "2026-11-26T12:35:00Z",
+      "collected_at_utc": "2026-11-26T18:52:28Z",
+      "title_raw": "Schillerová: ČR v dalším období získá z EU určitě méně peněz než doposud",
+      "lead_raw": "Praha - Česká republika v dalším programovém období po roce 2028 získá z Evropské unie určitě méně peněz než doposud. Částky, které navrhuje Evropská komise, jsou nyní nepřijatelné, uvedla na dotaz ČTK...",
+      "title_en": "Schillerová: The Czech Republic will definitely receive less money from the EU in the coming period than so far",
+      "lead_en": "Prague - The Czech Republic will definitely receive less money from the European Union in the next programming period after 2028 than before. The amounts proposed by the European Commission are currently unacceptable, she said in response to a Czech News Agency inquiry...",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:36Z"
+    },
+    {
+      "id": "fb0ead7ce00d8a5111f4a5bc2c17a3758fbe6fa3",
+      "fingerprint": "8a2856baa21a588fd47384343f84d2c6479e66fc",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/v-senatu-se-resi-obrana-zeme-dle-pavla-chybi-pruznost-znela-varovani-pred-ruskem-379978",
+      "published_utc": "2026-11-26T12:31:28Z",
+      "collected_at_utc": "2026-11-26T18:52:29Z",
+      "title_raw": "V Senátu se řešila obrana země. Dle Pavla chybí pružnost, zněla varování před Ruskem",
+      "lead_raw": "Veřejného slyšení v Senátu na téma připravenosti Česka na obranu státu a zajištění podpory spojeneckým jednotkám na českém území se zúčastnili mimo jiné prezident Petr Pavel, ministr obrany Jaromír Zůna (za SPD) a náčelník Generálního štábu Armády ČR Miroslav Hlaváč. Pavel upozornil na chybějící revizi krizové legislativy a varoval před hrozbou ze strany Ruska, Hlaváč označil pokračování podpory napadené Ukrajině za strategickou nezbytnost a Zůna představil projekty za 148 miliard korun, které jeho resort připravil a pro něž chce zajistit evropské financování.",
+      "title_en": "The Senate dealt with the country's defense. According to Pavel, there is a lack of flexibility; warnings were issued against Russia",
+      "lead_en": "The public hearing in the Senate on the topic of the Czech Republic's readiness to defend the state and ensure support for allied forces on Czech territory was attended, among others, by President Petr Pavel, Defense Minister Jaromír Zůna (for SPD), and Chief of the General Staff of the Czech Army Miroslav Hlaváč. Pavel pointed out the lack of a revision of crisis legislation and warned of the threat from Russia, Hlaváč described continued support for the attacked Ukraine as a strategic necessity, and Zůna presented projects worth 148 billion crowns that his ministry prepared and for which it wants to secure European funding.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 18,
+        "energy": 0,
+        "economy": 2,
+        "domestic_politics": 17,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces",
+          "defense_ministry",
+          "allied_forces"
+        ],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "political_parties",
+          "leadership"
+        ],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "defense_ministry",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "allied_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:36Z"
+    },
+    {
+      "id": "f6327c83d32e898a0cb27b2bb254f73a7cde22dd",
+      "fingerprint": "d0555222d3d0e19c2b95e09a21dc198e34ba4c7e",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/ruske-utoky-zabijely-v-charkove-a-zasahly-kyjev-379975",
+      "published_utc": "2026-11-26T11:03:05Z",
+      "collected_at_utc": "2026-11-26T18:52:29Z",
+      "title_raw": "Ruské útoky zabíjely v Charkově a zasáhly Kyjev",
+      "lead_raw": "Ruský ranní útok na ukrajinské město Charkov zabil muže a ženu, kteří tvořili pár, píše server Ukrajinska pravda s odkazem na místní činitele. Metropole Kyjev čelila v noci na čtvrtek dalšímu ruskému útoku balistickými střelami, sedm lidí utrpělo zranění, uvedl starosta Vitalij Klyčko. V Ruskem okupované části Záporožské oblasti po ukrajinském dronovém útoku zemřelo pět lidí, uvedl podle médií tamní činitel.",
+      "title_en": "Russian attacks killed in Kharkiv and hit Kyiv",
+      "lead_en": "A Russian morning attack on the Ukrainian city of Kharkiv killed a man and a woman who were a couple, writes the website Ukrainska Pravda, citing local officials. The capital Kyiv faced another Russian ballistic missile attack overnight into Thursday, injuring seven people, said Mayor Vitali Klitschko. In the Russian-occupied part of the Zaporizhzhia region, five people died after a Ukrainian drone attack, a local official said, according to the media.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 8,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "missiles",
+          "generic_drones"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "missiles",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "generic_drones",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:36Z"
+    },
+    {
+      "id": "6f0daaa5c4d1f64606574070e7c19596a2bcf9a8",
+      "fingerprint": "08327dd9e3ec4457f240a0e49c451c068101d896",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/cr-by-nemela-blokovat-pomoc-ukrajine-skrze-rozpocet-eu-mini-pavel/2907031",
+      "published_utc": "2026-11-26T11:00:00Z",
+      "collected_at_utc": "2026-11-26T18:52:28Z",
+      "title_raw": "ČR by neměla blokovat pomoc Ukrajině skrze rozpočet EU, míní Pavel",
+      "lead_raw": "Praha - Česká republika by neměla být v malé skupince zemí, která bude blokovat pomoc Ukrajině i prostřednictvím rozpočtu Evropské unie. Při odchodu ze Senátu to dnes novinářům řekl prezident Petr Pavel....",
+      "title_en": "The Czech Republic should not block aid to Ukraine through the EU budget, Pavel believes",
+      "lead_en": "Prague - The Czech Republic should not be among the small group of countries that will block aid to Ukraine even through the European Union budget. President Petr Pavel told journalists this today upon leaving the Senate....",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 12,
+        "domestic_politics": 8,
+        "foreign_affairs": 18,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "eu_budget",
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "leadership"
+        ],
+        "foreign_affairs": [
+          "eu_policy",
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "eu_budget",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:36Z"
+    },
+    {
+      "id": "35ab9c6df706bc7bb70af846a970292c0b40f032",
+      "fingerprint": "119865cc7af13a45dd8111fbd77cbf9062e9d0c0",
+      "source": "iROZHLAS - Economy",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/ekonomika/ekonom-k-rozpoctu-eu-uz-drive-se-rozhodovalo-na-posledni-chvili-obrana-ale_2611261157_elv",
+      "published_utc": "2026-11-26T10:57:00Z",
+      "collected_at_utc": "2026-11-26T18:52:27Z",
+      "title_raw": "Ekonom k rozpočtu EU: Už dříve se rozhodovalo na poslední chvíli. Obrana ale tématem nebyla",
+      "lead_raw": "Lídři unijních států se chystají na mimořádný summit, kde budou jednat o příštím evropském rozpočtu. Část zemí chce výši rozpočtu zachovat. Další země, především Německo, chtějí škrtat víc. „Návrh prezidenta Evropské rady Antónia Costy byl snahou dosáhnout alespoň nějakého styčného bodu mezi dvěma velmi znesvářenými pozicemi,“ přibližuje Petr Zahradník, ekonom společnosti BeePartner a výzkumný pracovník Globsecu.",
+      "title_en": "Economist on the EU budget: Decisions were made at the last minute before. But defense was not the topic",
+      "lead_en": "Leaders of EU member states are preparing for an extraordinary summit where they will discuss the next European budget. Some countries want to keep the budget amount. Other countries, especially Germany, want to cut more. \"The proposal by European Council President António Costa was an effort to reach at least some point of contact between two very hostile positions,\" explains Petr Zahradník, economist at BeePartner and researcher at Globsec.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 0,
+        "energy": 0,
+        "economy": 12,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "eu_budget",
+          "generic_budget"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "eu_budget",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "economy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:36Z"
+    },
+    {
+      "id": "5ea6dd7879ae6bd5fbe7bfa84690a8a1838e4fdb",
+      "fingerprint": "028fec279f485421b67a51cc477fe7e39be4c98c",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-navrhuje-nerealne-primeri-podle-expertu-jde-o-taktiku-379952",
+      "published_utc": "2026-11-26T10:55:00Z",
+      "collected_at_utc": "2026-11-26T18:52:29Z",
+      "title_raw": "Rusko navrhuje „nereálné“ příměří, podle expertů jde o taktiku",
+      "lead_raw": "V ukrajinské Doněcké oblasti pokračují boje o Kosťantynivku. Rusko přitom tvrdí, že město ovládá, a navrhuje tam „humanitární příměří“. Okupanti Kosťantynivku ale celou nekontrolují, ve městě zůstávají ukrajinské síly a bojuje se o něj. Moskva tak svým návrhem podle analytiků sleduje zejména posílení vlastních pozic, pokud by se povedlo příměří zorganizovat, což však kvůli nejasné frontové linii v místě nejspíš není reálné. Rusko ale může návrh využít k obvinění Kyjeva z neochoty k humanitárním krokům a k míru.",
+      "title_en": "Russia proposes an \"unrealistic\" ceasefire, which experts say is a tactic",
+      "lead_en": "Fighting for Kostyantynivka continues in Ukraine's Donetsk region. Russia claims to control the city and proposes a \"humanitarian ceasefire\" there. However, the occupiers do not control Kostyantynivka entirely; Ukrainian forces remain in the city and fighting over it. According to analysts, Moscow is primarily aiming to strengthen its own positions with its proposal if a ceasefire can be organized, which, however, is unlikely due to the unclear front line in the area. Russia can use the proposal to accuse Kyiv of unwillingness to take humanitarian steps and seek peace.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 9,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 12,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "ceasefire"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "ceasefire",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:36Z"
+    },
+    {
+      "id": "ade7f8725109150402b6c42fad9edad214123b02",
+      "fingerprint": "0b9eb1e5f619876874ca42c8acb8f536137b44f8",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/izrael-zabijel-v-pasmu-gazy-treti-den-v-rade-379974",
+      "published_utc": "2026-11-26T10:24:29Z",
+      "collected_at_utc": "2026-11-26T18:52:29Z",
+      "title_raw": "Izrael zabíjel v Pásmu Gazy třetí den v řadě",
+      "lead_raw": "Izraelské vzdušné údery v Pásmu Gazy zabily v noci na čtvrtek nejméně devět Palestinců včetně náměstka ministra školství, uvedli tamní zdravotníci. Jde tak o třetí den v řadě, kdy Izrael navzdory křehkému příměří útočil na Gazu, připomněla agentura Reuters. Izraelský premiér Benjamin Netanjahu prohlásil, že šlo o cílené útoky proti členům teroristického hnutí Hamás.",
+      "title_en": "Israel has been killing in the Gaza Strip for the third consecutive day",
+      "lead_en": "Israeli airstrikes in the Gaza Strip killed at least nine Palestinians, including the deputy minister of education, on Thursday night, local health officials said. This marks the third consecutive day that Israel has attacked Gaza despite a fragile ceasefire, Reuters recalled. Israeli Prime Minister Benjamin Netanyahu stated that these were targeted attacks against members of the terrorist movement Hamas.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "ceasefire"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "terrorism"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "ceasefire",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "terrorism",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "diplomacy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:36Z"
+    },
+    {
+      "id": "de45205cbcb9748824700f9e49c567caa7981c7e",
+      "fingerprint": "2e7b158e762577b33c10e93c790dd22b0188ae71",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/hampl-objem-uspor-ceskych-obci-a-kraju-nema-v-eu-obdoby/2906986",
+      "published_utc": "2026-11-26T10:20:00Z",
+      "collected_at_utc": "2026-11-26T18:52:28Z",
+      "title_raw": "Hampl: Objem úspor českých obcí a krajů nemá v EU obdoby",
+      "lead_raw": "Praha - Objem peněz, které mají české obce a kraje na účtech, nemá v Evropské unii obdoby. Na finanční konferenci Sdružení místních samospráv ČR to dnes řekl předseda Národní rozpočtové rady Mojmír Hampl....",
+      "title_en": "Hampl: The volume of savings in Czech municipalities and regions is unprecedented in the EU",
+      "lead_en": "Prague - The volume of money that Czech municipalities and regions have in their accounts is unprecedented in the European Union. This was stated today at the financial conference of the Association of Local Governments of the Czech Republic by the chairman of the National Budget Council, Mojmír Hampl....",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "generic_budget"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:36Z"
+    },
+    {
+      "id": "63b38d3a3784360c04f54d635093473a207862aa",
+      "fingerprint": "70f8018a37dfc16b5694cd0530604beeb6166a80",
+      "source": "Radio Prague International (EN)",
+      "source_language": "en",
+      "url": "https://english.radio.cz/babis-brussels-funding-ukraine-must-not-come-eu-budget-8903662",
+      "published_utc": "2026-11-26T10:19:00Z",
+      "collected_at_utc": "2026-11-26T18:52:34Z",
+      "title_raw": "Babiš in Brussels: Funding for Ukraine must not come from EU budget",
+      "lead_raw": "Babiš in Brussels: Funding for Ukraine must not come from EU budget",
+      "title_en": "Babiš in Brussels: Funding for Ukraine must not come from EU budget",
+      "lead_en": "Babiš in Brussels: Funding for Ukraine must not come from EU budget",
+      "translation_status": "not_required",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 12,
+        "domestic_politics": 9,
+        "foreign_affairs": 18,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "eu_budget",
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "czech_leaders"
+        ],
+        "foreign_affairs": [
+          "eu_policy",
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "eu_budget",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5
+    },
+    {
+      "id": "9baa6d97a1e117798d5f7bb8c4a744dbc00f8ba6",
+      "fingerprint": "091c1e3ebdeba2b19f6728ad89660bf14c95b05c",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-nedela-cesku-dobre-jmeno-rika-o-unijni-rezoluci-kolar-aktivisticky-text-namita-knotek-379962",
+      "published_utc": "2026-11-26T09:30:53Z",
+      "collected_at_utc": "2026-11-26T18:52:29Z",
+      "title_raw": "Vláda nedělá Česku dobré jméno, říká o unijní rezoluci Kolář. Aktivistický text, namítá Knotek",
+      "lead_raw": "Evropský parlament vyzval českou vládu, aby nový systém financování České televize a Českého rozhlasu řešila v souladu s unijním právem. Europoslanci přijali rezoluci, ve které po kabinetu Andreje Babiše (ANO) požadují „předvídatelné financování i pojistky proti politickým zásahům v obou institucích“. Podle europoslance Ondřeje Knotka (ANO) jde o právně nezávaznou rezoluci, její text vnímá jako aktivistický. „Vezme se a nasměruje se všechno negativní, co se dá posbírat na tu danou vládu,“ prohlásil. Europoslanec Ondřej Kolář (TOP 09) naopak soudí, že to dokazuje, že „máme vládu, která nedělá České republice dobré jméno“. Netěší jej prý to, že musí být Česko pod drobnohledem, Evropská komise dle něj proces velmi bedlivě sleduje. Diskusí v Událostech, komentářích provázel Lukáš Dolanský.",
+      "title_en": "The government is not doing the Czech Republic any good, says Kolář about the EU resolution. Activist text, objects Knotek",
+      "lead_en": "The European Parliament has called on the Czech government to address the new financing system for Czech Television and Czech Radio in accordance with EU law. MEPs adopted a resolution demanding from Andrej Babiš's (ANO) cabinet \"predictable funding and safeguards against political interference in both institutions.\" According to MEP Ondřej Knotek (ANO), this is a legally non-binding resolution, and he views its text as activist. \"It will be taken and directed at all the negative that can be gathered on that government,\" he declared. MEP Ondřej Kolář (TOP 09), on the other hand, believes this proves that \"we have a government that does not do the Czech Republic any good.\" He says he is not pleased that the Czech Republic has to be under close scrutiny; the European Commission is closely monitoring the process. The discussion in Události and komentáře was hosted by Lukáš Dolanský.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "domestic_politics": 24,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "government",
+          "political_parties",
+          "czech_leaders"
+        ],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:36Z"
+    },
+    {
+      "id": "a936aaab6738c5f3a9f6a90ade607d709f0f0f83",
+      "fingerprint": "7dc7266be12ddf03215bf899372967e7fc40335c",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/zacina-mimoradny-summit-eu-staty-se-prou-o-dlouhodoby-rozpocet-379966",
+      "published_utc": "2026-11-26T09:14:12Z",
+      "collected_at_utc": "2026-11-26T18:52:29Z",
+      "title_raw": "„Co to je za strategii?“ Babiš na summitu odmítá spojit rozpočet EU s financováním Ukrajiny",
+      "lead_raw": "V Bruselu začal dvoudenní mimořádný summit Evropské unie, kde se bude jednat o klíčových konturách jejího rozpočtu na roky 2028 až 2034. Možnou dohodu zatím komplikuje i spor o finanční podporu Ukrajiny. Premiér Andrej Babiš (ANO) při příchodu na summit řekl, že podle něj nelze spojovat financování Kyjeva s rozpočtem Unie. Nizozemský premiér Rob Jetten naopak zmínil, že Ukrajina bude v příštích letech potřebovat více vojenské a finanční pomoci a žádná země EU se z toho nemůže vyvázat.",
+      "title_en": "\"What kind of strategy is this?\" Babiš refuses to link the EU budget to financing Ukraine at the summit",
+      "lead_en": "A two-day extraordinary European Union summit has begun in Brussels, where key outlines of its budget for 2028 to 2034 will be discussed. A possible agreement is currently complicated by a dispute over financial support for Ukraine. Prime Minister Andrej Babiš (ANO) said upon arriving at the summit that, in his view, financing Kyiv cannot be linked to the Union's budget. Dutch Prime Minister Rob Jetten, on the other hand, mentioned that Ukraine will need more military and financial aid in the coming years, and no EU country can escape this.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 9,
+        "military": 6,
+        "energy": 0,
+        "economy": 12,
+        "domestic_politics": 17,
+        "foreign_affairs": 18,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits"
+        ],
+        "military": [
+          "military_activity"
+        ],
+        "energy": [],
+        "economy": [
+          "eu_budget",
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "political_parties",
+          "czech_leaders",
+          "leadership"
+        ],
+        "foreign_affairs": [
+          "eu_policy",
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "military": [
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "eu_budget",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "economy",
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:37Z"
+    },
+    {
+      "id": "7a8e56457304520c9a433230886260ad67a50060",
+      "fingerprint": "19b8f6427659294c6a49426290da648c84ae4d23",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/uzivani-dronu-se-siri-napric-bojisti-klicove-jsou-na-ukrajine-ci-v-africe-379958",
+      "published_utc": "2026-11-26T09:11:22Z",
+      "collected_at_utc": "2026-11-26T18:52:29Z",
+      "title_raw": "Užívání dronů se šíří napříč bojišti. Klíčové jsou na Ukrajině či v Africe",
+      "lead_raw": "Situaci na mnoha bojištích výrazně mění drony. Jak ukazují data z posledních měsíců, neplatí to jen na Ukrajině a Blízkém východě. Klíčovou roli zastávají i v Africe, kde ozbrojené povstalecké skupiny stále častěji využívají upravené bezpilotní letouny. Získávají tím výhodu nad vládními silami, a to i přesto, že je mnohdy podporují Čína nebo Rusko.",
+      "title_en": "The use of drones is spreading across battlefields. Key ones are in Ukraine and Africa",
+      "lead_en": "Drones are significantly changing the situation on many battlefields. As data from recent months show, this is not only true in Ukraine and the Middle East. They also play a key role in Africa, where armed rebel groups increasingly use modified drones. This gives them an advantage over government forces, even though they are often supported by China or Russia.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 3,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 13,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "generic_drones"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "generic_drones",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:37Z"
+    },
+    {
+      "id": "8fd67f57a11299f625e8c24c88b3cc432f1317da",
+      "fingerprint": "ea4bcf1801872c5d6a613d2f63815c6d6374434a",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-babis-potrebujeme-penize-na-dalnice-pomoc-ukrajine-do-rozpoctu-eu-nepatri-321566",
+      "published_utc": "2026-11-26T08:52:32Z",
+      "collected_at_utc": "2026-11-26T18:52:31Z",
+      "title_raw": "Babiš: Potřebujeme peníze na dálnice, pomoc Ukrajině do rozpočtu EU nepatří",
+      "lead_raw": "Český premiér Andrej Babiš dnes při příchodu na summit EU zopakoval názor, že nelze spojovat financování Ukrajiny s dlouhodobým rozpočtem Unie.",
+      "title_en": "Babiš: We need money for highways, aid to Ukraine does not belong in the EU budget",
+      "lead_en": "Czech Prime Minister Andrej Babiš reiterated today, upon arriving at the EU summit, the view that financing Ukraine cannot be linked to the Union's long-term budget.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 0,
+        "energy": 0,
+        "economy": 12,
+        "domestic_politics": 11,
+        "foreign_affairs": 18,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "eu_budget",
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "czech_leaders",
+          "leadership"
+        ],
+        "foreign_affairs": [
+          "eu_policy",
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "eu_budget",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "economy",
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:37Z"
+    },
     {
       "id": "2e84888344c3255d6cb3e3aae541a56d98651aa6",
       "fingerprint": "067591e1ae42d99d656759ad28071f82cd10a45b",
@@ -4833,527 +7351,6 @@
             "headline": false,
             "lead": true,
             "points": 6
-          }
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "economy",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "economy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:40:43Z"
-    },
-    {
-      "id": "7e1a093cba3cc778e99e509c5a5ea968e43cf721",
-      "fingerprint": "6abece1ea7155bbe9b2e409dfe8a6a76fccbaaa0",
-      "source": "České noviny / ČTK - Economy",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/wsj-usa-chystaji-dalsi-cla-na-dovoz-z-eu-ciny-a-dalsich-zemi/2906167",
-      "published_utc": "2026-11-24T18:41:00Z",
-      "collected_at_utc": "2026-11-25T14:33:36Z",
-      "title_raw": "WSJ: USA chystají další cla na dovoz z EU, Číny a dalších zemí",
-      "lead_raw": "Washington - Spojené státy se chystají zvýšit cla na dovoz z Číny, Evropské unie a dalších 14 zemí, o nichž Bílý dům tvrdí, že poškozují americké společnosti podporou vlastní domácí průmyslové výroby....",
-      "title_en": "WSJ: The US is preparing additional tariffs on imports from the EU, China, and other countries",
-      "lead_en": "Washington - The United States is preparing to raise tariffs on imports from China, the European Union, and 14 other countries that the White House claims harm American companies by supporting domestic industrial production....",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 24,
-        "domestic_politics": 0,
-        "foreign_affairs": 9,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "tariffs",
-          "imports_exports",
-          "industrial_policy"
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          "eu_policy"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "tariffs",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "imports_exports",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "industrial_policy",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "economy",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "economy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:40:43Z"
-    },
-    {
-      "id": "02f180eaa20e34244e05c870811d67b86124ae24",
-      "fingerprint": "acfcff250ca808635a80a3a234a9f09707404e77",
-      "source": "České noviny / ČTK - Economy",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/ek-cesku-hrozi-ze-pristi-rok-nedodrzi-unijni-fiskalni-pravidla/2906112",
-      "published_utc": "2026-11-24T17:03:00Z",
-      "collected_at_utc": "2026-11-25T14:33:36Z",
-      "title_raw": "EK: Česku hrozí, že příští rok nedodrží unijní fiskální pravidla",
-      "lead_raw": "Štrasburk/Brusel - České republice podle Evropské komise hrozí, že příští rok nedodrží unijní fiskální pravidla. Upozornil na to dnes eurokomisař pro hospodářství Valdis Dombrovskis, podle něhož se stejné...",
-      "title_en": "EC: The Czech Republic faces the risk of failing to comply with EU fiscal rules next year",
-      "lead_en": "Strasbourg/Brussels - According to the European Commission, the Czech Republic faces the risk of not complying with EU fiscal rules next year. This was pointed out today by the European Commissioner for Economy, Valdis Dombrovskis, who said that the same...",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 11,
-        "domestic_politics": 0,
-        "foreign_affairs": 6,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "public_finances",
-          "currency"
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          "eu_policy"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "public_finances",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "currency",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "economy",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "economy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:40:43Z"
-    },
-    {
-      "id": "4e9cbfd85cf9e941a2c7a5edda78ffd39f00f86f",
-      "fingerprint": "401ab3f32bdb86cf2b49b433fc8eeedb85da7061",
-      "source": "Radio Prague International (EN)",
-      "source_language": "en",
-      "url": "https://english.radio.cz/new-eu-digital-identity-wallet-be-introduced-czechia-late-2027-8903444",
-      "published_utc": "2026-11-24T11:14:00Z",
-      "collected_at_utc": "2026-11-25T14:33:43Z",
-      "title_raw": "New EU digital identity wallet to be introduced in Czechia by late 2027",
-      "lead_raw": "New EU digital identity wallet to be introduced in Czechia by late 2027",
-      "title_en": "New EU digital identity wallet to be introduced in Czechia by late 2027",
-      "lead_en": "New EU digital identity wallet to be introduced in Czechia by late 2027",
-      "translation_status": "not_required",
-      "translation_version": 0,
-      "validation_version": 0,
-      "translation_attempts": 0,
-      "translation_provider": "original_english",
-      "translation_method": null,
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 9,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          "eu_policy"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "foreign_affairs",
-      "classification_version": 5
-    },
-    {
-      "id": "8ccf24d8a8104b4cf7192056cf0e3a417fdd4713",
-      "fingerprint": "9278f42a2437736109139982d14d2fa4feeea2c6",
-      "source": "Radio Prague International (EN)",
-      "source_language": "en",
-      "url": "https://english.radio.cz/czechia-join-second-phase-eu-defence-loan-program-8903442",
-      "published_utc": "2026-11-24T11:13:00Z",
-      "collected_at_utc": "2026-11-25T14:33:43Z",
-      "title_raw": "Czechia to join second phase of EU defence loan program",
-      "lead_raw": "Czechia to join second phase of EU defence loan program",
-      "title_en": "Czechia to join second phase of EU defence loan program",
-      "lead_en": "Czechia to join second phase of EU defence loan program",
-      "translation_status": "not_required",
-      "translation_version": 0,
-      "validation_version": 0,
-      "translation_attempts": 0,
-      "translation_provider": "original_english",
-      "translation_method": null,
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 9,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          "eu_policy"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "foreign_affairs",
-      "classification_version": 5
-    },
-    {
-      "id": "cde6c4342330a2acc90828fb9428883a52fc645a",
-      "fingerprint": "406dd788024805096f94595bbc4f7ca2f6023791",
-      "source": "České noviny / ČTK - Czech Republic",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/v-cr-bude-od-roku-2027-fungovat-nova-forma-digitalni-identity-platna-v-cele-eu/2905823",
-      "published_utc": "2026-11-24T09:24:00Z",
-      "collected_at_utc": "2026-11-25T14:33:35Z",
-      "title_raw": "V ČR bude od roku 2027 fungovat nová forma digitální identity platná v celé EU",
-      "lead_raw": "Praha - V Česku bude od konce roku 2027 fungovat nová forma digitální identity platná v celé Evropské unii. S novou evropskou peněženkou nazvanou Valetka se člověk bude moci prokázat na úřadě, v bance...",
-      "title_en": "A new form of digital identity valid throughout the EU will be in effect in the Czech Republic from 2027",
-      "lead_en": "Prague - A new form of digital identity valid throughout the European Union will be in operation in the Czech Republic from the end of 2027. With the new European wallet called Valetka, a person will be able to prove their identity at an office, in a bank...",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 9,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          "eu_policy"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "foreign_affairs",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:40:43Z"
-    },
-    {
-      "id": "5bf2a3a7af04233ba587b35a2d193638bf733028",
-      "fingerprint": "4f809a4855bd2d6409909213a2c6f557e7a04d6e",
-      "source": "iROZHLAS - Economy",
-      "source_language": "cs",
-      "url": "https://www.irozhlas.cz/ekonomika/eu-uvali-limity-na-dovoz-hybridnich-aut-z-ciny-opatreni-ma-chranit-evropske_2611241014_vdv",
-      "published_utc": "2026-11-24T09:14:00Z",
-      "collected_at_utc": "2026-11-25T14:33:34Z",
-      "title_raw": "EU uvalí limity na dovoz hybridních aut z Číny. Opatření má chránit evropské automobilky",
-      "lead_raw": "Evropská unie stanovila dočasné limity na dovoz nových hybridních automobilů z Číny a několika dalších zemí. Opatření má chránit evropské automobilky před rostoucím dovozem ze zahraničí. Limity, které EU zveřejnila v úterý, začnou platit od 1. prosince. Čínské ministerstvo obchodu nyní doufá, že EU dodrží dohodu, kterou si obě strany dojednaly v říjnu, informovala agentura Reuters.",
-      "title_en": "The EU will impose limits on imports of hybrid cars from China. The measure is intended to protect European car manufacturers",
-      "lead_en": "The European Union has set temporary limits on imports of new hybrid cars from China and several other countries. The measure is intended to protect European car manufacturers from rising imports from abroad. The limits published by the EU on Tuesday will take effect from December 1. The Chinese Ministry of Commerce now hopes that the EU will honor the agreement both sides negotiated in October, Reuters reported.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 9,
-        "domestic_politics": 0,
-        "foreign_affairs": 9,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "imports_exports"
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          "eu_policy"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "imports_exports",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "economy",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "economy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:40:43Z"
-    },
-    {
-      "id": "96d8618ce6afd96dd9614b416f7a9d6ddc0def95",
-      "fingerprint": "23fa00aaa3d044e75ef35cb31832d9bd40ed7a3e",
-      "source": "České noviny / ČTK - Economy",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/eu-stanovila-limity-na-dovoz-hybridnich-aut-z-ciny-a-dalsich-zemi/2905807",
-      "published_utc": "2026-11-24T09:00:00Z",
-      "collected_at_utc": "2026-11-25T14:33:36Z",
-      "title_raw": "EU stanovila limity na dovoz hybridních aut z Číny a dalších zemí",
-      "lead_raw": "Brusel - Evropská unie stanovila dočasné limity na dovoz nových hybridních automobilů z Číny a několika dalších zemí. Opatření má chránit evropské automobilky před rostoucím dovozem ze zahraničí. Limity,...",
-      "title_en": "The EU has set limits on the import of hybrid cars from China and other countries",
-      "lead_en": "Brussels - The European Union has set temporary limits on the import of new hybrid cars from China and several other countries. The measure aims to protect European car manufacturers from rising imports from abroad. Limits,...",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 9,
-        "domestic_politics": 0,
-        "foreign_affairs": 9,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "imports_exports"
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          "eu_policy"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "imports_exports",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
           }
         ],
         "domestic_politics": [],

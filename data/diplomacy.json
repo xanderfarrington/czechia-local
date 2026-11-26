@@ -1,9 +1,1135 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-26T07:23:10Z",
-  "count": 10,
+  "updated_at_utc": "2026-11-26T18:53:37Z",
+  "count": 21,
   "articles": [
+    {
+      "id": "8dc2dea9ba4cff365fd1842fcf50bb2aa3693e61",
+      "fingerprint": "6f3736ff149417cb2b6366356778d0932f48f395",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-mandelson-mel-jako-britsky-velvyslanec-v-usa-podil-v-lobbisticke-firme-321640",
+      "published_utc": "2026-11-26T18:32:08Z",
+      "collected_at_utc": "2026-11-26T18:52:31Z",
+      "title_raw": "Mandelson měl jako britský velvyslanec v USA podíl v lobbistické firmě",
+      "lead_raw": "I přes obavy ze střetu zájmů si tehdejší britský velvyslanec v USA Peter Mandelson mohl ponechat podíl ve své lobbistické firmě. Společnost se snažil propojit s poradci Donalda Trumpa či se řídil jejími radami při svých projevech.",
+      "title_en": "Mandelson, as British ambassador to the USA, had a stake in a lobbying firm",
+      "lead_en": "Despite concerns about conflicts of interest, then British ambassador to the USA Peter Mandelson was able to keep his stake in his lobbying firm. He tried to connect the company with Donald Trump's advisors or followed its advice in his speeches.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 9,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "ambassadors"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "ambassadors",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy"
+      ],
+      "relevant": true,
+      "primary_topic": "diplomacy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:34Z"
+    },
+    {
+      "id": "5e9e1128f33f98662aec95ecbc4dec9965684313",
+      "fingerprint": "86d408be62ebde2c07165231bba071b09a0f139e",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/evropa-vojenske-cviceni-polsko-rusko-rakety-ukrajina-valka-obrana.A261126_114339_zahranicni_rtn",
+      "published_utc": "2026-11-26T18:00:00Z",
+      "collected_at_utc": "2026-11-26T18:52:32Z",
+      "title_raw": "Evropa si v Polsku poprvé otestovala velení bez Američanů. Vázla angličtina",
+      "lead_raw": "Rusko požaduje změnu „bezpečnostní architektury“ Evropy a Washington připustil, že se o ní bude jednat ještě před dosažením příměří. Její možný zárodek se ale minulý týden rýsoval v jihovýchodním Polsku, sto kilometrů od ukrajinských hranic. Jedenáct zemí si tam poprvé vyzkoušelo evropské vojenské velení bez amerických jednotek. Do toho přišla ruská provokace a problém se společným jazykem.",
+      "title_en": "Europe tested command without Americans in Poland for the first time. English was stuck",
+      "lead_en": "Russia demands a change in Europe's \"security architecture,\" and Washington admitted that negotiations will take place even before a ceasefire is achieved. However, its possible emergence was emerging last week in southeastern Poland, one hundred kilometers from the Ukrainian border. Eleven countries experienced European military command there for the first time without American troops. Then came Russian provocation and the problem of a common language.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 10,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "ceasefire"
+        ],
+        "military": [
+          "military_activity"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "ceasefire",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:34Z"
+    },
+    {
+      "id": "daaf76c3d2bcaa076186fd8a783cefab85bca62b",
+      "fingerprint": "d7439bb95131f3e9e4a06f7d7c6be0be9c76d960",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-trump-rekl-jsem-putinovi-at-ustoupi-od-veskere-vojenske-agrese-v-evrope-321629",
+      "published_utc": "2026-11-26T15:59:49Z",
+      "collected_at_utc": "2026-11-26T18:52:31Z",
+      "title_raw": "Trump: Řekl jsem Putinovi, ať ustoupí od veškeré vojenské agrese v Evropě",
+      "lead_raw": "Donald Trump věří v brzké uzavření míru na Ukrajině. Na síti Truth Social uvedl, že Vladimira Putina na summitu v Číně vyzval ke konci agrese v Evropě.",
+      "title_en": "Trump: I told Putin to back down from all military aggression in Europe",
+      "lead_en": "Donald Trump believes in the imminent conclusion of peace in Ukraine. On the Truth Social network, he stated that he called on Vladimir Putin at the summit in China to end aggression in Europe.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 9,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 12,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits"
+        ],
+        "military": [
+          "military_activity"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:34Z"
+    },
+    {
+      "id": "2bade4511ec3e421b94ef879406c4824df62c2c8",
+      "fingerprint": "308d10fb29abc36f7a308314fd907dee2de9395e",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/mestsky-soud-projednava-macinkovy-vyroky-hnuti-duha-pozaduje-omluvu-kvuli_2611261622_zfr",
+      "published_utc": "2026-11-26T15:22:00Z",
+      "collected_at_utc": "2026-11-26T18:52:27Z",
+      "title_raw": "Městský soud projednává Macinkovy výroky. Hnutí Duha požaduje omluvu kvůli spojování s terorismem",
+      "lead_raw": "Městský soud v Praze začal ve čtvrtek projednávat žalobu, kterou podalo Hnutí Duha na ministra zahraničí Petra Macinku. Hnutí po Macinkovi požaduje omluvu kvůli jeho výrokům spojujícím ekologické hnutí s terorismem. Podle soudu bude nutné nejprve vyjasnit, zda za výrok odpovídá přímo Macinka, nebo stát. Pokud je odpovědný ministr, budou muset obě strany ke svým tvrzením doložit další důkazy. Soudní jednání bude pokračovat na konci ledna.",
+      "title_en": "The Municipal Court is reviewing Macinka's statements. The Duha movement demands an apology over being linked to terrorism",
+      "lead_en": "The Municipal Court in Prague began hearing a lawsuit filed by the Duha Movement against Foreign Minister Petr Macinka on Thursday. The movement is demanding an apology from Macinka for his statements linking the environmental movement with terrorism. According to the court, it will first be necessary to clarify whether Macinka or the state is directly responsible for the statement. If the minister is responsible, both parties will have to provide additional evidence supporting their claims. The court hearing will continue at the end of January.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 2,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "foreign_ministers"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "leadership"
+        ],
+        "foreign_affairs": [
+          "terrorism"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "foreign_ministers",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "terrorism",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:35Z"
+    },
+    {
+      "id": "80df8a856c299c2759ee06d96631b791b59831d1",
+      "fingerprint": "192ecf3df3509219b9dc42b53d3759ef41a966a6",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/domaci/soud-zacal-projednavat-zalobu-hnuti-duha-na-macinku-hnuti-chce-omluvu.A261126_142258_domaci_aoc",
+      "published_utc": "2026-11-26T13:48:00Z",
+      "collected_at_utc": "2026-11-26T18:52:32Z",
+      "title_raw": "Hnutí Duha jsou teroristé, řekl Macinka. Řečnická hyperbola, hájí ho advokátka",
+      "lead_raw": "Žalobu Hnutí Duha na ministra zahraničí a předsedu Motoristů Petra Macinku kvůli jeho výrokům spojujícím ekologické hnutí s terorismem dnes začal projednávat Městský soud v Praze. Hnutí po Macinkovi požaduje omluvu. Podle soudu bude nutné nejprve vyjasnit, zda za výrok odpovídá přímo Macinka, nebo stát. Pokud je odpovědný ministr, budou muset obě strany ke svým tvrzením doložit další důkazy.",
+      "title_en": "The Duha movement is terrorists, Macinka said. Rhetorical hyperbole, defends his lawyer",
+      "lead_en": "The Rainbow Movement began hearing the lawsuit against Foreign Minister and Motorists' chairman Petr Macinka today due to his statements linking the environmental movement with terrorism. The movement demands an apology from Macinka. According to the court, it will first be necessary to clarify whether Macinka or the state is directly responsible for the statement. If the minister is responsible, both parties will have to provide additional evidence for their claims.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 2,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "foreign_ministers"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "leadership"
+        ],
+        "foreign_affairs": [
+          "terrorism"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "foreign_ministers",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "terrorism",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:52:35Z"
+    },
+    {
+      "id": "3dd6d1e4e2599b715ddca7370f77f87c72369a1e",
+      "fingerprint": "d97514ca08fae2e815c05463c9463e2f935d12b5",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/soud-zacal-projednavat-zalobu-hnuti-duha-na-macinku/2907137",
+      "published_utc": "2026-11-26T13:11:00Z",
+      "collected_at_utc": "2026-11-26T18:52:28Z",
+      "title_raw": "Soud začal projednávat žalobu Hnutí Duha na Macinku",
+      "lead_raw": "Praha - Žalobu Hnutí Duha na ministra zahraničí a předsedu Motoristů Petra Macinku kvůli jeho výrokům spojujícím ekologické hnutí s terorismem dnes začal projednávat Městský soud v Praze. Hnutí po Macinkovi...",
+      "title_en": "The court began hearing the lawsuit filed by the Rainbow Movement against Macinka",
+      "lead_en": "Prague - The Municipal Court in Prague began hearing the lawsuit by the Duha Movement against the Minister of Foreign Affairs and chairman of the Motorists, Petr Macinka, over his statements linking the environmental movement with terrorism. The movement after Macinka...",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 2,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "foreign_ministers"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "leadership"
+        ],
+        "foreign_affairs": [
+          "terrorism"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "foreign_ministers",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "terrorism",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "diplomacy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:36Z"
+    },
+    {
+      "id": "d09126935ee8bf6120a3e52f565eb81de7617ae3",
+      "fingerprint": "15382d0f07a2ab05ce4be3f3ac8df58f69c87725",
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/unijni-prezidenti-a-premieri-jsou-od-dohody-o-rozpoctu-daleko-uvedla-meloniova/2905530",
+      "published_utc": "2026-11-26T12:47:00Z",
+      "collected_at_utc": "2026-11-26T18:52:28Z",
+      "title_raw": "Unijní prezidenti a premiéři jsou od dohody o rozpočtu daleko, uvedla Meloniová",
+      "lead_raw": "Brusel - Prezidenti a premiéři zemí EU jsou stále velmi daleko od dosažení dohody o budoucím víceletém rozpočtu Evropské unie, uvedla dnes v Bruselu na summitu bloku italská premiérka Giorgia Meloniová....",
+      "title_en": "EU presidents and prime ministers are far from reaching a budget agreement, Meloni said",
+      "lead_en": "Brussels - The presidents and prime ministers of EU countries are still very far from reaching an agreement on the future multiannual budget of the European Union, Italian Prime Minister Giorgia Meloni said today at the bloc's summit in Brussels....",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 0,
+        "energy": 0,
+        "economy": 9,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "eu_budget",
+          "generic_budget"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "eu_budget",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "economy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:36Z"
+    },
+    {
+      "id": "35ab9c6df706bc7bb70af846a970292c0b40f032",
+      "fingerprint": "119865cc7af13a45dd8111fbd77cbf9062e9d0c0",
+      "source": "iROZHLAS - Economy",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/ekonomika/ekonom-k-rozpoctu-eu-uz-drive-se-rozhodovalo-na-posledni-chvili-obrana-ale_2611261157_elv",
+      "published_utc": "2026-11-26T10:57:00Z",
+      "collected_at_utc": "2026-11-26T18:52:27Z",
+      "title_raw": "Ekonom k rozpočtu EU: Už dříve se rozhodovalo na poslední chvíli. Obrana ale tématem nebyla",
+      "lead_raw": "Lídři unijních států se chystají na mimořádný summit, kde budou jednat o příštím evropském rozpočtu. Část zemí chce výši rozpočtu zachovat. Další země, především Německo, chtějí škrtat víc. „Návrh prezidenta Evropské rady Antónia Costy byl snahou dosáhnout alespoň nějakého styčného bodu mezi dvěma velmi znesvářenými pozicemi,“ přibližuje Petr Zahradník, ekonom společnosti BeePartner a výzkumný pracovník Globsecu.",
+      "title_en": "Economist on the EU budget: Decisions were made at the last minute before. But defense was not the topic",
+      "lead_en": "Leaders of EU member states are preparing for an extraordinary summit where they will discuss the next European budget. Some countries want to keep the budget amount. Other countries, especially Germany, want to cut more. \"The proposal by European Council President António Costa was an effort to reach at least some point of contact between two very hostile positions,\" explains Petr Zahradník, economist at BeePartner and researcher at Globsec.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 0,
+        "energy": 0,
+        "economy": 12,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "eu_budget",
+          "generic_budget"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "eu_budget",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "economy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:36Z"
+    },
+    {
+      "id": "5ea6dd7879ae6bd5fbe7bfa84690a8a1838e4fdb",
+      "fingerprint": "028fec279f485421b67a51cc477fe7e39be4c98c",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-navrhuje-nerealne-primeri-podle-expertu-jde-o-taktiku-379952",
+      "published_utc": "2026-11-26T10:55:00Z",
+      "collected_at_utc": "2026-11-26T18:52:29Z",
+      "title_raw": "Rusko navrhuje „nereálné“ příměří, podle expertů jde o taktiku",
+      "lead_raw": "V ukrajinské Doněcké oblasti pokračují boje o Kosťantynivku. Rusko přitom tvrdí, že město ovládá, a navrhuje tam „humanitární příměří“. Okupanti Kosťantynivku ale celou nekontrolují, ve městě zůstávají ukrajinské síly a bojuje se o něj. Moskva tak svým návrhem podle analytiků sleduje zejména posílení vlastních pozic, pokud by se povedlo příměří zorganizovat, což však kvůli nejasné frontové linii v místě nejspíš není reálné. Rusko ale může návrh využít k obvinění Kyjeva z neochoty k humanitárním krokům a k míru.",
+      "title_en": "Russia proposes an \"unrealistic\" ceasefire, which experts say is a tactic",
+      "lead_en": "Fighting for Kostyantynivka continues in Ukraine's Donetsk region. Russia claims to control the city and proposes a \"humanitarian ceasefire\" there. However, the occupiers do not control Kostyantynivka entirely; Ukrainian forces remain in the city and fighting over it. According to analysts, Moscow is primarily aiming to strengthen its own positions with its proposal if a ceasefire can be organized, which, however, is unlikely due to the unclear front line in the area. Russia can use the proposal to accuse Kyiv of unwillingness to take humanitarian steps and seek peace.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 9,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 12,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "ceasefire"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "ceasefire",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:36Z"
+    },
+    {
+      "id": "ade7f8725109150402b6c42fad9edad214123b02",
+      "fingerprint": "0b9eb1e5f619876874ca42c8acb8f536137b44f8",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/izrael-zabijel-v-pasmu-gazy-treti-den-v-rade-379974",
+      "published_utc": "2026-11-26T10:24:29Z",
+      "collected_at_utc": "2026-11-26T18:52:29Z",
+      "title_raw": "Izrael zabíjel v Pásmu Gazy třetí den v řadě",
+      "lead_raw": "Izraelské vzdušné údery v Pásmu Gazy zabily v noci na čtvrtek nejméně devět Palestinců včetně náměstka ministra školství, uvedli tamní zdravotníci. Jde tak o třetí den v řadě, kdy Izrael navzdory křehkému příměří útočil na Gazu, připomněla agentura Reuters. Izraelský premiér Benjamin Netanjahu prohlásil, že šlo o cílené útoky proti členům teroristického hnutí Hamás.",
+      "title_en": "Israel has been killing in the Gaza Strip for the third consecutive day",
+      "lead_en": "Israeli airstrikes in the Gaza Strip killed at least nine Palestinians, including the deputy minister of education, on Thursday night, local health officials said. This marks the third consecutive day that Israel has attacked Gaza despite a fragile ceasefire, Reuters recalled. Israeli Prime Minister Benjamin Netanyahu stated that these were targeted attacks against members of the terrorist movement Hamas.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "ceasefire"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "terrorism"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "ceasefire",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "terrorism",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "diplomacy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:36Z"
+    },
+    {
+      "id": "a936aaab6738c5f3a9f6a90ade607d709f0f0f83",
+      "fingerprint": "7dc7266be12ddf03215bf899372967e7fc40335c",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/zacina-mimoradny-summit-eu-staty-se-prou-o-dlouhodoby-rozpocet-379966",
+      "published_utc": "2026-11-26T09:14:12Z",
+      "collected_at_utc": "2026-11-26T18:52:29Z",
+      "title_raw": "„Co to je za strategii?“ Babiš na summitu odmítá spojit rozpočet EU s financováním Ukrajiny",
+      "lead_raw": "V Bruselu začal dvoudenní mimořádný summit Evropské unie, kde se bude jednat o klíčových konturách jejího rozpočtu na roky 2028 až 2034. Možnou dohodu zatím komplikuje i spor o finanční podporu Ukrajiny. Premiér Andrej Babiš (ANO) při příchodu na summit řekl, že podle něj nelze spojovat financování Kyjeva s rozpočtem Unie. Nizozemský premiér Rob Jetten naopak zmínil, že Ukrajina bude v příštích letech potřebovat více vojenské a finanční pomoci a žádná země EU se z toho nemůže vyvázat.",
+      "title_en": "\"What kind of strategy is this?\" Babiš refuses to link the EU budget to financing Ukraine at the summit",
+      "lead_en": "A two-day extraordinary European Union summit has begun in Brussels, where key outlines of its budget for 2028 to 2034 will be discussed. A possible agreement is currently complicated by a dispute over financial support for Ukraine. Prime Minister Andrej Babiš (ANO) said upon arriving at the summit that, in his view, financing Kyiv cannot be linked to the Union's budget. Dutch Prime Minister Rob Jetten, on the other hand, mentioned that Ukraine will need more military and financial aid in the coming years, and no EU country can escape this.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 9,
+        "military": 6,
+        "energy": 0,
+        "economy": 12,
+        "domestic_politics": 17,
+        "foreign_affairs": 18,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits"
+        ],
+        "military": [
+          "military_activity"
+        ],
+        "energy": [],
+        "economy": [
+          "eu_budget",
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "political_parties",
+          "czech_leaders",
+          "leadership"
+        ],
+        "foreign_affairs": [
+          "eu_policy",
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "military": [
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "eu_budget",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "economy",
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:37Z"
+    },
+    {
+      "id": "8fd67f57a11299f625e8c24c88b3cc432f1317da",
+      "fingerprint": "ea4bcf1801872c5d6a613d2f63815c6d6374434a",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-babis-potrebujeme-penize-na-dalnice-pomoc-ukrajine-do-rozpoctu-eu-nepatri-321566",
+      "published_utc": "2026-11-26T08:52:32Z",
+      "collected_at_utc": "2026-11-26T18:52:31Z",
+      "title_raw": "Babiš: Potřebujeme peníze na dálnice, pomoc Ukrajině do rozpočtu EU nepatří",
+      "lead_raw": "Český premiér Andrej Babiš dnes při příchodu na summit EU zopakoval názor, že nelze spojovat financování Ukrajiny s dlouhodobým rozpočtem Unie.",
+      "title_en": "Babiš: We need money for highways, aid to Ukraine does not belong in the EU budget",
+      "lead_en": "Czech Prime Minister Andrej Babiš reiterated today, upon arriving at the EU summit, the view that financing Ukraine cannot be linked to the Union's long-term budget.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 0,
+        "energy": 0,
+        "economy": 12,
+        "domestic_politics": 11,
+        "foreign_affairs": 18,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "eu_budget",
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "czech_leaders",
+          "leadership"
+        ],
+        "foreign_affairs": [
+          "eu_policy",
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "eu_budget",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "economy",
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T18:53:37Z"
+    },
     {
       "id": "2e84888344c3255d6cb3e3aae541a56d98651aa6",
       "fingerprint": "067591e1ae42d99d656759ad28071f82cd10a45b",
@@ -906,106 +2032,6 @@
         "diplomacy",
         "domestic_politics",
         "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:40:43Z"
-    },
-    {
-      "id": "e22103092141cb5165cffb39915c6d97d277fdd7",
-      "fingerprint": "a456979fb97a092b25840afb9f7ee049be9cab54",
-      "source": "České noviny / ČTK - Czech Republic",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/macinka-stanovisko-snemovny-ke-strelam-v-polsku-neni-nezbytne/2904762",
-      "published_utc": "2026-11-24T12:50:00Z",
-      "collected_at_utc": "2026-11-25T14:33:35Z",
-      "title_raw": "Macinka: Stanovisko Sněmovny ke střelám v Polsku není nezbytné",
-      "lead_raw": "Praha - Česká vláda už stanovisko ke střelám v Polsku vyjádřila a není nezbytné, aby postoj zopakovala v usnesení Sněmovna. V úvodu dnešní schůze dolní komory to řekl ministr zahraničí Petr Macinka (Motoristé)....",
-      "title_en": "Macinka: The Chamber's position on the missiles in Poland is not necessary",
-      "lead_en": "Prague - The Czech government has already expressed a position on the missiles in Poland, and it is not necessary for the Chamber to repeat this position in a resolution. At the beginning of today's lower house session, Foreign Minister Petr Macinka (Motorists) said this....",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 6,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 21,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [
-          "foreign_ministers"
-        ],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          "parliament",
-          "government",
-          "political_parties",
-          "leadership"
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [
-          {
-            "concept": "foreign_ministers",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          {
-            "concept": "parliament",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "government",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          },
-          {
-            "concept": "political_parties",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "leadership",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "diplomacy",
-        "domestic_politics"
       ],
       "relevant": true,
       "primary_topic": "domestic_politics",
