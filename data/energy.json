@@ -1,9 +1,90 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T23:29:51Z",
-  "count": 10,
+  "updated_at_utc": "2026-11-26T07:23:11Z",
+  "count": 11,
   "articles": [
+    {
+      "id": "ab7e48c491d74960f55fc30dcfaa07eb74ac989a",
+      "fingerprint": "d6aba6fcf9a2c4e805daf7e36dcb8fb03f2bf5a5",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/je-lepsi-na-jerabu-nez-u-jidla-v-jadernych-elektrarnach-pribyva-zen-v_2611260755_med",
+      "published_utc": "2026-11-26T06:55:00Z",
+      "collected_at_utc": "2026-11-26T07:23:01Z",
+      "title_raw": "‚Je to lepší na jeřábu než u jídla.‘ V jaderných elektrárnách přibývá žen v technických profesích",
+      "lead_raw": "Převážejí desítky tun těžká břemena, svařují nebo se starají o údržbu zařízení. V českých jaderných elektrárnách pracuje už více než 400 žen a stále častěji zastávají i profese, které dříve bývaly doménou mužů. Například v Dukovanech obsluhuje jeřáby šest žen.",
+      "title_en": "'It's better on a crane than at a meal.' Women in technical professions are increasing in nuclear power plants",
+      "lead_en": "They transport tens of tons of heavy loads, weld, or take care of equipment maintenance. More than 400 women already work in Czech nuclear power plants and increasingly hold professions that were previously male domains. For example, in Dukovany, six women operate cranes.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 24,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "nuclear_energy",
+          "czech_nuclear_plants",
+          "electricity"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "nuclear_energy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "czech_nuclear_plants",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "electricity",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
     {
       "id": "087d210a084081db66528edb5ee48236cc0b0e88",
       "fingerprint": "b731671e17e3cef2846e3c43638a19a99012e484",

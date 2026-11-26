@@ -1,9 +1,112 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T23:29:51Z",
-  "count": 9,
+  "updated_at_utc": "2026-11-26T07:23:10Z",
+  "count": 10,
   "articles": [
+    {
+      "id": "2e84888344c3255d6cb3e3aae541a56d98651aa6",
+      "fingerprint": "067591e1ae42d99d656759ad28071f82cd10a45b",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-valecna-fronta-neni-nic-proti-tomu-ze-se-ocitnete-v-mucirne-rusu-rika-ukrajinsky-novinar-asejev-40609705",
+      "published_utc": "2026-11-26T06:36:26Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "Válečná fronta není nic proti tomu, že se ocitnete v mučírně Rusů, říká ukrajinský novinář Asejev",
+      "lead_raw": "Dva a půl roku ho proruští separatisté mučili ve věznici Izoljacija v Doněcku. To bylo ještě před plnou invazí Ruska na Ukrajinu v roce 2022, kvůli níž později nastoupil do armády. Dnes novinář a spisovatel Stanislav Asejev, který nedávno v Praze převzal Cenu Paměti národa, pátrá po tyranech z věznice. V rozhovoru pro Novinky také vysvětlil, proč nevěří mírovým jednáním.",
+      "title_en": "The war front is nothing compared to ending up in the torture chamber of Russians, says Ukrainian journalist Asejev",
+      "lead_en": "For two and a half years, pro-Russian separatists tortured him in the Izolyatiya prison in Donetsk. This was before Russia's full-scale invasion of Ukraine in 2022, for which he later joined the army. Today, journalist and writer Stanislav Asejev, who recently received the Memory of Nations Award in Prague, is investigating the prison's tyrants. In an interview with Novinky, he also explained why he does not believe in peace negotiations.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 8,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 15,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "peace_negotiations",
+          "negotiations"
+        ],
+        "military": [
+          "armed_forces"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "international_conflict"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "peace_negotiations",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "negotiations",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "international_conflict",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
     {
       "id": "3ec16bb5f9911108621acd7de364bdab0cc5b895",
       "fingerprint": "1fdfc3ab954fcf1dc39c41665c3e7ce4add5e6cd",

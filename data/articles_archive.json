@@ -1,9 +1,4688 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T23:29:51Z",
-  "count": 374,
+  "updated_at_utc": "2026-11-26T07:23:11Z",
+  "count": 446,
   "articles": [
+    {
+      "id": "4d2c367e72dccb0e49e59f9371e97fde871ad0a3",
+      "fingerprint": "46d52ef435ce56f6e641139bbc1574b351e77b3e",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/musk-slibil-kazdemu-diteti-v-usa-dve-akcie-firmy-spacex.A261126_081010_zahranicni_kurl",
+      "published_utc": "2026-11-26T07:18:00Z",
+      "collected_at_utc": "2026-11-26T07:23:08Z",
+      "title_raw": "Každé dítě v USA dostane dvě akcie SpaceX, slíbil Musk. První už příští měsíc",
+      "lead_raw": "Každé dítě ve Spojených státech obdrží dvě akcie americké společnosti SpaceX, uvedl její zakladatel a generální ředitel Elon Musk. Dodal, že první akcii získají děti od firmy už příští měsíc. Druhou by pak měly obdržet přímo od Muska v příštím roce. Celková hodnota darovaných akcií by se podle současné tržní ceny pohybovala kolem 18 miliard dolarů (zhruba 400 miliard Kč).",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "a98ec73db7b821f83bf99b3c0869e6a732eb985f",
+      "fingerprint": "767526c0551bfeb64626edee47b96aba710ff272",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/pocasi-desitky-nehod-na-namrzlych-silnicich-na-jihu-cech-a-zacina-snezit-40610574",
+      "published_utc": "2026-11-26T07:13:52Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "Desítky nehod na namrzlých silnicích na jihu Čech. A začíná sněžit",
+      "lead_raw": "Dopravu ve čtvrtek ráno komplikují na řadě míst namrzlé silnice, na jihu Čech evidují policisté desítky nehod. Česko čeká ve čtvrtek také vydatnou sněhovou nadílku. Na jihu Moravy začalo sněžit už v noci na čtvrtek. Sněžení se bude postupně během dne posouvat k severu a nakonec zasáhne většinu území republiky. Český hydrometeorologický ústav (ČHMÚ) vydal výstrahu před sněhem.",
+      "title_en": "Dozens of accidents on icy roads in South Bohemia. And it starts snowing",
+      "lead_en": "Traffic on Thursday morning is complicated by icy roads in many places, and in South Bohemia, police have recorded dozens of accidents. The Czech Republic is also expecting heavy snowfall on Thursday. Snow began in South Moravia already on Thursday night. Snowfall will gradually move northward during the day and eventually affect most of the country's territory. The Czech Hydrometeorological Institute (ČHMÚ) has issued a snow warning.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 12
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          "severe_weather",
+          "emergency_warning"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "severe_weather",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "emergency_warning",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ]
+      },
+      "topics": [
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "local_events",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "e572dc0dce3f257bb7253e6bf153209806a5c940",
+      "fingerprint": "9468f8419b29bdd837517ba9a8e48050de7325b4",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-kazde-dite-v-usa-obdrzi-dve-akcie-firmy-spacex-uvedl-musk-321555",
+      "published_utc": "2026-11-26T07:00:13Z",
+      "collected_at_utc": "2026-11-26T07:23:07Z",
+      "title_raw": "Každé dítě v USA obdrží dvě akcie firmy SpaceX, uvedl Musk",
+      "lead_raw": "Každé dítě v USA obdrží dvě akcie firmy SpaceX, uvedl její zakladatel a šéf Elon Musk. Celková hodnota věnovaných akcií by se podle současné tržní ceny vyšplhala k osmnácti miliardám dolarů.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "b9a7640b05460db85d6e904a9708bdb5cbff6a95",
+      "fingerprint": "f50aa49a6ae629d1b21c7ea30002cfd402be5aec",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zdravi-plus-marodi-proc-jeden-lek-stoji-dvakrat-vic-a-jak-se-levne-a-drahe-lisi-v-ucinnosti-321079",
+      "published_utc": "2026-11-26T07:00:00Z",
+      "collected_at_utc": "2026-11-26T07:23:07Z",
+      "title_raw": "Marodi: Proč jeden lék stojí dvakrát víc a jak se levné a drahé liší v účinnosti",
+      "lead_raw": "Farmaceut v lékárně dokáže odhalit, když lékař udělá chybu, nebo přijít na to, že užíváte nevhodnou kombinaci léků. Poradí vám i s hubnutím, odvykáním kouření či slábnoucí pamětí.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "7bc06254aeb523362402ed7609f99ac8ecaebe48",
+      "fingerprint": "e866fdd910877a1a4106919befec7973eb7e0b16",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/domaci/cesko-snih-pocasi-silnice-predpoved.A261126_071836_domaci_pluh",
+      "published_utc": "2026-11-26T06:58:00Z",
+      "collected_at_utc": "2026-11-26T07:23:08Z",
+      "title_raw": "Sněžení se přibližuje, hlásí meteorologové. Silničáři nabádají k opatrnosti",
+      "lead_raw": "Do Česka míří vydatné sněžení. Místy může napadnout až 20 centimetrů sněhu, hrozí tvorba sněhových jazyků. Počasí může komplikovat dopravu. Silničáři nabádají k opatrnosti, větší problémy ovšem zatím nehlásí.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "ab7e48c491d74960f55fc30dcfaa07eb74ac989a",
+      "fingerprint": "d6aba6fcf9a2c4e805daf7e36dcb8fb03f2bf5a5",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/je-lepsi-na-jerabu-nez-u-jidla-v-jadernych-elektrarnach-pribyva-zen-v_2611260755_med",
+      "published_utc": "2026-11-26T06:55:00Z",
+      "collected_at_utc": "2026-11-26T07:23:01Z",
+      "title_raw": "‚Je to lepší na jeřábu než u jídla.‘ V jaderných elektrárnách přibývá žen v technických profesích",
+      "lead_raw": "Převážejí desítky tun těžká břemena, svařují nebo se starají o údržbu zařízení. V českých jaderných elektrárnách pracuje už více než 400 žen a stále častěji zastávají i profese, které dříve bývaly doménou mužů. Například v Dukovanech obsluhuje jeřáby šest žen.",
+      "title_en": "'It's better on a crane than at a meal.' Women in technical professions are increasing in nuclear power plants",
+      "lead_en": "They transport tens of tons of heavy loads, weld, or take care of equipment maintenance. More than 400 women already work in Czech nuclear power plants and increasingly hold professions that were previously male domains. For example, in Dukovany, six women operate cranes.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 24,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "nuclear_energy",
+          "czech_nuclear_plants",
+          "electricity"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "nuclear_energy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "czech_nuclear_plants",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "electricity",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "fd922725f669f30bcb392b2938d3b175fd3f5d0d",
+      "fingerprint": "dd4ba2f11075cde36f98d380a0d4cdbe7dce7872",
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/zbrojari-colt-cz-za-tri-ctvrtleti-stoupl-zisk-mezirocne-o-437-pct-na-19-mldkc/2906875",
+      "published_utc": "2026-11-26T06:50:00Z",
+      "collected_at_utc": "2026-11-26T07:23:03Z",
+      "title_raw": "Zbrojaři Colt CZ za tři čtvrtletí stoupl zisk meziročně o 43,7 pct na 1,9 mld.Kč",
+      "lead_raw": "Praha/Uherský Brod (Uherskohradišťsko) - Holding Colt CZ Group SE (Colt CZ) vykázal za tři letošní čtvrtletí výnosy 23,3 miliardy korun. Meziročně byly vyšší o 45,2 procenta. Čistý zisk zbrojařské skupiny...",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "2d33b82e92a32c7bcec04c25f9acf790aa799398",
+      "fingerprint": "da5ed41af8880de12ac03770daff3a10d977a06c",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-byli-jako-kobylky-zena-napomenula-influencerku-ta-na-ni-postvala-armadu-321365",
+      "published_utc": "2026-11-26T06:49:52Z",
+      "collected_at_utc": "2026-11-26T07:23:07Z",
+      "title_raw": "Byli jako kobylky. Žena napomenula influencerku, ta na ni poštvala „armádu“",
+      "lead_raw": "Češce, proti níž influencerka poštvala svoje fanoušky, přišly desítky nenávistných zpráv. „Psali, ať chcípnu já i máma. Že jsem stokilové hovado,“ líčí. Podle expertů se případ vymyká a představuje závažnou formu kyberšikany.",
+      "title_en": "They were like locusts. A woman reprimanded an influencer, who incited the \"army\" against her",
+      "lead_en": "The Czech woman against whom the influencer turned her fans against received dozens of hateful messages. \"They wrote that both I and my mother should die. That I was a hundred-kilogram bastard,\" she recounts. According to experts, the case is unusual and represents a serious form of cyberbullying.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 9,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "ed8457892c10325801e85e207dc8252203e04109",
+      "fingerprint": "69e961d1d5e04603f0212612249e51fbc0106ac7",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/zahranicni-amerika-kazde-dite-v-usa-obdrzi-dve-akcie-firmy-spacex-uvedl-jeji-zakladatel-a-sef-elon-musk-40610581",
+      "published_utc": "2026-11-26T06:43:20Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "Každé dítě v USA obdrží dvě akcie SpaceX, oznámil Musk",
+      "lead_raw": "Každé dítě v USA obdrží dvě akcie firmy SpaceX, uvedl její zakladatel a šéf Elon Musk. První akcii by děti podle něj měly získat už příští měsíc.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "2e84888344c3255d6cb3e3aae541a56d98651aa6",
+      "fingerprint": "067591e1ae42d99d656759ad28071f82cd10a45b",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-valecna-fronta-neni-nic-proti-tomu-ze-se-ocitnete-v-mucirne-rusu-rika-ukrajinsky-novinar-asejev-40609705",
+      "published_utc": "2026-11-26T06:36:26Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "Válečná fronta není nic proti tomu, že se ocitnete v mučírně Rusů, říká ukrajinský novinář Asejev",
+      "lead_raw": "Dva a půl roku ho proruští separatisté mučili ve věznici Izoljacija v Doněcku. To bylo ještě před plnou invazí Ruska na Ukrajinu v roce 2022, kvůli níž později nastoupil do armády. Dnes novinář a spisovatel Stanislav Asejev, který nedávno v Praze převzal Cenu Paměti národa, pátrá po tyranech z věznice. V rozhovoru pro Novinky také vysvětlil, proč nevěří mírovým jednáním.",
+      "title_en": "The war front is nothing compared to ending up in the torture chamber of Russians, says Ukrainian journalist Asejev",
+      "lead_en": "For two and a half years, pro-Russian separatists tortured him in the Izolyatiya prison in Donetsk. This was before Russia's full-scale invasion of Ukraine in 2022, for which he later joined the army. Today, journalist and writer Stanislav Asejev, who recently received the Memory of Nations Award in Prague, is investigating the prison's tyrants. In an interview with Novinky, he also explained why he does not believe in peace negotiations.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 8,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 15,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "peace_negotiations",
+          "negotiations"
+        ],
+        "military": [
+          "armed_forces"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "international_conflict"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "peace_negotiations",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "negotiations",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "international_conflict",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "86f91b9369f70333da2fa6c7b63c845c93013e17",
+      "fingerprint": "5309931b175c28326e38fa8b8b1ad0a1891eadd2",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/patek-a-sobota-budou-lehce-snehove-predpovidaji-meteorologove-379964",
+      "published_utc": "2026-11-26T06:34:05Z",
+      "collected_at_utc": "2026-11-26T07:23:04Z",
+      "title_raw": "Pátek a sobota budou lehce sněhové, předpovídají meteorologové",
+      "lead_raw": "V pátek a sobotu bude v Česku ještě zřejmě slabě sněžit, ale v neděli se vyjasní a srážky ustanou. O víkendu může také nadále i přes den mrznout. Vyplývá to z předpovědi Českého hydrometeorologického ústavu (ČHMÚ).",
+      "title_en": "Friday and Saturday will be lightly snowy, meteorologists predict",
+      "lead_en": "On Friday and Saturday, light snow is still expected in the Czech Republic, but on Sunday it will clear up and precipitation will stop. It may also continue to freeze during the day over the weekend. This is according to the forecast from the Czech Hydrometeorological Institute (ČHMÚ).",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 6
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          "emergency_warning"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "emergency_warning",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ]
+      },
+      "topics": [
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "local_events",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "c5ed04a071e413a73a3d947b1c02f2e26784b626",
+      "fingerprint": "0ec50b292bf39ec3442e72e24c13f5100cc4e3e9",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/kim-cong-un-severni-korea-jaderne-hlavice.A261126_065711_zahranicni_pluh",
+      "published_utc": "2026-11-26T06:34:00Z",
+      "collected_at_utc": "2026-11-26T07:23:08Z",
+      "title_raw": "Kim si prohlédl zařízení na výrobu jaderného materiálu. Chce rozšířit arzenál",
+      "lead_raw": "Severní Korea se bez ohledu na výzvy k denuklearizaci nevzdá svých jaderných zbraní a chystá se rozšířit arzenál taktických jaderných hlavic. Prohlásil to severokorejský vůdce Kim Čong-un během návštěvy dvou zařízení na výrobu jaderného materiálu, o níž ve čtvrtek informovala oficiální severokorejská agentura KCNA.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "a7f80a17a723a624b7fe192fdfb7daf729c35ed7",
+      "fingerprint": "3759cff615cfc9a6a5901c39265b138d1701b230",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/kultura-filmy-serialy-zemrela-herecka-a-prvni-supermodelka-na-svete-veruschka-40610571",
+      "published_utc": "2026-11-26T06:29:42Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "Zemřela herečka a první supermodelka na světě Veruschka",
+      "lead_raw": "Ve věku 87 let zemřela v úterý v Berlíně německá modelka, herečka a umělkyně Veruschka, vlastním jménem Vera Gottliebe Anna Gräfin von Lehndorff-Steinort. Bývá označována za vůbec první supermodelku na světě. Samu sebe si zahrála v thrilleru Zvětšenina z roku 1966. O jejím úmrtí informoval deník Bild.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "9b60cefda8c3e0d219a8a5823bd65f8998532ca5",
+      "fingerprint": "88949a8dce5ee67af644f67c89af5e1baa6d11ce",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/rovnou-se-uci-na-place-rika-ucitelka-zakyne-z-horsovskeho-tyna-pecou-cukrovi-na_2611260724_aha",
+      "published_utc": "2026-11-26T06:24:00Z",
+      "collected_at_utc": "2026-11-26T07:23:01Z",
+      "title_raw": "Rovnou se učí na place, říká učitelka. Žákyně z Horšovského Týna pečou cukroví na vánoční trh",
+      "lead_raw": "Vůně vanilky, hřebíčku, anýzu a dalšího koření se line v těchto dnech z cukrářských provozoven. Cukráři naplno pečou perníčky, linecké a další sladkosti na Vánoce. Příští týden ve čtvrtek si můžete koupit takové pečivo třeba na vánočním trhu na nádvoří úřadu Plzeňského kraje ve Škroupově ulici v Plzni. Už teď ho pečou žákyně Střední odborné školy a středního odborného učiliště v Horšovském Týně na Domažlicku.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "c4203fe1f8d5dc4a365fd9c9141280ba1a5304fb",
+      "fingerprint": "4dc9f1473209aede4dd77b63bb829af50bc0ad2a",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-kldr-chce-byt-jadernym-statem-rozsiri-svuj-arzenal-rekl-kim-321552",
+      "published_utc": "2026-11-26T06:21:32Z",
+      "collected_at_utc": "2026-11-26T07:23:07Z",
+      "title_raw": "KLDR chce být jaderným státem, rozšíří svůj arzenál, řekl Kim",
+      "lead_raw": "Severokorejský vůdce Kim Čong-un uvedl, že se země svých jaderných zbraní nevzdá. KLDR dlouhodobě usiluje o to, aby byla uznána jako jaderná velmoc. Rozšířila program taktických jaderných hlavic a rozmístila ho na více místech.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "fc7d99396789c285f8574ef960a25f3eacfac4ab",
+      "fingerprint": "249ece38db8555f7410d5ffb83f6b3217c54a25d",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/lifestyle-sex-vztahy-sedm-nejcastejsich-chyb-ktere-delaji-zeny-po-rozvodu-pri-seznamovani-s-muzi-40608167",
+      "published_utc": "2026-11-26T06:21:00Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "Sedm nejčastějších chyb, které dělají ženy po rozvodu při seznamování s muži",
+      "lead_raw": "Začínat po rozvodu znovu není jednoduché pro nikoho. Drobným chybám se na začátku nového života nevyhnete, ty velké ale dokážou okamžitě utnout slibný vztah nebo vás poslat do nesprávné náruče. Třeba proto, že se ještě sbíráte z trosek, že jste dlouho sami, že jste se deset i více let s nikým neseznamovali… Které chyby jsou v tomto období ty nejčastější?",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "5499e9065b1039162140e3ac232ee07c7bde3ffe",
+      "fingerprint": "bb5700e68f6d57206761075a96fe67f8d3a9647d",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-jedna-prestrelka-o-danich-na-sitich-uz-je-vic-nez-vsichni-experti-stran-321510",
+      "published_utc": "2026-11-26T06:20:00Z",
+      "collected_at_utc": "2026-11-26T07:23:07Z",
+      "title_raw": "Jedna přestřelka o daních na sítích už je víc než všichni experti stran",
+      "lead_raw": "Před dvaceti lety strany určovaly směřování ekonomické debaty. Dnes nesahají ani po kotníky think tankům a dokonce ani mnohým účtům na sociálních sítích.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "1e60f3921e9de4389ddbb51ae8199ddc0482eeca",
+      "fingerprint": "1d259dafab46d2ac31016d610d52681ab96ae6ae",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-rusko-by-nemelo-rozsirovat-valku-na-ukrajine-shodli-se-trump-a-rutte-321551",
+      "published_utc": "2026-11-26T06:19:54Z",
+      "collected_at_utc": "2026-11-26T07:23:07Z",
+      "title_raw": "Rusko by nemělo rozšiřovat válku na Ukrajině, shodli se Trump a Rutte",
+      "lead_raw": "Generální tajemník NATO Mark Rutte a americký prezident Donald Trump na společném setkání na Floridě projednali zejména válku na Ukrajině či konflikt v Íránu. Podle obou mužů by Rusko nemělo podnikat kroky k rozšíření války.",
+      "title_en": "Russia should not expand the war in Ukraine, Trump and Rutte agreed",
+      "lead_en": "NATO Secretary General Mark Rutte and U.S. President Donald Trump discussed the war in Ukraine and the conflict in Iran at a joint meeting in Florida. According to both men, Russia should not take steps to expand the war.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 15,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "nato"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "nato",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "3da3cb33c78d3395bee3953507682cdfbb33294f",
+      "fingerprint": "f06a8c6785ad79e9ab916b778a4a07c0bc755dcd",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/ekonomika-holdingu-colt-cz-group-vzrostl-cisty-zisk-za-tri-ctvrtleti-na-19-miliardy-40610573",
+      "published_utc": "2026-11-26T06:19:01Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "Zbrojaři Colt CZ za tři čtvrtletí stoupl zisk meziročně o 43,7 procenta na 1,9 miliardy",
+      "lead_raw": "Holding Colt CZ Group SE (Colt CZ) vykázal za tři letošní čtvrtletí výnosy 23,3 miliardy korun. Meziročně byly vyšší o 45,2 procenta. Čistý zisk zbrojařské skupiny za devět měsíců roku přesáhl 1,9 miliardy korun, ve srovnání se stejným obdobím loni vzrostl o 43,7 procenta.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "a340035de1c488564c0479b476532efac7cdb0a7",
+      "fingerprint": "96c9f635365ab779db16301fdfd743eb49add241",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/praha/zpravy/nejvyssi-soud-zprostil-obzaloby-strazniky-kteri-nepomohli-obesenci.A261126_070707_praha-zpravy_bur",
+      "published_utc": "2026-11-26T06:17:00Z",
+      "collected_at_utc": "2026-11-26T07:23:08Z",
+      "title_raw": "Nejvyšší soud zprostil obžaloby strážníky, kteří včas neodřízli oběšeného muže",
+      "lead_raw": "Nejvyšší soud zrušil verdikt nad dvěma pražskými strážníky, kteří chybovali při zásahu u oběšeného muže, a oba zprostil obžaloby. Strážníci po příjezdu na místo nepřeřízli lano a neposkytli hned první pomoc, s resuscitací se začalo až po osmi minutách.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "1c8fbc5999c8aa94a0c1d47fba51a4ab8ea0b1bc",
+      "fingerprint": "89efcbe8940c6da765f3b2c6dd6d9c83e38822d8",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/bydleni-japonskou-veznici-prestaveli-na-luxusni-hotel-puvodni-ucel-je-vsak-stale-zrejmy-40608868",
+      "published_utc": "2026-11-26T06:06:00Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "Japonskou věznici přestavěli na luxusní hotel. Původní účel je však stále zřejmý",
+      "lead_raw": "Bývalá věznice Nara v Japonsku byla přestavěna na luxusní hotel s názvem Hoshinoya Nara Prison, kde hosté spí v bývalých celách. Velmi nevšední japonský luxusní hotel je příkladem zážitkové architektury, která má sice jinou funkci, ale tvary stavby i nadále do značné míry předurčují, jak se v interiéru budete cítit.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "8d90bea2b63a99e081e3a11e1b470504fe46532f",
+      "fingerprint": "78687a858a9ea5e0a6b12819ed138fc99064e487",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/rusko-by-nemelo-rozsirovat-valku-na-ukrajine-shodli-se-trump-a-rutte.A261126_070607_zahranicni_kurl",
+      "published_utc": "2026-11-26T06:06:00Z",
+      "collected_at_utc": "2026-11-26T07:23:08Z",
+      "title_raw": "Rutte jednal s Trumpem. Rusko by nemělo rozšiřovat válku na Ukrajině, shodli se",
+      "lead_raw": "Rusko by nemělo podnikat žádné kroky, kterými úmyslně či neúmyslně rozšíří válku na Ukrajině, uvedli ve společném prohlášení americký prezident Donald Trump a generální tajemník NATO Mark Rutte po středečním večerním jednání v Trumpově floridské rezidenci Mar-a-Lago. Mírová dohoda by měla být dojednána co nejdříve, shodli se rovněž.",
+      "title_en": "Rutte negotiated with Trump. Russia should not expand the war in Ukraine, they agreed",
+      "lead_en": "Russia should not take any steps that intentionally or unintentionally expand the war in Ukraine, said U.S. President Donald Trump and NATO Secretary General Mark Rutte in a joint statement after Wednesday evening's meeting at Trump's Mar-a-Lago residence, Florida. They also agreed that a peace agreement should be negotiated as soon as possible.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 15,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "negotiations"
+        ],
+        "military": [
+          "nato"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "negotiations",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "military": [
+          {
+            "concept": "nato",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "b7ad1d54af9e458f5964be753ecaf30754c7d73a",
+      "fingerprint": "f3cce7e1291782a7f95e61f1c6421c0101c0982b",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/ceske-gripeny-budou-v-nove-vyzbroji-strely-za-miliardu-doda-nemecky-zbrojar-bere_2611260700_hrk",
+      "published_utc": "2026-11-26T06:00:00Z",
+      "collected_at_utc": "2026-11-26T07:23:01Z",
+      "title_raw": "České gripeny budou v nové výzbroji. Střely za miliardu dodá německý zbrojař, bere od něj i Ukrajina",
+      "lead_raw": "Hlavní složka tuzemských vzdušných sil, stíhací letouny JAS-39 Gripen, bude mít novou výzbroj. Téměř čtyři desítky střel jim dodá německá zbrojovka Diehl Defence, angažující se v obraně Ukrajiny. Plyne to z interního dokumentu ministerstva obrany, jejž iROZHLAS.cz získal. Kontrakt za téměř 1,5 miliardy korun by mělo ministerstvo obrany podepsat ještě tento měsíc.",
+      "title_en": "Czech Gripens will be in new armament. Missiles worth one billion will be supplied by a German arms manufacturer, Ukraine is also taking from them",
+      "lead_en": "The main component of the domestic air force, the JAS-39 Gripen fighter jets, will have new armament. Nearly forty missiles will be supplied by the German arms manufacturer Diehl Defence, which is engaged in the defense of Ukraine. This is according to an internal document from the Ministry of Defense obtained by iROZHLAS.cz. The Ministry of Defense is expected to sign the contract worth nearly 1.5 billion crowns later this month.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 0,
+        "economy": 2,
+        "domestic_politics": 4,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "defense_ministry"
+        ],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [
+          "government"
+        ],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "defense_ministry",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "c6eb70055472d3f8043e6009856f276b54eee03a",
+      "fingerprint": "ebb989e1de5a98a3923a16e0f1b6963c7f7b3b9d",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/posledni-rozlouceni-dle-vlastnich-predstav-stovky-lidi-si-plati-svuj-pohreb-dopredu-379942",
+      "published_utc": "2026-11-26T06:00:00Z",
+      "collected_at_utc": "2026-11-26T07:23:04Z",
+      "title_raw": "Poslední rozloučení dle vlastních představ. Stovky lidí si platí svůj pohřeb dopředu",
+      "lead_raw": "Stovky lidí napříč Českem mají předplacený vlastní pohřeb, vyplývá z výpovědí pohřebních služeb, které oslovila ČT. Nejčastější motivací je jistota, že se poslední rozloučení uskuteční podle jejich představ. Lidé také chtějí ušetřit blízkým organizační starosti nebo se prostřednictvím plánování pohřbu lépe vyrovnat s vlastní smrtelností. Za pohřeb předem zaplatí 35 až 55 tisíc korun.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "1d88b7845d0f6b0aa67e8178a2a183b51a68e723",
+      "fingerprint": "8038594ad1c920cfd7f9b5a0965d0f24567bed61",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-ve-vate-pojisteni-auta-i-domu-muze-byt-zbytecne-zalezi-na-vysi-majetku-rika-expert-321386",
+      "published_utc": "2026-11-26T06:00:00Z",
+      "collected_at_utc": "2026-11-26T07:23:07Z",
+      "title_raw": "Zbytečné a nevýhodné. Proč se zbavit investičního „životka“",
+      "lead_raw": "Investiční životní pojištění slibuje dvě věci v jednom: ochranu i zhodnocení peněz. Jenže může vyjít velmi draho. Produkt je populární, přestože jeho poplatky mohou klientovi za 30 let spolknout až půlku výsledné částky.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "258756c42b50a303ab7091f948125440dc94f8e8",
+      "fingerprint": "61ec6a2925086c8bbec93ad15572abdcb5c69bb1",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/kultura-filmy-serialy-filmove-premiery-neco-jako-rodina-thankskilling-day-po-stopach-krve-ramajana-zrozeni-legendy-a-vsichni-fotri-jsou-lotri-40610422",
+      "published_utc": "2026-11-26T05:59:00Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "Filmové premiéry: Něco jako rodina, Thankskilling Day, Po stopách krve, Rámájana: Zrození legendy a Všichni fotři jsou lotři",
+      "lead_raw": "Koncem roku je v kinech tradičně živo. I proto tento čtvrtek do nich dorazí pořádná porce filmů, z nichž – při troše vůle – si vybere každý. Ambici stát se celosvětovým hitem má indický film zpracovávající slavnou legendu Rámájana: Zrození legendy, případně česká komedie Něco jako rodina. Po Festivalu francouzského filmu do nich zamíří i několik francouzských titulů, včetně historického snímku De Gaulle 2: Svoboda.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 3,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "leadership"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": true,
+            "lead": false,
+            "points": 3
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "4e4701a2d2cd00b898064e2e9cb65f6b5b9bb02e",
+      "fingerprint": "1a41b7fe3e418df59574eb7fe8aa71962219f78a",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-jihomoravsky-kraj-na-strece-hrozi-bile-sajrajt-brno-se-chysta-na-kalamitu-policiste-oprasili-hantec-40610562",
+      "published_utc": "2026-11-26T05:58:29Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "„Na štrece hrozí bílé sajrajt.“ Brno se chystá na kalamitu, policisté oprášili hantec",
+      "lead_raw": "Jestli můžete, zůstaňte fachčit na domašově, jináč hrozí těžké levingston, apelovali policisté z Brna na řidiče, aby kvůli počasí ve čtvrtek raději zůstali doma na home office. V hantecu upozornili nejen na hustí sněžení, které podle meteorologů hrozí, ale připomněli, že i bez toho doprava v Brně kolabuje kvůli uzavřeným tunelům.",
+      "title_en": "\"White dirt threatens on the road.\" Brno is preparing for a calamity, police have dusted off the slang",
+      "lead_en": "If you can, stay at Domašov, otherwise a tough levingston threatens, Brno police urged drivers to stay home on Thursday due to the weather. In Hantec, they warned not only about heavy snowfall, which meteorologists say is a threat, but also reminded that traffic in Brno is collapsing even without it due to closed tunnels.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 6
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          "infrastructure_disruption"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "infrastructure_disruption",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ]
+      },
+      "topics": [
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "local_events",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "d7e7ed916b00a3ff981875ac05aeee8a26bc2dc1",
+      "fingerprint": "b2731227a4b7f6336fb26b124a0d71772556b655",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-plan-sexy-demokratu-udelat-z-trumpa-nejuspesnejsiho-prezidenta-v-historii-321502",
+      "published_utc": "2026-11-26T05:51:41Z",
+      "collected_at_utc": "2026-11-26T07:23:07Z",
+      "title_raw": "Plán „sexy“ demokratů: Udělat z Trumpa nejúspěšnějšího prezidenta v historii",
+      "lead_raw": "Do Kongresu nastupuje nová generace demokratů a někteří z nich hlásí nový přístup k prezidentovi. Chtějí se zaměřit především na ekonomickou situaci Američanů. Používají k tomu i svůj sex appeal.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "210339a2347c76a5353bd2f72e1fecfcc125a18a",
+      "fingerprint": "2cea60ccdc875e0f616edda2419cfb614ad38679",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/domaci/cesko-predpoved-pocasi-snih-zima.A261126_062233_domaci_pluh",
+      "published_utc": "2026-11-26T05:51:00Z",
+      "collected_at_utc": "2026-11-26T07:23:08Z",
+      "title_raw": "Česko zasype sníh. Řidiče mohou zaskočit jazyky i mrznoucí mlhy",
+      "lead_raw": "Česko čeká ve čtvrtek sněžení, které může zejména na Moravě a ve východní části země komplikovat dopravu. Vítr navíc místy vytvoří sněhové jazyky, varují meteorologové. Sněžit bude i v pátek, ovšem s menší intenzitou. O víkendu se počasí postupně uklidní a převládne slunečné počasí, v noci ale teploty klesnou až k minus deseti stupňům.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "d73a130ccc9ce3f8e7ae27399e480a208727a7e8",
+      "fingerprint": "3b6f0cd60c6761f4a802807f9466224e0bf1bd08",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-poslanci-prednesli-navrhy-k-rozpoctu-presunout-chteji-pres-380-miliard-321550",
+      "published_utc": "2026-11-26T05:41:28Z",
+      "collected_at_utc": "2026-11-26T07:23:07Z",
+      "title_raw": "Poslanci přednesli návrhy k rozpočtu, přesunout chtějí přes 380 miliard",
+      "lead_raw": "Druhé čtení rozpočtu přineslo skoro 150 pozměňovacích návrhů na přesuny peněz. Peníze chtějí poslanci přidávat do školství, na sociální služby, podporu dostupného bydlení, obranu nebo bezpečnost.",
+      "title_en": "MPs presented budget proposals, aiming to transfer over 380 billion",
+      "lead_en": "The second reading of the budget brought nearly 150 amendments for fund transfers. MPs want to add money to education, social services, support for affordable housing, defense, or security.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "domestic_politics": 15,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "legislation"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "legislation",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "9bea91089537d35b744be2ece8096e72ec3d29ec",
+      "fingerprint": "4af2fa0dc42990d742a355ed91f7a817b783e046",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/internet-a-pc-hry-a-herni-systemy-v-gta-vi-strilela-na-duhovou-vlajku-slovensti-poslanci-na-ni-podali-trestni-oznameni-40610566",
+      "published_utc": "2026-11-26T05:37:19Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "V GTA VI střílela na duhovou vlajku. Slovenští poslanci na ni podali trestní oznámení",
+      "lead_raw": "Členka krajně pravicového hnutí Republika Lívia Pavlíková v počítačové hře GTA VI střílela na duhovou vlajku a záběry zveřejnila na Instagramu. Poslanci Progresivního Slovenska (PS) Lucia Plaváková a Michal Sabo ve středu oznámili, že na ni podali trestní oznámení. Kritizovali také to, jak Pavlíková na výhrady reagovala.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "847056a52f4ac54452f61077c30947917c95b31e",
+      "fingerprint": "c58eee09b97a68c7acae1f3154fdb1e031b6f70f",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/na-jihovychode-ceska-napadne-az-20-centimetru-snehu-dopravu-zkomplikuje-i_2611260636_elv",
+      "published_utc": "2026-11-26T05:36:00Z",
+      "collected_at_utc": "2026-11-26T07:23:01Z",
+      "title_raw": "Na jihovýchodě Česka napadne až 20 centimetrů sněhu, dopravu zkomplikuje i ledovka",
+      "lead_raw": "Na čtvrtek a noc na pátek vydal Český hydrometeorologický ústav (ČHMÚ) pro většinu území Česka výstrahu před silným sněžením, kdy hlavně na jihovýchodě země může napadnout až 20 centimetrů sněhu. V pátek a sobotu bude v Česku ještě zřejmě slabě sněžit, ale v neděli se vyjasní a srážky ustanou. O víkendu může také nadále i přes den mrznout.",
+      "title_en": "Up to 20 centimeters of snow will fall in southeastern Czechia, and traffic will also be complicated by ice",
+      "lead_en": "For Thursday and the night into Friday, the Czech Hydrometeorological Institute (ČHMÚ) has issued a heavy snowfall warning for most of the country, with up to 20 centimeters of snow possible mainly in the southeast of the country. On Friday and Saturday, light snow is still expected in the Czech Republic, but on Sunday it will clear up and precipitation will stop. It may also continue to freeze during the day over the weekend.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 12
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          "severe_weather",
+          "emergency_warning"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "severe_weather",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "emergency_warning",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ]
+      },
+      "topics": [
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "local_events",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "3b8f90e9476fdfe3112b5dd9d86f02aac051bb53",
+      "fingerprint": "59b3dc7b4dcf6aa286d471012b22a742b44a409f",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-v-rusku-vznikl-novy-serial-o-stalinovi-40610570",
+      "published_utc": "2026-11-26T05:32:00Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "V Rusku vznikl nový seriál o Stalinovi",
+      "lead_raw": "Nový šestidílný seriál Stalin zachycující sovětského diktátora v poválečných letech přichází v těchto dnech na streamovací platformu Kion a následně na obrazovky ruské televize. Soudě podle traileru jde o typický vlastenecký velkofilm, ve kterém se rozhodný vůdce staví na odpor Západu, napsal server Meduza. Jiní komentátoři poukazují na příhodné načasování seriálu do současné doby, kdy Rusko pátým rokem válčí proti Ukrajině a „kolektivnímu Západu“.",
+      "title_en": "A new series about Stalin has been created in Russia",
+      "lead_en": "The new six-part series Stalin, depicting the Soviet dictator in the post-war years, is coming these days to the streaming platform Kion and subsequently to Russian television screens. Judging by the trailer, it is a typical patriotic blockbuster in which a determined leader stands up against the West, wrote the Meduza website. Other commentators point to the timing of the series to the present day, as Russia has been at war against Ukraine and the \"collective West\" for five consecutive years.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 10,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "fd69a7d5e40769f1f2aba23fe13c4607ff21ae1e",
+      "fingerprint": "45fa36a8bdbeb0b5d5280a1dbfe6588a9800bc8d",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/kultura/hudba/hudba-duran-duran-andy-taylor-umrti.A261126_060352_hudba_pluh",
+      "published_utc": "2026-11-26T05:32:00Z",
+      "collected_at_utc": "2026-11-26T07:23:08Z",
+      "title_raw": "Zemřel kytarista Andy Taylor ze skupiny Duran Duran, bylo mu 65 let",
+      "lead_raw": "Ve věku 65 let v pondělí zemřel bývalý kytarista poprockové skupiny Duran Duran z éry britské nové vlny Andy Taylor. Skupina to ve středu oznámila na svém webu. Hudebník, který byl s celou kapelou v roce 2022 uveden do rokenrolové síně slávy, již v té době trpěl rakovinou prostaty.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "2032b582d33dcfaf5647cffeeda3e00b8121c2c7",
+      "fingerprint": "c970e27fbd9e9924997dcbb8ff4c1f23d5ed9655",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/letosni-pocasi-drti-prazskou-vodovodni-sit-pocet-havarii-stale-roste-379948",
+      "published_utc": "2026-11-26T05:30:00Z",
+      "collected_at_utc": "2026-11-26T07:23:04Z",
+      "title_raw": "Letošní počasí „drtí“ pražskou vodovodní síť. Počet havárií stále roste",
+      "lead_raw": "Počet havárií v pražské vodovodní síti roste už pátým rokem. Například ke konci října jich už bylo přes čtyři tisíce, tedy o 150 víc než ve stejném období loni. Vše ovlivňuje i nástup mrazů po dlouhém letním suchu. Právě počasí má na množství havárií největší vliv. Potrubí trpí pohybem podloží právě při velkém suchu nebo při déletrvajících mrazech. Letošní růst havárií tak hodně ovlivnilo velmi teplé počasí v průběhu letních prázdnin. Stáří trubek tolik důležité není – paradoxně větší potíže dělají ty ze 60. a 70. let minulého století než ty z 19. století. Československo totiž muselo za socialismu v rámci RVHP (Rady vzájemné hospodářské pomoci) povinně odebírat polskou litinu, která nebyla kvalitní, uvedl mluvčí Pražských vodovodů a kanalizací. Jen letos Praha do údržby a obnovy vodovodní sítě investuje přes 4,25 miliardy korun.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "a63a347d09c721bd754e7db1b0242f53ba5e81e1",
+      "fingerprint": "5f6354cb1494f848267eb007fa3201a533696b42",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-kdybyste-pracovali-poradne-nemusime-mrznout-na-namestich-celil-vytkam-rakusan-321546",
+      "published_utc": "2026-11-26T05:30:00Z",
+      "collected_at_utc": "2026-11-26T07:23:07Z",
+      "title_raw": "Kdybyste pracovali pořádně, nemusíme mrznout na náměstích, čelil výtkám Rakušan",
+      "lead_raw": "„Jsem na vás strašně naštvaná, měli jste čtyři roky. Jak je možné, že je tam zase Babiš?“ I takové výtky si vyslechl šéf STAN Vít Rakušan v Olomouci. Když ale sliboval porážku ANO, lidé mu tleskali. Ve středu završil sérii debat.",
+      "title_en": "If you worked properly, we wouldn't have to freeze in the squares, faced criticism from the Austrian",
+      "lead_en": "\"I'm terribly angry at you, you were four years old. How is it possible that Babiš is there again?\" Such criticisms were heard by STAN leader Vít Rakušan in Olomouc. But when he promised ANO's defeat, people applauded him. On Wednesday, he concluded a series of debates.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 12,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "political_parties",
+          "czech_leaders"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "dfd70da8a9c658fa858fc59986f02b45e0d5417d",
+      "fingerprint": "6f2907ae649eccaa4cfe095b57c4ba963aa8c93b",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/v-patek-a-sobotu-bude-jeste-snezit-v-nedeli-se-vyjasni/2905265",
+      "published_utc": "2026-11-26T05:26:00Z",
+      "collected_at_utc": "2026-11-26T07:23:03Z",
+      "title_raw": "V pátek a sobotu bude ještě sněžit, v neděli se vyjasní",
+      "lead_raw": "Praha - V pátek a sobotu bude v Česku ještě zřejmě slabě sněžit, ale v neděli se vyjasní a srážky ustanou. O víkendu může také nadále i přes den mrznout. Vyplývá to z předpovědi Českého hydrometeorologického...",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "f153414c3c0a78815afc3a114f80f42907cdc247",
+      "fingerprint": "1ff3d763bca6b157361df1c2c1e882afcb6d6cf4",
+      "source": "Radio Prague International (EN)",
+      "source_language": "en",
+      "url": "https://english.radio.cz/senate-rejects-sporting-events-involving-russian-and-belarusian-teams-czechia-8903620",
+      "published_utc": "2026-11-26T05:25:00Z",
+      "collected_at_utc": "2026-11-26T07:23:09Z",
+      "title_raw": "Senate rejects sporting events involving Russian and Belarusian teams in Czechia",
+      "lead_raw": "Senate rejects sporting events involving Russian and Belarusian teams in Czechia",
+      "title_en": "Senate rejects sporting events involving Russian and Belarusian teams in Czechia",
+      "lead_en": "Senate rejects sporting events involving Russian and Belarusian teams in Czechia",
+      "translation_status": "not_required",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 9,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "parliament"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5
+    },
+    {
+      "id": "80315548857ee0216e1d39160f085126c967fcb2",
+      "fingerprint": "001cd7ec394d628d627ccc034d0eeb4113de14b2",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/kazdou-nedeli-chodi-na-pivo-a-veceri-v-zahranicni-politice-ale-mezi-macinkou-a_2611260620_jgr",
+      "published_utc": "2026-11-26T05:20:00Z",
+      "collected_at_utc": "2026-11-26T07:23:01Z",
+      "title_raw": "Každou neděli chodí na pivo a večeři, v zahraniční politice ale mezi Macinkou a Okamurou selanka nepanuje",
+      "lead_raw": "ANO, SPD a Motoristé sobě tvoří už více než rok koalici a brzy oslaví i první výročí vlády. A přestože mají na dílčí ekonomická či sociální témata rozdílný pohled, jejich spojenectví dál pevně drží. V poslední době ale opět vyhřezly zahraničněpolitické nesoulady, především mezi předsedy menších koaličních stran, Petrem Macinkou (Motoristé) a Tomiem Okamurou (SPD). Oba však ujišťují, že jinak je vše zalité sluncem.",
+      "title_en": "Every Sunday he goes for a beer and dinner, but in foreign policy, there is no idyll between Macinka and Okamura",
+      "lead_en": "ANO, SPD, and Motorists have been forming a coalition for over a year and will soon celebrate their first anniversary of government. And although they have differing views on some economic or social issues, their alliance remains firmly held. Recently, foreign policy disagreements have emerged again, especially among the leaders of smaller coalition parties, Petr Macinka (Motorists) and Tomio Okamura (SPD). Both, however, assure that otherwise everything is sunshine.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 25,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "government",
+          "coalition",
+          "political_parties",
+          "czech_leaders"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "coalition",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "990db1e0155a88ab5d60b29250f390b65c8af760",
+      "fingerprint": "499b2b8ada91e96efc685f1d9a3b7e91f2c09408",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/za-25-let-pres-25-milionu-navstevniku-vystava-pripomina-vyroci-zalozeni_2611260618_vaa",
+      "published_utc": "2026-11-26T05:18:00Z",
+      "collected_at_utc": "2026-11-26T07:23:01Z",
+      "title_raw": "Za 25 let přes 2,5 milionu návštěvníků. Výstava připomíná výročí založení Památníku Lidice",
+      "lead_raw": "Zájemci mohou v památníku Lidice u Kladna navštívit speciální výstavu, která připomíná 25. výročí založení. Expozice popisuje především vznik a vývoj této instituce. Ta má uchovávat památku na vyhlazení obce Lidice. Nacisté je vypálili a zničili v roce 1942 jako odvetu po atentátu na zastupujícího říšského protektora Reinharda Heydricha.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "14c03375773c3d95a90800a6747fd94e4865d062",
+      "fingerprint": "12f14f0ede6d0d60f06f70466ecae123071b2769",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/plzen/zpravy/soud-fotbal-berbr-svaz-korupce-podminka-zpronevera-rogoz-slavoj-vysehrad.A260831_964318_plzen-zpravy_vb",
+      "published_utc": "2026-11-26T05:17:00Z",
+      "collected_at_utc": "2026-11-26T07:23:08Z",
+      "title_raw": "Berbr žádá osvobození, žalobce chce jemu i dalším přitížit. Rozhodne odvolací soud",
+      "lead_raw": "Udělají dnes soudci Krajského soudu v Plzni tečku za fotbalovou korupční kauzou kolem fotbalového klubu Slavoje Vyšehrad, kvůli které skončilo před soudem 21 rozhodčích, delegátů, podnikatelů i údajně nejmocnější muž českého fotbalu minulého desetiletí Roman Berbr? Většina souzených chce úplně osvobodit, zástupci Slavoje požadují zmírnit pokutu.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "ffc25b43aa643ee4d6c2e433b7cba6c2f65222e5",
+      "fingerprint": "765c1ff42fc536069a9114c860642bc227230784",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/zdravi-honi-vas-vecer-chute-na-neco-dobreho-pomuze-dobre-zvolena-svacina-40609846",
+      "published_utc": "2026-11-26T05:10:00Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "Honí vás večer chutě na něco dobrého? Pomůže dobře zvolená svačina",
+      "lead_raw": "Znáte to. Večeři máte dávno za sebou, ale stejně vás to znovu žene do kuchyně pro něco slaného či sladkého. Podle odborníků se může jednat o zvyk, ale také o signál těla, že jste mu přes den nedodali dostatek živin. Pomoci může správně zvolená odpolední svačina.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "bc3e6c1e990efa0842622641750708d45d4239b4",
+      "fingerprint": "2ff9fe3e0327bf06a198982a8f3c8f55be207790",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/domaci/poslanci-se-utkaji-kvuli-svarcsystemu-a-podpore-v-nezamestnanosti-cekaji-je-interpelace.A261126_053326_domaci_kop",
+      "published_utc": "2026-11-26T05:10:00Z",
+      "collected_at_utc": "2026-11-26T07:23:08Z",
+      "title_raw": "Poslanci se utkají kvůli švarcsystému a dávkám, čekají je interpelace",
+      "lead_raw": "Ministra práce a sociálních věcí Aleše Juchelku čeká ve čtvrtek ve Sněmovně těžká práce. Bude muset obhajovat snižování podpor v nezaměstnanosti a vysvětlovat, proč ANO otočilo, když pro jejich zvýšení za minulé vlády hlasovalo. Juchelka bude také odvracet kritiku kvůli navržené změně zákoníku práce. Podle odborů i opozice by totiž pomohla legalizovat švarcsystém.",
+      "title_en": "MPs will compete over the disguised employment system and benefits, and will face interpellations",
+      "lead_en": "Minister of Labour and Social Affairs Aleš Juchelka faces tough work in the Chamber of Deputies on Thursday. He will have to defend reducing unemployment benefits and explain why ANO reversed its stance when it voted for their increase under the previous government. Juchelka will also deflect criticism regarding the proposed amendment to the labor code. According to the unions and the opposition, it would help legalize the disguised employment system.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 15,
+        "domestic_politics": 33,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "unemployment",
+          "labor_market"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "government",
+          "legislation",
+          "coalition",
+          "political_parties",
+          "leadership"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "unemployment",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "labor_market",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "legislation",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "coalition",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "b04af232270b0c097944371991198bc69f977d26",
+      "fingerprint": "5b17d77af7bbb2b279a1608ce2c5a77e87e1297c",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/cestovani-nejstarsi-recke-muzeum-hlasi-po-skoro-20-letech-znovu-otevreno-laka-na-moderni-novinky-40610396",
+      "published_utc": "2026-11-26T05:09:00Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "Nejstarší řecké muzeum hlásí po skoro 20 letech znovu otevřeno. Láká na moderní novinky",
+      "lead_raw": "Přímo na athénské Akropoli se po skoro 20 letech znovu otevřelo historické muzeum, které patří k nejstarším v moderním Řecku. Návštěvníky láká na dosud nevystavené antické artefakty, digitální projekce i pohled do zákulisí restaurátorské práce. Veřejnosti se zpřístupnilo po rozsáhlé rekonstrukci, která vyšla na 6,2 milionu eur (zhruba 150 milionů korun).",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "ca3e6c13661869fa9fdb0de11ae260f6c3f69932",
+      "fingerprint": "94f052d9d3a13a364d7b16b8cd9916fc160898d8",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/v-nemecku-dali-straznici-pokutu-zene-za-to-ze-plakala-na-lavicce-na-detskem-hristi.A261125_165722_zahranicni_wall",
+      "published_utc": "2026-11-26T05:06:00Z",
+      "collected_at_utc": "2026-11-26T07:23:08Z",
+      "title_raw": "V Německu dali strážníci pokutu ženě za to, že plakala na lavičce na dětském hřišti",
+      "lead_raw": "Veřejní činitelé v německém Gelsenkirchenu ve spolkové zemi Severní Porýní-Vestfálsko nepatří mezi nejmilejší. Alespoň o tom se přesvědčila jednatřicetiletá žena, která si ve vypjaté situaci přála odpočinout na lavičce v parku na okraji čtvrtmilionového města. Namísto slov podpory dostala pokutu, úřad později postup schválil.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "fcb0f0fea6ca1b4d3c107d08fc208b4bd4d0b85d",
+      "fingerprint": "fe66d560a7e601cf4e7c2c3cd6737eb2eb5de4f0",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-rusko-by-nemelo-rozsirovat-valku-na-ukrajine-shodli-se-trump-a-rutte-40610569",
+      "published_utc": "2026-11-26T05:01:00Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "Rusko by nemělo rozšiřovat válku na Ukrajině, shodli se Trump a Rutte",
+      "lead_raw": "Rusko by nemělo podnikat žádné kroky, kterými úmyslně či neúmyslně rozšíří válku na Ukrajině, uvedli ve společném prohlášení americký prezident Donald Trump a generální tajemník NATO Mark Rutte po středečním večerním jednání v Trumpově floridské rezidenci Mar-a-Lago. Mírová dohoda by měla být dojednána co nejdříve, shodli se rovněž.",
+      "title_en": "Russia should not expand the war in Ukraine, Trump and Rutte agreed",
+      "lead_en": "Russia should not take any steps that intentionally or unintentionally expand the war in Ukraine, said U.S. President Donald Trump and NATO Secretary General Mark Rutte in a joint statement after Wednesday evening's meeting at Trump's Mar-a-Lago residence, Florida. They also agreed that a peace agreement should be negotiated as soon as possible.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 15,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "negotiations"
+        ],
+        "military": [
+          "nato"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "negotiations",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "military": [
+          {
+            "concept": "nato",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "3f67e561a945eeb527506eec7590aba69ce5abb6",
+      "fingerprint": "abc20915c337c8a2339af3c47e24b0b1927f1f43",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/nabytkove-banky-pomahaji-tisicum-lidi-poptavka-roste-379951",
+      "published_utc": "2026-11-26T05:00:00Z",
+      "collected_at_utc": "2026-11-26T07:23:04Z",
+      "title_raw": "Nábytkové banky pomáhají tisícům lidí. Poptávka roste",
+      "lead_raw": "Nábytkové banky v Česku pomáhají lidem v obtížné životní situaci a zároveň předcházejí vzniku odpadu. Za čtyři roky našlo jejich prostřednictvím nového majitele 1,3 milionu různých předmětů. Poptávka přitom roste. Nábytkové banky ve středu uspořádaly Den otevřených skladů, aby zájemce informovaly o tom, jak fungují a komu pomáhají.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "d40063d4144bd30348bd90a61ce74cc28ef776ff",
+      "fingerprint": "0007598156081acd88b3a2b5d10237df2f707840",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/pocasi-cesko-se-zahali-do-bile-o-vikendu-ho-sevre-mraz-40610489",
+      "published_utc": "2026-11-26T05:00:00Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "Česko se zahalí do bílé. A o víkendu ho sevře mráz",
+      "lead_raw": "Česko čeká v závěru pracovního týdne sněžení, které na většině území vytvoří sněhovou pokrývku. O víkendu srážky ustanou, ale výrazně se ochladí. Noční teploty mohou klesnout až k -10 °C a místy mráz vydrží po celý den. Zimní charakter počasí přetrvá i v první polovině příštího týdne.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "6b1513b3ab18291dbc76d1fac8d3f6afc0eb8b05",
+      "fingerprint": "d792a0d09152fe3928f420d553b81c4d21b2b93a",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-5-59-zlehcovani-i-obhajoba-co-rikaji-politici-na-neonacismus-3-0-v-cesku-321470",
+      "published_utc": "2026-11-26T04:59:00Z",
+      "collected_at_utc": "2026-11-26T07:23:07Z",
+      "title_raw": "Zlehčování i obhajoba. Co říkají politici na neonacismus 3.0 v Česku",
+      "lead_raw": "Průnik do nitra neonacistické organizace Active Club ukázal také to, že mezi jejími členy jsou i lidé s kontakty na poslance vládní koalice. Investigativní reportéři Seznam Zpráv líčí podrobnosti svých zjištění i reakce politiků.",
+      "title_en": "Downplaying and defending. What politicians say about neo-Nazism 3.0 in the Czech Republic",
+      "lead_en": "The intrusion into the neo-Nazi organization Active Club also revealed that among its members are people with contacts to members of the ruling coalition deputies. Investigative reporters from Seznam Zprávy describe details of their findings and politicians' reactions.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 16,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "parliament",
+          "government",
+          "coalition"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "coalition",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "dd43c3dbcbd7f99b02052af357cd73cfd3c6f440",
+      "fingerprint": "145e08e019f3d94e308d62140b3e496a7e85b06e",
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/bloomberg-navrat-sefa-nvidie-vyvolava-otazky-o-etice-a-postaveni-zen-v-oboru/2906844",
+      "published_utc": "2026-11-26T04:58:00Z",
+      "collected_at_utc": "2026-11-26T07:23:03Z",
+      "title_raw": "Bloomberg: Návrat šéfa Nvidie vyvolává otázky o etice a postavení žen v oboru",
+      "lead_raw": "New York - Návrat Jensena Huanga do čela amerického výrobce čipů Nvidia naznačuje, že lhát vedení o vztahu s podřízenou se už v amerických firmách nepovažuje za prohřešek, který manažerům končí kariéry....",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "40631c9756af919214de058736f4498715bf42d4",
+      "fingerprint": "5bfdd78e89ca6e52d7cad9d4ecbac79aa0a1c254",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/zvitezily-parky-mural-nebo-unikova-hra-v-liberci-hlasovali-do-kterych-projektu_2611260555_aha",
+      "published_utc": "2026-11-26T04:55:00Z",
+      "collected_at_utc": "2026-11-26T07:23:01Z",
+      "title_raw": "Zvítězily parky, mural nebo úniková hra. V Liberci hlasovali, do kterých projektů se bude investovat",
+      "lead_raw": "V Liberci vzniknou nové parky, mural a také úniková hra. Jde o projekty, které zvítězily v letošním participativním rozpočtu. Obyvatelé měli na výběr z 24 návrhů. Peníze nakonec magistrát rozdělí mezi devět z nich.",
+      "title_en": "Parks, a mural, and an escape room won. In Liberec, they voted on which projects will be invested in",
+      "lead_en": "New parks, a mural, and also an escape room will be created in Liberec. These are projects that won this year's participatory budget. Residents had a choice of 24 proposals. The city hall will ultimately distribute the money among nine of them.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "domestic_politics": 6,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "municipal_government"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "municipal_government",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "5731e8a5db0aedd35a162a23118df66f566d55d7",
+      "fingerprint": "fcbb4114bfa0d5498dbafdd47a7d8e70c4217fa7",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/kldr-chce-byt-podle-kima-jadernym-statem-sankcim-navzdory-379963",
+      "published_utc": "2026-11-26T04:53:22Z",
+      "collected_at_utc": "2026-11-26T07:23:04Z",
+      "title_raw": "KLDR chce být podle Kima jaderným státem, sankcím navzdory",
+      "lead_raw": "KLDR se bez ohledu na výzvy k denuklearizaci nevzdá svých jaderných zbraní a chystá se rozšířit arzenál taktických jaderných hlavic. Prohlásil to severokorejský vládce Kim Čong-un během návštěvy dvou zařízení na výrobu jaderného materiálu, tvrdí státní agentura KCNA. Kim, který nedávno odmítl nabídku prezidenta USA Donalda Trumpa na setkání během návštěvy v Číně, dal podle agentury AP svým prohlášením najevo, že chce upevnit pozici své země mezi jadernými státy.",
+      "title_en": "According to Kim, the DPRK wants to be a nuclear state, despite sanctions",
+      "lead_en": "Despite calls for denuclearization, the DPRK will not give up its nuclear weapons and is preparing to expand its arsenal of tactical nuclear warheads. This was stated by North Korean leader Kim Jong-un during a visit to two nuclear material production facilities, according to the state agency KCNA. Kim, who recently rejected US President Donald Trump's offer to meet during a visit to China, signaled, according to the AP agency, that he wants to strengthen his country's position among nuclear states.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "sanctions"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "sanctions",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "5365d6902a90adf82548222e5dd7aa41dcf752fa",
+      "fingerprint": "a7376609ab4477993696822b3fe84ada96c6fea5",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/zahranicni-spojene-staty-zvazuji-likvidaci-iranskych-vudcu-z-tvrdeho-jadra-40610444",
+      "published_utc": "2026-11-26T04:30:00Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "Spojené státy zvažují likvidaci íránských vůdců z tvrdého jádra",
+      "lead_raw": "Představitelé administrativy amerického prezidenta Donalda Trumpa zvažují cílené likvidace íránských vůdců z tvrdého jádra islámské republiky. Podle stanice NBC News jsou „jestřábi“ v americké administrativě přesvědčeni, že by to mohlo ukončit válku s Íránem.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "2e1eb73470ab264819268d6c0787f875af36e032",
+      "fingerprint": "b69e82d7908360e744b511548c7ae01f3d304d88",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-dalkove-odecty-tepla-2027-povinnosti-pokuty-cena-321469",
+      "published_utc": "2026-11-26T04:30:00Z",
+      "collected_at_utc": "2026-11-26T07:23:07Z",
+      "title_raw": "Povinnost dálkových odečtů tepla se blíží a stovky tisíc bytů nemají měřáky",
+      "lead_raw": "Bytové domy se už nyní musí připravit na novou povinnost, která jim nastane od Nového roku. V domech s ústředním vytápěním nebo přípravou teplé vody v domě budou nutná dálková měřidla. Spotřeba tak bude každý měsíc na očích.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "2f592745fa2fe77948fc7dad47101196b68c903e",
+      "fingerprint": "dea81989debc159c2b7674212e772db42cbb899e",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-by-nemelo-rozsirovat-valku-na-ukrajine-shodli-se-trump-a-rutte-379961",
+      "published_utc": "2026-11-26T04:29:24Z",
+      "collected_at_utc": "2026-11-26T07:23:04Z",
+      "title_raw": "Rusko by nemělo rozšiřovat válku na Ukrajině, shodli se Trump a Rutte",
+      "lead_raw": "Rusko by nemělo podnikat žádné kroky, kterými úmyslně či neúmyslně rozšíří válku na Ukrajině, uvedli v prohlášení americký prezident Donald Trump a generální tajemník NATO Mark Rutte. Oba lídři spolu jednali ve středu pozdě večer v Trumpově floridské rezidenci Mar-a-Lago. Mírová dohoda by podle nich měla být dojednána co nejdříve.",
+      "title_en": "Russia should not expand the war in Ukraine, Trump and Rutte agreed",
+      "lead_en": "Russia should not take any steps that intentionally or unintentionally expand the war in Ukraine, said U.S. President Donald Trump and NATO Secretary General Mark Rutte in a statement. Both leaders met late Wednesday evening at Trump's Mar-a-Lago residence, Florida. According to them, a peace agreement should be negotiated as soon as possible.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 15,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "nato"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "nato",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "4aa5983d3222e7e08e4fb0640ea5fedbd060a29a",
+      "fingerprint": "d34f526f3b4c466851e7159e2a72bf8115ab9fca",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/kultura-hudba-nejdrazsi-elektricka-kytara-v-cesku-stoji-miliony-hral-na-ni-radim-hladik-40610409",
+      "published_utc": "2026-11-26T04:22:00Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "Nejdražší elektrická kytara v Česku stojí miliony. Hrál na ni Radim Hladík",
+      "lead_raw": "Představuje kus československé hudební historie. Na černou elektrickou kytaru Gibson Les Paul Custom hrál zesnulý český hudebník Radim Hladík. Dnes má tento nástroj, který je ve vlastnictví jeho rodiny, odhadovanou hodnotu až 10 milionů Kč.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "6b85516844a8ceabf7afdc9272afa202afd3a1f5",
+      "fingerprint": "0bc6be1e5ddcb9420c0adb759479657fa9601489",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/manipulace-vyryta-do-medi-dnesni-principy-propagandy-vznikaly-dlouha-staleti_2611260520_lbl",
+      "published_utc": "2026-11-26T04:20:00Z",
+      "collected_at_utc": "2026-11-26T07:23:01Z",
+      "title_raw": "Manipulace vyrytá do mědi. Dnešní principy propagandy vznikaly dlouhá staletí, říká kurátor",
+      "lead_raw": "V olomouckém Arcidiecézním muzeu ve středu začíná výstava Propaganda. Divadlo moci v raném novověku. Ta zachycuje proměnu manipulace a její cestu k dnešní podobě. „Ten, kdo vytváří propagandu, vás chce přesvědčit, abyste uvažovali tak, jak on se vás snaží přesvědčit,“ popisuje kurátor Miroslav Kindl. Výstavu je možné navštívit do 14. února.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "959bc71d59725ec8f4ddcadf058a62df768d577f",
+      "fingerprint": "7154f0fd6f6719bd3e69f3b40a8fb471f39e01cf",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/ekonomika-dalsi-vydaje-na-obzoru-schodek-386-miliard-nemusi-byt-konecny-varuji-experti-40610380",
+      "published_utc": "2026-11-26T04:20:00Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "Další výdaje na obzoru. Schodek 386 miliard nemusí být konečný, varují experti",
+      "lead_raw": "Plánovaný schodek státního rozpočtu ve výši 386 miliard korun se může v příštím roce ještě o desítky miliard prohloubit. Největší riziko představují podle ekonomů drahé energie a případná další pomoc domácnostem a firmám. Hospodaření může zhoršit také slabší růst ekonomiky a zdražování státního dluhu. Na nečekané výdaje přitom vláda vyčlenila jen osm miliard korun.",
+      "title_en": "More expenditures on the horizon. The 386 billion deficit may not be final, experts warn",
+      "lead_en": "The planned state budget deficit of 386 billion crowns could deepen by tens of billions more next year. According to economists, the biggest risk is expensive energy and possible additional aid to households and businesses. The economy could also be worsened by weaker economic growth and rising public debt costs. The government has allocated only eight billion crowns for unexpected expenses.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 22,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "gdp_growth",
+          "government_budget",
+          "government_debt",
+          "currency",
+          "generic_budget"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "gdp_growth",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "government_budget",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "government_debt",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "9a790945c185be44b2b0af99a422f930d3ea4766",
+      "fingerprint": "be12b6c5bac1799e9c09e7507a9a4b96961810cf",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/brno/zpravy/janackovo-kulturni-centrum-vystavba-betonaz-nadzemni-podlazi-hloubeni-jamy.A261125_988559_brno-zpravy_azu",
+      "published_utc": "2026-11-26T04:15:00Z",
+      "collected_at_utc": "2026-11-26T07:23:08Z",
+      "title_raw": "Koncertní sál v Brně se už rýsuje. Kvůli nálezu ale stavba nabrala zpoždění",
+      "lead_raw": "Dlouho to byla betonová plocha schovaná za dřevěným plotem, kde se nic nedělo. Poslední měsíce už ale v historickém centru Brna roste do výšky nový koncertní sál, známý rovněž jako Janáčkovo kulturní centrum odkazující názvem na slavného skladatele.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "f14edc35646e663324269cf74cd99d3dfa52d7ed",
+      "fingerprint": "6842a8ef0ad639a130dfa28df6d66e121b371c92",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/veda-skoly-pruzkum-objevil-uprostred-atlantiku-potopeny-koralovy-ostrov-stary-pet-milionu-let-40610460",
+      "published_utc": "2026-11-26T04:13:00Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "Průzkum objevil uprostřed Atlantiku potopený korálový ostrov starý pět milionů let",
+      "lead_raw": "Vědci při průzkumu oblasti zvané Romanche Fracture Zone (Romancheova zlomová zóna), která se nachází uprostřed Atlantského oceánu, objevili potopený korálový ostrov neboli atol starý přibližně pět milionů let. Jeho vrchol leží 900 metrů pod hladinou moře. V pondělí o tom informoval Schmidt Ocean Institute, vědecký ústav se sídlem v USA.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "28f14b821a220f78ce220907ea46061dab34b277",
+      "fingerprint": "bb0e586780fa68332059b596a0c7222c6a89d33a",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/auto-automoto-testy-nastvany-gentleman-jedno-z-nejcharakternejsich-aut-dnesni-doby-test-aston-martinu-db12-s-40609404",
+      "published_utc": "2026-11-26T04:07:00Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "Naštvaný gentleman, jedno z nejcharakternějších aut dnešní doby. Test Aston Martinu DB12 S",
+      "lead_raw": "Aston Martin DB12 je především luxusní grand tourer, který umí nabídnout i mimořádné sportovní výkony. Nová verze S jeho charakter posouvá ještě o něco dál. Přidává výkon, ostřejší podvozek a fantastický zvuk výfuku, aniž by narušila schopnost pohodlně polykat stovky kilometrů. V otevřeném provedení Volante navíc nabízí zážitek, kterému se jen těžko hledá konkurence.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "5202f932f4caa355432890798526afebd6dbf809",
+      "fingerprint": "50cbdf59083e5a288815afcac732a467738cbfd7",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/podcastova-serie-kauza-motol-fotbalista_2611260500_nel",
+      "published_utc": "2026-11-26T04:00:00Z",
+      "collected_at_utc": "2026-11-26T07:23:01Z",
+      "title_raw": "Tam je 1,5 tuny zlata, říká podnikatel a popírá, že přes firmu v Africe legalizoval úplatky z Motola",
+      "lead_raw": "Antonín Kühn je podnikatel ze severních Čech a mimo jiné i majitel třetiligového fotbalového klubu. Často mluví o tom, jak z afrického Beninu vozil mladé nadějné hráče. V roce 2008 tam také začal podnikat. A právě proto se na něj podle policie v roce 2024 obrátili šéfové Fakultní nemocnice Motol Miloslav Ludvík a Pavel Budinský, když údajně hledali cestu, jak legalizovat úplatky. Všichni tři vinu odmítají. Radiožurnál zmapoval detaily největšího korupčního případu v českém zdravotnictví v investigativní podcastové sérii Kauza Motol. Kühnovi a jeho roli v případu se podrobně věnuje čtvrtý díl.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "c4e6c5055ce138a7d902eb00596aea06267ecd36",
+      "fingerprint": "686c57f0080cb3865bc68e1c744499728e8622af",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/krimi-duchodkyne-naletela-podvodnikum-pak-sama-vylakala-z-lidi-miliony-pujde-do-vezeni-40608892",
+      "published_utc": "2026-11-26T04:00:00Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "Důchodkyně naletěla podvodníkům, pak sama vylákala z lidí milióny. Půjde do vězení",
+      "lead_raw": "Do vězení poslal ve středu klatovský okresní soud Zoru Kašákovou (69), která vylákala od důvěřivých lidí milionové částky. Sama přitom v minulosti naletěla podvodníkům, kteří ji připravili o většinu peněz. Podle zatím nepravomocného rozsudku má žena strávit ve vězení 28 měsíců a poškozeným musí uhradit škodu.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "d4d94dea450c5304931d6002566032416c3c5efe",
+      "fingerprint": "7c93f5b320fe087af4663d2adfd8357485f89353",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/lifestyle-sex-vztahy-kdy-uz-smutek-prerusta-v-psychicke-potize-psychiatr-popisuje-varovne-signaly-40606939",
+      "published_utc": "2026-11-26T04:00:00Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "Kdy už smutek přerůstá v psychické potíže? Psychiatr popisuje varovné signály",
+      "lead_raw": "Smutek, úzkost nebo pocit beznaděje čas od času zažije každý. Jak ale poznat, že už nejde jen o přechodné těžké období a na své trápení sami nestačíme? Psychiatr Tomáš Kašpárek vysvětluje, jaké varovné signály bychom neměli přehlížet a proč neexistuje jasná hranice mezi běžným smutkem a psychickými problémy.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "ea76029858c5a5fd8c6326573d6a6844a89faaf8",
+      "fingerprint": "b824485e66ad3e0eefea4548469cfedb6acb460a",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-metnaruv-kabinet-ridi-duvernik-stb-tvrdi-ze-se-jen-bavil-se-sousedem-321491",
+      "published_utc": "2026-11-26T04:00:00Z",
+      "collected_at_utc": "2026-11-26T07:23:07Z",
+      "title_raw": "„Někdo něco naplácal,“ hájí se Metnarův šéf kabinetu. StB jej vedla jako důvěrníka",
+      "lead_raw": "Příběh Kamila Neuwirtha ukazuje, jak se lidé evidovaní StB stále mohou dostat do vysokých funkcí státní správy. Třeba být i pravou rukou ministra vnitra. Neuwirth se hájí čistým lustračním osvědčením i prověrkou na stupeň Tajné.",
+      "title_en": "\"Someone slapped something,\" defends Metnar's chief of staff. The StB listed him as a confidant",
+      "lead_en": "Kamil Neuwirth's story shows how people registered by the StB can still reach high positions in the state administration. For example, even being the right hand of the Minister of the Interior. Neuwirth defends himself with a clean lustration certificate and a clearance to the Secret level.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 8,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "leadership",
+          "public_administration"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "public_administration",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "fd278d537798ac72f079fdfcf91841c519b51682",
+      "fingerprint": "24c871c5c944bf98331570a64bfb23743dd13f75",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/zahranicni-kviz-poznate-americke-staty-podle-prezidentu-kteri-se-v-nich-narodili-40599941",
+      "published_utc": "2026-11-26T03:22:00Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "KVÍZ: Poznáte americké státy podle prezidentů, kteří se v nich narodili?",
+      "lead_raw": "Geografie a historie k sobě neodmyslitelně patří. Na nejvýznamnější americké prezidenty si každý vzpomene, působení v Bílém domě však bylo jen zlomkem jejich kariéry i života. Otestujte si svůj přehled o americké politice, zeměpisu a historii.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "f02428c9c314b47052720544deeefd6d7571b16a",
+      "fingerprint": "9b250fba3c23e63dd877b28334860ee336dd3eae",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/ekonomika-poslanci-prednesli-temer-150-navrhu-k-rozpoctu-ten-prosel-druhym-ctenim-40610568",
+      "published_utc": "2026-11-25T23:35:40Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "Poslanci přednesli téměř 150 návrhů k rozpočtu, ten prošel druhým čtením",
+      "lead_raw": "Poslanci přednesli téměř 150 pozměňovacích návrhů na přesuny peněz uvnitř státního rozpočtu na příští rok. Ten nyní prošel ve Sněmovně druhým čtením. Celkový objem navrhovaných přesunů přesahuje 380 miliard korun, což je téměř 15 procent výdajů rozpočtu.",
+      "title_en": "Members presented nearly 150 budget proposals, which passed the second reading",
+      "lead_en": "MPs presented nearly 150 amendment proposals for transfers within the state budget for next year. This has now passed the second reading in the Chamber of Deputies. The total volume of proposed transfers exceeds 380 billion crowns, which is almost 15 percent of the budget expenditures.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 11,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "government_budget",
+          "currency",
+          "generic_budget"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "government_budget",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "78bca4bc9018fcff2b536de41655a21a6fb97999",
+      "fingerprint": "68f65b987f03ca61b7d57e0039f9e2b522397be6",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/poslanci-by-se-meli-zabyvat-platformovou-praci-a-podporami-v-nezamestnanosti/2906830",
+      "published_utc": "2026-11-25T23:30:00Z",
+      "collected_at_utc": "2026-11-26T07:23:03Z",
+      "title_raw": "Poslanci by se měli zabývat platformovou prací a podporami v nezaměstnanosti",
+      "lead_raw": "Praha - Poslanci by se dnes měli dál zabývat navrhovaným zákonem o platformové práci. Ve druhém čtení je také související vládní novela zákoníku práce se sporným snížením podpor v nezaměstnanosti po jejich...",
+      "title_en": "MPs should address platform work and unemployment benefits",
+      "lead_en": "Prague - Members of Parliament are expected to continue dealing today with the proposed Platform Work Act. Also in the second reading is a related government amendment to the Labor Code with a controversial reduction in unemployment benefits after their...",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 15,
+        "domestic_politics": 19,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "unemployment",
+          "labor_market"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "government",
+          "legislation"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "unemployment",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "labor_market",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "legislation",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "2e2f28640fd064f11208b6df73f65ad2fba1bae8",
+      "fingerprint": "c22fc03781cc46eeda17fc1108a3c776cb8f593b",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/nejmene-31-obeti-si-vyzadala-nehoda-vozidla-s-ropnymi-produkty-v-kahire-379959",
+      "published_utc": "2026-11-25T23:29:15Z",
+      "collected_at_utc": "2026-11-26T07:23:04Z",
+      "title_raw": "Nejméně 31 obětí si vyžádala nehoda vozidla s ropnými produkty v Káhiře",
+      "lead_raw": "Při nehodě vozidla, které převáželo ropné produkty na káhirském městském okruhu v Egyptě, zemřelo nejméně 31 lidí. Dalších 21 osob utrpělo zranění. Vozidlo se převrátilo a následně začalo hořet, oznámilo podle agentury Reuters egyptské ministerstvo zdravotnictví.",
+      "title_en": null,
+      "lead_en": null,
+      "translation_status": "not_relevant",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
+    {
+      "id": "5922de6e571bad22e770ad3107e72870d573c9d8",
+      "fingerprint": "47d2c9c4edb8cd697d66835de6c628f96970645d",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/poslanci-prednesli-temer-150-navrhu-k-rozpoctu-presunout-chteji-pres-380-mld/2904989",
+      "published_utc": "2026-11-25T23:26:00Z",
+      "collected_at_utc": "2026-11-26T07:23:03Z",
+      "title_raw": "Poslanci přednesli téměř 150 návrhů k rozpočtu, přesunout chtějí přes 380 mld.",
+      "lead_raw": "Praha - Poslanci ve druhém čtení návrhu státního rozpočtu na příští rok přednesli téměř 150 pozměňovacích návrhů na přesuny peněz uvnitř rozpočtu. Jejich celkový objem přesahuje 380 miliard korun, což...",
+      "title_en": "MPs presented nearly 150 budget proposals, aiming to transfer over 380 billion CZK.",
+      "lead_en": "Prague - In the second reading of the state budget proposal for next year, deputies presented nearly 150 amendments to transfer funds within the budget. Their total amount exceeds 380 billion crowns, which...",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 11,
+        "domestic_politics": 15,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "government_budget",
+          "currency",
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "legislation"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "government_budget",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "legislation",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "60cbd9e25177d7cd7b04488b596cd3a101011681",
+      "fingerprint": "149721a428ad73e44e4a4f37b5b01a807efc2e54",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/senat-se-dnes-bude-zabyvat-pripravenosti-ceska-na-obranu-statu/2906130",
+      "published_utc": "2026-11-25T23:20:00Z",
+      "collected_at_utc": "2026-11-26T07:23:03Z",
+      "title_raw": "Senát se dnes bude zabývat připraveností Česka na obranu státu",
+      "lead_raw": "Praha - Připraveností Česka na obranu státu a zajištěním podpory spojeneckým jednotkám na českém území se dnes bude zabývat Senát na veřejném slyšení. Představitelé státu, armády i samospráv budou diskutovat...",
+      "title_en": "The Senate will today address the Czech Republic's readiness to defend the state",
+      "lead_en": "Prague - The Senate will discuss the Czech Republic's readiness to defend the state and ensure support for allied forces on Czech territory at a public hearing today. Representatives of the state, the army, and local governments will discuss...",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 12,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 9,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces",
+          "allied_forces"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "parliament"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "allied_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "961bf3080dce9ec4095c1b31fedd569cd3f4e39a",
+      "fingerprint": "2fff0cd008e275e47041e8143162c12b5607efa4",
+      "source": "Radio Prague International (EN)",
+      "source_language": "en",
+      "url": "https://english.radio.cz/leading-world-scientists-gather-prague-discuss-future-einstein-telescope-8903559",
+      "published_utc": "2026-11-25T23:19:00Z",
+      "collected_at_utc": "2026-11-26T07:23:09Z",
+      "title_raw": "Leading world scientists gather in Prague to discuss future of Einstein Telescope",
+      "lead_raw": "Prague has become a meeting point for leading scientists from across Europe and beyond, as experts gather to discuss the future of the Einstein Telescope – an ambitious project worth an estimated three billion euros. The planned next-generation observatory aims to detect gravitational waves with unprecedented sensitivity, opening new possibilities for exploring black holes, the earliest stars and the evolution of the universe. Michael Prouza, Director of the Institute of Physics of the Czech Academy of Sciences, outlined some of the issues discussed.",
+      "title_en": "Leading world scientists gather in Prague to discuss future of Einstein Telescope",
+      "lead_en": "Prague has become a meeting point for leading scientists from across Europe and beyond, as experts gather to discuss the future of the Einstein Telescope – an ambitious project worth an estimated three billion euros. The planned next-generation observatory aims to detect gravitational waves with unprecedented sensitivity, opening new possibilities for exploring black holes, the earliest stars and the evolution of the universe. Michael Prouza, Director of the Institute of Physics of the Czech Academy of Sciences, outlined some of the issues discussed.",
+      "translation_status": "not_required",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [],
+      "relevant": false,
+      "primary_topic": null,
+      "classification_version": 5
+    },
     {
       "id": "89293b5503d86b0403c8a6ac0b253d7a3a5b8864",
       "fingerprint": "82c65bd6a605d4d798b4112f63525d97c94a6546",
@@ -247,14 +4926,14 @@
     },
     {
       "id": "e4c7a1a4d51b856280af24b1a6fa1a533c93b390",
-      "fingerprint": "4e15cd25e2ff16eeb9980983a9be97a64c413c3b",
+      "fingerprint": "8587ce3c1753156741d6bed80e2f56b28d2e8514",
       "source": "Novinky",
       "source_language": "cs",
       "url": "https://www.novinky.cz/clanek/kultura-hudba-zemrel-kytarista-duran-duran-40610565",
       "published_utc": "2026-11-25T23:09:32Z",
-      "collected_at_utc": "2026-11-25T23:29:46Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
       "title_raw": "Zemřel kytarista skupiny Duran Duran",
-      "lead_raw": "Andy Taylor, bývalý kytarista britské popové skupiny Duran Duran, zemřel ve věku 65 let. Jeho spoluhráči v prohlášení uvedli, že svedl dlouhý a statečný boj s rakovinou prostaty a v pondělí 23. listopadu pokojně zemřel doma, obklopen svou rodinou.",
+      "lead_raw": "Andy Taylor, bývalý kytarista britské popové skupiny Duran Duran, zemřel ve věku 65 let. Jeho spoluhráči v prohlášení uvedli, že svedl dlouhý a statečný boj s rakovinou prostaty a v pondělí 23. listopadu pokojně skonal doma, obklopen svou rodinou.",
       "title_en": null,
       "lead_en": null,
       "translation_status": "not_relevant",
@@ -304,7 +4983,7 @@
       "source_language": "cs",
       "url": "https://www.idnes.cz/zpravy/domaci/druhe-cteni-rozpoctu-na-2027-navrhy-poslancu-na-presuny-penez.A261125_042858_domaci_kop",
       "published_utc": "2026-11-25T23:06:00Z",
-      "collected_at_utc": "2026-11-25T23:29:48Z",
+      "collected_at_utc": "2026-11-26T07:23:08Z",
       "title_raw": "Miliardy na důchody přidá koalice na sport a slevy jízdného, miliony divadlům",
       "lead_raw": "Poslanci navrhli přesuny peněz v návrhu státního rozpočtu na příští rok. Vládní koalice chce využít více než tři miliardy korun, které byly v rozpočtu původně jako rezerva na důchody, na vyšší slevy na jízdném pro studenty a seniory a na podporu sportu. Základní čísla rozpočtu – výši příjmů, výdajů a schodek 386 miliard korun – už poslanci měnit nemohou.",
       "title_en": "The coalition will add billions for pensions to sports and fare discounts, millions to theaters",
@@ -403,7 +5082,7 @@
       "relevant": true,
       "primary_topic": "domestic_politics",
       "classification_version": 5,
-      "translated_at_utc": "2026-11-25T23:29:50Z"
+      "translated_at_utc": "2026-11-26T07:23:10Z"
     },
     {
       "id": "383c16ea10d6743d2e19479cdc286d2bd6c1cf46",
@@ -2808,16 +7487,16 @@
     },
     {
       "id": "996130180875dc011fa560ce00669901b04ee801",
-      "fingerprint": "e6a173a2c549aff66c6bfcadcbe469390f3fe558",
+      "fingerprint": "f7012c271a316b78bad4139bbd7f90df07aac438",
       "source": "iDNES.cz",
       "source_language": "cs",
       "url": "https://www.idnes.cz/zpravy/domaci/pocasi-snih-vystraha-zima-cesky-hydrometeorologicky-ustav.A261125_120646_domaci_ikro",
       "published_utc": "2026-11-25T18:20:00Z",
-      "collected_at_utc": "2026-11-25T23:29:48Z",
+      "collected_at_utc": "2026-11-26T07:23:08Z",
       "title_raw": "Sníh má zpoždění. Až 20 centimetrů zasype Česko v jiný čas, než se čekalo",
-      "lead_raw": "Český hydrometeorologický ústav (ČHMÚ) ve středu zpřísnil výstrahu před sněžením, které má ve čtvrtek zasáhnout většinu Česka. Na jihu a jihovýchodě země může během dne napadnout až 20 centimetrů bílé pokrývky. Meteorologové varují před komplikacemi v dopravě, zhoršenou viditelností i zpožděním spojů. V noci na pátek bude sněžení pozvolna slábnout.",
+      "lead_raw": "Český hydrometeorologický ústav (ČHMÚ) ve středu zpřesnil výstrahu před sněžením, které má ve čtvrtek zasáhnout většinu Česka. Na jihu a jihovýchodě země může během dne napadnout až 20 centimetrů bílé pokrývky. Meteorologové varují před komplikacemi v dopravě, zhoršenou viditelností i zpožděním spojů. V noci na pátek bude sněžení pozvolna slábnout.",
       "title_en": "Snow is delayed. Up to 20 centimeters will cover the Czech Republic at a different time than expected",
-      "lead_en": "The Czech Hydrometeorological Institute (ČHMÚ) tightened the snowfall warning on Wednesday, which is expected to affect most of the Czech Republic on Thursday. In the south and southeast of the country, up to 20 centimeters of white cover may fall during the day. Meteorologists warn of traffic complications, reduced visibility, and delayed connections. Snowfall will gradually weaken overnight into Friday.",
+      "lead_en": "The Czech Hydrometeorological Institute (ČHMÚ) refined its snowfall warning on Wednesday, which is expected to affect most of the Czech Republic on Thursday. In the south and southeast of the country, up to 20 centimeters of white cover may fall during the day. Meteorologists warn of traffic complications, reduced visibility, and delayed connections. Snowfall will gradually weaken overnight into Friday.",
       "translation_status": "completed",
       "translation_version": 5,
       "validation_version": 5,
@@ -2869,7 +7548,7 @@
       "relevant": true,
       "primary_topic": "local_events",
       "classification_version": 5,
-      "translated_at_utc": "2026-11-25T23:29:50Z"
+      "translated_at_utc": "2026-11-26T07:23:10Z"
     },
     {
       "id": "00c1d63853a135e55ad978f81c2b403d5c80a6ed",

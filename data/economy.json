@@ -1,9 +1,511 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T23:29:51Z",
-  "count": 74,
+  "updated_at_utc": "2026-11-26T07:23:11Z",
+  "count": 79,
   "articles": [
+    {
+      "id": "bc3e6c1e990efa0842622641750708d45d4239b4",
+      "fingerprint": "2ff9fe3e0327bf06a198982a8f3c8f55be207790",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/domaci/poslanci-se-utkaji-kvuli-svarcsystemu-a-podpore-v-nezamestnanosti-cekaji-je-interpelace.A261126_053326_domaci_kop",
+      "published_utc": "2026-11-26T05:10:00Z",
+      "collected_at_utc": "2026-11-26T07:23:08Z",
+      "title_raw": "Poslanci se utkají kvůli švarcsystému a dávkám, čekají je interpelace",
+      "lead_raw": "Ministra práce a sociálních věcí Aleše Juchelku čeká ve čtvrtek ve Sněmovně těžká práce. Bude muset obhajovat snižování podpor v nezaměstnanosti a vysvětlovat, proč ANO otočilo, když pro jejich zvýšení za minulé vlády hlasovalo. Juchelka bude také odvracet kritiku kvůli navržené změně zákoníku práce. Podle odborů i opozice by totiž pomohla legalizovat švarcsystém.",
+      "title_en": "MPs will compete over the disguised employment system and benefits, and will face interpellations",
+      "lead_en": "Minister of Labour and Social Affairs Aleš Juchelka faces tough work in the Chamber of Deputies on Thursday. He will have to defend reducing unemployment benefits and explain why ANO reversed its stance when it voted for their increase under the previous government. Juchelka will also deflect criticism regarding the proposed amendment to the labor code. According to the unions and the opposition, it would help legalize the disguised employment system.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 15,
+        "domestic_politics": 33,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "unemployment",
+          "labor_market"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "government",
+          "legislation",
+          "coalition",
+          "political_parties",
+          "leadership"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "unemployment",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "labor_market",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "legislation",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "coalition",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "959bc71d59725ec8f4ddcadf058a62df768d577f",
+      "fingerprint": "7154f0fd6f6719bd3e69f3b40a8fb471f39e01cf",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/ekonomika-dalsi-vydaje-na-obzoru-schodek-386-miliard-nemusi-byt-konecny-varuji-experti-40610380",
+      "published_utc": "2026-11-26T04:20:00Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "Další výdaje na obzoru. Schodek 386 miliard nemusí být konečný, varují experti",
+      "lead_raw": "Plánovaný schodek státního rozpočtu ve výši 386 miliard korun se může v příštím roce ještě o desítky miliard prohloubit. Největší riziko představují podle ekonomů drahé energie a případná další pomoc domácnostem a firmám. Hospodaření může zhoršit také slabší růst ekonomiky a zdražování státního dluhu. Na nečekané výdaje přitom vláda vyčlenila jen osm miliard korun.",
+      "title_en": "More expenditures on the horizon. The 386 billion deficit may not be final, experts warn",
+      "lead_en": "The planned state budget deficit of 386 billion crowns could deepen by tens of billions more next year. According to economists, the biggest risk is expensive energy and possible additional aid to households and businesses. The economy could also be worsened by weaker economic growth and rising public debt costs. The government has allocated only eight billion crowns for unexpected expenses.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 22,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "gdp_growth",
+          "government_budget",
+          "government_debt",
+          "currency",
+          "generic_budget"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "gdp_growth",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "government_budget",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "government_debt",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "f02428c9c314b47052720544deeefd6d7571b16a",
+      "fingerprint": "9b250fba3c23e63dd877b28334860ee336dd3eae",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/ekonomika-poslanci-prednesli-temer-150-navrhu-k-rozpoctu-ten-prosel-druhym-ctenim-40610568",
+      "published_utc": "2026-11-25T23:35:40Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "Poslanci přednesli téměř 150 návrhů k rozpočtu, ten prošel druhým čtením",
+      "lead_raw": "Poslanci přednesli téměř 150 pozměňovacích návrhů na přesuny peněz uvnitř státního rozpočtu na příští rok. Ten nyní prošel ve Sněmovně druhým čtením. Celkový objem navrhovaných přesunů přesahuje 380 miliard korun, což je téměř 15 procent výdajů rozpočtu.",
+      "title_en": "Members presented nearly 150 budget proposals, which passed the second reading",
+      "lead_en": "MPs presented nearly 150 amendment proposals for transfers within the state budget for next year. This has now passed the second reading in the Chamber of Deputies. The total volume of proposed transfers exceeds 380 billion crowns, which is almost 15 percent of the budget expenditures.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 11,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "government_budget",
+          "currency",
+          "generic_budget"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "government_budget",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "78bca4bc9018fcff2b536de41655a21a6fb97999",
+      "fingerprint": "68f65b987f03ca61b7d57e0039f9e2b522397be6",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/poslanci-by-se-meli-zabyvat-platformovou-praci-a-podporami-v-nezamestnanosti/2906830",
+      "published_utc": "2026-11-25T23:30:00Z",
+      "collected_at_utc": "2026-11-26T07:23:03Z",
+      "title_raw": "Poslanci by se měli zabývat platformovou prací a podporami v nezaměstnanosti",
+      "lead_raw": "Praha - Poslanci by se dnes měli dál zabývat navrhovaným zákonem o platformové práci. Ve druhém čtení je také související vládní novela zákoníku práce se sporným snížením podpor v nezaměstnanosti po jejich...",
+      "title_en": "MPs should address platform work and unemployment benefits",
+      "lead_en": "Prague - Members of Parliament are expected to continue dealing today with the proposed Platform Work Act. Also in the second reading is a related government amendment to the Labor Code with a controversial reduction in unemployment benefits after their...",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 15,
+        "domestic_politics": 19,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "unemployment",
+          "labor_market"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "government",
+          "legislation"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "unemployment",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "labor_market",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "legislation",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "5922de6e571bad22e770ad3107e72870d573c9d8",
+      "fingerprint": "47d2c9c4edb8cd697d66835de6c628f96970645d",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/poslanci-prednesli-temer-150-navrhu-k-rozpoctu-presunout-chteji-pres-380-mld/2904989",
+      "published_utc": "2026-11-25T23:26:00Z",
+      "collected_at_utc": "2026-11-26T07:23:03Z",
+      "title_raw": "Poslanci přednesli téměř 150 návrhů k rozpočtu, přesunout chtějí přes 380 mld.",
+      "lead_raw": "Praha - Poslanci ve druhém čtení návrhu státního rozpočtu na příští rok přednesli téměř 150 pozměňovacích návrhů na přesuny peněz uvnitř rozpočtu. Jejich celkový objem přesahuje 380 miliard korun, což...",
+      "title_en": "MPs presented nearly 150 budget proposals, aiming to transfer over 380 billion CZK.",
+      "lead_en": "Prague - In the second reading of the state budget proposal for next year, deputies presented nearly 150 amendments to transfer funds within the budget. Their total amount exceeds 380 billion crowns, which...",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 11,
+        "domestic_politics": 15,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "government_budget",
+          "currency",
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "legislation"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "government_budget",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "legislation",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
     {
       "id": "e9b7477057d6f62771b52e49733ca20e223b2596",
       "fingerprint": "b6b5eb5191f89edc96737ed36eb995191ff0d300",
@@ -119,7 +621,7 @@
       "source_language": "cs",
       "url": "https://www.idnes.cz/zpravy/domaci/druhe-cteni-rozpoctu-na-2027-navrhy-poslancu-na-presuny-penez.A261125_042858_domaci_kop",
       "published_utc": "2026-11-25T23:06:00Z",
-      "collected_at_utc": "2026-11-25T23:29:48Z",
+      "collected_at_utc": "2026-11-26T07:23:08Z",
       "title_raw": "Miliardy na důchody přidá koalice na sport a slevy jízdného, miliony divadlům",
       "lead_raw": "Poslanci navrhli přesuny peněz v návrhu státního rozpočtu na příští rok. Vládní koalice chce využít více než tři miliardy korun, které byly v rozpočtu původně jako rezerva na důchody, na vyšší slevy na jízdném pro studenty a seniory a na podporu sportu. Základní čísla rozpočtu – výši příjmů, výdajů a schodek 386 miliard korun – už poslanci měnit nemohou.",
       "title_en": "The coalition will add billions for pensions to sports and fare discounts, millions to theaters",
@@ -218,7 +720,7 @@
       "relevant": true,
       "primary_topic": "domestic_politics",
       "classification_version": 5,
-      "translated_at_utc": "2026-11-25T23:29:50Z"
+      "translated_at_utc": "2026-11-26T07:23:10Z"
     },
     {
       "id": "93fc1f863a9d537f8bc68b4cb3ec2816bbc7bdad",

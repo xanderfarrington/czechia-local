@@ -1,21 +1,94 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T23:29:51Z",
-  "count": 11,
+  "updated_at_utc": "2026-11-26T07:23:11Z",
+  "count": 15,
   "articles": [
     {
-      "id": "996130180875dc011fa560ce00669901b04ee801",
-      "fingerprint": "e6a173a2c549aff66c6bfcadcbe469390f3fe558",
-      "source": "iDNES.cz",
+      "id": "a98ec73db7b821f83bf99b3c0869e6a732eb985f",
+      "fingerprint": "767526c0551bfeb64626edee47b96aba710ff272",
+      "source": "Novinky",
       "source_language": "cs",
-      "url": "https://www.idnes.cz/zpravy/domaci/pocasi-snih-vystraha-zima-cesky-hydrometeorologicky-ustav.A261125_120646_domaci_ikro",
-      "published_utc": "2026-11-25T18:20:00Z",
-      "collected_at_utc": "2026-11-25T23:29:48Z",
-      "title_raw": "Sníh má zpoždění. Až 20 centimetrů zasype Česko v jiný čas, než se čekalo",
-      "lead_raw": "Český hydrometeorologický ústav (ČHMÚ) ve středu zpřísnil výstrahu před sněžením, které má ve čtvrtek zasáhnout většinu Česka. Na jihu a jihovýchodě země může během dne napadnout až 20 centimetrů bílé pokrývky. Meteorologové varují před komplikacemi v dopravě, zhoršenou viditelností i zpožděním spojů. V noci na pátek bude sněžení pozvolna slábnout.",
-      "title_en": "Snow is delayed. Up to 20 centimeters will cover the Czech Republic at a different time than expected",
-      "lead_en": "The Czech Hydrometeorological Institute (ČHMÚ) tightened the snowfall warning on Wednesday, which is expected to affect most of the Czech Republic on Thursday. In the south and southeast of the country, up to 20 centimeters of white cover may fall during the day. Meteorologists warn of traffic complications, reduced visibility, and delayed connections. Snowfall will gradually weaken overnight into Friday.",
+      "url": "https://www.novinky.cz/clanek/pocasi-desitky-nehod-na-namrzlych-silnicich-na-jihu-cech-a-zacina-snezit-40610574",
+      "published_utc": "2026-11-26T07:13:52Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "Desítky nehod na namrzlých silnicích na jihu Čech. A začíná sněžit",
+      "lead_raw": "Dopravu ve čtvrtek ráno komplikují na řadě míst namrzlé silnice, na jihu Čech evidují policisté desítky nehod. Česko čeká ve čtvrtek také vydatnou sněhovou nadílku. Na jihu Moravy začalo sněžit už v noci na čtvrtek. Sněžení se bude postupně během dne posouvat k severu a nakonec zasáhne většinu území republiky. Český hydrometeorologický ústav (ČHMÚ) vydal výstrahu před sněhem.",
+      "title_en": "Dozens of accidents on icy roads in South Bohemia. And it starts snowing",
+      "lead_en": "Traffic on Thursday morning is complicated by icy roads in many places, and in South Bohemia, police have recorded dozens of accidents. The Czech Republic is also expecting heavy snowfall on Thursday. Snow began in South Moravia already on Thursday night. Snowfall will gradually move northward during the day and eventually affect most of the country's territory. The Czech Hydrometeorological Institute (ČHMÚ) has issued a snow warning.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 12
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          "severe_weather",
+          "emergency_warning"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "severe_weather",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "emergency_warning",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ]
+      },
+      "topics": [
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "local_events",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "86f91b9369f70333da2fa6c7b63c845c93013e17",
+      "fingerprint": "5309931b175c28326e38fa8b8b1ad0a1891eadd2",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/patek-a-sobota-budou-lehce-snehove-predpovidaji-meteorologove-379964",
+      "published_utc": "2026-11-26T06:34:05Z",
+      "collected_at_utc": "2026-11-26T07:23:04Z",
+      "title_raw": "Pátek a sobota budou lehce sněhové, předpovídají meteorologové",
+      "lead_raw": "V pátek a sobotu bude v Česku ještě zřejmě slabě sněžit, ale v neděli se vyjasní a srážky ustanou. O víkendu může také nadále i přes den mrznout. Vyplývá to z předpovědi Českého hydrometeorologického ústavu (ČHMÚ).",
+      "title_en": "Friday and Saturday will be lightly snowy, meteorologists predict",
+      "lead_en": "On Friday and Saturday, light snow is still expected in the Czech Republic, but on Sunday it will clear up and precipitation will stop. It may also continue to freeze during the day over the weekend. This is according to the forecast from the Czech Hydrometeorological Institute (ČHMÚ).",
       "translation_status": "completed",
       "translation_version": 5,
       "validation_version": 5,
@@ -67,7 +140,210 @@
       "relevant": true,
       "primary_topic": "local_events",
       "classification_version": 5,
-      "translated_at_utc": "2026-11-25T23:29:50Z"
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "4e4701a2d2cd00b898064e2e9cb65f6b5b9bb02e",
+      "fingerprint": "1a41b7fe3e418df59574eb7fe8aa71962219f78a",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-jihomoravsky-kraj-na-strece-hrozi-bile-sajrajt-brno-se-chysta-na-kalamitu-policiste-oprasili-hantec-40610562",
+      "published_utc": "2026-11-26T05:58:29Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "„Na štrece hrozí bílé sajrajt.“ Brno se chystá na kalamitu, policisté oprášili hantec",
+      "lead_raw": "Jestli můžete, zůstaňte fachčit na domašově, jináč hrozí těžké levingston, apelovali policisté z Brna na řidiče, aby kvůli počasí ve čtvrtek raději zůstali doma na home office. V hantecu upozornili nejen na hustí sněžení, které podle meteorologů hrozí, ale připomněli, že i bez toho doprava v Brně kolabuje kvůli uzavřeným tunelům.",
+      "title_en": "\"White dirt threatens on the road.\" Brno is preparing for a calamity, police have dusted off the slang",
+      "lead_en": "If you can, stay at Domašov, otherwise a tough levingston threatens, Brno police urged drivers to stay home on Thursday due to the weather. In Hantec, they warned not only about heavy snowfall, which meteorologists say is a threat, but also reminded that traffic in Brno is collapsing even without it due to closed tunnels.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 6
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          "infrastructure_disruption"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "infrastructure_disruption",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ]
+      },
+      "topics": [
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "local_events",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "847056a52f4ac54452f61077c30947917c95b31e",
+      "fingerprint": "c58eee09b97a68c7acae1f3154fdb1e031b6f70f",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/na-jihovychode-ceska-napadne-az-20-centimetru-snehu-dopravu-zkomplikuje-i_2611260636_elv",
+      "published_utc": "2026-11-26T05:36:00Z",
+      "collected_at_utc": "2026-11-26T07:23:01Z",
+      "title_raw": "Na jihovýchodě Česka napadne až 20 centimetrů sněhu, dopravu zkomplikuje i ledovka",
+      "lead_raw": "Na čtvrtek a noc na pátek vydal Český hydrometeorologický ústav (ČHMÚ) pro většinu území Česka výstrahu před silným sněžením, kdy hlavně na jihovýchodě země může napadnout až 20 centimetrů sněhu. V pátek a sobotu bude v Česku ještě zřejmě slabě sněžit, ale v neděli se vyjasní a srážky ustanou. O víkendu může také nadále i přes den mrznout.",
+      "title_en": "Up to 20 centimeters of snow will fall in southeastern Czechia, and traffic will also be complicated by ice",
+      "lead_en": "For Thursday and the night into Friday, the Czech Hydrometeorological Institute (ČHMÚ) has issued a heavy snowfall warning for most of the country, with up to 20 centimeters of snow possible mainly in the southeast of the country. On Friday and Saturday, light snow is still expected in the Czech Republic, but on Sunday it will clear up and precipitation will stop. It may also continue to freeze during the day over the weekend.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 12
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          "severe_weather",
+          "emergency_warning"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "severe_weather",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "emergency_warning",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ]
+      },
+      "topics": [
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "local_events",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "996130180875dc011fa560ce00669901b04ee801",
+      "fingerprint": "f7012c271a316b78bad4139bbd7f90df07aac438",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/domaci/pocasi-snih-vystraha-zima-cesky-hydrometeorologicky-ustav.A261125_120646_domaci_ikro",
+      "published_utc": "2026-11-25T18:20:00Z",
+      "collected_at_utc": "2026-11-26T07:23:08Z",
+      "title_raw": "Sníh má zpoždění. Až 20 centimetrů zasype Česko v jiný čas, než se čekalo",
+      "lead_raw": "Český hydrometeorologický ústav (ČHMÚ) ve středu zpřesnil výstrahu před sněžením, které má ve čtvrtek zasáhnout většinu Česka. Na jihu a jihovýchodě země může během dne napadnout až 20 centimetrů bílé pokrývky. Meteorologové varují před komplikacemi v dopravě, zhoršenou viditelností i zpožděním spojů. V noci na pátek bude sněžení pozvolna slábnout.",
+      "title_en": "Snow is delayed. Up to 20 centimeters will cover the Czech Republic at a different time than expected",
+      "lead_en": "The Czech Hydrometeorological Institute (ČHMÚ) refined its snowfall warning on Wednesday, which is expected to affect most of the Czech Republic on Thursday. In the south and southeast of the country, up to 20 centimeters of white cover may fall during the day. Meteorologists warn of traffic complications, reduced visibility, and delayed connections. Snowfall will gradually weaken overnight into Friday.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 6
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          "emergency_warning"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "emergency_warning",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ]
+      },
+      "topics": [
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "local_events",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
     },
     {
       "id": "96ac95e2d8a21dc6bc1e833706c58b2e1968caa5",

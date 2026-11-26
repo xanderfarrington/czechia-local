@@ -1,9 +1,713 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-25T23:29:51Z",
-  "count": 15,
+  "updated_at_utc": "2026-11-26T07:23:11Z",
+  "count": 23,
   "articles": [
+    {
+      "id": "2d33b82e92a32c7bcec04c25f9acf790aa799398",
+      "fingerprint": "da5ed41af8880de12ac03770daff3a10d977a06c",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-byli-jako-kobylky-zena-napomenula-influencerku-ta-na-ni-postvala-armadu-321365",
+      "published_utc": "2026-11-26T06:49:52Z",
+      "collected_at_utc": "2026-11-26T07:23:07Z",
+      "title_raw": "Byli jako kobylky. Žena napomenula influencerku, ta na ni poštvala „armádu“",
+      "lead_raw": "Češce, proti níž influencerka poštvala svoje fanoušky, přišly desítky nenávistných zpráv. „Psali, ať chcípnu já i máma. Že jsem stokilové hovado,“ líčí. Podle expertů se případ vymyká a představuje závažnou formu kyberšikany.",
+      "title_en": "They were like locusts. A woman reprimanded an influencer, who incited the \"army\" against her",
+      "lead_en": "The Czech woman against whom the influencer turned her fans against received dozens of hateful messages. \"They wrote that both I and my mother should die. That I was a hundred-kilogram bastard,\" she recounts. According to experts, the case is unusual and represents a serious form of cyberbullying.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 9,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "2e84888344c3255d6cb3e3aae541a56d98651aa6",
+      "fingerprint": "067591e1ae42d99d656759ad28071f82cd10a45b",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-valecna-fronta-neni-nic-proti-tomu-ze-se-ocitnete-v-mucirne-rusu-rika-ukrajinsky-novinar-asejev-40609705",
+      "published_utc": "2026-11-26T06:36:26Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "Válečná fronta není nic proti tomu, že se ocitnete v mučírně Rusů, říká ukrajinský novinář Asejev",
+      "lead_raw": "Dva a půl roku ho proruští separatisté mučili ve věznici Izoljacija v Doněcku. To bylo ještě před plnou invazí Ruska na Ukrajinu v roce 2022, kvůli níž později nastoupil do armády. Dnes novinář a spisovatel Stanislav Asejev, který nedávno v Praze převzal Cenu Paměti národa, pátrá po tyranech z věznice. V rozhovoru pro Novinky také vysvětlil, proč nevěří mírovým jednáním.",
+      "title_en": "The war front is nothing compared to ending up in the torture chamber of Russians, says Ukrainian journalist Asejev",
+      "lead_en": "For two and a half years, pro-Russian separatists tortured him in the Izolyatiya prison in Donetsk. This was before Russia's full-scale invasion of Ukraine in 2022, for which he later joined the army. Today, journalist and writer Stanislav Asejev, who recently received the Memory of Nations Award in Prague, is investigating the prison's tyrants. In an interview with Novinky, he also explained why he does not believe in peace negotiations.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 8,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 15,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "peace_negotiations",
+          "negotiations"
+        ],
+        "military": [
+          "armed_forces"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "international_conflict"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "peace_negotiations",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "negotiations",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "international_conflict",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "1e60f3921e9de4389ddbb51ae8199ddc0482eeca",
+      "fingerprint": "1d259dafab46d2ac31016d610d52681ab96ae6ae",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-rusko-by-nemelo-rozsirovat-valku-na-ukrajine-shodli-se-trump-a-rutte-321551",
+      "published_utc": "2026-11-26T06:19:54Z",
+      "collected_at_utc": "2026-11-26T07:23:07Z",
+      "title_raw": "Rusko by nemělo rozšiřovat válku na Ukrajině, shodli se Trump a Rutte",
+      "lead_raw": "Generální tajemník NATO Mark Rutte a americký prezident Donald Trump na společném setkání na Floridě projednali zejména válku na Ukrajině či konflikt v Íránu. Podle obou mužů by Rusko nemělo podnikat kroky k rozšíření války.",
+      "title_en": "Russia should not expand the war in Ukraine, Trump and Rutte agreed",
+      "lead_en": "NATO Secretary General Mark Rutte and U.S. President Donald Trump discussed the war in Ukraine and the conflict in Iran at a joint meeting in Florida. According to both men, Russia should not take steps to expand the war.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 15,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "nato"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "nato",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "8d90bea2b63a99e081e3a11e1b470504fe46532f",
+      "fingerprint": "78687a858a9ea5e0a6b12819ed138fc99064e487",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/rusko-by-nemelo-rozsirovat-valku-na-ukrajine-shodli-se-trump-a-rutte.A261126_070607_zahranicni_kurl",
+      "published_utc": "2026-11-26T06:06:00Z",
+      "collected_at_utc": "2026-11-26T07:23:08Z",
+      "title_raw": "Rutte jednal s Trumpem. Rusko by nemělo rozšiřovat válku na Ukrajině, shodli se",
+      "lead_raw": "Rusko by nemělo podnikat žádné kroky, kterými úmyslně či neúmyslně rozšíří válku na Ukrajině, uvedli ve společném prohlášení americký prezident Donald Trump a generální tajemník NATO Mark Rutte po středečním večerním jednání v Trumpově floridské rezidenci Mar-a-Lago. Mírová dohoda by měla být dojednána co nejdříve, shodli se rovněž.",
+      "title_en": "Rutte negotiated with Trump. Russia should not expand the war in Ukraine, they agreed",
+      "lead_en": "Russia should not take any steps that intentionally or unintentionally expand the war in Ukraine, said U.S. President Donald Trump and NATO Secretary General Mark Rutte in a joint statement after Wednesday evening's meeting at Trump's Mar-a-Lago residence, Florida. They also agreed that a peace agreement should be negotiated as soon as possible.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 15,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "negotiations"
+        ],
+        "military": [
+          "nato"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "negotiations",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "military": [
+          {
+            "concept": "nato",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "b7ad1d54af9e458f5964be753ecaf30754c7d73a",
+      "fingerprint": "f3cce7e1291782a7f95e61f1c6421c0101c0982b",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/ceske-gripeny-budou-v-nove-vyzbroji-strely-za-miliardu-doda-nemecky-zbrojar-bere_2611260700_hrk",
+      "published_utc": "2026-11-26T06:00:00Z",
+      "collected_at_utc": "2026-11-26T07:23:01Z",
+      "title_raw": "České gripeny budou v nové výzbroji. Střely za miliardu dodá německý zbrojař, bere od něj i Ukrajina",
+      "lead_raw": "Hlavní složka tuzemských vzdušných sil, stíhací letouny JAS-39 Gripen, bude mít novou výzbroj. Téměř čtyři desítky střel jim dodá německá zbrojovka Diehl Defence, angažující se v obraně Ukrajiny. Plyne to z interního dokumentu ministerstva obrany, jejž iROZHLAS.cz získal. Kontrakt za téměř 1,5 miliardy korun by mělo ministerstvo obrany podepsat ještě tento měsíc.",
+      "title_en": "Czech Gripens will be in new armament. Missiles worth one billion will be supplied by a German arms manufacturer, Ukraine is also taking from them",
+      "lead_en": "The main component of the domestic air force, the JAS-39 Gripen fighter jets, will have new armament. Nearly forty missiles will be supplied by the German arms manufacturer Diehl Defence, which is engaged in the defense of Ukraine. This is according to an internal document from the Ministry of Defense obtained by iROZHLAS.cz. The Ministry of Defense is expected to sign the contract worth nearly 1.5 billion crowns later this month.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 0,
+        "economy": 2,
+        "domestic_politics": 4,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "defense_ministry"
+        ],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [
+          "government"
+        ],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "defense_ministry",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "fcb0f0fea6ca1b4d3c107d08fc208b4bd4d0b85d",
+      "fingerprint": "fe66d560a7e601cf4e7c2c3cd6737eb2eb5de4f0",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-rusko-by-nemelo-rozsirovat-valku-na-ukrajine-shodli-se-trump-a-rutte-40610569",
+      "published_utc": "2026-11-26T05:01:00Z",
+      "collected_at_utc": "2026-11-26T07:23:05Z",
+      "title_raw": "Rusko by nemělo rozšiřovat válku na Ukrajině, shodli se Trump a Rutte",
+      "lead_raw": "Rusko by nemělo podnikat žádné kroky, kterými úmyslně či neúmyslně rozšíří válku na Ukrajině, uvedli ve společném prohlášení americký prezident Donald Trump a generální tajemník NATO Mark Rutte po středečním večerním jednání v Trumpově floridské rezidenci Mar-a-Lago. Mírová dohoda by měla být dojednána co nejdříve, shodli se rovněž.",
+      "title_en": "Russia should not expand the war in Ukraine, Trump and Rutte agreed",
+      "lead_en": "Russia should not take any steps that intentionally or unintentionally expand the war in Ukraine, said U.S. President Donald Trump and NATO Secretary General Mark Rutte in a joint statement after Wednesday evening's meeting at Trump's Mar-a-Lago residence, Florida. They also agreed that a peace agreement should be negotiated as soon as possible.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 2,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 15,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "negotiations"
+        ],
+        "military": [
+          "nato"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "negotiations",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "military": [
+          {
+            "concept": "nato",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "2f592745fa2fe77948fc7dad47101196b68c903e",
+      "fingerprint": "dea81989debc159c2b7674212e772db42cbb899e",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/rusko-by-nemelo-rozsirovat-valku-na-ukrajine-shodli-se-trump-a-rutte-379961",
+      "published_utc": "2026-11-26T04:29:24Z",
+      "collected_at_utc": "2026-11-26T07:23:04Z",
+      "title_raw": "Rusko by nemělo rozšiřovat válku na Ukrajině, shodli se Trump a Rutte",
+      "lead_raw": "Rusko by nemělo podnikat žádné kroky, kterými úmyslně či neúmyslně rozšíří válku na Ukrajině, uvedli v prohlášení americký prezident Donald Trump a generální tajemník NATO Mark Rutte. Oba lídři spolu jednali ve středu pozdě večer v Trumpově floridské rezidenci Mar-a-Lago. Mírová dohoda by podle nich měla být dojednána co nejdříve.",
+      "title_en": "Russia should not expand the war in Ukraine, Trump and Rutte agreed",
+      "lead_en": "Russia should not take any steps that intentionally or unintentionally expand the war in Ukraine, said U.S. President Donald Trump and NATO Secretary General Mark Rutte in a statement. Both leaders met late Wednesday evening at Trump's Mar-a-Lago residence, Florida. According to them, a peace agreement should be negotiated as soon as possible.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 15,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "nato"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "nato",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
+    {
+      "id": "60cbd9e25177d7cd7b04488b596cd3a101011681",
+      "fingerprint": "149721a428ad73e44e4a4f37b5b01a807efc2e54",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/senat-se-dnes-bude-zabyvat-pripravenosti-ceska-na-obranu-statu/2906130",
+      "published_utc": "2026-11-25T23:20:00Z",
+      "collected_at_utc": "2026-11-26T07:23:03Z",
+      "title_raw": "Senát se dnes bude zabývat připraveností Česka na obranu státu",
+      "lead_raw": "Praha - Připraveností Česka na obranu státu a zajištěním podpory spojeneckým jednotkám na českém území se dnes bude zabývat Senát na veřejném slyšení. Představitelé státu, armády i samospráv budou diskutovat...",
+      "title_en": "The Senate will today address the Czech Republic's readiness to defend the state",
+      "lead_en": "Prague - The Senate will discuss the Czech Republic's readiness to defend the state and ensure support for allied forces on Czech territory at a public hearing today. Representatives of the state, the army, and local governments will discuss...",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 12,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 9,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces",
+          "allied_forces"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "parliament"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "allied_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-26T07:23:10Z"
+    },
     {
       "id": "6215da2feb4f6bc2687443fb189923a9ce6c2232",
       "fingerprint": "cb3915866bed2ed0b65ad18d0007dd7c57a69294",
