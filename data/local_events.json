@@ -1,21 +1,21 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-26T18:53:37Z",
+  "updated_at_utc": "2026-11-27T03:32:13Z",
   "count": 20,
   "articles": [
     {
       "id": "7bc06254aeb523362402ed7609f99ac8ecaebe48",
-      "fingerprint": "1fcf0fe984d0e0a247e71fa4b9b77454f84bc3a4",
+      "fingerprint": "880cb3900b43266829b7106ef7a80313eef5419d",
       "source": "iDNES.cz",
       "source_language": "cs",
       "url": "https://www.idnes.cz/zpravy/domaci/cesko-snih-pocasi-silnice-predpoved.A261126_071836_domaci_pluh",
-      "published_utc": "2026-11-26T18:44:00Z",
-      "collected_at_utc": "2026-11-26T18:52:32Z",
-      "title_raw": "Česko bojuje se sněhem. Kolabuje veřejná doprava, hlášené jsou stovky nehod",
-      "lead_raw": "Dopravu v Česku od rána komplikuje sníh, policie řeší kromě řady nehod také uvázlé kamiony. Problémy se objevují také ve veřejné dopravě, zejména autobusy na některých místech Vysočiny či Jihomoravského kraje nevyjíždějí. Zásadní zlepšení se neočekává ani v následujících hodinách. Meteorologové očekávají, že sněžení postupně zasáhne většinu území, na některých místech připadnout až 15 centimetrů.",
-      "title_en": "The Czech Republic is struggling with snow. Public transport is collapsing, hundreds of accidents reported",
-      "lead_en": "Traffic in the Czech Republic has been complicated by snow since morning; the police are dealing not only with a number of accidents but also with stuck trucks. Problems are also appearing in public transport, especially buses in some parts of Vysočina and the South Moravian Region are not running. No significant improvement is expected in the coming hours. Meteorologists expect snowfall to gradually affect most of the territory, with up to 15 centimeters falling in some places.",
+      "published_utc": "2026-11-26T21:59:00Z",
+      "collected_at_utc": "2026-11-27T03:32:10Z",
+      "title_raw": "Neprůjezdná dálnice D1, kolabující veřejná doprava. Česko bojuje se sněhem",
+      "lead_raw": "Dopravu v Česku od rána komplikuje sníh, policie řeší kromě řady nehod také uvázlé kamiony. Kvůli nim byla zcela neprůjezdná dálnice D1, zdržení zde bylo až čtyřhodinové. Rakouská policie večer zavřela hranice pro kamiony z Česka bez nasazených řetězů. Problémy jsou i v autobusové dopravě, na řadě míst Vysočiny či Jihomoravského kraje spoje nemohly kvůli sněhu vyjet. Zásadní zlepšení se neočekává ani v následujících hodinách. Sněžit má až do pátečního dopoledne.",
+      "title_en": "The D1 highway is impassable, public transport is collapsing. The Czech Republic is fighting snow",
+      "lead_en": "Traffic in the Czech Republic has been complicated by snow since morning; police are dealing not only with a number of accidents but also with stuck trucks. Because of them, the D1 motorway was completely impassable, with delays lasting up to four hours. Austrian police closed the borders in the evening to trucks from the Czech Republic without chains. There are also problems in bus transport; in many places in the Vysočina region and the South Moravian Region, connections could not depart due to snow. No significant improvement is expected in the coming hours. Snow is expected until Friday morning.",
       "translation_status": "completed",
       "translation_version": 5,
       "validation_version": 5,
@@ -56,7 +56,7 @@
             "concept": "public_transport",
             "strength": 3,
             "headline": true,
-            "lead": true,
+            "lead": false,
             "points": 9
           }
         ]
@@ -67,20 +67,20 @@
       "relevant": true,
       "primary_topic": "local_events",
       "classification_version": 5,
-      "translated_at_utc": "2026-11-26T18:52:34Z"
+      "translated_at_utc": "2026-11-27T03:32:12Z"
     },
     {
       "id": "0096c7600f1d9464d6fb57d1a92de1935191b87a",
-      "fingerprint": "3b011cc20bf142781a60473327d3107eda0a6eb6",
+      "fingerprint": "6c6fa90ea7df8fd0d1a648c767d4dc0f780bd459",
       "source": "iROZHLAS - Domestic",
       "source_language": "cs",
       "url": "https://www.irozhlas.cz/zpravy-domov/lide-v-pelhrimove-budou-od-ledna-jezdit-v-mhd-zadarmo-radnice-chce-snizit_2611261930_bod",
       "published_utc": "2026-11-26T18:30:00Z",
-      "collected_at_utc": "2026-11-26T18:52:27Z",
+      "collected_at_utc": "2026-11-27T03:32:04Z",
       "title_raw": "Lidé v Pelhřimově budou od ledna jezdit v MHD zadarmo. Radnice chce snížit dopravní zátěž ve městě",
-      "lead_raw": "Pelhřimov jako první město na Vysočině zruší nastálo jízdné v autobusech MHD. Zadarmo tam budou cestující moct jezdit od ledna. Radnice podle starosty bude také usilovat o zvýšení četnosti spojů a zkracování intervalu, aby mohlo veřejnou dopravu využívat více lidí. Mimo jiné chce ušetřit peníze domácnostem a snížit dopravní zátěž ve městě.",
+      "lead_raw": "Pelhřimov jako první město na Vysočině zruší nastálo jízdné v autobusech MHD. Zadarmo tam budou cestující moct jezdit od ledna. Radnice podle starosty bude také usilovat o zvýšení četnosti spojů a zkracování intervalů, aby mohlo veřejnou dopravu využívat více lidí. Mimo jiné chce ušetřit peníze domácnostem a snížit dopravní zátěž ve městě.",
       "title_en": "People in Pelhřimov will be able to use public transport for free starting in January. The town hall wants to reduce traffic load in the city",
-      "lead_en": "Pelhřimov will be the first city in the Vysočina region to permanently abolish public bus fares. Passengers will be able to travel there free of charge starting in January. According to the mayor, the town hall will also strive to increase the frequency of connections and shorten intervals so that more people can use public transport. Among other things, it wants to save money for households and reduce traffic load in the city.",
+      "lead_en": "Pelhřimov will be the first city in the Vysočina region to permanently abolish bus fares on public transport buses. Passengers will be able to travel there free of charge starting in January. According to the mayor, the town hall will also strive to increase the frequency of connections and shorten intervals so that more people can use public transport. Among other things, it wants to save money for households and reduce traffic load in the city.",
       "translation_status": "completed",
       "translation_version": 5,
       "validation_version": 5,
@@ -143,7 +143,7 @@
       "relevant": true,
       "primary_topic": "domestic_politics",
       "classification_version": 5,
-      "translated_at_utc": "2026-11-26T18:52:34Z"
+      "translated_at_utc": "2026-11-27T03:32:12Z"
     },
     {
       "id": "d0d186e95724c9a472d60089281c2de1bc177433",
@@ -556,16 +556,16 @@
     },
     {
       "id": "86f91b9369f70333da2fa6c7b63c845c93013e17",
-      "fingerprint": "efe085e9371fa7dae1727fcd775954dbc319a6f0",
+      "fingerprint": "ae01c1fdf0090b5193d0049a323cde583690dd38",
       "source": "ČT24",
       "source_language": "cs",
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/patek-a-sobota-budou-lehce-snehove-predpovidaji-meteorologove-379964",
       "published_utc": "2026-11-26T06:34:05Z",
-      "collected_at_utc": "2026-11-26T18:52:29Z",
-      "title_raw": "Na Vysočině kvůli sněžení kolabuje doprava, problémy hlásí i jih Čech a Moravy",
-      "lead_raw": "Kvůli sněžení na Vysočině kolabuje autobusová doprava, spoje mají zpoždění, případně nejedou vůbec. Od rána do 17:45 se v kraji stalo 98 nehod, lehce se při nich zranilo pět lidí. Dopravu na jihu Čech od rána komplikuje námraza, která postupně přešla ve sněžení. Policisté kvůli tomu v kraji řešili do odpoledne 120 nehod. Na jižní Moravě sněžení odpoledne zesílilo a začalo ve větší míře komplikovat veřejnou i individuální dopravu. Spoje MHD v Brně jezdí s různě velkým zpožděním, některé krajské autobusové spoje nejezdí v části trasy či vůbec.",
-      "title_en": "Traffic is collapsing in the Vysočina region due to snowfall, and problems are also reported in South Bohemia and Moravia.",
-      "lead_en": "Due to snowfall in Vysočina, bus transport is collapsing, with delays or even no service at all. From morning until 5:45 p.m., 98 accidents occurred in the region, with five people slightly injured. Traffic in South Bohemia has been complicated since morning by frost, which has gradually turned into snowfall. Because of this, police dealt with 120 accidents in the region by the afternoon. In South Moravia, snowfall intensified in the afternoon and began to complicate both public and individual transport to a greater extent. Public transport services in Brno run with varying delays, and some regional bus services do not run part of their route or not at all.",
+      "collected_at_utc": "2026-11-27T03:32:06Z",
+      "title_raw": "Na Vysočině kvůli sněžení kolabovala doprava, problémy hlásily i další regiony",
+      "lead_raw": "Kvůli sněžení kolabovala na Vysočině od čtvrtečního odpoledne autobusová doprava, spoje měly zpoždění, případně nejedou vůbec. Dálnice D1 byla večer směrem na Prahu mezi 104. a 98. kilometrem delší dobu neprůjezdná. Počasí komplikovalo dopravu i na jihu Čech nebo na jižní Moravě. V Brně jezdilo MHD s různě velkým zpožděním, některé krajské autobusové spoje nejely v části trasy či vůbec. Problémy hlásily přes den a večer i Zlínský, Středočeský či Moravskoslezský kraj.",
+      "title_en": "Traffic collapsed in Vysočina due to snowfall, and other regions also reported problems",
+      "lead_en": "Due to snowfall, bus traffic in the Vysočina region collapsed from Thursday afternoon, with delays or no service at all. The D1 motorway towards Prague was impassable for a long time in the evening between kilometers 104 and 98. The weather complicated traffic in South Bohemia and South Moravia as well. In Brno, public transport ran with varying delays, and some regional bus services did not run on part of their route or at all. Problems were also reported during the day and evening in the Zlín, Central Bohemian, and Moravian-Silesian regions.",
       "translation_status": "completed",
       "translation_version": 5,
       "validation_version": 5,
@@ -617,7 +617,7 @@
       "relevant": true,
       "primary_topic": "local_events",
       "classification_version": 5,
-      "translated_at_utc": "2026-11-26T18:53:37Z"
+      "translated_at_utc": "2026-11-27T03:32:13Z"
     },
     {
       "id": "4e4701a2d2cd00b898064e2e9cb65f6b5b9bb02e",

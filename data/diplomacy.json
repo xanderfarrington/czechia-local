@@ -1,9 +1,394 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-26T18:53:37Z",
-  "count": 21,
+  "updated_at_utc": "2026-11-27T03:32:13Z",
+  "count": 24,
   "articles": [
+    {
+      "id": "0f1abb3dbca1c5106a7f669dab5309c7967d7284",
+      "fingerprint": "906534bc7daf040d760066cadd25340336143c6d",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/zahranicni-novou-miliardovou-pujcku-pro-ukrajinu-podporilo-24-zemi-40610804",
+      "published_utc": "2026-11-27T00:29:42Z",
+      "collected_at_utc": "2026-11-27T03:32:08Z",
+      "title_raw": "Novou půjčku pro Ukrajinu podpořilo 24 zemí",
+      "lead_raw": "Novou půjčku pro Ukrajinu v hodnotě 45 miliard eur, tedy v přepočtu více než 1,1 bilionu korun, podpořilo na summitu EU v Bruselu celkem 24 zemí. Po skončení jednání to oznámil předseda Evropské rady António Costa. Bulharsko podle něj souhlasilo s podporou úvěru s tím, že jeho finance budou směřovat pouze do nevojenské části půjčky, a to na podporu bulharské menšiny na Ukrajině.",
+      "title_en": "The new loan for Ukraine was supported by 24 countries",
+      "lead_en": "A new loan for Ukraine worth 45 billion euros, equivalent to more than 1.1 trillion crowns, was supported by a total of 24 countries at the EU summit in Brussels. This was announced by European Council President António Costa after the talks ended. According to him, Bulgaria agreed to support the loan with the understanding that its funds would be directed only to the non-military part of the loan, specifically to support the Bulgarian minority in Ukraine.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 8,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "domestic_politics": 0,
+        "foreign_affairs": 15,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits",
+          "negotiations"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy",
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "negotiations",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T03:32:12Z"
+    },
+    {
+      "id": "83deee01017c9cb4ca7e4c343a7dd30577826889",
+      "fingerprint": "663fb95801327898e268d99558ef416b1f5a9ae0",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/costa-pujcku-pro-ukrajinu-45-miliard-eur-podporilo-24-zemi-eu.A261127_005439_zahranicni_air",
+      "published_utc": "2026-11-27T00:29:00Z",
+      "collected_at_utc": "2026-11-27T03:32:10Z",
+      "title_raw": "Costa: Půjčku pro Ukrajinu 45 miliard eur podpořilo 24 zemí EU",
+      "lead_raw": "Na summitu EU podpořilo 24 členských států novou půjčku pro Ukrajinu ve výši 45 miliard eur, přičemž Bulharsko souhlasí pouze s využitím své části na nevojenské účely a podporu bulharské menšiny na Ukrajině.",
+      "title_en": "Costa: A 45 billion euro loan for Ukraine was supported by 24 EU countries",
+      "lead_en": "At the EU summit, 24 member states supported a new loan for Ukraine amounting to 45 billion euros, with Bulgaria agreeing only to use its share for non-military purposes and to support the Bulgarian minority in Ukraine.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "domestic_politics": 0,
+        "foreign_affairs": 18,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy",
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T03:32:12Z"
+    },
+    {
+      "id": "201528eec74125d065215cdf88e954fb7cea007e",
+      "fingerprint": "2d9603d0a17f80e8f483920d3e081afe4c421da7",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-merz-lidri-eu-na-nynejsim-summitu-k-dohode-o-rozpoctu-nedospeji-321646",
+      "published_utc": "2026-11-26T21:42:20Z",
+      "collected_at_utc": "2026-11-27T03:32:09Z",
+      "title_raw": "Merz: Lídři EU na nynějším summitu k dohodě o rozpočtu nedospějí",
+      "lead_raw": "Summit v Bruselu neskončí dohodou lídrů na dlouholetém rozpočtu. Dohodu se pokusí najít 17. prosince, kdy začne další summit.",
+      "title_en": "Merz: EU leaders will not reach a budget agreement at the current summit",
+      "lead_en": "The Brussels summit will not end with a leaders' agreement on the long-term budget. They will try to find an agreement on December 17, when the next summit begins.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 9,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "generic_budget"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "diplomacy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T03:32:12Z"
+    },
+    {
+      "id": "983039da77e6204198514374a267f5d2ce793f22",
+      "fingerprint": "21eeb8dfbc0944993276bf5a7e84f4b27b48a5ad",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-unijni-summit-v-patek-pokracovat-nebude-40610799",
+      "published_utc": "2026-11-26T21:18:25Z",
+      "collected_at_utc": "2026-11-27T03:32:08Z",
+      "title_raw": "Unijní summit v pátek pokračovat nebude",
+      "lead_raw": "Lídři členských zemí Evropské unie, kteří se účastní summitu v Bruselu, se sejdou znovu kolem půlnoci a pak jednání věnovaná příštímu dlouholetému rozpočtu sedmadvacítky ukončí bez dohody. Ve čtvrtek večer to podle agentury Reuters oznámil německý kancléř Friedrich Merz. Dohodu o unijním rozpočtu se podle něj šéfové států a vlád pokusí najít ještě letos na dalším summitu, který začne 17. prosince.",
+      "title_en": "The EU summit will not continue on Friday",
+      "lead_en": "The leaders of the European Union member states participating in the Brussels summit will meet again around midnight and then conclude negotiations on the next long-term budget of the twenty-seven without an agreement. This was announced on Thursday evening by German Chancellor Friedrich Merz, according to Reuters. According to him, the heads of state and government will try to reach an agreement on the EU budget at the next summit this year, which begins on December 17.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 11,
+        "military": 0,
+        "energy": 0,
+        "economy": 8,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits",
+          "negotiations"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "eu_budget",
+          "generic_budget"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "negotiations",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "eu_budget",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "economy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "diplomacy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T03:32:12Z"
+    },
     {
       "id": "8dc2dea9ba4cff365fd1842fcf50bb2aa3693e61",
       "fingerprint": "6f3736ff149417cb2b6366356778d0932f48f395",
@@ -869,16 +1254,16 @@
     },
     {
       "id": "a936aaab6738c5f3a9f6a90ade607d709f0f0f83",
-      "fingerprint": "7dc7266be12ddf03215bf899372967e7fc40335c",
+      "fingerprint": "1f3171e923d871314947acc5d227fe069cfbffcc",
       "source": "ČT24",
       "source_language": "cs",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/zacina-mimoradny-summit-eu-staty-se-prou-o-dlouhodoby-rozpocet-379966",
       "published_utc": "2026-11-26T09:14:12Z",
-      "collected_at_utc": "2026-11-26T18:52:29Z",
-      "title_raw": "„Co to je za strategii?“ Babiš na summitu odmítá spojit rozpočet EU s financováním Ukrajiny",
-      "lead_raw": "V Bruselu začal dvoudenní mimořádný summit Evropské unie, kde se bude jednat o klíčových konturách jejího rozpočtu na roky 2028 až 2034. Možnou dohodu zatím komplikuje i spor o finanční podporu Ukrajiny. Premiér Andrej Babiš (ANO) při příchodu na summit řekl, že podle něj nelze spojovat financování Kyjeva s rozpočtem Unie. Nizozemský premiér Rob Jetten naopak zmínil, že Ukrajina bude v příštích letech potřebovat více vojenské a finanční pomoci a žádná země EU se z toho nemůže vyvázat.",
-      "title_en": "\"What kind of strategy is this?\" Babiš refuses to link the EU budget to financing Ukraine at the summit",
-      "lead_en": "A two-day extraordinary European Union summit has begun in Brussels, where key outlines of its budget for 2028 to 2034 will be discussed. A possible agreement is currently complicated by a dispute over financial support for Ukraine. Prime Minister Andrej Babiš (ANO) said upon arriving at the summit that, in his view, financing Kyiv cannot be linked to the Union's budget. Dutch Prime Minister Rob Jetten, on the other hand, mentioned that Ukraine will need more military and financial aid in the coming years, and no EU country can escape this.",
+      "collected_at_utc": "2026-11-27T03:32:06Z",
+      "title_raw": "Lídři EU na summitu k dohodě o rozpočtu nedospěli, oznámil Costa",
+      "lead_raw": "V Bruselu probíhal mimořádný summit Evropské unie, kde se jednalo o klíčových konturách rozpočtu bloku na roky 2028 až 2034. Dohody o budoucím dlouholetém rozpočtu EU nebylo dosaženo. Možnou dohodu komplikoval i spor o finanční podporu Ukrajiny. Novou půjčku pro Ukrajinu v hodnotě 45 miliard eur (zhruba 1,1 bilionu korun) podpořilo na summitu EU 24 zemí, oznámil po jednání předseda Evropské rady António Costa. Premiér Andrej Babiš (ANO) řekl, že podle něj nelze spojovat financování Kyjeva s rozpočtem Unie.",
+      "title_en": "EU leaders did not reach a budget agreement at the summit, Costa announced",
+      "lead_en": "An extraordinary European Union summit took place in Brussels, discussing the key outlines of the bloc's budget for 2028 to 2034. No agreement was reached on the future long-term EU budget. A possible agreement was further complicated by a dispute over financial support for Ukraine. A new loan for Ukraine worth 45 billion euros (approximately 1.1 trillion CZK) was supported at the EU summit by 24 countries, announced European Council President António Costa after the meeting. Prime Minister Andrej Babiš (ANO) said that, in his view, financing Kyiv cannot be linked to the Union's budget.",
       "translation_status": "completed",
       "translation_version": 5,
       "validation_version": 5,
@@ -888,24 +1273,24 @@
       "translation_error": null,
       "translation_warnings": [],
       "topic_scores": {
-        "diplomacy": 9,
-        "military": 6,
+        "diplomacy": 11,
+        "military": 0,
         "energy": 0,
-        "economy": 12,
-        "domestic_politics": 17,
-        "foreign_affairs": 18,
+        "economy": 11,
+        "domestic_politics": 14,
+        "foreign_affairs": 15,
         "local_events": 0
       },
       "matched_keywords": {
         "diplomacy": [
-          "international_summits"
+          "international_summits",
+          "negotiations"
         ],
-        "military": [
-          "military_activity"
-        ],
+        "military": [],
         "energy": [],
         "economy": [
           "eu_budget",
+          "currency",
           "generic_budget"
         ],
         "domestic_politics": [
@@ -927,25 +1312,31 @@
             "headline": true,
             "lead": true,
             "points": 9
-          }
-        ],
-        "military": [
+          },
           {
-            "concept": "military_activity",
-            "strength": 3,
+            "concept": "negotiations",
+            "strength": 1,
             "headline": false,
             "lead": true,
-            "points": 6
+            "points": 2
           }
         ],
+        "military": [],
         "energy": [],
         "economy": [
           {
             "concept": "eu_budget",
             "strength": 3,
-            "headline": true,
-            "lead": false,
-            "points": 9
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
           },
           {
             "concept": "generic_budget",
@@ -966,9 +1357,9 @@
           {
             "concept": "czech_leaders",
             "strength": 3,
-            "headline": true,
+            "headline": false,
             "lead": true,
-            "points": 9
+            "points": 6
           },
           {
             "concept": "leadership",
@@ -989,16 +1380,15 @@
           {
             "concept": "ukraine",
             "strength": 3,
-            "headline": true,
+            "headline": false,
             "lead": true,
-            "points": 9
+            "points": 6
           }
         ],
         "local_events": []
       },
       "topics": [
         "diplomacy",
-        "military",
         "economy",
         "domestic_politics",
         "foreign_affairs"
@@ -1006,7 +1396,7 @@
       "relevant": true,
       "primary_topic": "foreign_affairs",
       "classification_version": 5,
-      "translated_at_utc": "2026-11-26T18:53:37Z"
+      "translated_at_utc": "2026-11-27T03:32:13Z"
     },
     {
       "id": "8fd67f57a11299f625e8c24c88b3cc432f1317da",
@@ -1924,119 +2314,6 @@
       "primary_topic": "foreign_affairs",
       "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:40:42Z"
-    },
-    {
-      "id": "2d8f499a5fefb1d9b35c5700b2d80dc83a923c11",
-      "fingerprint": "878e39fa93c7321380666f01f231e515b3acef4f",
-      "source": "České noviny / ČTK - Czech Republic",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/zive-tk-babise-pred-odletem-do-bruselu-na-summit-eu/2906281",
-      "published_utc": "2026-11-24T23:59:00Z",
-      "collected_at_utc": "2026-11-25T14:33:35Z",
-      "title_raw": "ŽIVĚ: TK Babiše před odletem do Bruselu na summit EU",
-      "lead_raw": "Praha - ČTK bude od 17:30 vysílat komentář předsedy vlády Andreje Babiše (ANO) před odletem do Bruselu na dvoudenní mimořádný summit EU, který se bude věnovat budoucímu dlouholetému rozpočtu Evropské...",
-      "title_en": "LIVE: Babiš's press conference before flying to Brussels for the EU summit",
-      "lead_en": "Prague - Czech News Agency will broadcast a commentary from Prime Minister Andrej Babiš (ANO) from 5:30 PM before departing for Brussels for a two-day extraordinary EU summit focused on the future long-term budget of the European...",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 9,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "domestic_politics": 19,
-        "foreign_affairs": 9,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [
-          "international_summits"
-        ],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "generic_budget"
-        ],
-        "domestic_politics": [
-          "government",
-          "political_parties",
-          "czech_leaders"
-        ],
-        "foreign_affairs": [
-          "eu_policy"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [
-          {
-            "concept": "international_summits",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "generic_budget",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "domestic_politics": [
-          {
-            "concept": "government",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          },
-          {
-            "concept": "political_parties",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "czech_leaders",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "diplomacy",
-        "domestic_politics",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:40:43Z"
     }
   ],
   "topic": "diplomacy"

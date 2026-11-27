@@ -1,9 +1,578 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-26T18:53:37Z",
-  "count": 79,
+  "updated_at_utc": "2026-11-27T03:32:13Z",
+  "count": 84,
   "articles": [
+    {
+      "id": "760bccd0adf17568cd4f24147bba2104fbe0e869",
+      "fingerprint": "aa9d2f6fef617cbb290368569c753c7c0b9c549d",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/poslanci-maji-schvalovat-zdaneni-rafinerii-a-zmeny-v-duchodech/2907416",
+      "published_utc": "2026-11-26T23:17:00Z",
+      "collected_at_utc": "2026-11-27T03:32:05Z",
+      "title_raw": "Poslanci mají schvalovat zdanění rafinerií a změny v důchodech",
+      "lead_raw": "Praha - Poslanci by dnes měli schvalovat vládní návrhy na zavedení mimořádné daně na rafinerie a na změny v důchodech. V závěrečném kole je na programu také například zpřísnění podmínek dočasné ochrany...",
+      "title_en": "MPs are to approve taxation of refineries and changes in pensions",
+      "lead_en": "Prague - Today, MPs are expected to approve government proposals to introduce an extraordinary tax on refineries and changes in pensions. In the final round, the agenda also includes, for example, tightening the conditions of temporary protection...",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 6,
+        "domestic_politics": 13,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "refining"
+        ],
+        "economy": [
+          "taxation"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "government"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "refining",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [
+          {
+            "concept": "taxation",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy",
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T03:32:12Z"
+    },
+    {
+      "id": "8f6114543d81e721d4ccea8e4e21da94b3b03430",
+      "fingerprint": "43a59f717cc1855153ed56ff33d5d189cfce53c4",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/ekonomika/domaci/chcete-vyssi-plat-ukazte-co-noveho-firme-prinasite-radi-expertka.A261126_134922_ekonomika_ven",
+      "published_utc": "2026-11-26T23:00:00Z",
+      "collected_at_utc": "2026-11-27T03:32:10Z",
+      "title_raw": "Chcete vyšší plat? Ukažte, co nového firmě přinášíte, radí expertka",
+      "lead_raw": "Větší samostatnost, nové kompetence nebo složitější projekty. To všechno mohou být argumenty, kterými zaměstnanec podloží žádost o vyšší mzdu. „Zaměstnanec může například poukázat na to, že když na pozici nastupoval, měl určité kompetence a odpovědnosti, zatímco dnes zvládá mnohem složitější projekty,“ radí v rozhovoru pro iDNES.cz Radka Motlová, viceprezidentka Asociace Comp&Ben a odbornice na systémy odměňování a mzdovou politiku.",
+      "title_en": "Want a higher salary? Show what new things you bring to the company, advises an expert",
+      "lead_en": "Greater independence, new competencies, or more complex projects. All of these can be arguments an employee uses to support a request for a higher salary. \"For example, an employee might point out that when they started the position, they had certain competencies and responsibilities, whereas today they handle much more complex projects,\" advises Radka Motlová, vice president of the Comp&Ben Association and expert in remuneration systems and wage policy, in an interview with iDNES.cz.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 6,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "wages"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "wages",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T03:32:12Z"
+    },
+    {
+      "id": "ebc84e88695fd3499f72524705b8a32acf4dafbc",
+      "fingerprint": "e00a0695e1c72cc64b474eefa95711877e7aea7c",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/ekonomika-britska-centralni-banka-varovala-pred-riziky-investic-do-ai-pro-financni-trhy-40610775",
+      "published_utc": "2026-11-26T21:56:00Z",
+      "collected_at_utc": "2026-11-27T03:32:08Z",
+      "title_raw": "Britská centrální banka varovala před riziky investic do AI pro finanční trhy",
+      "lead_raw": "Rychle rostoucí investice do umělé inteligence (AI) zvyšují rizika pro finanční trhy. Upozornila na to ve čtvrtek britská centrální banka (BoE) ve své pololetní zprávě o finanční stabilitě. Zároveň AI a kvantové počítače posilují hrozbu kybernetických útoků, dodali centrální bankéři.",
+      "title_en": "The Bank of England has warned about the risks of investing in AI for financial markets",
+      "lead_en": "Rapidly growing investments in artificial intelligence (AI) increase risks for financial markets. The Bank of England (BoE) warned this on Thursday in its semi-annual financial stability report. At the same time, AI and quantum computers are increasing the threat of cyberattacks, central bankers added.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 9,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "central_banking"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "central_banking",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T03:32:12Z"
+    },
+    {
+      "id": "983039da77e6204198514374a267f5d2ce793f22",
+      "fingerprint": "21eeb8dfbc0944993276bf5a7e84f4b27b48a5ad",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-unijni-summit-v-patek-pokracovat-nebude-40610799",
+      "published_utc": "2026-11-26T21:18:25Z",
+      "collected_at_utc": "2026-11-27T03:32:08Z",
+      "title_raw": "Unijní summit v pátek pokračovat nebude",
+      "lead_raw": "Lídři členských zemí Evropské unie, kteří se účastní summitu v Bruselu, se sejdou znovu kolem půlnoci a pak jednání věnovaná příštímu dlouholetému rozpočtu sedmadvacítky ukončí bez dohody. Ve čtvrtek večer to podle agentury Reuters oznámil německý kancléř Friedrich Merz. Dohodu o unijním rozpočtu se podle něj šéfové států a vlád pokusí najít ještě letos na dalším summitu, který začne 17. prosince.",
+      "title_en": "The EU summit will not continue on Friday",
+      "lead_en": "The leaders of the European Union member states participating in the Brussels summit will meet again around midnight and then conclude negotiations on the next long-term budget of the twenty-seven without an agreement. This was announced on Thursday evening by German Chancellor Friedrich Merz, according to Reuters. According to him, the heads of state and government will try to reach an agreement on the EU budget at the next summit this year, which begins on December 17.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 11,
+        "military": 0,
+        "energy": 0,
+        "economy": 8,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits",
+          "negotiations"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "eu_budget",
+          "generic_budget"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "negotiations",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "eu_budget",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "economy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "diplomacy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T03:32:12Z"
+    },
+    {
+      "id": "eab2635cc72dd3ac4e0fbdca95fb2ebd0c7b9ffb",
+      "fingerprint": "402d14b45f28395ee274cef77ca5b729fe8e88b9",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/domaci-zakon-o-platformove-praci-se-ve-snemovne-priblizil-ke-schvaleni-40610796",
+      "published_utc": "2026-11-26T20:55:24Z",
+      "collected_at_utc": "2026-11-27T03:32:08Z",
+      "title_raw": "Zákon o platformové práci se ve Sněmovně přiblížil ke schválení",
+      "lead_raw": "Zákon o platformové práci, který zavede pravidla pro zaměstnávání lidí pracujících jako kurýři, dovozci zboží či jídla nebo prostřednictvím aplikací a webových stránek, Sněmovna asi schválí. Normu ve čtvrtek posunula do závěrečného kola schvalování. Sněmovní hospodářský výbor doporučil přijmout zákon ve vládní verzi beze změn, v sociálním výboru ke stejnému doporučení jeden hlas chyběl.",
+      "title_en": "The platform work law has come close to approval in the Chamber of Deputies",
+      "lead_en": "The Platform Work Act, which will introduce rules for employing people working as couriers, importers of goods or food, or through applications and websites, will likely be approved by the Chamber of Deputies. The regulation was moved to the final round of approval on Thursday. The Chamber's Economic Committee recommended adopting the law in the government version without changes, while the Social Committee lacked one vote on the same recommendation.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 6,
+        "domestic_politics": 22,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "imports_exports"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "government",
+          "legislation"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "imports_exports",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "legislation",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T03:32:12Z"
+    },
+    {
+      "id": "b22b990a77c4a822f46133aa032ceb4cbd7895f4",
+      "fingerprint": "b09f2c0c92e9e3f99fb01dfd0016f840acc6abd0",
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/zakon-o-platformove-praci-se-ve-snemovne-priblizil-ke-schvaleni/2905716",
+      "published_utc": "2026-11-26T20:42:00Z",
+      "collected_at_utc": "2026-11-27T03:32:05Z",
+      "title_raw": "Zákon o platformové práci se ve Sněmovně přiblížil ke schválení",
+      "lead_raw": "Praha - Zákon o platformové práci, který zavede pravidla pro zaměstnávání lidí pracujících jako kurýři, dovozci zboží či jídla nebo prostřednictvím aplikací a webových stránek, Sněmovna asi schválí. Normu...",
+      "title_en": "The platform work law has come close to approval in the Chamber of Deputies",
+      "lead_en": "Prague - The Platform Work Act, which will introduce rules for employing people working as couriers, importers of goods or food, or through applications and websites, will likely be approved by the Chamber of Deputies. The standard...",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 6,
+        "domestic_politics": 18,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "imports_exports"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "legislation"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "imports_exports",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "legislation",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T03:32:12Z"
+    },
+    {
+      "id": "f8abf70597082dd9f63f414bdf08669572077e76",
+      "fingerprint": "a2262f7910744fa873bc610c4c5b588e8c6ac67e",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/veletrhy-prace-v-karlovarskem-kraji-prilakaly-tisice-lidi-predstavily-se-firmy-i_2611262105_bod",
+      "published_utc": "2026-11-26T20:05:00Z",
+      "collected_at_utc": "2026-11-27T03:32:04Z",
+      "title_raw": "Veletrhy práce v Karlovarském kraji přilákaly tisíce lidí. Představily se firmy i vysoké školy",
+      "lead_raw": "Mechanik, svářeč i elektromontér. To je část pozic, které potřebují firmy v Karlovarském kraji obsadit. Místa proto nabízely na Veletrhu pracovních příležitostí v Sokolově, který pořádá Hospodářská komora Karlovarského kraje. Právě Sokolovsko patří mezi okresy v Česku, kde je vysoká nezaměstnanost.",
+      "title_en": "Job fairs in the Karlovy Vary Region attracted thousands of people. Companies and universities presented themselves",
+      "lead_en": "Mechanic, welder, and electrical fitter. These are some of the positions companies in the Karlovy Vary region need to fill. They therefore offered positions at the Job Fair in Sokolov, organized by the Chamber of Commerce of the Karlovy Vary Region. Sokolov is among the districts in the Czech Republic with high unemployment.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 6,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "unemployment"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "unemployment",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T03:32:12Z"
+    },
     {
       "id": "bc3e6c1e990efa0842622641750708d45d4239b4",
       "fingerprint": "44db66aaa8141938d5c55c0fde808319771a1f7f",
@@ -893,16 +1462,16 @@
     },
     {
       "id": "a936aaab6738c5f3a9f6a90ade607d709f0f0f83",
-      "fingerprint": "7dc7266be12ddf03215bf899372967e7fc40335c",
+      "fingerprint": "1f3171e923d871314947acc5d227fe069cfbffcc",
       "source": "ČT24",
       "source_language": "cs",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/zacina-mimoradny-summit-eu-staty-se-prou-o-dlouhodoby-rozpocet-379966",
       "published_utc": "2026-11-26T09:14:12Z",
-      "collected_at_utc": "2026-11-26T18:52:29Z",
-      "title_raw": "„Co to je za strategii?“ Babiš na summitu odmítá spojit rozpočet EU s financováním Ukrajiny",
-      "lead_raw": "V Bruselu začal dvoudenní mimořádný summit Evropské unie, kde se bude jednat o klíčových konturách jejího rozpočtu na roky 2028 až 2034. Možnou dohodu zatím komplikuje i spor o finanční podporu Ukrajiny. Premiér Andrej Babiš (ANO) při příchodu na summit řekl, že podle něj nelze spojovat financování Kyjeva s rozpočtem Unie. Nizozemský premiér Rob Jetten naopak zmínil, že Ukrajina bude v příštích letech potřebovat více vojenské a finanční pomoci a žádná země EU se z toho nemůže vyvázat.",
-      "title_en": "\"What kind of strategy is this?\" Babiš refuses to link the EU budget to financing Ukraine at the summit",
-      "lead_en": "A two-day extraordinary European Union summit has begun in Brussels, where key outlines of its budget for 2028 to 2034 will be discussed. A possible agreement is currently complicated by a dispute over financial support for Ukraine. Prime Minister Andrej Babiš (ANO) said upon arriving at the summit that, in his view, financing Kyiv cannot be linked to the Union's budget. Dutch Prime Minister Rob Jetten, on the other hand, mentioned that Ukraine will need more military and financial aid in the coming years, and no EU country can escape this.",
+      "collected_at_utc": "2026-11-27T03:32:06Z",
+      "title_raw": "Lídři EU na summitu k dohodě o rozpočtu nedospěli, oznámil Costa",
+      "lead_raw": "V Bruselu probíhal mimořádný summit Evropské unie, kde se jednalo o klíčových konturách rozpočtu bloku na roky 2028 až 2034. Dohody o budoucím dlouholetém rozpočtu EU nebylo dosaženo. Možnou dohodu komplikoval i spor o finanční podporu Ukrajiny. Novou půjčku pro Ukrajinu v hodnotě 45 miliard eur (zhruba 1,1 bilionu korun) podpořilo na summitu EU 24 zemí, oznámil po jednání předseda Evropské rady António Costa. Premiér Andrej Babiš (ANO) řekl, že podle něj nelze spojovat financování Kyjeva s rozpočtem Unie.",
+      "title_en": "EU leaders did not reach a budget agreement at the summit, Costa announced",
+      "lead_en": "An extraordinary European Union summit took place in Brussels, discussing the key outlines of the bloc's budget for 2028 to 2034. No agreement was reached on the future long-term EU budget. A possible agreement was further complicated by a dispute over financial support for Ukraine. A new loan for Ukraine worth 45 billion euros (approximately 1.1 trillion CZK) was supported at the EU summit by 24 countries, announced European Council President António Costa after the meeting. Prime Minister Andrej Babiš (ANO) said that, in his view, financing Kyiv cannot be linked to the Union's budget.",
       "translation_status": "completed",
       "translation_version": 5,
       "validation_version": 5,
@@ -912,24 +1481,24 @@
       "translation_error": null,
       "translation_warnings": [],
       "topic_scores": {
-        "diplomacy": 9,
-        "military": 6,
+        "diplomacy": 11,
+        "military": 0,
         "energy": 0,
-        "economy": 12,
-        "domestic_politics": 17,
-        "foreign_affairs": 18,
+        "economy": 11,
+        "domestic_politics": 14,
+        "foreign_affairs": 15,
         "local_events": 0
       },
       "matched_keywords": {
         "diplomacy": [
-          "international_summits"
+          "international_summits",
+          "negotiations"
         ],
-        "military": [
-          "military_activity"
-        ],
+        "military": [],
         "energy": [],
         "economy": [
           "eu_budget",
+          "currency",
           "generic_budget"
         ],
         "domestic_politics": [
@@ -951,25 +1520,31 @@
             "headline": true,
             "lead": true,
             "points": 9
-          }
-        ],
-        "military": [
+          },
           {
-            "concept": "military_activity",
-            "strength": 3,
+            "concept": "negotiations",
+            "strength": 1,
             "headline": false,
             "lead": true,
-            "points": 6
+            "points": 2
           }
         ],
+        "military": [],
         "energy": [],
         "economy": [
           {
             "concept": "eu_budget",
             "strength": 3,
-            "headline": true,
-            "lead": false,
-            "points": 9
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
           },
           {
             "concept": "generic_budget",
@@ -990,9 +1565,9 @@
           {
             "concept": "czech_leaders",
             "strength": 3,
-            "headline": true,
+            "headline": false,
             "lead": true,
-            "points": 9
+            "points": 6
           },
           {
             "concept": "leadership",
@@ -1013,16 +1588,15 @@
           {
             "concept": "ukraine",
             "strength": 3,
-            "headline": true,
+            "headline": false,
             "lead": true,
-            "points": 9
+            "points": 6
           }
         ],
         "local_events": []
       },
       "topics": [
         "diplomacy",
-        "military",
         "economy",
         "domestic_politics",
         "foreign_affairs"
@@ -1030,7 +1604,7 @@
       "relevant": true,
       "primary_topic": "foreign_affairs",
       "classification_version": 5,
-      "translated_at_utc": "2026-11-26T18:53:37Z"
+      "translated_at_utc": "2026-11-27T03:32:13Z"
     },
     {
       "id": "8fd67f57a11299f625e8c24c88b3cc432f1317da",
@@ -1156,16 +1730,16 @@
     },
     {
       "id": "8e53cd0481749faec842c4e2684eb69e2ad0e8aa",
-      "fingerprint": "96787e52b512c1048a0dbf21804472949dca7d84",
+      "fingerprint": "8376dc40854ca231e16813430008bd41f0c26ce4",
       "source": "ČT24",
       "source_language": "cs",
       "url": "https://ct24.ceskatelevize.cz/clanek/domaci/poslanci-by-se-meli-zabyvat-platformovou-praci-a-podporami-v-nezamestnanosti-379965",
       "published_utc": "2026-11-26T08:00:54Z",
-      "collected_at_utc": "2026-11-26T18:52:29Z",
-      "title_raw": "Sněmovna schválila finanční závazky státu za dostavbu D35 v objemu 123 miliard",
-      "lead_raw": "Finanční závazky státu v podobě, jak jsou obsaženy v koncesionářské smlouvě na dostavbu dálnice D35, ve čtvrtek sněmovna schválila. Závazky v objemu 123 miliard korun budou vyplaceny v letech 2033 až 2054. Na návrh koalice dolní komora také rozhodla, že bude moci jednat v případě potřeby i do nočních hodin. Poslanci se věnují ústním interpelacím na členy vlády, pak by se měli dál zabývat navrhovaným zákonem o platformové práci či novelou zákoníku práce o snížení podpor v nezaměstnanosti.",
-      "title_en": "The Chamber of Deputies approved the state's financial commitments for the completion of D35 amounting to 123 billion",
-      "lead_en": "The state's financial commitments as set out in the concession contract for the completion of the D35 motorway were approved by the Chamber of Deputies on Thursday. Commitments amounting to 123 billion CZK will be paid out between 2033 and 2054. At the coalition's proposal, the lower chamber also decided that it will be able to act late into the night if necessary. MPs are engaged in oral interpellations to government members, after which they should continue to consider the proposed Platform Work Act or the amendment to the Labor Code to reduce unemployment benefits.",
+      "collected_at_utc": "2026-11-27T03:32:06Z",
+      "title_raw": "Sněmovna zřejmě zmírní navrhované snížení podpor v nezaměstnanosti",
+      "lead_raw": "Sněmovna zřejmě zmírní navrhované snížení podpor v nezaměstnanosti. Z novely zákoníku práce dolní komora navíc vyškrtne nové vymezení zaměstnání, jež by podle kritiků mohlo vést k legalizaci takzvaného švarcsystému. Úpravy vládní novely zákoníku práce předpokládají pozměňovací návrhy, které podali koaliční poslanci. Druhé sněmovní čtení vyplnilo tři a půl hodiny a protáhlo se přes půlnoc na pátek.",
+      "title_en": "The Chamber will likely ease the proposed reduction in unemployment benefits",
+      "lead_en": "The Chamber will likely ease the proposed reduction in unemployment benefits. Moreover, the lower chamber will remove the new definition of employment from the Labor Code amendment, which critics say could lead to the legalization of the so-called disguised employment system. The amendments to the government's Labor Code amendment include amendments submitted by coalition MPs. The second Chamber reading lasted three and a half hours and extended past midnight into Friday.",
       "translation_status": "completed",
       "translation_version": 5,
       "validation_version": 5,
@@ -1178,8 +1752,8 @@
         "diplomacy": 0,
         "military": 0,
         "energy": 0,
-        "economy": 14,
-        "domestic_politics": 25,
+        "economy": 15,
+        "domestic_politics": 19,
         "foreign_affairs": 0,
         "local_events": 0
       },
@@ -1189,14 +1763,12 @@
         "energy": [],
         "economy": [
           "unemployment",
-          "labor_market",
-          "currency"
+          "labor_market"
         ],
         "domestic_politics": [
           "parliament",
           "government",
-          "legislation",
-          "coalition"
+          "legislation"
         ],
         "foreign_affairs": [],
         "local_events": []
@@ -1209,9 +1781,9 @@
           {
             "concept": "unemployment",
             "strength": 3,
-            "headline": false,
+            "headline": true,
             "lead": true,
-            "points": 6
+            "points": 9
           },
           {
             "concept": "labor_market",
@@ -1219,13 +1791,6 @@
             "headline": false,
             "lead": true,
             "points": 6
-          },
-          {
-            "concept": "currency",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
           }
         ],
         "domestic_politics": [
@@ -1249,13 +1814,6 @@
             "headline": false,
             "lead": true,
             "points": 6
-          },
-          {
-            "concept": "coalition",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
           }
         ],
         "foreign_affairs": [],
@@ -1268,7 +1826,7 @@
       "relevant": true,
       "primary_topic": "domestic_politics",
       "classification_version": 5,
-      "translated_at_utc": "2026-11-26T18:53:37Z"
+      "translated_at_utc": "2026-11-27T03:32:13Z"
     },
     {
       "id": "80ff41c8cd935d086f55106b1ba7a0160a945e57",
@@ -6866,198 +7424,6 @@
       "primary_topic": "economy",
       "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:59:14Z"
-    },
-    {
-      "id": "0d6bb17754f02e495b8fadc9b471a2655bf8141a",
-      "fingerprint": "9d83e484db8d4e88a1977c357c210b07ee53b52a",
-      "source": "ČT24",
-      "source_language": "cs",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/poslance-ceka-dalsi-debata-o-navrhu-rozpoctu-budou-navrhovat-presuny-penez-379923",
-      "published_utc": "2026-11-25T02:25:00Z",
-      "collected_at_utc": "2026-11-25T14:33:37Z",
-      "title_raw": "Sněmovna jedná o státním rozpočtu",
-      "lead_raw": "Poslanci ve středu projednávají ve druhém čtení návrh státního rozpočtu na příští rok, pro nějž mohou přednášet návrhy na přesuny peněz uvnitř rozpočtu. Schválený schodek 386 miliard korun už měnit nemohou. V úvodu schůze si zákonodárci odhlasovali možnost jednat i po 21:00.",
-      "title_en": "The Chamber of Deputies is debating the state budget",
-      "lead_en": "On Wednesday, deputies are discussing in the second reading the draft state budget for next year, for which they can present proposals for transfers within the budget. They can no longer change the approved deficit of 386 billion crowns. At the beginning of the session, lawmakers voted to allow negotiations beyond 9:00 PM.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 14,
-        "domestic_politics": 15,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "government_budget",
-          "currency",
-          "generic_budget"
-        ],
-        "domestic_politics": [
-          "parliament",
-          "legislation"
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "government_budget",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "currency",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          },
-          {
-            "concept": "generic_budget",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
-          }
-        ],
-        "domestic_politics": [
-          {
-            "concept": "parliament",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "legislation",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "economy",
-        "domestic_politics"
-      ],
-      "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:40:43Z"
-    },
-    {
-      "id": "4023983047b8288bcdb6e8a404466e8e69079f44",
-      "fingerprint": "1499ae0fe5a9ba637d77ee23453d48b5356fb599",
-      "source": "iROZHLAS - Economy",
-      "source_language": "cs",
-      "url": "https://www.irozhlas.cz/ekonomika/spojene-staty-chystaji-dalsi-cla-dotknout-se-maji-ciny-evropske-unie-nebo-indie_2611241958_dci",
-      "published_utc": "2026-11-24T18:58:00Z",
-      "collected_at_utc": "2026-11-25T14:33:34Z",
-      "title_raw": "Spojené státy chystají další cla. Dotknout se mají Číny, Evropské unie nebo Indie",
-      "lead_raw": "Spojené státy se chystají zvýšit cla na dovoz z Číny, Evropské unie a dalších 14 zemí, o nichž Bílý dům tvrdí, že poškozují americké společnosti podporou vlastní domácí průmyslové výroby. Uvedl to list The Wall Street Journal (WSJ).",
-      "title_en": "The United States is preparing further tariffs. They are expected to affect China, the European Union, and India",
-      "lead_en": "The United States is preparing to raise tariffs on imports from China, the European Union, and 14 other countries that the White House claims harm American companies by supporting their own domestic industrial production. This was reported by The Wall Street Journal (WSJ).",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 21,
-        "domestic_politics": 0,
-        "foreign_affairs": 9,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "tariffs",
-          "imports_exports",
-          "industrial_policy"
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          "eu_policy"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "tariffs",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "imports_exports",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "industrial_policy",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "economy",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "economy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:40:43Z"
     }
   ],
   "topic": "economy"

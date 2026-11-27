@@ -1,9 +1,404 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-26T18:53:37Z",
-  "count": 25,
+  "updated_at_utc": "2026-11-27T03:32:13Z",
+  "count": 29,
   "articles": [
+    {
+      "id": "760bccd0adf17568cd4f24147bba2104fbe0e869",
+      "fingerprint": "aa9d2f6fef617cbb290368569c753c7c0b9c549d",
+      "source": "České noviny / ČTK - Czech Republic",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/poslanci-maji-schvalovat-zdaneni-rafinerii-a-zmeny-v-duchodech/2907416",
+      "published_utc": "2026-11-26T23:17:00Z",
+      "collected_at_utc": "2026-11-27T03:32:05Z",
+      "title_raw": "Poslanci mají schvalovat zdanění rafinerií a změny v důchodech",
+      "lead_raw": "Praha - Poslanci by dnes měli schvalovat vládní návrhy na zavedení mimořádné daně na rafinerie a na změny v důchodech. V závěrečném kole je na programu také například zpřísnění podmínek dočasné ochrany...",
+      "title_en": "MPs are to approve taxation of refineries and changes in pensions",
+      "lead_en": "Prague - Today, MPs are expected to approve government proposals to introduce an extraordinary tax on refineries and changes in pensions. In the final round, the agenda also includes, for example, tightening the conditions of temporary protection...",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 6,
+        "domestic_politics": 13,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "refining"
+        ],
+        "economy": [
+          "taxation"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "government"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "refining",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [
+          {
+            "concept": "taxation",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy",
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T03:32:12Z"
+    },
+    {
+      "id": "e51a128eaa03e62a5add94d922c1d8c2a0bcb98b",
+      "fingerprint": "689c399430f0ec9cf7ae6400ba04168c99faae79",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/krym-bez-elektriny-havarie-mimo-poloostrov-tvrdi-energetici.A261126_211838_zahranicni_sile",
+      "published_utc": "2026-11-26T20:42:00Z",
+      "collected_at_utc": "2026-11-27T03:32:10Z",
+      "title_raw": "Krym se ponořil do tmy. Elektřina vypadla kvůli havárii mimo poloostrov, tvrdí úřady",
+      "lead_raw": "Ruskem okupovaný ukrajinský poloostrov Krym a město Sevastopol se dnes ocitly bez elektřiny. Důvodem se stala havárie energetického zařízení mimo poloostrov, oznámily společnosti Krymenergo a Sevastopolenergo. Nic přesnějšího neuvedla ani ruská média.",
+      "title_en": "Crimea plunged into darkness. Power outage due to an accident outside the peninsula, authorities say",
+      "lead_en": "The Russian-occupied Ukrainian peninsula of Crimea and the city of Sevastopol were left without electricity today. The cause was a failure of an energy facility outside the peninsula, announced the companies Krymenergo and Sevastopolenergo. Russian media also did not provide any further details.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "electricity"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "electricity",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "energy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T03:32:12Z"
+    },
+    {
+      "id": "d3fd69092e0f7c3b815a3cb1678405d026672c31",
+      "fingerprint": "42eb38279d39749f63a92e34618e0634a22c434b",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-krym-se-pohrouzil-do-tmy-havarie-je-mimo-poloostrov-tvrdi-energetici-321645",
+      "published_utc": "2026-11-26T20:32:24Z",
+      "collected_at_utc": "2026-11-27T03:32:09Z",
+      "title_raw": "Krym se pohroužil do tmy. Havárie je mimo poloostrov, tvrdí energetici",
+      "lead_raw": "Během čtvrtka se Ruskem okupovaný ukrajinský poloostrov Krym ocitl bez elektřiny. Podle odpovědných společností výpadek souvisel s havárií energetického zařízení mimo poloostrov.",
+      "title_en": "Crimea plunged into darkness. The accident is outside the peninsula, say energy experts",
+      "lead_en": "On Thursday, the Russian-occupied Ukrainian peninsula of Crimea was left without electricity. According to the responsible companies, the outage was related to a failure of an energy facility outside the peninsula.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 6,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "electricity"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "electricity",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "energy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T03:32:12Z"
+    },
+    {
+      "id": "36c86a8d159efdfdd3f397e49691deab1cde9cdd",
+      "fingerprint": "26c3356c7c86a79db1891c85a2bde8edbb444092",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-huthiove-zautocili-na-saudskoarabskou-rafinerii-zastavili-provoz-321643",
+      "published_utc": "2026-11-26T19:11:42Z",
+      "collected_at_utc": "2026-11-27T03:32:09Z",
+      "title_raw": "Húthíové zaútočili na saúdskoarabskou rafinerii, zastavili provoz",
+      "lead_raw": "Útok jemenských proíránských povstalců z řad Húthíů na saúdskoarabskou ropnou rafinerii si vyžádal jeden lidský život a dočasné zastavení provozu.",
+      "title_en": "The Houthis attacked a Saudi refinery, halting operations",
+      "lead_en": "The attack by Yemeni pro-Iranian Houthi rebels on a Saudi oil refinery claimed one human life and temporarily halted operations.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "refining"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "refining",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T03:32:12Z"
+    },
+    {
+      "id": "8c93df211cd2235d470859c02e63983d0dda42bc",
+      "fingerprint": "dfe3e24b410d71facc2062aedfba5196d55e18b4",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/energie-zdrazuji-nejvice-si-lide-priplati-za-teplo-z-plynu-379991",
+      "published_utc": "2026-11-26T19:09:35Z",
+      "collected_at_utc": "2026-11-27T03:32:06Z",
+      "title_raw": "Energie zdražují, nejvíce si lidé připlatí za teplo z plynu",
+      "lead_raw": "Elektřina i plyn dál zdražují. Nově oznámil navýšení cen plynu od 10. ledna pro zhruba sto tisíc zákazníků bez fixace E.ON. Energie zdražují i ČEZ, Pražská plynárenská nebo innogy. Zvýšit ceny plánuje v příštím roce rovněž většina tepláren. Lidé si tak v závislosti na spotřebě zpravidla připlatí stovky až tisíce korun ročně. Nejvíce zdraží teplo vyprodukované z plynu, a to meziročně o patnáct až dvacet procent. O tři až pět procent by pak ceny měly stoupnout u tepláren spalujících uhlí a zhruba o desetinu u těch, které využívají biomasu.",
+      "title_en": "Energy prices are rising, people will pay the most for gas heating",
+      "lead_en": "Electricity and gas continue to become more expensive. It has recently announced a gas price increase from January 10 for about one hundred thousand customers without the E.ON fixation. Energy prices are also rising for ČEZ, Pražská plynárenská, and innogy. Most heating plants also plan to raise prices next year. Depending on consumption, people usually pay hundreds to thousands of crowns more annually. Heat produced from gas will become the most expensive, by fifteen to twenty percent year-on-year. Prices are expected to rise by three to five percent for coal-fired heating plants and about a tenth for those using biomass.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 12,
+        "economy": 2,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "electricity",
+          "coal"
+        ],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "electricity",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "coal",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T03:32:12Z"
+    },
     {
       "id": "abb0273a06d9c6fe1e7f27cdea1dd19e9cbaaf4f",
       "fingerprint": "2b0ab92cea8c5a6c436c2438da014a4323b62022",
@@ -1760,98 +2155,6 @@
       "primary_topic": "military",
       "classification_version": 5,
       "translated_at_utc": "2026-11-25T23:29:51Z"
-    },
-    {
-      "id": "d938e97ee5043ddc9b375fb45cc4438c82b127ad",
-      "fingerprint": "f87031a26c67f9818f0a73145407da331f448466",
-      "source": "České noviny / ČTK - Economy",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/vlada-by-mohla-regulovat-ceny-elektriny-i-prijmy-vyrobcu-podporila-to-snemovna/2906263",
-      "published_utc": "2026-11-24T22:08:00Z",
-      "collected_at_utc": "2026-11-25T14:33:36Z",
-      "title_raw": "Vláda by mohla regulovat ceny elektřiny i příjmy výrobců, podpořila to Sněmovna",
-      "lead_raw": "Praha - Vláda bude zřejmě moci v případě dalšího prudkého zdražování elektřiny regulovat její ceny pro odběratele a případně stanovit horní hranici příjmů jejích výrobců. Počítá s tím novela energetického...",
-      "title_en": "The government could regulate electricity prices and producers' incomes, supported by the Chamber of Deputies",
-      "lead_en": "Prague - The government will likely be able to regulate electricity prices for consumers in the event of further sharp price increases and possibly set an upper limit on the income of electricity producers. This is anticipated by the amendment to the Energy Code...",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 18,
-        "economy": 0,
-        "domestic_politics": 15,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          "electricity",
-          "energy_prices"
-        ],
-        "economy": [],
-        "domestic_politics": [
-          "parliament",
-          "government"
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          {
-            "concept": "electricity",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "energy_prices",
-            "strength": 3,
-            "headline": true,
-            "lead": false,
-            "points": 9
-          }
-        ],
-        "economy": [],
-        "domestic_politics": [
-          {
-            "concept": "parliament",
-            "strength": 3,
-            "headline": true,
-            "lead": false,
-            "points": 9
-          },
-          {
-            "concept": "government",
-            "strength": 2,
-            "headline": true,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "energy",
-        "domestic_politics"
-      ],
-      "relevant": true,
-      "primary_topic": "energy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:40:43Z"
     }
   ],
   "topic": "energy"

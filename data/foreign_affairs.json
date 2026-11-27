@@ -1,9 +1,859 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-26T18:53:37Z",
-  "count": 86,
+  "updated_at_utc": "2026-11-27T03:32:13Z",
+  "count": 94,
   "articles": [
+    {
+      "id": "450e1aed513f77973f4df765958b42562affd4fe",
+      "fingerprint": "cc36ab019a461edec0c4599df26b7cd9dd6eea6b",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/venezuela-zrusi-zakon-ktery-zakazal-opozicnim-politikum-zastavat-verejne-funkce-379995",
+      "published_utc": "2026-11-27T02:58:07Z",
+      "collected_at_utc": "2026-11-27T03:32:06Z",
+      "title_raw": "Venezuela zruší zákon, který zakázal opozičním politikům zastávat veřejné funkce",
+      "lead_raw": "Venezuela zruší zákon, který opozičním politikům zakazuje zastávat veřejné úřady. Ve čtvrtek to podle agentury AFP oznámil předseda parlamentu Jorge Rodríguez. Poslanci zákon schválili v roce 2024 a podle kritiků umožňoval politické pronásledování lidí, kteří propagovali nebo podpořili sankce proti Venezuele.",
+      "title_en": "Venezuela will repeal the law that banned opposition politicians from holding public office",
+      "lead_en": "Venezuela will repeal a law that bans opposition politicians from holding public office. This was announced on Thursday by Parliament Speaker Jorge Rodríguez, according to AFP. MPs approved the law in 2024 and, according to critics, allowed political persecution of people who promoted or supported sanctions against Venezuela.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "sanctions"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "sanctions",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T03:32:12Z"
+    },
+    {
+      "id": "0f1abb3dbca1c5106a7f669dab5309c7967d7284",
+      "fingerprint": "906534bc7daf040d760066cadd25340336143c6d",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/zahranicni-novou-miliardovou-pujcku-pro-ukrajinu-podporilo-24-zemi-40610804",
+      "published_utc": "2026-11-27T00:29:42Z",
+      "collected_at_utc": "2026-11-27T03:32:08Z",
+      "title_raw": "Novou půjčku pro Ukrajinu podpořilo 24 zemí",
+      "lead_raw": "Novou půjčku pro Ukrajinu v hodnotě 45 miliard eur, tedy v přepočtu více než 1,1 bilionu korun, podpořilo na summitu EU v Bruselu celkem 24 zemí. Po skončení jednání to oznámil předseda Evropské rady António Costa. Bulharsko podle něj souhlasilo s podporou úvěru s tím, že jeho finance budou směřovat pouze do nevojenské části půjčky, a to na podporu bulharské menšiny na Ukrajině.",
+      "title_en": "The new loan for Ukraine was supported by 24 countries",
+      "lead_en": "A new loan for Ukraine worth 45 billion euros, equivalent to more than 1.1 trillion crowns, was supported by a total of 24 countries at the EU summit in Brussels. This was announced by European Council President António Costa after the talks ended. According to him, Bulgaria agreed to support the loan with the understanding that its funds would be directed only to the non-military part of the loan, specifically to support the Bulgarian minority in Ukraine.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 8,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "domestic_politics": 0,
+        "foreign_affairs": 15,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits",
+          "negotiations"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy",
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "negotiations",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T03:32:12Z"
+    },
+    {
+      "id": "83deee01017c9cb4ca7e4c343a7dd30577826889",
+      "fingerprint": "663fb95801327898e268d99558ef416b1f5a9ae0",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/costa-pujcku-pro-ukrajinu-45-miliard-eur-podporilo-24-zemi-eu.A261127_005439_zahranicni_air",
+      "published_utc": "2026-11-27T00:29:00Z",
+      "collected_at_utc": "2026-11-27T03:32:10Z",
+      "title_raw": "Costa: Půjčku pro Ukrajinu 45 miliard eur podpořilo 24 zemí EU",
+      "lead_raw": "Na summitu EU podpořilo 24 členských států novou půjčku pro Ukrajinu ve výši 45 miliard eur, přičemž Bulharsko souhlasí pouze s využitím své části na nevojenské účely a podporu bulharské menšiny na Ukrajině.",
+      "title_en": "Costa: A 45 billion euro loan for Ukraine was supported by 24 EU countries",
+      "lead_en": "At the EU summit, 24 member states supported a new loan for Ukraine amounting to 45 billion euros, with Bulgaria agreeing only to use its share for non-military purposes and to support the Bulgarian minority in Ukraine.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "domestic_politics": 0,
+        "foreign_affairs": 18,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy",
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T03:32:12Z"
+    },
+    {
+      "id": "5c173c49a59da9f3e027a8bbb15bb7e91abffd68",
+      "fingerprint": "b2e5768a1d984bdeb2e1ef56d552201562c10d80",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/rusko-estonsko-pobalti-hranice-uzavreni.A261126_141434_zahranicni_dtt",
+      "published_utc": "2026-11-26T23:00:00Z",
+      "collected_at_utc": "2026-11-27T03:32:10Z",
+      "title_raw": "„Slepá ulička na začátku Evropy.“ Zavření hranic Estonska s Ruskem rozdělí rodiny",
+      "lead_raw": "Uzavření estonských přechodů do Ruska zkomplikuje lidem cestování za prací i za rodinou. Někteří se obávají, že přijdou o možnost vídat blízké, a to včetně příbuzných na okupované Ukrajině. Náhradní trasy jsou delší, dražší a komplikovanější.",
+      "title_en": "\"A dead end at the beginning of Europe.\" Estonia's border closure with Russia will divide families",
+      "lead_en": "The closure of Estonian crossings to Russia will complicate travel for work and family for people. Some fear losing the opportunity to see loved ones, including relatives in occupied Ukraine. Alternative routes are longer, more expensive, and more complicated.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T03:32:12Z"
+    },
+    {
+      "id": "32934bb48ae61623c0b5ac55f2209b5d11cdaed4",
+      "fingerprint": "05dcdf178113bbaf87302a754b63967ca5bc9844",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/ekonomka-jana-matesova-rezoluce-europarlamentu-vaznost-ceska-v-evropske-unii-je_2611262328_zfr",
+      "published_utc": "2026-11-26T22:28:00Z",
+      "collected_at_utc": "2026-11-27T03:32:04Z",
+      "title_raw": "Ekonomka Jana Matesová: Rezoluce europarlamentu? Vážnost Česka v Evropské unii je naprosto v troskách",
+      "lead_raw": "Evropský parlament vyzval českou vládu, aby zajistila předvídatelné financování veřejnoprávních médií a jejich ochranu před politickými zásahy. Premiéra Andreje Babiše pak europoslanci vyzvali k vyřešení střetu zájmů. V České republice podle nich hrozí oslabování demokratických kontrolních mechanismů. „Je to ostuda pro Českou republiku,“ říká ekonomka Jana Matesová.",
+      "title_en": "Economist Jana Matesová: European Parliament resolution? The Czech Republic's reputation in the European Union is completely in ruins",
+      "lead_en": "The European Parliament called on the Czech government to ensure predictable funding for public media and their protection from political interference. MEPs then called on Prime Minister Andrej Babiš to resolve the conflict of interest. According to them, democratic control mechanisms in the Czech Republic are at risk of weakening. \"It is a disgrace for the Czech Republic,\" says economist Jana Matesová.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "domestic_politics": 24,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "government",
+          "czech_leaders",
+          "leadership",
+          "public_broadcasting_policy"
+        ],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "public_broadcasting_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T03:32:12Z"
+    },
+    {
+      "id": "201528eec74125d065215cdf88e954fb7cea007e",
+      "fingerprint": "2d9603d0a17f80e8f483920d3e081afe4c421da7",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-merz-lidri-eu-na-nynejsim-summitu-k-dohode-o-rozpoctu-nedospeji-321646",
+      "published_utc": "2026-11-26T21:42:20Z",
+      "collected_at_utc": "2026-11-27T03:32:09Z",
+      "title_raw": "Merz: Lídři EU na nynějším summitu k dohodě o rozpočtu nedospějí",
+      "lead_raw": "Summit v Bruselu neskončí dohodou lídrů na dlouholetém rozpočtu. Dohodu se pokusí najít 17. prosince, kdy začne další summit.",
+      "title_en": "Merz: EU leaders will not reach a budget agreement at the current summit",
+      "lead_en": "The Brussels summit will not end with a leaders' agreement on the long-term budget. They will try to find an agreement on December 17, when the next summit begins.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 9,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "generic_budget"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "diplomacy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T03:32:12Z"
+    },
+    {
+      "id": "983039da77e6204198514374a267f5d2ce793f22",
+      "fingerprint": "21eeb8dfbc0944993276bf5a7e84f4b27b48a5ad",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-unijni-summit-v-patek-pokracovat-nebude-40610799",
+      "published_utc": "2026-11-26T21:18:25Z",
+      "collected_at_utc": "2026-11-27T03:32:08Z",
+      "title_raw": "Unijní summit v pátek pokračovat nebude",
+      "lead_raw": "Lídři členských zemí Evropské unie, kteří se účastní summitu v Bruselu, se sejdou znovu kolem půlnoci a pak jednání věnovaná příštímu dlouholetému rozpočtu sedmadvacítky ukončí bez dohody. Ve čtvrtek večer to podle agentury Reuters oznámil německý kancléř Friedrich Merz. Dohodu o unijním rozpočtu se podle něj šéfové států a vlád pokusí najít ještě letos na dalším summitu, který začne 17. prosince.",
+      "title_en": "The EU summit will not continue on Friday",
+      "lead_en": "The leaders of the European Union member states participating in the Brussels summit will meet again around midnight and then conclude negotiations on the next long-term budget of the twenty-seven without an agreement. This was announced on Thursday evening by German Chancellor Friedrich Merz, according to Reuters. According to him, the heads of state and government will try to reach an agreement on the EU budget at the next summit this year, which begins on December 17.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 11,
+        "military": 0,
+        "energy": 0,
+        "economy": 8,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits",
+          "negotiations"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "eu_budget",
+          "generic_budget"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "negotiations",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "eu_budget",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "economy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "diplomacy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T03:32:12Z"
+    },
+    {
+      "id": "e51a128eaa03e62a5add94d922c1d8c2a0bcb98b",
+      "fingerprint": "689c399430f0ec9cf7ae6400ba04168c99faae79",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/krym-bez-elektriny-havarie-mimo-poloostrov-tvrdi-energetici.A261126_211838_zahranicni_sile",
+      "published_utc": "2026-11-26T20:42:00Z",
+      "collected_at_utc": "2026-11-27T03:32:10Z",
+      "title_raw": "Krym se ponořil do tmy. Elektřina vypadla kvůli havárii mimo poloostrov, tvrdí úřady",
+      "lead_raw": "Ruskem okupovaný ukrajinský poloostrov Krym a město Sevastopol se dnes ocitly bez elektřiny. Důvodem se stala havárie energetického zařízení mimo poloostrov, oznámily společnosti Krymenergo a Sevastopolenergo. Nic přesnějšího neuvedla ani ruská média.",
+      "title_en": "Crimea plunged into darkness. Power outage due to an accident outside the peninsula, authorities say",
+      "lead_en": "The Russian-occupied Ukrainian peninsula of Crimea and the city of Sevastopol were left without electricity today. The cause was a failure of an energy facility outside the peninsula, announced the companies Krymenergo and Sevastopolenergo. Russian media also did not provide any further details.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "electricity"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "electricity",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "energy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T03:32:12Z"
+    },
+    {
+      "id": "d3fd69092e0f7c3b815a3cb1678405d026672c31",
+      "fingerprint": "42eb38279d39749f63a92e34618e0634a22c434b",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-krym-se-pohrouzil-do-tmy-havarie-je-mimo-poloostrov-tvrdi-energetici-321645",
+      "published_utc": "2026-11-26T20:32:24Z",
+      "collected_at_utc": "2026-11-27T03:32:09Z",
+      "title_raw": "Krym se pohroužil do tmy. Havárie je mimo poloostrov, tvrdí energetici",
+      "lead_raw": "Během čtvrtka se Ruskem okupovaný ukrajinský poloostrov Krym ocitl bez elektřiny. Podle odpovědných společností výpadek souvisel s havárií energetického zařízení mimo poloostrov.",
+      "title_en": "Crimea plunged into darkness. The accident is outside the peninsula, say energy experts",
+      "lead_en": "On Thursday, the Russian-occupied Ukrainian peninsula of Crimea was left without electricity. According to the responsible companies, the outage was related to a failure of an energy facility outside the peninsula.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 6,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "electricity"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "electricity",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "energy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T03:32:12Z"
+    },
+    {
+      "id": "1d4e25061f7cb686cf033adeadeb192cd5ab6fac",
+      "fingerprint": "2beca41515d036f1aff84312242e1978fbe381dc",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/domaci/obcas-je-treba-pouzit-sily-popisujeme-pribeh-teroristy-z-isis-odsouzeneho-v-cesku.A261126_172637_domaci_stvo",
+      "published_utc": "2026-11-26T19:00:00Z",
+      "collected_at_utc": "2026-11-27T03:32:10Z",
+      "title_raw": "„Odložený džihád.“ Popisujeme, jak zatkli hledaného teroristu, Češi ho Rusům nevydají",
+      "lead_raw": "Z Turecka měl posílal kryptoměny džihádistům a na falešné doklady pašoval do Evropy další radikály – včetně svého syna. Pražský soud ve čtvrtek poslal Azamata Dymova ze severního Kavkazu na deset let do věznice se zvýšenou ostrahou a na neurčito ho vyhostil z Česka. Nepravomocně ho uznal vinným z účasti na teroristické skupině a padělání dokladů. Redakce iDNES.cz popisuje detaily v Česku ojedinělého případu.",
+      "title_en": "\"Delayed jihad.\" We describe how they arrested a wanted terrorist, but the Czechs will not extradite him to the Russians",
+      "lead_en": "He was said to have sent cryptocurrencies from Turkey to jihadists and smuggled other radicals into Europe using fake documents – including his own son. On Thursday, the Prague court sent Azamat Dymov from the North Caucasus to ten years in a high-security prison and expelled him indefinitely from the Czech Republic. He was found guilty in a non-final verdict of participation in a terrorist group and document forgery. The editorial team iDNES.cz describes the details of a case unique in the Czech Republic.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "terrorism"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "terrorism",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T03:32:12Z"
+    },
     {
       "id": "5e9e1128f33f98662aec95ecbc4dec9965684313",
       "fingerprint": "86d408be62ebde2c07165231bba071b09a0f139e",
@@ -345,16 +1195,16 @@
     },
     {
       "id": "2aad3fc01e2807e03b031087150924d50db7d786",
-      "fingerprint": "d5727d2630bf90043b69415823562347ac3d162d",
+      "fingerprint": "0cbaf905b38ca34c994d887815d9371009387311",
       "source": "ČT24",
       "source_language": "cs",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/omezeni-hvezdneho-stitu-ukrajine-odhalilo-zranitelnost-modernich-armad-379977",
       "published_utc": "2026-11-26T15:44:26Z",
-      "collected_at_utc": "2026-11-26T18:52:29Z",
+      "collected_at_utc": "2026-11-27T03:32:06Z",
       "title_raw": "Omezení „Hvězdného štítu” Ukrajině odhalilo zranitelnost moderních armád",
-      "lead_raw": "Omezení satelitních služeb Ukrajině naznačilo, že ze Starlinku, potažmo Starshieldu (Hvězdného šítu), se stává zbraň americké zahraniční politiky. Odpovědnost za klíčové rozhodnutí zůstává nejasná – věc chtějí prošetřit američtí demokraté. Kyjev reagoval na restrikce úspěšným testem vlastního naváděcího systému a pracuje na vývoji družic. Konkurovat Starlinku se snaží i Moskva. Podle expertů případ odhalil, jak moc jsou moderní armády zranitelné, pokud jde o závislost na satelitních technologiích, které mohou vlády či soukromé firmy lehce vypnout.",
+      "lead_raw": "Omezení satelitních služeb Ukrajině naznačilo, že ze Starlinku, potažmo Starshieldu (Hvězdného štítu), se stává zbraň americké zahraniční politiky. Odpovědnost za klíčové rozhodnutí zůstává nejasná – věc chtějí prošetřit američtí demokraté. Kyjev reagoval na restrikce úspěšným testem vlastního naváděcího systému a pracuje na vývoji družic. Konkurovat Starlinku se snaží i Moskva. Podle expertů případ odhalil, jak moc jsou moderní armády zranitelné, pokud jde o závislost na satelitních technologiích, které mohou vlády či soukromé firmy lehce vypnout.",
       "title_en": "The restriction of the \"Star Shield\" on Ukraine revealed the vulnerability of modern armies",
-      "lead_en": "The restriction of satellite services to Ukraine indicated that Starlink, or Starshield (Starshield), is becoming a weapon of American foreign policy. Responsibility for the key decision remains unclear – the matter is to be investigated by American Democrats. Kyiv responded to the restrictions by successfully testing its own guidance system and is working on satellite development. Moscow is also trying to compete with Starlink. According to experts, the case revealed how vulnerable modern armies are when it comes to dependence on satellite technologies, which governments or private companies can easily shut down.",
+      "lead_en": "The restriction of satellite services to Ukraine suggested that Starlink, or Starshield, is becoming a weapon of American foreign policy. Responsibility for this key decision remains unclear – American Democrats want to investigate the matter. Kyiv responded to the restrictions by successfully testing its own guidance system and is working on satellite development. Moscow is also trying to compete with Starlink. According to experts, the case revealed how vulnerable modern armies are when it comes to dependence on satellite technologies, which governments or private companies can easily shut down.",
       "translation_status": "completed",
       "translation_version": 5,
       "validation_version": 5,
@@ -433,7 +1283,7 @@
       "relevant": true,
       "primary_topic": "foreign_affairs",
       "classification_version": 5,
-      "translated_at_utc": "2026-11-26T18:52:35Z"
+      "translated_at_utc": "2026-11-27T03:32:13Z"
     },
     {
       "id": "2bade4511ec3e421b94ef879406c4824df62c2c8",
@@ -2178,16 +3028,16 @@
     },
     {
       "id": "a936aaab6738c5f3a9f6a90ade607d709f0f0f83",
-      "fingerprint": "7dc7266be12ddf03215bf899372967e7fc40335c",
+      "fingerprint": "1f3171e923d871314947acc5d227fe069cfbffcc",
       "source": "ČT24",
       "source_language": "cs",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/zacina-mimoradny-summit-eu-staty-se-prou-o-dlouhodoby-rozpocet-379966",
       "published_utc": "2026-11-26T09:14:12Z",
-      "collected_at_utc": "2026-11-26T18:52:29Z",
-      "title_raw": "„Co to je za strategii?“ Babiš na summitu odmítá spojit rozpočet EU s financováním Ukrajiny",
-      "lead_raw": "V Bruselu začal dvoudenní mimořádný summit Evropské unie, kde se bude jednat o klíčových konturách jejího rozpočtu na roky 2028 až 2034. Možnou dohodu zatím komplikuje i spor o finanční podporu Ukrajiny. Premiér Andrej Babiš (ANO) při příchodu na summit řekl, že podle něj nelze spojovat financování Kyjeva s rozpočtem Unie. Nizozemský premiér Rob Jetten naopak zmínil, že Ukrajina bude v příštích letech potřebovat více vojenské a finanční pomoci a žádná země EU se z toho nemůže vyvázat.",
-      "title_en": "\"What kind of strategy is this?\" Babiš refuses to link the EU budget to financing Ukraine at the summit",
-      "lead_en": "A two-day extraordinary European Union summit has begun in Brussels, where key outlines of its budget for 2028 to 2034 will be discussed. A possible agreement is currently complicated by a dispute over financial support for Ukraine. Prime Minister Andrej Babiš (ANO) said upon arriving at the summit that, in his view, financing Kyiv cannot be linked to the Union's budget. Dutch Prime Minister Rob Jetten, on the other hand, mentioned that Ukraine will need more military and financial aid in the coming years, and no EU country can escape this.",
+      "collected_at_utc": "2026-11-27T03:32:06Z",
+      "title_raw": "Lídři EU na summitu k dohodě o rozpočtu nedospěli, oznámil Costa",
+      "lead_raw": "V Bruselu probíhal mimořádný summit Evropské unie, kde se jednalo o klíčových konturách rozpočtu bloku na roky 2028 až 2034. Dohody o budoucím dlouholetém rozpočtu EU nebylo dosaženo. Možnou dohodu komplikoval i spor o finanční podporu Ukrajiny. Novou půjčku pro Ukrajinu v hodnotě 45 miliard eur (zhruba 1,1 bilionu korun) podpořilo na summitu EU 24 zemí, oznámil po jednání předseda Evropské rady António Costa. Premiér Andrej Babiš (ANO) řekl, že podle něj nelze spojovat financování Kyjeva s rozpočtem Unie.",
+      "title_en": "EU leaders did not reach a budget agreement at the summit, Costa announced",
+      "lead_en": "An extraordinary European Union summit took place in Brussels, discussing the key outlines of the bloc's budget for 2028 to 2034. No agreement was reached on the future long-term EU budget. A possible agreement was further complicated by a dispute over financial support for Ukraine. A new loan for Ukraine worth 45 billion euros (approximately 1.1 trillion CZK) was supported at the EU summit by 24 countries, announced European Council President António Costa after the meeting. Prime Minister Andrej Babiš (ANO) said that, in his view, financing Kyiv cannot be linked to the Union's budget.",
       "translation_status": "completed",
       "translation_version": 5,
       "validation_version": 5,
@@ -2197,24 +3047,24 @@
       "translation_error": null,
       "translation_warnings": [],
       "topic_scores": {
-        "diplomacy": 9,
-        "military": 6,
+        "diplomacy": 11,
+        "military": 0,
         "energy": 0,
-        "economy": 12,
-        "domestic_politics": 17,
-        "foreign_affairs": 18,
+        "economy": 11,
+        "domestic_politics": 14,
+        "foreign_affairs": 15,
         "local_events": 0
       },
       "matched_keywords": {
         "diplomacy": [
-          "international_summits"
+          "international_summits",
+          "negotiations"
         ],
-        "military": [
-          "military_activity"
-        ],
+        "military": [],
         "energy": [],
         "economy": [
           "eu_budget",
+          "currency",
           "generic_budget"
         ],
         "domestic_politics": [
@@ -2236,25 +3086,31 @@
             "headline": true,
             "lead": true,
             "points": 9
-          }
-        ],
-        "military": [
+          },
           {
-            "concept": "military_activity",
-            "strength": 3,
+            "concept": "negotiations",
+            "strength": 1,
             "headline": false,
             "lead": true,
-            "points": 6
+            "points": 2
           }
         ],
+        "military": [],
         "energy": [],
         "economy": [
           {
             "concept": "eu_budget",
             "strength": 3,
-            "headline": true,
-            "lead": false,
-            "points": 9
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
           },
           {
             "concept": "generic_budget",
@@ -2275,9 +3131,9 @@
           {
             "concept": "czech_leaders",
             "strength": 3,
-            "headline": true,
+            "headline": false,
             "lead": true,
-            "points": 9
+            "points": 6
           },
           {
             "concept": "leadership",
@@ -2298,16 +3154,15 @@
           {
             "concept": "ukraine",
             "strength": 3,
-            "headline": true,
+            "headline": false,
             "lead": true,
-            "points": 9
+            "points": 6
           }
         ],
         "local_events": []
       },
       "topics": [
         "diplomacy",
-        "military",
         "economy",
         "domestic_politics",
         "foreign_affairs"
@@ -2315,7 +3170,7 @@
       "relevant": true,
       "primary_topic": "foreign_affairs",
       "classification_version": 5,
-      "translated_at_utc": "2026-11-26T18:53:37Z"
+      "translated_at_utc": "2026-11-27T03:32:13Z"
     },
     {
       "id": "7a8e56457304520c9a433230886260ad67a50060",
@@ -7168,211 +8023,6 @@
       "primary_topic": "foreign_affairs",
       "classification_version": 5,
       "translated_at_utc": "2026-11-25T14:40:42Z"
-    },
-    {
-      "id": "2d8f499a5fefb1d9b35c5700b2d80dc83a923c11",
-      "fingerprint": "878e39fa93c7321380666f01f231e515b3acef4f",
-      "source": "České noviny / ČTK - Czech Republic",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/zive-tk-babise-pred-odletem-do-bruselu-na-summit-eu/2906281",
-      "published_utc": "2026-11-24T23:59:00Z",
-      "collected_at_utc": "2026-11-25T14:33:35Z",
-      "title_raw": "ŽIVĚ: TK Babiše před odletem do Bruselu na summit EU",
-      "lead_raw": "Praha - ČTK bude od 17:30 vysílat komentář předsedy vlády Andreje Babiše (ANO) před odletem do Bruselu na dvoudenní mimořádný summit EU, který se bude věnovat budoucímu dlouholetému rozpočtu Evropské...",
-      "title_en": "LIVE: Babiš's press conference before flying to Brussels for the EU summit",
-      "lead_en": "Prague - Czech News Agency will broadcast a commentary from Prime Minister Andrej Babiš (ANO) from 5:30 PM before departing for Brussels for a two-day extraordinary EU summit focused on the future long-term budget of the European...",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 9,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "domestic_politics": 19,
-        "foreign_affairs": 9,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [
-          "international_summits"
-        ],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "generic_budget"
-        ],
-        "domestic_politics": [
-          "government",
-          "political_parties",
-          "czech_leaders"
-        ],
-        "foreign_affairs": [
-          "eu_policy"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [
-          {
-            "concept": "international_summits",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "generic_budget",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "domestic_politics": [
-          {
-            "concept": "government",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          },
-          {
-            "concept": "political_parties",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "czech_leaders",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "diplomacy",
-        "domestic_politics",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:40:43Z"
-    },
-    {
-      "id": "4023983047b8288bcdb6e8a404466e8e69079f44",
-      "fingerprint": "1499ae0fe5a9ba637d77ee23453d48b5356fb599",
-      "source": "iROZHLAS - Economy",
-      "source_language": "cs",
-      "url": "https://www.irozhlas.cz/ekonomika/spojene-staty-chystaji-dalsi-cla-dotknout-se-maji-ciny-evropske-unie-nebo-indie_2611241958_dci",
-      "published_utc": "2026-11-24T18:58:00Z",
-      "collected_at_utc": "2026-11-25T14:33:34Z",
-      "title_raw": "Spojené státy chystají další cla. Dotknout se mají Číny, Evropské unie nebo Indie",
-      "lead_raw": "Spojené státy se chystají zvýšit cla na dovoz z Číny, Evropské unie a dalších 14 zemí, o nichž Bílý dům tvrdí, že poškozují americké společnosti podporou vlastní domácí průmyslové výroby. Uvedl to list The Wall Street Journal (WSJ).",
-      "title_en": "The United States is preparing further tariffs. They are expected to affect China, the European Union, and India",
-      "lead_en": "The United States is preparing to raise tariffs on imports from China, the European Union, and 14 other countries that the White House claims harm American companies by supporting their own domestic industrial production. This was reported by The Wall Street Journal (WSJ).",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 21,
-        "domestic_politics": 0,
-        "foreign_affairs": 9,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "tariffs",
-          "imports_exports",
-          "industrial_policy"
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          "eu_policy"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "tariffs",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "imports_exports",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "industrial_policy",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "economy",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "economy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:40:43Z"
     }
   ],
   "topic": "foreign_affairs"
