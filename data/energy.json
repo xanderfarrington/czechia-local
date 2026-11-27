@@ -1,9 +1,890 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-27T03:32:13Z",
-  "count": 29,
+  "updated_at_utc": "2026-11-27T16:20:21Z",
+  "count": 31,
   "articles": [
+    {
+      "id": "42bd6da918f2a2d15b79b21d24752bd8babdc2ae",
+      "fingerprint": "fcdb33df0d49eb955aca34cd7561e51f4c7f1992",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/snemovna-schvalila-mimoradnou-dan-pro-rafinerie-dopadne-na-orlen-unipetrol_2611271500_jor",
+      "published_utc": "2026-11-27T14:00:00Z",
+      "collected_at_utc": "2026-11-27T16:20:12Z",
+      "title_raw": "Sněmovna schválila mimořádnou daň pro rafinerie, dopadne na Orlen Unipetrol",
+      "lead_raw": "Sněmovna schválila vládní návrh na zavedení mimořádné daně pro rafinerie. Důvodem je podle vlády nárůst marží rafinerií v důsledku situace na trhu s ropou. V tuzemsku dopadne zřejmě jen na dva podniky, a to na rafinerie v Kralupech nad Vltavou a Litvínově. Obě vlastní Orlen Unipetrol, který s daní nesouhlasí a varuje, že ohrozí jeho investice. Opozice neuspěla se žádným ze svých pozměňovacích návrhů. Vznesla jich tři desítky.",
+      "title_en": "The Chamber of Deputies approved an extraordinary tax for refineries, which will affect Orlen Unipetrol",
+      "lead_en": "The Chamber of Deputies approved a government proposal to introduce an extraordinary tax for refineries. According to the government, the reason is the increase in refinery margins due to the oil market situation. Domestically, it will likely affect only two companies, namely the refineries in Kralupy nad Vltavou and Litvínov. Both are owned by Orlen Unipetrol, which opposes the tax and warns that it will jeopardize its investments. The opposition failed with any of its amendments. They submitted about thirty of them.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 6,
+        "domestic_politics": 25,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "refining"
+        ],
+        "economy": [
+          "taxation"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "government",
+          "legislation",
+          "coalition"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "refining",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [
+          {
+            "concept": "taxation",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "legislation",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "coalition",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy",
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T16:20:20Z"
+    },
+    {
+      "id": "a23d5a1528de4ec199a91223aaed958c2b6f6888",
+      "fingerprint": "2fc116bb7d13e805b0f72a972ce5fe148204343d",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-akcie-fondy-akcie-ozivaji-evropsky-softwarovy-gigant-chysta-skrty-321683",
+      "published_utc": "2026-11-27T13:30:00Z",
+      "collected_at_utc": "2026-11-27T16:20:16Z",
+      "title_raw": "Akcie ožívají, evropský softwarový gigant chystá škrty",
+      "lead_raw": "Čínská podpora akciového trhu pomáhá investorům. V Evropě se mezitím řeší rozpočet Unie, budoucnost obrany i další dodávky pro jadernou elektrárnu Dukovany, píše v komentáři analytička Patria Finance Gabriela Rainová.",
+      "title_en": "Stocks are recovering, European software giant preparing cuts",
+      "lead_en": "China's support for the stock market helps investors. Meanwhile, in Europe, discussions are underway about the Union's budget, the future of defense, and further deliveries for the Dukovany nuclear power plant, writes Patria Finance analyst Gabriela Rain in a commentary.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 18,
+        "economy": 8,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "nuclear_energy",
+          "czech_nuclear_plants",
+          "electricity"
+        ],
+        "economy": [
+          "capital_markets",
+          "generic_budget"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "nuclear_energy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "czech_nuclear_plants",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "electricity",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "economy": [
+          {
+            "concept": "capital_markets",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy",
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T16:20:20Z"
+    },
+    {
+      "id": "fbbf2b7fd1121fccefcf266fb8ca3467568e904b",
+      "fingerprint": "59a7d93403e7342e32189c07ee1445021f65386f",
+      "source": "Radio Prague International (EN)",
+      "source_language": "en",
+      "url": "https://english.radio.cz/lower-house-approves-windfall-tax-oil-refineries-8903821",
+      "published_utc": "2026-11-27T13:30:00Z",
+      "collected_at_utc": "2026-11-27T16:20:18Z",
+      "title_raw": "Lower house approves windfall tax on oil refineries",
+      "lead_raw": "Lower house approves windfall tax on oil refineries",
+      "title_en": "Lower house approves windfall tax on oil refineries",
+      "lead_en": "Lower house approves windfall tax on oil refineries",
+      "translation_status": "not_required",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "refining"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "refining",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5
+    },
+    {
+      "id": "fa8ecce6265f5578fc504aefc5a878cf95d2eed1",
+      "fingerprint": "7206d6225ca80f6ea889d99d43484f99ccac65eb",
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/snemovna-schvalila-mimoradnou-dan-pro-rafinerie-dopadne-na-orlen-unipetrol/2907656",
+      "published_utc": "2026-11-27T13:23:00Z",
+      "collected_at_utc": "2026-11-27T16:20:13Z",
+      "title_raw": "Sněmovna schválila mimořádnou daň pro rafinerie, dopadne na Orlen Unipetrol",
+      "lead_raw": "Praha - Sněmovna schválila vládní návrh na zavedení mimořádné daně pro rafinerie. Důvodem je podle vlády nárůst marží rafinerií v důsledku situace na trhu s ropou. V Česku dopadne zřejmě jen na dva podniky,...",
+      "title_en": "The Chamber of Deputies approved an extraordinary tax for refineries, which will affect Orlen Unipetrol",
+      "lead_en": "Prague - The Chamber of Deputies approved a government proposal to introduce an extraordinary tax for refineries. According to the government, the reason is the increase in refinery margins due to the situation on the oil market. In the Czech Republic, it will likely affect only two companies,...",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 6,
+        "domestic_politics": 13,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "refining"
+        ],
+        "economy": [
+          "taxation"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "government"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "refining",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [
+          {
+            "concept": "taxation",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy",
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T16:20:20Z"
+    },
+    {
+      "id": "5ac5476000a0bc76a35be228cc7a4b393b0c96d2",
+      "fingerprint": "df378d3b182183e11c46535e7131c778bb070d8f",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-snemovna-schvalila-mimoradnou-dan-pro-rafinerie-321692",
+      "published_utc": "2026-11-27T13:19:06Z",
+      "collected_at_utc": "2026-11-27T16:20:16Z",
+      "title_raw": "Sněmovna schválila mimořádnou daň pro rafinerie",
+      "lead_raw": "Poslanci schválili vládní návrh na zavedení mimořádné daně pro rafinerie, která má rozpočtu letos přinést asi 5,5 miliardy korun. Dopadne zřejmě jen na podniky skupiny Orlen Unipetrol v Kralupech a Litvínově.",
+      "title_en": "The Chamber of Deputies approved an extraordinary tax for refineries",
+      "lead_en": "MPs approved a government proposal to introduce an extraordinary tax for refineries, which is expected to bring about 5.5 billion CZK to this year's budget. It will likely affect only the companies of the Orlen Unipetrol group in Kralupy and Litvínov.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 10,
+        "domestic_politics": 13,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "refining"
+        ],
+        "economy": [
+          "taxation",
+          "currency",
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "government"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "refining",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [
+          {
+            "concept": "taxation",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy",
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T16:20:20Z"
+    },
+    {
+      "id": "95277d2409a54d991c2ea148dcdef8616ccb2329",
+      "fingerprint": "0f24f89550d1e3394a9df77311891988ccf63c84",
+      "source": "České noviny / ČTK - Economy",
+      "source_language": "cs",
+      "url": "https://www.ceskenoviny.cz/zpravy/maximalni-cena-nafty-o-vikendu-vzroste-o-haler-benzin-naopak-mirne-zlevni/2905486",
+      "published_utc": "2026-11-27T13:07:00Z",
+      "collected_at_utc": "2026-11-27T16:20:13Z",
+      "title_raw": "Maximální cena nafty o víkendu vzroste o haléř, benzin naopak mírně zlevní",
+      "lead_raw": "Praha - Pokles maximálních cen pohonných hmot, které denně stanovuje stát, o víkendu zbrzdí. Cenový strop na naftu oproti dnešku vzroste o jeden haléř na 42,73 koruny za litr. Benzin pak budou moci čerpací...",
+      "title_en": "The maximum diesel price will increase by one haléř over the weekend, while gasoline will slightly decrease in price",
+      "lead_en": "Prague - The decline in maximum fuel prices, which the state sets daily, will slow down over the weekend. The price cap on diesel will increase by one haléř compared to today to 42.73 crowns per liter. Gasoline will then be available at gas stations...",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 2,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "fuel_prices"
+        ],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "fuel_prices",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T16:20:20Z"
+    },
+    {
+      "id": "b2a47061ff07cf4d3a96b78284e27d6b7fb78ae9",
+      "fingerprint": "0be11619ce17c97e377474dcfa6cb2e54ebd8292",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/domaci/konecne-schvalovani-mimoradneho-zdaneni-rafinerii.A261127_051950_domaci_kop",
+      "published_utc": "2026-11-27T13:05:00Z",
+      "collected_at_utc": "2026-11-27T16:20:17Z",
+      "title_raw": "Poslanci schválili mimořádné zdanění rafinerií, má přinést 5,5 miliardy",
+      "lead_raw": "Zavedení mimořádné daně pro rafinerie pro letošní a příští rok schválili poslanci. Bude se vztahovat na firmy, jejichž celkové příjmy dosahují alespoň 2 miliard korun ročně a současně mají příjmy z rafinérské činnosti alespoň 50 milionů korun ročně. Základ se vypočítá jako rozdíl mezi tržbami z prodeje vlastních výrobků a náklady na spotřebovanou ropu.",
+      "title_en": "MPs approved extraordinary taxation of refineries, expected to bring in 5.5 billion",
+      "lead_en": "The introduction of an extraordinary tax for refineries for this year and next year was approved by the deputies. It will apply to companies whose total revenues reach at least 2 billion CZK annually and simultaneously have refining income of at least 50 million CZK per year. The base is calculated as the difference between revenues from the sale of own products and the costs of consumed crude oil.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 15,
+        "economy": 8,
+        "domestic_politics": 9,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "oil",
+          "refining"
+        ],
+        "economy": [
+          "taxation",
+          "currency"
+        ],
+        "domestic_politics": [
+          "parliament"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "oil",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "refining",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [
+          {
+            "concept": "taxation",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy",
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T16:20:20Z"
+    },
+    {
+      "id": "e890a9353b1f9a01108261a6e120052cc09cadd5",
+      "fingerprint": "418842423ef76cad35fc612ebc9edaf093060cd0",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/na-ruskou-tulskou-oblast-utocily-drony-podle-medii-na-elektrarnu-a-tovarnu-379998",
+      "published_utc": "2026-11-27T06:54:01Z",
+      "collected_at_utc": "2026-11-27T16:20:14Z",
+      "title_raw": "Na ruskou Tulskou oblast útočily drony, podle médií na elektrárnu a továrnu",
+      "lead_raw": "Tulská oblast ležící jižně od Moskvy se v noci stala cílem ukrajinského dronového náletu, uvedl gubernátor Dmitrij Miljajev. Z tepelné elektrárny a podniku na výrobu syntetického kaučuku ve městě Jefremov se podle médií ozývaly exploze. Jeden člověk pak zahynul a další byl zraněn při dronovém útoku v ruské Brjanské oblasti, uvedl gubernátor regionu Jegor Kovalčuk. Protivzdušná obrana podle úřadů sestřelila několik desítek bezpilotních letounů nad Leningradskou oblastí na severozápadě Ruska, jedna žena v Petrohradu utrpěla zranění. Ukrajina na Rusko útočí v odvetě za pátým rokem trvající ruskou invazi.",
+      "title_en": "Drones attacked Russia's Tula region, and according to the media, targeted a power plant and a factory",
+      "lead_en": "The Tula region, located south of Moscow, became the target of a Ukrainian drone airstrike overnight, said Governor Dmitry Milyaev. According to the media, explosions were heard from a thermal power plant and a synthetic rubber production plant in the city of Yefremov. One person was killed and another injured in a drone attack in Russia's Bryansk region, said regional governor Yegor Kovalchuk. According to authorities, air defense shot down several dozen drones over the Leningrad region in northwest Russia, and one woman in St. Petersburg was injured. Ukraine is attacking Russia in retaliation for the fifth year of the Russian invasion.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 9,
+        "energy": 9,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 16,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "air_defense",
+          "generic_drones"
+        ],
+        "energy": [
+          "electricity"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia",
+          "international_conflict"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "air_defense",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "generic_drones",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "energy": [
+          {
+            "concept": "electricity",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "international_conflict",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "energy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T16:20:21Z"
+    },
+    {
+      "id": "50add6e466bd1e91c0211334479719f0784b77bb",
+      "fingerprint": "2fa651ec11cf8acd0ead931902c7d65859c2f77e",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/poslanci-maji-v-patek-schvalovat-zdaneni-rafinerii-a-zmeny-v-duchodech-379996",
+      "published_utc": "2026-11-27T03:46:17Z",
+      "collected_at_utc": "2026-11-27T16:20:14Z",
+      "title_raw": "Sněmovna schválila mimořádnou daň na rafinerie",
+      "lead_raw": "Poslanci ve třetím čtení schválili návrh na zavedení mimořádné daně na rafinerie. Předlohu v úvodu projednávání podpořila ministryně financí Alena Schillerová (ANO). Opozice neuspěla s žádným z jedenácti podaných návrhů na změnu programu.",
+      "title_en": "The Chamber of Deputies approved an extraordinary tax on refineries",
+      "lead_en": "In the third reading, MPs approved a proposal to introduce an extraordinary tax on refineries. The draft was supported at the start of the discussion by Finance Minister Alena Schillerová (ANO). The opposition failed with none of the eleven submitted proposals to amend the program.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 6,
+        "domestic_politics": 23,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "refining"
+        ],
+        "economy": [
+          "taxation"
+        ],
+        "domestic_politics": [
+          "parliament",
+          "coalition",
+          "political_parties",
+          "leadership"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "refining",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [
+          {
+            "concept": "taxation",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "coalition",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy",
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T16:20:21Z"
+    },
     {
       "id": "760bccd0adf17568cd4f24147bba2104fbe0e869",
       "fingerprint": "aa9d2f6fef617cbb290368569c753c7c0b9c549d",
@@ -1593,566 +2474,6 @@
       ],
       "relevant": true,
       "primary_topic": "energy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T23:29:51Z"
-    },
-    {
-      "id": "e4b7d54f2296c29e5d1487b0897fd08e83533d41",
-      "fingerprint": "c88214b78da4a11d2c50ac4c70fdad1a7396bae3",
-      "source": "České noviny / ČTK - Economy",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/cenovy-strop-na-benzin-klesne-pod-39-korun-nafta-zlevni-ke-43-kc/2905486",
-      "published_utc": "2026-11-25T13:07:00Z",
-      "collected_at_utc": "2026-11-25T14:33:36Z",
-      "title_raw": "Cenový strop na benzin klesne pod 39 korun, nafta zlevní ke 43 Kč",
-      "lead_raw": "Praha - Nejvyšší povolené ceny pohonných hmot, které denně stanovuje stát, budou pokračovat v poklesu. Cenový strop na benzin se po delší době sníží pod úroveň 39 korun, oproti dnešku benzin zlevní o...",
-      "title_en": "The price cap for gasoline will drop below 39 crowns, diesel will drop to 43 CZK",
-      "lead_en": "Prague - The highest permitted fuel prices, set daily by the state, will continue to fall. The price cap on gasoline will drop below 39 crowns for the first time in a long while; compared to today, gasoline will be cheaper by...",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 6,
-        "economy": 3,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          "fuel_prices"
-        ],
-        "economy": [
-          "currency"
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          {
-            "concept": "fuel_prices",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "economy": [
-          {
-            "concept": "currency",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
-          }
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "energy"
-      ],
-      "relevant": true,
-      "primary_topic": "energy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:33:44Z"
-    },
-    {
-      "id": "1a434dac27d26b29283116f25d4f5fadb1ae5035",
-      "fingerprint": "3486e1779ed66de4ffba35c5fba56a61cabb5ef9",
-      "source": "Novinky",
-      "source_language": "cs",
-      "url": "https://www.novinky.cz/clanek/domaci-zpravy-olomoucky-kraj-dlouhe-strane-budou-vyrabet-elektrinu-i-ze-slunce-dokoncuji-novou-fotovoltaiku-40610354",
-      "published_utc": "2026-11-25T12:52:26Z",
-      "collected_at_utc": "2026-11-25T14:33:38Z",
-      "title_raw": "Dlouhé stráně budou vyrábět elektřinu i ze slunce, dokončují novou fotovoltaiku",
-      "lead_raw": "Novou fotovoltaickou elektrárnu instalovanou na střeše své správní budovy rozšiřuje portfolio obnovitelných zdrojů přečerpávací vodní elektrárna Dlouhé stráně v Jeseníkách. Skládá se ze 345 fotovoltaických panelů a bude mít výkon 153 kWp.",
-      "title_en": "Dlouhé stráně will also produce electricity from the sun, completing a new photovoltaic system",
-      "lead_en": "The new photovoltaic power plant installed on the roof of its administrative building is expanding the portfolio of renewable sources by the Dlouhé stráně pumped-storage hydroelectric power plant in the Jeseníky Mountains. It consists of 345 photovoltaic panels and will have a capacity of 153 kWp.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 21,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          "electricity",
-          "renewable_energy",
-          "hydropower"
-        ],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          {
-            "concept": "electricity",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "renewable_energy",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "hydropower",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "energy"
-      ],
-      "relevant": true,
-      "primary_topic": "energy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:33:44Z"
-    },
-    {
-      "id": "5f5979854be35a1924646888ad6076cc829ffd38",
-      "fingerprint": "e8e62076d17a9820134cb08f759896a0bbffb7f5",
-      "source": "iDNES.cz",
-      "source_language": "cs",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/pri-ruskem-utoku-v-kyjevske-oblasti-zahynul-muz-v-rusku-hori-rafinerie.A261125_070149_zahranicni_tmps",
-      "published_utc": "2026-11-25T12:31:00Z",
-      "collected_at_utc": "2026-11-25T14:33:41Z",
-      "title_raw": "Ukrajinci zaútočili na dvě rafinerie v Samarské oblasti, vypukly velké požáry",
-      "lead_raw": "Ruské útoky ve městě Bila Cerkva a v Charkovské oblasti si vyžádaly dva mrtvé. Pět oblastí Ukrajiny se potýká s výpadky dodávek elektrické energie, uvedly ukrajinské úřady. V Rusku podle médií opět čelily útokům rafinerie a také letecká základna, kde bylo poškozeno pět letounů.",
-      "title_en": "Ukrainians attacked two refineries in the Samara region, causing large fires",
-      "lead_en": "Russian attacks in the city of Bila Tserkva and the Kharkiv region have claimed two lives. Five regions of Ukraine are facing power outages, Ukrainian authorities said. According to media reports, refineries and an airbase in Russia have again faced attacks, where five aircraft were damaged.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 9,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 9,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          "refining"
-        ],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          "ukraine"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          {
-            "concept": "refining",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          {
-            "concept": "ukraine",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "energy",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "energy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:59:14Z"
-    },
-    {
-      "id": "001aff1bf8179986f645b3709bd2dac10927a50c",
-      "fingerprint": "54345b55eb7b8dba3c524501d9545801f78260ca",
-      "source": "iDNES.cz",
-      "source_language": "cs",
-      "url": "https://www.idnes.cz/hradec-kralove/zpravy/demolice-komin-teplarna-dvur-kralove-nad-labem-horolezci.A261125_122459_hradec-zpravy_the",
-      "published_utc": "2026-11-25T12:20:00Z",
-      "collected_at_utc": "2026-11-25T14:33:41Z",
-      "title_raw": "Horolezci bourali část komína 100 metrů nad zemí, se zbytkem pomohou jeřáby",
-      "lead_raw": "V areálu teplárny ve Dvoře Králové nad Labem na Trutnovsku skončila první část demolice 100 metrů vysokého komína. Čtyři horolezci ručně rozebírali několik vrchních metrů cihlové stavby. Přes zimu budou práce pokračovat demontáží vnitřních technologií. Ke kompletní demolici dojde na jaře, kdy s rozebráním pomůže těžká technika.",
-      "title_en": "Climbers demolished part of the chimney 100 meters above the ground; cranes will help with the rest.",
-      "lead_en": "The first phase of the demolition of a 100-meter-high chimney has been completed at the district heating plant site in Dvůr Králové nad Labem in the Trutnov district. Four climbers manually dismantled several of the top meters of the brick structure. Work will continue over the winter with the dismantling of internal technologies. Complete demolition will take place in spring, with heavy machinery assisting with the dismantling.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 6,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          "district_heating"
-        ],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          {
-            "concept": "district_heating",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "energy"
-      ],
-      "relevant": true,
-      "primary_topic": "energy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:33:44Z"
-    },
-    {
-      "id": "16f10f8286e8c014b983f1cebb778a3c8d9cdb38",
-      "fingerprint": "d6d31999e1ce99bd4e6b5a25d99c4452f1f634c4",
-      "source": "iROZHLAS - Domestic",
-      "source_language": "cs",
-      "url": "https://www.irozhlas.cz/zpravy-domov/proste-nechci-obyvatele-bridlicne-odmitli-vetrne-elektrarny-radnice-resi-jak-se_2611251317_vsn",
-      "published_utc": "2026-11-25T12:17:00Z",
-      "collected_at_utc": "2026-11-25T14:33:34Z",
-      "title_raw": "‚Prostě nechci.‘ Obyvatelé Břidličné odmítli větrné elektrárny, radnice řeší, jak se ze smlouvy vymanit",
-      "lead_raw": "Radost z výsledku referenda vystřídaly v Břidličné na Bruntálsku starosti. Obyvatelé v něm drtivou většinou odmítli stavbu větrných elektráren. Nové vedení radnice teď ale řeší, jak se bezpečně vymanit ze smluv, které jejich předchůdci podepsali s investory. Od nich už totiž Břidličná inkasovala desetimilionovou zálohu. Radnice si proto chce najmout právní kancelář, jednat o tom budou ve středu radní.",
-      "title_en": "'I just don't want to.' Residents of Břidličná rejected wind turbines, the town hall is dealing with how to get out of the contract",
-      "lead_en": "Joy over the referendum result has been replaced by worries in Břidličná in the Bruntál district. The residents overwhelmingly rejected the construction of wind turbines. The new city council leadership is now dealing with how to safely break free from contracts their predecessors signed with investors. Břidličná has already received a ten-million-euro advance from them. Therefore, the town hall wants to hire a law firm, and the councilors will discuss this on Wednesday.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 18,
-        "economy": 0,
-        "domestic_politics": 9,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          "electricity",
-          "wind_energy"
-        ],
-        "economy": [],
-        "domestic_politics": [
-          "municipal_government"
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          {
-            "concept": "electricity",
-            "strength": 3,
-            "headline": true,
-            "lead": false,
-            "points": 9
-          },
-          {
-            "concept": "wind_energy",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "economy": [],
-        "domestic_politics": [
-          {
-            "concept": "municipal_government",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "energy",
-        "domestic_politics"
-      ],
-      "relevant": true,
-      "primary_topic": "energy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:33:45Z"
-    },
-    {
-      "id": "5b3301232e76f1a052f75f999925f1f33b3a982c",
-      "fingerprint": "9c0e657cd8fd878583888c74ad4cac5652a86e01",
-      "source": "Seznam Zprávy",
-      "source_language": "cs",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-vetsina-teplaren-v-cesku-pristi-rok-zvysi-ceny-tepla-nejvice-zdrazi-teplo-z-plynu-321485",
-      "published_utc": "2026-11-25T10:51:27Z",
-      "collected_at_utc": "2026-11-25T14:33:40Z",
-      "title_raw": "Většina tepláren v Česku příští rok zvýší ceny tepla, nejvíce zdraží teplo z plynu",
-      "lead_raw": "Podle Teplárenského sdružení v roce 2027 zdraží většina českých tepláren. Cena tepla z plynu stoupne o 15 až 20 procent, z lesní štěpky o více než desetinu a z uhlí zhruba o inflaci. Je to kvůli dražším palivům i změnám daní.",
-      "title_en": "Most heating plants in the Czech Republic will raise heat prices next year, with gas heating rising the most",
-      "lead_en": "According to the Heating Association, most Czech heating plants will become more expensive in 2027. The price of heat from gas will rise by 15 to 20 percent, from forest chips by more than a tenth, and from coal roughly by inflation. This is due to higher fuel prices and tax changes.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 6,
-        "economy": 6,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          "coal"
-        ],
-        "economy": [
-          "inflation"
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          {
-            "concept": "coal",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "economy": [
-          {
-            "concept": "inflation",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "energy",
-        "economy"
-      ],
-      "relevant": true,
-      "primary_topic": "energy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:33:45Z"
-    },
-    {
-      "id": "d4f339495c4aa9b27e4eb5597be306920b29ffc5",
-      "fingerprint": "ce61922e7454ac589896ec352ca0a49e3a4a639e",
-      "source": "ČT24",
-      "source_language": "cs",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/pri-ruskem-utoku-v-kyjevske-oblasti-zahynul-muz-v-rusku-hori-rafinerie-379928",
-      "published_utc": "2026-11-25T06:49:48Z",
-      "collected_at_utc": "2026-11-25T23:29:45Z",
-      "title_raw": "Ukrajina hlásí zničení pěti ruských letadel a zásah dvou rafinerií. Kyjev a Charkov čelily ostřelování",
-      "lead_raw": "Ruské útoky v Kyjevské a Charkovské oblasti si vyžádaly dva mrtvé, oznámili tamní představitelé. Další člověk byl zabit při ruském bombardování Slovjansku. Pět oblastí Ukrajiny se potýká s výpadky dodávek elektrické energie, informovaly úřady. Ukrajinská armáda uvedla, že v Rusku zasáhla dvě rafinerie a také leteckou základnu, kde poškodila pět letounů. Gubernátor ruské Samarské oblasti Vjačeslav Fedoriščev tvrdí, že tam byl při dronovém úderu zabit jeden člověk.",
-      "title_en": "Ukraine reports the destruction of five Russian aircraft and the strike of two refineries. Kyiv and Kharkiv faced shelling",
-      "lead_en": "Russian attacks in the Kyiv and Kharkiv regions have claimed two lives, local officials reported. Another person was killed during Russian bombing of Sloviansk. Five regions of Ukraine are facing power outages, authorities reported. The Ukrainian army said it hit two refineries and an airbase in Russia, damaging five aircraft. Vyacheslav Fedorishchev, governor of Russia's Samara region, claims that one person was killed in a drone strike there.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 17,
-        "energy": 9,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 9,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "armed_forces",
-          "generic_drones",
-          "military_operations"
-        ],
-        "energy": [
-          "refining"
-        ],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          "ukraine"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "armed_forces",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "generic_drones",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          },
-          {
-            "concept": "military_operations",
-            "strength": 3,
-            "headline": true,
-            "lead": false,
-            "points": 9
-          }
-        ],
-        "energy": [
-          {
-            "concept": "refining",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          {
-            "concept": "ukraine",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "military",
-        "energy",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "military",
       "classification_version": 5,
       "translated_at_utc": "2026-11-25T23:29:51Z"
     }

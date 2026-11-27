@@ -1,9 +1,518 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-27T03:32:13Z",
-  "count": 5,
+  "updated_at_utc": "2026-11-27T16:20:21Z",
+  "count": 8,
   "articles": [
+    {
+      "id": "dc245a3d4c44f90e257d21d49352ff21c262d1ae",
+      "fingerprint": "3ea7209dd7cb8e12d8e6f17d80e4e3ff0abddb14",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/zahranicni-operace-peklo-3-ukrajinci-znicili-rusky-podzemni-sklad-paliva-40610957",
+      "published_utc": "2026-11-27T16:02:40Z",
+      "collected_at_utc": "2026-11-27T16:20:15Z",
+      "title_raw": "Operace Peklo-3: Ukrajinci zničili ruský podzemní sklad paliva",
+      "lead_raw": "Ruský podzemní sklad paliva zničila ukrajinská armáda na okupovaném území Luhanské oblasti. Stalo se to v rámci operace s názvem Peklo-3. Podle 12. brigády speciálního určení Azov sklad Rusové využívali k zásobování svých armádních jednotek.",
+      "title_en": "Operation Hell-3: Ukrainians destroyed a Russian underground fuel depot",
+      "lead_en": "The Ukrainian army destroyed a Russian underground fuel depot in the occupied territory of the Luhansk region. This happened as part of an operation called Peklo-3. According to the 12th Special Purpose Brigade Azov, the Russians used the depot to supply their military units.",
+      "translation_status": "review_required",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [
+        "lead:missing_numeric_values"
+      ],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T16:20:20Z"
+    },
+    {
+      "id": "496d452de4071e225352537e6562f7eb63afccac",
+      "fingerprint": "d11360287b96a9d688fd84d45e05e5466f0b5a9b",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/domaci/ods-se-kvuli-zastaveni-vymahani-dotace-od-pekarny-agrofertu-obrati-na-nku.A261127_092936_domaci_aoc",
+      "published_utc": "2026-11-27T15:21:00Z",
+      "collected_at_utc": "2026-11-27T16:20:17Z",
+      "title_raw": "„Šílenost.“ Opozice se čílí, že resort zastavil vymáhání dotace od Penamu",
+      "lead_raw": "Opoziční ODS se kvůli zastavení vymáhání stomilionové dotace od Pekárny Zelená louka patřící holdingu Agrofert obrátí na Nejvyšší kontrolní úřad (NKÚ). Uvedl to předseda strany Martin Kupka. ODS také požádá o vysvětlení, proč stát vymáhání zastavil, ministra průmyslu a obchodu Karla Havlíčka (ANO). Agrofert patřil premiérovi Andreji Babišovi (ANO), který jeho akcie v únoru vložil do svěřenského fondu.",
+      "title_en": "\"Madness.\" The opposition is upset that the ministry stopped collecting the subsidy from Penam",
+      "lead_en": "The opposition ODS will turn to the Supreme Audit Office (NKÚ) to the Supreme Audit Office (NKÚ) to stop the enforcement of the 100-million-euro subsidy from the Zelená louka Bakery owned by the Agrofert holding. This was stated by the party chairman Martin Kupka. ODS will also ask the Minister of Industry and Trade Karel Havlíček (ANO) to explain why the state stopped the enforcement. Agrofert belonged to Prime Minister Andrej Babiš (ANO), who placed its shares in a trust fund in February.",
+      "translation_status": "review_required",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [
+        "lead:unexpected_numeric_values"
+      ],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 23,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "coalition",
+          "political_parties",
+          "czech_leaders",
+          "leadership"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "coalition",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          },
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T16:20:20Z"
+    },
+    {
+      "id": "79bd13211a6e467d8ded650d7ccf034cb3b18594",
+      "fingerprint": "faf4e32ac27bc63151b93b72b01df71ad3c5ca2a",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/kandidatem-studentskeho-hnuti-na-srbskeho-prezidenta-je-profesor-chemie-saicic-380016",
+      "published_utc": "2026-11-27T15:01:16Z",
+      "collected_at_utc": "2026-11-27T16:20:14Z",
+      "title_raw": "Kandidátem studentského hnutí na srbského prezidenta je profesor chemie Saičić",
+      "lead_raw": "Studentské hnutí, které v říjnu vyhrálo parlamentní volby v Srbsku, v pátek vybralo svého kandidáta pro prosincové volby hlavy státu. Stal se jím 65letý univerzitní profesor chemie a člen Srbské akademie věd a umění Radomir Saičić, informovala agentura AFP. Volby budou 27. prosince, tedy tři měsíce poté, co dlouholetý prezident Aleksandar Vučić v září rezignoval a vyhlásil předčasné parlamentní volby, a to ve snaze je vyhrát a stát se novým premiérem. Vučičovu Srbskou pokrokovou stranu (SNS) ale porazila Studentská kandidátka.",
+      "title_en": "The student movement's candidate for Serbian president is chemistry professor Saičić",
+      "lead_en": "The student movement, which won the parliamentary elections in Serbia in October, selected its candidate for the December presidential election on Friday. The candidate was 65-year-old university professor of chemistry and member of the Serbian Academy of Sciences and Arts Radomir Saičić, AFP reported. The elections will be held on December 27, three months after long-time president Aleksandar Vučić resigned in September and called early parliamentary elections in an effort to win them and become the new prime minister. However, Vučić's Serbian Progressive Party (SNS) was defeated by the Student List.",
+      "translation_status": "review_required",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [
+        "lead:unexpected_numeric_values"
+      ],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "foreign_elections"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "foreign_elections",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T16:20:20Z"
+    },
+    {
+      "id": "ee27b50bcff69dcdda373e99d75a23cdced605d0",
+      "fingerprint": "6eb5ed5042f4a2363a94ed870111479497591ad5",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/chybejici-odbornici-i-ucast-manazerky-ano-nevladni-organizace-kritizuji-komisi_2611271251_mst",
+      "published_utc": "2026-11-27T11:51:00Z",
+      "collected_at_utc": "2026-11-27T16:20:12Z",
+      "title_raw": "Chybějící odborníci i účast manažerky ANO. Nevládní organizace kritizují komisi pro výběr šéfa ÚOHS",
+      "lead_raw": "Do výběrového řízení na nového šéfa Úřadu pro ochranu hospodářské soutěže (ÚOHS) se přihlásilo 16 uchazečů. Z nich bude vybírat tříčlenná komise, kterou jmenoval premiér Andrej Babiš (ANO). Komise by měla vládě doporučit několik nejlepších uchazečů, přičemž její názor Babiše k ničemu nezavazuje. Ke jmenování nového šéfa úřadu potřebuje souhlas prezidenta. Výběrové řízení ale hlasitě kritizují nevládní organizace zabývající se transparentností.",
+      "title_en": "Missing experts and the participation of an ANO manager. Non-governmental organizations criticize the commission for selecting the head of the Office for the Protection of Competition",
+      "lead_en": "Sixteen candidates applied for the selection process for the new head of the Office for the Protection of Competition (ÚOHS). From them, a three-member commission appointed by Prime Minister Andrej Babiš (ANO) will select them. The commission is expected to recommend several of the best candidates to the government, and its opinion does not bind Babiš to anything. To appoint a new head of the office, the president's consent is required. However, the selection process is loudly criticized by non-governmental organizations dealing with transparency.",
+      "translation_status": "review_required",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [
+        "lead:missing_numeric_values"
+      ],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 21,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "government",
+          "political_parties",
+          "czech_leaders",
+          "leadership"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T16:20:20Z"
+    },
+    {
+      "id": "bae182d6be91737d51a0ef1c7770ffc0a72893df",
+      "fingerprint": "a8cf59fdbd6b07989807cf14e758f7e9a41081aa",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-kauzu-kolem-dotace-pro-pekarnu-z-agrofertu-vymysleli-v-bruselu-rekl-babis-321662",
+      "published_utc": "2026-11-27T10:48:29Z",
+      "collected_at_utc": "2026-11-27T16:20:16Z",
+      "title_raw": "Kauzu kolem dotace pro pekárnu z Agrofertu vymysleli v Bruselu, řekl Babiš",
+      "lead_raw": "To, že ministerstvo zastavilo vymáhání stomilionové dotace od pekárny z holdingu Agrofert, premiér Andre Babiš nekomentoval. Kauzu kolem dotace si podle Babiše vymysleli v Bruselu. Postup ministerstva kritizuje opozice.",
+      "title_en": "The case around the subsidy for the bakery from Agrofert was fabricated in Brussels, said Babiš",
+      "lead_en": "Prime Minister Andre Babiš did not comment on the fact that the ministry stopped collecting a 100-million subsidy from a bakery in the Agrofert holding. According to Babiš, the subsidy scandal was fabricated in Brussels. The ministry's approach is criticized by the opposition.",
+      "translation_status": "review_required",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [
+        "lead:unexpected_numeric_values"
+      ],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 21,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "government",
+          "coalition",
+          "czech_leaders",
+          "leadership"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "coalition",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T16:20:20Z"
+    },
+    {
+      "id": "2b2beceb5e39ed065898094dfa8a8acfbcf5c706",
+      "fingerprint": "fe7e434aed579da32e99210c1215e852fdc0143c",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/ministerstvo-prumyslu-a-obchodu-zastavilo-vymahani-100-milionu-od-pekarny-patrici-agrofertu-379999",
+      "published_utc": "2026-11-27T06:51:11Z",
+      "collected_at_utc": "2026-11-27T16:20:14Z",
+      "title_raw": "Ministerstvo zastavilo vymáhání sta milionů od pekárny patřící Agrofertu",
+      "lead_raw": "Ministerstvo průmyslu a obchodu (MPO) vedené Karlem Havlíčkem (ANO) zastavilo vymáhání stomilionové dotace od Pekárny Zelená louka ze skupiny Penam, která spadá pod Agrofert. Zdůvodnilo to tím, že uplynula promlčecí lhůta, napsal v pátek server iRozhlas.cz s odkazem na dokument, který má k dispozici. Premiér Andrej Babiš (ANO), kterému donedávna Agrofert přímo patřil, prohlásil, že kauzu kolem dotace vymysleli v Bruselu. Samotné zastavení vymáhání dotace však nekomentoval.",
+      "title_en": "The ministry has halted the collection of one hundred million from a bakery owned by Agrofert",
+      "lead_en": "The Ministry of Industry and Trade (MPO), led by Karel Havlíček (ANO), has stopped the enforcement of a 100-million-euro subsidy from Pekárna Zelená louka from the Penam group, which falls under Agrofert. The justification was that the statute of limitations had expired, wrote the iRozhlas.cz server on Friday, citing a document it has available. Prime Minister Andrej Babiš (ANO), who until recently owned Agrofert directly, stated that the subsidy scandal was fabricated in Brussels. However, he did not comment on the actual cessation of subsidy enforcement.",
+      "translation_status": "review_required",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [
+        "lead:unexpected_numeric_values"
+      ],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 20,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "government",
+          "political_parties",
+          "czech_leaders",
+          "leadership"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T16:20:21Z"
+    },
     {
       "id": "8e44e312455e70dc7dac810bcfab5738de7ba5dc",
       "fingerprint": "b2aee1b013e8b5cc8ed196dba07f200e3acece4a",
@@ -145,275 +654,6 @@
       "primary_topic": "economy",
       "classification_version": 5,
       "translated_at_utc": "2026-11-25T23:29:50Z"
-    },
-    {
-      "id": "cbea2e2dba4338df60f5f774036cd0b93d1c98ba",
-      "fingerprint": "77f57d7c2a2470e3ad11497759857673d4a114c0",
-      "source": "iDNES.cz",
-      "source_language": "cs",
-      "url": "https://www.idnes.cz/ekonomika/zahranicni/washington-nova-cla-eu-sazba-15-procent-ekonomika-trump.A261125_151951_eko-zahranicni_mikp",
-      "published_utc": "2026-11-25T15:23:00Z",
-      "collected_at_utc": "2026-11-25T23:29:48Z",
-      "title_raw": "USA chystají nová cla. Na dovoz z EU se má vrátit patnáctiprocentní sazba",
-      "lead_raw": "Spojené státy navrhují uvalit nová cla na 14 obchodních partnerů, včetně Evropské unie a Číny, uvedl Úřad amerického obchodního zmocněnce (USTR). Celní sazba na dovoz z EU bude do 15 procent v souladu s dřívější dohodou, kterou sedmadvacítka uzavřela s Washingtonem. Evropská komise (EK) očekává, že jakákoli opatření uvalená Spojenými státy budou respektovat 15procentní celní strop pro dovoz zboží z EU.",
-      "title_en": "The USA is preparing new tariffs. A 15 percent rate is to be reinstated on imports from the EU",
-      "lead_en": "The United States is proposing to impose new tariffs on 14 trading partners, including the European Union and China, according to the Office of the United States Trade Commissioner (USTR). The tariff on imports from the EU will be up to 15 percent, in line with an earlier agreement the twenty-seven made with Washington. The European Commission (EC) expects that any measures imposed by the United States will respect the 15 percent tariff cap on imports from the EU.",
-      "translation_status": "review_required",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [
-        "title:unexpected_numeric_values",
-        "lead:unexpected_numeric_values"
-      ],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 18,
-        "domestic_politics": 0,
-        "foreign_affairs": 9,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "tariffs",
-          "imports_exports"
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          "eu_policy"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "tariffs",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "imports_exports",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "economy",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "economy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T23:29:51Z"
-    },
-    {
-      "id": "f76c74c239edf331c118c717daf312dc11db950b",
-      "fingerprint": "8e365f06b505fb710be865d72341bfe56f9f5e95",
-      "source": "iDNES.cz",
-      "source_language": "cs",
-      "url": "https://www.idnes.cz/zpravy/domaci/rezoluce-ct-cro-cesti-europoslanci-pro-devet-proti-jedenact.A261125_144730_domaci_ikul",
-      "published_utc": "2026-11-25T15:16:00Z",
-      "collected_at_utc": "2026-11-25T23:29:48Z",
-      "title_raw": "„Aktivistická rezoluce.“ Proti usnesení k ČT a rozhlasu bylo 11 českých europoslanců",
-      "lead_raw": "Devět z 21 českých europoslanců ve středu hlasovalo pro rezoluci Evropského parlamentu o změně financování veřejnoprávních médií v České republice. Jde o europoslance zvolené za ODS, STAN, TOP 09, KDU-ČSL a Piráty. Proti hlasovalo 11 českých europoslanců, europoslankyně Nikola Bartůšek se zdržela.",
-      "title_en": "\"Activist resolution.\" Eleven Czech MEPs opposed the resolution on Czech Television and radio",
-      "lead_en": "Nine out of 21 Czech MEPs voted on Wednesday in favor of the European Parliament resolution on changing the financing of public media in the Czech Republic. These are MEPs elected for ODS, STAN, TOP 09, KDU-ČSL, and the Pirates. Eleven Czech MEPs voted against, while MEP Nikola Bartůšek abstained.",
-      "translation_status": "review_required",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [
-        "title:missing_numeric_values",
-        "lead:missing_numeric_values"
-      ],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "domestic_politics": 18,
-        "foreign_affairs": 6,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "currency"
-        ],
-        "domestic_politics": [
-          "parliament",
-          "political_parties",
-          "public_broadcasting_policy"
-        ],
-        "foreign_affairs": [
-          "eu_policy"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "currency",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
-          }
-        ],
-        "domestic_politics": [
-          {
-            "concept": "parliament",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "political_parties",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "public_broadcasting_policy",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "domestic_politics",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T23:29:51Z"
-    },
-    {
-      "id": "57fcd9876d5b5031999296abf8fa8076de66c8ab",
-      "fingerprint": "b88baa002d297a3fbb2cf8eed3e95d182f3552cf",
-      "source": "iROZHLAS - Domestic",
-      "source_language": "cs",
-      "url": "https://www.irozhlas.cz/zpravy-domov/dvacet-mostu-ve-strednich-cechach-je-v-havarijnim-stavu-bez-alespon-provizornich_2611251045_zko",
-      "published_utc": "2026-11-25T09:45:00Z",
-      "collected_at_utc": "2026-11-25T14:33:34Z",
-      "title_raw": "Dvacet mostů ve Středních Čechách je v havarijním stavu. Bez alespoň provizorních oprav hrozí uzavření",
-      "lead_raw": "Ve Středočeském kraji je na silnicích ve správě kraje 20 mostů v havarijním stavu. Bez alespoň provizorních oprav hrozí některým uzavření. Náklady na opravy odhaduje krajská správa a údržba silnic (KSÚS) na 440 milionů korun. Na rekonstrukce všech mostů v uspokojivém až havarijním stavu by potřebovala zhruba 10,7 miliardy korun, peníze ale nemá. Technický stav krajských mostů se přitom v posledních 2 letech mírně zlepšil, uvedla v úterý KSÚS.",
-      "title_en": "Twenty bridges in Central Bohemia are in a state of disrepair. Without at least temporary repairs, closure is at risk",
-      "lead_en": "In the Central Bohemian Region, there are 20 bridges in critical condition on roads managed by the region. Without at least temporary repairs, some face closure. The Regional Road Administration and Maintenance (KSÚS) estimates the repair costs at 440 million CZK. It would need about 10.7 billion CZK to reconstruct all bridges in satisfactory to emergency condition, but it does not have the funds. The technical condition of regional bridges has slightly improved over the past two years, KSÚS stated on Tuesday.",
-      "translation_status": "review_required",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [
-        "lead:missing_numeric_values"
-      ],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 9
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "currency"
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": [
-          "infrastructure_disruption"
-        ]
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "currency",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": [
-          {
-            "concept": "infrastructure_disruption",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ]
-      },
-      "topics": [
-        "local_events"
-      ],
-      "relevant": true,
-      "primary_topic": "local_events",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:59:14Z"
     }
   ]
 }

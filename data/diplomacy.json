@@ -1,9 +1,319 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-27T03:32:13Z",
-  "count": 24,
+  "updated_at_utc": "2026-11-27T16:20:21Z",
+  "count": 23,
   "articles": [
+    {
+      "id": "74516b8d4edaaa37f700257caecca69cf0ea76bc",
+      "fingerprint": "7713f2e7c88b1e10dc65a96814d27e83f53952e0",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/summit-evropska-komise-rozpocet-eu-volby-ukrajina-valka.A261127_122557_zahranicni_rtn",
+      "published_utc": "2026-11-27T15:09:00Z",
+      "collected_at_utc": "2026-11-27T16:20:17Z",
+      "title_raw": "Macron jako „pan Vyděrač“. Unijní summit o rozpočtu se změnil v chaos",
+      "lead_raw": "Dohodu nečekal nikdo, ale takový nesoulad překvapil i ostřílené diplomaty. Čtvrteční mimořádný unijní summit o sedmiletém rozpočtu skončil předčasně a v krizi. Státy bojkotovaly jednání v malých skupinkách, lídři předčasně utíkali na vlastní tiskovky a Macron naštval ultimátem, při němž vyhrožoval vítězstvím Marine Le Penové. Do dohadů se zapletla také půjčka Ukrajině, proti níž se staví i Česko.",
+      "title_en": "Macron as \"Mr. Blackmailer.\" The EU budget summit turned into chaos",
+      "lead_en": "No one expected an agreement, but such a disagreement surprised even seasoned diplomats. Thursday's extraordinary EU summit on the seven-year budget ended prematurely and in crisis. States boycotted meetings in small groups, leaders rushed to their own press conferences, and Macron angered with an ultimatum, threatening Marine Le Pen with a victory. The disputes also involved a loan to Ukraine, which the Czech Republic opposes.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 11,
+        "military": 0,
+        "energy": 0,
+        "economy": 3,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits",
+          "negotiations"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "generic_budget"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "negotiations",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "diplomacy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T16:20:20Z"
+    },
+    {
+      "id": "1e3a7e8ede6aa86c2da48aff59d8f71cc5bf13ed",
+      "fingerprint": "d0581a7295e09dcec2b6391289c6d468aa5b0164",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/robert-fico-brusel-summit-giorgie-meloniova-kabelka.A261127_143158_zahranicni_aya",
+      "published_utc": "2026-11-27T14:09:00Z",
+      "collected_at_utc": "2026-11-27T16:20:17Z",
+      "title_raw": "Evropská spolupráce v praxi. Fico na summitu nesl Meloniové kabelku",
+      "lead_raw": "Zatímco evropští lídři řešili v Bruselu víceletý rozpočet Unie a další peníze pro Ukrajinu, slovenský premiér Robert Fico se postaral o nečekané zpestření. Kamery ho zachytily, jak italské premiérce Giorgii Meloniové nese kabelku, a video okamžitě pobavilo uživatele internetu.",
+      "title_en": "European cooperation in practice. Fico carried Meloni's handbag at the summit",
+      "lead_en": "While European leaders were discussing the EU's multiannual budget and additional funds for Ukraine in Brussels, Slovak Prime Minister Robert Fico provided an unexpected twist. Cameras caught him carrying a handbag for Italian Prime Minister Giorgia Meloni, and the video immediately amused internet users.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 9,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "generic_budget"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "diplomacy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T16:20:20Z"
+    },
+    {
+      "id": "1ec3ae5c088eb328cf8f447ce69d3112743cbfc2",
+      "fingerprint": "092918daf2b798d1912febeb962e78971401aea0",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/cesko-by-dle-soucasneho-navrhu-rozpoctu-eu-dostalo-o-32-miliardy-eur-mene-rekl-babis-380001",
+      "published_utc": "2026-11-27T09:11:10Z",
+      "collected_at_utc": "2026-11-27T16:20:14Z",
+      "title_raw": "Česko by dle současného návrhu rozpočtu EU dostalo o 3,2 miliardy eur méně, řekl Babiš",
+      "lead_raw": "Návrh víceletého rozpočtu Evropské unie je ve stávající podobě nepřijatelný, pro Česko by ve srovnání s nynějším stavem znamenal o 3,2 miliardy eur (78,2 miliardy korun) méně. V pátek to na tiskové konferenci v Bruselu po mimořádném summitu EU prohlásil český premiér Andrej Babiš (ANO).",
+      "title_en": "According to the current EU budget proposal, the Czech Republic would receive 3.2 billion euros less, said Babiš",
+      "lead_en": "The proposal for the European Union's multiannual budget in its current form is unacceptable; compared to the current state, it would mean 3.2 billion euros (78.2 billion crowns) less for the Czech Republic. This was stated on Friday by Czech Prime Minister Andrej Babiš (ANO) at a press conference in Brussels following the extraordinary EU summit.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 6,
+        "military": 0,
+        "energy": 0,
+        "economy": 15,
+        "domestic_politics": 17,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [
+          "international_summits"
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "eu_budget",
+          "currency",
+          "generic_budget"
+        ],
+        "domestic_politics": [
+          "political_parties",
+          "czech_leaders",
+          "leadership"
+        ],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [
+          {
+            "concept": "international_summits",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "eu_budget",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "diplomacy",
+        "economy",
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T16:20:21Z"
+    },
     {
       "id": "0f1abb3dbca1c5106a7f669dab5309c7967d7284",
       "fingerprint": "906534bc7daf040d760066cadd25340336143c6d",
@@ -1913,407 +2223,6 @@
       "primary_topic": "domestic_politics",
       "classification_version": 5,
       "translated_at_utc": "2026-11-25T23:29:51Z"
-    },
-    {
-      "id": "249f0d5db485de057504e10096760b8075ac68a8",
-      "fingerprint": "58c723f30e338c5b5c91df742118885aae71f213",
-      "source": "Novinky",
-      "source_language": "cs",
-      "url": "https://www.novinky.cz/clanek/internet-a-pc-ai-technologicke-veletrhy-se-predhaneji-v-novinkach-humanoidi-bavi-deti-i-dospele-40609251",
-      "published_utc": "2026-11-25T13:11:00Z",
-      "collected_at_utc": "2026-11-25T14:33:38Z",
-      "title_raw": "Technologické veletrhy se předhánějí v novinkách, humanoidi baví děti i dospělé",
-      "lead_raw": "Firmy zabývající se výrobou humanoidních robotů a jejich součástí se předhánějí ve vylepšování a inovacích už dlouhou dobu. Zatím to nevypadá, že by narazili na nějaké limity. Naopak, veletrhů, kde stále propracovanější humanoidi hrají velkou roli, neustále přibývá. Jedním z nich byl i summit APEC, který se konal 18. a 19. listopadu v čínském Šen-čenu.",
-      "title_en": "Technology fairs compete with innovations, humanoids entertain both children and adults",
-      "lead_en": "Companies producing humanoid robots and their components have been competing in improvements and innovations for a long time. So far, it does not seem like they have hit any limits. On the contrary, fairs where increasingly sophisticated humanoids play a major role are constantly increasing. One of these was the APEC summit, held on November 18 and 19 in Shenzhen, China.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 6,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [
-          "international_summits"
-        ],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [
-          {
-            "concept": "international_summits",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "diplomacy"
-      ],
-      "relevant": true,
-      "primary_topic": "diplomacy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:33:44Z"
-    },
-    {
-      "id": "b86b9921ad261db0d96629dccf0d3f31d800f4e5",
-      "fingerprint": "f576e2e679bf43f772d126261be419f0461dd9ce",
-      "source": "České noviny / ČTK - Czech Republic",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/senat-vyzval-vladu-aby-na-summitu-eu-podporila-jeji-pujcku-ukrajine/2906514",
-      "published_utc": "2026-11-25T12:24:00Z",
-      "collected_at_utc": "2026-11-25T14:33:35Z",
-      "title_raw": "Senát vyzval vládu, aby na summitu EU podpořila její půjčku Ukrajině",
-      "lead_raw": "Praha - Vláda by měla podle Senátu na nadcházejícím summitu Evropské unie podpořit unijní půjčku na podporu Ukrajiny, která se pátým rokem brání ruské agresi. Horní parlamentní komora k tomu dnes kabinet...",
-      "title_en": "The Senate called on the government to support its loan to Ukraine at the EU summit",
-      "lead_en": "Prague - According to the Senate, the government should support the EU loan to support Ukraine at the upcoming European Union summit, as Ukraine has been defending itself against Russian aggression for five consecutive years. The upper parliamentary chamber today discussed the cabinet...",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 9,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 15,
-        "foreign_affairs": 18,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [
-          "international_summits"
-        ],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          "parliament",
-          "government"
-        ],
-        "foreign_affairs": [
-          "eu_policy",
-          "ukraine"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [
-          {
-            "concept": "international_summits",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          {
-            "concept": "parliament",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "government",
-            "strength": 2,
-            "headline": true,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "ukraine",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "diplomacy",
-        "domestic_politics",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "foreign_affairs",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:33:44Z"
-    },
-    {
-      "id": "a9879ea911e87e61dc65ad2184e477a37f3637c1",
-      "fingerprint": "a5f4627417edc0947dda06b244a7e70b0f22935b",
-      "source": "ČT24",
-      "source_language": "cs",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/senat-bude-schvalovat-novelu-proti-lakovani-zbozi-nazeleno-379929",
-      "published_utc": "2026-11-25T09:12:02Z",
-      "collected_at_utc": "2026-11-25T23:29:45Z",
-      "title_raw": "Senát schválil růst plateb do zdravotnictví za státní pojištěnce",
-      "lead_raw": "Senát ve středu večer schválil novelu, která počítá s tím, že státní platby do zdravotnictví za důchodce, děti, studenty nebo nezaměstnané vzrostou příští rok asi o 13 miliard korun. Rovněž schválil bez úprav novelu, jež má zabránit klamavému informování o dopadech výrobků na životní prostředí, takzvanému lakování nazeleno. Horní komora také vyzvala vládu, aby na nadcházejícím summitu Evropské unie podpořila unijní půjčku na podporu Ukrajiny.",
-      "title_en": "The Senate approved an increase in healthcare payments for state-insured persons",
-      "lead_en": "On Wednesday evening, the Senate approved an amendment that anticipates that state payments to healthcare for pensioners, children, students, or the unemployed will increase by about 13 billion crowns next year. It also approved an amendment without amendments aimed at preventing misleading information about the environmental impacts of products, so-called green lacquering. The upper chamber also called on the government to support the EU loan to support Ukraine at the upcoming European Union summit.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 6,
-        "military": 0,
-        "energy": 0,
-        "economy": 8,
-        "domestic_politics": 13,
-        "foreign_affairs": 12,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [
-          "international_summits"
-        ],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "unemployment",
-          "currency"
-        ],
-        "domestic_politics": [
-          "parliament",
-          "government"
-        ],
-        "foreign_affairs": [
-          "eu_policy",
-          "ukraine"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [
-          {
-            "concept": "international_summits",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "unemployment",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "currency",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "domestic_politics": [
-          {
-            "concept": "parliament",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "government",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          }
-        ],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "ukraine",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "diplomacy",
-        "economy",
-        "domestic_politics",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T23:29:51Z"
-    },
-    {
-      "id": "a27f6affd03e63dc93d7596e9fb8d34d2411d37f",
-      "fingerprint": "41d77d00cdae4d64f4c46511bdb4f5579e0e393c",
-      "source": "ČT24",
-      "source_language": "cs",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/sili-napeti-kvuli-neshodam-o-podobe-budouciho-rozpoctu-eu-vytky-ma-i-cesko-379926",
-      "published_utc": "2026-11-25T07:54:51Z",
-      "collected_at_utc": "2026-11-25T14:33:37Z",
-      "title_raw": "Sílí napětí kvůli neshodám o podobě budoucího rozpočtu EU, výtky má i Česko",
-      "lead_raw": "Mimořádný summit Evropské unie v Bruselu by měl na konci pracovního týdne schválit klíčové kontury víceletého rozpočtu. Podle předsedy Evropské rady Antónia Costy „nastal čas na dohodu“, jak uvedl v dopise adresovaném lídrům členských zemí. Dohodu ovšem může zkomplikovat spor o finanční podporu Ukrajině. Česko a další tři země daly najevo, že se na ní podílet nechtějí. Německo však trvá na jednotném zapojení celé sedmadvacítky a hrozí zablokováním jednání.",
-      "title_en": "Tensions are rising due to disagreements over the shape of the future EU budget, with the Czech Republic also criticizing it",
-      "lead_en": "An extraordinary European Union summit in Brussels is expected to approve the key outlines of the multiannual budget at the end of the workweek. According to European Council President António Costa, \"the time for an agreement has come,\" as he stated in a letter addressed to the leaders of member states. However, the agreement could be complicated by a dispute over financial support for Ukraine. The Czech Republic and three other countries have indicated that they do not want to participate. Germany, however, insists on a unified engagement of the entire twenty-seven and threatens to block the negotiations.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 8,
-        "military": 0,
-        "energy": 0,
-        "economy": 12,
-        "domestic_politics": 0,
-        "foreign_affairs": 15,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [
-          "international_summits",
-          "negotiations"
-        ],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "eu_budget",
-          "generic_budget"
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          "eu_policy",
-          "ukraine"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [
-          {
-            "concept": "international_summits",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "negotiations",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "eu_budget",
-            "strength": 3,
-            "headline": true,
-            "lead": false,
-            "points": 9
-          },
-          {
-            "concept": "generic_budget",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
-          }
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "ukraine",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "diplomacy",
-        "economy",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "foreign_affairs",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:40:42Z"
     }
   ],
   "topic": "diplomacy"

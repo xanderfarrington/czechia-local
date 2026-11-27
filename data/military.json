@@ -1,9 +1,473 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-27T03:32:13Z",
+  "updated_at_utc": "2026-11-27T16:20:21Z",
   "count": 33,
   "articles": [
+    {
+      "id": "8a858512e495b93247239ed98c3b4d8d0fe0861d",
+      "fingerprint": "1f24cb0a428ceca65a03fa694e8c931a8b638a64",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/minimalne-osm-vrtulniku-ministerstvo-vypsalo-tendr-na-provoz-sesti-zakladen_2611271615_aru",
+      "published_utc": "2026-11-27T15:15:00Z",
+      "collected_at_utc": "2026-11-27T16:20:12Z",
+      "title_raw": "Minimálně osm vrtulníků. Ministerstvo vypsalo tendr na provoz šesti základen leteckých záchranářů",
+      "lead_raw": "Ministerstvo zdravotnictví v pátek vypsalo veřejnou zakázku na provoz šesti základen letecké záchranné služby na období let 2029 až 2043. Chce zajistit plynulou návaznost na stávající smlouvy, postupně modernizovat vrtulníky a udržet vysokou úroveň bezpečnosti provozu i dostupnost kvalitní péče. Úřad o tom informoval v tiskové zprávě. Provoz zbývajících pěti základen zajistí ministerstvo vnitra a ministerstvo obrany.",
+      "title_en": "At least eight helicopters. The ministry announced a tender for the operation of six air rescue bases",
+      "lead_en": "On Friday, the Ministry of Health announced a public tender for the operation of six air rescue service bases for the period from 2029 to 2043. It aims to ensure smooth continuity with existing contracts, gradually modernize helicopters, and maintain a high level of operational safety as well as access to quality care. The office announced this in a press release. The operation of the remaining five bases will be ensured by the Ministry of the Interior and the Ministry of Defense.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 6,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "defense_ministry"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "government"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "defense_ministry",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T16:20:20Z"
+    },
+    {
+      "id": "0ae79eb7b772a46344fb71ff5e3994414442556c",
+      "fingerprint": "2062d6131aa38686d72bd2a79b42cac629155e6e",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-dalsi-zakaz-pro-sefa-armady-zuna-znovu-zatrhl-hlavacovi-cestu-na-ukrajinu-321606",
+      "published_utc": "2026-11-27T13:20:00Z",
+      "collected_at_utc": "2026-11-27T16:20:16Z",
+      "title_raw": "Další zákaz pro šéfa armády. Zůna znovu zatrhl Hlaváčovi cestu na Ukrajinu",
+      "lead_raw": "Plány náčelníka generálního štábu Miroslava Hlaváče vyjet na Ukrajinu znovu zarazil ministr obrany za SPD Jaromír Zůna. Podle zdrojů redakce měl přitom šéf armády podporu od premiéra Andreje Babiše.",
+      "title_en": "Another ban for the army chief. Zůna once again blocked Hlaváč's path to Ukraine",
+      "lead_en": "The plans of Chief of the General Staff Miroslav Hlaváč to travel to Ukraine were once again halted by SPD Defense Minister Jaromír Zůna. According to editorial sources, the army chief had support from Prime Minister Andrej Babiš.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 15,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 14,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces",
+          "defense_ministry"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "political_parties",
+          "czech_leaders",
+          "leadership"
+        ],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "defense_ministry",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T16:20:20Z"
+    },
+    {
+      "id": "bb9eb1c8c991a75ecde5d8f6d10e97e7bbcecea6",
+      "fingerprint": "dedc174e0d02004a634fcf5f453823a918923184",
+      "source": "Radio Prague International (EN)",
+      "source_language": "en",
+      "url": "https://english.radio.cz/fewer-czechs-consider-military-aid-ukraine-too-high-8903793",
+      "published_utc": "2026-11-27T11:30:00Z",
+      "collected_at_utc": "2026-11-27T16:20:18Z",
+      "title_raw": "Fewer Czechs consider military aid to Ukraine too high",
+      "lead_raw": "Fewer Czechs consider military aid to Ukraine too high",
+      "title_en": "Fewer Czechs consider military aid to Ukraine too high",
+      "lead_en": "Fewer Czechs consider military aid to Ukraine too high",
+      "translation_status": "not_required",
+      "translation_version": 0,
+      "validation_version": 0,
+      "translation_attempts": 0,
+      "translation_provider": null,
+      "translation_method": null,
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 9,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 18,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "military_activity"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "foreign_aid"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "foreign_aid",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5
+    },
+    {
+      "id": "e890a9353b1f9a01108261a6e120052cc09cadd5",
+      "fingerprint": "418842423ef76cad35fc612ebc9edaf093060cd0",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/na-ruskou-tulskou-oblast-utocily-drony-podle-medii-na-elektrarnu-a-tovarnu-379998",
+      "published_utc": "2026-11-27T06:54:01Z",
+      "collected_at_utc": "2026-11-27T16:20:14Z",
+      "title_raw": "Na ruskou Tulskou oblast útočily drony, podle médií na elektrárnu a továrnu",
+      "lead_raw": "Tulská oblast ležící jižně od Moskvy se v noci stala cílem ukrajinského dronového náletu, uvedl gubernátor Dmitrij Miljajev. Z tepelné elektrárny a podniku na výrobu syntetického kaučuku ve městě Jefremov se podle médií ozývaly exploze. Jeden člověk pak zahynul a další byl zraněn při dronovém útoku v ruské Brjanské oblasti, uvedl gubernátor regionu Jegor Kovalčuk. Protivzdušná obrana podle úřadů sestřelila několik desítek bezpilotních letounů nad Leningradskou oblastí na severozápadě Ruska, jedna žena v Petrohradu utrpěla zranění. Ukrajina na Rusko útočí v odvetě za pátým rokem trvající ruskou invazi.",
+      "title_en": "Drones attacked Russia's Tula region, and according to the media, targeted a power plant and a factory",
+      "lead_en": "The Tula region, located south of Moscow, became the target of a Ukrainian drone airstrike overnight, said Governor Dmitry Milyaev. According to the media, explosions were heard from a thermal power plant and a synthetic rubber production plant in the city of Yefremov. One person was killed and another injured in a drone attack in Russia's Bryansk region, said regional governor Yegor Kovalchuk. According to authorities, air defense shot down several dozen drones over the Leningrad region in northwest Russia, and one woman in St. Petersburg was injured. Ukraine is attacking Russia in retaliation for the fifth year of the Russian invasion.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 9,
+        "energy": 9,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 16,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "air_defense",
+          "generic_drones"
+        ],
+        "energy": [
+          "electricity"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia",
+          "international_conflict"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "air_defense",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "generic_drones",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "energy": [
+          {
+            "concept": "electricity",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "international_conflict",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "energy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T16:20:21Z"
+    },
+    {
+      "id": "6871c10cefa99a9c1dfbee2b939d7be6fa7f56fe",
+      "fingerprint": "2af68e99468c81e803585ce17d492c859c385604",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/maskovali-jsme-se-za-ruske-vojaky-a-projeli-jejich-stanovistem-vzpomina-ukrajinsky-obrance-379982",
+      "published_utc": "2026-11-27T05:00:00Z",
+      "collected_at_utc": "2026-11-27T16:20:14Z",
+      "title_raw": "Maskovali jsme se za ruské vojáky a projeli jejich stanovištěm, vzpomíná ukrajinský obránce",
+      "lead_raw": "Aby během obrany Mariupolu v roce 2022 projely ukrajinské jednotky ruským kontrolním stanovištěm, použily na svých vozidlech ruské vojenské označení a nasadily si pásky na rukávy ve stylu ruské armády. Konvoj projel bez jediného výstřelu. „Zdá se, že nad námi musel bdít Bůh,“ říká Bohdan, voják z Chmelnyckého. Později, po odchodu z oceláren Azovstal, padl do ruského zajetí. Na svobodu se dostal ještě téhož roku v rámci výměny zajatců mezi Ruskem a Ukrajinou.",
+      "title_en": "We disguised ourselves as Russian soldiers and drove through their position, recalls a Ukrainian defender",
+      "lead_en": "To pass through the Russian checkpoint during the defense of Mariupol in 2022, Ukrainian units used Russian military markings on their vehicles and wore armbands in the style of the Russian army. The convoy passed without firing a single shot. \"It seems God had to watch over us,\" says Bohdan, a soldier from Khmelnytskyi. Later, after leaving the Azovstal steelworks, he fell into Russian captivity. He was released later that year as part of a prisoner exchange between Russia and Ukraine.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 15,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces",
+          "military_activity"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-27T16:20:21Z"
+    },
     {
       "id": "3bf72901df183e7d3a19a21b5e09059dad2f2933",
       "fingerprint": "ccf98da2faaa6da3c74d0944942b14f59230fdb5",
@@ -2427,433 +2891,6 @@
       },
       "topics": [
         "military"
-      ],
-      "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T23:29:51Z"
-    },
-    {
-      "id": "2682207d94531af1d1a27d620aaafd3d4be25d84",
-      "fingerprint": "98b07a58cb6a569b70f89b0abe91cfef4c3b5b7a",
-      "source": "ČT24",
-      "source_language": "cs",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/vzorky-pudy-a-zalepit-okna-v-iowe-odpali-jedovate-chemikalie-379940",
-      "published_utc": "2026-11-25T13:21:24Z",
-      "collected_at_utc": "2026-11-25T23:29:45Z",
-      "title_raw": "Americká armáda v Iowě detonovala tuny chemikálií, místní zalepovali okna",
-      "lead_raw": "Americká armáda ve středu ve státě Iowa odpálila víc než čtyři tuny chemikálií, které se používaly k výrobě výbušnin, napsal server The New York Times. Místní obyvatelé si zalepili okna a posbírali vzorky půdy, aby mohli doložit případné dopady na jejich zdraví a životní prostředí způsobené rozptýlením toxických látek v ovzduší. Podle prvotních ohlasů opatření ke zmírnění následků výbuchu „předčila očekávání“, sdělil šéf vládní agentury EPA.",
-      "title_en": "The U.S. Army in Iowa detonated tons of chemicals, locals sealed windows.",
-      "lead_en": "The U.S. military detonated more than four tons of chemicals used to make explosives in the state of Iowa on Wednesday, reported The New York Times. Local residents taped their windows shut and collected soil samples to document any potential impacts on their health and the environment caused by the dispersion of toxic substances into the air. According to initial feedback, the measures to mitigate the explosion's consequences \"exceeded expectations,\" said the head of the EPA government agency.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 9,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "armed_forces"
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "armed_forces",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "military"
-      ],
-      "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T23:29:51Z"
-    },
-    {
-      "id": "1bd0cf80160bbbaf4b865ab01c3b52e34e7ce7f1",
-      "fingerprint": "1778c3f3d2ebddc53798a4b22dd75f5d7e40e515",
-      "source": "Seznam Zprávy",
-      "source_language": "cs",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-padlych-rusu-muze-byt-az-pul-milionu-rozsah-ztrat-odhaluji-unikla-data-321477",
-      "published_utc": "2026-11-25T11:40:00Z",
-      "collected_at_utc": "2026-11-25T14:33:40Z",
-      "title_raw": "Padlých Rusů může být až půl milionu, rozsah ztrát odhalují uniklá data",
-      "lead_raw": "Ruské úřady údaje o počtu padlých vojáků nezveřejňují. Analýza uniklých statistik, kterou provedla BBC, však ukazuje, že válka na Ukrajině si mohla vyžádat životy téměř půl milionu mužů bojujících za Rusko.",
-      "title_en": "There may be up to half a million fallen Russians, the extent of losses revealed by leaked data",
-      "lead_en": "Russian authorities do not publish data on the number of fallen soldiers. However, an analysis of leaked statistics conducted by the BBC shows that the war in Ukraine may have claimed the lives of nearly half a million men fighting for Russia.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 6,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 10,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "military_activity"
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          "ukraine",
-          "russia"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "military_activity",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          {
-            "concept": "ukraine",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "russia",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "military",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "foreign_affairs",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:33:45Z"
-    },
-    {
-      "id": "a45f84444645258c240d989a573e897a5c4b90be",
-      "fingerprint": "ca31f14ecbfb246d5055c45ece9efc016ea90974",
-      "source": "iDNES.cz",
-      "source_language": "cs",
-      "url": "https://www.idnes.cz/zpravy/domaci/jana-cernochova-kopecny-ukrajina-ministerstvo-obrany-agenda-spor.A261125_110037_domaci_ikro",
-      "published_utc": "2026-11-25T11:25:00Z",
-      "collected_at_utc": "2026-11-25T14:33:41Z",
-      "title_raw": "Kopečný? Nejslabší manažer, jeho úkoly museli plnit jiní, vrací úder Černochová",
-      "lead_raw": "Bývalá ministryně obrany Jana Černochová (ODS) se ostře ohradila proti kritice někdejšího náměstka Tomáše Kopečného. Označila ho za nejslabšího z vrcholných manažerů, které na ministerstvu „zdědila“. Vytkla mu nedodržování termínů, neplnění úkolů i nadměrné zahraniční cesty. Reagovala tak na jeho vyjádření v Rozstřelu na iDNES.cz, kde popsal, že jejich spolupráce na ministerstvu obrany vázla.",
-      "title_en": "Kicker? The weakest manager, whose tasks had to be fulfilled by others, Černochová strikes back",
-      "lead_en": "Former Defense Minister Jana Černochová (ODS) sharply objected to the criticism of former deputy Tomáš Kopečný. She called him the weakest of the top managers she \"inherited\" at the ministry. She reproached him for missing deadlines, failing to fulfill tasks, and excessive foreign trips. She responded to his statement on Rozstřel na iDNES.cz, where he described that their cooperation at the Ministry of Defense was faltering.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 6,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 12,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "defense_ministry"
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          "government",
-          "political_parties",
-          "leadership"
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "defense_ministry",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          {
-            "concept": "government",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          },
-          {
-            "concept": "political_parties",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "leadership",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "military",
-        "domestic_politics"
-      ],
-      "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:33:45Z"
-    },
-    {
-      "id": "5477f73a3e7bd94b79d30eef910a80e082b0dc31",
-      "fingerprint": "74a3af2efa7cb7c08ac2f604818c93278c5284d0",
-      "source": "iDNES.cz",
-      "source_language": "cs",
-      "url": "https://www.idnes.cz/zpravy/nato/simulator-strelba-armada-obrana-vr-group-laser.A261125_115540_zpr_nato_inc",
-      "published_utc": "2026-11-25T11:14:00Z",
-      "collected_at_utc": "2026-11-25T14:33:41Z",
-      "title_raw": "Virtuální město, poušť i prales. Čeští vojáci mají nový bojový simulátor",
-      "lead_raw": "Až tucet zbraní najednou, ale bez skutečné munice. Jakékoliv prostředí, jakákoliv bojová situace, přesto doslova v jedné místnosti. Česká společnost VR Group dokončila a předala ministerstvu obrany nejnovější virtuální střelecký simulátor STING-ISR. Propracovaný systém v něm propojuje střelecký a taktický výcvik jednotlivců i malých týmů.",
-      "title_en": "Virtual city, desert, and jungle. Czech soldiers have a new combat simulator",
-      "lead_en": "Up to a dozen weapons at once, but without real ammunition. Any environment, any combat situation, yet literally in one room. The Czech company VR Group has completed and handed over the latest virtual shooting simulator STING-ISR to the Ministry of Defense. Its sophisticated system connects shooting and tactical training for individuals and small teams.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 10,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 4,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "defense_ministry",
-          "weapons"
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          "government"
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "defense_ministry",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "weapons",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          }
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          {
-            "concept": "government",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "military"
-      ],
-      "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T14:33:45Z"
-    },
-    {
-      "id": "d4f339495c4aa9b27e4eb5597be306920b29ffc5",
-      "fingerprint": "ce61922e7454ac589896ec352ca0a49e3a4a639e",
-      "source": "ČT24",
-      "source_language": "cs",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/pri-ruskem-utoku-v-kyjevske-oblasti-zahynul-muz-v-rusku-hori-rafinerie-379928",
-      "published_utc": "2026-11-25T06:49:48Z",
-      "collected_at_utc": "2026-11-25T23:29:45Z",
-      "title_raw": "Ukrajina hlásí zničení pěti ruských letadel a zásah dvou rafinerií. Kyjev a Charkov čelily ostřelování",
-      "lead_raw": "Ruské útoky v Kyjevské a Charkovské oblasti si vyžádaly dva mrtvé, oznámili tamní představitelé. Další člověk byl zabit při ruském bombardování Slovjansku. Pět oblastí Ukrajiny se potýká s výpadky dodávek elektrické energie, informovaly úřady. Ukrajinská armáda uvedla, že v Rusku zasáhla dvě rafinerie a také leteckou základnu, kde poškodila pět letounů. Gubernátor ruské Samarské oblasti Vjačeslav Fedoriščev tvrdí, že tam byl při dronovém úderu zabit jeden člověk.",
-      "title_en": "Ukraine reports the destruction of five Russian aircraft and the strike of two refineries. Kyiv and Kharkiv faced shelling",
-      "lead_en": "Russian attacks in the Kyiv and Kharkiv regions have claimed two lives, local officials reported. Another person was killed during Russian bombing of Sloviansk. Five regions of Ukraine are facing power outages, authorities reported. The Ukrainian army said it hit two refineries and an airbase in Russia, damaging five aircraft. Vyacheslav Fedorishchev, governor of Russia's Samara region, claims that one person was killed in a drone strike there.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 17,
-        "energy": 9,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 9,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "armed_forces",
-          "generic_drones",
-          "military_operations"
-        ],
-        "energy": [
-          "refining"
-        ],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          "ukraine"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "armed_forces",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "generic_drones",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          },
-          {
-            "concept": "military_operations",
-            "strength": 3,
-            "headline": true,
-            "lead": false,
-            "points": 9
-          }
-        ],
-        "energy": [
-          {
-            "concept": "refining",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          {
-            "concept": "ukraine",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "military",
-        "energy",
-        "foreign_affairs"
       ],
       "relevant": true,
       "primary_topic": "military",
