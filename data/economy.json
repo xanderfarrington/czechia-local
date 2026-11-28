@@ -1,9 +1,891 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-28T01:14:32Z",
-  "count": 34,
+  "updated_at_utc": "2026-11-28T11:27:44Z",
+  "count": 37,
   "articles": [
+    {
+      "id": "9309a51e05d5d22b2ecc295566f2bf13d742ede7",
+      "fingerprint": "3830f86f1ea5ab7d29d40d7ddb915507b9493fa4",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/ekonomika-zdrazovani-nemovitosti-zvysuje-splatky-hypotek-vice-nez-rust-sazeb-40608974",
+      "published_utc": "2026-11-28T10:43:10Z",
+      "collected_at_utc": "2026-11-28T11:27:39Z",
+      "title_raw": "Zdražování nemovitostí zvyšuje splátky hypoték více než růst sazeb",
+      "lead_raw": "Kvůli dražším bytům a domům si lidé musejí každý rok půjčovat od bank více peněz. Zdražování dokonce komplikuje pořízení vlastního bydlení více než růst úrokových sazeb. Tlak dopadá hlavně na mladé lidi. Po těch banky vedle vyšších splátek chtějí kvůli růstu cen bytů i to, aby měli více naspořeno.",
+      "title_en": "Rising property prices raise mortgage payments more than rising rates",
+      "lead_en": "Because of more expensive apartments and houses, people have to borrow more money from banks every year. Rising prices even complicate buying your own housing more than rising interest rates. The pressure mainly affects young people. Banks want them not only to pay higher installments but also to have more savings due to rising apartment prices.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 6,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "housing_market"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "housing_market",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T11:27:43Z"
+    },
+    {
+      "id": "bcb42e477dc0258915c31d7c0142050b87dee0f8",
+      "fingerprint": "f715403675c2b3107821dd4921861cae7f5e2d89",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/ekonomika-podezreni-z-pasovani-cipu-sili-v-cinskem-datacentru-se-nasly-nejmodernejsi-systemy-nvidia-40610180",
+      "published_utc": "2026-11-28T10:09:17Z",
+      "collected_at_utc": "2026-11-28T11:27:39Z",
+      "title_raw": "Podezření z pašování čipů sílí. V čínském datacentru se našly nejmodernější systémy Nvidia",
+      "lead_raw": "Čínské firmy instalovaly v datovém centru v Šanghaji spojeném s Alicí Huangovou nejmodernější čipy Blackwell od americké společnosti Nvidia. Podle dokumentů předložených čínským regulátorům, které získala agentura Bloomberg, se v areálu využívají serverové systémy GB300 NVL72 a GB200, jejichž vývoz do Číny podléhá přísným americkým omezením.",
+      "title_en": "Suspicions of chip smuggling are growing. The most advanced Nvidia systems were found in a Chinese data center",
+      "lead_en": "Chinese companies installed the most advanced Blackwell chips from the American company Nvidia in the Shanghai data center associated with Alice Huang. According to documents submitted to Chinese regulators obtained by Bloomberg, GB300 NVL72 and GB200 server systems are used on the site, whose export to China is subject to strict American restrictions.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 6,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "imports_exports"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "imports_exports",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T11:27:43Z"
+    },
+    {
+      "id": "69366b850074200ee6570c6acfc4719fbfb6cc05",
+      "fingerprint": "0d92d074bd5136253c85b93d65b984014d4a4ee5",
+      "source": "iROZHLAS - Economy",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/ekonomika/vysoka-spotreba-a-nizky-dovoz-z-ceskych-zasobniku-rychle-ubyva-plyn-odbornici_2611281103_adn",
+      "published_utc": "2026-11-28T10:03:00Z",
+      "collected_at_utc": "2026-11-28T11:27:36Z",
+      "title_raw": "Vysoká spotřeba a nízký dovoz. Z českých zásobníků rychle ubývá plyn, odborníci varují před zdražováním",
+      "lead_raw": "České zásobníky plynu se vyprazdňují rychleji než před rokem. Jejich naplněnost už nyní klesla na 63,6 procenta, zatímco loni byla ve stejnou dobu na 85 procentech. Obchodníci totiž kvůli vysokým cenám na trhu raději sahají po uskladněném plynu. To by ale během následujících měsíců mohlo vést k dalšímu zdražování.",
+      "title_en": "High consumption and low imports. Gas is rapidly running out of Czech storage facilities, experts warn of price increases",
+      "lead_en": "Czech gas storage facilities are being emptied faster than a year ago. Their fill level has already dropped to 63.6 percent, while last year it was at the same time at 85 percent. Due to high market prices, traders prefer to use stored gas. However, this could lead to further price increases in the coming months.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 9,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "imports_exports"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "imports_exports",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T11:27:43Z"
+    },
+    {
+      "id": "cc2bd6f54629be7c9b30164d9a7b02ec49022a11",
+      "fingerprint": "f9dd2efc72a2f81df06b56f2f2475a0c61b68cc0",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-za-cukrovi-letos-lide-zaplati-az-o-desetinu-vic-zdrazuji-suroviny-i-mzdy-321748",
+      "published_utc": "2026-11-28T08:06:13Z",
+      "collected_at_utc": "2026-11-28T11:27:40Z",
+      "title_raw": "Za cukroví letos lidé zaplatí až o desetinu víc, zdražují suroviny i mzdy",
+      "lead_raw": "Nákup vánočního cukroví se oproti loňsku prodraží až o desetinu. Za nárůstem cen stojí hlavně dražší suroviny a práce. Pro některé cukrárny je předvánoční prodej zásadní, některé už mají vyprodáno.",
+      "title_en": "People will pay up to a tenth more for cookies this year, raw materials and wages are rising in price",
+      "lead_en": "Buying Christmas cookies will become up to a tenth more expensive compared to last year. The price increase is mainly due to more expensive ingredients and labor. For some confectioneries, pre-Christmas sales are essential, while others are already sold out.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 9,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "wages"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "wages",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T11:27:43Z"
+    },
+    {
+      "id": "cc91cd592a78b7b906dbb69a6f4bb054e493a7c2",
+      "fingerprint": "7ba50818aad61d6f14718a7288c96759cddd3370",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-s-p-zhorsila-vyhled-ratingu-francie-zatimco-madarsku-ho-zlepsila-321743",
+      "published_utc": "2026-11-28T06:45:01Z",
+      "collected_at_utc": "2026-11-28T11:27:40Z",
+      "title_raw": "S&P zhoršila výhled ratingu Francie, zatímco Maďarsku ho zlepšila",
+      "lead_raw": "Agentura Standard & Poor's očekává ve Francii vyšší rozpočtové schodky, oproti tomu v Maďarsku předpokládá postupné snížení. Výhled úvěrového ratingu Francie se proto změnil ze stabilního na negativní a u Maďarska naopak.",
+      "title_en": "S&P downgraded France's rating outlook, while improving Hungary's",
+      "lead_en": "Standard & Poor's expects higher budget deficits in France, while Hungary anticipates gradual reductions. Therefore, France's credit rating outlook changed from stable to negative, and Hungary's vice versa.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 8,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "public_finances",
+          "generic_budget"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "public_finances",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T11:27:44Z"
+    },
+    {
+      "id": "1222db66542b25583e07f266a0e992a308b9d649",
+      "fingerprint": "41f09c2f302014c99a46e8ca88ba1a0e45d9f123",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/ekonomika/zahranicni/ruska-vlada-na-pul-roku-zakazala-vyvoz-pohanky.A261128_073437_zahranicni_meli",
+      "published_utc": "2026-11-28T06:34:00Z",
+      "collected_at_utc": "2026-11-28T11:27:41Z",
+      "title_raw": "Rusko zakázalo vývoz základní potraviny, vláda chce stabilizovat trh",
+      "lead_raw": "Ruská vláda zakázala na půl roku vývoz pohanky. Krok odůvodnila snahou stabilizovat situaci na domácím trhu s potravinami. Pohanka patří v Rusku i na Ukrajině k základním potravinám a je neodmyslitelnou součástí jídelníčku. Naposledy ruská vláda zakázala její vývoz v létě 2021.",
+      "title_en": "Russia has banned the export of a staple food, the government wants to stabilize the market",
+      "lead_en": "The Russian government banned buckwheat exports for six months. The move was justified by efforts to stabilize the domestic food market. Buckwheat is a staple food in both Russia and Ukraine and is an indispensable part of the diet. The Russian government last banned its export in the summer of 2021.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 9,
+        "domestic_politics": 0,
+        "foreign_affairs": 12,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "imports_exports"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine",
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "imports_exports",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": true,
+            "lead": false,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "foreign_affairs",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T11:27:44Z"
+    },
+    {
+      "id": "0dac454a1f5c8d0c6603c2e2977ff346131d4324",
+      "fingerprint": "bce21ee1bac5031d5c486bf423d1d739726787d0",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-cinske-firmy-instalovaly-v-centru-spojenem-s-huangovou-cipy-nvidia-321741",
+      "published_utc": "2026-11-28T06:22:28Z",
+      "collected_at_utc": "2026-11-28T11:27:40Z",
+      "title_raw": "Čínské firmy instalovaly v centru spojeném s Huangovou čipy Nvidia",
+      "lead_raw": "Ačkoliv americké úřady vývoz čipů společnosti Nvidia do Číny zakazují, objevily se v čínských datových centrech spojených s Alice Huangovou. Ta je podezřelá z pašování čipů přes singapurskou firmu a špionáže.",
+      "title_en": "Chinese companies installed Nvidia chips in a center associated with Huang",
+      "lead_en": "Although U.S. authorities ban Nvidia's chip exports to China, they have appeared in Chinese data centers linked to Alice Huang. She is suspected of smuggling chips through a Singaporean company and espionage.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 0,
+        "economy": 6,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "intelligence"
+        ],
+        "energy": [],
+        "economy": [
+          "imports_exports"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "intelligence",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "imports_exports",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T11:27:44Z"
+    },
+    {
+      "id": "a1d101bcdb47da4b4a9f95cd14eee98222add9b7",
+      "fingerprint": "3e10689b8d96f1b6f62611440fdbf7224b10e594",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-ruska-vlada-na-pul-roku-zakazala-vyvoz-pohanky-321740",
+      "published_utc": "2026-11-28T06:15:09Z",
+      "collected_at_utc": "2026-11-28T11:27:40Z",
+      "title_raw": "Ruská vláda na půl roku zakázala vývoz pohanky",
+      "lead_raw": "Rusko minulý rok oselo pohankou nejmenší plochu od roku 1990. Země proto na půl roku zakázala její vývoz. Chce tím předejít výkyvům na domácím trhu. Na státy Euroasijské hospodářské unie opatření neplatí.",
+      "title_en": "The Russian government banned buckwheat exports for six months",
+      "lead_en": "Last year, Russia sowed buckwheat on its smallest area since 1990. The country therefore banned its export for six months. It aims to prevent fluctuations in the domestic market. The measures do not apply to the countries of the Eurasian Economic Union.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 11,
+        "domestic_politics": 0,
+        "foreign_affairs": 4,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "imports_exports",
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "imports_exports",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T11:27:44Z"
+    },
+    {
+      "id": "eaae8c710eb71116fb63921995470f8d07439e6a",
+      "fingerprint": "be14e38f9c53a8e4528898b879474c247ebd4f9e",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/ekonomika-ruska-vlada-na-pul-roku-zakazala-vyvoz-pohanky-40611008",
+      "published_utc": "2026-11-28T06:09:55Z",
+      "collected_at_utc": "2026-11-28T11:27:39Z",
+      "title_raw": "Ruská vláda na půl roku zakázala vývoz pohanky",
+      "lead_raw": "Ruská vláda zakázala na půl roku vývoz pohanky. Krok odůvodnila snahou stabilizovat situaci na domácím trhu s potravinami. Pohanka patří v Rusku i na Ukrajině k základním potravinám a je neodmyslitelnou součástí jídelníčku. Naposledy ruská vláda zakázala její vývoz v létě 2021.",
+      "title_en": "The Russian government banned buckwheat exports for six months",
+      "lead_en": "The Russian government banned buckwheat exports for six months. The move was justified by efforts to stabilize the domestic food market. Buckwheat is a staple food in both Russia and Ukraine and is an indispensable part of the diet. The Russian government last banned its export in the summer of 2021.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 9,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "imports_exports"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "imports_exports",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T11:27:44Z"
+    },
+    {
+      "id": "2d24087a3b209ce5097d1cf9bf529b70f7c7306f",
+      "fingerprint": "346811c81a9515ae23283eabe8a53ec91b5fec3e",
+      "source": "iROZHLAS - Economy",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/ekonomika/koruna-bude-cim-dal-silnejsi-mame-ji-radi-a-dluh-neni-sproste-slovo-rika-ekonom_2611280600_cen",
+      "published_utc": "2026-11-28T05:00:00Z",
+      "collected_at_utc": "2026-11-28T11:27:36Z",
+      "title_raw": "Koruna bude čím dál silnější, máme ji rádi. A dluh? To není sprosté slovo, říká ekonom",
+      "lead_raw": "Proč někteří Češi počítají svou měnu mezi národní poklady? A jak s korunou hýbou rozhodnutí ČNB? Speciální série Vinohradské 12: PRACHY hledá odpovědi.",
+      "title_en": "The koruna will get stronger and stronger, we like it. And debt? That's not a swear word, says the economist",
+      "lead_en": "Why do some Czechs count their currency among national treasures? And how do the Czech National Bank's decisions affect the koruna? Special series Vinohradské 12: MONEY seeks answers.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 9,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "central_banking",
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "central_banking",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T11:27:44Z"
+    },
+    {
+      "id": "eb2ef3dfa05389402c20e64be3ed3adad5ea635c",
+      "fingerprint": "e79c217cf963d1da06c2e068d102ed857b5b8a56",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/ekonomika-prehledne-jak-se-zmeni-podpory-v-nezamestnanosti-40610654",
+      "published_utc": "2026-11-28T05:00:00Z",
+      "collected_at_utc": "2026-11-28T11:27:39Z",
+      "title_raw": "PŘEHLEDNĚ: Jak se změní podpory v nezaměstnanosti",
+      "lead_raw": "Výše podpory v nezaměstnanosti se má od příštího roku lišit podle toho, kolik je jejímu příjemci let. Lépe na tom budou lidé, kterým už bylo 52 let. O tisíce korun pak klesne maximální částka, kterou lze v rámci dávky každý měsíc čerpat. Změny vláda plánuje zavést od ledna, není ale jisté, zda to stihne.",
+      "title_en": "OVERVIEW: How unemployment benefits will change",
+      "lead_en": "The amount of unemployment benefits is expected to differ from next year depending on the recipient's age. People who are already 52 years old will be better off. The maximum amount that can be claimed under the benefit each month will decrease by thousands of crowns. The government plans to introduce changes from January, but it is uncertain whether it will manage to do so.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 11,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "unemployment",
+          "currency"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "unemployment",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T11:27:44Z"
+    },
+    {
+      "id": "0810e0b5ddd617f84492c809002b90e0086a7120",
+      "fingerprint": "9d1da902ba32851df78799fff36da589d9f2da5e",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/firma-vlivnych-ceskych-byznysmenu-obzalovana-z-uniku-za-miliardu-chtela-fuzovat_2611280500_hrk",
+      "published_utc": "2026-11-28T04:00:00Z",
+      "collected_at_utc": "2026-11-28T11:27:36Z",
+      "title_raw": "Firma vlivných českých byznysmenů obžalovaná z úniku za miliardu chtěla fúzovat, soud to zarazil",
+      "lead_raw": "Jedna z největších odpadových firem v Česku, AVE CZ, chtěla fúzovat s jednou ze svých dceřiných společností. O sloučení usilovala poté, co ji Vrchní státní zastupitelství v Praze obžalovalo z daňového úniku ve výši téměř miliardy korun. Krajský soud v Praze spojení firem nepovolil. Web iROZHLAS.cz popisuje podrobnosti. V AVE CZ mají významné podíly miliardáři Daniel Křetínský či Karel Pražák.",
+      "title_en": "A company of influential Czech businessmen accused of a billion-euro leak wanted to merge, but the court stopped it",
+      "lead_en": "One of the largest waste companies in the Czech Republic, AVE CZ, wanted to merge with one of its subsidiaries. It sought the merger after the High Public Prosecutor's Office in Prague charged it with tax evasion amounting to nearly one billion crowns. The Regional Court in Prague did not approve the merger of the companies. The website iROZHLAS.cz describes the details. Billionaires Daniel Křetínský and Karel Pražák hold significant stakes in AVE CZ.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 8,
+        "domestic_politics": 6,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "taxation",
+          "currency"
+        ],
+        "domestic_politics": [
+          "municipal_government"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "taxation",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "municipal_government",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T11:27:44Z"
+    },
     {
       "id": "1c5b0e77aff231813e52f982da215711e0d7cd49",
       "fingerprint": "3e72257b7ff5619c003e74185b85f630f215bea2",
@@ -2244,995 +3126,6 @@
       "primary_topic": "economy",
       "classification_version": 5,
       "translated_at_utc": "2026-11-26T18:53:36Z"
-    },
-    {
-      "id": "6f0daaa5c4d1f64606574070e7c19596a2bcf9a8",
-      "fingerprint": "08327dd9e3ec4457f240a0e49c451c068101d896",
-      "source": "České noviny / ČTK - Czech Republic",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/cr-by-nemela-blokovat-pomoc-ukrajine-skrze-rozpocet-eu-mini-pavel/2907031",
-      "published_utc": "2026-11-26T11:00:00Z",
-      "collected_at_utc": "2026-11-26T18:52:28Z",
-      "title_raw": "ČR by neměla blokovat pomoc Ukrajině skrze rozpočet EU, míní Pavel",
-      "lead_raw": "Praha - Česká republika by neměla být v malé skupince zemí, která bude blokovat pomoc Ukrajině i prostřednictvím rozpočtu Evropské unie. Při odchodu ze Senátu to dnes novinářům řekl prezident Petr Pavel....",
-      "title_en": "The Czech Republic should not block aid to Ukraine through the EU budget, Pavel believes",
-      "lead_en": "Prague - The Czech Republic should not be among the small group of countries that will block aid to Ukraine even through the European Union budget. President Petr Pavel told journalists this today upon leaving the Senate....",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 12,
-        "domestic_politics": 8,
-        "foreign_affairs": 18,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "eu_budget",
-          "generic_budget"
-        ],
-        "domestic_politics": [
-          "parliament",
-          "leadership"
-        ],
-        "foreign_affairs": [
-          "eu_policy",
-          "ukraine"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "eu_budget",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "generic_budget",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
-          }
-        ],
-        "domestic_politics": [
-          {
-            "concept": "parliament",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "leadership",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "ukraine",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "economy",
-        "domestic_politics",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "foreign_affairs",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T18:53:36Z"
-    },
-    {
-      "id": "35ab9c6df706bc7bb70af846a970292c0b40f032",
-      "fingerprint": "119865cc7af13a45dd8111fbd77cbf9062e9d0c0",
-      "source": "iROZHLAS - Economy",
-      "source_language": "cs",
-      "url": "https://www.irozhlas.cz/ekonomika/ekonom-k-rozpoctu-eu-uz-drive-se-rozhodovalo-na-posledni-chvili-obrana-ale_2611261157_elv",
-      "published_utc": "2026-11-26T10:57:00Z",
-      "collected_at_utc": "2026-11-26T18:52:27Z",
-      "title_raw": "Ekonom k rozpočtu EU: Už dříve se rozhodovalo na poslední chvíli. Obrana ale tématem nebyla",
-      "lead_raw": "Lídři unijních států se chystají na mimořádný summit, kde budou jednat o příštím evropském rozpočtu. Část zemí chce výši rozpočtu zachovat. Další země, především Německo, chtějí škrtat víc. „Návrh prezidenta Evropské rady Antónia Costy byl snahou dosáhnout alespoň nějakého styčného bodu mezi dvěma velmi znesvářenými pozicemi,“ přibližuje Petr Zahradník, ekonom společnosti BeePartner a výzkumný pracovník Globsecu.",
-      "title_en": "Economist on the EU budget: Decisions were made at the last minute before. But defense was not the topic",
-      "lead_en": "Leaders of EU member states are preparing for an extraordinary summit where they will discuss the next European budget. Some countries want to keep the budget amount. Other countries, especially Germany, want to cut more. \"The proposal by European Council President António Costa was an effort to reach at least some point of contact between two very hostile positions,\" explains Petr Zahradník, economist at BeePartner and researcher at Globsec.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 6,
-        "military": 0,
-        "energy": 0,
-        "economy": 12,
-        "domestic_politics": 0,
-        "foreign_affairs": 9,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [
-          "international_summits"
-        ],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "eu_budget",
-          "generic_budget"
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          "eu_policy"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [
-          {
-            "concept": "international_summits",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "eu_budget",
-            "strength": 3,
-            "headline": true,
-            "lead": false,
-            "points": 9
-          },
-          {
-            "concept": "generic_budget",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
-          }
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": true,
-            "lead": false,
-            "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "diplomacy",
-        "economy",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "economy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T18:53:36Z"
-    },
-    {
-      "id": "63b38d3a3784360c04f54d635093473a207862aa",
-      "fingerprint": "70f8018a37dfc16b5694cd0530604beeb6166a80",
-      "source": "Radio Prague International (EN)",
-      "source_language": "en",
-      "url": "https://english.radio.cz/babis-brussels-funding-ukraine-must-not-come-eu-budget-8903662",
-      "published_utc": "2026-11-26T10:19:00Z",
-      "collected_at_utc": "2026-11-26T18:52:34Z",
-      "title_raw": "Babiš in Brussels: Funding for Ukraine must not come from EU budget",
-      "lead_raw": "Babiš in Brussels: Funding for Ukraine must not come from EU budget",
-      "title_en": "Babiš in Brussels: Funding for Ukraine must not come from EU budget",
-      "lead_en": "Babiš in Brussels: Funding for Ukraine must not come from EU budget",
-      "translation_status": "not_required",
-      "translation_version": 0,
-      "validation_version": 0,
-      "translation_attempts": 0,
-      "translation_provider": null,
-      "translation_method": null,
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 12,
-        "domestic_politics": 9,
-        "foreign_affairs": 18,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "eu_budget",
-          "generic_budget"
-        ],
-        "domestic_politics": [
-          "czech_leaders"
-        ],
-        "foreign_affairs": [
-          "eu_policy",
-          "ukraine"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "eu_budget",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "generic_budget",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
-          }
-        ],
-        "domestic_politics": [
-          {
-            "concept": "czech_leaders",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "ukraine",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "economy",
-        "domestic_politics",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "foreign_affairs",
-      "classification_version": 5
-    },
-    {
-      "id": "26cb6707f40369acf1a2781c9517bb273031dbb9",
-      "fingerprint": "6133753df502f80e828d99e2fa2bc71a3b789333",
-      "source": "ČT24",
-      "source_language": "cs",
-      "url": "https://ct24.ceskatelevize.cz/clanek/regiony/silnicari-otevreli-dalsi-usek-d3-379970",
-      "published_utc": "2026-11-26T09:56:08Z",
-      "collected_at_utc": "2026-11-26T18:52:29Z",
-      "title_raw": "Silničáři otevřeli další úsek D3",
-      "lead_raw": "Ředitelství silnic a dálnic (ŘSD) otevřelo 5,8 kilometru dlouhý úsek jihočeské dálnice D3 u Kaplice na Českokrumlovsku. Jde o první polovinu rozestavěného úseku mezi Kaplicí nádražím a Nažidly. Druhou a zároveň poslední chybějící část jihočeské dálnice D3 silničáři zprovozní příští rok v létě. Práce na celé, téměř dvanáct kilometrů dlouhé části dálnice vyjdou na 4,5 miliardy korun bez DPH. Celá dálnice D3 by mohla být v provozu do roku 2032.",
-      "title_en": "Road workers have opened another section of the D3",
-      "lead_en": "The Directorate of Roads and Motorways (ŘSD) has opened a 5.8-kilometer section of the South Bohemian D3 motorway near Kaplice in the Český Krumlov district. This is the first half of the unfinished section between Kaplice Station and Nažidla. The second and last missing section of the South Bohemian D3 motorway will be opened by the road crew next summer. The work on the entire nearly twelve-kilometer-long section of the motorway will cost 4.5 billion CZK excluding VAT. The entire D3 motorway could be operational by 2032.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 8,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "taxation",
-          "currency"
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "taxation",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "currency",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "economy"
-      ],
-      "relevant": true,
-      "primary_topic": "economy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T18:53:36Z"
-    },
-    {
-      "id": "a936aaab6738c5f3a9f6a90ade607d709f0f0f83",
-      "fingerprint": "1f3171e923d871314947acc5d227fe069cfbffcc",
-      "source": "ČT24",
-      "source_language": "cs",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/zacina-mimoradny-summit-eu-staty-se-prou-o-dlouhodoby-rozpocet-379966",
-      "published_utc": "2026-11-26T09:14:12Z",
-      "collected_at_utc": "2026-11-27T03:32:06Z",
-      "title_raw": "Lídři EU na summitu k dohodě o rozpočtu nedospěli, oznámil Costa",
-      "lead_raw": "V Bruselu probíhal mimořádný summit Evropské unie, kde se jednalo o klíčových konturách rozpočtu bloku na roky 2028 až 2034. Dohody o budoucím dlouholetém rozpočtu EU nebylo dosaženo. Možnou dohodu komplikoval i spor o finanční podporu Ukrajiny. Novou půjčku pro Ukrajinu v hodnotě 45 miliard eur (zhruba 1,1 bilionu korun) podpořilo na summitu EU 24 zemí, oznámil po jednání předseda Evropské rady António Costa. Premiér Andrej Babiš (ANO) řekl, že podle něj nelze spojovat financování Kyjeva s rozpočtem Unie.",
-      "title_en": "EU leaders did not reach a budget agreement at the summit, Costa announced",
-      "lead_en": "An extraordinary European Union summit took place in Brussels, discussing the key outlines of the bloc's budget for 2028 to 2034. No agreement was reached on the future long-term EU budget. A possible agreement was further complicated by a dispute over financial support for Ukraine. A new loan for Ukraine worth 45 billion euros (approximately 1.1 trillion CZK) was supported at the EU summit by 24 countries, announced European Council President António Costa after the meeting. Prime Minister Andrej Babiš (ANO) said that, in his view, financing Kyiv cannot be linked to the Union's budget.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 11,
-        "military": 0,
-        "energy": 0,
-        "economy": 11,
-        "domestic_politics": 14,
-        "foreign_affairs": 15,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [
-          "international_summits",
-          "negotiations"
-        ],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "eu_budget",
-          "currency",
-          "generic_budget"
-        ],
-        "domestic_politics": [
-          "political_parties",
-          "czech_leaders",
-          "leadership"
-        ],
-        "foreign_affairs": [
-          "eu_policy",
-          "ukraine"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [
-          {
-            "concept": "international_summits",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "negotiations",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "eu_budget",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "currency",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          },
-          {
-            "concept": "generic_budget",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
-          }
-        ],
-        "domestic_politics": [
-          {
-            "concept": "political_parties",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "czech_leaders",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "leadership",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "ukraine",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "diplomacy",
-        "economy",
-        "domestic_politics",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "foreign_affairs",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-27T03:32:13Z"
-    },
-    {
-      "id": "8fd67f57a11299f625e8c24c88b3cc432f1317da",
-      "fingerprint": "ea4bcf1801872c5d6a613d2f63815c6d6374434a",
-      "source": "Seznam Zprávy",
-      "source_language": "cs",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-babis-potrebujeme-penize-na-dalnice-pomoc-ukrajine-do-rozpoctu-eu-nepatri-321566",
-      "published_utc": "2026-11-26T08:52:32Z",
-      "collected_at_utc": "2026-11-26T18:52:31Z",
-      "title_raw": "Babiš: Potřebujeme peníze na dálnice, pomoc Ukrajině do rozpočtu EU nepatří",
-      "lead_raw": "Český premiér Andrej Babiš dnes při příchodu na summit EU zopakoval názor, že nelze spojovat financování Ukrajiny s dlouhodobým rozpočtem Unie.",
-      "title_en": "Babiš: We need money for highways, aid to Ukraine does not belong in the EU budget",
-      "lead_en": "Czech Prime Minister Andrej Babiš reiterated today, upon arriving at the EU summit, the view that financing Ukraine cannot be linked to the Union's long-term budget.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 6,
-        "military": 0,
-        "energy": 0,
-        "economy": 12,
-        "domestic_politics": 11,
-        "foreign_affairs": 18,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [
-          "international_summits"
-        ],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "eu_budget",
-          "generic_budget"
-        ],
-        "domestic_politics": [
-          "czech_leaders",
-          "leadership"
-        ],
-        "foreign_affairs": [
-          "eu_policy",
-          "ukraine"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [
-          {
-            "concept": "international_summits",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "eu_budget",
-            "strength": 3,
-            "headline": true,
-            "lead": false,
-            "points": 9
-          },
-          {
-            "concept": "generic_budget",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
-          }
-        ],
-        "domestic_politics": [
-          {
-            "concept": "czech_leaders",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "leadership",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "ukraine",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "diplomacy",
-        "economy",
-        "domestic_politics",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "foreign_affairs",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T18:53:37Z"
-    },
-    {
-      "id": "8e53cd0481749faec842c4e2684eb69e2ad0e8aa",
-      "fingerprint": "8376dc40854ca231e16813430008bd41f0c26ce4",
-      "source": "ČT24",
-      "source_language": "cs",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/poslanci-by-se-meli-zabyvat-platformovou-praci-a-podporami-v-nezamestnanosti-379965",
-      "published_utc": "2026-11-26T08:00:54Z",
-      "collected_at_utc": "2026-11-27T03:32:06Z",
-      "title_raw": "Sněmovna zřejmě zmírní navrhované snížení podpor v nezaměstnanosti",
-      "lead_raw": "Sněmovna zřejmě zmírní navrhované snížení podpor v nezaměstnanosti. Z novely zákoníku práce dolní komora navíc vyškrtne nové vymezení zaměstnání, jež by podle kritiků mohlo vést k legalizaci takzvaného švarcsystému. Úpravy vládní novely zákoníku práce předpokládají pozměňovací návrhy, které podali koaliční poslanci. Druhé sněmovní čtení vyplnilo tři a půl hodiny a protáhlo se přes půlnoc na pátek.",
-      "title_en": "The Chamber will likely ease the proposed reduction in unemployment benefits",
-      "lead_en": "The Chamber will likely ease the proposed reduction in unemployment benefits. Moreover, the lower chamber will remove the new definition of employment from the Labor Code amendment, which critics say could lead to the legalization of the so-called disguised employment system. The amendments to the government's Labor Code amendment include amendments submitted by coalition MPs. The second Chamber reading lasted three and a half hours and extended past midnight into Friday.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 15,
-        "domestic_politics": 19,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "unemployment",
-          "labor_market"
-        ],
-        "domestic_politics": [
-          "parliament",
-          "government",
-          "legislation"
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "unemployment",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "labor_market",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "domestic_politics": [
-          {
-            "concept": "parliament",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "government",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          },
-          {
-            "concept": "legislation",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "economy",
-        "domestic_politics"
-      ],
-      "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-27T03:32:13Z"
-    },
-    {
-      "id": "80ff41c8cd935d086f55106b1ba7a0160a945e57",
-      "fingerprint": "71a414953f8bd1755ba6a1c59a5a5d5db4f542dd",
-      "source": "ČT24",
-      "source_language": "cs",
-      "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/zadluzovani-postupne-poroste-varuje-kovarova-dle-pikory-by-mensi-deficit-slusel-379960",
-      "published_utc": "2026-11-26T07:27:20Z",
-      "collected_at_utc": "2026-11-26T18:52:29Z",
-      "title_raw": "Zadlužování postupně poroste, varuje Kovářová. Dle Pikory by menší deficit „slušel“",
-      "lead_raw": "Poslanci ve druhém čtení probírali návrhy na změny ve státním rozpočtu na příští rok. Koalice plánuje schodek 386 miliard korun, zvýšit by se měly výdaje ministerstva obrany, na platy státních zaměstnanců či důchody. Opozice návrh rozpočtu během projednávání opakovaně kritizovala. Místopředsedkyně sněmovního rozpočtového výboru Věra Kovářová (STAN) připomněla, že vláda v programovém prohlášení slibovala snižování schodků veřejných financí. Zadlužování bude podle ní postupně narůstat, kritizovala také zvyšování výdajů na obsluhu státního dluhu. Předseda téhož výboru Vladimír Pikora (Motoristé) tvrdí, že by tuzemské ekonomice „slušelo, kdyby měla deficit výrazně menší“. ve třetím čtení prý návrh rozpočtu i tak podpoří, chce prý zachovat stabilitu vlády. Debatou v Událostech, komentářích provázel Lukáš Dolanský.",
-      "title_en": "Borrowing will gradually increase, warns Kovářová. According to Pikora, a smaller deficit would \"suit me\"",
-      "lead_en": "In the second reading, MPs discussed proposals for changes to the state budget for next year. The coalition plans a deficit of 386 billion crowns, with increased spending on the Ministry of Defense's salaries and pensions. The opposition repeatedly criticized the budget proposal during the discussion. Deputy chairwoman of the parliamentary budget committee Věra Kovářová (STAN) reminded that the government promised to reduce public finance deficits in its program declaration. According to her, borrowing will gradually increase and also criticized the increase in expenditures on servicing the state debt. The chairman of the same committee, Vladimír Pikora (Motorists), claims that the domestic economy \"would benefit from having a significantly smaller deficit.\" In the third reading, he said he would support the budget proposal anyway, aiming to maintain government stability. The debate on Události, komentáře was hosted by Lukáš Dolanský.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 6,
-        "energy": 0,
-        "economy": 22,
-        "domestic_politics": 22,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "defense_ministry"
-        ],
-        "energy": [],
-        "economy": [
-          "government_budget",
-          "public_finances",
-          "government_debt",
-          "currency",
-          "generic_budget"
-        ],
-        "domestic_politics": [
-          "parliament",
-          "government",
-          "coalition",
-          "political_parties"
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "defense_ministry",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "government_budget",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "public_finances",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "government_debt",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "currency",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          },
-          {
-            "concept": "generic_budget",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "domestic_politics": [
-          {
-            "concept": "parliament",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "government",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          },
-          {
-            "concept": "coalition",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "political_parties",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "military",
-        "economy",
-        "domestic_politics"
-      ],
-      "relevant": true,
-      "primary_topic": "economy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T18:53:37Z"
-    },
-    {
-      "id": "959bc71d59725ec8f4ddcadf058a62df768d577f",
-      "fingerprint": "7154f0fd6f6719bd3e69f3b40a8fb471f39e01cf",
-      "source": "Novinky",
-      "source_language": "cs",
-      "url": "https://www.novinky.cz/clanek/ekonomika-dalsi-vydaje-na-obzoru-schodek-386-miliard-nemusi-byt-konecny-varuji-experti-40610380",
-      "published_utc": "2026-11-26T04:20:00Z",
-      "collected_at_utc": "2026-11-26T07:23:05Z",
-      "title_raw": "Další výdaje na obzoru. Schodek 386 miliard nemusí být konečný, varují experti",
-      "lead_raw": "Plánovaný schodek státního rozpočtu ve výši 386 miliard korun se může v příštím roce ještě o desítky miliard prohloubit. Největší riziko představují podle ekonomů drahé energie a případná další pomoc domácnostem a firmám. Hospodaření může zhoršit také slabší růst ekonomiky a zdražování státního dluhu. Na nečekané výdaje přitom vláda vyčlenila jen osm miliard korun.",
-      "title_en": "More expenditures on the horizon. The 386 billion deficit may not be final, experts warn",
-      "lead_en": "The planned state budget deficit of 386 billion crowns could deepen by tens of billions more next year. According to economists, the biggest risk is expensive energy and possible additional aid to households and businesses. The economy could also be worsened by weaker economic growth and rising public debt costs. The government has allocated only eight billion crowns for unexpected expenses.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 22,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "gdp_growth",
-          "government_budget",
-          "government_debt",
-          "currency",
-          "generic_budget"
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "gdp_growth",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "government_budget",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "government_debt",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "currency",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          },
-          {
-            "concept": "generic_budget",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "economy"
-      ],
-      "relevant": true,
-      "primary_topic": "economy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T07:23:10Z"
     }
   ],
   "topic": "economy"

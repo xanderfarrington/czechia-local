@@ -1,9 +1,443 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-28T01:14:32Z",
-  "count": 32,
+  "updated_at_utc": "2026-11-28T11:27:44Z",
+  "count": 35,
   "articles": [
+    {
+      "id": "55e142d977026896f5c08fb03898506401f7977a",
+      "fingerprint": "842f88fd5df9298fa8d7e5146b1ebe1b4e297083",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/kyjev-hlasi-obeti-po-ruskych-utocich-dle-ukrajinskych-webu-hori-u-ruske-rafinerie-380029",
+      "published_utc": "2026-11-28T09:25:31Z",
+      "collected_at_utc": "2026-11-28T11:27:38Z",
+      "title_raw": "Ukrajina hlásí oběti po ruských útocích, dle Ukrinformu hoří u ruské rafinerie",
+      "lead_raw": "V důsledku ruských útoků v Doněcké a Záporožské oblasti v noci na sobotu zahynulo pět lidí a další utrpěli zranění, informovaly ukrajinské úřady. Počet obětí po pátečním úderu agresora na Nižyn v Černihivské oblasti vzrostl na sedm. Ukrajinská média píší, že u rafinerie v Novošachtinsku v Rostovské oblasti vypukl požár.",
+      "title_en": "Ukraine reports casualties after Russian attacks, according to Ukrinform, a fire is burning near a Russian refinery",
+      "lead_en": "As a result of Russian attacks in the Donetsk and Zaporizhzhia regions overnight into Saturday, five people were killed and others injured, Ukrainian authorities reported. The death toll after Friday's attack by the aggressor on Nizhyn in the Chernihiv region rose to seven. Ukrainian media report that a fire broke out near a refinery in Novoshakhtinsk in the Rostov region.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "refining"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "refining",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "energy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T11:27:43Z"
+    },
+    {
+      "id": "daa5d25aeb3ae85e8c28d3d3b89e17120f85bec5",
+      "fingerprint": "2e3b3b7c4d4ff02841c1f2eefdfe09cdec7567cb",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-situace-je-slozita-rafinerii-v-rostovske-oblasti-zachvatily-plameny-40611014",
+      "published_utc": "2026-11-28T09:19:44Z",
+      "collected_at_utc": "2026-11-28T11:27:39Z",
+      "title_raw": "„Situace je složitá.“ Rafinérii v Rostovské oblasti zachvátily plameny",
+      "lead_raw": "Ukrajinská armáda v noci na sobotu zaútočila na ruskou ropnou rafinérii v Novošachtinsku v Rostovské oblasti, kterou pohltily plameny. Informovala o tom média s tím, že situace na místě je složitá. Kyjev udeřil také v Samarské oblasti, kde zasáhl čerpací a dispečerskou stanici ropovodu.",
+      "title_en": "\"The situation is complicated.\" A refinery in the Rostov region was engulfed in flames",
+      "lead_en": "The Ukrainian army attacked a Russian oil refinery in Novoshakhtinsk in the Rostov region on Saturday night, engulfing it in flames. The media reported that the situation on the ground is complicated. Kyiv also struck in the Samara region, hitting a pumping and dispatch station of the pipeline.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 15,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces"
+        ],
+        "energy": [
+          "oil",
+          "refining"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [
+          {
+            "concept": "oil",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "refining",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "energy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T11:27:43Z"
+    },
+    {
+      "id": "961f3f3129afe10bb0eefee9f81d61e8a326908a",
+      "fingerprint": "c6e8c44df957f5e474005ef4113300be9799b847",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/podcasty-politalk-jednani-s-babisem-jsou-vecna-ne-pratelska-rika-prezident-pavel-40610898",
+      "published_utc": "2026-11-28T07:00:58Z",
+      "collected_at_utc": "2026-11-28T11:27:39Z",
+      "title_raw": "Jednání s Babišem jsou věcná, ne přátelská, říká prezident Pavel",
+      "lead_raw": "Rok 2027 bude kvůli rostoucím cenám energií a potravin těžký, očekává prezident Petr Pavel. Plošná opatření vlády a rostoucí deficit označuje za hazard. Vyzývá také k jednoznačné reakci NATO na ruské provokace i na případný omezený útok na území některého z členů. „Jinak by aliance velice rychle ztratila smysl a celý systém by se zhroutil jako domeček z karet,“ říká hlava státu v podcastu PoliTalk.",
+      "title_en": "Negotiations with Babiš are factual, not friendly, says President Pavel",
+      "lead_en": "President Petr Pavel expects 2027 to be difficult due to rising energy and food prices. He calls the government's blanket measures and the growing deficit a gamble. He also calls for a clear NATO response to Russian provocations and to a possible limited attack on the territory of any member. \"Otherwise, the alliance would very quickly lose its meaning and the whole system would collapse like a house of cards,\" says the head of state in the PoliTalk podcast.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 6,
+        "economy": 0,
+        "domestic_politics": 16,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "nato"
+        ],
+        "energy": [
+          "energy_prices"
+        ],
+        "economy": [],
+        "domestic_politics": [
+          "government",
+          "czech_leaders",
+          "leadership"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "nato",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [
+          {
+            "concept": "energy_prices",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "energy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T11:27:43Z"
+    },
+    {
+      "id": "bd0b3bdffca9499edcac560f89aec843b331aa6f",
+      "fingerprint": "4fd27d90f40fef950880fec3dde9d04a0cf05409",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/svet/svar-o-kontrolu-ropy-a-hranic-dostal-bagdad-s-kurdy-na-pokraj-stretu-380007",
+      "published_utc": "2026-11-28T07:00:00Z",
+      "collected_at_utc": "2026-11-28T11:27:38Z",
+      "title_raw": "Svár o kontrolu ropy a hranic dostal Bagdád s Kurdy na pokraj střetu",
+      "lead_raw": "Po odchodu amerických vojáků čelí Irák řadě výzev. Blízkovýchodní stát obtížně balancuje mezi USA a Íránem a snaží se zabránit větší nestabilitě. Vládní síly už obsadily kontrolní stanoviště v oblasti ovládané přední proíránskou milicí Kata'ib Hizballáh. Bagdád také nařídil převzít kontrolu nad hraničními přechody Kurdistánu a tamními ropnými poli. V Irbílu demonstrovaly tisíce lidí, kteří se obávají ztráty autonomie. Situaci komplikuje nejednoznačná irácká ústava i rozkol v místní kurdské vládě. Regionu může hrozit i rozpad.",
+      "title_en": "The dispute over oil and border control has brought Baghdad and the Kurds to the brink of conflict",
+      "lead_en": "After the withdrawal of American troops, Iraq faces a number of challenges. The Middle Eastern country struggles to balance between the US and Iran and tries to prevent greater instability. Government forces have already taken control of checkpoints in the area controlled by the leading pro-Iranian militia Kata'ib Hezbollah. Baghdad has also ordered control over Kurdistan's border crossings and local oil fields. Thousands of people demonstrated in Erbil, fearing the loss of autonomy. The situation is complicated by the ambiguous Iraqi constitution and a split within the local Kurdish government. The region may even face the threat of collapse.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 9,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "military_activity"
+        ],
+        "energy": [
+          "oil"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [
+          {
+            "concept": "oil",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T11:27:44Z"
+    },
+    {
+      "id": "02d6159ac5f63d569f899adbb5001f6b4a5cf091",
+      "fingerprint": "12edec92486a5132295dd9b0bcd16f077cf9c0db",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/ekonomika/domaci/levna-elektrina-je-nas-ukol-v-evropske-unii-to-vsak-neni-snadne-rika-sef-cez.A261127_113216_ekonomika_hyk",
+      "published_utc": "2026-11-27T23:00:00Z",
+      "collected_at_utc": "2026-11-28T11:27:41Z",
+      "title_raw": "Levná elektřina je náš úkol. V Evropské unii to však není snadné, říká šéf ČEZ",
+      "lead_raw": "Česká energetika by měla stavět především na jádru vhodně doplněným dalšími zdroji a na soběstačnosti. Skupina ČEZ plánuje udržet Dukovany i Temelín v provozu po dobu 80 let. Generální ředitel společnosti Daniel Beneš v rozhovoru mluví o byznysovém potenciálu malých modulárních reaktorů i o tom, proč ideologický přístup ke Green Dealu sráží konkurenceschopnost Evropy. „Změny v energetice nesmí zaplatil hlavně domácnosti členských států,“ zdůrazňuje.",
+      "title_en": "Cheap electricity is our task. However, it is not easy in the European Union, says the head of ČEZ",
+      "lead_en": "Czech energy should primarily rely on nuclear power suitably supplemented by other sources and on self-sufficiency. The ČEZ Group plans to keep Dukovany and Temelín operational for 80 years. The company's CEO, Daniel Beneš, talks in an interview about the business potential of small modular reactors and why the ideological approach to the Green Deal is reducing Europe's competitiveness. \"Households of member states must not pay for changes in energy,\" he emphasizes.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 15,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 9,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "czech_nuclear_plants",
+          "electricity"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "czech_nuclear_plants",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "electricity",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "energy",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T11:27:44Z"
+    },
     {
       "id": "868094880f87793e0400798a708963afc9057c1b",
       "fingerprint": "29f8d38e1731cfdcad6270d5179e728e55ffd1bc",
@@ -2376,152 +2810,6 @@
       "primary_topic": "energy",
       "classification_version": 5,
       "translated_at_utc": "2026-11-26T18:53:36Z"
-    },
-    {
-      "id": "786cdc60c20def243a92c0e0e7a5ae0db519ea65",
-      "fingerprint": "3230d6b3d000be6b085e8b7dc87c5ac72ab0b48f",
-      "source": "České noviny / ČTK - Economy",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/paliva-v-cr-v-tydnu-opet-zlevnila-prumerna-cena-benzinu-je-nejnizsi-od-brezna/2907035",
-      "published_utc": "2026-11-26T11:01:00Z",
-      "collected_at_utc": "2026-11-26T18:52:28Z",
-      "title_raw": "Paliva v ČR v týdnu opět zlevnila, průměrná cena benzinu je nejnižší od března",
-      "lead_raw": "Praha - Pohonné hmoty v Česku v uplynulém týdnu opět zlevnily a průměrná cena benzinu Natural 95 se dostala na nejnižší úroveň od poloviny března, u nafty je nejnižší za čtyři měsíce. Litr naturalu se...",
-      "title_en": "Fuel prices in the Czech Republic dropped again this week, with the average gasoline price at its lowest since March",
-      "lead_en": "Prague - Fuel prices in the Czech Republic fell again last week, and the average price of Natural 95 gasoline reached its lowest level since mid-March, while diesel is the lowest in four months. A liter of natural gasoline is...",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 9,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          "fuel_prices"
-        ],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          {
-            "concept": "fuel_prices",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "energy"
-      ],
-      "relevant": true,
-      "primary_topic": "energy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T18:53:36Z"
-    },
-    {
-      "id": "ab7e48c491d74960f55fc30dcfaa07eb74ac989a",
-      "fingerprint": "d6aba6fcf9a2c4e805daf7e36dcb8fb03f2bf5a5",
-      "source": "iROZHLAS - Domestic",
-      "source_language": "cs",
-      "url": "https://www.irozhlas.cz/zpravy-domov/je-lepsi-na-jerabu-nez-u-jidla-v-jadernych-elektrarnach-pribyva-zen-v_2611260755_med",
-      "published_utc": "2026-11-26T06:55:00Z",
-      "collected_at_utc": "2026-11-26T07:23:01Z",
-      "title_raw": "‚Je to lepší na jeřábu než u jídla.‘ V jaderných elektrárnách přibývá žen v technických profesích",
-      "lead_raw": "Převážejí desítky tun těžká břemena, svařují nebo se starají o údržbu zařízení. V českých jaderných elektrárnách pracuje už více než 400 žen a stále častěji zastávají i profese, které dříve bývaly doménou mužů. Například v Dukovanech obsluhuje jeřáby šest žen.",
-      "title_en": "'It's better on a crane than at a meal.' Women in technical professions are increasing in nuclear power plants",
-      "lead_en": "They transport tens of tons of heavy loads, weld, or take care of equipment maintenance. More than 400 women already work in Czech nuclear power plants and increasingly hold professions that were previously male domains. For example, in Dukovany, six women operate cranes.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 24,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          "nuclear_energy",
-          "czech_nuclear_plants",
-          "electricity"
-        ],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          {
-            "concept": "nuclear_energy",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "czech_nuclear_plants",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "electricity",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "energy"
-      ],
-      "relevant": true,
-      "primary_topic": "energy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T07:23:10Z"
     }
   ],
   "topic": "energy"

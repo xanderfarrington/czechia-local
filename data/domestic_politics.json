@@ -1,9 +1,674 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-28T01:14:32Z",
-  "count": 87,
+  "updated_at_utc": "2026-11-28T11:27:44Z",
+  "count": 76,
   "articles": [
+    {
+      "id": "e29806fade6b9eda24d6638acd546bcf91a1bf78",
+      "fingerprint": "42d6da24eac5bb6957e7b421c4488e06d11fa9d7",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/ustecti-zastupitele-budou-zrejme-hlasovat-o-zruseni-mestskych-obvodu-opozice-v_2611281209_bod",
+      "published_utc": "2026-11-28T11:09:00Z",
+      "collected_at_utc": "2026-11-28T11:27:36Z",
+      "title_raw": "Ústečtí zastupitelé budou zřejmě hlasovat o zrušení městských obvodů. Opozice v čele s ANO je proti",
+      "lead_raw": "Ústečtí zastupitelé budou 14. prosince na samostatném zasedání hlasovat o záměru sjednotit správu městských obvodů pod magistrát. V jednotlivých čtvrtích by místo obvodních správ měly vzniknout místní komise, které by magistrátu předávaly podněty obyvatel. Proti plánované změně se staví opoziční hnutí ANO, podle kterého by jí měla předcházet otevřená diskuse.",
+      "title_en": "Ústí city councilors will likely vote on the abolition of city districts. The opposition led by ANO is against it",
+      "lead_en": "On December 14, Ústí city councilors will vote at a separate session on the intention to unify the administration of city districts under the city hall. In individual districts, local commissions should be established instead of district administrations to forward residents' suggestions to the city hall. The opposition movement ANO opposes the planned change, stating that it should be preceded by an open discussion.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 24,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "coalition",
+          "political_parties",
+          "municipal_government"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "coalition",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          },
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "municipal_government",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T11:27:43Z"
+    },
+    {
+      "id": "dc6490c0815b3372390ea51825d111a27f1c5672",
+      "fingerprint": "772f578dea22d509e09e7ba8dde5b7b618d73afd",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/domaci-do-voleb-pujdou-dva-velke-opozicni-bloky-rika-sokol-40610656",
+      "published_utc": "2026-11-28T09:37:31Z",
+      "collected_at_utc": "2026-11-28T11:27:39Z",
+      "title_raw": "Do voleb půjdou dva velké opoziční bloky, říká Sokol",
+      "lead_raw": "Návrh sloučit ODS s TOP 09 vyvolal v obou stranách debatu a našel své zastánce i odpůrce, popisuje poslanec a politolog Petr Sokol (ODS) v rozhovoru pro Novinky. Do příštích sněmovních voleb by se měly podle něj vytvořit dva velké opoziční bloky: jeden pravicový v čele s ODS a druhý levicovější se STAN.",
+      "title_en": "Two major opposition blocs will run in the elections, says Sokol",
+      "lead_en": "The proposal to merge ODS with TOP 09 sparked debate on both sides and found both supporters and opponents, describes MP and political scientist Petr Sokol (ODS) in an interview for Novinky. According to him, two large opposition blocs should be formed before the next parliamentary elections: one right-wing led by ODS and the other more left-wing with STAN.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 21,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "parliament",
+          "elections",
+          "political_parties"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "elections",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T11:27:43Z"
+    },
+    {
+      "id": "192b460af7b86c24c5d60a53f1874c2fd7de8158",
+      "fingerprint": "b3bb1bf0449b34943533360db1feb1716ba80244",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-lekari-pisi-vlade-kvuli-vyhlasce-odvratte-tuhle-katastrofu-rika-obezitolozka-321750",
+      "published_utc": "2026-11-28T09:26:45Z",
+      "collected_at_utc": "2026-11-28T11:27:40Z",
+      "title_raw": "Lékaři píší vládě kvůli vyhlášce. „Odvraťte tuhle katastrofu,“ říká obezitoložka",
+      "lead_raw": "Česká lékařská společnost J. E. Purkyně vyzývá vládu, aby zastavila projednávání vyhlášky o školním stravování. Lékaři žádají její dopracování. „Je rolí státu chránit zdraví dětí. Žádáme odbornou diskusi, “ říká expertka.",
+      "title_en": "Doctors are writing to the government about the decree. \"Avert this disaster,\" says an obesity specialist",
+      "lead_en": "The Czech Medical Society J. E. Purkyně is calling on the government to stop the discussion of the school catering decree. Doctors are calling for its revision. \"It is the role of the state to protect children's health. We are requesting a professional discussion,\" says the expert.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 12,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "government",
+          "regulations"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "regulations",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T11:27:43Z"
+    },
+    {
+      "id": "a6a9a3eb0db51e020a1434538d48a90550e34f61",
+      "fingerprint": "417824a072d508841977d0a99584e4ea70ea3f9e",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/doprava-pro-seniory-funguje-na-nekolika-mistech-pardubickeho-kraje-pristi-rok_2611280916_bod",
+      "published_utc": "2026-11-28T08:16:00Z",
+      "collected_at_utc": "2026-11-28T11:27:36Z",
+      "title_raw": "Doprava pro seniory funguje na několika místech Pardubického kraje. Příští rok přibude Chrudim",
+      "lead_raw": "V Chrudimi bude i příští rok jezdit dotovaná doprava pro seniory. Služba se podle radnice osvědčila a je o ni zájem. Provozovateli na ni proto přispěje víc než půl milionu korun.",
+      "title_en": "Senior transport operates at several locations in the Pardubice Region. Chrudim will be added next year",
+      "lead_en": "Subsidized transport for seniors will continue to operate in Chrudim next year as well. According to the town hall, the service has proven effective and is in demand. Therefore, the operator will contribute more than half a million crowns to it.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 2,
+        "domestic_politics": 6,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "currency"
+        ],
+        "domestic_politics": [
+          "municipal_government"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "municipal_government",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T11:27:43Z"
+    },
+    {
+      "id": "4a75e408ef7f32abbf4c13f09436b2b04ab911e5",
+      "fingerprint": "0f0c7fcd4910f49dd478e8e3c9dea595e1cf1324",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/porady-stastne-pondeli-jindricha-sidla-11-sezona-doksansky-je-dukazem-upadku-ano-ale-ne-kvuli-striptyzu-321678",
+      "published_utc": "2026-11-28T08:15:00Z",
+      "collected_at_utc": "2026-11-28T11:27:40Z",
+      "title_raw": "Šťastné slovo: Doksanský je důkazem úpadku ANO. Ale ne kvůli striptýzu",
+      "lead_raw": "Hradecký poslanec Denis Doksanský je mužskou verzí ministryně pro místní rozvoj Zuzany Mrázové. Ukazuje nám, jaké kvalifikační předpoklady jsou dnes v hnutí ANO požadované pro strmý kariérní růst.",
+      "title_en": "Happy word: Doksanský is proof of ANO's decline. But not because of striptease",
+      "lead_en": "Denis Doksanský, a member of parliament from Hradec Králové, is the male version of the Minister for Regional Development, Zuzana Mrázová. He shows us what qualification qualifications are required today in the ANO movement for rapid career growth.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 11,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "political_parties",
+          "leadership"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T11:27:43Z"
+    },
+    {
+      "id": "961f3f3129afe10bb0eefee9f81d61e8a326908a",
+      "fingerprint": "c6e8c44df957f5e474005ef4113300be9799b847",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/podcasty-politalk-jednani-s-babisem-jsou-vecna-ne-pratelska-rika-prezident-pavel-40610898",
+      "published_utc": "2026-11-28T07:00:58Z",
+      "collected_at_utc": "2026-11-28T11:27:39Z",
+      "title_raw": "Jednání s Babišem jsou věcná, ne přátelská, říká prezident Pavel",
+      "lead_raw": "Rok 2027 bude kvůli rostoucím cenám energií a potravin těžký, očekává prezident Petr Pavel. Plošná opatření vlády a rostoucí deficit označuje za hazard. Vyzývá také k jednoznačné reakci NATO na ruské provokace i na případný omezený útok na území některého z členů. „Jinak by aliance velice rychle ztratila smysl a celý systém by se zhroutil jako domeček z karet,“ říká hlava státu v podcastu PoliTalk.",
+      "title_en": "Negotiations with Babiš are factual, not friendly, says President Pavel",
+      "lead_en": "President Petr Pavel expects 2027 to be difficult due to rising energy and food prices. He calls the government's blanket measures and the growing deficit a gamble. He also calls for a clear NATO response to Russian provocations and to a possible limited attack on the territory of any member. \"Otherwise, the alliance would very quickly lose its meaning and the whole system would collapse like a house of cards,\" says the head of state in the PoliTalk podcast.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 6,
+        "economy": 0,
+        "domestic_politics": 16,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "nato"
+        ],
+        "energy": [
+          "energy_prices"
+        ],
+        "economy": [],
+        "domestic_politics": [
+          "government",
+          "czech_leaders",
+          "leadership"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "nato",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [
+          {
+            "concept": "energy_prices",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "government",
+            "strength": 2,
+            "headline": false,
+            "lead": true,
+            "points": 4
+          },
+          {
+            "concept": "czech_leaders",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": true,
+            "lead": true,
+            "points": 3
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "energy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T11:27:43Z"
+    },
+    {
+      "id": "16c9f356c905436b6bdb04fe4c03a576605156bf",
+      "fingerprint": "82fd35e8fcc36c68bba28677ead2c9fa35caf620",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/tydenik-irozhlasu-ano-opousti-radnice-miliardova-zakazka-pro-gripeny-a-trumpovi_2611280800_nob",
+      "published_utc": "2026-11-28T07:00:00Z",
+      "collected_at_utc": "2026-11-28T11:27:36Z",
+      "title_raw": "Týdeník iROZHLASu: ANO opouští radnice, miliardová zakázka pro gripeny a Trumpovi vyslanci pro všechno",
+      "lead_raw": "Proměny politických spojenectví v Česku i v zahraničí, budoucnost českého vojenského letectva a perspektivy dalšího rozšiřování Evropské unie. To jsou některá z témat, kterým se tento týden věnovala redakce iROZHLAS.cz. V našem pravidelném sobotním přehledu vám nabízíme výběr z analýz, rozhovorů a původních zjištění našich redaktorů.",
+      "title_en": "iROZHLAS Weekly: ANO leaves town halls, billion-euro contract for Gripens and Trump envoys for everything",
+      "lead_en": "Transformations of political alliances in the Czech Republic and abroad, the future of the Czech Air Force, and the prospects for further European Union enlargement. These are some of the topics covered this week by the iROZHLAS.cz editorial team. In our regular Saturday overview, we offer you a selection of analyses, interviews, and original findings from our editors.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 18,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "military_activity"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "political_parties",
+          "municipal_government"
+        ],
+        "foreign_affairs": [
+          "eu_policy"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          },
+          {
+            "concept": "municipal_government",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "foreign_affairs": [
+          {
+            "concept": "eu_policy",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "domestic_politics",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "domestic_politics",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T11:27:43Z"
+    },
+    {
+      "id": "0810e0b5ddd617f84492c809002b90e0086a7120",
+      "fingerprint": "9d1da902ba32851df78799fff36da589d9f2da5e",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/firma-vlivnych-ceskych-byznysmenu-obzalovana-z-uniku-za-miliardu-chtela-fuzovat_2611280500_hrk",
+      "published_utc": "2026-11-28T04:00:00Z",
+      "collected_at_utc": "2026-11-28T11:27:36Z",
+      "title_raw": "Firma vlivných českých byznysmenů obžalovaná z úniku za miliardu chtěla fúzovat, soud to zarazil",
+      "lead_raw": "Jedna z největších odpadových firem v Česku, AVE CZ, chtěla fúzovat s jednou ze svých dceřiných společností. O sloučení usilovala poté, co ji Vrchní státní zastupitelství v Praze obžalovalo z daňového úniku ve výši téměř miliardy korun. Krajský soud v Praze spojení firem nepovolil. Web iROZHLAS.cz popisuje podrobnosti. V AVE CZ mají významné podíly miliardáři Daniel Křetínský či Karel Pražák.",
+      "title_en": "A company of influential Czech businessmen accused of a billion-euro leak wanted to merge, but the court stopped it",
+      "lead_en": "One of the largest waste companies in the Czech Republic, AVE CZ, wanted to merge with one of its subsidiaries. It sought the merger after the High Public Prosecutor's Office in Prague charged it with tax evasion amounting to nearly one billion crowns. The Regional Court in Prague did not approve the merger of the companies. The website iROZHLAS.cz describes the details. Billionaires Daniel Křetínský and Karel Pražák hold significant stakes in AVE CZ.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 8,
+        "domestic_politics": 6,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "taxation",
+          "currency"
+        ],
+        "domestic_politics": [
+          "municipal_government"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "taxation",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [
+          {
+            "concept": "municipal_government",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T11:27:44Z"
+    },
     {
       "id": "28978950d654caa9bc34a60ed80c1d85693572ab",
       "fingerprint": "e4d4325c46c32a488502d49ee9831f00f98bfca1",
@@ -5937,1743 +6602,6 @@
       "primary_topic": "domestic_politics",
       "classification_version": 5,
       "translated_at_utc": "2026-11-26T18:53:36Z"
-    },
-    {
-      "id": "6f0daaa5c4d1f64606574070e7c19596a2bcf9a8",
-      "fingerprint": "08327dd9e3ec4457f240a0e49c451c068101d896",
-      "source": "České noviny / ČTK - Czech Republic",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/cr-by-nemela-blokovat-pomoc-ukrajine-skrze-rozpocet-eu-mini-pavel/2907031",
-      "published_utc": "2026-11-26T11:00:00Z",
-      "collected_at_utc": "2026-11-26T18:52:28Z",
-      "title_raw": "ČR by neměla blokovat pomoc Ukrajině skrze rozpočet EU, míní Pavel",
-      "lead_raw": "Praha - Česká republika by neměla být v malé skupince zemí, která bude blokovat pomoc Ukrajině i prostřednictvím rozpočtu Evropské unie. Při odchodu ze Senátu to dnes novinářům řekl prezident Petr Pavel....",
-      "title_en": "The Czech Republic should not block aid to Ukraine through the EU budget, Pavel believes",
-      "lead_en": "Prague - The Czech Republic should not be among the small group of countries that will block aid to Ukraine even through the European Union budget. President Petr Pavel told journalists this today upon leaving the Senate....",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 12,
-        "domestic_politics": 8,
-        "foreign_affairs": 18,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "eu_budget",
-          "generic_budget"
-        ],
-        "domestic_politics": [
-          "parliament",
-          "leadership"
-        ],
-        "foreign_affairs": [
-          "eu_policy",
-          "ukraine"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "eu_budget",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "generic_budget",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
-          }
-        ],
-        "domestic_politics": [
-          {
-            "concept": "parliament",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "leadership",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "ukraine",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "economy",
-        "domestic_politics",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "foreign_affairs",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T18:53:36Z"
-    },
-    {
-      "id": "445d82e1368ea99b91745ad6a6b6c23736d045dc",
-      "fingerprint": "602f5fde1cdefd624da113afe854c188f38edafb",
-      "source": "České noviny / ČTK - Czech Republic",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/pavel-cesko-potrebuje-obsadit-post-poradce-pro-narodni-bezpecnost/2907025",
-      "published_utc": "2026-11-26T10:54:00Z",
-      "collected_at_utc": "2026-11-26T18:52:28Z",
-      "title_raw": "Pavel: Česko potřebuje obsadit post poradce pro národní bezpečnost",
-      "lead_raw": "Praha - Česko podle prezidenta Petra Pavla potřebuje obsadit funkci poradce pro národní bezpečnost, aby mělo na jednáních se spojenci adekvátní zastoupení. Za nezbytnou považuje v nynější době i strategickou...",
-      "title_en": "Pavel: The Czech Republic needs to fill the position of National Security Advisor",
-      "lead_en": "Prague - According to President Petr Pavel, the Czech Republic needs to fill the position of national security advisor in order to have adequate representation in negotiations with allies. He currently considers strategic...",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 8,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          "czech_leaders",
-          "leadership"
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          {
-            "concept": "czech_leaders",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "leadership",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "domestic_politics"
-      ],
-      "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T18:53:36Z"
-    },
-    {
-      "id": "286941481c9542edac7481e1b9f2f43b9a278171",
-      "fingerprint": "a7e345580a393f2b175e74f0750bac55bf249cb5",
-      "source": "České noviny / ČTK - Czech Republic",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/opozice-ani-poseste-neprosadila-projednani-okamurova-odvolani-z-cela-snemovny/2906830",
-      "published_utc": "2026-11-26T10:51:00Z",
-      "collected_at_utc": "2026-11-26T18:52:28Z",
-      "title_raw": "Opozice ani pošesté neprosadila projednání Okamurova odvolání z čela Sněmovny",
-      "lead_raw": "Praha - Sněmovní opozice dnes neprosadila ani pošesté doplnění programu nynější schůze o návrh na odvolání předsedy SPD Tomia Okamury z čela dolní komory. Opoziční poslanci mu vyčítají postup při úvodním...",
-      "title_en": "The opposition failed for the sixth time to pass the discussion of Okamura's dismissal from the Chamber of Deputies",
-      "lead_en": "Prague - The parliamentary opposition today failed to pass even the sixth amendment to the current session's agenda with a proposal to dismiss SPD chairman Tomio Okamura from the head of the lower chamber. Opposition MPs reproach him for his approach during the initial...",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 33,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          "parliament",
-          "coalition",
-          "political_parties",
-          "czech_leaders"
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          {
-            "concept": "parliament",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "coalition",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "political_parties",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "czech_leaders",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "domestic_politics"
-      ],
-      "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T18:53:36Z"
-    },
-    {
-      "id": "63b38d3a3784360c04f54d635093473a207862aa",
-      "fingerprint": "70f8018a37dfc16b5694cd0530604beeb6166a80",
-      "source": "Radio Prague International (EN)",
-      "source_language": "en",
-      "url": "https://english.radio.cz/babis-brussels-funding-ukraine-must-not-come-eu-budget-8903662",
-      "published_utc": "2026-11-26T10:19:00Z",
-      "collected_at_utc": "2026-11-26T18:52:34Z",
-      "title_raw": "Babiš in Brussels: Funding for Ukraine must not come from EU budget",
-      "lead_raw": "Babiš in Brussels: Funding for Ukraine must not come from EU budget",
-      "title_en": "Babiš in Brussels: Funding for Ukraine must not come from EU budget",
-      "lead_en": "Babiš in Brussels: Funding for Ukraine must not come from EU budget",
-      "translation_status": "not_required",
-      "translation_version": 0,
-      "validation_version": 0,
-      "translation_attempts": 0,
-      "translation_provider": null,
-      "translation_method": null,
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 12,
-        "domestic_politics": 9,
-        "foreign_affairs": 18,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "eu_budget",
-          "generic_budget"
-        ],
-        "domestic_politics": [
-          "czech_leaders"
-        ],
-        "foreign_affairs": [
-          "eu_policy",
-          "ukraine"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "eu_budget",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "generic_budget",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
-          }
-        ],
-        "domestic_politics": [
-          {
-            "concept": "czech_leaders",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "ukraine",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "economy",
-        "domestic_politics",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "foreign_affairs",
-      "classification_version": 5
-    },
-    {
-      "id": "1b7a78cebeeefb499d4d059ca98ced82fa5b0acf",
-      "fingerprint": "4789cbd40291eb7eac08061382e288d5a02d9232",
-      "source": "České noviny / ČTK - Czech Republic",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/zive-pavel-v-senatu-cesku-chybi-revize-krizove-legislativy/2906130",
-      "published_utc": "2026-11-26T10:18:00Z",
-      "collected_at_utc": "2026-11-26T18:52:28Z",
-      "title_raw": "ŽIVĚ: Pavel v Senátu: Česku chybí revize krizové legislativy",
-      "lead_raw": "Česku chybí revize krizové legislativy, ta současná už neodpovídá stávajícím hrozbám. Na dnešním veřejném slyšení v Senátu to řekl prezident Petr Pavel. Země podle něj není připravená reagovat dostatečně...",
-      "title_en": "LIVE: Pavel in the Senate: The Czech Republic lacks a revision of crisis legislation",
-      "lead_en": "The Czech Republic lacks a revision of crisis legislation; the current one no longer corresponds to existing threats. President Petr Pavel said this at today's public hearing in the Senate. According to him, the country is not prepared to respond sufficiently...",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 11,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          "parliament",
-          "leadership"
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          {
-            "concept": "parliament",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "leadership",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "domestic_politics"
-      ],
-      "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T18:53:36Z"
-    },
-    {
-      "id": "9baa6d97a1e117798d5f7bb8c4a744dbc00f8ba6",
-      "fingerprint": "091c1e3ebdeba2b19f6728ad89660bf14c95b05c",
-      "source": "ČT24",
-      "source_language": "cs",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/vlada-nedela-cesku-dobre-jmeno-rika-o-unijni-rezoluci-kolar-aktivisticky-text-namita-knotek-379962",
-      "published_utc": "2026-11-26T09:30:53Z",
-      "collected_at_utc": "2026-11-26T18:52:29Z",
-      "title_raw": "Vláda nedělá Česku dobré jméno, říká o unijní rezoluci Kolář. Aktivistický text, namítá Knotek",
-      "lead_raw": "Evropský parlament vyzval českou vládu, aby nový systém financování České televize a Českého rozhlasu řešila v souladu s unijním právem. Europoslanci přijali rezoluci, ve které po kabinetu Andreje Babiše (ANO) požadují „předvídatelné financování i pojistky proti politickým zásahům v obou institucích“. Podle europoslance Ondřeje Knotka (ANO) jde o právně nezávaznou rezoluci, její text vnímá jako aktivistický. „Vezme se a nasměruje se všechno negativní, co se dá posbírat na tu danou vládu,“ prohlásil. Europoslanec Ondřej Kolář (TOP 09) naopak soudí, že to dokazuje, že „máme vládu, která nedělá České republice dobré jméno“. Netěší jej prý to, že musí být Česko pod drobnohledem, Evropská komise dle něj proces velmi bedlivě sleduje. Diskusí v Událostech, komentářích provázel Lukáš Dolanský.",
-      "title_en": "The government is not doing the Czech Republic any good, says Kolář about the EU resolution. Activist text, objects Knotek",
-      "lead_en": "The European Parliament has called on the Czech government to address the new financing system for Czech Television and Czech Radio in accordance with EU law. MEPs adopted a resolution demanding from Andrej Babiš's (ANO) cabinet \"predictable funding and safeguards against political interference in both institutions.\" According to MEP Ondřej Knotek (ANO), this is a legally non-binding resolution, and he views its text as activist. \"It will be taken and directed at all the negative that can be gathered on that government,\" he declared. MEP Ondřej Kolář (TOP 09), on the other hand, believes this proves that \"we have a government that does not do the Czech Republic any good.\" He says he is not pleased that the Czech Republic has to be under close scrutiny; the European Commission is closely monitoring the process. The discussion in Události and komentáře was hosted by Lukáš Dolanský.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "domestic_politics": 24,
-        "foreign_affairs": 6,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "currency"
-        ],
-        "domestic_politics": [
-          "parliament",
-          "government",
-          "political_parties",
-          "czech_leaders"
-        ],
-        "foreign_affairs": [
-          "eu_policy"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "currency",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "domestic_politics": [
-          {
-            "concept": "parliament",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "government",
-            "strength": 2,
-            "headline": true,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "political_parties",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "czech_leaders",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "domestic_politics",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T18:53:36Z"
-    },
-    {
-      "id": "6d9a718827267d7f1c41ff851ba0f2f11f62cd03",
-      "fingerprint": "b0e7b7861e10eb109cc860efd0b52d43c7adda8d",
-      "source": "České noviny / ČTK - Czech Republic",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/berbr-ma-mirnejsi-podminku-za-zproneveru-ve-fotbale-rogoz-vezeni-na-25-roku/2899803",
-      "published_utc": "2026-11-26T09:19:00Z",
-      "collected_at_utc": "2026-11-26T18:52:28Z",
-      "title_raw": "Berbr má mírnější podmínku za zpronevěru ve fotbale, Rogoz vězení na 2,5 roku",
-      "lead_raw": "Plzeň - Bývalý místopředseda Fotbalové asociace ČR (FAČR) Roman Berbr trest za fotbalovou korupci nedostane. Odvolací soud v Plzni ho dnes potrestal podmínkou za zpronevěru peněz Plzeňského krajského...",
-      "title_en": "Berbr receives a lighter probation for embezzlement in football, Rogoz faces 2.5 years in prison",
-      "lead_en": "Plzeň - Former vice-chairman of the Football Association of the Czech Republic (FAČR), Roman Berbr, will not receive a sentence for football corruption. The appellate court in Plzeň sentenced him today to a suspended sentence for embezzlement of funds from the Plzeň Regional Committee...",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 6,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          "corruption"
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          {
-            "concept": "corruption",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "domestic_politics"
-      ],
-      "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T18:53:36Z"
-    },
-    {
-      "id": "a936aaab6738c5f3a9f6a90ade607d709f0f0f83",
-      "fingerprint": "1f3171e923d871314947acc5d227fe069cfbffcc",
-      "source": "ČT24",
-      "source_language": "cs",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/zacina-mimoradny-summit-eu-staty-se-prou-o-dlouhodoby-rozpocet-379966",
-      "published_utc": "2026-11-26T09:14:12Z",
-      "collected_at_utc": "2026-11-27T03:32:06Z",
-      "title_raw": "Lídři EU na summitu k dohodě o rozpočtu nedospěli, oznámil Costa",
-      "lead_raw": "V Bruselu probíhal mimořádný summit Evropské unie, kde se jednalo o klíčových konturách rozpočtu bloku na roky 2028 až 2034. Dohody o budoucím dlouholetém rozpočtu EU nebylo dosaženo. Možnou dohodu komplikoval i spor o finanční podporu Ukrajiny. Novou půjčku pro Ukrajinu v hodnotě 45 miliard eur (zhruba 1,1 bilionu korun) podpořilo na summitu EU 24 zemí, oznámil po jednání předseda Evropské rady António Costa. Premiér Andrej Babiš (ANO) řekl, že podle něj nelze spojovat financování Kyjeva s rozpočtem Unie.",
-      "title_en": "EU leaders did not reach a budget agreement at the summit, Costa announced",
-      "lead_en": "An extraordinary European Union summit took place in Brussels, discussing the key outlines of the bloc's budget for 2028 to 2034. No agreement was reached on the future long-term EU budget. A possible agreement was further complicated by a dispute over financial support for Ukraine. A new loan for Ukraine worth 45 billion euros (approximately 1.1 trillion CZK) was supported at the EU summit by 24 countries, announced European Council President António Costa after the meeting. Prime Minister Andrej Babiš (ANO) said that, in his view, financing Kyiv cannot be linked to the Union's budget.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 11,
-        "military": 0,
-        "energy": 0,
-        "economy": 11,
-        "domestic_politics": 14,
-        "foreign_affairs": 15,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [
-          "international_summits",
-          "negotiations"
-        ],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "eu_budget",
-          "currency",
-          "generic_budget"
-        ],
-        "domestic_politics": [
-          "political_parties",
-          "czech_leaders",
-          "leadership"
-        ],
-        "foreign_affairs": [
-          "eu_policy",
-          "ukraine"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [
-          {
-            "concept": "international_summits",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "negotiations",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "eu_budget",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "currency",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          },
-          {
-            "concept": "generic_budget",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
-          }
-        ],
-        "domestic_politics": [
-          {
-            "concept": "political_parties",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "czech_leaders",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "leadership",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "ukraine",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "diplomacy",
-        "economy",
-        "domestic_politics",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "foreign_affairs",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-27T03:32:13Z"
-    },
-    {
-      "id": "8fd67f57a11299f625e8c24c88b3cc432f1317da",
-      "fingerprint": "ea4bcf1801872c5d6a613d2f63815c6d6374434a",
-      "source": "Seznam Zprávy",
-      "source_language": "cs",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-finance-babis-potrebujeme-penize-na-dalnice-pomoc-ukrajine-do-rozpoctu-eu-nepatri-321566",
-      "published_utc": "2026-11-26T08:52:32Z",
-      "collected_at_utc": "2026-11-26T18:52:31Z",
-      "title_raw": "Babiš: Potřebujeme peníze na dálnice, pomoc Ukrajině do rozpočtu EU nepatří",
-      "lead_raw": "Český premiér Andrej Babiš dnes při příchodu na summit EU zopakoval názor, že nelze spojovat financování Ukrajiny s dlouhodobým rozpočtem Unie.",
-      "title_en": "Babiš: We need money for highways, aid to Ukraine does not belong in the EU budget",
-      "lead_en": "Czech Prime Minister Andrej Babiš reiterated today, upon arriving at the EU summit, the view that financing Ukraine cannot be linked to the Union's long-term budget.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 6,
-        "military": 0,
-        "energy": 0,
-        "economy": 12,
-        "domestic_politics": 11,
-        "foreign_affairs": 18,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [
-          "international_summits"
-        ],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "eu_budget",
-          "generic_budget"
-        ],
-        "domestic_politics": [
-          "czech_leaders",
-          "leadership"
-        ],
-        "foreign_affairs": [
-          "eu_policy",
-          "ukraine"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [
-          {
-            "concept": "international_summits",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "eu_budget",
-            "strength": 3,
-            "headline": true,
-            "lead": false,
-            "points": 9
-          },
-          {
-            "concept": "generic_budget",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
-          }
-        ],
-        "domestic_politics": [
-          {
-            "concept": "czech_leaders",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "leadership",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "foreign_affairs": [
-          {
-            "concept": "eu_policy",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "ukraine",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "diplomacy",
-        "economy",
-        "domestic_politics",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "foreign_affairs",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T18:53:37Z"
-    },
-    {
-      "id": "bc2f6418662620baaf769d94798ad706ab54b2ba",
-      "fingerprint": "990fb4e11a38ac3c878173f130356907c5948b7d",
-      "source": "ČT24",
-      "source_language": "cs",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/berbr-trest-za-fotbalovou-korupci-nedostane-rozhodl-odvolaci-soud-379968",
-      "published_utc": "2026-11-26T08:36:07Z",
-      "collected_at_utc": "2026-11-26T18:52:29Z",
-      "title_raw": "Berbr trest za fotbalovou korupci nedostane, rozhodl odvolací soud",
-      "lead_raw": "Bývalý místopředseda Fotbalové asociace ČR (FAČR) Roman Berbr trest za fotbalovou korupci nedostane. Odvolací soud v Plzni ho ve čtvrtek potrestal podmínkou za zpronevěru, kterou mu zmírnil. Bývalému sportovnímu řediteli fotbalového klubu Slavoj Vyšehrad Romanu Rogozovi zkrátil soud vězení za úplatkářství na 2,5 roku, snížil mu i pokutu. Šest původně odsouzených fotbalových rozhodčích či delegátů zprostil soud obžaloby. Rozsudek je pravomocný, lze proti němu podat pouze dovolání.",
-      "title_en": "Berbr will not receive a penalty for football corruption, the appellate court decided",
-      "lead_en": "Former vice-chairman of the Football Association of the Czech Republic (FAČR), Roman Berbr, will not receive a sentence for football corruption. The appellate court in Plzeň sentenced him on Thursday to a suspended sentence for embezzlement, which was mitigated. The court reduced the prison sentence of former sports director of the football club Slavoj Vyšehrad, Roman Rogoz, to 2.5 years for bribery and also reduced his fine. The court acquitted six originally convicted football referees or delegates. The verdict is final and can only be appealed.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 9,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          "corruption"
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          {
-            "concept": "corruption",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "domestic_politics"
-      ],
-      "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T18:53:37Z"
-    },
-    {
-      "id": "8e53cd0481749faec842c4e2684eb69e2ad0e8aa",
-      "fingerprint": "8376dc40854ca231e16813430008bd41f0c26ce4",
-      "source": "ČT24",
-      "source_language": "cs",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/poslanci-by-se-meli-zabyvat-platformovou-praci-a-podporami-v-nezamestnanosti-379965",
-      "published_utc": "2026-11-26T08:00:54Z",
-      "collected_at_utc": "2026-11-27T03:32:06Z",
-      "title_raw": "Sněmovna zřejmě zmírní navrhované snížení podpor v nezaměstnanosti",
-      "lead_raw": "Sněmovna zřejmě zmírní navrhované snížení podpor v nezaměstnanosti. Z novely zákoníku práce dolní komora navíc vyškrtne nové vymezení zaměstnání, jež by podle kritiků mohlo vést k legalizaci takzvaného švarcsystému. Úpravy vládní novely zákoníku práce předpokládají pozměňovací návrhy, které podali koaliční poslanci. Druhé sněmovní čtení vyplnilo tři a půl hodiny a protáhlo se přes půlnoc na pátek.",
-      "title_en": "The Chamber will likely ease the proposed reduction in unemployment benefits",
-      "lead_en": "The Chamber will likely ease the proposed reduction in unemployment benefits. Moreover, the lower chamber will remove the new definition of employment from the Labor Code amendment, which critics say could lead to the legalization of the so-called disguised employment system. The amendments to the government's Labor Code amendment include amendments submitted by coalition MPs. The second Chamber reading lasted three and a half hours and extended past midnight into Friday.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 15,
-        "domestic_politics": 19,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "unemployment",
-          "labor_market"
-        ],
-        "domestic_politics": [
-          "parliament",
-          "government",
-          "legislation"
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "unemployment",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "labor_market",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "domestic_politics": [
-          {
-            "concept": "parliament",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "government",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          },
-          {
-            "concept": "legislation",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "economy",
-        "domestic_politics"
-      ],
-      "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-27T03:32:13Z"
-    },
-    {
-      "id": "80ff41c8cd935d086f55106b1ba7a0160a945e57",
-      "fingerprint": "71a414953f8bd1755ba6a1c59a5a5d5db4f542dd",
-      "source": "ČT24",
-      "source_language": "cs",
-      "url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/zadluzovani-postupne-poroste-varuje-kovarova-dle-pikory-by-mensi-deficit-slusel-379960",
-      "published_utc": "2026-11-26T07:27:20Z",
-      "collected_at_utc": "2026-11-26T18:52:29Z",
-      "title_raw": "Zadlužování postupně poroste, varuje Kovářová. Dle Pikory by menší deficit „slušel“",
-      "lead_raw": "Poslanci ve druhém čtení probírali návrhy na změny ve státním rozpočtu na příští rok. Koalice plánuje schodek 386 miliard korun, zvýšit by se měly výdaje ministerstva obrany, na platy státních zaměstnanců či důchody. Opozice návrh rozpočtu během projednávání opakovaně kritizovala. Místopředsedkyně sněmovního rozpočtového výboru Věra Kovářová (STAN) připomněla, že vláda v programovém prohlášení slibovala snižování schodků veřejných financí. Zadlužování bude podle ní postupně narůstat, kritizovala také zvyšování výdajů na obsluhu státního dluhu. Předseda téhož výboru Vladimír Pikora (Motoristé) tvrdí, že by tuzemské ekonomice „slušelo, kdyby měla deficit výrazně menší“. ve třetím čtení prý návrh rozpočtu i tak podpoří, chce prý zachovat stabilitu vlády. Debatou v Událostech, komentářích provázel Lukáš Dolanský.",
-      "title_en": "Borrowing will gradually increase, warns Kovářová. According to Pikora, a smaller deficit would \"suit me\"",
-      "lead_en": "In the second reading, MPs discussed proposals for changes to the state budget for next year. The coalition plans a deficit of 386 billion crowns, with increased spending on the Ministry of Defense's salaries and pensions. The opposition repeatedly criticized the budget proposal during the discussion. Deputy chairwoman of the parliamentary budget committee Věra Kovářová (STAN) reminded that the government promised to reduce public finance deficits in its program declaration. According to her, borrowing will gradually increase and also criticized the increase in expenditures on servicing the state debt. The chairman of the same committee, Vladimír Pikora (Motorists), claims that the domestic economy \"would benefit from having a significantly smaller deficit.\" In the third reading, he said he would support the budget proposal anyway, aiming to maintain government stability. The debate on Události, komentáře was hosted by Lukáš Dolanský.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 6,
-        "energy": 0,
-        "economy": 22,
-        "domestic_politics": 22,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "defense_ministry"
-        ],
-        "energy": [],
-        "economy": [
-          "government_budget",
-          "public_finances",
-          "government_debt",
-          "currency",
-          "generic_budget"
-        ],
-        "domestic_politics": [
-          "parliament",
-          "government",
-          "coalition",
-          "political_parties"
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "defense_ministry",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "government_budget",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "public_finances",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "government_debt",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "currency",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          },
-          {
-            "concept": "generic_budget",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "domestic_politics": [
-          {
-            "concept": "parliament",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "government",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          },
-          {
-            "concept": "coalition",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "political_parties",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "military",
-        "economy",
-        "domestic_politics"
-      ],
-      "relevant": true,
-      "primary_topic": "economy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T18:53:37Z"
-    },
-    {
-      "id": "d73a130ccc9ce3f8e7ae27399e480a208727a7e8",
-      "fingerprint": "3b6f0cd60c6761f4a802807f9466224e0bf1bd08",
-      "source": "Seznam Zprávy",
-      "source_language": "cs",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-poslanci-prednesli-navrhy-k-rozpoctu-presunout-chteji-pres-380-miliard-321550",
-      "published_utc": "2026-11-26T05:41:28Z",
-      "collected_at_utc": "2026-11-26T07:23:07Z",
-      "title_raw": "Poslanci přednesli návrhy k rozpočtu, přesunout chtějí přes 380 miliard",
-      "lead_raw": "Druhé čtení rozpočtu přineslo skoro 150 pozměňovacích návrhů na přesuny peněz. Peníze chtějí poslanci přidávat do školství, na sociální služby, podporu dostupného bydlení, obranu nebo bezpečnost.",
-      "title_en": "MPs presented budget proposals, aiming to transfer over 380 billion",
-      "lead_en": "The second reading of the budget brought nearly 150 amendments for fund transfers. MPs want to add money to education, social services, support for affordable housing, defense, or security.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 3,
-        "domestic_politics": 15,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "generic_budget"
-        ],
-        "domestic_politics": [
-          "parliament",
-          "legislation"
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "generic_budget",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
-          }
-        ],
-        "domestic_politics": [
-          {
-            "concept": "parliament",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "legislation",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "domestic_politics"
-      ],
-      "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T07:23:10Z"
-    },
-    {
-      "id": "a63a347d09c721bd754e7db1b0242f53ba5e81e1",
-      "fingerprint": "5f6354cb1494f848267eb007fa3201a533696b42",
-      "source": "Seznam Zprávy",
-      "source_language": "cs",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-politika-kdybyste-pracovali-poradne-nemusime-mrznout-na-namestich-celil-vytkam-rakusan-321546",
-      "published_utc": "2026-11-26T05:30:00Z",
-      "collected_at_utc": "2026-11-26T07:23:07Z",
-      "title_raw": "Kdybyste pracovali pořádně, nemusíme mrznout na náměstích, čelil výtkám Rakušan",
-      "lead_raw": "„Jsem na vás strašně naštvaná, měli jste čtyři roky. Jak je možné, že je tam zase Babiš?“ I takové výtky si vyslechl šéf STAN Vít Rakušan v Olomouci. Když ale sliboval porážku ANO, lidé mu tleskali. Ve středu završil sérii debat.",
-      "title_en": "If you worked properly, we wouldn't have to freeze in the squares, faced criticism from the Austrian",
-      "lead_en": "\"I'm terribly angry at you, you were four years old. How is it possible that Babiš is there again?\" Such criticisms were heard by STAN leader Vít Rakušan in Olomouc. But when he promised ANO's defeat, people applauded him. On Wednesday, he concluded a series of debates.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 12,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          "political_parties",
-          "czech_leaders"
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          {
-            "concept": "political_parties",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "czech_leaders",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "domestic_politics"
-      ],
-      "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T07:23:10Z"
-    },
-    {
-      "id": "f153414c3c0a78815afc3a114f80f42907cdc247",
-      "fingerprint": "1ff3d763bca6b157361df1c2c1e882afcb6d6cf4",
-      "source": "Radio Prague International (EN)",
-      "source_language": "en",
-      "url": "https://english.radio.cz/senate-rejects-sporting-events-involving-russian-and-belarusian-teams-czechia-8903620",
-      "published_utc": "2026-11-26T05:25:00Z",
-      "collected_at_utc": "2026-11-26T07:23:09Z",
-      "title_raw": "Senate rejects sporting events involving Russian and Belarusian teams in Czechia",
-      "lead_raw": "Senate rejects sporting events involving Russian and Belarusian teams in Czechia",
-      "title_en": "Senate rejects sporting events involving Russian and Belarusian teams in Czechia",
-      "lead_en": "Senate rejects sporting events involving Russian and Belarusian teams in Czechia",
-      "translation_status": "not_required",
-      "translation_version": 0,
-      "validation_version": 0,
-      "translation_attempts": 0,
-      "translation_provider": null,
-      "translation_method": null,
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 9,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          "parliament"
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          {
-            "concept": "parliament",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "domestic_politics"
-      ],
-      "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 5
-    },
-    {
-      "id": "80315548857ee0216e1d39160f085126c967fcb2",
-      "fingerprint": "001cd7ec394d628d627ccc034d0eeb4113de14b2",
-      "source": "iROZHLAS - Domestic",
-      "source_language": "cs",
-      "url": "https://www.irozhlas.cz/zpravy-domov/kazdou-nedeli-chodi-na-pivo-a-veceri-v-zahranicni-politice-ale-mezi-macinkou-a_2611260620_jgr",
-      "published_utc": "2026-11-26T05:20:00Z",
-      "collected_at_utc": "2026-11-26T07:23:01Z",
-      "title_raw": "Každou neděli chodí na pivo a večeři, v zahraniční politice ale mezi Macinkou a Okamurou selanka nepanuje",
-      "lead_raw": "ANO, SPD a Motoristé sobě tvoří už více než rok koalici a brzy oslaví i první výročí vlády. A přestože mají na dílčí ekonomická či sociální témata rozdílný pohled, jejich spojenectví dál pevně drží. V poslední době ale opět vyhřezly zahraničněpolitické nesoulady, především mezi předsedy menších koaličních stran, Petrem Macinkou (Motoristé) a Tomiem Okamurou (SPD). Oba však ujišťují, že jinak je vše zalité sluncem.",
-      "title_en": "Every Sunday he goes for a beer and dinner, but in foreign policy, there is no idyll between Macinka and Okamura",
-      "lead_en": "ANO, SPD, and Motorists have been forming a coalition for over a year and will soon celebrate their first anniversary of government. And although they have differing views on some economic or social issues, their alliance remains firmly held. Recently, foreign policy disagreements have emerged again, especially among the leaders of smaller coalition parties, Petr Macinka (Motorists) and Tomio Okamura (SPD). Both, however, assure that otherwise everything is sunshine.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 25,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          "government",
-          "coalition",
-          "political_parties",
-          "czech_leaders"
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          {
-            "concept": "government",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          },
-          {
-            "concept": "coalition",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "political_parties",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "czech_leaders",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "domestic_politics"
-      ],
-      "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T07:23:10Z"
-    },
-    {
-      "id": "6b1513b3ab18291dbc76d1fac8d3f6afc0eb8b05",
-      "fingerprint": "d792a0d09152fe3928f420d553b81c4d21b2b93a",
-      "source": "Seznam Zprávy",
-      "source_language": "cs",
-      "url": "https://www.seznamzpravy.cz/clanek/audio-podcast-5-59-zlehcovani-i-obhajoba-co-rikaji-politici-na-neonacismus-3-0-v-cesku-321470",
-      "published_utc": "2026-11-26T04:59:00Z",
-      "collected_at_utc": "2026-11-26T07:23:07Z",
-      "title_raw": "Zlehčování i obhajoba. Co říkají politici na neonacismus 3.0 v Česku",
-      "lead_raw": "Průnik do nitra neonacistické organizace Active Club ukázal také to, že mezi jejími členy jsou i lidé s kontakty na poslance vládní koalice. Investigativní reportéři Seznam Zpráv líčí podrobnosti svých zjištění i reakce politiků.",
-      "title_en": "Downplaying and defending. What politicians say about neo-Nazism 3.0 in the Czech Republic",
-      "lead_en": "The intrusion into the neo-Nazi organization Active Club also revealed that among its members are people with contacts to members of the ruling coalition deputies. Investigative reporters from Seznam Zprávy describe details of their findings and politicians' reactions.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 16,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          "parliament",
-          "government",
-          "coalition"
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          {
-            "concept": "parliament",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "government",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          },
-          {
-            "concept": "coalition",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "domestic_politics"
-      ],
-      "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T07:23:10Z"
-    },
-    {
-      "id": "40631c9756af919214de058736f4498715bf42d4",
-      "fingerprint": "5bfdd78e89ca6e52d7cad9d4ecbac79aa0a1c254",
-      "source": "iROZHLAS - Domestic",
-      "source_language": "cs",
-      "url": "https://www.irozhlas.cz/zpravy-domov/zvitezily-parky-mural-nebo-unikova-hra-v-liberci-hlasovali-do-kterych-projektu_2611260555_aha",
-      "published_utc": "2026-11-26T04:55:00Z",
-      "collected_at_utc": "2026-11-26T07:23:01Z",
-      "title_raw": "Zvítězily parky, mural nebo úniková hra. V Liberci hlasovali, do kterých projektů se bude investovat",
-      "lead_raw": "V Liberci vzniknou nové parky, mural a také úniková hra. Jde o projekty, které zvítězily v letošním participativním rozpočtu. Obyvatelé měli na výběr z 24 návrhů. Peníze nakonec magistrát rozdělí mezi devět z nich.",
-      "title_en": "Parks, a mural, and an escape room won. In Liberec, they voted on which projects will be invested in",
-      "lead_en": "New parks, a mural, and also an escape room will be created in Liberec. These are projects that won this year's participatory budget. Residents had a choice of 24 proposals. The city hall will ultimately distribute the money among nine of them.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 2,
-        "domestic_politics": 6,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "generic_budget"
-        ],
-        "domestic_politics": [
-          "municipal_government"
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "generic_budget",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "domestic_politics": [
-          {
-            "concept": "municipal_government",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "domestic_politics"
-      ],
-      "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T07:23:10Z"
-    },
-    {
-      "id": "ea76029858c5a5fd8c6326573d6a6844a89faaf8",
-      "fingerprint": "b824485e66ad3e0eefea4548469cfedb6acb460a",
-      "source": "Seznam Zprávy",
-      "source_language": "cs",
-      "url": "https://www.seznamzpravy.cz/clanek/domaci-kauzy-metnaruv-kabinet-ridi-duvernik-stb-tvrdi-ze-se-jen-bavil-se-sousedem-321491",
-      "published_utc": "2026-11-26T04:00:00Z",
-      "collected_at_utc": "2026-11-26T07:23:07Z",
-      "title_raw": "„Někdo něco naplácal,“ hájí se Metnarův šéf kabinetu. StB jej vedla jako důvěrníka",
-      "lead_raw": "Příběh Kamila Neuwirtha ukazuje, jak se lidé evidovaní StB stále mohou dostat do vysokých funkcí státní správy. Třeba být i pravou rukou ministra vnitra. Neuwirth se hájí čistým lustračním osvědčením i prověrkou na stupeň Tajné.",
-      "title_en": "\"Someone slapped something,\" defends Metnar's chief of staff. The StB listed him as a confidant",
-      "lead_en": "Kamil Neuwirth's story shows how people registered by the StB can still reach high positions in the state administration. For example, even being the right hand of the Minister of the Interior. Neuwirth defends himself with a clean lustration certificate and a clearance to the Secret level.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 8,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          "leadership",
-          "public_administration"
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          {
-            "concept": "leadership",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          },
-          {
-            "concept": "public_administration",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "domestic_politics"
-      ],
-      "relevant": true,
-      "primary_topic": "domestic_politics",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T07:23:10Z"
     }
   ],
   "topic": "domestic_politics"

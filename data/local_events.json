@@ -1,8 +1,8 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-28T01:14:32Z",
-  "count": 20,
+  "updated_at_utc": "2026-11-28T11:27:44Z",
+  "count": 16,
   "articles": [
     {
       "id": "fa13577b8d2d57cf7af378ce3afa19790530ac71",
@@ -133,6 +133,71 @@
       "primary_topic": "local_events",
       "classification_version": 5,
       "translated_at_utc": "2026-11-28T01:14:32Z"
+    },
+    {
+      "id": "10e1ff074a9620c7f13c84e9a51fcb642accc5bf",
+      "fingerprint": "b02bd058f6b0c2fa5a19ba9536c0ce7fde969b17",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/meteorologove-varuji-pred-ledovkou-na-jihu-a-jihozapade-cech-380024",
+      "published_utc": "2026-11-27T19:54:22Z",
+      "collected_at_utc": "2026-11-28T11:27:38Z",
+      "title_raw": "Meteorologové varují před ledovkou na jihu a jihozápadě Čech",
+      "lead_raw": "V jižních a jihozápadních Čechách se v pátek večer začala tvořit ledovka, která podle Českého hydrometeorologického ústavu (ČHMÚ) přetrvala přes noc a vydrží i v sobotu dopoledne. ČHMÚ už dříve varoval také před větrem s nárazy až sedmdesát kilometrů v hodině, který se může vyskytovat na severovýchodě země. V místech, kde sněžilo, se zároveň mohou tvořit sněhové jazyky. V noci na neděli pak na severovýchodě Česka teplota místy klesne zřejmě až k minus dvanácti stupňům Celsia.",
+      "title_en": "Meteorologists warn of ice in southern and southwestern Bohemia",
+      "lead_en": "In southern and southwestern Bohemia, ice began to form on Friday evening, which, according to the Czech Hydrometeorological Institute (ČHMÚ), lasted overnight and will persist into Saturday morning. ČHMÚ had previously warned of wind gusts up to seventy kilometers per hour, which may occur in the northeast of the country. In areas where it snowed, snow drifts may also form. On the night leading into Sunday, temperatures in northeastern Czechia will likely drop locally to minus twelve degrees Celsius.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 6
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          "emergency_warning"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "emergency_warning",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ]
+      },
+      "topics": [
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "local_events",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T11:27:44Z"
     },
     {
       "id": "2ba14a30d9a1f49fea50e696bcfbc576923682f3",
@@ -1077,375 +1142,6 @@
       "primary_topic": "local_events",
       "classification_version": 5,
       "translated_at_utc": "2026-11-26T18:53:36Z"
-    },
-    {
-      "id": "0042a211dc057cc88f6d30d963b84d6a8ab50284",
-      "fingerprint": "81c847629288b41122214323fb62daa818fe887d",
-      "source": "iROZHLAS - Domestic",
-      "source_language": "cs",
-      "url": "https://www.irozhlas.cz/zpravy-domov/je-vesteni-z-koule-obcim-chybi-temer-13-miliard-na-opravy-po-povodnich-stat-je-v_2611261205_dns",
-      "published_utc": "2026-11-26T11:05:00Z",
-      "collected_at_utc": "2026-11-26T18:52:27Z",
-      "title_raw": "‚Je to věštění z koule.‘ Obcím chybí téměř 13 miliard na opravy po povodních, stát je v rozpočtu nemá",
-      "lead_raw": "Obce z Moravskoslezského a Olomouckého kraje žádají stát o téměř 13 miliard korun na obnovu po předloňských povodních. Ministerstvo pro místní rozvoj už ale peníze z programu Živel 1 vyčerpalo a další nemá. Obce tedy neví, jak mají plánovat opravy silnic nebo mostů ani jak sestavit rozpočet na příští rok.",
-      "title_en": "'It's fortune-telling from a ball.' Municipalities are short almost 13 billion for repairs after floods; the state does not have them in the budget",
-      "lead_en": "Municipalities from the Moravian-Silesian and Olomouc regions are requesting nearly 13 billion crowns from the state for reconstruction after the floods two years ago. However, the Ministry of Regional Development has already exhausted the funds from the Element 1 program and has no more. Municipalities therefore do not know how to plan road or bridge repairs or how to prepare the budget for next year.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 5,
-        "domestic_politics": 4,
-        "foreign_affairs": 0,
-        "local_events": 9
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "currency",
-          "generic_budget"
-        ],
-        "domestic_politics": [
-          "government"
-        ],
-        "foreign_affairs": [],
-        "local_events": [
-          "natural_disasters"
-        ]
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "currency",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          },
-          {
-            "concept": "generic_budget",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
-          }
-        ],
-        "domestic_politics": [
-          {
-            "concept": "government",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": [
-          {
-            "concept": "natural_disasters",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ]
-      },
-      "topics": [
-        "local_events"
-      ],
-      "relevant": true,
-      "primary_topic": "local_events",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T18:53:36Z"
-    },
-    {
-      "id": "a98ec73db7b821f83bf99b3c0869e6a732eb985f",
-      "fingerprint": "767526c0551bfeb64626edee47b96aba710ff272",
-      "source": "Novinky",
-      "source_language": "cs",
-      "url": "https://www.novinky.cz/clanek/pocasi-desitky-nehod-na-namrzlych-silnicich-na-jihu-cech-a-zacina-snezit-40610574",
-      "published_utc": "2026-11-26T07:13:52Z",
-      "collected_at_utc": "2026-11-26T07:23:05Z",
-      "title_raw": "Desítky nehod na namrzlých silnicích na jihu Čech. A začíná sněžit",
-      "lead_raw": "Dopravu ve čtvrtek ráno komplikují na řadě míst namrzlé silnice, na jihu Čech evidují policisté desítky nehod. Česko čeká ve čtvrtek také vydatnou sněhovou nadílku. Na jihu Moravy začalo sněžit už v noci na čtvrtek. Sněžení se bude postupně během dne posouvat k severu a nakonec zasáhne většinu území republiky. Český hydrometeorologický ústav (ČHMÚ) vydal výstrahu před sněhem.",
-      "title_en": "Dozens of accidents on icy roads in South Bohemia. And it starts snowing",
-      "lead_en": "Traffic on Thursday morning is complicated by icy roads in many places, and in South Bohemia, police have recorded dozens of accidents. The Czech Republic is also expecting heavy snowfall on Thursday. Snow began in South Moravia already on Thursday night. Snowfall will gradually move northward during the day and eventually affect most of the country's territory. The Czech Hydrometeorological Institute (ČHMÚ) has issued a snow warning.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 12
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": [
-          "severe_weather",
-          "emergency_warning"
-        ]
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": [
-          {
-            "concept": "severe_weather",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "emergency_warning",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ]
-      },
-      "topics": [
-        "local_events"
-      ],
-      "relevant": true,
-      "primary_topic": "local_events",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T07:23:10Z"
-    },
-    {
-      "id": "86f91b9369f70333da2fa6c7b63c845c93013e17",
-      "fingerprint": "ae01c1fdf0090b5193d0049a323cde583690dd38",
-      "source": "ČT24",
-      "source_language": "cs",
-      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/patek-a-sobota-budou-lehce-snehove-predpovidaji-meteorologove-379964",
-      "published_utc": "2026-11-26T06:34:05Z",
-      "collected_at_utc": "2026-11-27T03:32:06Z",
-      "title_raw": "Na Vysočině kvůli sněžení kolabovala doprava, problémy hlásily i další regiony",
-      "lead_raw": "Kvůli sněžení kolabovala na Vysočině od čtvrtečního odpoledne autobusová doprava, spoje měly zpoždění, případně nejedou vůbec. Dálnice D1 byla večer směrem na Prahu mezi 104. a 98. kilometrem delší dobu neprůjezdná. Počasí komplikovalo dopravu i na jihu Čech nebo na jižní Moravě. V Brně jezdilo MHD s různě velkým zpožděním, některé krajské autobusové spoje nejely v části trasy či vůbec. Problémy hlásily přes den a večer i Zlínský, Středočeský či Moravskoslezský kraj.",
-      "title_en": "Traffic collapsed in Vysočina due to snowfall, and other regions also reported problems",
-      "lead_en": "Due to snowfall, bus traffic in the Vysočina region collapsed from Thursday afternoon, with delays or no service at all. The D1 motorway towards Prague was impassable for a long time in the evening between kilometers 104 and 98. The weather complicated traffic in South Bohemia and South Moravia as well. In Brno, public transport ran with varying delays, and some regional bus services did not run on part of their route or at all. Problems were also reported during the day and evening in the Zlín, Central Bohemian, and Moravian-Silesian regions.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 6
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": [
-          "public_transport"
-        ]
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": [
-          {
-            "concept": "public_transport",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ]
-      },
-      "topics": [
-        "local_events"
-      ],
-      "relevant": true,
-      "primary_topic": "local_events",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-27T03:32:13Z"
-    },
-    {
-      "id": "4e4701a2d2cd00b898064e2e9cb65f6b5b9bb02e",
-      "fingerprint": "1a41b7fe3e418df59574eb7fe8aa71962219f78a",
-      "source": "Novinky",
-      "source_language": "cs",
-      "url": "https://www.novinky.cz/clanek/domaci-zpravy-jihomoravsky-kraj-na-strece-hrozi-bile-sajrajt-brno-se-chysta-na-kalamitu-policiste-oprasili-hantec-40610562",
-      "published_utc": "2026-11-26T05:58:29Z",
-      "collected_at_utc": "2026-11-26T07:23:05Z",
-      "title_raw": "„Na štrece hrozí bílé sajrajt.“ Brno se chystá na kalamitu, policisté oprášili hantec",
-      "lead_raw": "Jestli můžete, zůstaňte fachčit na domašově, jináč hrozí těžké levingston, apelovali policisté z Brna na řidiče, aby kvůli počasí ve čtvrtek raději zůstali doma na home office. V hantecu upozornili nejen na hustí sněžení, které podle meteorologů hrozí, ale připomněli, že i bez toho doprava v Brně kolabuje kvůli uzavřeným tunelům.",
-      "title_en": "\"White dirt threatens on the road.\" Brno is preparing for a calamity, police have dusted off the slang",
-      "lead_en": "If you can, stay at Domašov, otherwise a tough levingston threatens, Brno police urged drivers to stay home on Thursday due to the weather. In Hantec, they warned not only about heavy snowfall, which meteorologists say is a threat, but also reminded that traffic in Brno is collapsing even without it due to closed tunnels.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 6
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": [
-          "infrastructure_disruption"
-        ]
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": [
-          {
-            "concept": "infrastructure_disruption",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ]
-      },
-      "topics": [
-        "local_events"
-      ],
-      "relevant": true,
-      "primary_topic": "local_events",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T07:23:10Z"
-    },
-    {
-      "id": "847056a52f4ac54452f61077c30947917c95b31e",
-      "fingerprint": "c58eee09b97a68c7acae1f3154fdb1e031b6f70f",
-      "source": "iROZHLAS - Domestic",
-      "source_language": "cs",
-      "url": "https://www.irozhlas.cz/zpravy-domov/na-jihovychode-ceska-napadne-az-20-centimetru-snehu-dopravu-zkomplikuje-i_2611260636_elv",
-      "published_utc": "2026-11-26T05:36:00Z",
-      "collected_at_utc": "2026-11-26T07:23:01Z",
-      "title_raw": "Na jihovýchodě Česka napadne až 20 centimetrů sněhu, dopravu zkomplikuje i ledovka",
-      "lead_raw": "Na čtvrtek a noc na pátek vydal Český hydrometeorologický ústav (ČHMÚ) pro většinu území Česka výstrahu před silným sněžením, kdy hlavně na jihovýchodě země může napadnout až 20 centimetrů sněhu. V pátek a sobotu bude v Česku ještě zřejmě slabě sněžit, ale v neděli se vyjasní a srážky ustanou. O víkendu může také nadále i přes den mrznout.",
-      "title_en": "Up to 20 centimeters of snow will fall in southeastern Czechia, and traffic will also be complicated by ice",
-      "lead_en": "For Thursday and the night into Friday, the Czech Hydrometeorological Institute (ČHMÚ) has issued a heavy snowfall warning for most of the country, with up to 20 centimeters of snow possible mainly in the southeast of the country. On Friday and Saturday, light snow is still expected in the Czech Republic, but on Sunday it will clear up and precipitation will stop. It may also continue to freeze during the day over the weekend.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 12
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": [
-          "severe_weather",
-          "emergency_warning"
-        ]
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": [
-          {
-            "concept": "severe_weather",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "emergency_warning",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ]
-      },
-      "topics": [
-        "local_events"
-      ],
-      "relevant": true,
-      "primary_topic": "local_events",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T07:23:10Z"
     }
   ],
   "topic": "local_events"
