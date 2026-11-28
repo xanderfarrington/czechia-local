@@ -1,9 +1,241 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-27T16:20:21Z",
-  "count": 31,
+  "updated_at_utc": "2026-11-28T01:14:32Z",
+  "count": 32,
   "articles": [
+    {
+      "id": "868094880f87793e0400798a708963afc9057c1b",
+      "fingerprint": "29f8d38e1731cfdcad6270d5179e728e55ffd1bc",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/dest-domacnost-usa-prehanky-centimetr-dikuvzdani-elektrina-pobrezi.A261127_191023_zahranicni_votr",
+      "published_utc": "2026-11-27T18:27:00Z",
+      "collected_at_utc": "2026-11-28T01:14:31Z",
+      "title_raw": "Po silných deštích tráví Díkůvzdání půl milionu domácností v USA bez elektřiny",
+      "lead_raw": "Více než 500 tisíc domácností a firem ve Spojených státech zůstávalo v pátek po poledni tamního času (po 18:00 SEČ) kvůli počasí bez elektrické energie, zatímco ve čtvrtek navečer tento údaj vrcholil zhruba na 900 tisících. Silný déšť na východním pobřeží v pátek sice ustával, některá místa ale dál ohrožují záplavy kvůli vysokému přílivu.",
+      "title_en": "After heavy rains, half a million households in the USA are spending Thanksgiving without electricity",
+      "lead_en": "More than 500,000 households and businesses in the United States were without electricity on Friday after noon local time (after 6:00 PM CET) due to weather, while on Thursday evening this figure peaked at around 900,000. Heavy rain on the East Coast on Friday eased, but some areas are still threatened by flooding due to high tides.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 9,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "electricity"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "electricity",
+            "strength": 3,
+            "headline": true,
+            "lead": false,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T01:14:32Z"
+    },
+    {
+      "id": "dfdce66867e420f120fdddb0064bcfd7236a6fc9",
+      "fingerprint": "482e26636eadfe3fcda8babd2245e266a6d77c50",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/v-obci-tatce-rozhoduji-o-dvou-vetrnych-elektrarnach-investor-chce-projekt_2611271906_bva",
+      "published_utc": "2026-11-27T18:06:00Z",
+      "collected_at_utc": "2026-11-28T01:14:26Z",
+      "title_raw": "V obci Tatce rozhodují o dvou větrných elektrárnách. Investor chce projekt rozšířit ze sousedních Hořan",
+      "lead_raw": "V Tatcích na Kolínsku by v pátek mohli lidé v referendu rozhodnout o tom, zda na území obce vyrostou až dvě větrné elektrárny. S nabídkou na rozšíření stávajícího projektu oslovila radnici soukromá firma.",
+      "title_en": "In the village of Tatce, decisions are being made about two wind turbines. The investor wants to expand the project from neighboring Hořany",
+      "lead_en": "In Tatce in the Kolín district, people could decide in a referendum on Friday whether up to two wind turbines will be built within the municipality. A private company approached the town hall with an offer to expand the existing project.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 18,
+        "economy": 0,
+        "domestic_politics": 6,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "electricity",
+          "wind_energy"
+        ],
+        "economy": [],
+        "domestic_politics": [
+          "municipal_government"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "electricity",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "wind_energy",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "municipal_government",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "energy",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T01:14:32Z"
+    },
+    {
+      "id": "1049651c2dbfb1c1e7b69cd8be5275be42a8814e",
+      "fingerprint": "ea0dfd1c757c8ce5f3bd34d7dba7f0d5b60a5873",
+      "source": "Seznam Zprávy",
+      "source_language": "cs",
+      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-zpravy-z-bojiste-putinuv-sen-o-rychlem-dobyvani-se-uz-treti-mesic-rozplyva-321701",
+      "published_utc": "2026-11-27T16:30:00Z",
+      "collected_at_utc": "2026-11-28T01:14:30Z",
+      "title_raw": "Putinův sen o rychlém dobývání se už třetí měsíc rozplývá",
+      "lead_raw": "Fronta se už třetí měsíc téměř nehýbe. Válka se mezitím přesouvá do týlu: Rusko poškodilo pět ze šesti kyjevských mostů, ruské rafinerie zpracovávají nejméně ropy za víc než 20 let a ruské lodě znovu hořely ve Středozemním moři.",
+      "title_en": "Putin's dream of rapid conquest has been fading for three months now",
+      "lead_en": "The front has barely moved for three months now. Meanwhile, the war is moving to the rear: Russia has damaged five of the six Kyiv bridges, Russian refineries are processing the least oil in over 20 years, and Russian ships have caught fire again in the Mediterranean Sea.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 12,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          "oil",
+          "refining"
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [
+          {
+            "concept": "oil",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "refining",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "energy"
+      ],
+      "relevant": true,
+      "primary_topic": "energy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T01:14:32Z"
+    },
     {
       "id": "42bd6da918f2a2d15b79b21d24752bd8babdc2ae",
       "fingerprint": "fcdb33df0d49eb955aca34cd7561e51f4c7f1992",
@@ -662,117 +894,6 @@
       "primary_topic": "energy",
       "classification_version": 5,
       "translated_at_utc": "2026-11-27T16:20:20Z"
-    },
-    {
-      "id": "e890a9353b1f9a01108261a6e120052cc09cadd5",
-      "fingerprint": "418842423ef76cad35fc612ebc9edaf093060cd0",
-      "source": "ČT24",
-      "source_language": "cs",
-      "url": "https://ct24.ceskatelevize.cz/clanek/svet/na-ruskou-tulskou-oblast-utocily-drony-podle-medii-na-elektrarnu-a-tovarnu-379998",
-      "published_utc": "2026-11-27T06:54:01Z",
-      "collected_at_utc": "2026-11-27T16:20:14Z",
-      "title_raw": "Na ruskou Tulskou oblast útočily drony, podle médií na elektrárnu a továrnu",
-      "lead_raw": "Tulská oblast ležící jižně od Moskvy se v noci stala cílem ukrajinského dronového náletu, uvedl gubernátor Dmitrij Miljajev. Z tepelné elektrárny a podniku na výrobu syntetického kaučuku ve městě Jefremov se podle médií ozývaly exploze. Jeden člověk pak zahynul a další byl zraněn při dronovém útoku v ruské Brjanské oblasti, uvedl gubernátor regionu Jegor Kovalčuk. Protivzdušná obrana podle úřadů sestřelila několik desítek bezpilotních letounů nad Leningradskou oblastí na severozápadě Ruska, jedna žena v Petrohradu utrpěla zranění. Ukrajina na Rusko útočí v odvetě za pátým rokem trvající ruskou invazi.",
-      "title_en": "Drones attacked Russia's Tula region, and according to the media, targeted a power plant and a factory",
-      "lead_en": "The Tula region, located south of Moscow, became the target of a Ukrainian drone airstrike overnight, said Governor Dmitry Milyaev. According to the media, explosions were heard from a thermal power plant and a synthetic rubber production plant in the city of Yefremov. One person was killed and another injured in a drone attack in Russia's Bryansk region, said regional governor Yegor Kovalchuk. According to authorities, air defense shot down several dozen drones over the Leningrad region in northwest Russia, and one woman in St. Petersburg was injured. Ukraine is attacking Russia in retaliation for the fifth year of the Russian invasion.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 9,
-        "energy": 9,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 16,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "air_defense",
-          "generic_drones"
-        ],
-        "energy": [
-          "electricity"
-        ],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          "ukraine",
-          "russia",
-          "international_conflict"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "air_defense",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "generic_drones",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
-          }
-        ],
-        "energy": [
-          {
-            "concept": "electricity",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          {
-            "concept": "ukraine",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "russia",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          },
-          {
-            "concept": "international_conflict",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "military",
-        "energy",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "foreign_affairs",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-27T16:20:21Z"
     },
     {
       "id": "50add6e466bd1e91c0211334479719f0784b77bb",
@@ -2401,81 +2522,6 @@
       "primary_topic": "energy",
       "classification_version": 5,
       "translated_at_utc": "2026-11-26T07:23:10Z"
-    },
-    {
-      "id": "087d210a084081db66528edb5ee48236cc0b0e88",
-      "fingerprint": "b731671e17e3cef2846e3c43638a19a99012e484",
-      "source": "Seznam Zprávy",
-      "source_language": "cs",
-      "url": "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-kofole-stouply-za-tri-ctvrtleti-trzby-mezirocne-o-121-procenta-321539",
-      "published_utc": "2026-11-25T17:25:40Z",
-      "collected_at_utc": "2026-11-25T23:29:47Z",
-      "title_raw": "Kofole stouply za tři čtvrtletí tržby meziročně o 12,1 procenta",
-      "lead_raw": "Kofola oznámila, že meziročně jí stouply tržby o 12,1 procenta, konkrétně o 986 milionů korun. Firma splnila své cíle i přes rostoucí ceny ropy a energií.",
-      "title_en": "Kofola's revenues rose by 12.1 percent year-on-year over the first three quarters",
-      "lead_en": "Kofola announced that its revenues increased year-on-year by 12.1 percent, specifically by 986 million CZK. The company met its targets despite rising oil and energy prices.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 6,
-        "economy": 2,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          "oil"
-        ],
-        "economy": [
-          "currency"
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [
-          {
-            "concept": "oil",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "economy": [
-          {
-            "concept": "currency",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "energy"
-      ],
-      "relevant": true,
-      "primary_topic": "energy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T23:29:51Z"
     }
   ],
   "topic": "energy"

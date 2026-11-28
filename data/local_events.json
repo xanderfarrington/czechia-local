@@ -1,9 +1,204 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-27T16:20:21Z",
-  "count": 18,
+  "updated_at_utc": "2026-11-28T01:14:32Z",
+  "count": 20,
   "articles": [
+    {
+      "id": "fa13577b8d2d57cf7af378ce3afa19790530ac71",
+      "fingerprint": "d1bb9af8dc16520c60de594643b77b8c00fa6ded",
+      "source": "iROZHLAS - Domestic",
+      "source_language": "cs",
+      "url": "https://www.irozhlas.cz/zpravy-domov/zlin-od-prosince-ceka-kompletni-promena-mhd-posili-spoje-jizdni-rady-dostanou_2611272218_bod",
+      "published_utc": "2026-11-27T21:43:00Z",
+      "collected_at_utc": "2026-11-28T01:14:26Z",
+      "title_raw": "Zlín od prosince čeká kompletní proměna MHD. Posílí spoje, jízdní řády dostanou novou grafiku",
+      "lead_raw": "Nové číslování, trasy a jízdní řády. Tyto novinky čekají cestující městskou hromadnou dopravou ve Zlíně a jeho místních částech i v Otrokovicích. Dopravní společnost Zlín-Otrokovice změní od 13. prosince jízdní řády v městské hromadné dopravě. Nejde o malé, kosmetické úpravy, ale o velkou změnu, která by cestujícím MHD měla přinést více spojů a lepší propojení linek.",
+      "title_en": "Zlín will undergo a complete transformation of public transport starting in December. They will strengthen connections, and timetables will get new graphics",
+      "lead_en": "New numbering, routes, and timetables. These new features await public transport passengers in Zlín and its local parts, as well as in Otrokovice. The Zlín-Otrokovice transport company will change the public transport timetables starting December 13. These are not minor cosmetic changes but a major change that should bring more connections and better connections for public transport passengers.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 9
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          "public_transport"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "public_transport",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          }
+        ]
+      },
+      "topics": [
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "local_events",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T01:14:32Z"
+    },
+    {
+      "id": "0cc99366387ff9936905e9398146859a757b1412",
+      "fingerprint": "bacf8eba759169b329e568d6b474f61cf4c1c14f",
+      "source": "ČT24",
+      "source_language": "cs",
+      "url": "https://ct24.ceskatelevize.cz/clanek/pocasi/meteorologove-varuji-pred-ledovkou-na-jihu-a-jihozapade-cech-380024",
+      "published_utc": "2026-11-27T19:54:22Z",
+      "collected_at_utc": "2026-11-28T01:14:28Z",
+      "title_raw": "Meteorologové varují před ledovkou na jihu a jihozápadě Čech",
+      "lead_raw": "V jižních a jihozápadních Čechách se v pátek večer začala tvořit ledovka, která vydrží i v noci a v sobotu dopoledne, upozornil Český hydrometeorologický ústav (ČHMÚ). Ten už dříve varoval také před větrem s nárazy až sedmdesát kilometrů v hodině, který se může vyskytovat na severovýchodě země. V místech, kde sněžilo, se zároveň mohou tvořit sněhové jazyky. V noci na neděli pak na severovýchodě Česka teplota místy klesne zřejmě až k minus dvanácti stupňům Celsia.",
+      "title_en": "Meteorologists warn of ice in southern and southwestern Bohemia",
+      "lead_en": "In southern and southwestern Bohemia, ice began to form on Friday evening, which will persist through the night and into Saturday morning, warned the Czech Hydrometeorological Institute (ČHMÚ). It had previously warned of wind gusts up to seventy kilometers per hour, which may occur in the northeast of the country. In areas where it snowed, snow drifts may also form. On the night leading into Sunday, temperatures in northeastern Czechia will likely drop locally to as low as minus twelve degrees Celsius.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 6
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          "emergency_warning"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "emergency_warning",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ]
+      },
+      "topics": [
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "local_events",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T01:14:32Z"
+    },
+    {
+      "id": "2ba14a30d9a1f49fea50e696bcfbc576923682f3",
+      "fingerprint": "e83e45f6d9b687734f029b3c3d88e219e99e0134",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/pocasi-meteorologove-vydali-vystrahu-pred-ledovkou-40611004",
+      "published_utc": "2026-11-27T19:54:12Z",
+      "collected_at_utc": "2026-11-28T01:14:29Z",
+      "title_raw": "Meteorologové vydali výstrahu před ledovkou",
+      "lead_raw": "V noci na sobotu a v sobotu ráno to může na silnicích v Česku klouzat, upozornil v pátek večer Český hydrometeorologický ústav (ČHMÚ). Nově vydaná výstraha se týká hlavně jihu Čech, meteorologové však varují, že ledovka se může objevit i jinde.",
+      "title_en": "Meteorologists issued a warning about ice",
+      "lead_en": "On the night into Saturday and Saturday morning, roads in the Czech Republic may be slippery, warned the Czech Hydrometeorological Institute (ČHMÚ) on Friday evening. The newly issued warning mainly concerns southern Bohemia, but meteorologists warn that ice may appear elsewhere as well.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 6
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          "emergency_warning"
+        ]
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": [
+          {
+            "concept": "emergency_warning",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ]
+      },
+      "topics": [
+        "local_events"
+      ],
+      "relevant": true,
+      "primary_topic": "local_events",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T01:14:32Z"
+    },
     {
       "id": "42e64706b55ae09d4f4464f3bc5aaff13f3dd730",
       "fingerprint": "95b810ca1f9b7386e920ccbc6b3ed49b8aca9a4f",
@@ -1235,71 +1430,6 @@
             "lead": true,
             "points": 6
           },
-          {
-            "concept": "emergency_warning",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ]
-      },
-      "topics": [
-        "local_events"
-      ],
-      "relevant": true,
-      "primary_topic": "local_events",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T07:23:10Z"
-    },
-    {
-      "id": "996130180875dc011fa560ce00669901b04ee801",
-      "fingerprint": "f7012c271a316b78bad4139bbd7f90df07aac438",
-      "source": "iDNES.cz",
-      "source_language": "cs",
-      "url": "https://www.idnes.cz/zpravy/domaci/pocasi-snih-vystraha-zima-cesky-hydrometeorologicky-ustav.A261125_120646_domaci_ikro",
-      "published_utc": "2026-11-25T18:20:00Z",
-      "collected_at_utc": "2026-11-26T07:23:08Z",
-      "title_raw": "Sníh má zpoždění. Až 20 centimetrů zasype Česko v jiný čas, než se čekalo",
-      "lead_raw": "Český hydrometeorologický ústav (ČHMÚ) ve středu zpřesnil výstrahu před sněžením, které má ve čtvrtek zasáhnout většinu Česka. Na jihu a jihovýchodě země může během dne napadnout až 20 centimetrů bílé pokrývky. Meteorologové varují před komplikacemi v dopravě, zhoršenou viditelností i zpožděním spojů. V noci na pátek bude sněžení pozvolna slábnout.",
-      "title_en": "Snow is delayed. Up to 20 centimeters will cover the Czech Republic at a different time than expected",
-      "lead_en": "The Czech Hydrometeorological Institute (ČHMÚ) refined its snowfall warning on Wednesday, which is expected to affect most of the Czech Republic on Thursday. In the south and southeast of the country, up to 20 centimeters of white cover may fall during the day. Meteorologists warn of traffic complications, reduced visibility, and delayed connections. Snowfall will gradually weaken overnight into Friday.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 6
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": [
-          "emergency_warning"
-        ]
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": [
           {
             "concept": "emergency_warning",
             "strength": 3,

@@ -1,9 +1,414 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-27T16:20:21Z",
-  "count": 33,
+  "updated_at_utc": "2026-11-28T01:14:32Z",
+  "count": 32,
   "articles": [
+    {
+      "id": "f6804eec58c4bb79fb812a4019bc3ef6bce5f03e",
+      "fingerprint": "c0f2627699073f0fc181679f554778f817ecb3c4",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/brazilie-nabor-latinska-amerika-valka-na-ukrajine-rusko.A261127_185417_zahranicni_jans",
+      "published_utc": "2026-11-27T23:00:00Z",
+      "collected_at_utc": "2026-11-28T01:14:31Z",
+      "title_raw": "Do války míří desítky Brazilců. Rusové je lákají na velké peníze, jenže je to podfuk",
+      "lead_raw": "Slibují miliony a službu v zázemí bez nutnosti znalosti ruštiny. Brazilští náboráři lákají krajany do ruské armády, v Moskvě jim ale podstrčí k podpisu plnou moc k účtu a pošlou je přímo na frontu.",
+      "title_en": "Dozens of Brazilians are heading to war. The Russians lure them with big money, but it's a scam",
+      "lead_en": "They promise millions and support service without the need to know Russian. Brazilian recruiters lure compatriots into the Russian army, but in Moscow they slip a power of attorney for their account to sign and send them directly to the front.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T01:14:32Z"
+    },
+    {
+      "id": "9e0a85701f266204e084961564c3181930b131c6",
+      "fingerprint": "480c95f32284f509abf8174aef1cea7ed36501a5",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/rusko-rusky-prezident-vladimir-putin-vojenske-namornictvo.A261127_194457_zahranicni_sile",
+      "published_utc": "2026-11-27T19:12:00Z",
+      "collected_at_utc": "2026-11-28T01:14:31Z",
+      "title_raw": "Putin vztyčil vlajku na nové jaderné ponorce Perm. Slíbil další modernizaci",
+      "lead_raw": "Rusko hodlá pokračovat v modernizaci svého vojenského námořnictva, prohlásil ruský prezident Vladimir Putin, který se dnes zúčastnil slavnostního vztyčení vlajky na nové jaderné ponorce Perm, prvním plavidle tohoto typu, vyzbrojeném hypersonickými střelami Cirkon. Putin také vyjádřil přesvědčení, že veškeré plány na vybudování silných námořních sil zrealizuje včas a v plném rozsahu.",
+      "title_en": "Putin raised the flag on the new nuclear submarine Perm. He promised further modernization",
+      "lead_en": "Russia intends to continue modernizing its navy, declared Russian President Vladimir Putin, who today attended the ceremonial flag-raising of the new nuclear submarine Perm, the first vessel of its kind armed with Zircon hypersonic missiles. Putin also expressed confidence that all plans to build strong naval forces will be implemented on time and in full.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "military_activity"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "russia"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "russia",
+            "strength": 2,
+            "headline": true,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T01:14:32Z"
+    },
+    {
+      "id": "5e620f341c5aa6d13618b611b4a80417f7d9e8a3",
+      "fingerprint": "e6df829c77ff2bd6f77779b6177c52e186a368c4",
+      "source": "iDNES.cz",
+      "source_language": "cs",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/jizni-korea-japonsko-rusko-cina-tchaj-wan-pacifik-provokace-letadla.A261127_144230_zahranicni_jhr",
+      "published_utc": "2026-11-27T19:00:00Z",
+      "collected_at_utc": "2026-11-28T01:14:31Z",
+      "title_raw": "Ruská letadla provokují v Asii. Mluví se o přípravě na globální válku po boku Číny",
+      "lead_raw": "Ruské provokativní akce vyvolávají znepokojení v asijsko-pacifickém regionu. Ruská letadla pronikají do zón protivzdušné obrany Jižní Koreje, Japonska i Tchaj-wanu. Podle pozorovatelů Moskva tímto způsobem může testovat vojenskou připravenost spojenců USA a připravovat se na možnou konfrontaci v oblasti po boku Číny. Tu by mohla koordinovat s útokem na NATO.",
+      "title_en": "Russian aircraft provoke in Asia. There is talk of preparing for a global war alongside China",
+      "lead_en": "Russian provocative actions are causing concern in the Asia-Pacific region. Russian aircraft are penetrating the air defense zones of South Korea, Japan, and Taiwan. According to observers, Moscow can test the military readiness of US allies in this way and prepare for a possible confrontation in the area alongside China. China could coordinate this with an attack on NATO.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 18,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "military_activity",
+          "nato",
+          "air_defense"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "nato",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "air_defense",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T01:14:32Z"
+    },
+    {
+      "id": "d6d2606f9889c257baba46882083e408e94720ab",
+      "fingerprint": "d042cf4e1c9f2d90ee24ca69b8227ac60e3afe4a",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-rusove-se-lekli-flotily-smerujici-do-afriky-poslali-domu-40611001",
+      "published_utc": "2026-11-27T18:41:21Z",
+      "collected_at_utc": "2026-11-28T01:14:29Z",
+      "title_raw": "Rusové se lekli? Flotily směřující do Afriky poslali domů",
+      "lead_raw": "Konvoj ruských lodí přepravujících vojenská vozidla, který směřoval do Libye, se obrátil poté, co Ukrajinci minulý týden ve Středozemním moři potopili ruskou korvetu a další dvě lodě v přístavu Benghází. S odkazem na tři vojenské a bezpečnostní zdroje o tom informovala agentura Reuters s tím, že kurz změnil i druhý konvoj těsně před severoafrickým pobřežím.",
+      "title_en": "Were the Russians scared? Fleets heading to Africa were sent home",
+      "lead_en": "A convoy of Russian ships carrying military vehicles heading to Libya turned around after Ukrainians sank a Russian corvette and two other ships in the port of Benghazi in the Mediterranean Sea last week. Reuters reported this, citing three military and security sources, adding that the course was also changed by a second convoy just off the North African coast.",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 6,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 0,
+        "foreign_affairs": 6,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "military_activity"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          "ukraine"
+        ],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [],
+        "foreign_affairs": [
+          {
+            "concept": "ukraine",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "foreign_affairs"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T01:14:32Z"
+    },
+    {
+      "id": "662b244fab72fdde78b99ba5bc0ff42f696425a0",
+      "fingerprint": "ff0d57450aa8194de23f25b2236fd51312325a47",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/domaci-pokud-snemovna-do-konce-roku-neschvali-armade-zahranicni-mise-vojaci-zustanou-doma-40610954",
+      "published_utc": "2026-11-27T17:14:13Z",
+      "collected_at_utc": "2026-11-28T01:14:29Z",
+      "title_raw": "Hromadný návrat vojáků z misí? Z poslanců je nervózní i Zůna",
+      "lead_raw": "SPD ve čtvrtek ve Sněmovně přerušila schvalování plánu zahraničních misí armády na příští dva roky. Pokud ale poslanci mandát vojákům do konce roku neschválí, hrozí nejen to, že od ledna nikam nevyjedou, ale i to, že se budou muset vrátit z misí, kde už nyní působí. A politické kličky se nelíbí ani ministrovi obrany Jaromíru Zůnovi (za SPD).",
+      "title_en": "Mass return of soldiers from missions? Even Zůna is nervous about the MPs",
+      "lead_en": "On Thursday, SPD suspended the approval of the army's foreign mission plan for the next two years in the Chamber of Deputies. However, if MPs do not approve the mandate for the soldiers by the end of the year, there is a risk not only that they will not travel anywhere from January but also that they will have to return from missions where they are currently serving. And political maneuvers are also disliked by Defense Minister Jaromír Zůna (from SPD).",
+      "translation_status": "completed",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 21,
+        "energy": 0,
+        "economy": 0,
+        "domestic_politics": 17,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [
+          "armed_forces",
+          "military_activity",
+          "defense_ministry"
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          "parliament",
+          "political_parties",
+          "leadership"
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [
+          {
+            "concept": "armed_forces",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "military_activity",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "defense_ministry",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          }
+        ],
+        "energy": [],
+        "economy": [],
+        "domestic_politics": [
+          {
+            "concept": "parliament",
+            "strength": 3,
+            "headline": true,
+            "lead": true,
+            "points": 9
+          },
+          {
+            "concept": "political_parties",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "leadership",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "military",
+        "domestic_politics"
+      ],
+      "relevant": true,
+      "primary_topic": "military",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T01:14:32Z"
+    },
     {
       "id": "8a858512e495b93247239ed98c3b4d8d0fe0861d",
       "fingerprint": "1f24cb0a428ceca65a03fa694e8c931a8b638a64",
@@ -275,16 +680,16 @@
     },
     {
       "id": "e890a9353b1f9a01108261a6e120052cc09cadd5",
-      "fingerprint": "418842423ef76cad35fc612ebc9edaf093060cd0",
+      "fingerprint": "82c76f46f8d965bd3cb46b75c078078c43095cab",
       "source": "ČT24",
       "source_language": "cs",
       "url": "https://ct24.ceskatelevize.cz/clanek/svet/na-ruskou-tulskou-oblast-utocily-drony-podle-medii-na-elektrarnu-a-tovarnu-379998",
       "published_utc": "2026-11-27T06:54:01Z",
-      "collected_at_utc": "2026-11-27T16:20:14Z",
-      "title_raw": "Na ruskou Tulskou oblast útočily drony, podle médií na elektrárnu a továrnu",
-      "lead_raw": "Tulská oblast ležící jižně od Moskvy se v noci stala cílem ukrajinského dronového náletu, uvedl gubernátor Dmitrij Miljajev. Z tepelné elektrárny a podniku na výrobu syntetického kaučuku ve městě Jefremov se podle médií ozývaly exploze. Jeden člověk pak zahynul a další byl zraněn při dronovém útoku v ruské Brjanské oblasti, uvedl gubernátor regionu Jegor Kovalčuk. Protivzdušná obrana podle úřadů sestřelila několik desítek bezpilotních letounů nad Leningradskou oblastí na severozápadě Ruska, jedna žena v Petrohradu utrpěla zranění. Ukrajina na Rusko útočí v odvetě za pátým rokem trvající ruskou invazi.",
-      "title_en": "Drones attacked Russia's Tula region, and according to the media, targeted a power plant and a factory",
-      "lead_en": "The Tula region, located south of Moscow, became the target of a Ukrainian drone airstrike overnight, said Governor Dmitry Milyaev. According to the media, explosions were heard from a thermal power plant and a synthetic rubber production plant in the city of Yefremov. One person was killed and another injured in a drone attack in Russia's Bryansk region, said regional governor Yegor Kovalchuk. According to authorities, air defense shot down several dozen drones over the Leningrad region in northwest Russia, and one woman in St. Petersburg was injured. Ukraine is attacking Russia in retaliation for the fifth year of the Russian invasion.",
+      "collected_at_utc": "2026-11-28T01:14:28Z",
+      "title_raw": "Rusko zabíjelo na severu Ukrajiny, její drony zasáhly továrnu na palivo pro rakety",
+      "lead_raw": "Několik lidí zemřelo po ruských útocích na Černihivskou oblast na severu Ukrajiny. Nejméně tři mrtví jsou podle místního starosty po zásahu podniku v Nižynu, další oběť má útok na správní středisko Černihiv, uvedli záchranáři. Cílem ukrajinského dronového útoku se stala Tulská oblast jižně od Moskvy, Kyjev potvrdil zásah podniku ve městě Jefremov, který se podílí na výrobě paliva pro balistické střely. Ukrajina na Rusko útočí v odvetě za pátým rokem trvající plnohodnotnou ruskou invazi.",
+      "title_en": "Russia killed in northern Ukraine, its drones hit a rocket fuel factory",
+      "lead_en": "Several people died after Russian attacks on the Chernihiv region in northern Ukraine. At least three deaths are reportedly reported by the local mayor after a strike by a company in Nizhyn, and another victim is in an attack on the administrative center of Chernihiv, rescuers said. The target of the Ukrainian drone attack was the Tula region south of Moscow, and Kyiv confirmed the strike by a company in the city of Yefremov, which is involved in producing fuel for ballistic missiles. Ukraine is attacking Russia in retaliation for the fifth year of a full-scale Russian invasion.",
       "translation_status": "completed",
       "translation_version": 5,
       "validation_version": 5,
@@ -296,21 +701,19 @@
       "topic_scores": {
         "diplomacy": 0,
         "military": 9,
-        "energy": 9,
+        "energy": 0,
         "economy": 0,
         "domestic_politics": 0,
-        "foreign_affairs": 16,
+        "foreign_affairs": 21,
         "local_events": 0
       },
       "matched_keywords": {
         "diplomacy": [],
         "military": [
-          "air_defense",
+          "missiles",
           "generic_drones"
         ],
-        "energy": [
-          "electricity"
-        ],
+        "energy": [],
         "economy": [],
         "domestic_politics": [],
         "foreign_affairs": [
@@ -324,7 +727,7 @@
         "diplomacy": [],
         "military": [
           {
-            "concept": "air_defense",
+            "concept": "missiles",
             "strength": 3,
             "headline": false,
             "lead": true,
@@ -338,31 +741,23 @@
             "points": 3
           }
         ],
-        "energy": [
-          {
-            "concept": "electricity",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
+        "energy": [],
         "economy": [],
         "domestic_politics": [],
         "foreign_affairs": [
           {
             "concept": "ukraine",
             "strength": 3,
-            "headline": false,
+            "headline": true,
             "lead": true,
-            "points": 6
+            "points": 9
           },
           {
             "concept": "russia",
             "strength": 2,
-            "headline": false,
+            "headline": true,
             "lead": true,
-            "points": 4
+            "points": 6
           },
           {
             "concept": "international_conflict",
@@ -376,13 +771,12 @@
       },
       "topics": [
         "military",
-        "energy",
         "foreign_affairs"
       ],
       "relevant": true,
       "primary_topic": "foreign_affairs",
       "classification_version": 5,
-      "translated_at_utc": "2026-11-27T16:20:21Z"
+      "translated_at_utc": "2026-11-28T01:14:32Z"
     },
     {
       "id": "6871c10cefa99a9c1dfbee2b939d7be6fa7f56fe",
@@ -2404,498 +2798,6 @@
       "primary_topic": "foreign_affairs",
       "classification_version": 5,
       "translated_at_utc": "2026-11-26T07:23:10Z"
-    },
-    {
-      "id": "60cbd9e25177d7cd7b04488b596cd3a101011681",
-      "fingerprint": "149721a428ad73e44e4a4f37b5b01a807efc2e54",
-      "source": "České noviny / ČTK - Czech Republic",
-      "source_language": "cs",
-      "url": "https://www.ceskenoviny.cz/zpravy/senat-se-dnes-bude-zabyvat-pripravenosti-ceska-na-obranu-statu/2906130",
-      "published_utc": "2026-11-25T23:20:00Z",
-      "collected_at_utc": "2026-11-26T07:23:03Z",
-      "title_raw": "Senát se dnes bude zabývat připraveností Česka na obranu státu",
-      "lead_raw": "Praha - Připraveností Česka na obranu státu a zajištěním podpory spojeneckým jednotkám na českém území se dnes bude zabývat Senát na veřejném slyšení. Představitelé státu, armády i samospráv budou diskutovat...",
-      "title_en": "The Senate will today address the Czech Republic's readiness to defend the state",
-      "lead_en": "Prague - The Senate will discuss the Czech Republic's readiness to defend the state and ensure support for allied forces on Czech territory at a public hearing today. Representatives of the state, the army, and local governments will discuss...",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 12,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 9,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "armed_forces",
-          "allied_forces"
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          "parliament"
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "armed_forces",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "allied_forces",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [
-          {
-            "concept": "parliament",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "military",
-        "domestic_politics"
-      ],
-      "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-26T07:23:10Z"
-    },
-    {
-      "id": "6215da2feb4f6bc2687443fb189923a9ce6c2232",
-      "fingerprint": "cb3915866bed2ed0b65ad18d0007dd7c57a69294",
-      "source": "Novinky",
-      "source_language": "cs",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-ukrajinske-drony-zasahly-pet-ruskych-letounu-na-vysoce-strezenem-letisti-40610555",
-      "published_utc": "2026-11-25T18:51:44Z",
-      "collected_at_utc": "2026-11-25T23:29:46Z",
-      "title_raw": "Ukrajinské drony zasáhly pět ruských letounů na vysoce střeženém letišti",
-      "lead_raw": "Drony ukrajinských operátorů v noci na středu zasáhly pět ruských stíhaček na letišti Savaslejka v Nižném Novgorodu. O útoku informovalo ukrajinské ministerstvo obrany.",
-      "title_en": "Ukrainian drones hit five Russian aircraft at a highly guarded airport",
-      "lead_en": "Drones from Ukrainian operators struck five Russian fighter jets at Savasleyka airfield in Nizhny Novgorod on Wednesday night. The Ukrainian Ministry of Defense reported the attack.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 9,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 9,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "defense_ministry",
-          "generic_drones"
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          "ukraine"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "defense_ministry",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "generic_drones",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
-          }
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          {
-            "concept": "ukraine",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "military",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T23:29:50Z"
-    },
-    {
-      "id": "c81f75bde4d5187cf7bab308cdc53691ac68c45b",
-      "fingerprint": "3f271a356f7144e673ab74a3cfc99d547ed7cbbe",
-      "source": "iDNES.cz",
-      "source_language": "cs",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/ukrajinsky-laser-sestrelil-dron-s-proudovym-pohonem-zelensky.A261125_183811_zahranicni_balu",
-      "published_utc": "2026-11-25T18:14:00Z",
-      "collected_at_utc": "2026-11-25T23:29:48Z",
-      "title_raw": "Ukrajinský laser jako první na světě zničil ruský dron. Je účinnější než kulomet",
-      "lead_raw": "Bojový laser Blysk od společnosti Carmine Sky poprvé zničil nepřátelský dron s proudovým pohonem. Systém byl nasazen v rámci protivzdušné obrany strategického objektu kritické infrastruktury, uvedl poradce ukrajinského prezidenta pro vojenské technologie Serhij Beskrestnov, známý pod přezdívkou Fleš.",
-      "title_en": "A Ukrainian laser was the first in the world to destroy a Russian drone. It is more effective than a machine gun",
-      "lead_en": "The Blysk combat laser from Carmine Sky destroyed an enemy jet-powered drone for the first time. The system was deployed as part of the air defense of a strategic critical infrastructure facility, said Serhiy Beskrestnov, an advisor to the Ukrainian president for military technology, known by the nickname Flesh.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 15,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 9,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "military_activity",
-          "air_defense",
-          "generic_drones"
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          "ukraine"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "military_activity",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "air_defense",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "generic_drones",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
-          }
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          {
-            "concept": "ukraine",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "military",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T23:29:50Z"
-    },
-    {
-      "id": "db98036939f51874ddfa4420ea4b4368b1430a19",
-      "fingerprint": "e0097f898d481a7a9c3e19283f05f6567e319927",
-      "source": "Novinky",
-      "source_language": "cs",
-      "url": "https://www.novinky.cz/clanek/valka-na-ukrajine-unikatni-zasah-nad-kyjevem-ukrajinci-ukazali-jak-laserem-sestrelili-rusky-proudovy-dron-40610545",
-      "published_utc": "2026-11-25T17:40:52Z",
-      "collected_at_utc": "2026-11-25T23:29:46Z",
-      "title_raw": "Unikátní zásah nad Kyjevem: Ukrajinci ukázali, jak laserem sestřelili ruský proudový dron",
-      "lead_raw": "Laserový systém Blysk ukrajinské protivzdušné obrany poprvé sestřelil ruský proudový dron. Oznámil to v středu poradce ukrajinského prezidenta Volodymyra Zelenského Serhij Beskrestnov.",
-      "title_en": "Unique strike over Kyiv: Ukrainians showed how they shot down a Russian jet drone with a laser",
-      "lead_en": "The Blesk laser system of Ukrainian air defense shot down a Russian jet drone for the first time. This was announced on Wednesday by Serhiy Beskrestnov, advisor to Ukrainian President Volodymyr Zelensky.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 9,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 9,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "air_defense",
-          "generic_drones"
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          "ukraine"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "air_defense",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "generic_drones",
-            "strength": 1,
-            "headline": true,
-            "lead": true,
-            "points": 3
-          }
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          {
-            "concept": "ukraine",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "military",
-        "foreign_affairs"
-      ],
-      "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T23:29:51Z"
-    },
-    {
-      "id": "649032f58a18860ec5a68b7a61c5809d3b14750f",
-      "fingerprint": "dd58716c617aad614aa813b73225786ddfb5369b",
-      "source": "iDNES.cz",
-      "source_language": "cs",
-      "url": "https://www.idnes.cz/zpravy/zahranicni/armada-usa-odpalila-pet-tun-toxickych-chemikalii.A261125_180846_zahranicni_meli",
-      "published_utc": "2026-11-25T17:31:00Z",
-      "collected_at_utc": "2026-11-25T23:29:48Z",
-      "title_raw": "Armáda USA odpálila pět tun toxických chemikálií. Experti monitorují oblak jedu",
-      "lead_raw": "Americká armáda ve středu ve státě Iowa odpálila zhruba pět tun nestabilních toxických chemikálií využívaných k výrobě zbraní, a to navzdory obavám ze zdravotních dopadů mraku s olovem na místní obyvatele, uvedla agentura AP.",
-      "title_en": "The US military detonated five tons of toxic chemicals. Experts monitor the poison cloud",
-      "lead_en": "The U.S. military detonated about five tons of unstable toxic chemicals used in weapons production on Wednesday in the state of Iowa, despite concerns about the health impact of the lead cloud on local residents, the AP agency reported.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 13,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "armed_forces",
-          "weapons"
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "armed_forces",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          },
-          {
-            "concept": "weapons",
-            "strength": 2,
-            "headline": false,
-            "lead": true,
-            "points": 4
-          }
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "military"
-      ],
-      "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T23:29:51Z"
-    },
-    {
-      "id": "6f8f178785a7209e5e918ee07e6198e07c39537d",
-      "fingerprint": "bd33a2bca7951d8d18ddd3362a3638e989156962",
-      "source": "Seznam Zprávy",
-      "source_language": "cs",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-rusko-prestavuje-dulezitou-zakladnu-u-finskych-hranic-321523",
-      "published_utc": "2026-11-25T16:30:00Z",
-      "collected_at_utc": "2026-11-25T23:29:47Z",
-      "title_raw": "Rusko přestavuje důležitou základnu u finských hranic",
-      "lead_raw": "Rozšiřování vojenských zařízení podél hranice s Finskem probíhá i v souvislosti s reorganizací Západního vojenského okruhu.",
-      "title_en": "Russia is establishing an important base near the Finnish border",
-      "lead_en": "The expansion of military facilities along the border with Finland is also underway in connection with the reorganization of the Western Military District.",
-      "translation_status": "completed",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 6,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 6,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "military_activity"
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          "russia"
-        ],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "military_activity",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          }
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [
-          {
-            "concept": "russia",
-            "strength": 2,
-            "headline": true,
-            "lead": false,
-            "points": 6
-          }
-        ],
-        "local_events": []
-      },
-      "topics": [
-        "military"
-      ],
-      "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T23:29:51Z"
     }
   ],
   "topic": "military"

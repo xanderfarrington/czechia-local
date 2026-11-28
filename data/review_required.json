@@ -1,9 +1,100 @@
 {
   "country": "Czech Republic",
   "country_code": "CZ",
-  "updated_at_utc": "2026-11-27T16:20:21Z",
-  "count": 8,
+  "updated_at_utc": "2026-11-28T01:14:32Z",
+  "count": 7,
   "articles": [
+    {
+      "id": "0e7bec0e4a038800fe735e7f236c54bc503c819f",
+      "fingerprint": "cd2a67f2737a06fc100fcf6ffd868c7e333ca798",
+      "source": "Novinky",
+      "source_language": "cs",
+      "url": "https://www.novinky.cz/clanek/ekonomika-francouzska-ekonomika-se-propadla-do-recese-investori-odprodavaji-dluhopisy-40610973",
+      "published_utc": "2026-11-27T17:59:46Z",
+      "collected_at_utc": "2026-11-28T01:14:29Z",
+      "title_raw": "Francouzská ekonomika se propadla do recese. Investoři odprodávají dluhopisy",
+      "lead_raw": "Druhá největší ekonomika eurozóny, Francie, klesá už třetí čtvrtletí po sobě, a je tak v recesi. Hrubý domácí produkt, tedy souhrn všeho, co země vyrobí, se ve třetím čtvrtletí letošního roku snížil o 0,2 procenta. To je víc, než čekal předběžný odhad. Francii k tomu tíží vysoké zadlužení, potíže s rozpočtem a politická nestabilita, které činí další vývoj velmi nejistým.",
+      "title_en": "The French economy has fallen into recession. Investors are selling off bonds",
+      "lead_en": "The eurozone's second-largest economy, France, has been declining for the third consecutive quarter and is thus in recession. Gross domestic product, that is, the sum of everything the country produces, fell by 0.2 percent in the third quarter of this year. This is more than the preliminary estimate expected. France is burdened by high debt, budget difficulties, and political instability, which make further developments very uncertain.",
+      "translation_status": "review_required",
+      "translation_version": 5,
+      "validation_version": 5,
+      "translation_attempts": 1,
+      "translation_provider": "Microsoft Azure Translator",
+      "translation_method": "whole_headline_and_lead",
+      "translation_error": null,
+      "translation_warnings": [
+        "lead:missing_numeric_values"
+      ],
+      "topic_scores": {
+        "diplomacy": 0,
+        "military": 0,
+        "energy": 0,
+        "economy": 16,
+        "domestic_politics": 0,
+        "foreign_affairs": 0,
+        "local_events": 0
+      },
+      "matched_keywords": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          "macroeconomics",
+          "gdp_growth",
+          "currency",
+          "generic_budget"
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "classification_details": {
+        "diplomacy": [],
+        "military": [],
+        "energy": [],
+        "economy": [
+          {
+            "concept": "macroeconomics",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "gdp_growth",
+            "strength": 3,
+            "headline": false,
+            "lead": true,
+            "points": 6
+          },
+          {
+            "concept": "currency",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          },
+          {
+            "concept": "generic_budget",
+            "strength": 1,
+            "headline": false,
+            "lead": true,
+            "points": 2
+          }
+        ],
+        "domestic_politics": [],
+        "foreign_affairs": [],
+        "local_events": []
+      },
+      "topics": [
+        "economy"
+      ],
+      "relevant": true,
+      "primary_topic": "economy",
+      "classification_version": 5,
+      "translated_at_utc": "2026-11-28T01:14:32Z"
+    },
     {
       "id": "dc245a3d4c44f90e257d21d49352ff21c262d1ae",
       "fingerprint": "3ea7209dd7cb8e12d8e6f17d80e4e3ff0abddb14",
@@ -512,148 +603,6 @@
       "primary_topic": "domestic_politics",
       "classification_version": 5,
       "translated_at_utc": "2026-11-27T16:20:21Z"
-    },
-    {
-      "id": "8e44e312455e70dc7dac810bcfab5738de7ba5dc",
-      "fingerprint": "b2aee1b013e8b5cc8ed196dba07f200e3acece4a",
-      "source": "Seznam Zprávy",
-      "source_language": "cs",
-      "url": "https://www.seznamzpravy.cz/clanek/zahranicni-armada-usa-odpalila-v-obydlene-oblasti-pet-tun-toxickych-chemikalii-321544",
-      "published_utc": "2026-11-25T18:33:31Z",
-      "collected_at_utc": "2026-11-25T23:29:47Z",
-      "title_raw": "Armáda USA odpálila v obydlené oblasti pět tun toxických chemikálií",
-      "lead_raw": "Americká armáda nechala v Iowě i přes obavy o zdraví obyvatel odpálit pět tun nestabilních chemikálií. Úřady oblast evakuovali, toxický prach z exploze se však může dostat až sto šedesát kilometrů od místa výbuchu.",
-      "title_en": "The US military detonated five tons of toxic chemicals in a populated area",
-      "lead_en": "Despite concerns about the health of residents, the U.S. military detonated five tons of unstable chemicals in Iowa. Authorities evacuated the area, but toxic dust from the explosion can travel up to 160 kilometers from the explosion site.",
-      "translation_status": "review_required",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [
-        "lead:unexpected_numeric_values"
-      ],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 9,
-        "energy": 0,
-        "economy": 0,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [
-          "armed_forces"
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [
-          {
-            "concept": "armed_forces",
-            "strength": 3,
-            "headline": true,
-            "lead": true,
-            "points": 9
-          }
-        ],
-        "energy": [],
-        "economy": [],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "military"
-      ],
-      "relevant": true,
-      "primary_topic": "military",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T23:29:50Z"
-    },
-    {
-      "id": "f59527823b6b065023117de896aca8b7aa65b38b",
-      "fingerprint": "aa7a428d0e41072aca4eb50585f62f205cf7308a",
-      "source": "Novinky",
-      "source_language": "cs",
-      "url": "https://www.novinky.cz/clanek/koktejl-francouz-si-vezl-ze-sardinie-plazovy-pisek-v-plastovych-lahvich-ceka-ho-tucna-pokuta-40610483",
-      "published_utc": "2026-11-25T18:08:03Z",
-      "collected_at_utc": "2026-11-25T23:29:46Z",
-      "title_raw": "Francouz si vezl ze Sardinie plážový písek v plastových lahvích. Čeká ho tučná pokuta",
-      "lead_raw": "Při pokusu o vývoz asi deseti kilogramů písku z pláží na Sardinii přistihli italští celníci 74letého francouzského turistu. Jelikož něco takového regionální zákony přísně zakazují, hrozí provinilci pokuta až ve výši tří tisíc eur (přes 73 tisíc Kč).",
-      "title_en": "A Frenchman was bringing beach sand from Sardinia in plastic bottles. He faces a hefty fine",
-      "lead_en": "While attempting to export about ten kilograms of sand from beaches in Sardinia, Italian customs caught a 74-year-old French tourist. Since regional laws strictly prohibit such actions, the offender faces a fine of up to three thousand euros (over 73,000 CZK).",
-      "translation_status": "review_required",
-      "translation_version": 5,
-      "validation_version": 5,
-      "translation_attempts": 1,
-      "translation_provider": "Microsoft Azure Translator",
-      "translation_method": "whole_headline_and_lead",
-      "translation_error": null,
-      "translation_warnings": [
-        "lead:unexpected_numeric_values"
-      ],
-      "topic_scores": {
-        "diplomacy": 0,
-        "military": 0,
-        "energy": 0,
-        "economy": 8,
-        "domestic_politics": 0,
-        "foreign_affairs": 0,
-        "local_events": 0
-      },
-      "matched_keywords": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          "imports_exports",
-          "currency"
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "classification_details": {
-        "diplomacy": [],
-        "military": [],
-        "energy": [],
-        "economy": [
-          {
-            "concept": "imports_exports",
-            "strength": 3,
-            "headline": false,
-            "lead": true,
-            "points": 6
-          },
-          {
-            "concept": "currency",
-            "strength": 1,
-            "headline": false,
-            "lead": true,
-            "points": 2
-          }
-        ],
-        "domestic_politics": [],
-        "foreign_affairs": [],
-        "local_events": []
-      },
-      "topics": [
-        "economy"
-      ],
-      "relevant": true,
-      "primary_topic": "economy",
-      "classification_version": 5,
-      "translated_at_utc": "2026-11-25T23:29:50Z"
     }
   ]
 }
